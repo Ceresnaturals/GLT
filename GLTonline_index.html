@@ -141,7 +141,7 @@ body.view-cards tr.sel{border-color:var(--green);box-shadow:0 0 0 2px color-mix(
 body.view-cards td{display:flex;justify-content:space-between;align-items:center;gap:14px;
   text-align:right;padding:8px 15px;border:none;font-size:15px}
 body.view-cards td::before{content:attr(data-label);flex:none;text-align:left;
-  font-size:11px;text-transform:uppercase;letter-spacing:.07em;font-weight:700;color:var(--ink-faint)}
+  font-size:11px;text-transform:uppercase;letter-spacing:.07em;font-weight:700;color:var(--ink-soft)}
 body.view-cards td.c-prod{display:block;text-align:left;border-bottom:1px solid var(--line);padding:12px 15px 11px}
 body.view-cards td.c-prod::before{display:none}
 body.view-cards td.c-prod .pname{font-size:18px}
@@ -179,7 +179,7 @@ body.view-cards tr.grouphdr td::before{display:none}
   display:flex;gap:10px;align-items:center;flex-wrap:wrap;
   padding:14px clamp(14px,3vw,32px);border-bottom:1px solid var(--line);
 }
-.prefbar .lbl{font-size:12px;text-transform:uppercase;letter-spacing:.12em;color:var(--ink-faint);margin-right:2px}
+.prefbar .lbl{font-size:12px;text-transform:uppercase;letter-spacing:.12em;color:var(--ink-soft);margin-right:2px}
 .typebtn{
   font-family:'Fraunces',serif;font-weight:600;font-size:16px;
   padding:9px 20px;border-radius:999px;border:1.5px solid var(--line);
@@ -213,7 +213,7 @@ aside{
 .fgroup{margin-bottom:22px}
 .fgroup h3{
   font-size:11px;text-transform:uppercase;letter-spacing:.14em;
-  color:var(--ink-faint);margin-bottom:10px;display:flex;justify-content:space-between;
+  color:var(--ink-soft);margin-bottom:10px;display:flex;justify-content:space-between;
 }
 .chips{display:flex;flex-wrap:wrap;gap:7px}
 .chip{
@@ -247,10 +247,10 @@ main{padding:16px clamp(10px,2vw,26px) 60px;min-width:0}
 
 .tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:var(--radius);
   background:var(--paper-2);box-shadow:var(--shadow)}
-table{width:100%;border-collapse:collapse;min-width:820px}
+table{width:100%;border-collapse:collapse;min-width:960px;table-layout:fixed}
 thead th{
   position:sticky;top:0;background:var(--paper-2);z-index:2;
-  font-size:11px;text-transform:uppercase;letter-spacing:.09em;color:var(--ink-faint);
+  font-size:11px;text-transform:uppercase;letter-spacing:.09em;color:var(--ink-soft);
   text-align:left;padding:12px 12px;border-bottom:2px solid var(--line);cursor:pointer;white-space:nowrap;
 }
 thead th:hover{color:var(--green)}
@@ -260,7 +260,7 @@ tbody tr{border-bottom:1px solid var(--line);cursor:pointer;transition:backgroun
 tbody tr:last-child{border-bottom:none}
 tbody tr:hover{background:color-mix(in srgb,var(--glow) 12%,transparent)}
 tbody tr.sel{background:color-mix(in srgb,var(--green) 14%,transparent)}
-td{padding:11px 12px;vertical-align:middle;font-size:14px}
+td{padding:11px 12px;vertical-align:middle;font-size:14px;overflow:hidden}
 .pname{font-weight:600;line-height:1.25}
 .pbrand{font-size:12px;color:var(--ink-faint)}
 .badge{display:inline-block;font-size:11px;font-weight:700;padding:2px 9px;border-radius:999px;
@@ -293,11 +293,11 @@ td{padding:11px 12px;vertical-align:middle;font-size:14px}
 .thc small{font-size:10px;color:var(--ink-faint);font-weight:400}
 .terpchip{display:inline-flex;align-items:center;gap:5px;font-size:12px;color:var(--ink-soft)}
 .terpdot{width:9px;height:9px;border-radius:50%;flex:none}
-.terpbars{display:flex;flex-direction:column;gap:3px;min-width:210px}
+.terpbars{display:flex;flex-direction:column;gap:3px;min-width:0}
 .tbar{display:flex;align-items:center;gap:6px;font-size:11px;color:var(--ink-soft)}
 .tbar .tname{display:flex;align-items:center;gap:5px;width:98px;flex:none;color:var(--ink-soft)}
 .tbar .tname .txt{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.cannlist{display:flex;flex-wrap:wrap;gap:4px;max-width:210px}
+.cannlist{display:flex;flex-wrap:wrap;gap:4px;max-width:100%}
 .cannlist .cn{display:flex;flex-direction:column;align-items:center;line-height:1.15;
   border:1px solid var(--line);border-radius:6px;padding:2px 6px;min-width:36px}
 .cannlist .cn b{font-size:9px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--ink-faint)}
@@ -324,7 +324,7 @@ td{padding:11px 12px;vertical-align:middle;font-size:14px}
 .drawer .dh .x{margin-left:auto;background:none;border:none;font-size:24px;cursor:pointer;color:var(--ink-faint);line-height:1}
 .drawer .db{padding:18px 20px;overflow-y:auto}
 .selprofile{margin-bottom:8px}
-.section-t{font-size:11px;text-transform:uppercase;letter-spacing:.12em;color:var(--ink-faint);margin:16px 0 8px}
+.section-t{font-size:11px;text-transform:uppercase;letter-spacing:.12em;color:var(--ink-soft);margin:16px 0 8px}
 .rel{padding:12px;border:1px solid var(--line);border-radius:12px;margin-bottom:9px;cursor:pointer;transition:.12s}
 .rel:hover{border-color:var(--green);transform:translateY(-1px)}
 .rel .rt{display:flex;justify-content:space-between;gap:8px;align-items:baseline}
@@ -466,6 +466,16 @@ body.present .helpbtn{width:48px;height:48px;font-size:23px}
     </div>
     <div class="tablewrap">
       <table>
+        <colgroup>
+          <col style="width:20%">
+          <col style="width:9%">
+          <col style="width:11%">
+          <col style="width:16%">
+          <col style="width:22%">
+          <col style="width:7%">
+          <col style="width:6%">
+          <col style="width:9%">
+        </colgroup>
         <thead><tr>
           <th data-sort="name">Product <span class="ar"></span></th>
           <th data-sort="strain">Type</th>
