@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T16:03:21.910199+00:00",
+  "generated_at": "2026-07-06T16:08:55.424820+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor"
@@ -12,6 +12,7 @@
     "Pre-Roll",
     "Shake/Trim",
     "Tincture",
+    "Topical",
     "Vape"
   ],
   "products": [
@@ -650,36 +651,6 @@
       "dominantTerpene": null
     },
     {
-      "id": 8377886,
-      "packageCount": 1,
-      "name": "Avexia Lotion - Pain Relief - Infused Product - 60g",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Non-Edibles",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 5.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.18,
-        "totalCBD": 0.171,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.004,
-        "THCA": 0.0
-      },
-      "terpenes": {},
-      "totalTerps": 1.77,
-      "dominantTerpene": null
-    },
-    {
       "id": 8517920,
       "packageCount": 1,
       "name": "Beboe Gummy 100mg-Sweet Dreams (Raspberry Plum) (5:1 THC:CBN)(Thick)-Edible Product-5mg-20 Pieces",
@@ -1314,7 +1285,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 34.0,
+      "quantity": 33.0,
       "unit": "Grams",
       "strainName": "Candy Panties -BLVK MRKT",
       "strainType": null,
@@ -2821,6 +2792,36 @@
       },
       "terpenes": {},
       "totalTerps": 0.0,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8377886,
+      "packageCount": 1,
+      "name": "Avexia Lotion - Pain Relief - Infused Product - 60g",
+      "brand": null,
+      "category": "Topical",
+      "metrcCategory": "Infused Non-Edibles",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.18,
+        "totalCBD": 0.171,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.004,
+        "THCA": 0.0
+      },
+      "terpenes": {},
+      "totalTerps": 1.77,
       "dominantTerpene": null
     },
     {
