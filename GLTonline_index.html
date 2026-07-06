@@ -256,6 +256,8 @@ thead th{
 thead th:hover{color:var(--green)}
 thead th .ar{font-size:10px;color:var(--green)}
 th.num,td.num{text-align:right}
+th.thc-col,td.thc-col{text-align:left}
+td.type-col{padding-top:8px;padding-bottom:8px}
 tbody tr{border-bottom:1px solid var(--line);cursor:pointer;transition:background .1s}
 tbody tr:last-child{border-bottom:none}
 tbody tr:hover{background:color-mix(in srgb,var(--glow) 12%,transparent)}
@@ -263,7 +265,12 @@ tbody tr.sel{background:color-mix(in srgb,var(--green) 14%,transparent)}
 td{padding:11px 12px;vertical-align:middle;font-size:14px;overflow:hidden}
 .pname{font-weight:600;line-height:1.25}
 .pbrand{font-size:12px;color:var(--ink-faint)}
-.badge{display:inline-block;font-size:11px;font-weight:700;padding:2px 9px;border-radius:999px;
+.ptags{display:flex;flex-wrap:wrap;gap:5px;margin-top:4px}
+.tagchip{font-family:var(--font-num);font-size:10px;color:var(--ink-faint);
+  border:1px solid var(--line);border-radius:5px;padding:1px 6px}
+.tagchip b{font-weight:700;color:var(--ink-soft)}
+.badge{display:inline-flex;align-items:center;justify-content:center;font-size:11px;font-weight:700;
+  padding:3px 10px;border-radius:999px;min-width:64px;box-sizing:border-box;
   text-transform:uppercase;letter-spacing:.04em;color:#fff}
 .b-Indica{background:var(--indica)} .b-Sativa{background:var(--sativa)}
 .b-Hybrid{background:var(--hybrid)} .b-Unknown{background:var(--unknown)}
@@ -479,7 +486,7 @@ body.present .helpbtn{width:48px;height:48px;font-size:23px}
         <thead><tr>
           <th data-sort="name">Product <span class="ar"></span></th>
           <th data-sort="strain">Type</th>
-          <th class="num" data-sort="totalTHC">THC <span class="ar"></span></th>
+          <th class="thc-col" data-sort="totalTHC">THC <span class="ar"></span></th>
           <th>Other cannabinoids</th>
           <th>Top terpenes</th>
           <th class="num" data-sort="totalTerps">Terps <span class="ar"></span></th>
@@ -872,6 +879,13 @@ function typeBadge(p){
     : (cls==='Unknown'?'No type available':'Manufacturer label');
   return `<span class="badge b-${cls}${est?' est':''}" title="${tip}">${cls}${est?' <span class="estmark">≈</span>':''}</span>`;
 }
+// package tags (last 7 digits of the METRC package id) + current qty, for POS lookup
+function tagList(p){
+  const pkgs=p.packages||[];
+  if(!pkgs.length) return '';
+  const items=pkgs.map(pk=>`<span class="tagchip">#${pk.tag} <b>${pk.quantity}</b></span>`).join('');
+  return `<div class="ptags">${items}</div>`;
+}
 function rowHtml(p){
   const cls=p._cls||'Unknown';
   const tt=topTerps(p);
@@ -887,10 +901,11 @@ function rowHtml(p){
       <span class="tv">${v.toFixed(2)}</span>
     </div>`;
   }).join('') || '<span style="color:var(--ink-faint);font-size:12px">no lab data</span>';
+  const tagsHtml = tagList(p);
   return `<tr data-id="${p.id}">
-    <td class="c-prod"><div class="pname">${p.strainName||p.name}</div><div class="pbrand">${sub||'&nbsp;'}</div></td>
-    <td data-label="Type">${typeBadge(p)}</td>
-    <td class="num" data-label="THC">${thcCell(p)}</td>
+    <td class="c-prod"><div class="pname">${p.strainName||p.name}</div><div class="pbrand">${sub||'&nbsp;'}</div>${tagsHtml}</td>
+    <td class="type-col" data-label="Type">${typeBadge(p)}</td>
+    <td class="thc-col" data-label="THC">${thcCell(p)}</td>
     <td class="c-cann stack" data-label="Other cannabinoids">${otherCann(p)}</td>
     <td class="c-terps stack" data-label="Top terpenes"><div class="terpbars">${bars}</div></td>
     <td class="num mono" data-label="Total terps">${p.totalTerps!=null?p.totalTerps.toFixed(2):'—'}</td>
@@ -1045,6 +1060,7 @@ function openDrawer(id){
       <span class="chip" style="cursor:default">Total terps ${p.totalTerps!=null?p.totalTerps.toFixed(2):'—'}%</span>
       <span class="chip" style="cursor:default">Qty ${p.quantity} · ${(p.locations||[]).join(', ')}</span>
     </div>
+    ${tagList(p)}
     ${effectHtml}
     <div class="section-t">Terpene profile</div>
     <div class="terpbars">${profileTerps}</div>
