@@ -265,10 +265,6 @@ tbody tr.sel{background:color-mix(in srgb,var(--green) 14%,transparent)}
 td{padding:11px 12px;vertical-align:middle;font-size:14px;overflow:hidden}
 .pname{font-weight:600;line-height:1.25}
 .pbrand{font-size:12px;color:var(--ink-faint)}
-.ptags{display:flex;flex-wrap:wrap;gap:5px;margin-top:4px}
-.tagchip{font-family:var(--font-num);font-size:10px;color:var(--ink-faint);
-  border:1px solid var(--line);border-radius:5px;padding:1px 6px}
-.tagchip b{font-weight:700;color:var(--ink-soft)}
 .badge{display:inline-flex;align-items:center;justify-content:center;font-size:11px;font-weight:700;
   padding:3px 10px;border-radius:999px;min-width:64px;box-sizing:border-box;
   text-transform:uppercase;letter-spacing:.04em;color:#fff}
@@ -879,13 +875,6 @@ function typeBadge(p){
     : (cls==='Unknown'?'No type available':'Manufacturer label');
   return `<span class="badge b-${cls}${est?' est':''}" title="${tip}">${cls}${est?' <span class="estmark">≈</span>':''}</span>`;
 }
-// package tags (last 7 digits of the METRC package id) + current qty, for POS lookup
-function tagList(p){
-  const pkgs=p.packages||[];
-  if(!pkgs.length) return '';
-  const items=pkgs.map(pk=>`<span class="tagchip">#${pk.tag} <b>${pk.quantity}</b></span>`).join('');
-  return `<div class="ptags">${items}</div>`;
-}
 function rowHtml(p){
   const cls=p._cls||'Unknown';
   const tt=topTerps(p);
@@ -901,9 +890,8 @@ function rowHtml(p){
       <span class="tv">${v.toFixed(2)}</span>
     </div>`;
   }).join('') || '<span style="color:var(--ink-faint);font-size:12px">no lab data</span>';
-  const tagsHtml = tagList(p);
   return `<tr data-id="${p.id}">
-    <td class="c-prod"><div class="pname">${p.strainName||p.name}</div><div class="pbrand">${sub||'&nbsp;'}</div>${tagsHtml}</td>
+    <td class="c-prod"><div class="pname">${p.strainName||p.name}</div><div class="pbrand">${sub||'&nbsp;'}</div></td>
     <td class="type-col" data-label="Type">${typeBadge(p)}</td>
     <td class="thc-col" data-label="THC">${thcCell(p)}</td>
     <td class="c-cann stack" data-label="Other cannabinoids">${otherCann(p)}</td>
@@ -1060,7 +1048,6 @@ function openDrawer(id){
       <span class="chip" style="cursor:default">Total terps ${p.totalTerps!=null?p.totalTerps.toFixed(2):'—'}%</span>
       <span class="chip" style="cursor:default">Qty ${p.quantity} · ${(p.locations||[]).join(', ')}</span>
     </div>
-    ${tagList(p)}
     ${effectHtml}
     <div class="section-t">Terpene profile</div>
     <div class="terpbars">${profileTerps}</div>
