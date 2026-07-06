@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T16:17:46.891340+00:00",
+  "generated_at": "2026-07-06T16:38:23.695900+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor"
@@ -91,12 +91,12 @@
         "alpha-pinene": 0.41,
         "caryophyllene": 2.05,
         "beta-pinene": 0.31,
-        "limonene": 1.85,
-        "linalool": 0.23,
+        "limonene": 2.95,
+        "linalool": 0.72,
         "terpinolene": 0.07
       },
-      "totalTerps": 7.05,
-      "dominantTerpene": "myrcene"
+      "totalTerps": 11.43,
+      "dominantTerpene": "limonene"
     },
     {
       "id": 8575647,
@@ -273,27 +273,36 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Strawberry Shortcake",
       "strainType": "Indica",
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 19.32,
-        "totalCBD": 0.07,
+        "totalTHC": 43.0,
+        "totalCBD": 0.04,
         "CBC": 0.0,
-        "CBDA": 0.0,
+        "CBDA": 0.05,
         "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.32,
+        "CBG": 0.14,
+        "CBGA": 1.09,
         "CBN": 0.0,
-        "THCA": 21.72,
-        "THCV": 0.13
+        "THCA": 46.88,
+        "THCV": 0.24
       },
       "dose": null,
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.08,
+        "myrcene": 0.06,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.42,
+        "beta-pinene": 0.02,
+        "limonene": 0.16,
+        "linalool": 0.41
+      },
+      "totalTerps": 1.46,
+      "dominantTerpene": "caryophyllene"
     },
     {
       "id": 8575648,
@@ -311,7 +320,7 @@
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 71.72,
+        "totalTHC": 65.3,
         "totalCBD": 0.17,
         "CBC": 0.0,
         "CBDA": 0.19,
@@ -320,7 +329,7 @@
         "CBGA": 1.26,
         "CBN": 0.0,
         "THCA": 76.05,
-        "THCV": 0.52
+        "THCV": 0.54
       },
       "dose": null,
       "terpenes": {
@@ -328,12 +337,12 @@
         "myrcene": 2.98,
         "alpha-pinene": 0.37,
         "caryophyllene": 2.61,
-        "beta-pinene": 0.42,
+        "beta-pinene": 0.33,
         "limonene": 3.06,
-        "linalool": 1.32,
+        "linalool": 1.19,
         "terpinolene": 0.07
       },
-      "totalTerps": 12.7,
+      "totalTerps": 13.19,
       "dominantTerpene": "limonene"
     },
     {
@@ -395,40 +404,37 @@
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 25.44,
-        "totalCBD": 0.24,
-        "CBDA": 0.04,
-        "CBG": 0.22,
-        "CBN": 0.01,
-        "THCA": 28.77
+        "totalTHC": 0.003,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
       },
       "dose": {
         "servingSize": "1 Can",
         "totalThcMg": 10.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 816.466,
-          "CBDA": 136.078,
-          "CBG": 748.427,
-          "CBN": 34.019,
-          "THCA": 97873.814
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
         },
         "minorsEstimated": true
       },
-      "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.19,
-        "myrcene": 0.9896,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.45,
-        "beta-pinene": 0.11,
-        "ocimene": 0.01,
-        "limonene": 0.62,
-        "linalool": 0.01,
-        "terpinolene": 0.03
-      },
-      "totalTerps": 2.16,
-      "dominantTerpene": "myrcene"
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
     },
     {
       "id": 8673038,
@@ -446,39 +452,37 @@
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 25.44,
-        "totalCBD": 0.4,
-        "CBDA": 0.04,
-        "CBG": 0.1,
-        "CBN": 0.01,
-        "THCA": 24.53
+        "totalTHC": 0.003,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
       },
       "dose": {
         "servingSize": "1 Can",
         "totalThcMg": 10.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 1360.776,
-          "CBDA": 136.078,
-          "CBG": 340.194,
-          "CBN": 34.019,
-          "THCA": 83449.588
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
         },
         "minorsEstimated": true
       },
-      "terpenes": {
-        "humulene": 0.22,
-        "myrcene": 0.36,
-        "alpha-pinene": 0.09,
-        "caryophyllene": 0.44,
-        "beta-pinene": 0.09,
-        "ocimene": 0.02,
-        "limonene": 0.61,
-        "linalool": 0.01,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 2.38,
-      "dominantTerpene": "limonene"
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
     },
     {
       "id": 8609568,
@@ -496,40 +500,37 @@
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 25.44,
-        "totalCBD": 0.4,
-        "CBDA": 0.04,
-        "CBG": 0.45,
-        "CBN": 0.01,
-        "THCA": 28.77
+        "totalTHC": 0.003,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
       },
       "dose": {
         "servingSize": "1 Can",
         "totalThcMg": 10.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 1360.776,
-          "CBDA": 136.078,
-          "CBG": 1530.873,
-          "CBN": 34.019,
-          "THCA": 97873.814
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
         },
         "minorsEstimated": true
       },
-      "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.22,
-        "myrcene": 0.75,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.44,
-        "beta-pinene": 0.11,
-        "ocimene": 0.01,
-        "limonene": 0.61,
-        "linalool": 0.01,
-        "terpinolene": 0.03
-      },
-      "totalTerps": 2.38,
-      "dominantTerpene": "myrcene"
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
     },
     {
       "id": 8672892,
@@ -547,39 +548,37 @@
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 21.73,
-        "totalCBD": 0.4,
+        "totalTHC": 0.003,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
         "CBDA": 0.0,
-        "CBG": 0.22,
-        "CBN": 0.1,
-        "THCA": 24.53
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
       },
       "dose": {
         "servingSize": "1 Can",
         "totalThcMg": 10.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 1360.776,
+          "totalCBD": 0.0,
+          "CBC": 0.0,
           "CBDA": 0.0,
-          "CBG": 748.427,
-          "CBN": 340.194,
-          "THCA": 83449.588
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
         },
         "minorsEstimated": true
       },
-      "terpenes": {
-        "humulene": 0.19,
-        "myrcene": 0.75,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 0.45,
-        "beta-pinene": 0.09,
-        "ocimene": 0.02,
-        "limonene": 0.62,
-        "linalool": 0.16,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 2.16,
-      "dominantTerpene": "myrcene"
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
     },
     {
       "id": 8649415,
@@ -597,39 +596,37 @@
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 21.73,
-        "totalCBD": 0.21,
-        "CBDA": 0.04,
-        "CBG": 0.22,
-        "CBN": 0.1,
-        "THCA": 24.53
+        "totalTHC": 0.003,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
       },
       "dose": {
         "servingSize": "1 Can",
         "totalThcMg": 10.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 714.407,
-          "CBDA": 136.078,
-          "CBG": 748.427,
-          "CBN": 340.194,
-          "THCA": 83449.588
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
         },
         "minorsEstimated": true
       },
-      "terpenes": {
-        "humulene": 0.22,
-        "myrcene": 0.36,
-        "alpha-pinene": 0.09,
-        "caryophyllene": 0.44,
-        "beta-pinene": 0.09,
-        "ocimene": 0.02,
-        "limonene": 0.61,
-        "linalool": 0.16,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 2.38,
-      "dominantTerpene": "limonene"
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
     },
     {
       "id": 8606854,
@@ -3627,27 +3624,31 @@
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 23.81,
-        "totalCBD": 0.29,
-        "CBDA": 0.06,
-        "CBG": 0.57,
-        "CBN": 0.01,
-        "THCA": 30.46
+        "totalTHC": 80.92,
+        "totalCBD": 0.22,
+        "CBC": 0.43,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.06,
+        "CBGA": 0.0,
+        "CBN": 0.32,
+        "THCA": 0.0,
+        "THCV": 0.78
       },
       "dose": null,
       "terpenes": {
-        "bisabolol": 0.0526,
-        "humulene": 0.1675,
-        "myrcene": 1.0311,
-        "alpha-pinene": 0.0685,
-        "caryophyllene": 0.3304,
-        "beta-pinene": 0.0709,
-        "limonene": 0.75,
-        "linalool": 0.008,
-        "terpinolene": 0.0311
+        "humulene": 0.19,
+        "myrcene": 1.44,
+        "alpha-pinene": 1.63,
+        "caryophyllene": 0.78,
+        "beta-pinene": 0.87,
+        "ocimene": 0.13,
+        "limonene": 1.61,
+        "linalool": 1.04,
+        "terpinolene": 0.22
       },
-      "totalTerps": 1.91,
-      "dominantTerpene": "myrcene"
+      "totalTerps": 8.83,
+      "dominantTerpene": "alpha-pinene"
     },
     {
       "id": 7615826,
