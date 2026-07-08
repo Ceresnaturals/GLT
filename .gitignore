@@ -1,0 +1,9 @@
+# Secrets — never commit
+metrc.env
+*.env
+
+# Local cache / Python artifacts — should never end up here, but guard
+# against an accidental copy from register-tool
+cache/
+__pycache__/
+*.pyc
