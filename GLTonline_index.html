@@ -889,7 +889,7 @@ function rowHtml(p){
       <span class="track"><span class="fill" style="width:${Math.max(4,Math.min(100,pct))}%;background:${terpColor(t)}"></span></span>
       <span class="tv">${v.toFixed(2)}</span>
     </div>`;
-  }).join('') || '<span style="color:var(--ink-faint);font-size:12px">no lab data</span>';
+  }).join('') || '<span style="color:var(--ink-faint);font-size:12px">Not tested for terpenes</span>';
   return `<tr data-id="${p.id}">
     <td class="c-prod"><div class="pname">${p.strainName||p.name}</div><div class="pbrand">${sub||'&nbsp;'}</div></td>
     <td class="type-col" data-label="Type">${typeBadge(p)}</td>
