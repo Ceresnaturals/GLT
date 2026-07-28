@@ -941,6 +941,7 @@ function productType(p){
 /* ============================================================
    SORTING via header + preset buttons  (multi-sort)
    ============================================================ */
+const DEFAULT_SORT = {key:'name', dir:1};
 function toggleSort(key, additive){
   const existing = state.sorts.find(s=>s.key===key);
   // numeric fields default to descending (high THC first); text ascending
@@ -948,7 +949,15 @@ function toggleSort(key, additive){
   const defaultDir = textKeys.has(key)? 1 : -1;
   if(existing){
     if(!additive && state.sorts.length>1) state.sorts=[existing];
-    existing.dir *= -1;
+    if(existing.dir===defaultDir){
+      existing.dir *= -1;
+    } else if(key===DEFAULT_SORT.key){
+      existing.dir = defaultDir;
+    } else {
+      // third click: clear this sort, fall back to default
+      state.sorts = state.sorts.filter(s=>s.key!==key);
+      if(state.sorts.length===0) state.sorts=[{...DEFAULT_SORT}];
+    }
   } else {
     const entry={key,dir:defaultDir};
     state.sorts = additive ? [...state.sorts, entry] : [entry];
