@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T14:00:29.135766+00:00",
+  "generated_at": "2026-07-31T14:30:21.853239+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor"
@@ -315,7 +315,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Blueberry Kush",
       "strainType": "Indica",
@@ -384,6 +384,46 @@
       },
       "totalTerps": 1.1,
       "dominantTerpene": "terpinolene"
+    },
+    {
+      "id": 8757229,
+      "packageCount": 1,
+      "name": "SwampWater Fumez Live Rosin Cold Cure 1.0g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 7.0,
+      "unit": "Each",
+      "strainName": "SwampWater Fumez",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 72.17,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 7.26,
+        "CBN": 0.0,
+        "THCA": 82.29,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.28,
+        "humulene": 1.01,
+        "myrcene": 0.17,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 3.03,
+        "beta-pinene": 0.25,
+        "limonene": 2.58,
+        "linalool": 1.87
+      },
+      "totalTerps": 9.95,
+      "dominantTerpene": "caryophyllene"
     },
     {
       "id": 7786272,
@@ -1472,7 +1512,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Grams",
       "strainName": "Candy Panties -BLVK MRKT",
       "strainType": null,
