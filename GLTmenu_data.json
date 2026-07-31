@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T13:30:23.154254+00:00",
+  "generated_at": "2026-07-31T14:00:29.135766+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor"
@@ -10,6 +10,7 @@
     "Edible",
     "Flower",
     "Pre-Roll",
+    "Shake/Trim",
     "Tincture",
     "Topical",
     "Vape"
@@ -303,6 +304,86 @@
       },
       "totalTerps": 1.8,
       "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8746258,
+      "packageCount": 1,
+      "name": "Rythm 5 Pack (Infused) - Blueberry Kush (Indica Dominant) - Concentrate - 2.5g",
+      "brand": "Rythm",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 11.0,
+      "unit": "Each",
+      "strainName": "Blueberry Kush",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 44.05,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.11,
+        "CBGA": 0.65,
+        "CBN": 0.0,
+        "THCA": 48.58,
+        "THCV": 0.27
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.05,
+        "caryophyllene": 0.29,
+        "beta-pinene": 0.02,
+        "caryophyllene-oxide": 0.02,
+        "limonene": 0.19,
+        "linalool": 0.22,
+        "terpinolene": 0.07
+      },
+      "totalTerps": 0.96,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8746345,
+      "packageCount": 1,
+      "name": "Rythm 5 Pack (Infused) - Durban Poison (Sativa Dominant) - Concentrate - 2.5g",
+      "brand": "Rythm",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Durban Poison",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 39.63,
+        "totalCBD": 0.03,
+        "CBC": 0.0,
+        "CBDA": 0.03,
+        "CBDV": 0.0,
+        "CBG": 0.09,
+        "CBGA": 0.56,
+        "CBN": 0.0,
+        "THCA": 43.25,
+        "THCV": 0.16
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.04,
+        "myrcene": 0.16,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.17,
+        "beta-pinene": 0.05,
+        "linalool": 0.13,
+        "terpinolene": 0.27
+      },
+      "totalTerps": 1.1,
+      "dominantTerpene": "terpinolene"
     },
     {
       "id": 7786272,
@@ -672,6 +753,52 @@
           "CBG": 0.2,
           "CBGA": 0.0,
           "CBN": 0.16,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8738017,
+      "packageCount": 1,
+      "name": "Curio Wellness Pink Cotton 10mg Chews-Edible Product-10mg-10",
+      "brand": "Curio Wellness",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 19.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.239,
+        "CBC": 0.003,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.009,
+        "CBGA": 0.0,
+        "CBN": 0.009,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.12,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.36,
+          "CBGA": 0.0,
+          "CBN": 0.36,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -2296,6 +2423,47 @@
       "dominantTerpene": "limonene"
     },
     {
+      "id": 8780739,
+      "packageCount": 1,
+      "name": "Multi Pack- Red Zushi Pre-Rolls (x7 0.5g Joints) 3.5g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 87.5,
+      "unit": "Grams",
+      "strainName": "Red Zushi 1",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.82,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.36,
+        "CBN": 0.0,
+        "THCA": 25.83,
+        "THCV": 0.05
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.13,
+        "myrcene": 0.21,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.39,
+        "eudesmol": 0.12,
+        "beta-pinene": 0.09,
+        "limonene": 0.75,
+        "linalool": 0.17,
+        "nerolidol": 0.05
+      },
+      "totalTerps": 2.21,
+      "dominantTerpene": "limonene"
+    },
+    {
       "id": 7794052,
       "packageCount": 1,
       "name": "NH Bapple Fritz Infused Preroll-Concentrate-.5g 2pk",
@@ -2456,6 +2624,46 @@
         "linalool": 0.21
       },
       "totalTerps": 2.17,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8637959,
+      "packageCount": 1,
+      "name": "Shake/Trim - SDG OG",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 180.0,
+      "unit": "Grams",
+      "strainName": "SDG OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.27,
+        "totalCBD": 0.3,
+        "CBDA": 0.06,
+        "CBG": 0.55,
+        "CBN": 0.0,
+        "THCA": 33.99
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.04,
+        "humulene": 0.27,
+        "myrcene": 0.54,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.82,
+        "beta-pinene": 0.06,
+        "ocimene": 0.01,
+        "limonene": 0.41,
+        "linalool": 0.15,
+        "terpinolene": 0.02,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.48,
       "dominantTerpene": "caryophyllene"
     },
     {
@@ -2631,6 +2839,48 @@
       },
       "totalTerps": 7.32,
       "dominantTerpene": "myrcene"
+    },
+    {
+      "id": 8731416,
+      "packageCount": 1,
+      "name": "Banana Munson Vape 0.5g/500mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Banana Munson",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.47,
+        "totalCBD": 0.22,
+        "CBC": 1.07,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.82,
+        "CBGA": 0.0,
+        "CBN": 0.25,
+        "THCA": 0.0,
+        "THCV": 0.94
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.04,
+        "myrcene": 2.59,
+        "alpha-pinene": 1.31,
+        "caryophyllene": 0.29,
+        "beta-pinene": 1.01,
+        "ocimene": 0.19,
+        "limonene": 2.82,
+        "linalool": 0.1,
+        "terpinolene": 0.11
+      },
+      "totalTerps": 9.4,
+      "dominantTerpene": "limonene"
     },
     {
       "id": 7823397,
