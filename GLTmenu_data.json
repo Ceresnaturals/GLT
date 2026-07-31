@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T16:30:23.669470+00:00",
+  "generated_at": "2026-07-31T17:00:45.383504+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor"
@@ -906,7 +906,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -1512,7 +1512,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 157.5,
+      "quantity": 154.0,
       "unit": "Grams",
       "strainName": "BBM x GC5",
       "strainType": null,
@@ -2073,7 +2073,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.5,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Pineapple Bang 5",
       "strainType": null,
@@ -2593,7 +2593,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 87.5,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
@@ -2797,7 +2797,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 90.0,
+      "quantity": 85.0,
       "unit": "Grams",
       "strainName": "Berry Trix",
       "strainType": null,
@@ -2971,7 +2971,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Apple Jack",
       "strainType": null,
@@ -3574,6 +3574,45 @@
         "terpinolene": 0.05
       },
       "totalTerps": 1.88,
+      "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8731187,
+      "packageCount": 1,
+      "name": "Super Sour Diesel DV 0.5g/500mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Super Sour Diesel DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.44,
+        "totalCBD": 0.15,
+        "CBC": 0.56,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.05,
+        "CBGA": 0.0,
+        "CBN": 0.33,
+        "THCA": 0.0,
+        "THCV": 0.23
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 2.4,
+        "alpha-pinene": 1.05,
+        "caryophyllene": 0.15,
+        "beta-pinene": 0.94,
+        "limonene": 2.52,
+        "terpinolene": 0.18
+      },
+      "totalTerps": 8.39,
       "dominantTerpene": "limonene"
     },
     {
