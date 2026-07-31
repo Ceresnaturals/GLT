@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T17:00:45.383504+00:00",
+  "generated_at": "2026-07-31T17:30:27.318261+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor"
@@ -315,7 +315,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Blueberry Kush",
       "strainType": "Indica",
@@ -355,7 +355,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Durban Poison",
       "strainType": "Sativa",
@@ -395,7 +395,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "SwampWater Fumez",
       "strainType": null,
@@ -849,6 +849,52 @@
       "dominantTerpene": null
     },
     {
+      "id": 8738113,
+      "packageCount": 1,
+      "name": "Curio Wellness Sleep 2:1 Blueberry Chews-Edible Product-5mg-10",
+      "brand": "Curio Wellness",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.127,
+        "CBC": 0.001,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.005,
+        "CBGA": 0.0,
+        "CBN": 0.255,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 50.0,
+        "thcMgPerServing": 5.0,
+        "minorsMgPerServing": {
+          "CBC": 0.04,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.2,
+          "CBGA": 0.0,
+          "CBN": 10.2,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
       "id": 8631016,
       "packageCount": 1,
       "name": "Disco - Dark Chocolate (Fel) - Edible Product - 10mg - 10",
@@ -906,7 +952,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -1319,6 +1365,150 @@
       "dominantTerpene": null
     },
     {
+      "id": 8676360,
+      "packageCount": 1,
+      "name": "Incredibles Gummy Fast Acting Greener Apple 400mg -Exempt-40mg-10 Pieces",
+      "brand": "Incredibles",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.71,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.08,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 4.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8721791,
+      "packageCount": 1,
+      "name": "Incredibles Gummy Mon Cherry 400mg - Exempt - 40mg - 10",
+      "brand": "Incredibles",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 22.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.75,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.06,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 3.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8721792,
+      "packageCount": 1,
+      "name": "Incredibles Gummy Summer Peach 400mg - Exempt - 40mg - 10 Pieces",
+      "brand": "Incredibles",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.75,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.07,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 3.5,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
       "id": 8637957,
       "packageCount": 1,
       "name": "Sunnies - SDG OG - Peaches & Cream Live Resin Gummies - Edible Product - 10mg - 10Pcs",
@@ -1351,6 +1541,54 @@
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
           "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8689786,
+      "packageCount": 1,
+      "name": "Vibations Half & Half Iced Tea Drink Mix V2-Edible Product-10mg-10",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 17.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.1,
+        "totalCBD": 0.105,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 10.805,
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
@@ -1951,7 +2189,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 112.0,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Mimosa Kush Mints",
       "strainType": null,
@@ -2310,7 +2548,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.5,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "Permanent Cherries",
       "strainType": null,
@@ -2797,7 +3035,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 85.0,
+      "quantity": 75.0,
       "unit": "Grams",
       "strainName": "Berry Trix",
       "strainType": null,
