@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T15:00:40.870005+00:00",
+  "generated_at": "2026-07-31T15:30:23.793890+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor"
@@ -478,7 +478,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -574,7 +574,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -1673,7 +1673,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 52.5,
+      "quantity": 49.0,
       "unit": "Grams",
       "strainName": "G-Funk",
       "strainType": null,
@@ -2262,6 +2262,48 @@
       "dominantTerpene": "limonene"
     },
     {
+      "id": 8375140,
+      "packageCount": 1,
+      "name": "Culta Pre-Roll - 5 x 0.5g - Permanent Cherries",
+      "brand": "Culta",
+      "category": "Pre-Roll",
+      "metrcCategory": "Shake/Trim",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 22.5,
+      "unit": "Grams",
+      "strainName": "Permanent Cherries",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.56,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.1,
+        "CBGA": 1.11,
+        "CBN": 0.0,
+        "THCA": 27.31,
+        "THCV": 0.07
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.07,
+        "myrcene": 0.29,
+        "alpha-pinene": 0.14,
+        "caryophyllene": 0.27,
+        "eudesmol": 0.15,
+        "beta-pinene": 0.13,
+        "ocimene": 0.04,
+        "limonene": 1.17,
+        "linalool": 0.32,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.01,
+      "dominantTerpene": "limonene"
+    },
+    {
       "id": 7828094,
       "packageCount": 1,
       "name": "Fade Co Pre-Roll Pack (All Gas OG) - Usable - 2.5g",
@@ -2716,7 +2758,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 100.0,
+      "quantity": 90.0,
       "unit": "Grams",
       "strainName": "Berry Trix",
       "strainType": null,
@@ -2756,7 +2798,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 180.0,
+      "quantity": 166.0,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -2879,6 +2921,48 @@
       "terpenes": {},
       "totalTerps": 1.77,
       "dominantTerpene": null
+    },
+    {
+      "id": 8731180,
+      "packageCount": 1,
+      "name": "Airo Pod Apple Jack 0.5g/500mg",
+      "brand": "Airo",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Apple Jack",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 78.63,
+        "totalCBD": 0.23,
+        "CBC": 0.9,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.68,
+        "CBGA": 0.0,
+        "CBN": 0.59,
+        "THCA": 0.0,
+        "THCV": 0.87
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.11,
+        "myrcene": 0.42,
+        "alpha-pinene": 0.14,
+        "caryophyllene": 0.54,
+        "beta-pinene": 0.13,
+        "caryophyllene-oxide": 0.03,
+        "limonene": 4.15,
+        "linalool": 0.05,
+        "terpinolene": 0.75
+      },
+      "totalTerps": 6.46,
+      "dominantTerpene": "limonene"
     },
     {
       "id": 8385592,
@@ -3220,7 +3304,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "L'Orange",
       "strainType": "Sativa",
@@ -3261,7 +3345,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Grape Ape",
       "strainType": null,
