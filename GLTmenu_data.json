@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T15:00:33.449476+00:00",
+  "generated_at": "2026-08-04T15:30:20.531771+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor"
@@ -341,6 +341,46 @@
       "dominantTerpene": "limonene"
     },
     {
+      "id": 8689852,
+      "packageCount": 1,
+      "name": "NH Lemon Margy Kief-Concentrate-1g",
+      "brand": "NH",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Lemon Margy",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 35.1,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.03,
+        "CBN": 0.0,
+        "THCA": 38.09,
+        "THCV": 0.43
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.07,
+        "myrcene": 0.08,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.14,
+        "beta-pinene": 0.07,
+        "ocimene": 0.19,
+        "limonene": 0.15,
+        "terpinolene": 0.58
+      },
+      "totalTerps": 1.54,
+      "dominantTerpene": "terpinolene"
+    },
+    {
       "id": 8746345,
       "packageCount": 1,
       "name": "Rythm 5 Pack (Infused) - Durban Poison (Sativa Dominant) - Concentrate - 2.5g",
@@ -606,6 +646,98 @@
           "CBG": 0.0,
           "CBGA": 0.0,
           "CBN": 0.069,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8766930,
+      "packageCount": 1,
+      "name": "Betty's Eddies Orange Creme V3 Fruit Chews-Edible Product-10mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 15.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.127,
+        "CBC": 0.069,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.005,
+        "CBGA": 0.0,
+        "CBN": 0.064,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.49,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.036,
+          "CBGA": 0.0,
+          "CBN": 0.454,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8766842,
+      "packageCount": 1,
+      "name": "Betty's Eddies Pineapple Orange V3 Fruit Chews-Edible Product-10mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.14,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.035,
+        "CBG": 0.065,
+        "CBGA": 0.0,
+        "CBN": 0.001,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.014,
+          "CBDA": 0.0,
+          "CBDV": 0.249,
+          "CBG": 0.461,
+          "CBGA": 0.0,
+          "CBN": 0.007,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -1084,6 +1216,54 @@
       "dominantTerpene": null
     },
     {
+      "id": 8766941,
+      "packageCount": 1,
+      "name": "In House Cherry Lemonade Fast Acting V2 Gummies-Edible Product-10mg-10",
+      "brand": "In House",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 13.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.2,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
       "id": 8518547,
       "packageCount": 1,
       "name": "In House Peach Mango Fast Acting V2 Gummies-Exempt-40mg-10",
@@ -1233,7 +1413,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -1425,7 +1605,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -1597,6 +1777,46 @@
         "nerolidol": 0.08
       },
       "totalTerps": 1.31,
+      "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8678469,
+      "packageCount": 1,
+      "name": "1937|Trim|Private Reserve OG|Usable|Bulk|454g",
+      "brand": "1937",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 3.5,
+      "unit": "Grams",
+      "strainName": "Private Reserve OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 18.48,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.38,
+        "CBN": 0.0,
+        "THCA": 20.23,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.09,
+        "myrcene": 0.23,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.32,
+        "beta-pinene": 0.07,
+        "limonene": 0.45,
+        "linalool": 0.2
+      },
+      "totalTerps": 1.69,
       "dominantTerpene": "limonene"
     },
     {
@@ -2686,6 +2906,45 @@
       "dominantTerpene": "limonene"
     },
     {
+      "id": 8521745,
+      "packageCount": 1,
+      "name": "Kind Tree | Pre-Rolls | Multipack | Pink Guava - Usable - 5pk/1.75g",
+      "brand": "Kind Tree",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.5,
+      "unit": "Grams",
+      "strainName": "Pink Guava",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.4,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.67,
+        "CBN": 0.0,
+        "THCA": 26.77,
+        "THCV": 0.09
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.06,
+        "myrcene": 0.31,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.23,
+        "beta-pinene": 0.05,
+        "limonene": 0.3,
+        "linalool": 0.18
+      },
+      "totalTerps": 1.27,
+      "dominantTerpene": "myrcene"
+    },
+    {
       "id": 7794052,
       "packageCount": 1,
       "name": "NH Bapple Fritz Infused Preroll-Concentrate-.5g 2pk",
@@ -3487,7 +3746,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "MD VP MDSSVD 05CR",
       "strainType": null,
