@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T14:00:30.974447+00:00",
+  "generated_at": "2026-08-04T14:30:23.434456+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor"
@@ -88,6 +88,48 @@
       },
       "totalTerps": 0.16,
       "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8731188,
+      "packageCount": 1,
+      "name": "Chem de la Chem Live Resin Batter 1.0g/1000mg",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 14.0,
+      "unit": "Each",
+      "strainName": "Chem de la Chem",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 71.55,
+        "totalCBD": 0.14,
+        "CBC": 0.0,
+        "CBDA": 0.16,
+        "CBDV": 0.0,
+        "CBG": 0.29,
+        "CBGA": 2.23,
+        "CBN": 0.0,
+        "THCA": 80.32,
+        "THCV": 0.59
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 1.28,
+        "myrcene": 4.32,
+        "alpha-pinene": 0.32,
+        "caryophyllene": 2.71,
+        "beta-pinene": 0.43,
+        "ocimene": 0.05,
+        "limonene": 3.04,
+        "linalool": 0.65,
+        "terpinolene": 0.07
+      },
+      "totalTerps": 13.56,
+      "dominantTerpene": "myrcene"
     },
     {
       "id": 7518025,
@@ -706,6 +748,52 @@
           "CBN": 0.36,
           "THCA": 0.0,
           "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8678611,
+      "packageCount": 1,
+      "name": "Curio Wellness Sleep 1:5:20 Blueberry Chews-Exempt-40mg-10",
+      "brand": "Curio Wellness",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.948,
+        "CBC": 0.008,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.048,
+        "CBGA": 0.0,
+        "CBN": 0.246,
+        "THCA": 0.0,
+        "THCV": 0.004
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "CBC": 0.32,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.92,
+          "CBGA": 0.0,
+          "CBN": 9.84,
+          "THCA": 0.0,
+          "THCV": 0.16
         },
         "minorsEstimated": true
       },
@@ -1544,6 +1632,46 @@
       "dominantTerpene": "myrcene"
     },
     {
+      "id": 8631517,
+      "packageCount": 1,
+      "name": "Cloudberry OG | Georgies | 2.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 15.0,
+      "unit": "Grams",
+      "strainName": "132 CLOUDBERRY OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 32.63,
+        "totalCBD": 0.07,
+        "CBC": 0.0,
+        "CBDA": 0.08,
+        "CBDV": 0.0,
+        "CBG": 0.2,
+        "CBGA": 2.85,
+        "CBN": 0.0,
+        "THCA": 37.02,
+        "THCV": 0.32
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.16,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.44,
+        "beta-pinene": 0.03,
+        "limonene": 0.24,
+        "linalool": 0.41
+      },
+      "totalTerps": 1.38,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
       "id": 8485365,
       "packageCount": 1,
       "name": "Donut Trip Pre-Pack (Mixed Buds) - Rythm (Hybrid) - Usable - 14g",
@@ -1712,7 +1840,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 56.0,
+      "quantity": 52.5,
       "unit": "Grams",
       "strainName": "Bapple Fritz",
       "strainType": null,
@@ -3292,6 +3420,117 @@
       },
       "totalTerps": 1.88,
       "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8583729,
+      "packageCount": 1,
+      "name": "Peach Cobbler Cloud Bar Hellavated - Vape Cart - 1 g",
+      "brand": "Hellavated",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": "Peach Cobbler",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.39,
+        "CBC": 0.71,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.66,
+        "CBGA": 0.0,
+        "CBN": 0.66,
+        "THCA": 0.0,
+        "THCV": 0.98
+      },
+      "dose": null,
+      "terpenes": {
+        "alpha-pinene": 0.43,
+        "caryophyllene": 0.22,
+        "beta-pinene": 0.24,
+        "limonene": 0.3,
+        "linalool": 1.02
+      },
+      "totalTerps": 2.27,
+      "dominantTerpene": "linalool"
+    },
+    {
+      "id": 8756264,
+      "packageCount": 1,
+      "name": "Peach Cobbler Distillate Cartridge Hellavated - Vape Cart - 1.0 g",
+      "brand": "Hellavated",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 6.0,
+      "unit": "Each",
+      "strainName": "Peach Cobbler",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.93,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.92,
+        "CBGA": 0.0,
+        "CBN": 0.37,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "alpha-pinene": 0.51,
+        "caryophyllene": 0.21,
+        "beta-pinene": 0.26,
+        "limonene": 0.31,
+        "linalool": 0.94
+      },
+      "totalTerps": 2.3,
+      "dominantTerpene": "linalool"
+    },
+    {
+      "id": 8756369,
+      "packageCount": 1,
+      "name": "Strawberry Haze Distillate Cartridge Hellavated - Vape Cart - 1.0 g",
+      "brand": "Hellavated",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 7.0,
+      "unit": "Each",
+      "strainName": "Strawberry Haze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.91,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.08,
+        "CBGA": 0.0,
+        "CBN": 0.34,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.12,
+        "alpha-pinene": 1.57,
+        "caryophyllene": 0.22,
+        "beta-pinene": 0.22,
+        "limonene": 0.46
+      },
+      "totalTerps": 2.59,
+      "dominantTerpene": "alpha-pinene"
     },
     {
       "id": 8731187,
