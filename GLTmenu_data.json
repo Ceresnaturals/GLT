@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T14:30:23.434456+00:00",
+  "generated_at": "2026-08-04T15:00:33.449476+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor"
@@ -765,7 +765,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -1406,6 +1406,54 @@
           "CBG": 3.5,
           "CBGA": 0.0,
           "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8794521,
+      "packageCount": 1,
+      "name": "Sunnies - Sunset Grape Gummies - 5mg THC/25mg CBN/25mg CBD - Edible Product - 5mg - 20Pcs",
+      "brand": "Sunnies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 15.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.13,
+        "totalCBD": 0.665,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.57,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 5.0,
+        "minorsMgPerServing": {
+          "totalCBD": 26.6,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 22.8,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -2353,6 +2401,50 @@
       "dominantTerpene": "limonene"
     },
     {
+      "id": 8738015,
+      "packageCount": 1,
+      "name": "Curio Wellness Thrive Infused Pre-rolls-Concentrate-2x0.5g",
+      "brand": "Curio Wellness",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Thrive",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 32.49,
+        "CBC": 0.35,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.26,
+        "CBGA": 0.65,
+        "CBN": 0.17,
+        "THCA": 12.72,
+        "THCV": 0.25
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.13,
+        "myrcene": 0.15,
+        "alpha-pinene": 0.21,
+        "caryophyllene": 0.65,
+        "eudesmol": 0.08,
+        "beta-pinene": 0.14,
+        "ocimene": 0.1,
+        "limonene": 0.94,
+        "linalool": 0.16,
+        "terpinolene": 0.4,
+        "nerolidol": 0.24
+      },
+      "totalTerps": 3.66,
+      "dominantTerpene": "limonene"
+    },
+    {
       "id": 7828094,
       "packageCount": 1,
       "name": "Fade Co Pre-Roll Pack (All Gas OG) - Usable - 2.5g",
@@ -2756,6 +2848,47 @@
       "dominantTerpene": "caryophyllene"
     },
     {
+      "id": 8795230,
+      "packageCount": 1,
+      "name": "SwampWater Fumez PRJx2 (Two 0.5g Joints) 1.0g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 18.0,
+      "unit": "Grams",
+      "strainName": "Swampwater Fumez",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.35,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.81,
+        "CBN": 0.0,
+        "THCA": 35.49,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.22,
+        "myrcene": 0.04,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.54,
+        "beta-pinene": 0.09,
+        "limonene": 0.67,
+        "linalool": 0.42,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 2.36,
+      "dominantTerpene": "limonene"
+    },
+    {
       "id": 7534188,
       "packageCount": 1,
       "name": "Essentia - Zen Drops - Tincture - 15g",
@@ -3143,6 +3276,47 @@
       "dominantTerpene": "limonene"
     },
     {
+      "id": 8756371,
+      "packageCount": 1,
+      "name": "Grape Stomper Distillate Cartridge Hellavated - Vape Cart - 1.0 g",
+      "brand": "Hellavated",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 9.0,
+      "unit": "Each",
+      "strainName": "Grape Stomper",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.16,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.62,
+        "CBGA": 0.0,
+        "CBN": 0.34,
+        "THCA": 0.0,
+        "THCV": 0.56
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.24,
+        "humulene": 0.06,
+        "myrcene": 0.16,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 0.24,
+        "beta-pinene": 0.12,
+        "limonene": 0.69,
+        "linalool": 0.23,
+        "nerolidol": 0.24
+      },
+      "totalTerps": 2.15,
+      "dominantTerpene": "limonene"
+    },
+    {
       "id": 8632153,
       "packageCount": 1,
       "name": "In House Green Crack Disposable-Vape Cart-2g",
@@ -3302,6 +3476,48 @@
       },
       "totalTerps": 4.13,
       "dominantTerpene": "myrcene"
+    },
+    {
+      "id": 8414620,
+      "packageCount": 1,
+      "name": "MD-VP-MDSSVD-05CR",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": "MD VP MDSSVD 05CR",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 72.91,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.37,
+        "CBN": 0.0,
+        "THCA": 16.39,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.18,
+        "humulene": 0.31,
+        "myrcene": 1.1,
+        "alpha-pinene": 2.09,
+        "caryophyllene": 0.84,
+        "beta-pinene": 0.72,
+        "ocimene": 0.1,
+        "limonene": 1.26,
+        "linalool": 0.36,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 8.04,
+      "dominantTerpene": "alpha-pinene"
     },
     {
       "id": 8040161,
