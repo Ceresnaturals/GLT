@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-08-05T18:30:18.609390+00:00",
+  "generated_at": "2026-08-05T19:00:22.946640+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor"
   ],
   "categories": [
+    "Capsule",
     "Concentrate",
     "Drink",
     "Edible",
@@ -16,6 +17,52 @@
     "Vape"
   ],
   "products": [
+    {
+      "id": 8484003,
+      "packageCount": 1,
+      "name": "RSO Capsule - Capsule - 10mg - 10",
+      "brand": null,
+      "category": "Capsule",
+      "metrcCategory": "Infused Edible (Capsule Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 3.359,
+        "CBC": 0.027,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.083,
+        "CBGA": 0.0,
+        "CBN": 0.008,
+        "THCA": 0.0,
+        "THCV": 0.024
+      },
+      "dose": {
+        "servingSize": "One Capsule",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.065,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.199,
+          "CBGA": 0.0,
+          "CBN": 0.019,
+          "THCA": 0.0,
+          "THCV": 0.058
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
     {
       "id": 8698036,
       "packageCount": 1,
@@ -776,7 +823,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -1294,7 +1341,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -3830,7 +3877,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 106.44,
+      "quantity": 99.44,
       "unit": "Grams",
       "strainName": "Gush Mints TC",
       "strainType": null,
