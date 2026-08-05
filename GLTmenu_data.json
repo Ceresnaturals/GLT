@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T15:00:52.820947+00:00",
+  "generated_at": "2026-08-05T15:30:23.800791+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor"
@@ -222,6 +222,49 @@
       },
       "totalTerps": 8.11,
       "dominantTerpene": "myrcene"
+    },
+    {
+      "id": 8765366,
+      "packageCount": 1,
+      "name": "Golden Pineapple Live Resin Batter 2.0g/2000mg",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 15.0,
+      "unit": "Each",
+      "strainName": "Golden Pineapple",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 71.22,
+        "totalCBD": 0.12,
+        "CBC": 0.0,
+        "CBDA": 0.14,
+        "CBDV": 0.0,
+        "CBG": 0.39,
+        "CBGA": 3.98,
+        "CBN": 0.0,
+        "THCA": 77.23,
+        "THCV": 4.11
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.13,
+        "myrcene": 1.32,
+        "alpha-pinene": 0.48,
+        "caryophyllene": 0.63,
+        "eudesmol": 0.03,
+        "beta-pinene": 0.34,
+        "ocimene": 0.94,
+        "limonene": 0.78,
+        "linalool": 0.1,
+        "terpinolene": 2.93
+      },
+      "totalTerps": 9.08,
+      "dominantTerpene": "terpinolene"
     },
     {
       "id": 8637956,
@@ -542,6 +585,47 @@
       },
       "totalTerps": 1.1,
       "dominantTerpene": "terpinolene"
+    },
+    {
+      "id": 8794845,
+      "packageCount": 1,
+      "name": "Strawberry PushPop Live Rosin Cold Cure1.0g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 34.0,
+      "unit": "Each",
+      "strainName": "Strawberry PushPop Cold Cure1",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 74.47,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 4.16,
+        "CBN": 0.0,
+        "THCA": 84.91,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.2,
+        "humulene": 0.58,
+        "myrcene": 1.21,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 2.04,
+        "eudesmol": 0.36,
+        "beta-pinene": 0.23,
+        "limonene": 2.28,
+        "linalool": 0.75
+      },
+      "totalTerps": 8.46,
+      "dominantTerpene": "limonene"
     },
     {
       "id": 7786272,
@@ -1707,6 +1791,54 @@
           "CBN": 0.16,
           "THCA": 0.0,
           "THCV": 0.28
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8766855,
+      "packageCount": 1,
+      "name": "In House Blueberry Dream Fast Acting V2 Gummies-Edible Product-10mg-10",
+      "brand": "In House",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 4.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.2,
+        "totalCBD": 0.25,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.107,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 12.5,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 5.35,
+          "THCA": 0.0,
+          "THCV": 0.0
         },
         "minorsEstimated": true
       },
@@ -3698,7 +3830,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 172.94,
+      "quantity": 169.44,
       "unit": "Grams",
       "strainName": "Gush Mints TC",
       "strainType": null,
@@ -4067,6 +4199,88 @@
       },
       "totalTerps": 3.43,
       "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8607695,
+      "packageCount": 1,
+      "name": "Brownie Scout Cartridge (Live Resin) - Rythm (Indica Dominant) - Vape Cart - 1000mg",
+      "brand": "Rythm",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 15.0,
+      "unit": "Each",
+      "strainName": "Brownie Scout",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 79.67,
+        "CBC": 1.53,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 5.58,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.39,
+        "humulene": 0.52,
+        "myrcene": 0.95,
+        "alpha-pinene": 0.36,
+        "caryophyllene": 1.51,
+        "eudesmol": 0.36,
+        "limonene": 2.42,
+        "linalool": 0.28,
+        "terpinolene": 0.07
+      },
+      "totalTerps": 7.72,
+      "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8485462,
+      "packageCount": 1,
+      "name": "Brownie Scout Pen (Live Resin) - Rythm (Indica Dominant) - Vape Pen - 1000mg",
+      "brand": "Rythm",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 4.0,
+      "unit": "Each",
+      "strainName": "Brownie Scout",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 81.77,
+        "CBC": 0.64,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.26,
+        "CBGA": 0.46,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.47
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.25,
+        "humulene": 0.4,
+        "myrcene": 0.66,
+        "alpha-pinene": 0.28,
+        "caryophyllene": 1.15,
+        "eudesmol": 0.24,
+        "limonene": 1.98,
+        "linalool": 0.16,
+        "terpinolene": 0.03
+      },
+      "totalTerps": 5.88,
+      "dominantTerpene": "limonene"
     },
     {
       "id": 8607696,
@@ -4629,6 +4843,49 @@
       },
       "totalTerps": 2.3,
       "dominantTerpene": "linalool"
+    },
+    {
+      "id": 8696698,
+      "packageCount": 1,
+      "name": "Raspberry Daydream DV 0.5g/500mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": "Raspberry Daydream DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.2,
+        "totalCBD": 0.22,
+        "CBC": 1.08,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.89,
+        "CBGA": 0.0,
+        "CBN": 0.19,
+        "THCA": 0.0,
+        "THCV": 1.03
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.09,
+        "myrcene": 1.75,
+        "alpha-pinene": 1.31,
+        "caryophyllene": 0.88,
+        "beta-pinene": 0.71,
+        "ocimene": 0.02,
+        "limonene": 1.38,
+        "linalool": 0.53,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 7.42,
+      "dominantTerpene": "myrcene"
     },
     {
       "id": 8756369,
