@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T14:00:48.766832+00:00",
+  "generated_at": "2026-08-05T14:30:22.193535+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor"
@@ -841,6 +841,52 @@
       "dominantTerpene": null
     },
     {
+      "id": 8518550,
+      "packageCount": 1,
+      "name": "Betty's Eddies Orange Creme V3 Fruit Chews-Exempt-40mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.545,
+        "CBC": 0.065,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.021,
+        "CBGA": 0.0,
+        "CBN": 0.07,
+        "THCA": 0.0,
+        "THCV": 0.003
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "CBC": 0.461,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.149,
+          "CBGA": 0.0,
+          "CBN": 0.497,
+          "THCA": 0.0,
+          "THCV": 0.021
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
       "id": 8766842,
       "packageCount": 1,
       "name": "Betty's Eddies Pineapple Orange V3 Fruit Chews-Edible Product-10mg-10",
@@ -879,6 +925,52 @@
           "CBN": 0.007,
           "THCA": 0.0,
           "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8689793,
+      "packageCount": 1,
+      "name": "Betty's Eddies Pineapple Orange V3 Fruit Chews-Exempt-40mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.595,
+        "CBC": 0.006,
+        "CBDA": 0.0,
+        "CBDV": 0.04,
+        "CBG": 0.068,
+        "CBGA": 0.0,
+        "CBN": 0.003,
+        "THCA": 0.0,
+        "THCV": 0.003
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "CBC": 0.043,
+          "CBDA": 0.0,
+          "CBDV": 0.284,
+          "CBG": 0.483,
+          "CBGA": 0.0,
+          "CBN": 0.021,
+          "THCA": 0.0,
+          "THCV": 0.021
         },
         "minorsEstimated": true
       },
@@ -927,6 +1019,54 @@
           "CBN": 0.0,
           "THCA": 0.0,
           "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8689783,
+      "packageCount": 1,
+      "name": "Betty's Eddies Tropical Smoothie Fruit Chews-Exempt-40mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.549,
+        "totalCBD": 0.431,
+        "CBC": 0.006,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.02,
+        "CBGA": 0.0,
+        "CBN": 0.003,
+        "THCA": 0.0,
+        "THCV": 0.005
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 30.601,
+          "CBC": 0.426,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.42,
+          "CBGA": 0.0,
+          "CBN": 0.213,
+          "THCA": 0.0,
+          "THCV": 0.355
         },
         "minorsEstimated": true
       },
@@ -2263,7 +2403,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 3.5,
       "unit": "Grams",
       "strainName": "Han Solo HashBurger",
       "strainType": null,
