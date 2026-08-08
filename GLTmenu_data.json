@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T20:00:49.433106+00:00",
+  "generated_at": "2026-08-08T20:30:22.449519+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor"
@@ -1389,7 +1389,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -1746,52 +1746,6 @@
           "CBN": 0.0,
           "THCA": 0.0,
           "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null
-    },
-    {
-      "id": 8518547,
-      "packageCount": 1,
-      "name": "In House Peach Mango Fast Acting V2 Gummies-Exempt-40mg-10",
-      "brand": "In House",
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.8,
-        "CBC": 0.005,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.034,
-        "CBGA": 0.0,
-        "CBN": 0.007,
-        "THCA": 0.0,
-        "THCV": 0.004
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 400.0,
-        "thcMgPerServing": 40.0,
-        "minorsMgPerServing": {
-          "CBC": 0.25,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 1.7,
-          "CBGA": 0.0,
-          "CBN": 0.35,
-          "THCA": 0.0,
-          "THCV": 0.2
         },
         "minorsEstimated": true
       },
