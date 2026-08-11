@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T16:00:36.897173+00:00",
+  "generated_at": "2026-08-11T16:30:22.049099+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor"
@@ -1994,7 +1994,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 72.5,
+      "quantity": 65.5,
       "unit": "Grams",
       "strainName": "BLVCK Gelatti",
       "strainType": null,
@@ -2581,6 +2581,50 @@
         "terpinolene": 0.02
       },
       "totalTerps": 3.01,
+      "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8738015,
+      "packageCount": 1,
+      "name": "Curio Wellness Thrive Infused Pre-rolls-Concentrate-2x0.5g",
+      "brand": "Curio Wellness",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Thrive",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 32.49,
+        "CBC": 0.35,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.26,
+        "CBGA": 0.65,
+        "CBN": 0.17,
+        "THCA": 12.72,
+        "THCV": 0.25
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.13,
+        "myrcene": 0.15,
+        "alpha-pinene": 0.21,
+        "caryophyllene": 0.65,
+        "eudesmol": 0.08,
+        "beta-pinene": 0.14,
+        "ocimene": 0.1,
+        "limonene": 0.94,
+        "linalool": 0.16,
+        "terpinolene": 0.4,
+        "nerolidol": 0.24
+      },
+      "totalTerps": 3.66,
       "dominantTerpene": "limonene"
     },
     {
