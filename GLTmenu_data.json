@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:00:25.360560+00:00",
+  "generated_at": "2026-08-12T19:30:20.680906+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor"
@@ -144,45 +144,6 @@
       },
       "totalTerps": 13.56,
       "dominantTerpene": "myrcene"
-    },
-    {
-      "id": 8756975,
-      "packageCount": 1,
-      "name": "Concentrate- Infused Happy-er J Gumi #6 x RPP4 (7 Pack) 3.5g",
-      "brand": "Happy-er",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Happy er J Gumi x RPP4",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 24.76,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.66,
-        "CBN": 0.0,
-        "THCA": 27.44,
-        "THCV": 0.09
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.07,
-        "humulene": 0.08,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 0.27,
-        "beta-pinene": 0.05,
-        "limonene": 0.25,
-        "linalool": 0.15
-      },
-      "totalTerps": 1.1,
-      "dominantTerpene": "caryophyllene"
     },
     {
       "id": 7518025,
@@ -642,7 +603,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Strawberry PushPop Cold Cure1",
       "strainType": null,
@@ -1179,6 +1140,52 @@
           "CBG": 0.2,
           "CBGA": 0.0,
           "CBN": 0.16,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8738017,
+      "packageCount": 1,
+      "name": "Curio Wellness Pink Cotton 10mg Chews-Edible Product-10mg-10",
+      "brand": "Curio Wellness",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 8.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.239,
+        "CBC": 0.003,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.009,
+        "CBGA": 0.0,
+        "CBN": 0.009,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.12,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.36,
+          "CBGA": 0.0,
+          "CBN": 0.36,
           "THCA": 0.0,
           "THCV": 0.0
         },
