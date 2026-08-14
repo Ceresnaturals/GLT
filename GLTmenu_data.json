@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T17:00:30.849261+00:00",
+  "generated_at": "2026-08-14T17:32:27.140137+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor"
@@ -1704,6 +1704,52 @@
       "dominantTerpene": null
     },
     {
+      "id": 8828893,
+      "packageCount": 1,
+      "name": "Smokiez Peach Sativa 10mg Medicated Chews-Edible Product-10mg-10",
+      "brand": "Smokiez",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.152,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.009,
+        "CBGA": 0.0,
+        "CBN": 0.008,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.54,
+          "CBGA": 0.0,
+          "CBN": 0.48,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
       "id": 8689786,
       "packageCount": 1,
       "name": "Vibations Half & Half Iced Tea Drink Mix V2-Edible Product-10mg-10",
@@ -1841,7 +1887,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 59.5,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "BBM x GC5",
       "strainType": null,
@@ -3319,7 +3365,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Maui Wowie",
       "strainType": null,
