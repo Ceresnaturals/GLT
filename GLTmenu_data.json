@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T15:00:31.183558+00:00",
+  "generated_at": "2026-08-14T15:30:24.098274+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor"
@@ -831,7 +831,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -2031,6 +2031,44 @@
         "linalool": 0.43
       },
       "totalTerps": 2.45,
+      "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8275487,
+      "packageCount": 1,
+      "name": "LVW Devil Driver Flower-3.5-3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 17.5,
+      "unit": "Grams",
+      "strainName": "Devil Driver - DDR",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.69,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.07,
+        "CBGA": 0.37,
+        "CBN": 0.0,
+        "THCA": 25.67,
+        "THCV": 0.09
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.07,
+        "myrcene": 0.16,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.23,
+        "beta-pinene": 0.05,
+        "limonene": 0.35
+      },
+      "totalTerps": 0.97,
       "dominantTerpene": "limonene"
     },
     {
