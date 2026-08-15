@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T19:10:55.666662+00:00",
+  "generated_at": "2026-08-15T19:30:33.042988+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Back-Ups",
@@ -605,7 +605,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Animal Scout",
       "strainType": "Indica",
@@ -1168,7 +1168,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Diesel",
       "strainType": null,
@@ -1492,7 +1492,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Blackberry Candy",
       "strainType": null,
@@ -1644,7 +1644,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Blvck Gelatti",
       "strainType": null,
@@ -2476,7 +2476,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Mule Fuel",
       "strainType": null,
@@ -3656,7 +3656,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Purple Cherries",
       "strainType": null,
@@ -6364,7 +6364,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Mai Tai",
       "strainType": "Sativa",
@@ -9029,7 +9029,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16085,7 +16085,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20748,7 +20748,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 52.5,
+      "quantity": 49.0,
       "unit": "Grams",
       "strainName": "Brownie Scout",
       "strainType": "Indica",
@@ -21644,7 +21644,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 77.0,
+      "quantity": 73.5,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -21846,7 +21846,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 404.0,
+      "quantity": 400.5,
       "unit": "Grams",
       "strainName": "Bapple Fritz",
       "strainType": null,
@@ -22334,7 +22334,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 38.5,
       "unit": "Grams",
       "strainName": "Ice Cream Banger",
       "strainType": null,
@@ -23533,6 +23533,46 @@
       "dominantTerpene": "limonene"
     },
     {
+      "id": 8604341,
+      "packageCount": 1,
+      "name": "Murphy’z Law - 8ths",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 14.0,
+      "unit": "Grams",
+      "strainName": "Murphy'z Law",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 23.21,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.85,
+        "CBN": 0.0,
+        "THCA": 26.47,
+        "THCV": 0.09
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.26,
+        "myrcene": 0.05,
+        "alpha-pinene": 0.18,
+        "caryophyllene": 0.77,
+        "beta-pinene": 0.12,
+        "limonene": 0.75,
+        "linalool": 0.21
+      },
+      "totalTerps": 2.66,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
       "id": 8766911,
       "packageCount": 1,
       "name": "NH Animal Mint Cookies Flower-Usable-14g",
@@ -24448,47 +24488,6 @@
       "dominantTerpene": "myrcene"
     },
     {
-      "id": 8838515,
-      "packageCount": 1,
-      "name": "Savvy Flower - Honeydew - Usable - 14g",
-      "brand": "Savvy",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 14.0,
-      "unit": "Grams",
-      "strainName": "Honey Dew",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 30.35,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.2,
-        "CBN": 0.0,
-        "THCA": 33.89,
-        "THCV": 0.17
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.07,
-        "humulene": 0.06,
-        "myrcene": 0.42,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 0.25,
-        "beta-pinene": 0.07,
-        "limonene": 0.6,
-        "linalool": 0.1,
-        "terpinolene": 0.01
-      },
-      "totalTerps": 1.76,
-      "dominantTerpene": "limonene"
-    },
-    {
       "id": 8751944,
       "packageCount": 1,
       "name": "Small A$$ Buds|Small Flower|Blockberry|Usable|3.5g",
@@ -24700,7 +24699,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 38.5,
       "unit": "Grams",
       "strainName": "Strawberry Candy #4 TC",
       "strainType": null,
@@ -27888,7 +27887,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 39.0,
+      "quantity": 36.0,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -28128,7 +28127,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Grams",
       "strainName": "Highaleah",
       "strainType": null,
@@ -29132,7 +29131,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Grams",
       "strainName": "LA Baker",
       "strainType": null,
@@ -29415,7 +29414,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 49.0,
+      "quantity": 45.5,
       "unit": "Grams",
       "strainName": "Lemon Blanc",
       "strainType": null,
@@ -30928,47 +30927,6 @@
       "dominantTerpene": "caryophyllene"
     },
     {
-      "id": 8814016,
-      "packageCount": 1,
-      "name": "Z 1.0 PRJx2 (Two 0.5g Joints) 1.0g",
-      "brand": null,
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Vault"
-      ],
-      "quantity": 1.0,
-      "unit": "Grams",
-      "strainName": "Grapefruitz",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 22.94,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.6,
-        "CBN": 0.0,
-        "THCA": 25.41,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.14,
-        "humulene": 0.41,
-        "myrcene": 0.04,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 1.24,
-        "beta-pinene": 0.09,
-        "limonene": 0.75,
-        "linalool": 0.47,
-        "nerolidol": 0.11
-      },
-      "totalTerps": 3.5,
-      "dominantTerpene": "caryophyllene"
-    },
-    {
       "id": 8387800,
       "packageCount": 1,
       "name": "Lemon Layer Cake x Funky Guava (Male) Cannabis Seeds (10 Pack)",
@@ -31020,7 +30978,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 250.55,
+      "quantity": 243.55,
       "unit": "Grams",
       "strainName": "Kabuki Sour",
       "strainType": null,
@@ -35589,7 +35547,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Blueberry Dream",
       "strainType": null,
@@ -35740,7 +35698,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Bomb Popz",
       "strainType": null,
@@ -40784,7 +40742,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Juicy Melonz Melted AIO Helly Meltz",
       "strainType": null,
@@ -43027,7 +42985,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Maui Sunrise",
       "strainType": null,
