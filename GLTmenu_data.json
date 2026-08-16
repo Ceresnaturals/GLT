@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T17:00:27.997345+00:00",
+  "generated_at": "2026-08-16T17:30:26.342426+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Back-Ups",
@@ -1373,7 +1373,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Circus Cookies",
       "strainType": null,
@@ -2761,16 +2761,15 @@
     },
     {
       "id": 8815681,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Gumi #6 Bubble Hash 1.0g",
       "brand": null,
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Gumi",
       "strainType": null,
@@ -2978,7 +2977,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Biker Kush",
       "strainType": null,
@@ -5192,7 +5191,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "ONYCD",
       "strainType": null,
@@ -6868,7 +6867,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8681,6 +8680,54 @@
           "CBG": 0.072,
           "CBGA": 0.0,
           "CBN": 0.027,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8721790,
+      "packageCount": 1,
+      "name": "Beboe Gummy 100mg-Cloud 9 (Sparkling Pear) (1:1 THC:CBG)(Thick)-Edible Product-5mg-20 Pieces",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 3.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.09,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.09,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 5.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 5.22,
+          "CBGA": 0.0,
+          "CBN": 0.0,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -10906,7 +10953,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11512,7 +11559,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16187,7 +16234,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16763,7 +16810,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -16840,6 +16887,54 @@
           "CBG": 0.0,
           "CBGA": 0.0,
           "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8128888,
+      "packageCount": 1,
+      "name": "ORIA - Berry Good Night Gummies 10mg THC/10mg CBN/10mg CBD - Edible Product - 10mg -10pcs",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 1.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.03,
+        "totalCBD": 95.25,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.42,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 98.88,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 PIece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 3924.3,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 17.304,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 4073.856,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -19654,6 +19749,54 @@
       "dominantTerpene": null
     },
     {
+      "id": 8820519,
+      "packageCount": 1,
+      "name": "Wana | Edibles | Soft Lozenges | Quick Orchard Peach Sativa - Edible Product - 10mg - 10pk",
+      "brand": "Wana",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.21,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
       "id": 8616341,
       "packageCount": 1,
       "name": "(the) Essence Flower - Banana Muffins - Usable - 3.5g",
@@ -21963,7 +22106,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "Ice Cream Banger",
       "strainType": null,
@@ -23647,7 +23790,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 230.0,
+      "quantity": 220.0,
       "unit": "Grams",
       "strainName": "Purple Punch TC",
       "strainType": null,
@@ -26177,7 +26320,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 36.0,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato TC",
       "strainType": null,
@@ -26503,7 +26646,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Grams",
       "strainName": "ER 6",
       "strainType": null,
@@ -28884,7 +29027,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 38.5,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Lemon Blanc",
       "strainType": null,
@@ -30123,7 +30266,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 29.0,
+      "quantity": 27.0,
       "unit": "Grams",
       "strainName": "The Beavs",
       "strainType": null,
@@ -30448,7 +30591,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 156.05,
+      "quantity": 128.05,
       "unit": "Grams",
       "strainName": "Kabuki Sour",
       "strainType": null,
@@ -33702,7 +33845,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Beboe Downtime",
       "strainType": null,
@@ -33743,7 +33886,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Beboe Inspired",
       "strainType": null,
@@ -33785,7 +33928,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Beboe Sweet Dreams",
       "strainType": null,
@@ -41788,7 +41931,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "London Pound Cake DV",
       "strainType": null,
@@ -42614,7 +42757,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Melon Sherbert",
       "strainType": null,
@@ -46278,7 +46421,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Sour Tangie",
       "strainType": null,
