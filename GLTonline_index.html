@@ -358,6 +358,7 @@ body.view-cards td.c-cmp::before{display:none}
 tr.cmp-on{background:color-mix(in srgb,var(--green) 16%,transparent)}
 tr.cmp-on:hover{background:color-mix(in srgb,var(--green) 20%,transparent)}
 body.view-cards tr.cmp-on{border-color:var(--green);box-shadow:0 0 0 2px color-mix(in srgb,var(--green) 35%,transparent)}
+.rel.cmp-on{border-color:var(--green);background:color-mix(in srgb,var(--green) 10%,transparent)}
 .cmpbar{position:fixed;left:50%;bottom:22px;transform:translateX(-50%);z-index:70;
   display:flex;align-items:center;gap:14px;padding:10px 12px 10px 20px;border-radius:999px;
   background:var(--ink);color:var(--paper);box-shadow:var(--shadow);
@@ -1134,8 +1135,16 @@ function openDrawer(id){
   const relCard=({p:r,sim})=>{
     const sh=sharedTerps(p,r);
     const rSub=[r.brand, productType(r)].filter(Boolean).join(' · ');
-    return `<div class="rel" data-id="${r.id}">
-      <div class="rt"><span class="rn">${r.strainName||r.name}</span><span class="match">${Math.round(sim*100)}% match</span></div>
+    return `<div class="rel${state.compare.has(r.id)?' cmp-on':''}" data-id="${r.id}">
+      <div class="rt">
+        <span class="rn">${r.strainName||r.name}</span>
+        <span style="display:flex;align-items:center;gap:8px">
+          <span class="match">${Math.round(sim*100)}% match</span>
+          <label class="cmp-check" title="Add to compare" onclick="event.stopPropagation()">
+            <input type="checkbox" class="cmp-toggle" data-id="${r.id}">
+          </label>
+        </span>
+      </div>
       <div class="shared">${rSub?rSub+' · ':''}<span class="badge b-${r._cls||'Unknown'}" style="font-size:9px;padding:1px 6px">${r._cls||'Unknown'}</span>
         ${sh.length?' · shares '+sh.join(', '):''}</div>
     </div>`;
@@ -1183,6 +1192,15 @@ function openDrawer(id){
     ${relHtml}`;
   document.getElementById('drawerBody').querySelectorAll('.rel').forEach(el=>{
     el.onclick=()=>openDrawer(+el.dataset.id);
+    const cb=el.querySelector('.cmp-toggle');
+    if(cb){
+      cb.checked=state.compare.has(+el.dataset.id);
+      cb.onchange=()=>{
+        toggleCompare(+el.dataset.id);
+        el.classList.toggle('cmp-on', state.compare.has(+el.dataset.id));
+        cb.checked=state.compare.has(+el.dataset.id);
+      };
+    }
   });
   document.getElementById('drawer').classList.add('open');
   if(window.__embedReposition) window.__embedReposition();
