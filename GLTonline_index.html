@@ -319,13 +319,13 @@ td{padding:11px 12px;vertical-align:middle;font-size:14px;overflow:hidden}
   background:var(--paper-2);border-left:1px solid var(--line);
   box-shadow:-18px 0 40px -20px rgba(0,0,0,.4);
   transform:translateX(105%);transition:transform .28s cubic-bezier(.4,0,.1,1);
-  display:flex;flex-direction:column;
+  display:flex;flex-direction:column;overflow:hidden;
 }
 .drawer.open{transform:translateX(0)}
-.drawer .dh{padding:18px 20px;border-bottom:1px solid var(--line);display:flex;align-items:flex-start;gap:10px}
+.drawer .dh{padding:18px 20px;border-bottom:1px solid var(--line);display:flex;align-items:flex-start;gap:10px;flex:none}
 .drawer .dh h2{font-family:'Fraunces',serif;font-weight:600;font-size:20px;line-height:1.2}
 .drawer .dh .x{margin-left:auto;background:none;border:none;font-size:24px;cursor:pointer;color:var(--ink-faint);line-height:1}
-.drawer .db{padding:18px 20px;overflow-y:auto}
+.drawer .db{padding:18px 20px;overflow-y:auto;flex:1;min-height:0}
 .selprofile{margin-bottom:8px}
 .section-t{font-size:11px;text-transform:uppercase;letter-spacing:.12em;color:var(--ink-soft);margin:16px 0 8px}
 .rel{padding:12px;border:1px solid var(--line);border-radius:12px;margin-bottom:9px;cursor:pointer;transition:.12s}
@@ -364,7 +364,7 @@ body.view-cards tr.cmp-on{border-color:var(--green);box-shadow:0 0 0 2px color-m
 .cmpmodal[hidden]{display:none}
 .cmpcard{position:relative;background:var(--paper-2);color:var(--ink);border:1px solid var(--line);
   border-radius:var(--radius);box-shadow:var(--shadow);max-width:min(1080px,94vw);width:100%;
-  max-height:88vh;overflow:auto;padding:26px clamp(20px,4vw,34px) 30px}
+  max-height:min(88vh,calc(100% - 8px));overflow:auto;padding:26px clamp(20px,4vw,34px) 30px}
 .cmpcard h2{font-family:'Fraunces',serif;font-weight:600;font-size:22px;margin-bottom:16px}
 .cmpcard .hx{position:absolute;top:10px;right:14px;background:none;border:none;font-size:30px;
   line-height:1;cursor:pointer;color:var(--ink-faint)}
@@ -412,7 +412,7 @@ body.present .helpbtn{width:48px;height:48px;font-size:23px}
 .helpmodal[hidden]{display:none}
 .helpcard{position:relative;background:var(--paper-2);color:var(--ink);border:1px solid var(--line);
   border-radius:var(--radius);box-shadow:var(--shadow);max-width:640px;width:100%;
-  max-height:88vh;overflow-y:auto;padding:26px clamp(20px,4vw,34px) 30px}
+  max-height:min(88vh,calc(100% - 8px));overflow-y:auto;padding:26px clamp(20px,4vw,34px) 30px}
 .helpcard h2{font-family:'Fraunces',serif;font-weight:600;font-size:24px;margin-bottom:4px}
 .helpcard .lead{color:var(--ink-soft);font-size:14px;margin-bottom:16px}
 .helpcard h3{font-family:'Fraunces',serif;font-weight:600;font-size:16px;color:var(--green-deep);margin:20px 0 8px}
