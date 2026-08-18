@@ -4,6 +4,16 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Greenlight Product Guide</title>
+<script>
+/* Run as early as possible (before body renders/can be scrolled): mark embed mode on <html> so
+   overflow:hidden below applies before the iframe ever gets a chance to grow its own scrollbar.
+   Iframes are independently scrollable by default — if this page's own document can scroll,
+   a user's mouse-wheel over the embed scrolls the IFRAME's hidden internal viewport instead of
+   the outer Squarespace page, which silently breaks the GLT_PARENT_SCROLL-based positioning of
+   the drawer/help modal/compare modal (they get repositioned against outer-page scroll that
+   never actually changes, and the user has no way to bring them into view). */
+if(window.self !== window.top) document.documentElement.classList.add('embed');
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,900&family=Hanken+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -432,6 +442,12 @@ body.present .helpbtn{width:48px;height:48px;font-size:23px}
    actually on-screen — so overlays land far off-screen once the outer page scrolls. In
    embed mode these switch to position:absolute and get their offsets computed in JS from
    the parent page's reported scroll position (see EMBED SCROLL TRACKING below). */
+/* Force the OUTER Squarespace page to be the only scrollable container. Without this, the
+   iframe keeps its own default internal scrollbar and a user's mouse-wheel over the embed
+   scrolls that hidden internal viewport instead of the outer page — which silently breaks the
+   GLT_PARENT_SCROLL-based positioning below, since it only reacts to outer-page scroll. */
+html.embed, html.embed body{overflow:hidden;height:auto}
+
 body.embed .drawer,
 body.embed .cmpbar,
 body.embed .helpmodal,
