@@ -1289,6 +1289,7 @@ function renderCompareModal(){
     .sort((a,b)=>Math.max(...items.map(p=>p._terps[b]||0))-Math.max(...items.map(p=>p._terps[a]||0)))
     .slice(0,6);
   const rows=[
+    ['Product', p=>productType(p)||'—'],
     ['Type', p=>typeBadge(p)],
     ['THC', p=>thcCell(p)],
     ['Total terps', p=>p.totalTerps!=null?p.totalTerps.toFixed(2)+'%':'—'],
