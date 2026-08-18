@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T22:30:31.818307+00:00",
+  "generated_at": "2026-08-18T22:40:29.900775+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Back-Ups",
@@ -7633,7 +7633,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7681,7 +7681,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12826,54 +12826,6 @@
       "dominantTerpene": null
     },
     {
-      "id": 8755815,
-      "packageCount": 1,
-      "name": "Do Drop 1:1:1 CBG:THC:THCV Watermelon Gummies-Edible Product-10mg-10",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.33,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.33,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.31
-      },
-      "dose": {
-        "servingSize": "1 piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 9.9,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 9.3
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null
-    },
-    {
       "id": 8755736,
       "packageCount": 2,
       "name": "Do Drop 2:1 CBD:THC Melon Gummies-Edible Product-5 mg-10",
@@ -13394,7 +13346,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13440,7 +13392,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15747,7 +15699,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20293,7 +20245,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 24.5,
       "unit": "Grams",
       "strainName": "Mafia Funeral",
       "strainType": null,
@@ -21313,7 +21265,7 @@
       "locations": [
         "Back-Ups"
       ],
-      "quantity": 31.5,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "LA Baker",
       "strainType": null,
@@ -25608,7 +25560,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Grams",
       "strainName": "ER 6",
       "strainType": null,
@@ -25692,7 +25644,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Carolina",
       "strainType": null,
@@ -26462,7 +26414,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -28656,6 +28608,46 @@
         "nerolidol": 0.025
       },
       "totalTerps": 0.676,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8698927,
+      "packageCount": 1,
+      "name": "Rove | Premier Rosin Infused Prerolls - 2pk | Sherbanger - H | 1.0g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 13.0,
+      "unit": "Each",
+      "strainName": "Sherbanger",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 41.7,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.12,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 16.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.0807,
+        "humulene": 0.102,
+        "caryophyllene": 0.383,
+        "caryophyllene-oxide": 0.0302,
+        "limonene": 0.0458,
+        "linalool": 0.106,
+        "nerolidol": 0.0284
+      },
+      "totalTerps": 0.937,
       "dominantTerpene": "caryophyllene"
     },
     {
@@ -33749,7 +33741,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Bomb Popz",
       "strainType": null,
@@ -44587,7 +44579,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Pink Rozay",
       "strainType": null,
