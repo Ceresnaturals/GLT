@@ -425,6 +425,19 @@ body.present .helpbtn{width:48px;height:48px;font-size:23px}
   line-height:1;cursor:pointer;color:var(--ink-faint)}
 .helpcard .hx:hover{color:var(--green)}
 @media (prefers-color-scheme: dark){ .helpmodal{background:rgba(0,0,0,.62)} }
+
+/* ---------- embed mode: fixed-position UI re-anchored to the visible viewport ----------
+   When embedded in a Squarespace iframe that's resized to full document height (no inner
+   scrollbar), position:fixed anchors to the IFRAME's own coordinate space, not what's
+   actually on-screen — so overlays land far off-screen once the outer page scrolls. In
+   embed mode these switch to position:absolute and get their offsets computed in JS from
+   the parent page's reported scroll position (see EMBED SCROLL TRACKING below). */
+body.embed .drawer,
+body.embed .cmpbar,
+body.embed .helpmodal,
+body.embed .cmpmodal,
+body.embed .overlay{position:absolute}
+body.embed .cmpbar{bottom:auto} /* top is set in JS instead, from tracked parent scroll */
 </style>
 </head>
 <body>
@@ -1147,6 +1160,7 @@ function openDrawer(id){
     el.onclick=()=>openDrawer(+el.dataset.id);
   });
   document.getElementById('drawer').classList.add('open');
+  if(window.__embedReposition) window.__embedReposition();
 }
 document.getElementById('drawerClose').onclick=()=>{
   document.getElementById('drawer').classList.remove('open');
@@ -1173,6 +1187,7 @@ function updateCmpBar(){
   document.getElementById('cmpBar').classList.toggle('show', n>0);
   document.getElementById('cmpGo').disabled = n<2;
   document.getElementById('cmpGo').style.opacity = n<2 ? .5 : 1;
+  if(window.__embedReposition) window.__embedReposition();
 }
 document.getElementById('cmpClear').onclick=()=>{
   state.compare.clear();
@@ -1183,6 +1198,7 @@ document.getElementById('cmpGo').onclick=()=>{
   if(state.compare.size<2) return;
   renderCompareModal();
   document.getElementById('cmpModal').hidden=false;
+  if(window.__embedReposition) window.__embedReposition();
 };
 document.getElementById('cmpClose').onclick=()=>{ document.getElementById('cmpModal').hidden=true; };
 document.getElementById('cmpModal').addEventListener('click',e=>{
@@ -1287,7 +1303,7 @@ document.getElementById('clearAll').onclick=()=>{
 
 // Help / how-to modal
 const helpModal=document.getElementById('helpModal');
-function setHelp(on){ helpModal.hidden=!on; }
+function setHelp(on){ helpModal.hidden=!on; if(on && window.__embedReposition) window.__embedReposition(); }
 document.getElementById('helpBtn').onclick=()=>setHelp(true);
 document.getElementById('helpClose').onclick=()=>setHelp(false);
 helpModal.onclick=e=>{ if(e.target===helpModal) setHelp(false); };
@@ -1323,6 +1339,52 @@ boot();
       return result;
     };
   }
+})();
+
+// =====================================
+// EMBED SCROLL TRACKING (postMessage)
+// The iframe is resized to full document height (see above), so position:fixed inside it
+// anchors to the IFRAME's own ~viewport, not what's visibly on-screen in the parent. In
+// embed mode, fixed UI is switched to position:absolute (CSS) and repositioned here using
+// the parent's reported scroll offset, so it tracks the visible window instead of drifting
+// off to wherever the iframe's own top/bottom happens to be.
+// =====================================
+(function enableEmbedScrollTracking(){
+  if (window.self === window.top) return; // not embedded — plain position:fixed is correct as-is
+
+  let parentScrollY = 0, parentViewportH = 800;
+
+  window.addEventListener('message', ev => {
+    const d = ev.data;
+    if (!d || d.type !== 'GLT_PARENT_SCROLL') return;
+    parentScrollY = d.scrollY || 0;
+    parentViewportH = d.viewportH || parentViewportH;
+    reposition();
+  });
+
+  function visibleTopInDoc(){
+    // parentScrollY is measured from the top of the OUTER Squarespace page; the iframe's
+    // own top-in-parent offset is baked into GLT_PARENT_SCROLL by the parent script, so
+    // this is already "how far down our own document the visible window currently starts."
+    return Math.max(0, parentScrollY);
+  }
+
+  function reposition(){
+    const top = visibleTopInDoc();
+    const drawer = document.getElementById('drawer');
+    if (drawer) { drawer.style.top = top + 'px'; drawer.style.height = parentViewportH + 'px'; }
+
+    const cmpBar = document.getElementById('cmpBar');
+    if (cmpBar) cmpBar.style.top = (top + parentViewportH - 78) + 'px';
+
+    ['helpModal','cmpModal','loader'].forEach(id=>{
+      const el = document.getElementById(id);
+      if (el) { el.style.top = top + 'px'; el.style.height = parentViewportH + 'px'; }
+    });
+  }
+
+  window.__embedReposition = reposition;
+  reposition();
 })();
 </script>
 </body>
