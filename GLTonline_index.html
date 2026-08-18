@@ -133,10 +133,11 @@ body.present .presentbtn{background:var(--green);color:#fff;border-color:var(--g
 .themebtn svg{width:18px;height:18px}
 .themebtn .i-sun{display:none}
 .themebtn .i-moon{display:none}
-:root[data-theme="light"] .themebtn .i-sun{display:block}
-:root[data-theme="dark"] .themebtn .i-moon{display:block}
-:root:not([data-theme]) .themebtn .i-auto{display:block}
-.themebtn .i-auto{display:none}
+/* button shows the icon for the mode a click would switch TO */
+:root[data-theme="light"] .themebtn .i-moon{display:block}
+:root[data-theme="dark"] .themebtn .i-sun{display:block}
+@media (prefers-color-scheme: light){ :root:not([data-theme]) .themebtn .i-moon{display:block} }
+@media (prefers-color-scheme: dark){ :root:not([data-theme]) .themebtn .i-sun{display:block} }
 
 /* ---------- presentation / customer view (big, high-contrast) ---------- */
 body.present{--ink-faint:var(--ink-soft)}
@@ -488,7 +489,6 @@ body.embed .cmpbar{bottom:auto} /* top is set in JS instead, from tracked parent
   <button class="themebtn" id="themeBtn" type="button" title="Toggle light/dark theme" aria-label="Toggle light/dark theme">
     <svg class="i-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v3M12 19v3M4.2 4.2l2.1 2.1M17.7 17.7l2.1 2.1M2 12h3M19 12h3M4.2 19.8l2.1-2.1M17.7 6.3l2.1-2.1"/></svg>
     <svg class="i-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/></svg>
-    <svg class="i-auto" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M12 2a10 10 0 1 0 0 20"/></svg>
   </button>
   <button class="presentbtn" id="presentBtn" type="button" title="Enlarge for customer viewing">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-7 11-7 11 7 11 7-4 7-11 7-11-7-11-7z"/><circle cx="12" cy="12" r="3"/></svg>
@@ -1308,21 +1308,20 @@ function renderCompareModal(){
 }
 
 /* ============================================================
-   THEME  (light / dark / auto — cycles on click, remembers its state)
+   THEME  (light/dark — one click flips it, remembers the choice)
    ============================================================ */
+const systemDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
 function applyTheme(t){
-  if(t==='light'||t==='dark') document.documentElement.setAttribute('data-theme', t);
-  else document.documentElement.removeAttribute('data-theme');
+  document.documentElement.setAttribute('data-theme', t);
   const btn=document.getElementById('themeBtn');
-  if(btn) btn.title = t==='light' ? 'Theme: Light (tap for Dark)'
-                     : t==='dark'  ? 'Theme: Dark (tap for Auto)'
-                     : 'Theme: Auto (tap for Light)';
+  if(btn) btn.title = t==='light' ? 'Switch to dark theme' : 'Switch to light theme';
 }
-let themePref='auto';
-try{ themePref = localStorage.getItem('glt_theme') || 'auto'; }catch(e){}
-applyTheme(themePref);
+let themePref=null;
+try{ themePref = localStorage.getItem('glt_theme'); }catch(e){}
+applyTheme(themePref || (systemDark ? 'dark' : 'light'));
 document.getElementById('themeBtn').onclick = () => {
-  themePref = themePref==='auto' ? 'light' : themePref==='light' ? 'dark' : 'auto';
+  const current = document.documentElement.getAttribute('data-theme');
+  themePref = current==='dark' ? 'light' : 'dark';
   try{ localStorage.setItem('glt_theme', themePref); }catch(e){}
   applyTheme(themePref);
 };
