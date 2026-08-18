@@ -1151,6 +1151,34 @@ document.addEventListener('keydown',e=>{ if(e.key==='Escape') setHelp(false); })
 // hide our own logo when embedded (the host page already shows the Greenlight logo)
 if(window.self !== window.top) document.body.classList.add('embed');
 boot();
+
+// =====================================
+// IFRAME AUTO-RESIZE (postMessage)
+// =====================================
+(function enableIframeAutoResize(){
+  function sendHeight(){
+    const height = Math.ceil(document.body.scrollHeight + 40);
+    window.parent.postMessage({ type: 'GLT_IFRAME_HEIGHT', height }, '*');
+  }
+
+  window.addEventListener('load', sendHeight);
+
+  if ('ResizeObserver' in window) {
+    const ro = new ResizeObserver(() => sendHeight());
+    ro.observe(document.body);
+  } else {
+    setInterval(sendHeight, 1000);
+  }
+
+  const originalRender = window.render;
+  if (typeof originalRender === 'function') {
+    window.render = function(){
+      const result = originalRender.apply(this, arguments);
+      requestAnimationFrame(sendHeight);
+      return result;
+    };
+  }
+})();
 </script>
 </body>
 </html>
