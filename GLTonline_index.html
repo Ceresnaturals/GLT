@@ -334,6 +334,44 @@ td{padding:11px 12px;vertical-align:middle;font-size:14px;overflow:hidden}
 .rel .rn{font-weight:600;font-size:14px}
 .match{font-family:var(--font-num);font-size:12px;color:var(--green);font-weight:700}
 .rel .shared{font-size:12px;color:var(--ink-faint);margin-top:4px}
+.rel-group-t{font-size:10px;text-transform:uppercase;letter-spacing:.1em;color:var(--ink-faint);margin:14px 0 7px}
+.rel-group-t:first-of-type{margin-top:0}
+
+/* ---------- compare ---------- */
+.cmp-check{display:inline-flex;align-items:center;gap:7px;cursor:pointer;margin-bottom:6px}
+.cmp-check input{width:16px;height:16px;accent-color:var(--green);cursor:pointer}
+.cmp-check span{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--ink-faint)}
+tr.cmp-on{background:color-mix(in srgb,var(--green) 8%,transparent)}
+.cmpbar{position:fixed;left:50%;bottom:22px;transform:translateX(-50%);z-index:70;
+  display:flex;align-items:center;gap:14px;padding:10px 12px 10px 20px;border-radius:999px;
+  background:var(--ink);color:var(--paper);box-shadow:var(--shadow);
+  opacity:0;pointer-events:none;transition:opacity .15s, transform .15s}
+.cmpbar.show{opacity:1;pointer-events:auto;transform:translateX(-50%) translateY(0)}
+.cmpbar span{font-size:13px;font-weight:600}
+.cmpbar button{font-family:'Fraunces',serif;font-weight:600;font-size:14px;cursor:pointer;border:none;border-radius:999px}
+.cmpbar .go{background:var(--green);color:#fff;padding:9px 18px}
+.cmpbar .clear{background:transparent;color:var(--paper);opacity:.65;padding:9px 6px;font-family:inherit;font-weight:400;font-size:13px}
+.cmpbar .clear:hover{opacity:1}
+
+.cmpmodal{position:fixed;inset:0;z-index:90;display:flex;align-items:center;justify-content:center;
+  padding:20px;background:rgba(20,23,15,.55);backdrop-filter:blur(3px)}
+.cmpmodal[hidden]{display:none}
+.cmpcard{position:relative;background:var(--paper-2);color:var(--ink);border:1px solid var(--line);
+  border-radius:var(--radius);box-shadow:var(--shadow);max-width:min(1080px,94vw);width:100%;
+  max-height:88vh;overflow:auto;padding:26px clamp(20px,4vw,34px) 30px}
+.cmpcard h2{font-family:'Fraunces',serif;font-weight:600;font-size:22px;margin-bottom:16px}
+.cmpcard .hx{position:absolute;top:10px;right:14px;background:none;border:none;font-size:30px;
+  line-height:1;cursor:pointer;color:var(--ink-faint)}
+.cmpcard .hx:hover{color:var(--green)}
+.cmptable{width:100%;border-collapse:collapse;min-width:520px}
+.cmptable th,.cmptable td{padding:10px 14px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top;font-size:13px}
+.cmptable th{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--ink-soft);white-space:nowrap}
+.cmptable td.cmp-rowhead{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--ink-faint);white-space:nowrap}
+.cmptable .pname{font-size:15px}
+.cmptable .cmp-x{background:none;border:none;color:var(--ink-faint);cursor:pointer;font-size:18px;line-height:1}
+.cmptable .cmp-x:hover{color:var(--sativa)}
+.cmp-terprow{display:flex;align-items:center;gap:6px;margin-bottom:4px;font-size:12px}
+.cmp-terprow .terpdot{flex:none}
 
 /* ---------- loader / states ---------- */
 .overlay{position:fixed;inset:0;z-index:80;display:flex;align-items:center;justify-content:center;
@@ -555,6 +593,20 @@ body.present .helpbtn{width:48px;height:48px;font-size:23px}
   </div>
 </div>
 
+<div class="cmpbar" id="cmpBar">
+  <span id="cmpCount">Compare (0)</span>
+  <button class="go" id="cmpGo" type="button">Compare</button>
+  <button class="clear" id="cmpClear" type="button">Clear</button>
+</div>
+
+<div class="cmpmodal" id="cmpModal" hidden>
+  <div class="cmpcard">
+    <button class="hx" id="cmpClose" type="button" aria-label="Close">&times;</button>
+    <h2>Compare products</h2>
+    <div style="overflow-x:auto"><table class="cmptable" id="cmpTable"></table></div>
+  </div>
+</div>
+
 <footer id="footer"></footer>
 
 <div class="overlay" id="loader">
@@ -666,7 +718,7 @@ let PRODUCTS = [];
 const state = {
   search:'', types:new Set(), locations:new Set(), categories:new Set(),
   terpene:'', domOnly:false, group:false, thcMin:0, cannabinoids:new Set(),
-  sorts:[{key:'name',dir:1}], selectedId:null
+  sorts:[{key:'name',dir:1}], selectedId:null, compare:new Set()
 };
 
 /* ============================================================
@@ -832,6 +884,13 @@ function render(){
   tbody.querySelectorAll('tr[data-id]').forEach(tr=>{
     tr.onclick=()=>openDrawer(+tr.dataset.id);
     if(+tr.dataset.id===state.selectedId) tr.classList.add('sel');
+    const id=+tr.dataset.id;
+    if(state.compare.has(id)) tr.classList.add('cmp-on');
+    const cb=tr.querySelector('.cmp-toggle');
+    if(cb){
+      cb.checked=state.compare.has(id);
+      cb.onchange=()=>toggleCompare(id);
+    }
   });
   updateSortButtons();
 }
@@ -891,7 +950,7 @@ function rowHtml(p){
     </div>`;
   }).join('') || '<span style="color:var(--ink-faint);font-size:12px">Not tested for terpenes</span>';
   return `<tr data-id="${p.id}">
-    <td class="c-prod"><div class="pname">${p.strainName||p.name}</div><div class="pbrand">${sub||'&nbsp;'}</div></td>
+    <td class="c-prod"><label class="cmp-check" onclick="event.stopPropagation()"><input type="checkbox" class="cmp-toggle" data-id="${p.id}"><span>Compare</span></label><div class="pname">${p.strainName||p.name}</div><div class="pbrand">${sub||'&nbsp;'}</div></td>
     <td class="type-col" data-label="Type">${typeBadge(p)}</td>
     <td class="thc-col" data-label="THC">${thcCell(p)}</td>
     <td class="c-cann stack" data-label="Other cannabinoids">${otherCann(p)}</td>
@@ -1025,14 +1084,25 @@ function openDrawer(id){
     : Object.entries(p._cann).filter(([k])=>k!=='totalTHC')
         .map(([k,v])=>`<span class="chip" style="cursor:default">${k==='totalCBD'?'CBD':k} ${v.toFixed(2)}%</span>`).join(' ');
   const rel = relatedTo(p);
-  const relHtml = rel.length ? rel.map(({p:r,sim})=>{
+  const relCard=({p:r,sim})=>{
     const sh=sharedTerps(p,r);
     return `<div class="rel" data-id="${r.id}">
       <div class="rt"><span class="rn">${r.strainName||r.name}</span><span class="match">${Math.round(sim*100)}% match</span></div>
       <div class="shared">${r.brand||''} · <span class="badge b-${r._cls||'Unknown'}" style="font-size:9px;padding:1px 6px">${r._cls||'Unknown'}</span>
         ${sh.length?' · shares '+sh.join(', '):''}</div>
     </div>`;
-  }).join('') : '<p style="color:var(--ink-faint)">No close terpene matches in stock.</p>';
+  };
+  let relHtml;
+  if(!rel.length){
+    relHtml = '<p style="color:var(--ink-faint)">No close terpene matches in stock.</p>';
+  } else {
+    // same type as the selected product first, then everything else — each group stays match%-sorted (rel is pre-sorted)
+    const sameType = rel.filter(x=>(x.p._cls||'Unknown')===cls);
+    const otherType = rel.filter(x=>(x.p._cls||'Unknown')!==cls);
+    relHtml =
+      (sameType.length ? `<div class="rel-group-t">Also ${cls}</div>${sameType.map(relCard).join('')}` : '') +
+      (otherType.length ? `<div class="rel-group-t">Other types</div>${otherType.map(relCard).join('')}` : '');
+  }
 
   const eff=p._effect||{};
   const est=p._estimated && cls!=='Unknown';
@@ -1073,6 +1143,71 @@ document.getElementById('drawerClose').onclick=()=>{
   state.selectedId=null;
   document.querySelectorAll('tr[data-id]').forEach(tr=>tr.classList.remove('sel'));
 };
+
+/* ============================================================
+   COMPARE
+   ============================================================ */
+const CMP_MAX=4;
+function toggleCompare(id){
+  if(state.compare.has(id)) state.compare.delete(id);
+  else{
+    if(state.compare.size>=CMP_MAX){ alert(`You can compare up to ${CMP_MAX} products at once.`); render(); return; }
+    state.compare.add(id);
+  }
+  render();
+  updateCmpBar();
+}
+function updateCmpBar(){
+  const n=state.compare.size;
+  document.getElementById('cmpCount').textContent=`Compare (${n})`;
+  document.getElementById('cmpBar').classList.toggle('show', n>0);
+  document.getElementById('cmpGo').disabled = n<2;
+  document.getElementById('cmpGo').style.opacity = n<2 ? .5 : 1;
+}
+document.getElementById('cmpClear').onclick=()=>{
+  state.compare.clear();
+  render();
+  updateCmpBar();
+};
+document.getElementById('cmpGo').onclick=()=>{
+  if(state.compare.size<2) return;
+  renderCompareModal();
+  document.getElementById('cmpModal').hidden=false;
+};
+document.getElementById('cmpClose').onclick=()=>{ document.getElementById('cmpModal').hidden=true; };
+document.getElementById('cmpModal').addEventListener('click',e=>{
+  if(e.target.id==='cmpModal') document.getElementById('cmpModal').hidden=true;
+});
+function removeFromCompare(id){
+  state.compare.delete(id);
+  render();
+  updateCmpBar();
+  if(state.compare.size<2){ document.getElementById('cmpModal').hidden=true; return; }
+  renderCompareModal();
+}
+function renderCompareModal(){
+  const items=[...state.compare].map(id=>PRODUCTS.find(p=>p.id===id)).filter(Boolean);
+  const allTerpKeys=[...new Set([].concat(...items.map(p=>topTerps(p,5).map(t=>t[0]))))]
+    .sort((a,b)=>Math.max(...items.map(p=>p._terps[b]||0))-Math.max(...items.map(p=>p._terps[a]||0)))
+    .slice(0,6);
+  const rows=[
+    ['Type', p=>typeBadge(p)],
+    ['THC', p=>thcCell(p)],
+    ['Total terps', p=>p.totalTerps!=null?p.totalTerps.toFixed(2)+'%':'—'],
+    ['Other cannabinoids', p=>otherCann(p)],
+    ...allTerpKeys.map(k=>[prettyTerp(k), p=>{
+      const v=p._terps[k];
+      return v ? `<div class="cmp-terprow"><span class="terpdot" style="background:${terpColor(k)}"></span>${v.toFixed(2)}%</div>` : '<span style="color:var(--ink-faint)">—</span>';
+    }]),
+    ['Qty', p=>`<span class="qty">${p.quantity!=null?p.quantity:'—'}</span>`],
+    ['Location', p=>(p.locations||[]).join(', ')||'—'],
+  ];
+  const head=`<tr><th></th>${items.map(p=>`<th><div class="pname">${p.strainName||p.name}</div>
+    <div class="pbrand" style="font-weight:400;text-transform:none;letter-spacing:0">${p.brand||''}</div>
+    <button class="cmp-x" title="Remove" onclick="removeFromCompare(${p.id})">&times;</button></th>`).join('')}</tr>`;
+  const body=rows.map(([label,fn])=>`<tr><td class="cmp-rowhead">${label}</td>${items.map(p=>`<td>${fn(p)}</td>`).join('')}</tr>`).join('');
+  document.getElementById('cmpTable').innerHTML=`<thead>${head}</thead><tbody>${body}</tbody>`;
+}
 
 /* ============================================================
    WIRE UP CONTROLS
