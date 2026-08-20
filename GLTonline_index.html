@@ -1157,7 +1157,7 @@ function toggleSort(key, additive){
   render();
 }
 function updateSortButtons(){
-  document.querySelectorAll('.sortbtn').forEach(b=>{
+  document.querySelectorAll('.sortbtn[data-sort]').forEach(b=>{
     const s=state.sorts.find(x=>x.key===b.dataset.sort);
     b.classList.toggle('on', !!s);
     b.textContent = b.textContent.replace(/[ ↑↓].*$/,'');
@@ -1172,7 +1172,7 @@ function updateSortButtons(){
 document.querySelectorAll('thead th[data-sort]').forEach(th=>{
   th.onclick=e=>toggleSort(th.dataset.sort, e.shiftKey);
 });
-document.querySelectorAll('.sortbtn').forEach(b=>{
+document.querySelectorAll('.sortbtn[data-sort]').forEach(b=>{
   b.onclick=e=>toggleSort(b.dataset.sort, e.shiftKey);
 });
 
