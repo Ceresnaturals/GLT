@@ -374,10 +374,23 @@ td{padding:11px 12px;vertical-align:middle;font-size:14px;overflow:hidden}
 
 /* ---------- compare ---------- */
 td.c-cmp{padding:0;text-align:center;position:relative}
-.cmp-check{display:inline-flex;align-items:center;justify-content:center;cursor:pointer;padding:10px;margin:-10px}
-.cmp-check input{width:21px;height:21px;accent-color:var(--green);cursor:pointer}
-/* table rows: the whole cell is the click target, not just the padded label, so a
-   real hand's mousedown/mouseup wobble on a tiny 21px box doesn't miss the toggle */
+/* Standard accessible custom-checkbox pattern: the REAL <input> is stretched to cover the
+   entire clickable area (invisible via opacity:0, not display:none, so it stays in the
+   a11y/keyboard tree and every click/tap anywhere in that area lands on the actual form
+   control natively) — a separate .box span is what's drawn as the visible checkbox glyph.
+   This avoids relying on browsers' label->input click-forwarding for a small visual target,
+   which is inconsistent (Edge in particular) once any padding/margin trickery is involved. */
+.cmp-check{position:relative;display:inline-flex;align-items:center;justify-content:center;cursor:pointer}
+.cmp-check input{position:absolute;inset:0;width:100%;height:100%;margin:0;opacity:0;cursor:pointer}
+.cmp-check .box{width:21px;height:21px;border-radius:5px;border:1.5px solid var(--line);
+  background:var(--paper-2);flex:none;display:flex;align-items:center;justify-content:center;
+  transition:.12s;pointer-events:none}
+.cmp-check .box svg{width:14px;height:14px;opacity:0;transform:scale(.6);transition:.12s}
+.cmp-check input:checked ~ .box{background:var(--green);border-color:var(--green)}
+.cmp-check input:checked ~ .box svg{opacity:1;transform:scale(1)}
+.cmp-check input:focus-visible ~ .box{outline:2px solid var(--green);outline-offset:2px}
+/* table rows: the whole cell is the click target, not just a small box, so a real hand's
+   mousedown/mouseup wobble doesn't land outside it and miss the toggle */
 td.c-cmp .cmp-check-cell{display:flex;position:absolute;inset:0;padding:0;margin:0}
 /* cards: float the checkbox into the top-right corner of the card */
 body.view-cards tr{position:relative}
@@ -1033,7 +1046,7 @@ function rowHtml(p){
     </div>`;
   }).join('') || '<span style="color:var(--ink-faint);font-size:12px">Not tested for terpenes</span>';
   return `<tr data-id="${p.id}">
-    <td class="c-cmp" data-label="Compare" onclick="event.stopPropagation()"><label class="cmp-check cmp-check-cell"><input type="checkbox" class="cmp-toggle" data-id="${p.id}"></label></td>
+    <td class="c-cmp" data-label="Compare" onclick="event.stopPropagation()"><label class="cmp-check cmp-check-cell"><input type="checkbox" class="cmp-toggle" data-id="${p.id}"><span class="box"><svg viewBox="0 0 16 16" fill="none"><path d="M3 8.5L6.2 11.5L13 4.5" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></span></label></td>
     <td class="c-prod"><div class="pname">${p.strainName||p.name}</div><div class="pbrand">${sub||'&nbsp;'}</div></td>
     <td class="type-col" data-label="Type">${typeBadge(p)}</td>
     <td class="thc-col" data-label="THC">${thcCell(p)}</td>
@@ -1176,8 +1189,9 @@ function openDrawer(id){
         <span class="rn">${r.strainName||r.name}</span>
         <span style="display:flex;align-items:center;gap:8px">
           <span class="match">${Math.round(sim*100)}% match</span>
-          <label class="cmp-check" title="Add to compare" onclick="event.stopPropagation()">
+          <label class="cmp-check" title="Add to compare" onclick="event.stopPropagation()" style="width:32px;height:32px">
             <input type="checkbox" class="cmp-toggle" data-id="${r.id}">
+            <span class="box"><svg viewBox="0 0 16 16" fill="none"><path d="M3 8.5L6.2 11.5L13 4.5" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
           </label>
         </span>
       </div>
