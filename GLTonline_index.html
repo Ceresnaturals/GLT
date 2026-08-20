@@ -1500,21 +1500,10 @@ boot();
 (function enableEmbedScrollTracking(){
   if (window.self === window.top) return; // not embedded — plain position:fixed is correct as-is
 
-  let parentScrollY = 0, parentViewportH = 800;
-
-  // TEMP DEBUG: relay every log line back to the parent page too (not just this iframe's own
-  // console), since the parent is cross-origin and can't read this iframe's console/DOM
-  // directly. The parent just needs its own 'message' listener to print anything with
-  // type GLT_DEBUG_LOG. Remove this whole relay + all GLT_DEBUG_LOG posts once root-caused.
-  function dbg(...args){
-    const msg = args.map(a => typeof a === 'object' ? JSON.stringify(a) : String(a)).join(' ');
-    console.log('[GLT_DEBUG]', msg);
-    try{ window.parent.postMessage({ type: 'GLT_DEBUG_LOG', msg, t: Date.now() }, '*'); }catch(e){}
-  }
+  let parentScrollY = 0, parentViewportH = 800, parentHeaderH = 0;
 
   window.addEventListener('message', ev => {
     const d = ev.data;
-    dbg('message received:', d, 'origin:', ev.origin);
     if (!d || d.type !== 'GLT_PARENT_SCROLL') return;
     parentScrollY = d.scrollY || 0;
     // Guard against the parent script sending document height (can be 100,000+ px on a
@@ -1524,7 +1513,15 @@ boot();
     // back to our own window.innerHeight reading.
     const h = d.viewportH;
     parentViewportH = (typeof h === 'number' && h > 0 && h < 3000) ? h : (window.innerHeight || parentViewportH);
-    dbg('parsed parentScrollY:', parentScrollY, 'parentViewportH:', parentViewportH);
+    // Squarespace's own site header is position:fixed on the PARENT page, so it draws on top
+    // of anything inside this iframe regardless of z-index — an iframe creates its own
+    // stacking context and can never out-rank an element in the parent document. Confirmed
+    // live: the drawer/modals were positioning correctly at viewport y=0, but the parent's
+    // nav bar was drawn over that same spot, hiding the drawer's header entirely. Clamp
+    // against the header's live height (reported by the parent) so overlays never try to sit
+    // fully at y=0. Guard the same way as viewportH in case of a bad/missing value.
+    const hh = d.headerH;
+    parentHeaderH = (typeof hh === 'number' && hh >= 0 && hh < 400) ? hh : parentHeaderH;
     reposition();
   });
 
@@ -1538,7 +1535,6 @@ boot();
   // this just needs the parent to also do that in response to a request — see the matching
   // GLT_REQUEST_SCROLL handler required in the Squarespace code block's script.
   function requestFreshScroll(){
-    dbg('requestFreshScroll() called');
     try{ window.parent.postMessage({ type: 'GLT_REQUEST_SCROLL' }, '*'); }catch(e){}
   }
 
@@ -1546,32 +1542,25 @@ boot();
     // parentScrollY is measured from the top of the OUTER Squarespace page; the iframe's
     // own top-in-parent offset is baked into GLT_PARENT_SCROLL by the parent script, so
     // this is already "how far down our own document the visible window currently starts."
-    return Math.max(0, parentScrollY);
+    // Add parentHeaderH: Squarespace's own site header is position:fixed on the PARENT page —
+    // pinned to the top of the browser window at every scroll position, not just page-top —
+    // and draws on top of anything in this iframe (iframes can't out-z-index their parent).
+    // So the header permanently occludes the top parentHeaderH px of whatever's visible;
+    // push overlays down by that much so they start just below it instead of underneath it.
+    return parentScrollY + parentHeaderH;
   }
 
   function reposition(){
     const top = visibleTopInDoc();
     const drawer = document.getElementById('drawer');
-    dbg('reposition() called, top=', top, 'drawerFound=', !!drawer, 'drawerIsOpen=', drawer && drawer.classList.contains('open'),
-        'computedTopBefore=', drawer && getComputedStyle(drawer).top,
-        'computedPositionBefore=', drawer && getComputedStyle(drawer).position,
-        'bodyHasEmbedClass=', document.body.classList.contains('embed'),
-        'htmlHasEmbedClass=', document.documentElement.classList.contains('embed'));
-    if (drawer) {
-      drawer.style.top = top + 'px'; drawer.style.height = parentViewportH + 'px';
-      const rect = drawer.getBoundingClientRect();
-      dbg('reposition() set drawer.style.top=', drawer.style.top, 'computedTopAfter=', getComputedStyle(drawer).top,
-          'computedPositionAfter=', getComputedStyle(drawer).position,
-          'boundingRectTop=', rect.top, 'boundingRectBottom=', rect.bottom,
-          'windowInnerHeight=', window.innerHeight);
-    }
+    if (drawer) { drawer.style.top = top + 'px'; drawer.style.height = (parentViewportH - top) + 'px'; }
 
     const cmpBar = document.getElementById('cmpBar');
     if (cmpBar) cmpBar.style.top = (top + parentViewportH - 78) + 'px';
 
     ['helpModal','cmpModal','loader'].forEach(id=>{
       const el = document.getElementById(id);
-      if (el) { el.style.top = top + 'px'; el.style.height = parentViewportH + 'px'; }
+      if (el) { el.style.top = top + 'px'; el.style.height = (parentViewportH - top) + 'px'; }
     });
   }
 
