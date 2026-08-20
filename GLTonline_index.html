@@ -1502,9 +1502,19 @@ boot();
 
   let parentScrollY = 0, parentViewportH = 800;
 
+  // TEMP DEBUG: relay every log line back to the parent page too (not just this iframe's own
+  // console), since the parent is cross-origin and can't read this iframe's console/DOM
+  // directly. The parent just needs its own 'message' listener to print anything with
+  // type GLT_DEBUG_LOG. Remove this whole relay + all GLT_DEBUG_LOG posts once root-caused.
+  function dbg(...args){
+    const msg = args.map(a => typeof a === 'object' ? JSON.stringify(a) : String(a)).join(' ');
+    console.log('[GLT_DEBUG]', msg);
+    try{ window.parent.postMessage({ type: 'GLT_DEBUG_LOG', msg, t: Date.now() }, '*'); }catch(e){}
+  }
+
   window.addEventListener('message', ev => {
     const d = ev.data;
-    console.log('[GLT_DEBUG] message received:', JSON.stringify(d), 'origin:', ev.origin);
+    dbg('message received:', d, 'origin:', ev.origin);
     if (!d || d.type !== 'GLT_PARENT_SCROLL') return;
     parentScrollY = d.scrollY || 0;
     // Guard against the parent script sending document height (can be 100,000+ px on a
@@ -1514,7 +1524,7 @@ boot();
     // back to our own window.innerHeight reading.
     const h = d.viewportH;
     parentViewportH = (typeof h === 'number' && h > 0 && h < 3000) ? h : (window.innerHeight || parentViewportH);
-    console.log('[GLT_DEBUG] parsed parentScrollY:', parentScrollY, 'parentViewportH:', parentViewportH);
+    dbg('parsed parentScrollY:', parentScrollY, 'parentViewportH:', parentViewportH);
     reposition();
   });
 
@@ -1528,6 +1538,7 @@ boot();
   // this just needs the parent to also do that in response to a request — see the matching
   // GLT_REQUEST_SCROLL handler required in the Squarespace code block's script.
   function requestFreshScroll(){
+    dbg('requestFreshScroll() called');
     try{ window.parent.postMessage({ type: 'GLT_REQUEST_SCROLL' }, '*'); }catch(e){}
   }
 
@@ -1541,8 +1552,12 @@ boot();
   function reposition(){
     const top = visibleTopInDoc();
     const drawer = document.getElementById('drawer');
-    console.log('[GLT_DEBUG] reposition() called, top=', top, 'drawerFound=', !!drawer, 'drawerIsOpen=', drawer && drawer.classList.contains('open'));
-    if (drawer) { drawer.style.top = top + 'px'; drawer.style.height = parentViewportH + 'px'; }
+    dbg('reposition() called, top=', top, 'drawerFound=', !!drawer, 'drawerIsOpen=', drawer && drawer.classList.contains('open'),
+        'computedTopBefore=', drawer && getComputedStyle(drawer).top);
+    if (drawer) {
+      drawer.style.top = top + 'px'; drawer.style.height = parentViewportH + 'px';
+      dbg('reposition() set drawer.style.top=', drawer.style.top, 'computedTopAfter=', getComputedStyle(drawer).top);
+    }
 
     const cmpBar = document.getElementById('cmpBar');
     if (cmpBar) cmpBar.style.top = (top + parentViewportH - 78) + 'px';
