@@ -1516,6 +1516,19 @@ boot();
     reposition();
   });
 
+  // The parent only pushes GLT_PARENT_SCROLL on its own scroll/resize/load events, so the
+  // cached parentScrollY here can be stale by the time a user actually clicks a product —
+  // e.g. after inertial/momentum scrolling settles without firing another scroll event, or
+  // if the click itself is the first interaction since page load and no scroll message has
+  // arrived yet. Overlays opened directly (drawer, modals) actively ask the parent for a
+  // fresh reading instead of trusting whatever was last cached. The parent script's
+  // GLT_PARENT_SCROLL message listener already computes+sends on demand whenever called, so
+  // this just needs the parent to also do that in response to a request — see the matching
+  // GLT_REQUEST_SCROLL handler required in the Squarespace code block's script.
+  function requestFreshScroll(){
+    try{ window.parent.postMessage({ type: 'GLT_REQUEST_SCROLL' }, '*'); }catch(e){}
+  }
+
   function visibleTopInDoc(){
     // parentScrollY is measured from the top of the OUTER Squarespace page; the iframe's
     // own top-in-parent offset is baked into GLT_PARENT_SCROLL by the parent script, so
@@ -1537,7 +1550,7 @@ boot();
     });
   }
 
-  window.__embedReposition = reposition;
+  window.__embedReposition = function(){ requestFreshScroll(); reposition(); };
   reposition();
 })();
 </script>
