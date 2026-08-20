@@ -1453,7 +1453,13 @@ boot();
     const d = ev.data;
     if (!d || d.type !== 'GLT_PARENT_SCROLL') return;
     parentScrollY = d.scrollY || 0;
-    parentViewportH = d.viewportH || parentViewportH;
+    // Guard against the parent script sending document height (can be 100,000+ px on a
+    // long page) instead of the actual visible window height — a bad value here stretches
+    // the drawer/loader/modal overlay across the whole scrollable page, silently blocking
+    // every click beneath it. Only trust plausible browser viewport heights; otherwise fall
+    // back to our own window.innerHeight reading.
+    const h = d.viewportH;
+    parentViewportH = (typeof h === 'number' && h > 0 && h < 3000) ? h : (window.innerHeight || parentViewportH);
     reposition();
   });
 
