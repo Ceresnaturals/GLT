@@ -374,11 +374,11 @@ td{padding:11px 12px;vertical-align:middle;font-size:14px;overflow:hidden}
 
 /* ---------- compare ---------- */
 td.c-cmp{padding-left:14px;padding-right:2px;text-align:center}
-.cmp-check{display:inline-flex;align-items:center;justify-content:center;cursor:pointer}
-.cmp-check input{width:21px;height:21px;accent-color:var(--green);cursor:pointer}
+.cmp-check{display:inline-flex;align-items:center;justify-content:center;cursor:pointer;padding:10px;margin:-10px}
+.cmp-check input{width:21px;height:21px;accent-color:var(--green);cursor:pointer;pointer-events:none}
 /* cards: float the checkbox into the top-right corner of the card */
 body.view-cards tr{position:relative}
-body.view-cards td.c-cmp{display:block;position:absolute;top:10px;right:10px;padding:0;width:auto;z-index:1}
+body.view-cards td.c-cmp{display:block;position:absolute;top:20px;right:20px;padding:0;width:auto;z-index:1}
 body.view-cards td.c-cmp::before{display:none}
 tr.cmp-on{background:color-mix(in srgb,var(--green) 16%,transparent)}
 tr.cmp-on:hover{background:color-mix(in srgb,var(--green) 20%,transparent)}
@@ -1030,7 +1030,7 @@ function rowHtml(p){
     </div>`;
   }).join('') || '<span style="color:var(--ink-faint);font-size:12px">Not tested for terpenes</span>';
   return `<tr data-id="${p.id}">
-    <td class="c-cmp" data-label="Compare"><label class="cmp-check" onclick="event.stopPropagation()"><input type="checkbox" class="cmp-toggle" data-id="${p.id}"></label></td>
+    <td class="c-cmp" data-label="Compare" onclick="event.stopPropagation()"><label class="cmp-check"><input type="checkbox" class="cmp-toggle" data-id="${p.id}"></label></td>
     <td class="c-prod"><div class="pname">${p.strainName||p.name}</div><div class="pbrand">${sub||'&nbsp;'}</div></td>
     <td class="type-col" data-label="Type">${typeBadge(p)}</td>
     <td class="thc-col" data-label="THC">${thcCell(p)}</td>
