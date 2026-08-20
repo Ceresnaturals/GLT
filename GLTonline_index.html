@@ -1553,10 +1553,17 @@ boot();
     const top = visibleTopInDoc();
     const drawer = document.getElementById('drawer');
     dbg('reposition() called, top=', top, 'drawerFound=', !!drawer, 'drawerIsOpen=', drawer && drawer.classList.contains('open'),
-        'computedTopBefore=', drawer && getComputedStyle(drawer).top);
+        'computedTopBefore=', drawer && getComputedStyle(drawer).top,
+        'computedPositionBefore=', drawer && getComputedStyle(drawer).position,
+        'bodyHasEmbedClass=', document.body.classList.contains('embed'),
+        'htmlHasEmbedClass=', document.documentElement.classList.contains('embed'));
     if (drawer) {
       drawer.style.top = top + 'px'; drawer.style.height = parentViewportH + 'px';
-      dbg('reposition() set drawer.style.top=', drawer.style.top, 'computedTopAfter=', getComputedStyle(drawer).top);
+      const rect = drawer.getBoundingClientRect();
+      dbg('reposition() set drawer.style.top=', drawer.style.top, 'computedTopAfter=', getComputedStyle(drawer).top,
+          'computedPositionAfter=', getComputedStyle(drawer).position,
+          'boundingRectTop=', rect.top, 'boundingRectBottom=', rect.bottom,
+          'windowInnerHeight=', window.innerHeight);
     }
 
     const cmpBar = document.getElementById('cmpBar');
