@@ -1504,6 +1504,7 @@ boot();
 
   window.addEventListener('message', ev => {
     const d = ev.data;
+    console.log('[GLT_DEBUG] message received:', JSON.stringify(d), 'origin:', ev.origin);
     if (!d || d.type !== 'GLT_PARENT_SCROLL') return;
     parentScrollY = d.scrollY || 0;
     // Guard against the parent script sending document height (can be 100,000+ px on a
@@ -1513,6 +1514,7 @@ boot();
     // back to our own window.innerHeight reading.
     const h = d.viewportH;
     parentViewportH = (typeof h === 'number' && h > 0 && h < 3000) ? h : (window.innerHeight || parentViewportH);
+    console.log('[GLT_DEBUG] parsed parentScrollY:', parentScrollY, 'parentViewportH:', parentViewportH);
     reposition();
   });
 
@@ -1539,6 +1541,7 @@ boot();
   function reposition(){
     const top = visibleTopInDoc();
     const drawer = document.getElementById('drawer');
+    console.log('[GLT_DEBUG] reposition() called, top=', top, 'drawerFound=', !!drawer, 'drawerIsOpen=', drawer && drawer.classList.contains('open'));
     if (drawer) { drawer.style.top = top + 'px'; drawer.style.height = parentViewportH + 'px'; }
 
     const cmpBar = document.getElementById('cmpBar');
