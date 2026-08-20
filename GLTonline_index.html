@@ -1570,6 +1570,26 @@ boot();
 
   window.__embedReposition = function(){ requestFreshScroll(); reposition(); };
   reposition();
+
+  // Safety net: the parent only sends GLT_PARENT_SCROLL on its own scroll/resize/load events.
+  // During active scrolling those fire continuously and tracking is smooth and accurate, but
+  // the FINAL correction after motion stops depends on the browser firing one more trailing
+  // scroll event — which isn't reliable across browsers/input devices (trackpad inertia,
+  // some touch scrolling). Confirmed via live relay-logging: the drawer can end up frozen
+  // ~200px short of the true final scroll position because that last event never arrives.
+  // While any overlay is open, poll for a fresh reading on an interval as a backstop — cheap
+  // (postMessage + a few DOM reads), and self-correcting even if a "final" event is missed.
+  // The parent-side `scrollend` listener (see the Squarespace code block script) covers the
+  // same gap from the other direction; this is the belt to that braces.
+  function anyOverlayOpen(){
+    const drawer = document.getElementById('drawer');
+    const cmpModal = document.getElementById('cmpModal');
+    const helpModal = document.getElementById('helpModal');
+    return (drawer && drawer.classList.contains('open'))
+      || (cmpModal && !cmpModal.hidden)
+      || (helpModal && !helpModal.hidden);
+  }
+  setInterval(() => { if (anyOverlayOpen()) requestFreshScroll(); }, 400);
 })();
 </script>
 </body>
