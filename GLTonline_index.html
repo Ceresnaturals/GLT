@@ -1552,15 +1552,20 @@ boot();
 
   function reposition(){
     const top = visibleTopInDoc();
+    // Visible height is the viewport minus what the fixed header covers — a small constant
+    // offset, NOT minus `top` (top includes parentScrollY, which grows unboundedly with scroll
+    // depth; subtracting the full scroll-dependent value here was a bug — it shrank the drawer
+    // toward zero/negative height the further down the page you scrolled).
+    const visibleH = Math.max(0, parentViewportH - parentHeaderH);
     const drawer = document.getElementById('drawer');
-    if (drawer) { drawer.style.top = top + 'px'; drawer.style.height = (parentViewportH - top) + 'px'; }
+    if (drawer) { drawer.style.top = top + 'px'; drawer.style.height = visibleH + 'px'; }
 
     const cmpBar = document.getElementById('cmpBar');
-    if (cmpBar) cmpBar.style.top = (top + parentViewportH - 78) + 'px';
+    if (cmpBar) cmpBar.style.top = (top + visibleH - 78) + 'px';
 
     ['helpModal','cmpModal','loader'].forEach(id=>{
       const el = document.getElementById(id);
-      if (el) { el.style.top = top + 'px'; el.style.height = (parentViewportH - top) + 'px'; }
+      if (el) { el.style.top = top + 'px'; el.style.height = visibleH + 'px'; }
     });
   }
 
