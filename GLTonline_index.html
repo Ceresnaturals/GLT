@@ -614,6 +614,11 @@ body.embed .cmpbar{bottom:auto} /* top is set in JS instead, from tracked parent
       </table>
     </div>
     <div class="empty" id="emptyState" style="display:none">No products match these filters.</div>
+    <div class="pager" id="pager" style="display:none;align-items:center;justify-content:center;gap:12px;padding:14px 0;font-size:13px;color:var(--ink-faint)">
+      <button class="sortbtn" id="pagerPrev" type="button">&larr; Prev</button>
+      <span id="pagerLabel"></span>
+      <button class="sortbtn" id="pagerNext" type="button">Next &rarr;</button>
+    </div>
   </main>
 </div>
 
@@ -810,8 +815,9 @@ let PRODUCTS = [];
 const state = {
   search:'', types:new Set(), locations:new Set(), categories:new Set(),
   terpene:'', domOnly:false, group:false, thcMin:0, cannabinoids:new Set(),
-  sorts:[{key:'name',dir:1}], selectedId:null, compare:new Set()
+  sorts:[{key:'name',dir:1}], selectedId:null, compare:new Set(), page:0
 };
+const PAGE_SIZE = 100;
 
 /* ============================================================
    DATA LOADING (fetch, with file-picker fallback for file://)
@@ -953,10 +959,21 @@ function applySort(list){
    RENDER
    ============================================================ */
 function render(){
+  const sig = JSON.stringify({s:state.search,t:[...state.types],l:[...state.locations],c:[...state.categories],
+    tp:state.terpene,d:state.domOnly,th:state.thcMin,cb:[...state.cannabinoids],so:state.sorts});
+  if(sig !== state._lastSig){ state.page = 0; state._lastSig = sig; }
   let list = PRODUCTS.filter(passes);
   list = applySort(list);
-  document.getElementById('shown').textContent = list.length;
+  const totalMatched = list.length;
+  const pageCount = Math.max(1, Math.ceil(totalMatched / PAGE_SIZE));
+  if(state.page >= pageCount) state.page = pageCount - 1;
+  if(state.page < 0) state.page = 0;
+  const pageStart = state.page * PAGE_SIZE;
+  list = list.slice(pageStart, pageStart + PAGE_SIZE);
+
+  document.getElementById('shown').textContent = totalMatched;
   document.getElementById('total').textContent = PRODUCTS.length;
+  renderPager(totalMatched, pageCount, pageStart, list.length);
   const tbody = document.getElementById('rows');
   tbody.innerHTML='';
   document.getElementById('emptyState').style.display = list.length? 'none':'block';
@@ -990,6 +1007,19 @@ function render(){
   });
   updateSortButtons();
 }
+
+function renderPager(totalMatched, pageCount, pageStart, shownOnPage){
+  const pager = document.getElementById('pager');
+  if(pageCount <= 1){ pager.style.display='none'; return; }
+  pager.style.display='flex';
+  const from = totalMatched ? pageStart+1 : 0;
+  const to = pageStart + shownOnPage;
+  document.getElementById('pagerLabel').textContent = `${from}–${to} of ${totalMatched} · page ${state.page+1} of ${pageCount}`;
+  document.getElementById('pagerPrev').disabled = state.page<=0;
+  document.getElementById('pagerNext').disabled = state.page>=pageCount-1;
+}
+document.getElementById('pagerPrev').onclick=()=>{ state.page--; render(); document.querySelector('.tablewrap').scrollIntoView({block:'start',behavior:'smooth'}); };
+document.getElementById('pagerNext').onclick=()=>{ state.page++; render(); document.querySelector('.tablewrap').scrollIntoView({block:'start',behavior:'smooth'}); };
 
 function topTerps(p,n=3){
   return Object.entries(p._terps).sort((a,b)=>b[1]-a[1]).slice(0,n);
