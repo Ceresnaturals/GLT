@@ -965,7 +965,11 @@ function render(){
     const cb=tr.querySelector('.cmp-toggle');
     if(cb){
       cb.checked=state.compare.has(id);
-      cb.onchange=()=>toggleCompare(id);
+      cb.onchange=()=>{
+        toggleCompare(id);
+        tr.classList.toggle('cmp-on', state.compare.has(id));
+        cb.checked=state.compare.has(id);
+      };
     }
   });
   updateSortButtons();
@@ -1247,10 +1251,9 @@ const CMP_MAX=4;
 function toggleCompare(id){
   if(state.compare.has(id)) state.compare.delete(id);
   else{
-    if(state.compare.size>=CMP_MAX){ alert(`You can compare up to ${CMP_MAX} products at once.`); render(); return; }
+    if(state.compare.size>=CMP_MAX){ alert(`You can compare up to ${CMP_MAX} products at once.`); return; }
     state.compare.add(id);
   }
-  render();
   updateCmpBar();
 }
 function updateCmpBar(){
