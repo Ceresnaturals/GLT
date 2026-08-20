@@ -89,6 +89,12 @@ body{
   color:var(--ink);
   line-height:1.4;
   min-height:100vh;
+  /* embed mode: NOT 100vh. Inside the Squarespace iframe, vh tracks the iframe's own
+     height, which the resize script sets FROM body.scrollHeight — min-height:100vh would
+     make scrollHeight chase the iframe height it just caused, growing forever. */
+}
+html.embed body{
+  min-height:0;
   /* subtle paper grain */
   background-image:
     radial-gradient(circle at 12% 18%, rgba(143,214,127,.05), transparent 40%),
