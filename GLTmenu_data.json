@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T17:10:26.526914+00:00",
+  "generated_at": "2026-08-22T17:20:25.868591+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Back-Ups",
@@ -6447,7 +6447,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Voyager",
       "strainType": null,
@@ -11423,7 +11423,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -24753,7 +24753,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 36.0,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Khalifa Mints",
       "strainType": null,
@@ -30800,7 +30800,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Rainbow Z",
       "strainType": "Indica",
@@ -31164,7 +31164,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Bomb Popz",
       "strainType": null,
@@ -32204,6 +32204,48 @@
       "dominantTerpene": "myrcene"
     },
     {
+      "id": 8790141,
+      "packageCount": 1,
+      "name": "Curio Wellness Midnight Climax Vape-Vape Cart-1.0g",
+      "brand": "Curio Wellness",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Each",
+      "strainName": "Midnight Climax",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 77.19,
+        "CBC": 1.43,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.59,
+        "CBGA": 0.0,
+        "CBN": 1.63,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.27,
+        "humulene": 0.31,
+        "myrcene": 3.87,
+        "alpha-pinene": 0.23,
+        "caryophyllene": 1.23,
+        "beta-pinene": 0.21,
+        "ocimene": 0.1,
+        "limonene": 1.22,
+        "linalool": 0.33,
+        "terpinolene": 0.21
+      },
+      "totalTerps": 8.51,
+      "dominantTerpene": "myrcene"
+    },
+    {
       "id": 8769859,
       "packageCount": 1,
       "name": "Curio Wellness OG Lime Killer Vape-Vape Cart-1.0g",
@@ -32327,6 +32369,47 @@
       },
       "totalTerps": 10.05,
       "dominantTerpene": "myrcene"
+    },
+    {
+      "id": 8790140,
+      "packageCount": 1,
+      "name": "Curio Wellness Purple Kush Vape - Vape Cart - 0.5g",
+      "brand": "Curio Wellness",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 18.0,
+      "unit": "Each",
+      "strainName": "Purple Kush",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 75.41,
+        "CBC": 1.02,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.79,
+        "CBGA": 0.0,
+        "CBN": 2.33,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 1.99,
+        "myrcene": 1.15,
+        "alpha-pinene": 0.24,
+        "caryophyllene": 2.46,
+        "beta-pinene": 0.07,
+        "ocimene": 0.13,
+        "limonene": 0.26,
+        "linalool": 3.68,
+        "terpinolene": 0.21
+      },
+      "totalTerps": 10.19,
+      "dominantTerpene": "linalool"
     },
     {
       "id": 8583747,
