@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T19:50:26.142152+00:00",
+  "generated_at": "2026-08-22T20:00:30.426874+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Back-Ups",
@@ -17185,7 +17185,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -26918,6 +26918,44 @@
       "dominantTerpene": "caryophyllene"
     },
     {
+      "id": 8765231,
+      "packageCount": 1,
+      "name": "Shake/Trim - Dark Rainbow",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 243.6,
+      "unit": "Grams",
+      "strainName": "Dark Rainbow",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 20.85,
+        "totalCBD": 0.22,
+        "CBDA": 0.04,
+        "CBG": 0.15,
+        "CBN": 0.01,
+        "THCA": 23.56
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.23,
+        "myrcene": 0.16,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.46,
+        "beta-pinene": 0.03,
+        "limonene": 0.21,
+        "linalool": 0.08,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 1.26,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
       "id": 8849579,
       "packageCount": 1,
       "name": "Super Lemon Haze 5g Shake/Trim",
@@ -28313,48 +28351,6 @@
       },
       "totalTerps": 4.71,
       "dominantTerpene": "caryophyllene"
-    },
-    {
-      "id": 8214518,
-      "packageCount": 1,
-      "name": "500mg_Roll One_Bubba Kush_Indica (260310MED091981)-Vape Cart",
-      "brand": "Roll One",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Bubba Kush",
-      "strainType": "Indica",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 83.44,
-        "CBC": 0.33,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.85,
-        "CBGA": 0.0,
-        "CBN": 0.19,
-        "THCA": 0.0,
-        "THCV": 0.76
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.16,
-        "humulene": 0.2,
-        "myrcene": 0.73,
-        "alpha-pinene": 0.12,
-        "caryophyllene": 1.02,
-        "beta-pinene": 0.15,
-        "ocimene": 0.1,
-        "limonene": 0.26,
-        "terpinolene": 1.3,
-        "nerolidol": 0.26
-      },
-      "totalTerps": 4.36,
-      "dominantTerpene": "terpinolene"
     },
     {
       "id": 8191120,
@@ -37480,7 +37476,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Melon Sherbert",
       "strainType": null,
