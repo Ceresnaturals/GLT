@@ -257,6 +257,10 @@ aside{
   color:var(--ink-soft);margin-bottom:10px;display:flex;justify-content:space-between;
 }
 .chips{display:flex;flex-wrap:wrap;gap:7px}
+.subchips-label{
+  font-size:10px;text-transform:uppercase;letter-spacing:.12em;
+  color:var(--ink-soft);margin:12px 0 8px;opacity:.75;
+}
 .chip{
   font-size:13px;padding:6px 12px;border-radius:999px;cursor:pointer;
   border:1px solid var(--line);background:var(--paper-2);color:var(--ink-soft);
@@ -551,6 +555,8 @@ body.embed .cmpbar{bottom:auto} /* top is set in JS instead, from tracked parent
     <div class="fgroup">
       <h3>Category</h3>
       <div class="chips" id="catChips"></div>
+      <div class="subchips-label">Edible type</div>
+      <div class="chips" id="edibleChips"></div>
     </div>
     <div class="fgroup lab-filter">
       <h3>Terpene</h3>
@@ -819,7 +825,7 @@ function classifyStrain(product){
 let DATA = null;
 let PRODUCTS = [];
 const state = {
-  search:'', types:new Set(), locations:new Set(), categories:new Set(),
+  search:'', types:new Set(), locations:new Set(), categories:new Set(), edibleTypes:new Set(),
   terpene:'', domOnly:false, group:false, thcMin:0, cannabinoids:new Set(),
   sorts:[{key:'name',dir:1}], selectedId:null, compare:new Set(), page:0
 };
@@ -862,7 +868,9 @@ function ingest(data){
       quantity: num(p.quantity), _terps: terps, _cann: cann, _dose: p.dose||null,
       _effect: inferEffectType(terps, cann, num(p.totalTerps)),
       _estimated: !(p.strainClass || p.strainType),   // no manufacturer label => estimated
-      _search: [p.name,p.brand,p.strainName,p.category].filter(Boolean).join(' ').toLowerCase()
+      _search: [p.name,p.brand,p.strainName,p.category].filter(Boolean).join(' ').toLowerCase(),
+      _liquidEdible: /liquid edible/i.test(p.metrcCategory||''),
+      _exempt: /^exempt/i.test(p.metrcCategory||'')
     };
     o._cls = classifyStrain(o);
     return o;
@@ -902,6 +910,7 @@ function buildFilters(){
   // categories
   const cats = DATA.categories || [...new Set(PRODUCTS.map(p=>p.category))].sort();
   chipSet('catChips', cats, state.categories);
+  chipSet('edibleChips', ['Liquid Edible','Exempt'], state.edibleTypes);
   // terpene dropdown (all terps seen)
   const terps = new Set();
   PRODUCTS.forEach(p=>Object.keys(p._terps).forEach(t=>terps.add(t)));
@@ -932,6 +941,10 @@ function passes(p){
   if(state.types.size){ if(!p._cls || !state.types.has(p._cls)) return false; }
   if(state.locations.size && !(p.locations||[]).some(l=>state.locations.has(l))) return false;
   if(state.categories.size && !state.categories.has(p.category)) return false;
+  if(state.edibleTypes.size){
+    if(state.edibleTypes.has('Liquid Edible') && !p._liquidEdible) return false;
+    if(state.edibleTypes.has('Exempt') && !p._exempt) return false;
+  }
   if(state.terpene){
     if(!(p._terps[state.terpene]>0)) return false;
     if(state.domOnly && p.dominantTerpene!==state.terpene) return false;
@@ -1157,7 +1170,7 @@ function toggleSort(key, additive){
   render();
 }
 function updateSortButtons(){
-  document.querySelectorAll('.sortbtn[data-sort]').forEach(b=>{
+  document.querySelectorAll('.sortbtn').forEach(b=>{
     const s=state.sorts.find(x=>x.key===b.dataset.sort);
     b.classList.toggle('on', !!s);
     b.textContent = b.textContent.replace(/[ ↑↓].*$/,'');
@@ -1172,7 +1185,7 @@ function updateSortButtons(){
 document.querySelectorAll('thead th[data-sort]').forEach(th=>{
   th.onclick=e=>toggleSort(th.dataset.sort, e.shiftKey);
 });
-document.querySelectorAll('.sortbtn[data-sort]').forEach(b=>{
+document.querySelectorAll('.sortbtn').forEach(b=>{
   b.onclick=e=>toggleSort(b.dataset.sort, e.shiftKey);
 });
 
@@ -1439,7 +1452,7 @@ document.getElementById('thcMin').oninput=e=>{
   render();
 };
 document.getElementById('clearAll').onclick=()=>{
-  state.search=''; state.types.clear(); state.locations.clear(); state.categories.clear();
+  state.search=''; state.types.clear(); state.locations.clear(); state.categories.clear(); state.edibleTypes.clear();
   state.terpene=''; state.domOnly=false; state.group=false; state.thcMin=0; state.cannabinoids.clear();
   state.sorts=[{key:'name',dir:1}];
   document.getElementById('search').value='';
