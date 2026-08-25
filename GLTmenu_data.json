@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T20:10:32.312988+00:00",
+  "generated_at": "2026-08-25T20:20:27.551181+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Back-Ups",
@@ -8204,7 +8204,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8250,7 +8250,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8296,7 +8296,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12523,6 +12523,52 @@
       "dominantTerpene": null
     },
     {
+      "id": 8752047,
+      "packageCount": 1,
+      "name": "HiColor Gummies Oxnard Strawberry|Edible Product|10mg|10ct",
+      "brand": "HiColor",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 17.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.212,
+        "CBC": 0.005,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.015,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1pc",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.213,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.638,
+          "CBGA": 0.0,
+          "CBN": 0.085,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
       "id": 8678365,
       "packageCount": 1,
       "name": "HiColor Gummies Raspberry Lemonade 1:1:1|Edible Product|10mg|10ct",
@@ -13094,7 +13140,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17155,6 +17201,46 @@
       "dominantTerpene": "linalool"
     },
     {
+      "id": 8752050,
+      "packageCount": 1,
+      "name": "1937|Shake|Duct Tape|Usable|7.0g",
+      "brand": "1937",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Back-Ups"
+      ],
+      "quantity": 210.0,
+      "unit": "Grams",
+      "strainName": "Duct Tape",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 19.72,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.09,
+        "CBGA": 0.58,
+        "CBN": 0.0,
+        "THCA": 21.89,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.15,
+        "myrcene": 0.12,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.49,
+        "beta-pinene": 0.05,
+        "limonene": 0.34,
+        "linalool": 0.08
+      },
+      "totalTerps": 1.46,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
       "id": 8731098,
       "packageCount": 1,
       "name": "Animal Cocktail - Pre Pack Bud - 3.5 gram - Plastic Container",
@@ -19538,7 +19624,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 84.0,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Larry Bird Mints",
       "strainType": null,
@@ -19659,7 +19745,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 196.0,
+      "quantity": 168.0,
       "unit": "Grams",
       "strainName": "Sequoia Strawberry",
       "strainType": null,
@@ -19700,7 +19786,7 @@
       "locations": [
         "Back-Ups"
       ],
-      "quantity": 105.0,
+      "quantity": 101.5,
       "unit": "Grams",
       "strainName": "Strawberry Jelly",
       "strainType": null,
@@ -20327,6 +20413,45 @@
       "dominantTerpene": "limonene"
     },
     {
+      "id": 8751944,
+      "packageCount": 1,
+      "name": "Small A$$ Buds|Small Flower|Blockberry|Usable|3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Back-Ups"
+      ],
+      "quantity": 108.5,
+      "unit": "Grams",
+      "strainName": "Blockberry",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.92,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.28,
+        "CBGA": 0.81,
+        "CBN": 0.0,
+        "THCA": 25.9,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.09,
+        "myrcene": 0.16,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.26,
+        "beta-pinene": 0.04,
+        "limonene": 0.32,
+        "linalool": 0.13
+      },
+      "totalTerps": 1.11,
+      "dominantTerpene": "limonene"
+    },
+    {
       "id": 8606884,
       "packageCount": 1,
       "name": "Small A$$ Buds|Small Flower|Mango Mintality|Usable|3.5g",
@@ -20364,6 +20489,48 @@
       },
       "totalTerps": 1.17,
       "dominantTerpene": "myrcene"
+    },
+    {
+      "id": 8752054,
+      "packageCount": 1,
+      "name": "Small A$$ Buds|Small Flower|Modified Grapes|Usable|3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Back-Ups"
+      ],
+      "quantity": 112.0,
+      "unit": "Grams",
+      "strainName": "Modified Grapes",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 23.3,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.51,
+        "CBN": 0.0,
+        "THCA": 25.93,
+        "THCV": 0.05
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.15,
+        "myrcene": 0.47,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 0.47,
+        "eudesmol": 0.15,
+        "beta-pinene": 0.14,
+        "ocimene": 0.04,
+        "limonene": 0.81,
+        "linalool": 0.07
+      },
+      "totalTerps": 2.92,
+      "dominantTerpene": "limonene"
     },
     {
       "id": 8507794,
@@ -20404,43 +20571,6 @@
         "linalool": 0.12
       },
       "totalTerps": 2.32,
-      "dominantTerpene": "myrcene"
-    },
-    {
-      "id": 8819282,
-      "packageCount": 1,
-      "name": "Strawberry Candy - Pre Pack Bud - 3.5 gram - Plastic Container",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "Strawberry Candy #4 TC",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 28.29,
-        "totalCBD": 0.28,
-        "CBDA": 0.04,
-        "CBG": 0.62,
-        "CBN": 0.01,
-        "THCA": 31.88
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.02,
-        "humulene": 0.11,
-        "myrcene": 0.95,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.32,
-        "beta-pinene": 0.08,
-        "limonene": 0.62,
-        "linalool": 0.16
-      },
-      "totalTerps": 2.34,
       "dominantTerpene": "myrcene"
     },
     {
@@ -25727,7 +25857,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -27771,7 +27901,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "SDG OG LLR",
       "strainType": null,
@@ -33555,7 +33685,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Super Glue",
       "strainType": null,
