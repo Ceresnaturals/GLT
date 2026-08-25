@@ -257,6 +257,7 @@ aside{
   color:var(--ink-soft);margin-bottom:10px;display:flex;justify-content:space-between;
 }
 .chips{display:flex;flex-wrap:wrap;gap:7px}
+.chips + .chips{margin-top:7px}
 .subchips-label{
   font-size:10px;text-transform:uppercase;letter-spacing:.12em;
   color:var(--ink-soft);margin:12px 0 8px;opacity:.75;
@@ -554,9 +555,18 @@ body.embed .cmpbar{bottom:auto} /* top is set in JS instead, from tracked parent
     </div>
     <div class="fgroup">
       <h3>Category</h3>
-      <div class="chips" id="catChips"></div>
-      <div class="subchips-label">Edible type</div>
+      <div class="subchips-label">Bud/Trim</div>
+      <div class="chips" id="catChipsBud"></div>
+      <div class="subchips-label">Concentrate</div>
+      <div class="chips" id="catChipsConcentrate"></div>
+      <div class="subchips-label">Edibles</div>
+      <div class="chips" id="catChipsEdibles"></div>
       <div class="chips" id="edibleChips"></div>
+      <div class="subchips-label">Topicals</div>
+      <div class="chips" id="catChipsTopicals"></div>
+      <div class="subchips-label">Seeds</div>
+      <div class="chips" id="catChipsSeeds"></div>
+      <div class="chips" id="catChipsOther"></div>
     </div>
     <div class="fgroup lab-filter">
       <h3>Terpene</h3>
@@ -907,10 +917,22 @@ const num = v => (v===null||v===undefined||isNaN(v)) ? null : +v;
 function buildFilters(){
   // locations
   chipSet('locChips', DATA.locations||[], state.locations);
-  // categories
+  // categories, grouped
   const cats = DATA.categories || [...new Set(PRODUCTS.map(p=>p.category))].sort();
-  chipSet('catChips', cats, state.categories);
-  chipSet('edibleChips', ['Liquid Edible','Exempt'], state.edibleTypes);
+  const CAT_GROUPS = {
+    catChipsBud: ['Flower','Pre-Roll','Shake/Trim'],
+    catChipsConcentrate: ['Concentrate','Vape'],
+    catChipsEdibles: ['Edible','Drink','Capsule','Tincture'],
+    catChipsTopicals: ['Topical'],
+    catChipsSeeds: ['Seeds'],
+  };
+  const grouped = new Set(Object.values(CAT_GROUPS).flat());
+  for(const [id, wanted] of Object.entries(CAT_GROUPS)){
+    chipSet(id, wanted.filter(c=>cats.includes(c)), state.categories);
+  }
+  chipSet('edibleChips', ['Liquid Edible','Exempt (High Dose)'], state.edibleTypes);
+  // anything not covered by the known groups still shows up, uncategorized
+  chipSet('catChipsOther', cats.filter(c=>!grouped.has(c)), state.categories);
   // terpene dropdown (all terps seen)
   const terps = new Set();
   PRODUCTS.forEach(p=>Object.keys(p._terps).forEach(t=>terps.add(t)));
@@ -943,7 +965,7 @@ function passes(p){
   if(state.categories.size && !state.categories.has(p.category)) return false;
   if(state.edibleTypes.size){
     if(state.edibleTypes.has('Liquid Edible') && !p._liquidEdible) return false;
-    if(state.edibleTypes.has('Exempt') && !p._exempt) return false;
+    if(state.edibleTypes.has('Exempt (High Dose)') && !p._exempt) return false;
   }
   if(state.terpene){
     if(!(p._terps[state.terpene]>0)) return false;
