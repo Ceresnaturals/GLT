@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T14:20:27.007447+00:00",
+  "generated_at": "2026-08-25T14:30:31.544928+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Back-Ups",
@@ -107,6 +107,54 @@
           "CBN": 5.41,
           "THCA": 0.0,
           "THCV": 0.075
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8828775,
+      "packageCount": 1,
+      "name": "NH RSO V1-Capsule-10mg-10",
+      "brand": "NH",
+      "category": "Capsule",
+      "metrcCategory": "Infused Edible (Capsule Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 9.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 1.85,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.05,
+        "CBGA": 0.0,
+        "CBN": 0.08,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.25,
+          "CBGA": 0.0,
+          "CBN": 0.4,
+          "THCA": 0.0,
+          "THCV": 0.0
         },
         "minorsEstimated": true
       },
@@ -4454,6 +4502,43 @@
       },
       "totalTerps": 6.08,
       "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8828801,
+      "packageCount": 1,
+      "name": "NH Agent Orange RSO-Concentrate-1ml",
+      "brand": "NH",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 7.0,
+      "unit": "Each",
+      "strainName": "Agent Orange",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 76.52,
+        "CBC": 0.51,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.35,
+        "CBGA": 0.0,
+        "CBN": 0.29,
+        "THCA": 0.0,
+        "THCV": 0.53
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.07,
+        "caryophyllene": 0.16,
+        "eudesmol": 0.36,
+        "linalool": 0.21,
+        "terpinolene": 0.21
+      },
+      "totalTerps": 1.37,
+      "dominantTerpene": "eudesmol"
     },
     {
       "id": 8579674,
@@ -19794,6 +19879,47 @@
       "dominantTerpene": "limonene"
     },
     {
+      "id": 8766299,
+      "packageCount": 1,
+      "name": "NH Larry Bird Mints Popcorn-Usable-7g",
+      "brand": "NH",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 91.0,
+      "unit": "Grams",
+      "strainName": "Larry Bird Mints",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.94,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.53,
+        "CBN": 0.0,
+        "THCA": 30.94,
+        "THCV": 0.15
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.26,
+        "myrcene": 0.12,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 0.9,
+        "beta-pinene": 0.08,
+        "ocimene": 0.04,
+        "limonene": 0.6,
+        "linalool": 0.18,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.47,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
       "id": 8766834,
       "packageCount": 1,
       "name": "NH Lemon Margy Flower-Usable-3.5g",
@@ -24811,42 +24937,163 @@
     },
     {
       "id": 8828390,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "NH Lilac Diesel Preroll-Usable-.5g 5pk",
       "brand": "NH",
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Back-Ups"
+        "Back-Ups",
+        "Sales Floor"
       ],
-      "quantity": 62.5,
+      "quantity": 80.0,
       "unit": "Grams",
       "strainName": "Lilac Diesel",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 20.69,
+        "totalTHC": 23.39,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.14,
-        "CBGA": 2.25,
+        "CBG": 0.0,
+        "CBGA": 2.61,
         "CBN": 0.0,
-        "THCA": 22.2,
-        "THCV": 0.16
+        "THCA": 25.31,
+        "THCV": 0.19
       },
       "dose": null,
       "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.07,
-        "myrcene": 0.06,
-        "caryophyllene": 0.22,
-        "beta-pinene": 0.02,
-        "ocimene": 0.11,
-        "limonene": 0.04,
-        "terpinolene": 0.16
+        "bisabolol": 0.08,
+        "humulene": 0.08,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.01,
+        "caryophyllene": 0.31,
+        "beta-pinene": 0.03,
+        "ocimene": 0.13,
+        "limonene": 0.05,
+        "terpinolene": 0.25
       },
-      "totalTerps": 0.79,
+      "totalTerps": 1.13,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8516661,
+      "packageCount": 1,
+      "name": "NH ONYCD 3.0 Preroll-Usable-.5g 2pk",
+      "brand": "NH",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 8.0,
+      "unit": "Grams",
+      "strainName": "ONYCD 3.0",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 19.47,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.34,
+        "CBN": 0.0,
+        "THCA": 19.08,
+        "THCV": 0.09
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.21,
+        "myrcene": 0.06,
+        "caryophyllene": 0.79,
+        "limonene": 0.08,
+        "nerolidol": 0.1
+      },
+      "totalTerps": 1.37,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8766836,
+      "packageCount": 1,
+      "name": "NH Sequoia Strawberry Preroll-Usable-.5g 2pk",
+      "brand": "NH",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 1.0,
+      "unit": "Grams",
+      "strainName": "Sequoia Strawberry",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 21.97,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.38,
+        "CBN": 0.0,
+        "THCA": 24.81,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.05,
+        "myrcene": 0.21,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.14,
+        "beta-pinene": 0.03,
+        "limonene": 0.18,
+        "linalool": 0.12,
+        "nerolidol": 0.07
+      },
+      "totalTerps": 0.85,
+      "dominantTerpene": "myrcene"
+    },
+    {
+      "id": 8766909,
+      "packageCount": 1,
+      "name": "NH Sunset Rozay Preroll-Usable-.5g 5pk",
+      "brand": "NH",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 55.0,
+      "unit": "Grams",
+      "strainName": "Sunset Rozay",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.9,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.38,
+        "CBGA": 0.81,
+        "CBN": 0.0,
+        "THCA": 25.48,
+        "THCV": 0.24
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.09,
+        "myrcene": 0.06,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.32,
+        "eudesmol": 0.1,
+        "beta-pinene": 0.04,
+        "limonene": 0.18,
+        "linalool": 0.16
+      },
+      "totalTerps": 1.23,
       "dominantTerpene": "caryophyllene"
     },
     {
@@ -36148,6 +36395,48 @@
       "dominantTerpene": "limonene"
     },
     {
+      "id": 8040378,
+      "packageCount": 1,
+      "name": "NH Black Cherry Punch Live Resin-Vape Cart-.5g",
+      "brand": "NH",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 9.0,
+      "unit": "Each",
+      "strainName": "Black Cherry Punch",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 80.5,
+        "CBC": 0.57,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.15,
+        "CBGA": 0.4,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 1.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.3,
+        "humulene": 0.32,
+        "myrcene": 1.26,
+        "alpha-pinene": 0.37,
+        "caryophyllene": 1.03,
+        "eudesmol": 0.57,
+        "beta-pinene": 0.07,
+        "limonene": 1.79,
+        "linalool": 1.08,
+        "terpinolene": 0.07
+      },
+      "totalTerps": 8.16,
+      "dominantTerpene": "limonene"
+    },
+    {
       "id": 8342757,
       "packageCount": 1,
       "name": "NH Black Cherry Punch Live Rosin Disp-Vape Cart-.5g",
@@ -36353,6 +36642,85 @@
       "dominantTerpene": "caryophyllene"
     },
     {
+      "id": 8828808,
+      "packageCount": 1,
+      "name": "NH Guava IX Live Resin-Vape Cart-1g",
+      "brand": "NH",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 21.0,
+      "unit": "Each",
+      "strainName": "Guava IX",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 73.9,
+        "CBC": 0.63,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.9,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.62,
+        "humulene": 0.94,
+        "myrcene": 2.24,
+        "alpha-pinene": 0.26,
+        "caryophyllene": 2.74,
+        "beta-pinene": 0.06,
+        "limonene": 1.5,
+        "linalool": 0.4
+      },
+      "totalTerps": 9.21,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8689725,
+      "packageCount": 1,
+      "name": "NH Lamb's Bread Live Resin-Vape Cart-.5g",
+      "brand": "NH",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 21.0,
+      "unit": "Each",
+      "strainName": "Lamb's Bread",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 77.37,
+        "CBC": 0.61,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.75,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.61
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.4,
+        "myrcene": 4.99,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 1.02,
+        "beta-pinene": 0.06,
+        "limonene": 0.84,
+        "linalool": 0.19
+      },
+      "totalTerps": 7.92,
+      "dominantTerpene": "myrcene"
+    },
+    {
       "id": 8632206,
       "packageCount": 1,
       "name": "NH Lemon Margy Live Resin-Vape Cart-1g",
@@ -36516,6 +36884,49 @@
       },
       "totalTerps": 10.74,
       "dominantTerpene": "myrcene"
+    },
+    {
+      "id": 7626173,
+      "packageCount": 1,
+      "name": "NH Tropical Adhesive Live Resin-Vape Cart-.5g",
+      "brand": "NH",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 6.0,
+      "unit": "Each",
+      "strainName": "Tropical Adhesive",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 70.96,
+        "CBC": 0.58,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.37,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.55,
+        "humulene": 0.9,
+        "myrcene": 1.09,
+        "alpha-pinene": 0.7,
+        "caryophyllene": 3.44,
+        "beta-pinene": 0.13,
+        "caryophyllene-oxide": 0.1,
+        "ocimene": 0.26,
+        "limonene": 2.32,
+        "linalool": 0.47,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 10.81,
+      "dominantTerpene": "caryophyllene"
     },
     {
       "id": 8631520,
