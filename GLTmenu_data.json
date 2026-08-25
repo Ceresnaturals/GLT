@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T17:53:08.198143+00:00",
+  "generated_at": "2026-08-25T18:00:30.570825+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Back-Ups",
@@ -124,7 +124,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9169,6 +9169,54 @@
       "dominantTerpene": null
     },
     {
+      "id": 8250104,
+      "packageCount": 1,
+      "name": "Curio Wellness Pain 1:10 Blood Orange Chews-Exempt-40mg-10",
+      "brand": "Curio Wellness",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.955,
+        "totalCBD": 0.097,
+        "CBC": 0.012,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.047,
+        "CBGA": 0.0,
+        "CBN": 0.027,
+        "THCA": 0.0,
+        "THCV": 0.006
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.97,
+          "CBC": 0.12,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.47,
+          "CBGA": 0.0,
+          "CBN": 0.27,
+          "THCA": 0.0,
+          "THCV": 0.06
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
       "id": 8583749,
       "packageCount": 1,
       "name": "Curio Wellness Pain 25mg Plus Terpenes Soothing Lemon Lime Chews-Exempt-25mg-10",
@@ -9362,7 +9410,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13416,7 +13464,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17918,7 +17966,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 178.5,
+      "quantity": 175.0,
       "unit": "Grams",
       "strainName": "Disco Diesel",
       "strainType": null,
@@ -20621,7 +20669,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 3.5,
       "unit": "Grams",
       "strainName": "Strawberry Candy #4 TC",
       "strainType": null,
@@ -21004,6 +21052,46 @@
       },
       "totalTerps": 1.55,
       "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8270983,
+      "packageCount": 1,
+      "name": "Tyson 2.0 | Flower | Buds | Tiger Mintz - Usable - 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 63.0,
+      "unit": "Grams",
+      "strainName": "Tiger Mintz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.05,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.53,
+        "CBN": 0.0,
+        "THCA": 24.46,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.22,
+        "myrcene": 0.06,
+        "alpha-pinene": 0.11,
+        "caryophyllene": 0.89,
+        "beta-pinene": 0.1,
+        "limonene": 0.75,
+        "linalool": 0.23
+      },
+      "totalTerps": 2.7,
+      "dominantTerpene": "caryophyllene"
     },
     {
       "id": 8633743,
@@ -25726,7 +25814,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 138.6,
+      "quantity": 128.1,
       "unit": "Grams",
       "strainName": "Dark Rainbow",
       "strainType": null,
@@ -28338,6 +28426,47 @@
       },
       "totalTerps": 3.2,
       "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8731186,
+      "packageCount": 1,
+      "name": "Baja Blue DV 0.5g/500mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 13.0,
+      "unit": "Each",
+      "strainName": "Baja Blue DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 78.77,
+        "totalCBD": 0.22,
+        "CBC": 1.02,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.68,
+        "CBGA": 0.0,
+        "CBN": 0.23,
+        "THCA": 0.0,
+        "THCV": 0.87
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.09,
+        "myrcene": 1.67,
+        "alpha-pinene": 1.84,
+        "caryophyllene": 0.82,
+        "beta-pinene": 0.83,
+        "limonene": 1.01,
+        "linalool": 0.2,
+        "terpinolene": 0.07
+      },
+      "totalTerps": 7.07,
+      "dominantTerpene": "alpha-pinene"
     },
     {
       "id": 8756272,
@@ -33889,7 +34018,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Jack's Delight",
       "strainType": "Sativa",
@@ -36712,7 +36841,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Northern Lights",
       "strainType": null,
