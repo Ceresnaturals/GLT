@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T16:01:01.064851+00:00",
+  "generated_at": "2026-08-26T16:10:28.719519+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Back-Ups",
@@ -124,7 +124,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8355,6 +8355,52 @@
       "dominantTerpene": null
     },
     {
+      "id": 8882315,
+      "packageCount": 1,
+      "name": "Betty's Eddies Lemon Agave V3 Fruit Chews-Exempt-40mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 18.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.534,
+        "CBC": 0.006,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.025,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.005
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "CBC": 0.043,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.177,
+          "CBGA": 0.0,
+          "CBN": 0.014,
+          "THCA": 0.0,
+          "THCV": 0.036
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
       "id": 8882301,
       "packageCount": 1,
       "name": "Betty's Eddies Orange Creme V3 Fruit Chews-Edible Product-10mg-10",
@@ -9146,6 +9192,52 @@
       "dominantTerpene": null
     },
     {
+      "id": 8882409,
+      "packageCount": 1,
+      "name": "Bubby's Baked Brownie Bites V4-Edible Product-10mg-10",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.102,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.004,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.36,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
       "id": 7626261,
       "packageCount": 1,
       "name": "Bubby's Baked Pumpkin Bites-Exempt-40mg-5",
@@ -9180,6 +9272,54 @@
           "CBDA": 0.0,
           "CBDV": 0.0,
           "CBG": 1.7,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8882325,
+      "packageCount": 1,
+      "name": "Bubby's Baked Snickerdoodle Bites V4-Edible Product-10mg-10",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 23.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.12,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
           "CBGA": 0.0,
           "CBN": 0.0,
           "THCA": 0.0,
@@ -14031,6 +14171,54 @@
       "dominantTerpene": null
     },
     {
+      "id": 8882417,
+      "packageCount": 1,
+      "name": "In House Blood Orange Fast Acting V2 Gummies-Exempt-40mg-10",
+      "brand": "In House",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 21.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.74,
+        "totalCBD": 0.655,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.03,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 32.75,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.5,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
       "id": 8518567,
       "packageCount": 1,
       "name": "In House Blueberry Dream Fast Acting V2 Gummies-Exempt-40mg-10",
@@ -14115,6 +14303,54 @@
           "CBDA": 0.0,
           "CBDV": 0.0,
           "CBG": 1.5,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8882334,
+      "packageCount": 1,
+      "name": "In House Cherry Lemonade Fast Acting V3 Gummies-Edible Product-10mg-10",
+      "brand": "In House",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 19.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.22,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
           "CBGA": 0.0,
           "CBN": 0.0,
           "THCA": 0.0,
@@ -14365,22 +14601,23 @@
       "dominantTerpene": null
     },
     {
-      "id": 8689848,
-      "packageCount": 1,
+      "id": 8882429,
+      "packageCount": 2,
       "name": "In House Sour Pineapple Gummies-Edible Product-10mg-10",
       "brand": "In House",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.2,
+        "totalTHC": 0.21,
         "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
@@ -14595,6 +14832,54 @@
           "CBN": 0.0,
           "THCA": 0.0,
           "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8882346,
+      "packageCount": 1,
+      "name": "In House Wild Berry Fast Acting V2 Gummies-Edible Product-10mg-10",
+      "brand": "In House",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 18.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.21,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.05
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 2.5
         },
         "minorsEstimated": true
       },
@@ -17286,7 +17571,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21690,7 +21975,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.5,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Plantz",
       "strainType": null,
@@ -22757,6 +23042,49 @@
       },
       "totalTerps": 2.7,
       "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8633743,
+      "packageCount": 1,
+      "name": "Uva Bon Bon Strane - Usable - 3.5 g",
+      "brand": "Strane",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 52.5,
+      "unit": "Grams",
+      "strainName": "Uva Bon Bon",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.48,
+        "totalCBD": 0.05,
+        "CBC": 0.0,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.08,
+        "CBGA": 1.05,
+        "CBN": 0.0,
+        "THCA": 29.3,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.24,
+        "myrcene": 0.26,
+        "alpha-pinene": 0.16,
+        "caryophyllene": 0.44,
+        "beta-pinene": 0.13,
+        "ocimene": 0.06,
+        "limonene": 0.67,
+        "linalool": 0.36,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.59,
+      "dominantTerpene": "limonene"
     },
     {
       "id": 8809506,
@@ -28311,7 +28639,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 100.1,
+      "quantity": 96.6,
       "unit": "Grams",
       "strainName": "Dark Rainbow",
       "strainType": null,
@@ -34073,6 +34401,49 @@
       },
       "totalTerps": 11.72,
       "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8840302,
+      "packageCount": 1,
+      "name": "Fade Co | Vape | Live Resin | Glitter Bomb - Vape Cart - 1g",
+      "brand": "Fade Co",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 19.0,
+      "unit": "Each",
+      "strainName": "Glitter Bomb",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 74.5,
+        "totalCBD": 0.14,
+        "CBC": 0.88,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.41,
+        "CBGA": 0.38,
+        "CBN": 0.22,
+        "THCA": 0.0,
+        "THCV": 0.59
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.3,
+        "myrcene": 3.28,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 0.74,
+        "beta-pinene": 0.15,
+        "caryophyllene-oxide": 0.03,
+        "ocimene": 0.77,
+        "limonene": 0.95,
+        "linalool": 1.18,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 7.89,
+      "dominantTerpene": "myrcene"
     },
     {
       "id": 8604972,
