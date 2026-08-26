@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T15:30:55.249136+00:00",
+  "generated_at": "2026-08-26T15:40:43.511803+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Back-Ups",
@@ -2050,6 +2050,47 @@
       "dominantTerpene": "limonene"
     },
     {
+      "id": 8891364,
+      "packageCount": 1,
+      "name": "Dr. Solomon's RSO - THC Rich (Hybrid) - Jet Fuel OG - Concentrate - 1000mg",
+      "brand": "Dr. Solomon's",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 7.0,
+      "unit": "Each",
+      "strainName": "Jet Fuel OG",
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 74.14,
+        "CBC": 0.51,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.89,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.21,
+        "humulene": 0.82,
+        "myrcene": 2.43,
+        "alpha-pinene": 0.3,
+        "caryophyllene": 3.09,
+        "beta-pinene": 0.28,
+        "limonene": 2.62,
+        "linalool": 0.43,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 11.0,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
       "id": 8854456,
       "packageCount": 1,
       "name": "Dr. Solomon's RSO - THC Rich (Indica) - OG Kush - Concentrate - 1000mg",
@@ -2678,6 +2719,49 @@
       },
       "totalTerps": 9.08,
       "dominantTerpene": "terpinolene"
+    },
+    {
+      "id": 8890382,
+      "packageCount": 1,
+      "name": "Grapes & Cream Live Resin Batter 1.0g/1000mg",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 17.0,
+      "unit": "Each",
+      "strainName": "Grapes & Cream",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 62.63,
+        "totalCBD": 0.24,
+        "CBC": 0.0,
+        "CBDA": 0.27,
+        "CBDV": 0.0,
+        "CBG": 0.52,
+        "CBGA": 1.54,
+        "CBN": 0.0,
+        "THCA": 69.98,
+        "THCV": 1.71
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.73,
+        "myrcene": 1.85,
+        "alpha-pinene": 0.63,
+        "caryophyllene": 2.2,
+        "beta-pinene": 0.33,
+        "ocimene": 0.2,
+        "limonene": 3.49,
+        "linalool": 1.29,
+        "terpinolene": 0.09
+      },
+      "totalTerps": 11.77,
+      "dominantTerpene": "limonene"
     },
     {
       "id": 8815681,
@@ -5537,6 +5621,89 @@
         "linalool": 0.52
       },
       "totalTerps": 2.4,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8891523,
+      "packageCount": 1,
+      "name": "Rythm 5 Pack (Infused) - Durban Poison (Sativa Dominant) - Concentrate - 2.5g",
+      "brand": "Rythm",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Durban Poison",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 39.63,
+        "totalCBD": 0.03,
+        "CBC": 0.0,
+        "CBDA": 0.03,
+        "CBDV": 0.0,
+        "CBG": 0.09,
+        "CBGA": 0.56,
+        "CBN": 0.0,
+        "THCA": 43.25,
+        "THCV": 0.16
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.04,
+        "myrcene": 0.16,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.17,
+        "beta-pinene": 0.05,
+        "linalool": 0.13,
+        "terpinolene": 0.27
+      },
+      "totalTerps": 1.1,
+      "dominantTerpene": "terpinolene"
+    },
+    {
+      "id": 8891524,
+      "packageCount": 1,
+      "name": "Rythm 5 Pack (Infused) - Mai Tai (Sativa Dominant) - Concentrate - 2.5g",
+      "brand": "Rythm",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 13.0,
+      "unit": "Each",
+      "strainName": "Mai Tai",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 41.25,
+        "totalCBD": 0.03,
+        "CBC": 0.0,
+        "CBDA": 0.03,
+        "CBDV": 0.0,
+        "CBG": 0.08,
+        "CBGA": 0.44,
+        "CBN": 0.0,
+        "THCA": 45.53,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.05,
+        "myrcene": 0.09,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.62,
+        "beta-pinene": 0.03,
+        "caryophyllene-oxide": 0.02,
+        "limonene": 0.18,
+        "linalool": 0.25,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 1.51,
       "dominantTerpene": "caryophyllene"
     },
     {
@@ -12724,7 +12891,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 17.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14086,6 +14253,54 @@
       "dominantTerpene": null
     },
     {
+      "id": 8891360,
+      "packageCount": 1,
+      "name": "Incredibles Gummy 100mg - Fast Acting Greener Apple-Edible Product-10mg-10 Pieces",
+      "brand": "Incredibles",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 21.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.34,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
       "id": 8698219,
       "packageCount": 1,
       "name": "Incredibles Gummy 100mg - Lemon Lime Boost (1:2 THCv:THC) - Edible Product - 10mg - 10 Pieces",
@@ -14230,16 +14445,17 @@
       "dominantTerpene": null
     },
     {
-      "id": 8778173,
-      "packageCount": 1,
+      "id": 8891520,
+      "packageCount": 2,
       "name": "Incredibles Gummy 100mg - Summer Peach - Edible Product- 10mg - 10 Pieces",
       "brand": "Incredibles",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14326,16 +14542,17 @@
       "dominantTerpene": null
     },
     {
-      "id": 8698037,
-      "packageCount": 1,
+      "id": 8891521,
+      "packageCount": 2,
       "name": "Incredibles Gummy 100mg-Sour Blue Razzberry (1:1 THC:CBG)-Edible Product-10mg-10 Pieces",
       "brand": "Incredibles",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14346,7 +14563,7 @@
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.36,
+        "CBG": 0.32,
         "CBGA": 0.0,
         "CBN": 0.0,
         "THCA": 0.0,
@@ -14361,7 +14578,7 @@
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 11.34,
+          "CBG": 10.08,
           "CBGA": 0.0,
           "CBN": 0.0,
           "THCA": 0.0,
@@ -14422,27 +14639,76 @@
       "dominantTerpene": null
     },
     {
-      "id": 8676360,
+      "id": 8891522,
       "packageCount": 1,
-      "name": "Incredibles Gummy Fast Acting Greener Apple 400mg -Exempt-40mg-10 Pieces",
+      "name": "Incredibles Gummy 200mg - Snoozzzierberry (2:1:1 THC:CBN:CBG) - Exempt - 20mg-10 Pieces",
       "brand": "Incredibles",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.71,
+        "totalTHC": 0.43,
         "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.08,
+        "CBG": 0.22,
+        "CBGA": 0.0,
+        "CBN": 0.22,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 200.0,
+        "thcMgPerServing": 20.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 11.0,
+          "CBGA": 0.0,
+          "CBN": 11.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8891361,
+      "packageCount": 2,
+      "name": "Incredibles Gummy Fast Acting Greener Apple 400mg -Exempt-40mg-10 Pieces",
+      "brand": "Incredibles",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor",
+        "Vault"
+      ],
+      "quantity": 28.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.79,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.06,
         "CBGA": 0.0,
         "CBN": 0.0,
         "THCA": 0.0,
@@ -14457,7 +14723,7 @@
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 4.0,
+          "CBG": 3.0,
           "CBGA": 0.0,
           "CBN": 0.0,
           "THCA": 0.0,
@@ -16134,6 +16400,54 @@
       "dominantTerpene": null
     },
     {
+      "id": 8890517,
+      "packageCount": 1,
+      "name": "Sunnies - Sugar Free Strawberry Banana Gummies - Edible Product - 5mg - 20Pc",
+      "brand": "Sunnies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.13,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 5.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
       "id": 8696901,
       "packageCount": 1,
       "name": "Sunnies - Sugar Free Watermelon Gummies - Edible Product - 5mg - 20Pc",
@@ -17384,6 +17698,49 @@
       "dominantTerpene": "caryophyllene"
     },
     {
+      "id": 8891526,
+      "packageCount": 1,
+      "name": "Afternoon Delight #4 Pre-Pack (Buds) - Rythm (Hybrid) - Usable - 3.5g",
+      "brand": "Rythm",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 73.5,
+      "unit": "Grams",
+      "strainName": "Afternoon Delight #4",
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 32.25,
+        "totalCBD": 0.08,
+        "CBC": 0.0,
+        "CBDA": 0.09,
+        "CBDV": 0.0,
+        "CBG": 0.1,
+        "CBGA": 2.46,
+        "CBN": 0.0,
+        "THCA": 36.27,
+        "THCV": 0.21
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.03,
+        "humulene": 0.23,
+        "myrcene": 0.41,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 0.64,
+        "beta-pinene": 0.12,
+        "caryophyllene-oxide": 0.02,
+        "limonene": 0.79,
+        "linalool": 0.39,
+        "terpinolene": 0.03
+      },
+      "totalTerps": 2.95,
+      "dominantTerpene": "limonene"
+    },
+    {
       "id": 8731098,
       "packageCount": 1,
       "name": "Animal Cocktail - Pre Pack Bud - 3.5 gram - Plastic Container",
@@ -17864,7 +18221,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "41 CHERRY CHOCOLATE WIDOW",
       "strainType": null,
@@ -18512,7 +18869,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 210.5,
+      "quantity": 207.0,
       "unit": "Grams",
       "strainName": "Bapple Fritz",
       "strainType": null,
@@ -23046,6 +23403,47 @@
       "dominantTerpene": "caryophyllene"
     },
     {
+      "id": 8884048,
+      "packageCount": 1,
+      "name": "Deadband 12 PRJx2 (Two 0.5g Joints) 1g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 11.0,
+      "unit": "Grams",
+      "strainName": "Deadband x GC5 #12",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 32.84,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.42,
+        "CBN": 0.0,
+        "THCA": 36.39,
+        "THCV": 0.15
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.15,
+        "myrcene": 1.57,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.45,
+        "beta-pinene": 0.04,
+        "ocimene": 0.07,
+        "limonene": 0.3,
+        "linalool": 0.14
+      },
+      "totalTerps": 2.83,
+      "dominantTerpene": "myrcene"
+    },
+    {
       "id": 7828094,
       "packageCount": 1,
       "name": "Fade Co Pre-Roll Pack (All Gas OG) - Usable - 2.5g",
@@ -23440,6 +23838,47 @@
         "linalool": 0.12
       },
       "totalTerps": 1.51,
+      "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8891365,
+      "packageCount": 1,
+      "name": "GMO 5 Pack - Dogwalkers (Sit) - Usable - 1.75g",
+      "brand": "Dogwalkers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 43.75,
+      "unit": "Grams",
+      "strainName": "GMO",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.87,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.29,
+        "CBN": 0.0,
+        "THCA": 34.84,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.23,
+        "myrcene": 0.51,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.72,
+        "beta-pinene": 0.1,
+        "limonene": 0.94,
+        "linalool": 0.09,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 2.95,
       "dominantTerpene": "limonene"
     },
     {
@@ -24892,6 +25331,47 @@
       "dominantTerpene": "myrcene"
     },
     {
+      "id": 8884209,
+      "packageCount": 1,
+      "name": "Multi Pack- Z 1.0 Pre-Rolls (x7 0.5g Joints) 3.5g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 80.5,
+      "unit": "Grams",
+      "strainName": "Grapefruitz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.94,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.6,
+        "CBN": 0.0,
+        "THCA": 25.41,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.14,
+        "humulene": 0.41,
+        "myrcene": 0.04,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 1.24,
+        "beta-pinene": 0.09,
+        "limonene": 0.75,
+        "linalool": 0.47,
+        "nerolidol": 0.11
+      },
+      "totalTerps": 3.5,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
       "id": 8040613,
       "packageCount": 1,
       "name": "NH Cheese Infused Preroll-Concentrate-1g",
@@ -25854,6 +26334,46 @@
       "dominantTerpene": "caryophyllene"
     },
     {
+      "id": 8884210,
+      "packageCount": 1,
+      "name": "Sour Peel PRJx2 (Two 0.5g Joints) 1g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 41.0,
+      "unit": "Grams",
+      "strainName": "Sour Peel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.6,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.38,
+        "CBN": 0.0,
+        "THCA": 27.29,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 1.01,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.38,
+        "beta-pinene": 0.03,
+        "limonene": 0.19,
+        "linalool": 0.2,
+        "nerolidol": 0.08
+      },
+      "totalTerps": 2.03,
+      "dominantTerpene": "myrcene"
+    },
+    {
       "id": 8858496,
       "packageCount": 1,
       "name": "Strawberry Candy #4 - Diamond Duster 0.5g Infused Pre-Roll 5-Pack Tin",
@@ -25973,6 +26493,86 @@
       },
       "totalTerps": 2.55,
       "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8884211,
+      "packageCount": 1,
+      "name": "Sunset Octane J walker (.35g joints) 5 Pack 1.75g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 28.0,
+      "unit": "Grams",
+      "strainName": "Sunset Octane",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.46,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.08,
+        "CBN": 0.0,
+        "THCA": 31.77,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.19,
+        "myrcene": 0.48,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 0.77,
+        "beta-pinene": 0.12,
+        "ocimene": 0.03,
+        "limonene": 1.04,
+        "linalool": 0.23
+      },
+      "totalTerps": 3.21,
+      "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8884050,
+      "packageCount": 1,
+      "name": "Sunset Octane PRJx2 (Two 0.5g Joints) 1g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 32.0,
+      "unit": "Grams",
+      "strainName": "Sunset Octane",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.66,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.4,
+        "CBN": 0.0,
+        "THCA": 33.14,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.21,
+        "myrcene": 0.58,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 0.83,
+        "beta-pinene": 0.12,
+        "ocimene": 0.04,
+        "limonene": 1.08,
+        "linalool": 0.26
+      },
+      "totalTerps": 3.47,
+      "dominantTerpene": "limonene"
     },
     {
       "id": 8821022,
@@ -28883,6 +29483,47 @@
       "dominantTerpene": "myrcene"
     },
     {
+      "id": 8891525,
+      "packageCount": 1,
+      "name": "Animal Face Pen (Live Resin) - Rythm (Indica Dominant) - Vape Pen - 1000mg",
+      "brand": "Rythm",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Animal Face",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 74.01,
+        "CBC": 0.55,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.98,
+        "CBGA": 0.19,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.24,
+        "humulene": 0.7,
+        "myrcene": 1.7,
+        "alpha-pinene": 0.23,
+        "caryophyllene": 2.44,
+        "beta-pinene": 0.06,
+        "limonene": 1.7,
+        "linalool": 1.37,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 9.06,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
       "id": 7653805,
       "packageCount": 1,
       "name": "Animal Mintz BD - BOMA Vape Cart (Color: Commanders) - 0.5g",
@@ -30202,6 +30843,47 @@
       "dominantTerpene": "caryophyllene"
     },
     {
+      "id": 8890381,
+      "packageCount": 1,
+      "name": "Blue Dream Distillate Vape 1.0G/1000MG",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Blue Dream",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.59,
+        "totalCBD": 0.25,
+        "CBC": 0.71,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.82,
+        "CBGA": 0.0,
+        "CBN": 0.61,
+        "THCA": 0.0,
+        "THCV": 0.28
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.11,
+        "myrcene": 1.9,
+        "alpha-pinene": 1.96,
+        "caryophyllene": 0.8,
+        "beta-pinene": 0.95,
+        "limonene": 0.55,
+        "linalool": 0.29,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 7.02,
+      "dominantTerpene": "alpha-pinene"
+    },
+    {
       "id": 8508535,
       "packageCount": 1,
       "name": "Blue Hawaiian Distillate Slyde Rechargeable Vape Cart 1.0mL",
@@ -30958,6 +31640,47 @@
       "dominantTerpene": "limonene"
     },
     {
+      "id": 8890516,
+      "packageCount": 1,
+      "name": "Couch Kush DV 1.0g/1000mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "Couch Kush DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 80.57,
+        "totalCBD": 0.21,
+        "CBC": 0.52,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.05,
+        "CBGA": 0.0,
+        "CBN": 0.3,
+        "THCA": 0.0,
+        "THCV": 0.8
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.22,
+        "myrcene": 1.67,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 0.97,
+        "beta-pinene": 0.23,
+        "limonene": 1.67,
+        "linalool": 0.57,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 6.04,
+      "dominantTerpene": "myrcene"
+    },
+    {
       "id": 8375142,
       "packageCount": 1,
       "name": "Culta Distillate Cartridge - 1g - Cherry Zlushie",
@@ -31542,7 +32265,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Purple Kush",
       "strainType": null,
@@ -37821,7 +38544,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Peach Cobbler",
       "strainType": null,
@@ -40059,6 +40782,48 @@
       },
       "totalTerps": 4.55,
       "dominantTerpene": "terpinolene"
+    },
+    {
+      "id": 8890380,
+      "packageCount": 1,
+      "name": "Super Sour Peach DV 0.5g/500mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 18.0,
+      "unit": "Each",
+      "strainName": "Super Sour Peach DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.0,
+        "totalCBD": 0.12,
+        "CBC": 0.56,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.97,
+        "CBGA": 0.0,
+        "CBN": 0.27,
+        "THCA": 0.0,
+        "THCV": 0.26
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.06,
+        "myrcene": 1.74,
+        "alpha-pinene": 0.54,
+        "caryophyllene": 0.38,
+        "beta-pinene": 0.48,
+        "ocimene": 0.03,
+        "limonene": 1.94,
+        "linalool": 0.41,
+        "terpinolene": 0.11
+      },
+      "totalTerps": 6.43,
+      "dominantTerpene": "limonene"
     },
     {
       "id": 8821104,
