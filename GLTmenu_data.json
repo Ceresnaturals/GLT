@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T15:40:43.511803+00:00",
+  "generated_at": "2026-08-26T15:50:40.724262+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Back-Ups",
@@ -1845,6 +1845,46 @@
       "dominantTerpene": "caryophyllene"
     },
     {
+      "id": 8884045,
+      "packageCount": 1,
+      "name": "Concentrate- Infused Happy-er J Gumi #6 x House Blends (7 Pack) 3.5g",
+      "brand": "Happy-er",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 11.0,
+      "unit": "Each",
+      "strainName": "Happy er J Gumi x House Blends",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.87,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.46,
+        "CBN": 0.0,
+        "THCA": 29.81,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.11,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.4,
+        "eudesmol": 0.07,
+        "beta-pinene": 0.02,
+        "limonene": 0.15,
+        "linalool": 0.22
+      },
+      "totalTerps": 1.29,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
       "id": 7518025,
       "packageCount": 1,
       "name": "Concentrate- Infused Happy-er J LCG x Gumi #6 (2 Pack) 1.0g",
@@ -3407,6 +3447,46 @@
       },
       "totalTerps": 9.8,
       "dominantTerpene": "myrcene"
+    },
+    {
+      "id": 8884206,
+      "packageCount": 1,
+      "name": "Lemon Forbidden BOP Live Resin Cake Badder 1.0g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 40.0,
+      "unit": "Each",
+      "strainName": "Lemon Forbidden BOP Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 75.16,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.27,
+        "CBN": 0.0,
+        "THCA": 85.7,
+        "THCV": 0.47
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.19,
+        "humulene": 0.43,
+        "myrcene": 2.06,
+        "alpha-pinene": 0.3,
+        "caryophyllene": 1.36,
+        "beta-pinene": 0.28,
+        "limonene": 2.3,
+        "linalool": 0.87
+      },
+      "totalTerps": 8.43,
+      "dominantTerpene": "limonene"
     },
     {
       "id": 8785081,
@@ -7324,16 +7404,17 @@
       "dominantTerpene": null
     },
     {
-      "id": 8793068,
-      "packageCount": 1,
+      "id": 8886711,
+      "packageCount": 2,
       "name": "Tall - Fuji Apple Pear 1:1 (THC:CBD) - Liquid Edible - 10mg - 1",
       "brand": null,
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8639,54 +8720,6 @@
           "CBG": 0.0,
           "CBGA": 0.0,
           "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null
-    },
-    {
-      "id": 8107658,
-      "packageCount": 1,
-      "name": "Coast Cranberry Pomegranate Infused Chews - Edible Product - 5mg THC - 20",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Vault"
-      ],
-      "quantity": 19.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.14,
-        "totalCBD": 0.14,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.14,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 chew = 5mg",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 5.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.252,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.252,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -16783,16 +16816,15 @@
     },
     {
       "id": 8762410,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "WYLD EB Gummies - Edible Product-10mg-10",
       "brand": "WYLD",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18048,6 +18080,48 @@
       "dominantTerpene": "limonene"
     },
     {
+      "id": 8886151,
+      "packageCount": 1,
+      "name": "Blue Zangria 2 Untrimmed Small Buds Ounce 28g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Back-Ups"
+      ],
+      "quantity": 252.0,
+      "unit": "Grams",
+      "strainName": "Blue zangria 2",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.3,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.51,
+        "CBN": 0.0,
+        "THCA": 29.27,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.06,
+        "myrcene": 0.14,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 0.21,
+        "beta-pinene": 0.19,
+        "ocimene": 0.14,
+        "limonene": 1.35,
+        "linalool": 0.49,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.27,
+      "dominantTerpene": "limonene"
+    },
+    {
       "id": 8826455,
       "packageCount": 1,
       "name": "Brownie Scout Pre-Pack (Buds) - Rythm (Indica Dominant) - Usable - 3.5g",
@@ -18869,7 +18943,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 207.0,
+      "quantity": 203.5,
       "unit": "Grams",
       "strainName": "Bapple Fritz",
       "strainType": null,
@@ -19268,6 +19342,47 @@
       "dominantTerpene": "limonene"
     },
     {
+      "id": 8886153,
+      "packageCount": 1,
+      "name": "Lemon Cherry Gelato Pre-Pack 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 3.5,
+      "unit": "Grams",
+      "strainName": "Lemon Cherry Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 34.91,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.1,
+        "CBGA": 0.45,
+        "CBN": 0.0,
+        "THCA": 39.05,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.14,
+        "myrcene": 1.27,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 0.59,
+        "beta-pinene": 0.16,
+        "limonene": 1.25,
+        "linalool": 0.73,
+        "terpinolene": 0.02,
+        "nerolidol": 0.13
+      },
+      "totalTerps": 4.77,
+      "dominantTerpene": "myrcene"
+    },
+    {
       "id": 8751017,
       "packageCount": 1,
       "name": "Lemondary | Wildflower | 7g",
@@ -19388,46 +19503,6 @@
         "linalool": 0.09
       },
       "totalTerps": 1.76,
-      "dominantTerpene": "caryophyllene"
-    },
-    {
-      "id": 8681094,
-      "packageCount": 1,
-      "name": "MDBECK-FLR-0-35",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 133.0,
-      "unit": "Grams",
-      "strainName": "Beach Cake",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 24.41,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.08,
-        "CBGA": 0.77,
-        "CBN": 0.0,
-        "THCA": 27.0,
-        "THCV": 0.11
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.11,
-        "humulene": 0.36,
-        "myrcene": 0.21,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 1.06,
-        "beta-pinene": 0.06,
-        "limonene": 0.47,
-        "linalool": 0.25
-      },
-      "totalTerps": 2.75,
       "dominantTerpene": "caryophyllene"
     },
     {
@@ -20786,6 +20861,47 @@
         "terpinolene": 0.02
       },
       "totalTerps": 2.03,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8884056,
+      "packageCount": 1,
+      "name": "Rainbow Push Pop 4 Pre-Pack 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 122.5,
+      "unit": "Grams",
+      "strainName": "Rainbow Push Pop #4",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 36.57,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.2,
+        "CBN": 0.0,
+        "THCA": 40.98,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.13,
+        "humulene": 0.44,
+        "myrcene": 0.23,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 1.37,
+        "beta-pinene": 0.07,
+        "limonene": 0.59,
+        "linalool": 0.57,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 3.63,
       "dominantTerpene": "caryophyllene"
     },
     {
@@ -26573,6 +26689,46 @@
       },
       "totalTerps": 3.47,
       "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8884054,
+      "packageCount": 1,
+      "name": "SwampWater Fumez PRJx2 (Two 0.5g Joints) 1.0g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 32.0,
+      "unit": "Grams",
+      "strainName": "Swampwater Fumez",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.74,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.87,
+        "CBN": 0.0,
+        "THCA": 35.95,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.26,
+        "myrcene": 0.04,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.76,
+        "beta-pinene": 0.07,
+        "limonene": 0.57,
+        "linalool": 0.42
+      },
+      "totalTerps": 2.4,
+      "dominantTerpene": "caryophyllene"
     },
     {
       "id": 8821022,
@@ -39229,6 +39385,47 @@
       "dominantTerpene": "linalool"
     },
     {
+      "id": 8883695,
+      "packageCount": 1,
+      "name": "Rove | Live Resin Diamonds Vape Reload | Birthday Cake - H | 1.0g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 3.0,
+      "unit": "Each",
+      "strainName": "Birthday Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 91.55,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.025,
+        "CBGA": 0.0,
+        "CBN": 0.614,
+        "THCA": 0.0,
+        "THCV": 0.733
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.117,
+        "humulene": 0.0212,
+        "myrcene": 0.0962,
+        "caryophyllene": 0.157,
+        "beta-pinene": 0.0225,
+        "caryophyllene-oxide": 0.0338,
+        "limonene": 0.15,
+        "linalool": 0.0483,
+        "nerolidol": 0.0328
+      },
+      "totalTerps": 0.7,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
       "id": 8812114,
       "packageCount": 1,
       "name": "Rove | Live Resin Diamonds Vape Reload | Cherry Gelato - H | 1.0g",
@@ -39273,6 +39470,85 @@
       "dominantTerpene": "limonene"
     },
     {
+      "id": 8883698,
+      "packageCount": 1,
+      "name": "Rove | Live Resin Diamonds Vape Reload | Fruit Punch - S | 1.0g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 9.0,
+      "unit": "Each",
+      "strainName": "Fruit Punch",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.73,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.672,
+        "CBGA": 0.0,
+        "CBN": 0.365,
+        "THCA": 0.0,
+        "THCV": 0.948
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.215,
+        "humulene": 0.0291,
+        "myrcene": 0.0218,
+        "caryophyllene": 0.0621,
+        "caryophyllene-oxide": 0.0299,
+        "limonene": 0.123,
+        "linalool": 0.0513,
+        "nerolidol": 0.0344
+      },
+      "totalTerps": 0.593,
+      "dominantTerpene": "bisabolol"
+    },
+    {
+      "id": 8883699,
+      "packageCount": 1,
+      "name": "Rove | Live Resin Diamonds Vape Reload | Maui Waui - S | 1.0g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 6.0,
+      "unit": "Each",
+      "strainName": "Maui Waui",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.2,
+        "totalCBD": 0.215,
+        "CBC": 0.311,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.969,
+        "CBGA": 0.0,
+        "CBN": 0.343,
+        "THCA": 0.0,
+        "THCV": 1.25
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.236,
+        "humulene": 0.0312,
+        "myrcene": 0.0228,
+        "caryophyllene": 0.0704,
+        "caryophyllene-oxide": 0.039,
+        "limonene": 0.0853
+      },
+      "totalTerps": 0.624,
+      "dominantTerpene": "bisabolol"
+    },
+    {
       "id": 8811778,
       "packageCount": 1,
       "name": "Rove | Live Resin Diamonds Vape Reload | Northern Lights - I | 1.0g",
@@ -39312,6 +39588,46 @@
       },
       "totalTerps": 0.783,
       "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8884035,
+      "packageCount": 1,
+      "name": "Rove | Live Resin Diamonds Vape Reload | Skywalker OG - I | 1.0g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 6.0,
+      "unit": "Each",
+      "strainName": "Skywalker OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 91.21,
+        "CBC": 0.573,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.13,
+        "CBGA": 0.0,
+        "CBN": 1.33,
+        "THCA": 0.0,
+        "THCV": 1.1
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.068,
+        "humulene": 0.0418,
+        "myrcene": 0.0661,
+        "caryophyllene": 0.263,
+        "beta-pinene": 0.0511,
+        "caryophyllene-oxide": 0.0266,
+        "limonene": 0.0912,
+        "linalool": 0.0988
+      },
+      "totalTerps": 0.707,
+      "dominantTerpene": "caryophyllene"
     },
     {
       "id": 8755915,
@@ -39636,6 +39952,45 @@
       },
       "totalTerps": 0.69,
       "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8884036,
+      "packageCount": 1,
+      "name": "Rove | Ready-To-Use Live Resin Diamond Vaporizer | Strawberry Cough - S | 1.0g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Ready To Use Vaporizer",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 92.98,
+        "CBC": 0.845,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.614,
+        "CBGA": 0.0,
+        "CBN": 1.528,
+        "THCA": 0.0,
+        "THCV": 0.606
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.0614,
+        "humulene": 0.036,
+        "myrcene": 0.0384,
+        "caryophyllene": 0.0912,
+        "limonene": 0.105,
+        "linalool": 0.183,
+        "terpinolene": 0.033
+      },
+      "totalTerps": 0.617,
+      "dominantTerpene": "linalool"
     },
     {
       "id": 8755916,
