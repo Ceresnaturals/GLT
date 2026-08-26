@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T21:20:37.057006+00:00",
+  "generated_at": "2026-08-26T21:30:51.526510+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Back-Ups",
@@ -3947,7 +3947,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Cosmic Balance Blend",
       "strainType": "Hybrid",
@@ -8490,7 +8490,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11413,7 +11413,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12199,7 +12199,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12245,7 +12245,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -25606,6 +25606,47 @@
       "dominantTerpene": "caryophyllene"
     },
     {
+      "id": 8874097,
+      "packageCount": 1,
+      "name": "Long Lifts - Tropical Fusion - Usable - 1g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Grams",
+      "strainName": "Tropical Fusion",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.44,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.85,
+        "CBN": 0.0,
+        "THCA": 27.32,
+        "THCV": 0.15
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.1,
+        "myrcene": 0.03,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.36,
+        "beta-pinene": 0.05,
+        "limonene": 0.41,
+        "linalool": 0.37,
+        "nerolidol": 0.09
+      },
+      "totalTerps": 1.67,
+      "dominantTerpene": "limonene"
+    },
+    {
       "id": 8338330,
       "packageCount": 2,
       "name": "Lucky Orchard Pre-Pack 3.5g",
@@ -30093,7 +30134,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Grams",
       "strainName": "Banana Puddintain",
       "strainType": null,
@@ -46765,7 +46806,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Afghani Hills",
       "strainType": null,
@@ -48394,7 +48435,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Grandaddy Purp",
       "strainType": null,
@@ -52964,7 +53005,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Strawberry Haze",
       "strainType": null,
@@ -53592,6 +53633,41 @@
         "terpinolene": 0.12
       },
       "totalTerps": 6.84,
+      "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8583734,
+      "packageCount": 1,
+      "name": "Tropicalez Punch Cloud Bar Hellavated - Vape Cart - 1 g",
+      "brand": "Hellavated",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 9.0,
+      "unit": "Each",
+      "strainName": "Tropicalez Punch",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 88.07,
+        "CBC": 0.58,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.05,
+        "CBGA": 0.0,
+        "CBN": 0.37,
+        "THCA": 0.0,
+        "THCV": 0.91
+      },
+      "dose": null,
+      "terpenes": {
+        "alpha-pinene": 0.03,
+        "beta-pinene": 0.12,
+        "limonene": 2.13
+      },
+      "totalTerps": 2.38,
       "dominantTerpene": "limonene"
     },
     {
