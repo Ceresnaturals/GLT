@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T15:50:40.724262+00:00",
+  "generated_at": "2026-08-26T16:01:01.064851+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Back-Ups",
@@ -3977,6 +3977,48 @@
       },
       "totalTerps": 9.26,
       "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8884689,
+      "packageCount": 1,
+      "name": "Live Diamonds: Purple Kush -1g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 19.0,
+      "unit": "Each",
+      "strainName": "Purple Kush",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 77.9,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 88.82,
+        "THCV": 0.62
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.14,
+        "humulene": 0.7,
+        "myrcene": 4.33,
+        "alpha-pinene": 0.58,
+        "caryophyllene": 2.73,
+        "beta-pinene": 0.19,
+        "ocimene": 0.35,
+        "limonene": 0.58,
+        "linalool": 0.45,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 10.56,
+      "dominantTerpene": "myrcene"
     },
     {
       "id": 8700556,
@@ -8028,27 +8070,74 @@
       "dominantTerpene": null
     },
     {
-      "id": 8689780,
+      "id": 8882297,
       "packageCount": 1,
-      "name": "Betty's Eddies Cherry Fruit Chews-Edible Product-10mg-2",
+      "name": "Betty's Eddies Beachtime Swirled Strawberry Lemonade Fruit Chews-Edible Product-10mg-10",
       "brand": "Betty's Eddies",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.133,
-        "totalCBD": 0.559,
-        "CBC": 0.06,
+        "totalTHC": 0.129,
+        "CBC": 0.002,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.005,
+        "CBG": 0.058,
+        "CBGA": 0.0,
+        "CBN": 0.001,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.142,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 4.118,
+          "CBGA": 0.0,
+          "CBN": 0.071,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8882291,
+      "packageCount": 2,
+      "name": "Betty's Eddies Cherry Fruit Chews-Edible Product-10mg-2",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor",
+        "Vault"
+      ],
+      "quantity": 27.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.146,
+        "totalCBD": 0.607,
+        "CBC": 0.071,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.007,
         "CBGA": 0.0,
         "CBN": 0.001,
         "THCA": 0.0,
@@ -8059,11 +8148,11 @@
         "totalThcMg": 20.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 19.845,
-          "CBC": 2.13,
+          "totalCBD": 21.549,
+          "CBC": 2.52,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.178,
+          "CBG": 0.249,
           "CBGA": 0.0,
           "CBN": 0.036,
           "THCA": 0.0,
@@ -8076,26 +8165,170 @@
       "dominantTerpene": null
     },
     {
-      "id": 8766842,
+      "id": 8882197,
       "packageCount": 1,
-      "name": "Betty's Eddies Pineapple Orange V3 Fruit Chews-Edible Product-10mg-10",
+      "name": "Betty's Eddies Cherry V3 Fruit Chews-Edible Product-10mg-10",
       "brand": "Betty's Eddies",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 1.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.14,
+        "totalTHC": 0.137,
+        "totalCBD": 0.517,
+        "CBC": 0.068,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.006,
+        "CBGA": 0.0,
+        "CBN": 0.001,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 3.671,
+          "CBC": 0.483,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.043,
+          "CBGA": 0.0,
+          "CBN": 0.007,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8882283,
+      "packageCount": 1,
+      "name": "Betty's Eddies Cherry V3 Fruit Chews-Exempt-40mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.563,
+        "totalCBD": 0.602,
+        "CBC": 0.074,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.029,
+        "CBGA": 0.0,
+        "CBN": 0.003,
+        "THCA": 0.0,
+        "THCV": 0.003
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 4.274,
+          "CBC": 0.525,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.206,
+          "CBGA": 0.0,
+          "CBN": 0.021,
+          "THCA": 0.0,
+          "THCV": 0.021
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8882300,
+      "packageCount": 1,
+      "name": "Betty's Eddies Lemon Agave Fruit Chews-Edible Product-10mg-2",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.13,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 20.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8882309,
+      "packageCount": 1,
+      "name": "Betty's Eddies Lemon Agave V3 Fruit Chews-Edible Product-10mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 29.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.144,
         "CBC": 0.002,
         "CBDA": 0.0,
-        "CBDV": 0.035,
-        "CBG": 0.065,
+        "CBDV": 0.0,
+        "CBG": 0.008,
         "CBGA": 0.0,
         "CBN": 0.001,
         "THCA": 0.0,
@@ -8108,10 +8341,241 @@
         "minorsMgPerServing": {
           "CBC": 0.014,
           "CBDA": 0.0,
-          "CBDV": 0.249,
-          "CBG": 0.461,
+          "CBDV": 0.0,
+          "CBG": 0.057,
           "CBGA": 0.0,
           "CBN": 0.007,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8882301,
+      "packageCount": 1,
+      "name": "Betty's Eddies Orange Creme V3 Fruit Chews-Edible Product-10mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 17.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.138,
+        "CBC": 0.068,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.007,
+        "CBGA": 0.0,
+        "CBN": 0.065,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.483,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.05,
+          "CBGA": 0.0,
+          "CBN": 0.461,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8882296,
+      "packageCount": 1,
+      "name": "Betty's Eddies Orange Creme V3 Fruit Chews-Exempt-40mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 22.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.531,
+        "CBC": 0.072,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.035,
+        "CBGA": 0.0,
+        "CBN": 0.066,
+        "THCA": 0.0,
+        "THCV": 0.004
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "CBC": 0.511,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.249,
+          "CBGA": 0.0,
+          "CBN": 0.469,
+          "THCA": 0.0,
+          "THCV": 0.028
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8882284,
+      "packageCount": 1,
+      "name": "Betty's Eddies Passion Fruit V3 Fruit Chews-Edible Product-10mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 15.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.135,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.007,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.014,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.05,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8882411,
+      "packageCount": 1,
+      "name": "Betty's Eddies Passion Fruit V3 Fruit Chews-Exempt-40mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 23.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.516,
+        "CBC": 0.004,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.019,
+        "CBGA": 0.0,
+        "CBN": 0.003,
+        "THCA": 0.0,
+        "THCV": 0.005
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "CBC": 0.028,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.135,
+          "CBGA": 0.0,
+          "CBN": 0.021,
+          "THCA": 0.0,
+          "THCV": 0.036
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8882314,
+      "packageCount": 2,
+      "name": "Betty's Eddies Pineapple Orange V3 Fruit Chews-Edible Product-10mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor",
+        "Vault"
+      ],
+      "quantity": 26.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.128,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.035,
+        "CBG": 0.068,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.014,
+          "CBDA": 0.0,
+          "CBDV": 0.249,
+          "CBG": 0.483,
+          "CBGA": 0.0,
+          "CBN": 0.0,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -8356,6 +8820,100 @@
       "dominantTerpene": null
     },
     {
+      "id": 8882418,
+      "packageCount": 1,
+      "name": "Betty's Eddies Strawberry V3 Fruit Chews-Edible Product-10mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.139,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.006,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.043,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8882332,
+      "packageCount": 1,
+      "name": "Betty's Eddies Tropical Smoothie Fruit Chews-Edible Product-10mg-2",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 22.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.14,
+        "totalCBD": 0.43,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.007,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 20.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 30.53,
+          "CBC": 0.142,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.497,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
       "id": 8828729,
       "packageCount": 1,
       "name": "Betty's Eddies Tropical Smoothie Fruit Chews-Exempt-40mg-10",
@@ -8442,6 +9000,52 @@
           "CBN": 0.036,
           "THCA": 0.0,
           "THCV": 1.171
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
+      "id": 8882408,
+      "packageCount": 1,
+      "name": "Betty's Eddies Watermelon V3 Fruit Chews-Edible Product-10mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.14,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.007,
+        "CBGA": 0.0,
+        "CBN": 0.001,
+        "THCA": 0.0,
+        "THCV": 0.033
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.014,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.05,
+          "CBGA": 0.0,
+          "CBN": 0.007,
+          "THCA": 0.0,
+          "THCV": 0.234
         },
         "minorsEstimated": true
       },
@@ -8730,6 +9334,54 @@
       "dominantTerpene": null
     },
     {
+      "id": 8107658,
+      "packageCount": 1,
+      "name": "Coast Cranberry Pomegranate Infused Chews - Edible Product - 5mg THC - 20",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 19.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.14,
+        "totalCBD": 0.14,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.14,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 chew = 5mg",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 5.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.252,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.252,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null
+    },
+    {
       "id": 8316916,
       "packageCount": 1,
       "name": "Coast Raspberry Lime Infused Chews - Edible Product - 5mg THC - 20",
@@ -8879,7 +9531,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9161,7 +9813,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9299,7 +9951,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9531,7 +10183,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13855,8 +14507,8 @@
       "dominantTerpene": null
     },
     {
-      "id": 8632169,
-      "packageCount": 1,
+      "id": 8882287,
+      "packageCount": 2,
       "name": "In House Watermelon Fast Acting V2 Gummies-Exempt-40mg-10",
       "brand": "In House",
       "category": "Edible",
@@ -13864,18 +14516,18 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.74,
+        "totalTHC": 0.81,
         "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.1,
+        "CBG": 0.12,
         "CBGA": 0.0,
         "CBN": 0.0,
         "THCA": 0.0,
@@ -13890,7 +14542,7 @@
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 5.0,
+          "CBG": 6.0,
           "CBGA": 0.0,
           "CBN": 0.0,
           "THCA": 0.0,
@@ -18975,6 +19627,84 @@
       "dominantTerpene": "limonene"
     },
     {
+      "id": 8882282,
+      "packageCount": 1,
+      "name": "In House Berry Citrus Slurricane Buds-Usable-14g",
+      "brand": "In House",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 168.0,
+      "unit": "Grams",
+      "strainName": "Berry Citrus Slurricane",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 20.15,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.01,
+        "CBN": 0.0,
+        "THCA": 22.65,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.06,
+        "myrcene": 0.34,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.16,
+        "beta-pinene": 0.05,
+        "limonene": 0.36,
+        "linalool": 0.17
+      },
+      "totalTerps": 1.3,
+      "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8882277,
+      "packageCount": 1,
+      "name": "In House Blueberry Buds-Usable-7g",
+      "brand": "In House",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Back-Ups"
+      ],
+      "quantity": 224.0,
+      "unit": "Grams",
+      "strainName": "Blueberry",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 19.55,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.12,
+        "CBGA": 0.45,
+        "CBN": 0.0,
+        "THCA": 21.9,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.08,
+        "myrcene": 0.23,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.29,
+        "beta-pinene": 0.06,
+        "limonene": 0.44,
+        "linalool": 0.28
+      },
+      "totalTerps": 1.55,
+      "dominantTerpene": "limonene"
+    },
+    {
       "id": 8828388,
       "packageCount": 1,
       "name": "In House Gelato 33 Buds-Usable-3.5g",
@@ -19013,6 +19743,88 @@
         "terpinolene": 0.03
       },
       "totalTerps": 2.24,
+      "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8882266,
+      "packageCount": 1,
+      "name": "In House Guava IX Ground Flower-Usable-7g",
+      "brand": "In House",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 161.0,
+      "unit": "Grams",
+      "strainName": "Guava IX",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.26,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.85,
+        "CBN": 0.0,
+        "THCA": 31.95,
+        "THCV": 0.23
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.15,
+        "humulene": 0.22,
+        "myrcene": 1.06,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.69,
+        "beta-pinene": 0.07,
+        "limonene": 0.61,
+        "linalool": 0.11
+      },
+      "totalTerps": 3.08,
+      "dominantTerpene": "myrcene"
+    },
+    {
+      "id": 8882272,
+      "packageCount": 1,
+      "name": "In House Orange Chemeleon Buds-Usable-3.5g",
+      "brand": "In House",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 45.5,
+      "unit": "Grams",
+      "strainName": "Orange Chemeleon",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 20.05,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.42,
+        "CBN": 0.0,
+        "THCA": 22.37,
+        "THCV": 0.28
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.06,
+        "myrcene": 0.52,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.2,
+        "eudesmol": 0.1,
+        "beta-pinene": 0.08,
+        "limonene": 0.7,
+        "linalool": 0.14,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.2,
       "dominantTerpene": "limonene"
     },
     {
@@ -19503,6 +20315,46 @@
         "linalool": 0.09
       },
       "totalTerps": 1.76,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8681094,
+      "packageCount": 1,
+      "name": "MDBECK-FLR-0-35",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 133.0,
+      "unit": "Grams",
+      "strainName": "Beach Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.41,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.08,
+        "CBGA": 0.77,
+        "CBN": 0.0,
+        "THCA": 27.0,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.36,
+        "myrcene": 0.21,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 1.06,
+        "beta-pinene": 0.06,
+        "limonene": 0.47,
+        "linalool": 0.25
+      },
+      "totalTerps": 2.75,
       "dominantTerpene": "caryophyllene"
     },
     {
@@ -20269,6 +21121,168 @@
       },
       "totalTerps": 2.72,
       "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8882269,
+      "packageCount": 1,
+      "name": "NH Chocolatina Flower-Usable-3.5g",
+      "brand": "NH",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 77.0,
+      "unit": "Grams",
+      "strainName": "Chocolatina",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.2,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.3,
+        "CBN": 0.0,
+        "THCA": 33.53,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.12,
+        "myrcene": 0.78,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.37,
+        "beta-pinene": 0.11,
+        "limonene": 0.95,
+        "linalool": 0.53,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.3,
+      "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8882192,
+      "packageCount": 1,
+      "name": "NH Double Krush Flower-Usable-28g",
+      "brand": "NH",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Back-Ups"
+      ],
+      "quantity": 448.0,
+      "unit": "Grams",
+      "strainName": "Double Krush",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.72,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.94,
+        "CBN": 0.0,
+        "THCA": 31.79,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.13,
+        "humulene": 0.18,
+        "myrcene": 0.7,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.71,
+        "beta-pinene": 0.06,
+        "limonene": 0.42,
+        "linalool": 0.27,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.66,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8882181,
+      "packageCount": 1,
+      "name": "NH Governmint Oasis Flower-Usable-3.5g",
+      "brand": "NH",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Back-Ups"
+      ],
+      "quantity": 112.0,
+      "unit": "Grams",
+      "strainName": "Governmint Oasis",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.49,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.31,
+        "CBN": 0.0,
+        "THCA": 31.19,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.19,
+        "myrcene": 0.08,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.59,
+        "beta-pinene": 0.05,
+        "limonene": 0.43
+      },
+      "totalTerps": 1.53,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8882185,
+      "packageCount": 1,
+      "name": "NH Guava IX Flower-Usable-14g",
+      "brand": "NH",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 84.0,
+      "unit": "Grams",
+      "strainName": "Guava IX",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.43,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.28,
+        "CBN": 0.0,
+        "THCA": 34.52,
+        "THCV": 0.25
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.14,
+        "humulene": 0.23,
+        "myrcene": 0.9,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.68,
+        "beta-pinene": 0.09,
+        "limonene": 0.7,
+        "linalool": 0.13,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.11,
+      "dominantTerpene": "myrcene"
     },
     {
       "id": 8766299,
@@ -21745,49 +22759,6 @@
       "dominantTerpene": "caryophyllene"
     },
     {
-      "id": 8633743,
-      "packageCount": 1,
-      "name": "Uva Bon Bon Strane - Usable - 3.5 g",
-      "brand": "Strane",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 52.5,
-      "unit": "Grams",
-      "strainName": "Uva Bon Bon",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 26.48,
-        "totalCBD": 0.05,
-        "CBC": 0.0,
-        "CBDA": 0.06,
-        "CBDV": 0.0,
-        "CBG": 0.08,
-        "CBGA": 1.05,
-        "CBN": 0.0,
-        "THCA": 29.3,
-        "THCV": 0.11
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.02,
-        "humulene": 0.24,
-        "myrcene": 0.26,
-        "alpha-pinene": 0.16,
-        "caryophyllene": 0.44,
-        "beta-pinene": 0.13,
-        "ocimene": 0.06,
-        "limonene": 0.67,
-        "linalool": 0.36,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 2.59,
-      "dominantTerpene": "limonene"
-    },
-    {
       "id": 8809506,
       "packageCount": 1,
       "name": "White OG Pre-Pack (Mixed Buds) - Rythm (Indica Dominant) - Usable - 28g",
@@ -23152,6 +24123,85 @@
       "dominantTerpene": "myrcene"
     },
     {
+      "id": 8886214,
+      "packageCount": 1,
+      "name": "Concentrate- Patapeake Shortbread x THCa Isolate Infused (.35g Joints) 5 Pack 1.75g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Patapeake Shortbread x Isolate",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 41.11,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.03,
+        "CBN": 0.0,
+        "THCA": 45.86,
+        "THCV": 0.15
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.14,
+        "myrcene": 0.04,
+        "alpha-pinene": 0.01,
+        "caryophyllene": 0.46,
+        "beta-pinene": 0.02,
+        "limonene": 0.12,
+        "linalool": 0.28
+      },
+      "totalTerps": 1.33,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8886159,
+      "packageCount": 1,
+      "name": "Concentrate- Sunset Octane x THCa Isolate Infused (.35g Joints) 5 Pack 1.75g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 15.0,
+      "unit": "Each",
+      "strainName": "Sunset Octane x Isolate",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 38.13,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.13,
+        "CBGA": 0.67,
+        "CBN": 0.0,
+        "THCA": 41.46,
+        "THCV": 0.66
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.14,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.01,
+        "caryophyllene": 0.57,
+        "beta-pinene": 0.02,
+        "limonene": 0.2,
+        "linalool": 0.22
+      },
+      "totalTerps": 1.4,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
       "id": 8725273,
       "packageCount": 1,
       "name": "Culta Pre-Roll - 5 x 0.5g - Apollo 22",
@@ -23285,7 +24335,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Ouzo",
       "strainType": null,
@@ -25488,6 +26538,43 @@
       "dominantTerpene": "caryophyllene"
     },
     {
+      "id": 8882285,
+      "packageCount": 1,
+      "name": "NH Blueberry Preroll-Usable-.5g 2pk",
+      "brand": "NH",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 18.0,
+      "unit": "Grams",
+      "strainName": "Blueberry",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 18.25,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.45,
+        "CBN": 0.0,
+        "THCA": 20.22,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.08,
+        "myrcene": 0.05,
+        "caryophyllene": 0.27,
+        "limonene": 0.1,
+        "linalool": 0.18
+      },
+      "totalTerps": 0.76,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
       "id": 8040613,
       "packageCount": 1,
       "name": "NH Cheese Infused Preroll-Concentrate-1g",
@@ -25565,6 +26652,86 @@
         "nerolidol": 0.1
       },
       "totalTerps": 0.78,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8882304,
+      "packageCount": 1,
+      "name": "NH Cherimoya Preroll-Usable-.5g 2pk",
+      "brand": "NH",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 23.0,
+      "unit": "Grams",
+      "strainName": "Cherimoya",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.92,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.14,
+        "CBGA": 1.03,
+        "CBN": 0.0,
+        "THCA": 25.17,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.09,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.22,
+        "eudesmol": 0.13,
+        "beta-pinene": 0.04,
+        "limonene": 0.39,
+        "linalool": 0.39
+      },
+      "totalTerps": 1.68,
+      "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8882306,
+      "packageCount": 1,
+      "name": "NH Chestah The Cheetah Preroll-Usable-.5g 5pk",
+      "brand": "NH",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 60.0,
+      "unit": "Grams",
+      "strainName": "Chestah The Cheetah",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 21.12,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.77,
+        "CBN": 0.0,
+        "THCA": 23.74,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.15,
+        "myrcene": 0.12,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.46,
+        "beta-pinene": 0.04,
+        "limonene": 0.22,
+        "linalool": 0.12
+      },
+      "totalTerps": 1.29,
       "dominantTerpene": "caryophyllene"
     },
     {
@@ -25768,16 +26935,56 @@
       "dominantTerpene": "terpinolene"
     },
     {
-      "id": 8766904,
+      "id": 8882298,
       "packageCount": 1,
-      "name": "NH Lilac Diesel Preroll-Usable-.5g 2pk",
+      "name": "NH Lemon Margy Preroll-Usable-.5g 2pk",
       "brand": "NH",
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 23.0,
+      "unit": "Grams",
+      "strainName": "Lemon Margy",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 21.49,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.32,
+        "CBGA": 0.96,
+        "CBN": 0.0,
+        "THCA": 23.39,
+        "THCV": 0.25
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.04,
+        "myrcene": 0.03,
+        "caryophyllene": 0.1,
+        "beta-pinene": 0.02,
+        "ocimene": 0.07,
+        "limonene": 0.05,
+        "terpinolene": 0.1
+      },
+      "totalTerps": 0.47,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8882294,
+      "packageCount": 2,
+      "name": "NH Lilac Diesel Preroll-Usable-.5g 2pk",
+      "brand": "NH",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Back-Ups",
+        "Sales Floor"
+      ],
+      "quantity": 32.0,
       "unit": "Grams",
       "strainName": "Lilac Diesel",
       "strainType": null,
@@ -32868,49 +34075,6 @@
       "dominantTerpene": "limonene"
     },
     {
-      "id": 8840302,
-      "packageCount": 1,
-      "name": "Fade Co | Vape | Live Resin | Glitter Bomb - Vape Cart - 1g",
-      "brand": "Fade Co",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 19.0,
-      "unit": "Each",
-      "strainName": "Glitter Bomb",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 74.5,
-        "totalCBD": 0.14,
-        "CBC": 0.88,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.41,
-        "CBGA": 0.38,
-        "CBN": 0.22,
-        "THCA": 0.0,
-        "THCV": 0.59
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.3,
-        "myrcene": 3.28,
-        "alpha-pinene": 0.17,
-        "caryophyllene": 0.74,
-        "beta-pinene": 0.15,
-        "caryophyllene-oxide": 0.03,
-        "ocimene": 0.77,
-        "limonene": 0.95,
-        "linalool": 1.18,
-        "terpinolene": 0.04
-      },
-      "totalTerps": 7.89,
-      "dominantTerpene": "myrcene"
-    },
-    {
       "id": 8604972,
       "packageCount": 1,
       "name": "Fade Co | Vape | Live Resin | Peanut Butter Cupzzz - Vape Cart - 1g",
@@ -35066,6 +36230,87 @@
       "dominantTerpene": "limonene"
     },
     {
+      "id": 8882278,
+      "packageCount": 1,
+      "name": "In House Grapefruit Diesel-Vape Cart-1g",
+      "brand": "In House",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "Grapefruit Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.24,
+        "CBC": 0.63,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.67,
+        "CBGA": 0.0,
+        "CBN": 0.34,
+        "THCA": 0.0,
+        "THCV": 0.54
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.19,
+        "myrcene": 1.47,
+        "alpha-pinene": 0.3,
+        "caryophyllene": 0.45,
+        "beta-pinene": 0.17,
+        "ocimene": 0.27,
+        "limonene": 0.94,
+        "linalool": 0.18,
+        "terpinolene": 0.38
+      },
+      "totalTerps": 4.43,
+      "dominantTerpene": "myrcene"
+    },
+    {
+      "id": 8882280,
+      "packageCount": 1,
+      "name": "In House Green Crack Disposable-Vape Cart-.5g",
+      "brand": "In House",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Green Crack",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.62,
+        "CBC": 0.61,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.52,
+        "CBGA": 0.0,
+        "CBN": 0.34,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.43,
+        "myrcene": 0.26,
+        "alpha-pinene": 0.18,
+        "caryophyllene": 1.39,
+        "beta-pinene": 0.11,
+        "limonene": 1.16,
+        "linalool": 0.27,
+        "nerolidol": 0.1
+      },
+      "totalTerps": 3.97,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
       "id": 8462869,
       "packageCount": 1,
       "name": "In House Green Crack-Vape Cart-.5g",
@@ -35422,6 +36667,47 @@
       "dominantTerpene": "ocimene"
     },
     {
+      "id": 8882187,
+      "packageCount": 1,
+      "name": "In House Purple Haze Disposable-Vape Cart-2g",
+      "brand": "In House",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 23.0,
+      "unit": "Each",
+      "strainName": "Purple Haze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 81.75,
+        "CBC": 0.83,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.1,
+        "CBGA": 0.0,
+        "CBN": 0.72,
+        "THCA": 0.0,
+        "THCV": 0.81
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.26,
+        "myrcene": 0.22,
+        "alpha-pinene": 0.51,
+        "caryophyllene": 0.91,
+        "beta-pinene": 0.2,
+        "ocimene": 0.37,
+        "limonene": 1.6,
+        "linalool": 0.14,
+        "terpinolene": 0.09
+      },
+      "totalTerps": 4.39,
+      "dominantTerpene": "limonene"
+    },
+    {
       "id": 8518541,
       "packageCount": 1,
       "name": "In House Super Glue Disposable-Vape Cart-.5g",
@@ -35544,6 +36830,89 @@
       },
       "totalTerps": 4.27,
       "dominantTerpene": "terpinolene"
+    },
+    {
+      "id": 8882182,
+      "packageCount": 1,
+      "name": "In House Trainwreck-Vape Cart-1g",
+      "brand": "In House",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 22.0,
+      "unit": "Each",
+      "strainName": "Trainwreck",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.88,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.95,
+        "CBGA": 0.0,
+        "CBN": 1.5,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.34,
+        "myrcene": 0.41,
+        "alpha-pinene": 0.27,
+        "caryophyllene": 1.09,
+        "beta-pinene": 0.18,
+        "ocimene": 0.78,
+        "limonene": 1.01,
+        "linalool": 0.32,
+        "terpinolene": 1.43
+      },
+      "totalTerps": 5.91,
+      "dominantTerpene": "terpinolene"
+    },
+    {
+      "id": 8882184,
+      "packageCount": 1,
+      "name": "In House White Widow 5:1 THC:CBG Disposable-Vape Cart-.5g",
+      "brand": "In House",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "White Widow",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 71.25,
+        "CBC": 0.6,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 15.85,
+        "CBGA": 0.0,
+        "CBN": 0.46,
+        "THCA": 0.0,
+        "THCV": 0.57
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.12,
+        "humulene": 0.29,
+        "myrcene": 0.51,
+        "alpha-pinene": 0.29,
+        "caryophyllene": 0.87,
+        "beta-pinene": 0.15,
+        "ocimene": 0.45,
+        "limonene": 1.03,
+        "linalool": 0.23,
+        "terpinolene": 0.5
+      },
+      "totalTerps": 4.52,
+      "dominantTerpene": "limonene"
     },
     {
       "id": 8755240,
@@ -36980,7 +38349,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 47.0,
+      "quantity": 46.0,
       "unit": "Each",
       "strainName": "Grapefruit Maui",
       "strainType": null,
@@ -37515,6 +38884,127 @@
       "dominantTerpene": "limonene"
     },
     {
+      "id": 8885895,
+      "packageCount": 1,
+      "name": "Mellow Fellow - Disposable Vape - Banana Berry Smoothie - 1g",
+      "brand": "Mellow Fellow",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 26.0,
+      "unit": "Each",
+      "strainName": "Banana Berry Smoothie",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 82.24,
+        "CBC": 0.93,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.71,
+        "CBGA": 0.0,
+        "CBN": 0.74,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.06,
+        "myrcene": 0.43,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 0.66,
+        "beta-pinene": 0.13,
+        "limonene": 0.86,
+        "linalool": 0.2
+      },
+      "totalTerps": 2.5,
+      "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8885894,
+      "packageCount": 1,
+      "name": "Mellow Fellow - Disposable Vape - Grandaddy Purp - 1g",
+      "brand": "Mellow Fellow",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Grandaddy Purp",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 82.99,
+        "CBC": 1.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.04,
+        "CBGA": 0.0,
+        "CBN": 0.41,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.33,
+        "humulene": 0.17,
+        "myrcene": 0.7,
+        "alpha-pinene": 0.23,
+        "caryophyllene": 0.6,
+        "beta-pinene": 0.19,
+        "limonene": 1.36,
+        "linalool": 0.4
+      },
+      "totalTerps": 4.24,
+      "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8885946,
+      "packageCount": 1,
+      "name": "Mellow Fellow - Disposable Vape - Grape Ice OG - 1g",
+      "brand": "Mellow Fellow",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 27.0,
+      "unit": "Each",
+      "strainName": "Grape Ice OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 80.4,
+        "CBC": 1.06,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.27,
+        "CBGA": 0.0,
+        "CBN": 0.63,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.14,
+        "humulene": 0.06,
+        "myrcene": 0.91,
+        "alpha-pinene": 0.43,
+        "caryophyllene": 0.69,
+        "beta-pinene": 0.25,
+        "limonene": 0.8,
+        "linalool": 0.26,
+        "terpinolene": 0.06,
+        "nerolidol": 0.1
+      },
+      "totalTerps": 4.42,
+      "dominantTerpene": "myrcene"
+    },
+    {
       "id": 8796284,
       "packageCount": 1,
       "name": "Mellow Fellow - Disposable Vape - White Widow - 1g",
@@ -37554,6 +39044,47 @@
       },
       "totalTerps": 4.25,
       "dominantTerpene": "terpinolene"
+    },
+    {
+      "id": 8885893,
+      "packageCount": 1,
+      "name": "Mellow Fellow - Infused Distillate 510 Vape - Durban Poison - 1g",
+      "brand": "Mellow Fellow",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 26.0,
+      "unit": "Each",
+      "strainName": "Durban Poison",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 88.39,
+        "CBC": 0.67,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.46,
+        "CBGA": 0.0,
+        "CBN": 0.81,
+        "THCA": 0.0,
+        "THCV": 0.57
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.16,
+        "myrcene": 0.78,
+        "alpha-pinene": 0.28,
+        "caryophyllene": 0.57,
+        "beta-pinene": 0.21,
+        "ocimene": 1.27,
+        "limonene": 0.76,
+        "linalool": 0.31,
+        "terpinolene": 0.83
+      },
+      "totalTerps": 5.39,
+      "dominantTerpene": "ocimene"
     },
     {
       "id": 8796285,
@@ -38125,6 +39656,47 @@
       },
       "totalTerps": 5.7,
       "dominantTerpene": "terpinolene"
+    },
+    {
+      "id": 8882189,
+      "packageCount": 1,
+      "name": "NH RS #11 Live Rosin-Vape Cart-.5g",
+      "brand": "NH",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "RS",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 70.43,
+        "CBC": 1.4,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.51,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.39
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.25,
+        "humulene": 0.63,
+        "myrcene": 0.21,
+        "alpha-pinene": 0.76,
+        "caryophyllene": 2.52,
+        "beta-pinene": 0.3,
+        "limonene": 3.56,
+        "linalool": 1.34,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 10.85,
+      "dominantTerpene": "limonene"
     },
     {
       "id": 8518534,
@@ -39424,6 +40996,43 @@
       },
       "totalTerps": 0.7,
       "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8883697,
+      "packageCount": 1,
+      "name": "Rove | Live Resin Diamonds Vape Reload | Blue Dream - H | 1.0g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 7.0,
+      "unit": "Each",
+      "strainName": "Blue Dream",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.37,
+        "CBC": 0.488,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.919,
+        "CBGA": 0.0,
+        "CBN": 1.258,
+        "THCA": 0.0,
+        "THCV": 0.616
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.0302,
+        "humulene": 0.0325,
+        "myrcene": 0.058,
+        "caryophyllene": 0.0395,
+        "limonene": 0.0676
+      },
+      "totalTerps": 0.228,
+      "dominantTerpene": "limonene"
     },
     {
       "id": 8812114,
