@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T21:50:25.755713+00:00",
+  "generated_at": "2026-08-27T22:00:27.996920+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2623,7 +2623,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Happy er J Gumi x House Blends",
       "strainType": null,
@@ -2656,7 +2656,7 @@
         {
           "id": 8884045,
           "label": "1A4030300000C83000085453",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-05-27"
         }
@@ -10689,7 +10689,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10730,7 +10730,7 @@
         {
           "id": 8731143,
           "label": "1A40303000001F5000404805",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-06-03"
         }
@@ -11831,15 +11831,16 @@
     },
     {
       "id": 8882291,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Betty's Eddies Cherry Fruit Chews-Edible Product-10mg-2",
       "brand": "Betty's Eddies",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
+        "Sales Floor",
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11883,6 +11884,13 @@
           "quantity": 25.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-02"
+        },
+        {
+          "id": 8689780,
+          "label": "1A4030300003522000201321",
+          "quantity": 2.0,
+          "packagedDate": "2026-07-07",
+          "expirationDate": "2027-05-22"
         }
       ]
     },
@@ -28776,7 +28784,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 38.5,
       "unit": "Grams",
       "strainName": "GMO",
       "strainType": "Indica",
@@ -28809,7 +28817,7 @@
         {
           "id": 8854451,
           "label": "1A40303000003EA000202541",
-          "quantity": 42.0,
+          "quantity": 38.5,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-07-17"
         }
@@ -28973,7 +28981,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 24.5,
       "unit": "Grams",
       "strainName": "Golden Pineapple OG",
       "strainType": "Sativa",
@@ -29010,7 +29018,7 @@
         {
           "id": 8778311,
           "label": "1A40303000003EA000192816",
-          "quantity": 28.0,
+          "quantity": 24.5,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-07-02"
         }
@@ -53746,6 +53754,54 @@
       ]
     },
     {
+      "id": 8579706,
+      "packageCount": 1,
+      "name": "In House Biscotti Disposable-Vape Cart-.5g",
+      "brand": "In House",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 6.0,
+      "unit": "Each",
+      "strainName": "Biscotti",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.67,
+        "CBC": 0.73,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.23,
+        "CBGA": 0.0,
+        "CBN": 0.37,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.37,
+        "myrcene": 0.28,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 1.1,
+        "beta-pinene": 0.12,
+        "limonene": 1.25,
+        "linalool": 0.26
+      },
+      "totalTerps": 3.59,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8579706,
+          "label": "1A4030300003522000187538",
+          "quantity": 6.0,
+          "packagedDate": "2026-06-11",
+          "expirationDate": "2027-05-19"
+        }
+      ]
+    },
+    {
       "id": 8518540,
       "packageCount": 1,
       "name": "In House Durban Poison 5:1-Vape Cart-1g",
@@ -54291,7 +54347,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": null,
@@ -54324,7 +54380,7 @@
         {
           "id": 8828742,
           "label": "1A4030300003522000195381",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-02-22"
         }
