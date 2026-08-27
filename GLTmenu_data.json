@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T18:11:00.469002+00:00",
+  "generated_at": "2026-08-27T18:20:37.977270+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Back-Ups",
@@ -2061,6 +2061,56 @@
           "quantity": 17.0,
           "packagedDate": "2026-04-28",
           "expirationDate": "2027-01-08"
+        }
+      ]
+    },
+    {
+      "id": 8755242,
+      "packageCount": 1,
+      "name": "Blue Beach Haze - Cured Badder - 3.5g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 15.0,
+      "unit": "Each",
+      "strainName": "Blue Beach Haze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 73.31,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.08,
+        "CBN": 0.0,
+        "THCA": 83.59,
+        "THCV": 0.48
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.42,
+        "humulene": 0.44,
+        "myrcene": 1.23,
+        "alpha-pinene": 0.26,
+        "caryophyllene": 1.4,
+        "beta-pinene": 0.21,
+        "limonene": 1.46,
+        "linalool": 0.78,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 6.67,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8755242,
+          "label": "ABC0303000037DD000024742",
+          "quantity": 15.0,
+          "packagedDate": "2026-07-21",
+          "expirationDate": "2027-04-06"
         }
       ]
     },
@@ -11837,7 +11887,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11876,7 +11926,7 @@
         {
           "id": 8882297,
           "label": "1A4030300003522000202249",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-21"
         }
@@ -11957,7 +12007,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11998,7 +12048,7 @@
         {
           "id": 8882197,
           "label": "1A4030300003522000202245",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-23"
         }
@@ -12450,16 +12500,15 @@
     },
     {
       "id": 8882314,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Betty's Eddies Pineapple Orange V3 Fruit Chews-Edible Product-10mg-10",
       "brand": "Betty's Eddies",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12501,13 +12550,6 @@
           "quantity": 25.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-28"
-        },
-        {
-          "id": 8766842,
-          "label": "1A4030300003522000207379",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-23",
-          "expirationDate": "2027-07-03"
         }
       ]
     },
@@ -14584,6 +14626,61 @@
           "label": "1A403030000012D000244632",
           "quantity": 17.0,
           "packagedDate": "2026-06-11",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8550399,
+      "packageCount": 1,
+      "name": "Curio Wellness Pain 5mg Plus Terpenes Soothing Lemon Lime Chews-Edible Product-5mg-20",
+      "brand": "Curio Wellness",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.118,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 5.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.08,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8550399,
+          "label": "1A403030000012D000236508",
+          "quantity": 5.0,
+          "packagedDate": "2026-06-04",
           "expirationDate": null
         }
       ]
@@ -26313,6 +26410,63 @@
       ]
     },
     {
+      "id": 8686616,
+      "packageCount": 1,
+      "name": "Wana | Edibles | Soft Lozenges | High Dose Green Apple Hybrid - Exempt - 40mg - 10pk",
+      "brand": "Wana",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 18.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.86,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.03,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.35,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8686616,
+          "label": "1A4030300002199000056243",
+          "quantity": 18.0,
+          "packagedDate": "2026-05-27",
+          "expirationDate": "2027-05-27"
+        }
+      ]
+    },
+    {
       "id": 8747179,
       "packageCount": 1,
       "name": "Wana | Edibles | Soft Lozenges | High Dose Raspberry Limeade Indica - Exempt - 40mg - 10pk",
@@ -33236,7 +33390,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 66.5,
+      "quantity": 63.0,
       "unit": "Grams",
       "strainName": "PROM",
       "strainType": null,
@@ -33276,7 +33430,7 @@
         {
           "id": 8895516,
           "label": "1A40303000000CD000075422",
-          "quantity": 7.0,
+          "quantity": 3.5,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -37776,7 +37930,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "Ouzo",
       "strainType": null,
@@ -37808,7 +37962,7 @@
         {
           "id": 8893986,
           "label": "1A403030000012D000261761",
-          "quantity": 22.0,
+          "quantity": 20.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -37927,7 +38081,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 19.0,
       "unit": "Grams",
       "strainName": "Crescendo",
       "strainType": null,
@@ -37960,7 +38114,7 @@
         {
           "id": 8828987,
           "label": "1A403030000012D000259346",
-          "quantity": 21.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -41204,7 +41358,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 3.5,
       "unit": "Grams",
       "strainName": "Peach Runtz",
       "strainType": null,
@@ -41239,7 +41393,7 @@
         {
           "id": 8814021,
           "label": "1A40303000000CB000048868",
-          "quantity": 7.0,
+          "quantity": 3.5,
           "packagedDate": "2026-08-04",
           "expirationDate": "2027-06-16"
         }
@@ -56648,7 +56802,7 @@
     },
     {
       "id": 8755240,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Intergalactic LLR - 510 Vape Cart - 0.5g",
       "brand": null,
       "category": "Vape",
@@ -56656,7 +56810,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Intergalactic LLR",
       "strainType": null,
@@ -56693,6 +56847,13 @@
           "id": 8755240,
           "label": "ABC0303000037DD000024737",
           "quantity": 18.0,
+          "packagedDate": "2026-07-21",
+          "expirationDate": "2027-05-11"
+        },
+        {
+          "id": 8755244,
+          "label": "ABC0303000037DD000024743",
+          "quantity": 1.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-05-11"
         }
@@ -56808,7 +56969,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Jack's Delight",
       "strainType": "Sativa",
@@ -56843,7 +57004,7 @@
         {
           "id": 8676411,
           "label": "1A40303000003EA000197289",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-06-12"
         }
@@ -56994,56 +57155,6 @@
           "quantity": 3.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-06-13"
-        }
-      ]
-    },
-    {
-      "id": 8420302,
-      "packageCount": 1,
-      "name": "Just Vape | Vape | Distillate | Do-Si-Do - Vape Cart - 1g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 10.0,
-      "unit": "Each",
-      "strainName": "Do Si Do",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 86.43,
-        "totalCBD": 0.26,
-        "CBC": 0.48,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.38,
-        "CBGA": 0.0,
-        "CBN": 0.37,
-        "THCA": 0.0,
-        "THCV": 0.7
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.25,
-        "myrcene": 0.7,
-        "alpha-pinene": 0.16,
-        "caryophyllene": 1.08,
-        "beta-pinene": 0.17,
-        "limonene": 1.28,
-        "linalool": 0.49,
-        "terpinolene": 0.03
-      },
-      "totalTerps": 4.41,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8420302,
-          "label": "1A4030300004845000021350",
-          "quantity": 10.0,
-          "packagedDate": "2026-03-02",
-          "expirationDate": null
         }
       ]
     },
@@ -57263,7 +57374,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": "Grape Ape",
       "strainType": null,
@@ -57298,7 +57409,7 @@
         {
           "id": 8842350,
           "label": "1A4030300003201000001524",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-08-10",
           "expirationDate": null
         },
