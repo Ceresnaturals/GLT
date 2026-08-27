@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T21:30:26.892251+00:00",
+  "generated_at": "2026-08-27T21:40:25.172229+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11831,16 +11831,15 @@
     },
     {
       "id": 8882291,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Betty's Eddies Cherry Fruit Chews-Edible Product-10mg-2",
       "brand": "Betty's Eddies",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11884,13 +11883,6 @@
           "quantity": 25.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-02"
-        },
-        {
-          "id": 8689780,
-          "label": "1A4030300003522000201321",
-          "quantity": 2.0,
-          "packagedDate": "2026-07-07",
-          "expirationDate": "2027-05-22"
         }
       ]
     },
@@ -24117,63 +24109,6 @@
       ]
     },
     {
-      "id": 8507908,
-      "packageCount": 1,
-      "name": "Suckers | Edibles | Hard Lozenges | Sour Apple Zing - Edible Product - 10mg - 10 Pack",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Vault"
-      ],
-      "quantity": 5.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.3,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8507908,
-          "label": "1A40303000039D1000076300",
-          "quantity": 5.0,
-          "packagedDate": "2026-05-26",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8507910,
       "packageCount": 1,
       "name": "Suckers | Edibles | Hard Lozenges | Very Cherry - Edible Product - 10mg - 10 Pack",
@@ -30019,7 +29954,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 73.5,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "White Iverson",
       "strainType": null,
@@ -30054,7 +29989,7 @@
         {
           "id": 8890134,
           "label": "1A403030000025B000084351",
-          "quantity": 73.5,
+          "quantity": 70.0,
           "packagedDate": "2026-07-17",
           "expirationDate": "2027-07-08"
         }
@@ -32521,7 +32456,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 66.5,
+      "quantity": 63.0,
       "unit": "Grams",
       "strainName": "Rainbow Push Pop #4",
       "strainType": null,
@@ -32555,7 +32490,7 @@
         {
           "id": 8884056,
           "label": "1A40303000000CB000050203",
-          "quantity": 66.5,
+          "quantity": 63.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-08-04"
         }
@@ -42408,7 +42343,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.1,
+      "quantity": 19.6,
       "unit": "Grams",
       "strainName": "Dark Rainbow",
       "strainType": null,
@@ -42439,7 +42374,7 @@
         {
           "id": 8765231,
           "label": "1A40303000001F5000408133",
-          "quantity": 23.1,
+          "quantity": 19.6,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
@@ -50564,7 +50499,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Peanut Butter Cupzzz",
       "strainType": null,
@@ -50601,7 +50536,7 @@
         {
           "id": 8604972,
           "label": "1A4030300004845000027736",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-06-05",
           "expirationDate": null
         }
@@ -56071,7 +56006,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Clementine",
       "strainType": null,
@@ -56104,7 +56039,7 @@
         {
           "id": 8820520,
           "label": "1A4030300002199000058675",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-06-24",
           "expirationDate": "2027-06-24"
         }
