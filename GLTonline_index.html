@@ -291,6 +291,19 @@ main{padding:16px clamp(10px,2vw,26px) 60px;min-width:0}
   background:var(--paper-2);color:var(--ink-soft);cursor:pointer}
 .sortbtn.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
 
+/* stock-age flags — deliberately muted/small so they read as staff-only info,
+   not a customer-facing callout; hidden entirely in Customer View (body.present) */
+.stockflags{display:flex;gap:6px;flex-wrap:wrap}
+.stockbtn{font-size:11px;padding:5px 9px;border-radius:7px;border:1px dashed var(--line);
+  background:transparent;color:var(--ink-faint);cursor:pointer}
+.stockbtn:hover{color:var(--ink-soft);border-color:var(--ink-soft)}
+.stockbtn.on{background:var(--paper-2);color:var(--ink);border-style:solid;border-color:var(--sativa)}
+.stockbtn .n{font-family:var(--font-num);opacity:.8}
+body.present .stockflags{display:none}
+.agebadge{display:inline-block;font-size:10px;padding:1px 6px;border-radius:6px;margin-left:6px;
+  border:1px solid var(--sativa);color:var(--sativa);vertical-align:middle;white-space:nowrap}
+body.present .agebadge{display:none}
+
 .tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:var(--radius);
   background:var(--paper-2);box-shadow:var(--shadow)}
 table{width:100%;border-collapse:collapse;min-width:960px;table-layout:fixed}
@@ -592,6 +605,10 @@ body.embed .cmpbar{bottom:auto} /* top is set in JS instead, from tracked parent
   <main>
     <div class="toolbar">
       <div class="count"><b id="shown">0</b> of <b id="total">0</b> products</div>
+      <div class="stockflags">
+        <button class="stockbtn" id="flagExpiring" type="button" title="Any package expiring within 45 days">Expiring soon <span class="n" id="flagExpiringN"></span></button>
+        <button class="stockbtn" id="flagAging" type="button" title="Any package packaged 100+ days ago">Aging stock <span class="n" id="flagAgingN"></span></button>
+      </div>
       <div class="sorts">
         <span class="lbl" style="align-self:center;font-size:11px;color:var(--ink-faint);text-transform:uppercase;letter-spacing:.1em">Sort</span>
         <button class="sortbtn" data-sort="totalTHC">THC</button>
@@ -700,6 +717,13 @@ body.embed .cmpbar{bottom:auto} /* top is set in JS instead, from tracked parent
     <ul>
       <li><b>Customer View</b> — makes everything big and high-contrast; turn the screen toward the customer with this on.</li>
       <li><b>Table / Cards</b> — Table suits a full screen; Cards suits a tablet or phone (it switches automatically on small screens).</li>
+    </ul>
+
+    <h3>Expiring soon / Aging stock</h3>
+    <ul>
+      <li><b>Expiring soon</b> — flags any product with a package expiring within 45 days.</li>
+      <li><b>Aging stock</b> — flags any product with a package packaged 100+ days ago.</li>
+      <li>These are staff-only — small dashed buttons above the table, and they disappear in Customer View.</li>
     </ul>
 
     <h3>Good to know</h3>
@@ -837,8 +861,11 @@ let PRODUCTS = [];
 const state = {
   search:'', types:new Set(), locations:new Set(), categories:new Set(), edibleTypes:new Set(),
   terpene:'', domOnly:false, group:false, thcMin:0, cannabinoids:new Set(),
-  sorts:[{key:'name',dir:1}], selectedId:null, compare:new Set(), page:0
+  sorts:[{key:'name',dir:1}], selectedId:null, compare:new Set(), page:0,
+  flagExpiring:false, flagAging:false
 };
+const EXPIRING_SOON_DAYS = 45;
+const AGING_STOCK_DAYS = 100;
 const PAGE_SIZE = 100;
 
 /* ============================================================
@@ -883,6 +910,7 @@ function ingest(data){
       _exempt: /^exempt/i.test(p.metrcCategory||'')
     };
     o._cls = classifyStrain(o);
+    Object.assign(o, stockAgeInfo(p.packages));
     return o;
   });
   buildFilters();
@@ -958,7 +986,30 @@ function chipSet(containerId, items, stateSet, label){
 /* ============================================================
    FILTER + SORT PIPELINE
    ============================================================ */
+// Worst-case per product across its packages: soonest expiration, oldest packaged date.
+function stockAgeInfo(packages){
+  const today = new Date();
+  let minDaysToExpire = null, maxDaysInStock = null;
+  (packages||[]).forEach(pkg=>{
+    if(pkg.expirationDate){
+      const d = Math.round((new Date(pkg.expirationDate) - today) / 86400000);
+      if(minDaysToExpire===null || d<minDaysToExpire) minDaysToExpire = d;
+    }
+    if(pkg.packagedDate){
+      const d = Math.round((today - new Date(pkg.packagedDate)) / 86400000);
+      if(maxDaysInStock===null || d>maxDaysInStock) maxDaysInStock = d;
+    }
+  });
+  return {
+    _daysToExpire: minDaysToExpire,
+    _daysInStock: maxDaysInStock,
+    _expiringSoon: minDaysToExpire!==null && minDaysToExpire<=EXPIRING_SOON_DAYS,
+    _agingStock: maxDaysInStock!==null && maxDaysInStock>=AGING_STOCK_DAYS
+  };
+}
 function passes(p){
+  if(state.flagExpiring && !p._expiringSoon) return false;
+  if(state.flagAging && !p._agingStock) return false;
   if(state.search && !p._search.includes(state.search)) return false;
   if(state.types.size){ if(!p._cls || !state.types.has(p._cls)) return false; }
   if(state.locations.size && !(p.locations||[]).some(l=>state.locations.has(l))) return false;
@@ -1001,8 +1052,13 @@ function applySort(list){
    ============================================================ */
 function render(){
   const sig = JSON.stringify({s:state.search,t:[...state.types],l:[...state.locations],c:[...state.categories],
-    tp:state.terpene,d:state.domOnly,th:state.thcMin,cb:[...state.cannabinoids],so:state.sorts});
+    tp:state.terpene,d:state.domOnly,th:state.thcMin,cb:[...state.cannabinoids],so:state.sorts,
+    fe:state.flagExpiring,fa:state.flagAging});
   if(sig !== state._lastSig){ state.page = 0; state._lastSig = sig; }
+  document.getElementById('flagExpiring').classList.toggle('on', state.flagExpiring);
+  document.getElementById('flagAging').classList.toggle('on', state.flagAging);
+  document.getElementById('flagExpiringN').textContent = PRODUCTS.filter(p=>p._expiringSoon).length || '';
+  document.getElementById('flagAgingN').textContent = PRODUCTS.filter(p=>p._agingStock).length || '';
   let list = PRODUCTS.filter(passes);
   list = applySort(list);
   const totalMatched = list.length;
@@ -1101,6 +1157,17 @@ function typeBadge(p){
     : (cls==='Unknown'?'No type available':'Manufacturer label');
   return `<span class="badge b-${cls}${est?' est':''}" title="${tip}">${cls}${est?' <span class="estmark">≈</span>':''}</span>`;
 }
+function stockBadge(p){
+  if(p._expiringSoon){
+    const d = p._daysToExpire;
+    const txt = d<=0 ? 'Expired' : `Exp ${d}d`;
+    return `<span class="agebadge" title="Soonest package expires in ${d} day(s)">${txt}</span>`;
+  }
+  if(p._agingStock){
+    return `<span class="agebadge" title="Oldest package has been in stock ${p._daysInStock} day(s)">${p._daysInStock}d in stock</span>`;
+  }
+  return '';
+}
 function rowHtml(p){
   const cls=p._cls||'Unknown';
   const tt=topTerps(p);
@@ -1118,7 +1185,7 @@ function rowHtml(p){
   }).join('') || '<span style="color:var(--ink-faint);font-size:12px">Not tested for terpenes</span>';
   return `<tr data-id="${p.id}">
     <td class="c-cmp" data-label="Compare" onclick="event.stopPropagation()"><label class="cmp-check cmp-check-cell"><input type="checkbox" class="cmp-toggle" data-id="${p.id}"><span class="box"><svg viewBox="0 0 16 16" fill="none"><path d="M3 8.5L6.2 11.5L13 4.5" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></span></label></td>
-    <td class="c-prod"><div class="pname">${p.strainName||p.name}</div><div class="pbrand">${sub||'&nbsp;'}</div></td>
+    <td class="c-prod"><div class="pname">${p.strainName||p.name}${stockBadge(p)}</div><div class="pbrand">${sub||'&nbsp;'}</div></td>
     <td class="type-col" data-label="Type">${typeBadge(p)}</td>
     <td class="thc-col" data-label="THC">${thcCell(p)}</td>
     <td class="c-cann stack" data-label="Other cannabinoids">${otherCann(p)}</td>
@@ -1210,6 +1277,8 @@ document.querySelectorAll('thead th[data-sort]').forEach(th=>{
 document.querySelectorAll('.sortbtn').forEach(b=>{
   b.onclick=e=>toggleSort(b.dataset.sort, e.shiftKey);
 });
+document.getElementById('flagExpiring').onclick=()=>{ state.flagExpiring=!state.flagExpiring; render(); };
+document.getElementById('flagAging').onclick=()=>{ state.flagAging=!state.flagAging; render(); };
 
 /* ============================================================
    RELATED PRODUCTS  (terpene-profile similarity, cosine)
