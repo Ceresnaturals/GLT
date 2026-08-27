@@ -291,18 +291,17 @@ main{padding:16px clamp(10px,2vw,26px) 60px;min-width:0}
   background:var(--paper-2);color:var(--ink-soft);cursor:pointer}
 .sortbtn.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
 
-/* stock-age flags — deliberately muted/small so they read as staff-only info,
-   not a customer-facing callout; hidden entirely in Customer View (body.present) */
-.stockflags{display:flex;gap:6px;flex-wrap:wrap}
-.stockbtn{font-size:11px;padding:5px 9px;border-radius:7px;border:1px dashed var(--line);
-  background:transparent;color:var(--ink-faint);cursor:pointer}
-.stockbtn:hover{color:var(--ink-soft);border-color:var(--ink-soft)}
-.stockbtn.on{background:var(--paper-2);color:var(--ink);border-style:solid;border-color:var(--sativa)}
-.stockbtn .n{font-family:var(--font-num);opacity:.8}
+/* stock-age flags — icon-only, no visible label/count, so a customer glancing
+   at the screen has nothing to read; label lives only in the title tooltip.
+   Hidden entirely in Customer View (body.present). */
+.stockflags{display:flex;gap:4px}
+.stockbtn{width:26px;height:26px;padding:0;border-radius:7px;border:1px solid transparent;
+  background:transparent;color:var(--ink-faint);cursor:pointer;
+  display:inline-flex;align-items:center;justify-content:center;opacity:.55}
+.stockbtn svg{width:14px;height:14px}
+.stockbtn:hover{opacity:1;color:var(--ink-soft)}
+.stockbtn.on{opacity:1;background:var(--paper-2);border-color:var(--line);color:var(--sativa)}
 body.present .stockflags{display:none}
-.agebadge{display:inline-block;font-size:10px;padding:1px 6px;border-radius:6px;margin-left:6px;
-  border:1px solid var(--sativa);color:var(--sativa);vertical-align:middle;white-space:nowrap}
-body.present .agebadge{display:none}
 
 .tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:var(--radius);
   background:var(--paper-2);box-shadow:var(--shadow)}
@@ -606,8 +605,12 @@ body.embed .cmpbar{bottom:auto} /* top is set in JS instead, from tracked parent
     <div class="toolbar">
       <div class="count"><b id="shown">0</b> of <b id="total">0</b> products</div>
       <div class="stockflags">
-        <button class="stockbtn" id="flagExpiring" type="button" title="Any package expiring within 45 days">Expiring soon <span class="n" id="flagExpiringN"></span></button>
-        <button class="stockbtn" id="flagAging" type="button" title="Any package packaged 100+ days ago">Aging stock <span class="n" id="flagAgingN"></span></button>
+        <button class="stockbtn" id="flagExpiring" type="button" title="Show only: expiring within 45 days" aria-label="Show only products expiring within 45 days">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2.5M9 2h6"/></svg>
+        </button>
+        <button class="stockbtn" id="flagAging" type="button" title="Show only: in stock 100+ days" aria-label="Show only products in stock 100+ days">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="7" width="16" height="14" rx="2"/><path d="M8 3v4M16 3v4M4 11h16"/></svg>
+        </button>
       </div>
       <div class="sorts">
         <span class="lbl" style="align-self:center;font-size:11px;color:var(--ink-faint);text-transform:uppercase;letter-spacing:.1em">Sort</span>
@@ -721,9 +724,8 @@ body.embed .cmpbar{bottom:auto} /* top is set in JS instead, from tracked parent
 
     <h3>Expiring soon / Aging stock</h3>
     <ul>
-      <li><b>Expiring soon</b> — flags any product with a package expiring within 45 days.</li>
-      <li><b>Aging stock</b> — flags any product with a package packaged 100+ days ago.</li>
-      <li>These are staff-only — small dashed buttons above the table, and they disappear in Customer View.</li>
+      <li>Two small icon buttons above the table (clock = expiring within 45 days, box = in stock 100+ days) filter the list to just those products — hover for the label.</li>
+      <li>Staff-only and intentionally unlabeled on screen so nothing reads to a customer glancing over; they also disappear entirely in Customer View.</li>
     </ul>
 
     <h3>Good to know</h3>
@@ -1057,8 +1059,6 @@ function render(){
   if(sig !== state._lastSig){ state.page = 0; state._lastSig = sig; }
   document.getElementById('flagExpiring').classList.toggle('on', state.flagExpiring);
   document.getElementById('flagAging').classList.toggle('on', state.flagAging);
-  document.getElementById('flagExpiringN').textContent = PRODUCTS.filter(p=>p._expiringSoon).length || '';
-  document.getElementById('flagAgingN').textContent = PRODUCTS.filter(p=>p._agingStock).length || '';
   let list = PRODUCTS.filter(passes);
   list = applySort(list);
   const totalMatched = list.length;
@@ -1157,17 +1157,6 @@ function typeBadge(p){
     : (cls==='Unknown'?'No type available':'Manufacturer label');
   return `<span class="badge b-${cls}${est?' est':''}" title="${tip}">${cls}${est?' <span class="estmark">≈</span>':''}</span>`;
 }
-function stockBadge(p){
-  if(p._expiringSoon){
-    const d = p._daysToExpire;
-    const txt = d<=0 ? 'Expired' : `Exp ${d}d`;
-    return `<span class="agebadge" title="Soonest package expires in ${d} day(s)">${txt}</span>`;
-  }
-  if(p._agingStock){
-    return `<span class="agebadge" title="Oldest package has been in stock ${p._daysInStock} day(s)">${p._daysInStock}d in stock</span>`;
-  }
-  return '';
-}
 function rowHtml(p){
   const cls=p._cls||'Unknown';
   const tt=topTerps(p);
@@ -1185,7 +1174,7 @@ function rowHtml(p){
   }).join('') || '<span style="color:var(--ink-faint);font-size:12px">Not tested for terpenes</span>';
   return `<tr data-id="${p.id}">
     <td class="c-cmp" data-label="Compare" onclick="event.stopPropagation()"><label class="cmp-check cmp-check-cell"><input type="checkbox" class="cmp-toggle" data-id="${p.id}"><span class="box"><svg viewBox="0 0 16 16" fill="none"><path d="M3 8.5L6.2 11.5L13 4.5" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></span></label></td>
-    <td class="c-prod"><div class="pname">${p.strainName||p.name}${stockBadge(p)}</div><div class="pbrand">${sub||'&nbsp;'}</div></td>
+    <td class="c-prod"><div class="pname">${p.strainName||p.name}</div><div class="pbrand">${sub||'&nbsp;'}</div></td>
     <td class="type-col" data-label="Type">${typeBadge(p)}</td>
     <td class="thc-col" data-label="THC">${thcCell(p)}</td>
     <td class="c-cann stack" data-label="Other cannabinoids">${otherCann(p)}</td>
