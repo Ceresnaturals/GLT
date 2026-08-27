@@ -1367,6 +1367,8 @@ function openDrawer(id){
     <div class="section-t">Terpene profile</div>
     <div class="terpbars">${profileTerps}</div>
     ${minors?`<div class="section-t">Other cannabinoids</div><div>${minors}</div>`:''}
+    ${(p.packages||[]).some(pkg=>pkg.label)?`<div class="section-t">METRC tags</div>
+    <div style="font-size:12px;color:var(--ink-faint);line-height:1.6">${(p.packages||[]).filter(pkg=>pkg.label).map(pkg=>`<div>${pkg.label} <span style="color:var(--ink-faint)">(qty ${pkg.quantity})</span></div>`).join('')}</div>`:''}
     <div class="section-t">Related in stock (similar terpenes)</div>
     ${relHtml}`;
   document.getElementById('drawerBody').querySelectorAll('.rel').forEach(el=>{
