@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T13:10:27.736829+00:00",
+  "generated_at": "2026-08-27T13:20:32.284550+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Back-Ups",
@@ -926,6 +926,49 @@
       "dominantTerpene": "caryophyllene"
     },
     {
+      "id": 8911264,
+      "packageCount": 1,
+      "name": "Beezle - Live Resin Budder - Black Triangle - 1g",
+      "brand": "Beezle",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Black Triangle",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 73.88,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.8,
+        "CBN": 0.0,
+        "THCA": 83.24,
+        "THCV": 0.34
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.68,
+        "humulene": 1.07,
+        "myrcene": 0.73,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 4.54,
+        "beta-pinene": 0.21,
+        "ocimene": 0.2,
+        "limonene": 1.87,
+        "linalool": 0.94,
+        "terpinolene": 0.25,
+        "nerolidol": 0.32
+      },
+      "totalTerps": 11.7,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
       "id": 7982791,
       "packageCount": 1,
       "name": "Beezle - Live Resin Budder - Bubble Bath - 1g",
@@ -1007,6 +1050,47 @@
       },
       "totalTerps": 8.6,
       "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8911262,
+      "packageCount": 1,
+      "name": "Beezle - Live Resin Budder - Durban Poison - 1g",
+      "brand": "Beezle",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Durban Poison",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 63.07,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.56,
+        "CBN": 0.0,
+        "THCA": 69.22,
+        "THCV": 4.17
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.17,
+        "myrcene": 2.2,
+        "alpha-pinene": 0.43,
+        "caryophyllene": 0.53,
+        "eudesmol": 0.29,
+        "beta-pinene": 0.58,
+        "ocimene": 4.75,
+        "limonene": 0.63,
+        "terpinolene": 12.32
+      },
+      "totalTerps": 23.28,
+      "dominantTerpene": "terpinolene"
     },
     {
       "id": 8093438,
@@ -30081,16 +30165,17 @@
       "dominantTerpene": "myrcene"
     },
     {
-      "id": 8849861,
-      "packageCount": 1,
+      "id": 8911265,
+      "packageCount": 2,
       "name": "Beezle - Stingers - Rosin Infused Pre-Rolls - Lemon Splash - 1g",
       "brand": "Beezle",
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
+        "Back-Ups",
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 36.0,
       "unit": "Each",
       "strainName": "Lemon Splash",
       "strainType": null,
@@ -39476,6 +39561,90 @@
       "dominantTerpene": "limonene"
     },
     {
+      "id": 8911260,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Chem Cookies - 0.5g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Chem Cookies",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.38,
+        "CBC": 1.1,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.49,
+        "CBGA": 0.0,
+        "CBN": 0.66,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.16,
+        "humulene": 0.07,
+        "myrcene": 0.61,
+        "alpha-pinene": 0.32,
+        "caryophyllene": 0.68,
+        "beta-pinene": 0.21,
+        "ocimene": 0.63,
+        "limonene": 1.54,
+        "linalool": 0.27,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 4.87,
+      "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8911340,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Citrus Sap - 0.5g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Citrus Sap",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.15,
+        "CBC": 0.95,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.91,
+        "CBGA": 0.0,
+        "CBN": 0.41,
+        "THCA": 0.0,
+        "THCV": 0.84
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.35,
+        "humulene": 0.18,
+        "myrcene": 0.48,
+        "alpha-pinene": 0.23,
+        "caryophyllene": 1.32,
+        "beta-pinene": 0.11,
+        "ocimene": 0.56,
+        "limonene": 0.86,
+        "linalool": 0.39,
+        "nerolidol": 0.11
+      },
+      "totalTerps": 4.64,
+      "dominantTerpene": "caryophyllene"
+    },
+    {
       "id": 8849821,
       "packageCount": 1,
       "name": "Beezle - Buzz Vape - Citrus Sap - 1g",
@@ -39516,6 +39685,47 @@
       },
       "totalTerps": 4.17,
       "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8911343,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Durban Gushers - 1g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Durban Gushers",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 82.17,
+        "CBC": 1.21,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.14,
+        "CBGA": 0.0,
+        "CBN": 0.69,
+        "THCA": 0.0,
+        "THCV": 0.48
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.11,
+        "myrcene": 0.63,
+        "alpha-pinene": 0.14,
+        "caryophyllene": 0.5,
+        "beta-pinene": 0.1,
+        "limonene": 1.41,
+        "linalool": 0.54,
+        "nerolidol": 0.1
+      },
+      "totalTerps": 3.69,
+      "dominantTerpene": "limonene"
     },
     {
       "id": 8849829,
@@ -39642,6 +39852,47 @@
       },
       "totalTerps": 5.2,
       "dominantTerpene": "caryophyllene"
+    },
+    {
+      "id": 8911342,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Jelly Donut - 0.5g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Jelly Donut",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.81,
+        "CBC": 1.2,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.43,
+        "CBGA": 0.0,
+        "CBN": 0.77,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.45,
+        "alpha-pinene": 0.24,
+        "caryophyllene": 0.58,
+        "beta-pinene": 0.13,
+        "ocimene": 1.07,
+        "limonene": 1.13,
+        "linalool": 0.32,
+        "nerolidol": 0.11
+      },
+      "totalTerps": 4.2,
+      "dominantTerpene": "limonene"
     },
     {
       "id": 8849723,
@@ -39851,6 +40102,90 @@
       },
       "totalTerps": 4.49,
       "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8911341,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Sourene - 0.5g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Sourene",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 80.7,
+        "CBC": 0.99,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.89,
+        "CBGA": 0.0,
+        "CBN": 0.4,
+        "THCA": 0.0,
+        "THCV": 0.88
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.3,
+        "humulene": 0.06,
+        "myrcene": 0.55,
+        "alpha-pinene": 0.38,
+        "caryophyllene": 0.25,
+        "eudesmol": 0.18,
+        "beta-pinene": 0.19,
+        "ocimene": 0.22,
+        "limonene": 1.69,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 4.05,
+      "dominantTerpene": "limonene"
+    },
+    {
+      "id": 8911344,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Wedding Cake - 1g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Wedding Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.58,
+        "CBC": 0.82,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.36,
+        "CBGA": 0.0,
+        "CBN": 0.73,
+        "THCA": 0.0,
+        "THCV": 0.49
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.09,
+        "myrcene": 0.54,
+        "alpha-pinene": 0.52,
+        "caryophyllene": 0.53,
+        "beta-pinene": 0.21,
+        "ocimene": 1.87,
+        "limonene": 1.66,
+        "linalool": 0.19,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 5.93,
+      "dominantTerpene": "ocimene"
     },
     {
       "id": 8673144,
