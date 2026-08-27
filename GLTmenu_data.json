@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T19:20:25.853891+00:00",
+  "generated_at": "2026-08-27T19:30:28.891873+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Back-Ups",
@@ -17027,6 +17027,61 @@
       ]
     },
     {
+      "id": 8864070,
+      "packageCount": 1,
+      "name": "Dixie Chocolate 25mg Straight Up Dark-Exempt-25mg-10",
+      "brand": "Dixie",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 9.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.244,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.008,
+        "CBGA": 0.0,
+        "CBN": 0.01,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 250.0,
+        "thcMgPerServing": 25.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.8,
+          "CBGA": 0.0,
+          "CBN": 1.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8864070,
+          "label": "1A403030000012D000260511",
+          "quantity": 9.0,
+          "packagedDate": "2026-08-13",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8864068,
       "packageCount": 1,
       "name": "Dixie Orange Awakening Tablets-Edible Product-5mg-20",
@@ -17082,44 +17137,45 @@
       ]
     },
     {
-      "id": 8521476,
-      "packageCount": 1,
+      "id": 8863978,
+      "packageCount": 2,
       "name": "Dixie Orange Awakening Tablets-Exempt-5mg-60",
       "brand": "Dixie",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 1.296,
-        "CBC": 0.02,
+        "totalTHC": 1.43,
+        "CBC": 0.013,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.038,
+        "CBG": 0.091,
         "CBGA": 0.0,
-        "CBN": 0.026,
+        "CBN": 0.012,
         "THCA": 0.0,
-        "THCV": 0.007
+        "THCV": 0.0
       },
       "dose": {
         "servingSize": "1 tablet",
         "totalThcMg": 300.0,
         "thcMgPerServing": 5.0,
         "minorsMgPerServing": {
-          "CBC": 0.07,
+          "CBC": 0.045,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.133,
+          "CBG": 0.319,
           "CBGA": 0.0,
-          "CBN": 0.091,
+          "CBN": 0.042,
           "THCA": 0.0,
-          "THCV": 0.025
+          "THCV": 0.0
         },
         "minorsEstimated": true
       },
@@ -17127,6 +17183,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8863978,
+          "label": "1A403030000012D000260510",
+          "quantity": 12.0,
+          "packagedDate": "2026-08-13",
+          "expirationDate": null
+        },
         {
           "id": 8521476,
           "label": "1A403030000012D000241955",
@@ -27475,6 +27538,51 @@
       ]
     },
     {
+      "id": 8858485,
+      "packageCount": 1,
+      "name": "Banana Puddintain-Pre Pack Bud-3.5 gram-Plastic Container",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 17.5,
+      "unit": "Grams",
+      "strainName": "Banana Puddintain",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.27,
+        "totalCBD": 0.26,
+        "CBDA": 0.04,
+        "CBG": 0.26,
+        "CBN": 0.0,
+        "THCA": 33.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.16,
+        "myrcene": 0.75,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.41,
+        "beta-pinene": 0.07,
+        "limonene": 0.51
+      },
+      "totalTerps": 1.96,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8858485,
+          "label": "1A40303000001F5000416967",
+          "quantity": 17.5,
+          "packagedDate": "2026-08-13",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8674620,
       "packageCount": 1,
       "name": "Berry Trix 8ths",
@@ -27990,7 +28098,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 59.5,
+      "quantity": 52.5,
       "unit": "Grams",
       "strainName": "MICA",
       "strainType": null,
@@ -28023,7 +28131,7 @@
         {
           "id": 8895514,
           "label": "1A40303000000CD000075420",
-          "quantity": 59.5,
+          "quantity": 52.5,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -28039,7 +28147,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 66.5,
+      "quantity": 59.5,
       "unit": "Grams",
       "strainName": "SCSO",
       "strainType": null,
@@ -28073,7 +28181,7 @@
         {
           "id": 8895433,
           "label": "1A40303000000CD000075419",
-          "quantity": 66.5,
+          "quantity": 59.5,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -29719,6 +29827,53 @@
           "quantity": 28.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-07-02"
+        }
+      ]
+    },
+    {
+      "id": 8858484,
+      "packageCount": 1,
+      "name": "Gush Mints - Pre Pack Bud - 28 gram - Bag",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 196.0,
+      "unit": "Grams",
+      "strainName": "Gush Mints TC",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.63,
+        "totalCBD": 0.23,
+        "CBDA": 0.03,
+        "CBG": 0.85,
+        "CBN": 0.01,
+        "THCA": 32.37
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.17,
+        "myrcene": 0.13,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.58,
+        "beta-pinene": 0.13,
+        "ocimene": 0.01,
+        "limonene": 0.76,
+        "linalool": 0.15,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.14,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8858484,
+          "label": "1A40303000001F5000416966",
+          "quantity": 196.0,
+          "packagedDate": "2026-08-13",
+          "expirationDate": null
         }
       ]
     },
@@ -33813,7 +33968,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 80.5,
+      "quantity": 73.5,
       "unit": "Grams",
       "strainName": "Rainbow Push Pop #4",
       "strainType": null,
@@ -33847,7 +34002,7 @@
         {
           "id": 8884056,
           "label": "1A40303000000CB000050203",
-          "quantity": 80.5,
+          "quantity": 73.5,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-08-04"
         }
@@ -37853,6 +38008,57 @@
       ]
     },
     {
+      "id": 8863977,
+      "packageCount": 1,
+      "name": "Curio Wellness Dark Star Tangie Pre-rolls-Usable-2x0.5g",
+      "brand": "Curio Wellness",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Grams",
+      "strainName": "Dark Star Tangie",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 19.37,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.63,
+        "CBN": 0.0,
+        "THCA": 21.69,
+        "THCV": 0.25
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.1,
+        "myrcene": 1.29,
+        "alpha-pinene": 0.12,
+        "caryophyllene": 0.36,
+        "eudesmol": 0.12,
+        "beta-pinene": 0.04,
+        "ocimene": 0.17,
+        "limonene": 0.06,
+        "linalool": 0.19
+      },
+      "totalTerps": 2.63,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8863977,
+          "label": "1A403030000012D000260509",
+          "quantity": 24.0,
+          "packagedDate": "2026-08-13",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8790142,
       "packageCount": 1,
       "name": "Curio Wellness LA Kush Cake Pre-rolls-Usable-2x0.5g",
@@ -39732,7 +39938,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -39767,7 +39973,7 @@
         {
           "id": 8894081,
           "label": "1A403030000012D000261766",
-          "quantity": 26.0,
+          "quantity": 25.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -41088,7 +41294,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 77.0,
+      "quantity": 73.5,
       "unit": "Grams",
       "strainName": "Grapefruitz",
       "strainType": null,
@@ -41122,7 +41328,7 @@
         {
           "id": 8884209,
           "label": "1A40303000000CB000050197",
-          "quantity": 77.0,
+          "quantity": 73.5,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-07-10"
         }
