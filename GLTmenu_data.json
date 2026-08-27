@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T19:40:25.009308+00:00",
+  "generated_at": "2026-08-27T19:50:26.742405+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Back-Ups",
@@ -256,7 +256,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 29.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -302,7 +302,7 @@
         {
           "id": 8484003,
           "label": "1A4030300000193000095467",
-          "quantity": 17.0,
+          "quantity": 15.0,
           "packagedDate": "2026-05-20",
           "expirationDate": "2027-04-26"
         }
@@ -5837,7 +5837,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "MD EXT DIAMONDDUST",
       "strainType": null,
@@ -5865,7 +5865,7 @@
         {
           "id": 8872250,
           "label": "1A40303000007D1000093665",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-17",
           "expirationDate": null
         }
@@ -6729,7 +6729,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Agent Orange",
       "strainType": null,
@@ -6759,7 +6759,7 @@
         {
           "id": 8828801,
           "label": "1A4030300003522000195387",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-05-22"
         }
@@ -10615,63 +10615,6 @@
           "quantity": 8.0,
           "packagedDate": "2026-06-25",
           "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8699494,
-      "packageCount": 1,
-      "name": "Keef - Mr. Puffer - Liquid Edible - 10mg - 1",
-      "brand": null,
-      "category": "Drink",
-      "metrcCategory": "Infused Liquid Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 20.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.003,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Can",
-        "totalThcMg": 10.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8699494,
-          "label": "1A40303000001F5000401885",
-          "quantity": 20.0,
-          "packagedDate": "2026-07-08",
-          "expirationDate": "2027-05-05"
         }
       ]
     },
@@ -15375,7 +15318,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15416,7 +15359,7 @@
         {
           "id": 8691736,
           "label": "1A4030300000C83000064687",
-          "quantity": 11.0,
+          "quantity": 7.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-06-11"
         }
@@ -17378,7 +17321,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17419,7 +17362,7 @@
         {
           "id": 8650244,
           "label": "1A403030000012D000237747",
-          "quantity": 5.0,
+          "quantity": 2.0,
           "packagedDate": "2026-06-25",
           "expirationDate": null
         }
@@ -25196,6 +25139,63 @@
       ]
     },
     {
+      "id": 8766988,
+      "packageCount": 1,
+      "name": "Vibations Strawberry Lemonade Drink Mix V1-Edible Product-10mg-10",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 2.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.09,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8766988,
+          "label": "1A4030300003522000207407",
+          "quantity": 2.0,
+          "packagedDate": "2026-07-23",
+          "expirationDate": "2027-07-07"
+        }
+      ]
+    },
+    {
       "id": 8882383,
       "packageCount": 1,
       "name": "Vibations Strawberry Lemonade Drink Mix V1-Exempt-40mg-10",
@@ -28090,7 +28090,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 59.5,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "SCSO",
       "strainType": null,
@@ -28124,7 +28124,7 @@
         {
           "id": 8895433,
           "label": "1A40303000000CD000075419",
-          "quantity": 59.5,
+          "quantity": 56.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -32288,7 +32288,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 26.0,
+      "quantity": 24.0,
       "unit": "Grams",
       "strainName": "76 MK ULTRA BLACK OPS",
       "strainType": null,
@@ -32321,7 +32321,7 @@
         {
           "id": 8858436,
           "label": "1A40303000039D1000091577",
-          "quantity": 26.0,
+          "quantity": 24.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -40372,55 +40372,6 @@
       ]
     },
     {
-      "id": 8820133,
-      "packageCount": 1,
-      "name": "Kind Tree | Pre-Rolls | Multipack | Georgia Mintz - Usable - 2pk/1.0g",
-      "brand": "Kind Tree",
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 16.0,
-      "unit": "Grams",
-      "strainName": "Georgia Mintz",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 22.72,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.49,
-        "CBN": 0.0,
-        "THCA": 24.98,
-        "THCV": 0.12
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.12,
-        "humulene": 0.19,
-        "myrcene": 0.04,
-        "alpha-pinene": 0.07,
-        "caryophyllene": 0.69,
-        "beta-pinene": 0.07,
-        "limonene": 0.52,
-        "linalool": 0.19
-      },
-      "totalTerps": 2.09,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8820133,
-          "label": "1A403030000025B000083297",
-          "quantity": 16.0,
-          "packagedDate": "2026-07-08",
-          "expirationDate": "2027-06-25"
-        }
-      ]
-    },
-    {
       "id": 8603807,
       "packageCount": 1,
       "name": "Kind Tree | Pre-Rolls | Multipack | Grape Sitter - Usable - 5pk/1.75g",
@@ -43364,7 +43315,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 18.0,
       "unit": "Grams",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -43397,7 +43348,7 @@
         {
           "id": 8884050,
           "label": "1A40303000000CB000050200",
-          "quantity": 20.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-07-14"
         }
@@ -44974,7 +44925,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Bombsicle",
       "strainType": null,
@@ -45007,7 +44958,7 @@
         {
           "id": 8683127,
           "label": "1A40303000017D5000099032",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-06-09",
           "expirationDate": "2027-06-09"
         }
@@ -48687,7 +48638,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Jelly Donut",
       "strainType": null,
@@ -48721,7 +48672,7 @@
         {
           "id": 8911342,
           "label": "1A403030000283D000060416",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-25",
           "expirationDate": null
         }
@@ -51227,55 +51178,6 @@
           "label": "1A403030000012D000231115",
           "quantity": 8.0,
           "packagedDate": "2026-04-30",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8790227,
-      "packageCount": 1,
-      "name": "Curio Wellness Jack Herer Vape-Vape Cart-1.0g",
-      "brand": "Curio Wellness",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Jack Herer",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 77.42,
-        "CBC": 1.05,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.69,
-        "CBGA": 0.0,
-        "CBN": 1.8,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 1.02,
-        "myrcene": 0.72,
-        "alpha-pinene": 0.14,
-        "caryophyllene": 3.1,
-        "beta-pinene": 0.09,
-        "ocimene": 0.42,
-        "limonene": 0.39,
-        "terpinolene": 2.66
-      },
-      "totalTerps": 8.54,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8790227,
-          "label": "1A403030000012D000257800",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-28",
           "expirationDate": null
         }
       ]
@@ -61992,7 +61894,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Peach Cobbler",
       "strainType": null,
@@ -62022,7 +61924,7 @@
         {
           "id": 8873570,
           "label": "1A403030000012E000183012",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-03-14"
         }
