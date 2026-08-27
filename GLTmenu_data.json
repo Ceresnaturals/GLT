@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T16:40:25.482646+00:00",
+  "generated_at": "2026-08-27T16:51:11.520879+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Back-Ups",
@@ -6422,6 +6422,56 @@
           "id": 8300427,
           "quantity": 11.0,
           "packagedDate": "2026-04-08",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8828895,
+      "packageCount": 1,
+      "name": "Mfused FIRE Fattys (Granddaddy Purple)-Usable-2x0.5g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 23.0,
+      "unit": "Each",
+      "strainName": "Mfused FIRE Fattys",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.52,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.36,
+        "CBN": 0.0,
+        "THCA": 33.48,
+        "THCV": 0.16
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.26,
+        "humulene": 0.2,
+        "myrcene": 0.17,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 1.27,
+        "beta-pinene": 0.02,
+        "ocimene": 0.22,
+        "limonene": 0.2,
+        "linalool": 0.27,
+        "terpinolene": 0.22
+      },
+      "totalTerps": 3.07,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8828895,
+          "quantity": 23.0,
+          "packagedDate": "2026-08-06",
           "expirationDate": null
         }
       ]
@@ -14897,7 +14947,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14937,7 +14987,7 @@
       "packages": [
         {
           "id": 8764129,
-          "quantity": 7.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-22",
           "expirationDate": "2027-04-16"
         }
@@ -16367,7 +16417,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16407,7 +16457,7 @@
       "packages": [
         {
           "id": 8814673,
-          "quantity": 20.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-04",
           "expirationDate": "2027-07-01"
         }
@@ -23497,6 +23547,62 @@
       ]
     },
     {
+      "id": 8908968,
+      "packageCount": 1,
+      "name": "Sour Strawberry Lemonade Jams - Edible Product - 5mg - 20",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.1,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "One gummy",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 5.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8908968,
+          "quantity": 20.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-08-04"
+        }
+      ]
+    },
+    {
       "id": 8385133,
       "packageCount": 1,
       "name": "Sour Watermelon Chews - Vegan Gummies - Edible Product - 10mg/serving - 10pk",
@@ -25947,7 +26053,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -25987,7 +26093,7 @@
       "packages": [
         {
           "id": 8686399,
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-04-22",
           "expirationDate": "2027-04-22"
         }
@@ -27654,6 +27760,55 @@
       ]
     },
     {
+      "id": 8908833,
+      "packageCount": 1,
+      "name": "Chem De La Chem - Shorties Five Pack - Usable - 2g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 40.0,
+      "unit": "Grams",
+      "strainName": "Chem de la Chem",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.57,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.69,
+        "CBN": 0.0,
+        "THCA": 31.81,
+        "THCV": 0.16
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.23,
+        "myrcene": 1.34,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.83,
+        "beta-pinene": 0.13,
+        "limonene": 0.99,
+        "linalool": 0.23,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 4.27,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8908833,
+          "quantity": 40.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-08-03"
+        }
+      ]
+    },
+    {
       "id": 8751133,
       "packageCount": 1,
       "name": "Cherry Chocolate Widow | Georgies | 1g",
@@ -27952,6 +28107,55 @@
           "quantity": 56.0,
           "packagedDate": "2026-02-04",
           "expirationDate": "2027-01-13"
+        }
+      ]
+    },
+    {
+      "id": 8908834,
+      "packageCount": 1,
+      "name": "Cowboy Caviar Shorties 5 Pack - Usable - 2g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 40.0,
+      "unit": "Grams",
+      "strainName": "Cowboy Caviar",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.54,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.1,
+        "CBGA": 1.08,
+        "CBN": 0.0,
+        "THCA": 28.02,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.07,
+        "myrcene": 1.44,
+        "alpha-pinene": 0.21,
+        "caryophyllene": 0.2,
+        "beta-pinene": 0.14,
+        "ocimene": 0.36,
+        "limonene": 0.59,
+        "linalool": 0.17
+      },
+      "totalTerps": 3.5,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8908834,
+          "quantity": 40.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-08-03"
         }
       ]
     },
@@ -28642,7 +28846,7 @@
       "locations": [
         "Back-Ups"
       ],
-      "quantity": 112.0,
+      "quantity": 108.5,
       "unit": "Grams",
       "strainName": "Grape Gas",
       "strainType": null,
@@ -28676,7 +28880,7 @@
       "packages": [
         {
           "id": 8881941,
-          "quantity": 112.0,
+          "quantity": 108.5,
           "packagedDate": "2026-06-08",
           "expirationDate": null
         }
@@ -29650,7 +29854,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "Orange Chemeleon",
       "strainType": null,
@@ -29684,7 +29888,7 @@
       "packages": [
         {
           "id": 8882272,
-          "quantity": 42.0,
+          "quantity": 21.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-05-31"
         }
@@ -32924,6 +33128,55 @@
           "quantity": 28.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8908835,
+      "packageCount": 1,
+      "name": "Primary Colors - Usable - 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Back-Ups"
+      ],
+      "quantity": 105.0,
+      "unit": "Grams",
+      "strainName": "Primary Colors",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 21.33,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.15,
+        "CBN": 0.0,
+        "THCA": 24.32,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.11,
+        "myrcene": 0.16,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 0.39,
+        "beta-pinene": 0.12,
+        "ocimene": 0.04,
+        "limonene": 0.72,
+        "linalool": 0.09
+      },
+      "totalTerps": 2.11,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8908835,
+          "quantity": 105.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-05-31"
         }
       ]
     },
@@ -48437,7 +48690,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Rainbow Z",
       "strainType": "Indica",
@@ -48471,7 +48724,7 @@
       "packages": [
         {
           "id": 8781125,
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-06-02",
           "expirationDate": null
         }
@@ -50242,7 +50495,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Lemon Haze",
       "strainType": null,
@@ -50274,7 +50527,7 @@
       "packages": [
         {
           "id": 8707382,
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-09",
           "expirationDate": null
         }
@@ -50437,7 +50690,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "OG Lime Killer",
       "strainType": null,
@@ -50470,7 +50723,7 @@
       "packages": [
         {
           "id": 8769859,
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
@@ -51521,6 +51774,57 @@
       ]
     },
     {
+      "id": 8908839,
+      "packageCount": 1,
+      "name": "Flavor Series Baja Smash- Vape Cart- 1g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Flavor Series Baja Smash",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.56,
+        "CBC": 1.08,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.22,
+        "CBGA": 0.0,
+        "CBN": 0.21,
+        "THCA": 0.0,
+        "THCV": 0.94
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.2,
+        "humulene": 0.13,
+        "myrcene": 0.85,
+        "alpha-pinene": 1.18,
+        "caryophyllene": 0.37,
+        "beta-pinene": 0.46,
+        "ocimene": 0.18,
+        "limonene": 0.82,
+        "linalool": 0.25,
+        "terpinolene": 0.09,
+        "nerolidol": 0.2
+      },
+      "totalTerps": 4.73,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 8908839,
+          "quantity": 20.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-05-18"
+        }
+      ]
+    },
+    {
       "id": 8596801,
       "packageCount": 1,
       "name": "Flavor Series Baja Smash- Vape Cart- BRIQ 1g",
@@ -51628,6 +51932,53 @@
       ]
     },
     {
+      "id": 8908969,
+      "packageCount": 1,
+      "name": "Flavor Series Clementine- Vape Cart- 1g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Flavor Series Clementine",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.13,
+        "CBC": 0.87,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.46,
+        "CBGA": 0.0,
+        "CBN": 0.19,
+        "THCA": 0.0,
+        "THCV": 0.68
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.24,
+        "myrcene": 0.93,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 1.12,
+        "beta-pinene": 0.26,
+        "limonene": 1.66,
+        "linalool": 0.36
+      },
+      "totalTerps": 5.1,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8908969,
+          "quantity": 20.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-05-04"
+        }
+      ]
+    },
+    {
       "id": 8786924,
       "packageCount": 1,
       "name": "Flavor Series Clementine- Vape Cart- BRIQ 2g",
@@ -51671,6 +52022,54 @@
           "quantity": 17.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-05-04"
+        }
+      ]
+    },
+    {
+      "id": 8908840,
+      "packageCount": 1,
+      "name": "Flavor Series Fruit Bedrock- Vape Cart- BRIQ 2g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "Flavor Series Fruit Bedrock BRIQ",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.97,
+        "CBC": 1.1,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.32,
+        "CBGA": 0.0,
+        "CBN": 0.21,
+        "THCA": 0.0,
+        "THCV": 0.83
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.18,
+        "humulene": 0.1,
+        "myrcene": 0.59,
+        "alpha-pinene": 0.11,
+        "caryophyllene": 1.1,
+        "beta-pinene": 0.17,
+        "limonene": 1.17,
+        "linalool": 0.32
+      },
+      "totalTerps": 4.16,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8908840,
+          "quantity": 24.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-03-23"
         }
       ]
     },
@@ -51768,6 +52167,55 @@
           "quantity": 5.0,
           "packagedDate": "2026-03-11",
           "expirationDate": "2027-03-02"
+        }
+      ]
+    },
+    {
+      "id": 8908971,
+      "packageCount": 1,
+      "name": "Flavor Series Pineapple Express- Vape Cart- BRIQ 2g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Flavor Series Pineapple Express BRIQ",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.1,
+        "CBC": 1.19,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.72,
+        "CBGA": 0.0,
+        "CBN": 0.2,
+        "THCA": 0.0,
+        "THCV": 1.3
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.15,
+        "humulene": 0.2,
+        "myrcene": 0.87,
+        "alpha-pinene": 1.23,
+        "caryophyllene": 0.65,
+        "beta-pinene": 0.6,
+        "limonene": 0.79,
+        "terpinolene": 0.16,
+        "nerolidol": 0.13
+      },
+      "totalTerps": 4.85,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 8908971,
+          "quantity": 20.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-05-11"
         }
       ]
     },
@@ -54121,7 +54569,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Acapulco Gold",
       "strainType": null,
@@ -54150,7 +54598,7 @@
       "packages": [
         {
           "id": 8766954,
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-04"
         }
@@ -56325,6 +56773,103 @@
           "quantity": 19.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-04-10"
+        }
+      ]
+    },
+    {
+      "id": 8908970,
+      "packageCount": 1,
+      "name": "Legacy Series King Louis XIII- Vape Cart- BRIQ 2g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Legacy Series King Louis XIII BRIQ",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.18,
+        "CBC": 0.98,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.09,
+        "CBGA": 0.0,
+        "CBN": 0.31,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.15,
+        "myrcene": 1.02,
+        "alpha-pinene": 0.14,
+        "caryophyllene": 1.07,
+        "beta-pinene": 0.22,
+        "limonene": 1.48,
+        "linalool": 0.3,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 4.73,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8908970,
+          "quantity": 20.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-03-16"
+        }
+      ]
+    },
+    {
+      "id": 8908841,
+      "packageCount": 1,
+      "name": "Legacy Series Ray Charles- Vape Cart- 1g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Legacy Series Ray Charles",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.22,
+        "CBC": 0.85,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.81,
+        "CBGA": 0.0,
+        "CBN": 0.3,
+        "THCA": 0.0,
+        "THCV": 1.35
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.2,
+        "humulene": 0.07,
+        "myrcene": 3.6,
+        "alpha-pinene": 0.27,
+        "caryophyllene": 0.28,
+        "beta-pinene": 0.13,
+        "ocimene": 0.45,
+        "limonene": 0.28,
+        "linalool": 0.19
+      },
+      "totalTerps": 5.54,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8908841,
+          "quantity": 20.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-08-03"
         }
       ]
     },
