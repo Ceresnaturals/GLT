@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T19:10:35.898702+00:00",
+  "generated_at": "2026-08-27T19:20:25.853891+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Back-Ups",
@@ -3283,56 +3283,6 @@
           "label": "1A4030300004845000017488",
           "quantity": 7.0,
           "packagedDate": "2026-04-07",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8240995,
-      "packageCount": 1,
-      "name": "Fade Co | Concentrate | Live Sugar | Mule Fuel - Concentrate - 1g",
-      "brand": "Fade Co",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Mule Fuel",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 78.47,
-        "totalCBD": 0.15,
-        "CBC": 0.0,
-        "CBDA": 0.17,
-        "CBDV": 0.0,
-        "CBG": 0.19,
-        "CBGA": 1.67,
-        "CBN": 0.0,
-        "THCA": 85.52,
-        "THCV": 0.54
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.17,
-        "myrcene": 0.58,
-        "alpha-pinene": 0.19,
-        "caryophyllene": 0.44,
-        "beta-pinene": 0.09,
-        "limonene": 0.23,
-        "linalool": 0.03,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 1.97,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8240995,
-          "label": "1A4030300004845000013500",
-          "quantity": 1.0,
-          "packagedDate": "2026-03-11",
           "expirationDate": null
         }
       ]
@@ -14867,7 +14817,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14906,7 +14856,7 @@
         {
           "id": 8893987,
           "label": "1A403030000012D000261768",
-          "quantity": 13.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -17077,61 +17027,6 @@
       ]
     },
     {
-      "id": 8864070,
-      "packageCount": 1,
-      "name": "Dixie Chocolate 25mg Straight Up Dark-Exempt-25mg-10",
-      "brand": "Dixie",
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 9.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.244,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.008,
-        "CBGA": 0.0,
-        "CBN": 0.01,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 piece",
-        "totalThcMg": 250.0,
-        "thcMgPerServing": 25.0,
-        "minorsMgPerServing": {
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.8,
-          "CBGA": 0.0,
-          "CBN": 1.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8864070,
-          "label": "1A403030000012D000260511",
-          "quantity": 9.0,
-          "packagedDate": "2026-08-13",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8864068,
       "packageCount": 1,
       "name": "Dixie Orange Awakening Tablets-Edible Product-5mg-20",
@@ -17187,45 +17082,44 @@
       ]
     },
     {
-      "id": 8863978,
-      "packageCount": 2,
+      "id": 8521476,
+      "packageCount": 1,
       "name": "Dixie Orange Awakening Tablets-Exempt-5mg-60",
       "brand": "Dixie",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 1.43,
-        "CBC": 0.013,
+        "totalTHC": 1.296,
+        "CBC": 0.02,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.091,
+        "CBG": 0.038,
         "CBGA": 0.0,
-        "CBN": 0.012,
+        "CBN": 0.026,
         "THCA": 0.0,
-        "THCV": 0.0
+        "THCV": 0.007
       },
       "dose": {
         "servingSize": "1 tablet",
         "totalThcMg": 300.0,
         "thcMgPerServing": 5.0,
         "minorsMgPerServing": {
-          "CBC": 0.045,
+          "CBC": 0.07,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.319,
+          "CBG": 0.133,
           "CBGA": 0.0,
-          "CBN": 0.042,
+          "CBN": 0.091,
           "THCA": 0.0,
-          "THCV": 0.0
+          "THCV": 0.025
         },
         "minorsEstimated": true
       },
@@ -17233,13 +17127,6 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
-        {
-          "id": 8863978,
-          "label": "1A403030000012D000260510",
-          "quantity": 12.0,
-          "packagedDate": "2026-08-13",
-          "expirationDate": null
-        },
         {
           "id": 8521476,
           "label": "1A403030000012D000241955",
@@ -25784,7 +25671,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -25823,7 +25710,7 @@
         {
           "id": 8864833,
           "label": "1A403030000390D000066245",
-          "quantity": 14.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-14",
           "expirationDate": "2027-08-04"
         }
@@ -27583,51 +27470,6 @@
           "label": "1A4030300000709000047806",
           "quantity": 37.0,
           "packagedDate": "2026-02-17",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8858485,
-      "packageCount": 1,
-      "name": "Banana Puddintain-Pre Pack Bud-3.5 gram-Plastic Container",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 24.5,
-      "unit": "Grams",
-      "strainName": "Banana Puddintain",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 29.27,
-        "totalCBD": 0.26,
-        "CBDA": 0.04,
-        "CBG": 0.26,
-        "CBN": 0.0,
-        "THCA": 33.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.02,
-        "humulene": 0.16,
-        "myrcene": 0.75,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 0.41,
-        "beta-pinene": 0.07,
-        "limonene": 0.51
-      },
-      "totalTerps": 1.96,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8858485,
-          "label": "1A40303000001F5000416967",
-          "quantity": 24.5,
-          "packagedDate": "2026-08-13",
           "expirationDate": null
         }
       ]
@@ -29877,53 +29719,6 @@
           "quantity": 28.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-07-02"
-        }
-      ]
-    },
-    {
-      "id": 8858484,
-      "packageCount": 1,
-      "name": "Gush Mints - Pre Pack Bud - 28 gram - Bag",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 196.0,
-      "unit": "Grams",
-      "strainName": "Gush Mints TC",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 28.63,
-        "totalCBD": 0.23,
-        "CBDA": 0.03,
-        "CBG": 0.85,
-        "CBN": 0.01,
-        "THCA": 32.37
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.17,
-        "myrcene": 0.13,
-        "alpha-pinene": 0.07,
-        "caryophyllene": 0.58,
-        "beta-pinene": 0.13,
-        "ocimene": 0.01,
-        "limonene": 0.76,
-        "linalool": 0.15,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 2.14,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8858484,
-          "label": "1A40303000001F5000416966",
-          "quantity": 196.0,
-          "packagedDate": "2026-08-13",
-          "expirationDate": null
         }
       ]
     },
@@ -36730,7 +36525,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 26.25,
       "unit": "Grams",
       "strainName": "Animal Scout",
       "strainType": null,
@@ -36764,7 +36559,7 @@
         {
           "id": 8826456,
           "label": "1A40303000003EA000195253",
-          "quantity": 28.0,
+          "quantity": 26.25,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-15"
         }
@@ -38053,57 +37848,6 @@
           "label": "1A403030000012D000259346",
           "quantity": 19.0,
           "packagedDate": "2026-08-06",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8863977,
-      "packageCount": 1,
-      "name": "Curio Wellness Dark Star Tangie Pre-rolls-Usable-2x0.5g",
-      "brand": "Curio Wellness",
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 24.0,
-      "unit": "Grams",
-      "strainName": "Dark Star Tangie",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 19.37,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.63,
-        "CBN": 0.0,
-        "THCA": 21.69,
-        "THCV": 0.25
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.09,
-        "humulene": 0.1,
-        "myrcene": 1.29,
-        "alpha-pinene": 0.12,
-        "caryophyllene": 0.36,
-        "eudesmol": 0.12,
-        "beta-pinene": 0.04,
-        "ocimene": 0.17,
-        "limonene": 0.06,
-        "linalool": 0.19
-      },
-      "totalTerps": 2.63,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8863977,
-          "label": "1A403030000012D000260509",
-          "quantity": 24.0,
-          "packagedDate": "2026-08-13",
           "expirationDate": null
         }
       ]
@@ -41282,57 +41026,6 @@
           "quantity": 7.0,
           "packagedDate": "2026-08-04",
           "expirationDate": "2027-07-13"
-        }
-      ]
-    },
-    {
-      "id": 8814021,
-      "packageCount": 1,
-      "name": "Multi Pack- Peach RuntZ (x7 0.5g Joints) 3.5g",
-      "brand": null,
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "Peach Runtz",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 24.12,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.74,
-        "CBN": 0.0,
-        "THCA": 26.35,
-        "THCV": 0.13
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.04,
-        "myrcene": 1.39,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.13,
-        "eudesmol": 0.11,
-        "beta-pinene": 0.06,
-        "ocimene": 0.06,
-        "limonene": 0.43,
-        "linalool": 0.41,
-        "nerolidol": 0.08
-      },
-      "totalTerps": 2.97,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8814021,
-          "label": "1A40303000000CB000048868",
-          "quantity": 3.5,
-          "packagedDate": "2026-08-04",
-          "expirationDate": "2027-06-16"
         }
       ]
     },
@@ -44611,7 +44304,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -44654,7 +44347,7 @@
         {
           "id": 8691542,
           "label": "1A4030300000C83000064686",
-          "quantity": 3.0,
+          "quantity": 1.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-04-13"
         }
@@ -48642,7 +48335,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Durban Gushers",
       "strainType": null,
@@ -48676,7 +48369,7 @@
         {
           "id": 8911343,
           "label": "1A403030000283D000060417",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-25",
           "expirationDate": null
         }
@@ -57303,7 +56996,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Blackberry Gelato",
       "strainType": null,
@@ -57338,7 +57031,7 @@
         {
           "id": 8842349,
           "label": "1A4030300003201000001523",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-10",
           "expirationDate": null
         },
@@ -59278,46 +58971,6 @@
       ]
     },
     {
-      "id": 8681090,
-      "packageCount": 1,
-      "name": "MD-DP-PINEAPPLECOAST-1PEN",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "MD DP PINEAPPLECOAST 1PEN",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 85.25,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.5,
-        "CBGA": 0.0,
-        "CBN": 1.92,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {},
-      "totalTerps": 0.0,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8681090,
-          "label": "1A40303000007D1000085092",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-03",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8745224,
       "packageCount": 1,
       "name": "MD-DP-WATERMELONICE-1PEN",
@@ -59327,7 +58980,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "MD DP WATERMELONICE 1PEN",
       "strainType": null,
@@ -59355,7 +59008,7 @@
         {
           "id": 8745224,
           "label": "1A40303000007D1000090203",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-07-20",
           "expirationDate": null
         }
@@ -60075,7 +59728,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": "Banana Berry Smoothie",
       "strainType": null,
@@ -60107,7 +59760,7 @@
         {
           "id": 8885895,
           "label": "1A403030000283D000057729",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-06-24"
         }
