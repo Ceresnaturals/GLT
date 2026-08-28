@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T20:00:28.375164+00:00",
+  "generated_at": "2026-08-28T20:10:36.181725+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -255,7 +255,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -294,7 +294,7 @@
         {
           "id": 8596199,
           "label": "1A4030300000193000098457",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-06-15",
           "expirationDate": "2027-05-05"
         },
@@ -12898,7 +12898,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12937,7 +12937,7 @@
         {
           "id": 8828894,
           "label": "1A403030000012D000259358",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -13182,7 +13182,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13223,7 +13223,7 @@
         {
           "id": 8583752,
           "label": "1A403030000012D000244635",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-06-11",
           "expirationDate": null
         }
@@ -15490,6 +15490,63 @@
       ]
     },
     {
+      "id": 8512207,
+      "packageCount": 1,
+      "name": "Discos - Sour Watermelon - Exempt - 40mg - 10",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.65,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.04,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 each, 10 servings per package",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 2.4,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8512207,
+          "label": "1A4030300000C83000063201",
+          "quantity": 5.0,
+          "packagedDate": "2026-05-27",
+          "expirationDate": "2027-04-01"
+        }
+      ]
+    },
+    {
       "id": 8691535,
       "packageCount": 1,
       "name": "Discos - Strawberry (v2) - Edible product - 10mg - 10",
@@ -17209,7 +17266,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17248,7 +17305,7 @@
         {
           "id": 8870788,
           "label": "1A40303000017D5000103606",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-06-30",
           "expirationDate": "2027-06-30"
         }
@@ -22589,6 +22646,63 @@
       ]
     },
     {
+      "id": 8515754,
+      "packageCount": 1,
+      "name": "Sunnies - High Dose Cosmic Apple Nano Gummies - Exempt - 40mg - 10Pcs",
+      "brand": "Sunnies",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 15.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.91,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.03,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.2,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8515754,
+          "label": "1A40303000001F5000383627",
+          "quantity": 15.0,
+          "packagedDate": "2026-05-27",
+          "expirationDate": "2027-02-17"
+        }
+      ]
+    },
+    {
       "id": 8696830,
       "packageCount": 1,
       "name": "Sunnies - High Dose Guava Nano Gummies - Exempt - 40mg - 10Pcs",
@@ -25047,7 +25161,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 168.0,
+      "quantity": 164.5,
       "unit": "Grams",
       "strainName": "Berry Trix",
       "strainType": null,
@@ -25080,7 +25194,7 @@
         {
           "id": 8674620,
           "label": "1A40303000040D9000005118",
-          "quantity": 168.0,
+          "quantity": 164.5,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-06-30"
         }
@@ -25435,7 +25549,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 164.5,
+      "quantity": 161.0,
       "unit": "Grams",
       "strainName": "41 CHERRY CHOCOLATE WIDOW",
       "strainType": null,
@@ -25470,7 +25584,7 @@
         {
           "id": 8858125,
           "label": "1A40303000039D1000091576",
-          "quantity": 164.5,
+          "quantity": 161.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -26287,7 +26401,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 168.5,
+      "quantity": 165.0,
       "unit": "Grams",
       "strainName": "Bapple Fritz",
       "strainType": null,
@@ -26321,7 +26435,7 @@
         {
           "id": 8083908,
           "label": "1A4030300003521000045578",
-          "quantity": 168.5,
+          "quantity": 165.0,
           "packagedDate": "2026-02-16",
           "expirationDate": "2027-01-01"
         }
@@ -26385,7 +26499,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 147.0,
+      "quantity": 140.0,
       "unit": "Grams",
       "strainName": "Guava IX",
       "strainType": null,
@@ -26418,7 +26532,7 @@
         {
           "id": 8882266,
           "label": "1A4030300003521000056046",
-          "quantity": 147.0,
+          "quantity": 140.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-30"
         }
@@ -27662,54 +27776,6 @@
       ]
     },
     {
-      "id": 8872251,
-      "packageCount": 1,
-      "name": "MDGECK-PGF-0-10",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 10.0,
-      "unit": "Grams",
-      "strainName": "Gelato Cake",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 18.39,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.4,
-        "CBN": 0.0,
-        "THCA": 20.12,
-        "THCV": 0.08
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.09,
-        "myrcene": 0.04,
-        "alpha-pinene": 0.1,
-        "caryophyllene": 0.29,
-        "beta-pinene": 0.09,
-        "limonene": 0.59,
-        "linalool": 0.3
-      },
-      "totalTerps": 1.77,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8872251,
-          "label": "1A40303000007D1000093666",
-          "quantity": 10.0,
-          "packagedDate": "2026-08-17",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 7787875,
       "packageCount": 1,
       "name": "MDGECK-PR-05-2PK",
@@ -27914,7 +27980,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Grams",
       "strainName": "76 MK ULTRA BLACK OPS",
       "strainType": null,
@@ -27947,7 +28013,7 @@
         {
           "id": 8858436,
           "label": "1A40303000039D1000091577",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -29524,6 +29590,54 @@
       ]
     },
     {
+      "id": 8606884,
+      "packageCount": 1,
+      "name": "Small A$$ Buds|Small Flower|Mango Mintality|Usable|3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 28.0,
+      "unit": "Grams",
+      "strainName": "Mango Mintality",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 18.73,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.88,
+        "CBN": 0.0,
+        "THCA": 20.96,
+        "THCV": 0.16
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.77,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.04,
+        "eudesmol": 0.08,
+        "beta-pinene": 0.03,
+        "ocimene": 0.08,
+        "limonene": 0.06
+      },
+      "totalTerps": 1.17,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8606884,
+          "label": "1A4030300002009000105202",
+          "quantity": 28.0,
+          "packagedDate": "2026-06-17",
+          "expirationDate": "2027-05-20"
+        }
+      ]
+    },
+    {
       "id": 8507794,
       "packageCount": 1,
       "name": "Southwest Stomper x William's Wonder | Georgies | 2.5g",
@@ -29633,7 +29747,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Sunshine #4",
       "strainType": null,
@@ -29665,7 +29779,7 @@
         {
           "id": 8890368,
           "label": "1A40303000001F5000420173",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -29967,7 +30081,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Grams",
       "strainName": "198 TWIN PEAKS",
       "strainType": null,
@@ -30002,7 +30116,7 @@
         {
           "id": 8507791,
           "label": "1A40303000039D1000076679",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-05-26",
           "expirationDate": null
         }
@@ -35634,7 +35748,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Grams",
       "strainName": "Pineapple Bang 5",
       "strainType": null,
@@ -35667,7 +35781,7 @@
         {
           "id": 8854308,
           "label": "1A40303000000CB000049631",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-07-03"
         }
@@ -36420,7 +36534,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -36453,7 +36567,7 @@
         {
           "id": 8884050,
           "label": "1A40303000000CB000050200",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-07-14"
         }
@@ -39439,6 +39553,58 @@
       ]
     },
     {
+      "id": 8765361,
+      "packageCount": 1,
+      "name": "Airo Pod Permanent Marker LLR 1.0g/1000mg",
+      "brand": "Airo",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": "Permanent Marker LLR",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 65.18,
+        "totalCBD": 0.15,
+        "CBC": 0.62,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.8,
+        "CBGA": 0.0,
+        "CBN": 0.1,
+        "THCA": 0.0,
+        "THCV": 0.26
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.04,
+        "humulene": 0.38,
+        "myrcene": 0.25,
+        "alpha-pinene": 0.68,
+        "caryophyllene": 0.98,
+        "beta-pinene": 0.36,
+        "ocimene": 0.36,
+        "limonene": 1.84,
+        "linalool": 1.11,
+        "terpinolene": 0.1
+      },
+      "totalTerps": 6.98,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8765361,
+          "label": "1A40303000001F5000408119",
+          "quantity": 5.0,
+          "packagedDate": "2026-07-23",
+          "expirationDate": "2027-03-05"
+        }
+      ]
+    },
+    {
       "id": 8303027,
       "packageCount": 1,
       "name": "Airo Pod Pineapple Express 1.0g/1000mg",
@@ -39586,6 +39752,56 @@
           "quantity": 7.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-06-01"
+        }
+      ]
+    },
+    {
+      "id": 8765563,
+      "packageCount": 1,
+      "name": "Airo Pod Pink Palmer 1.0g/1000mg Disposable",
+      "brand": "Airo",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 8.0,
+      "unit": "Each",
+      "strainName": "Pink Palmer",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.84,
+        "totalCBD": 0.2,
+        "CBC": 0.68,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.04,
+        "CBGA": 0.0,
+        "CBN": 0.3,
+        "THCA": 0.0,
+        "THCV": 0.28
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.11,
+        "myrcene": 0.42,
+        "alpha-pinene": 0.25,
+        "caryophyllene": 0.64,
+        "beta-pinene": 0.37,
+        "limonene": 1.0,
+        "linalool": 0.07,
+        "terpinolene": 1.25
+      },
+      "totalTerps": 4.42,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8765563,
+          "label": "1A40303000001F5000408117",
+          "quantity": 8.0,
+          "packagedDate": "2026-07-23",
+          "expirationDate": "2027-05-26"
         }
       ]
     },
@@ -44308,57 +44524,6 @@
       ]
     },
     {
-      "id": 8695098,
-      "packageCount": 1,
-      "name": "Fade Co | Vape | Live Resin | Boston Tea Party - Vape Cart - 1g",
-      "brand": "Fade Co",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Boston Tea Party",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 74.35,
-        "totalCBD": 0.15,
-        "CBC": 0.74,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.84,
-        "CBGA": 0.0,
-        "CBN": 0.07,
-        "THCA": 0.0,
-        "THCV": 0.37
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.65,
-        "myrcene": 0.47,
-        "alpha-pinene": 0.93,
-        "caryophyllene": 1.34,
-        "beta-pinene": 0.45,
-        "ocimene": 0.27,
-        "limonene": 2.78,
-        "linalool": 1.27,
-        "terpinolene": 0.21
-      },
-      "totalTerps": 9.42,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8695098,
-          "label": "1A4030300004845000030723",
-          "quantity": 1.0,
-          "packagedDate": "2026-02-06",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8758265,
       "packageCount": 1,
       "name": "Fade Co | Vape | Live Resin | Dankarooz - Vape Cart - 1g",
@@ -44419,7 +44584,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "El Chivo",
       "strainType": null,
@@ -44455,7 +44620,7 @@
         {
           "id": 8758176,
           "label": "1A4030300004845000034914",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-05-18",
           "expirationDate": null
         }
