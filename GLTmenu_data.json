@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:20:32.866792+00:00",
+  "generated_at": "2026-08-28T16:30:31.019155+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4176,7 +4176,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Berry Inferno",
       "strainType": null,
@@ -4203,7 +4203,7 @@
         {
           "id": 8842347,
           "label": "1A4030300003201000001521",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-08-10",
           "expirationDate": null
         }
@@ -4219,7 +4219,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 36.0,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Gelato OG",
       "strainType": null,
@@ -4243,7 +4243,7 @@
         {
           "id": 7643607,
           "label": "1A4030300003201000000461",
-          "quantity": 36.0,
+          "quantity": 35.0,
           "packagedDate": "2025-10-23",
           "expirationDate": "2026-10-14"
         }
@@ -4259,7 +4259,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Grams",
       "strainName": "Goji Dough",
       "strainType": null,
@@ -4283,7 +4283,7 @@
         {
           "id": 7643606,
           "label": "1A4030300003201000000465",
-          "quantity": 26.0,
+          "quantity": 25.0,
           "packagedDate": "2025-10-23",
           "expirationDate": "2026-10-14"
         }
@@ -17487,6 +17487,61 @@
       ]
     },
     {
+      "id": 8902252,
+      "packageCount": 1,
+      "name": "Encore Gummies - Pineapple Raspberry - Edible Product - 10mg - 10pc*",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.297,
+        "CBC": 0.003,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.012,
+        "CBGA": 0.0,
+        "CBN": 0.004,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.105,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.42,
+          "CBGA": 0.0,
+          "CBN": 0.14,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8902252,
+          "label": "1A40303000017D5000104294",
+          "quantity": 24.0,
+          "packagedDate": "2026-07-20",
+          "expirationDate": "2027-07-20"
+        }
+      ]
+    },
+    {
       "id": 8870785,
       "packageCount": 2,
       "name": "Encore Gummies - Pomegranate Punch 1:2 CBN:THC - Edible Product - 10mg - 10pc*",
@@ -20845,7 +20900,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 21.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20886,7 +20941,7 @@
         {
           "id": 8891361,
           "label": "1A40303000003EA000205083",
-          "quantity": 21.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-05-20"
         }
@@ -20951,16 +21006,15 @@
     },
     {
       "id": 8854382,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Incredibles Gummy Summer Peach 400mg - Exempt - 40mg - 10 Pieces",
       "brand": "Incredibles",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 26.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21001,16 +21055,9 @@
         {
           "id": 8854382,
           "label": "1A40303000003EA000202540",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-06-16"
-        },
-        {
-          "id": 8721792,
-          "label": "1A40303000003EA000200210",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-14",
-          "expirationDate": "2027-06-03"
         }
       ]
     },
@@ -25664,7 +25711,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 171.5,
+      "quantity": 168.0,
       "unit": "Grams",
       "strainName": "41 CHERRY CHOCOLATE WIDOW",
       "strainType": null,
@@ -25699,7 +25746,7 @@
         {
           "id": 8858125,
           "label": "1A40303000039D1000091576",
-          "quantity": 171.5,
+          "quantity": 168.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -26713,7 +26760,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Orange Chemeleon",
       "strainType": null,
@@ -26748,7 +26795,7 @@
         {
           "id": 8882272,
           "label": "1A4030300003521000056048",
-          "quantity": 14.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-05-31"
         }
@@ -26902,6 +26949,55 @@
           "quantity": 70.0,
           "packagedDate": "2026-06-22",
           "expirationDate": "2027-05-31"
+        }
+      ]
+    },
+    {
+      "id": 8483523,
+      "packageCount": 1,
+      "name": "Khalifa Mints Flower 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 49.0,
+      "unit": "Grams",
+      "strainName": "Khalifa Mints",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.03,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.66,
+        "CBN": 0.0,
+        "THCA": 27.39,
+        "THCV": 0.05
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.1,
+        "myrcene": 0.05,
+        "alpha-pinene": 0.12,
+        "caryophyllene": 0.34,
+        "beta-pinene": 0.12,
+        "limonene": 1.0,
+        "linalool": 0.43
+      },
+      "totalTerps": 2.45,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8483523,
+          "label": "1A40303000000C9000157042",
+          "quantity": 49.0,
+          "packagedDate": "2026-05-20",
+          "expirationDate": "2027-05-10"
         }
       ]
     },
@@ -27113,7 +27209,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "White Iverson",
       "strainType": null,
@@ -27148,7 +27244,7 @@
         {
           "id": 8890134,
           "label": "1A403030000025B000084351",
-          "quantity": 38.5,
+          "quantity": 35.0,
           "packagedDate": "2026-07-17",
           "expirationDate": "2027-07-08"
         }
@@ -29172,7 +29268,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 38.5,
       "unit": "Grams",
       "strainName": "Rainbow Push Pop #4",
       "strainType": null,
@@ -29206,7 +29302,7 @@
         {
           "id": 8884056,
           "label": "1A40303000000CB000050203",
-          "quantity": 42.0,
+          "quantity": 38.5,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-08-04"
         }
@@ -30203,7 +30299,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 210.0,
+      "quantity": 182.0,
       "unit": "Grams",
       "strainName": "Tear Gas -BLVK MRKT",
       "strainType": null,
@@ -30237,7 +30333,7 @@
         {
           "id": 8870115,
           "label": "1A40303000040D9000005722",
-          "quantity": 210.0,
+          "quantity": 182.0,
           "packagedDate": "2026-08-16",
           "expirationDate": "2027-08-15"
         }
@@ -34934,7 +35030,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 38.0,
+      "quantity": 37.0,
       "unit": "Each",
       "strainName": "Strawberry Blizzard",
       "strainType": null,
@@ -34966,7 +35062,7 @@
         {
           "id": 8904264,
           "label": "1A4030300003201000001621",
-          "quantity": 38.0,
+          "quantity": 37.0,
           "packagedDate": "2026-08-24",
           "expirationDate": null
         }
@@ -34982,7 +35078,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Mango Dragon Juicy Stickz",
       "strainType": null,
@@ -35017,7 +35113,7 @@
         {
           "id": 8820792,
           "label": "1A403030000012E000181576",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-04-27"
         }
@@ -49341,7 +49437,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Blackberry Gelato",
       "strainType": null,
@@ -49376,7 +49472,7 @@
         {
           "id": 8842349,
           "label": "1A4030300003201000001523",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-10",
           "expirationDate": null
         }
@@ -54927,7 +55023,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Maui Waui",
       "strainType": null,
@@ -54959,7 +55055,7 @@
         {
           "id": 8883699,
           "label": "1A4030300000C83000085449",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-07-14"
         }
