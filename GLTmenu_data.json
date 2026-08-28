@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T18:30:29.290460+00:00",
+  "generated_at": "2026-08-28T18:40:26.656898+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1720,6 +1720,56 @@
           "quantity": 5.0,
           "packagedDate": "2026-06-17",
           "expirationDate": "2027-06-10"
+        }
+      ]
+    },
+    {
+      "id": 8849839,
+      "packageCount": 1,
+      "name": "Beezle - Live Rosin - Guava Gelato - 1g",
+      "brand": "Beezle",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Guava Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 74.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.67,
+        "CBGA": 4.29,
+        "CBN": 0.0,
+        "THCA": 82.94,
+        "THCV": 0.4
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.2,
+        "humulene": 0.37,
+        "myrcene": 1.24,
+        "alpha-pinene": 0.21,
+        "caryophyllene": 1.5,
+        "beta-pinene": 0.26,
+        "limonene": 2.73,
+        "linalool": 0.66,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 7.72,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8849839,
+          "label": "1A403030000283D000057288",
+          "quantity": 10.0,
+          "packagedDate": "2026-08-11",
+          "expirationDate": null
         }
       ]
     },
@@ -25102,51 +25152,6 @@
       ]
     },
     {
-      "id": 8858485,
-      "packageCount": 1,
-      "name": "Banana Puddintain-Pre Pack Bud-3.5 gram-Plastic Container",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "Banana Puddintain",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 29.27,
-        "totalCBD": 0.26,
-        "CBDA": 0.04,
-        "CBG": 0.26,
-        "CBN": 0.0,
-        "THCA": 33.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.02,
-        "humulene": 0.16,
-        "myrcene": 0.75,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 0.41,
-        "beta-pinene": 0.07,
-        "limonene": 0.51
-      },
-      "totalTerps": 1.96,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8858485,
-          "label": "1A40303000001F5000416967",
-          "quantity": 3.5,
-          "packagedDate": "2026-08-13",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8674620,
       "packageCount": 1,
       "name": "Berry Trix 8ths",
@@ -27392,7 +27397,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 133.0,
+      "quantity": 126.0,
       "unit": "Grams",
       "strainName": "Beach Cake",
       "strainType": null,
@@ -27425,7 +27430,7 @@
         {
           "id": 8681094,
           "label": "1A40303000007D1000085097",
-          "quantity": 133.0,
+          "quantity": 126.0,
           "packagedDate": "2026-07-03",
           "expirationDate": null
         }
@@ -27623,55 +27628,6 @@
           "label": "1A40303000007D1000090209",
           "quantity": 63.0,
           "packagedDate": "2026-07-20",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8368752,
-      "packageCount": 1,
-      "name": "MDCLCK-FLR-0-35",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "Cherry Limeade Cake",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 23.59,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.45,
-        "CBN": 0.0,
-        "THCA": 25.65,
-        "THCV": 0.07
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.11,
-        "myrcene": 0.07,
-        "alpha-pinene": 0.23,
-        "caryophyllene": 0.4,
-        "beta-pinene": 0.16,
-        "ocimene": 0.03,
-        "limonene": 0.93,
-        "linalool": 0.36
-      },
-      "totalTerps": 2.66,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8368752,
-          "label": "1A40303000007D1000075525",
-          "quantity": 3.5,
-          "packagedDate": "2026-04-23",
           "expirationDate": null
         }
       ]
@@ -33471,6 +33427,54 @@
       ]
     },
     {
+      "id": 8678454,
+      "packageCount": 1,
+      "name": "HiRoller|Infused Pre-Roll Kit|Cherry Paloma|7g",
+      "brand": "HiRoller",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 27.0,
+      "unit": "Each",
+      "strainName": "Cherry Paloma",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 39.74,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.63,
+        "CBN": 0.0,
+        "THCA": 44.5,
+        "THCV": 0.23
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.06,
+        "caryophyllene": 0.2,
+        "eudesmol": 0.07,
+        "beta-pinene": 0.02,
+        "limonene": 0.19,
+        "linalool": 0.18
+      },
+      "totalTerps": 0.97,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8678454,
+          "label": "1A4030300002009000107933",
+          "quantity": 27.0,
+          "packagedDate": "2026-07-02",
+          "expirationDate": "2027-05-08"
+        }
+      ]
+    },
+    {
       "id": 8809460,
       "packageCount": 1,
       "name": "Jack's Delight 5 Pack (Infused) Dogwalkers (Play ) - Concentrate - 2.25g",
@@ -33977,7 +33981,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -34013,7 +34017,7 @@
         {
           "id": 8864064,
           "label": "1A403030000012D000260500",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -43218,7 +43222,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Cherry Maui Wowie",
       "strainType": "Sativa",
@@ -43252,7 +43256,7 @@
         {
           "id": 7890139,
           "label": "1A40303000003EA000137329",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2025-12-29",
           "expirationDate": "2026-11-24"
         }
@@ -49209,6 +49213,57 @@
           "quantity": 27.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-05-19"
+        }
+      ]
+    },
+    {
+      "id": 8842349,
+      "packageCount": 1,
+      "name": "LORE 1g Cart - Blackberry Gelato",
+      "brand": "LORE",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 1.0,
+      "unit": "Each",
+      "strainName": "Blackberry Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 77.43,
+        "CBC": 0.64,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.6,
+        "CBGA": 0.0,
+        "CBN": 1.73,
+        "THCA": 0.0,
+        "THCV": 0.84
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.21,
+        "humulene": 0.17,
+        "myrcene": 0.57,
+        "alpha-pinene": 0.28,
+        "caryophyllene": 1.21,
+        "beta-pinene": 0.27,
+        "ocimene": 0.09,
+        "limonene": 1.44,
+        "linalool": 0.41,
+        "terpinolene": 0.31
+      },
+      "totalTerps": 5.34,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8842349,
+          "label": "1A4030300003201000001523",
+          "quantity": 1.0,
+          "packagedDate": "2026-08-10",
+          "expirationDate": null
         }
       ]
     },
