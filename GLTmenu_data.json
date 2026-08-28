@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:00:27.292274+00:00",
+  "generated_at": "2026-08-28T17:11:01.098637+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10810,63 +10810,6 @@
       ]
     },
     {
-      "id": 8739607,
-      "packageCount": 1,
-      "name": "Avexia Microdose Tablets - 4:1 CBD:THC - Edible Product - 2.5mg - 40pc",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.835,
-        "totalCBD": 4.097,
-        "CBC": 0.01,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.024,
-        "CBGA": 0.0,
-        "CBN": 0.009,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 2.5,
-        "minorsMgPerServing": {
-          "totalCBD": 12.291,
-          "CBC": 0.03,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.072,
-          "CBGA": 0.0,
-          "CBN": 0.027,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8739607,
-          "label": "1A40303000017D5000100460",
-          "quantity": 3.0,
-          "packagedDate": "2026-04-10",
-          "expirationDate": "2027-04-10"
-        }
-      ]
-    },
-    {
       "id": 8676361,
       "packageCount": 1,
       "name": "Beboe Gummy 100mg-Sour Remedy (Sour Golden Peach)(2:1 CBD:THC)(Thick)-Edible Product-5mg-20 Pieces",
@@ -17094,17 +17037,16 @@
       ]
     },
     {
-      "id": 8838187,
-      "packageCount": 2,
+      "id": 8902325,
+      "packageCount": 1,
       "name": "Encore Dark Chocolate - 1:1 CBN:THC - Edible Product - 10mg - 10pc",
       "brand": null,
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 13.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17141,16 +17083,9 @@
       "dominantTerpene": null,
       "packages": [
         {
-          "id": 8838187,
-          "label": "1A40303000017D5000103034",
-          "quantity": 1.0,
-          "packagedDate": "2026-05-19",
-          "expirationDate": "2027-05-19"
-        },
-        {
           "id": 8902325,
           "label": "1A40303000017D5000104293",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-05-19",
           "expirationDate": "2027-05-19"
         }
@@ -17166,7 +17101,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -17205,7 +17140,7 @@
         {
           "id": 8624318,
           "label": "1A40303000017D5000097269",
-          "quantity": 7.0,
+          "quantity": 3.0,
           "packagedDate": "2026-04-22",
           "expirationDate": "2027-04-22"
         }
@@ -20607,7 +20542,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20648,7 +20583,7 @@
         {
           "id": 8891520,
           "label": "1A40303000003EA000205080",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-05-18"
         }
@@ -23809,7 +23744,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23848,7 +23783,7 @@
         {
           "id": 8859042,
           "label": "1A403030000390D000066173",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-07-27"
         }
@@ -26209,6 +26144,56 @@
       ]
     },
     {
+      "id": 8768959,
+      "packageCount": 1,
+      "name": "Garlic Breath Flower 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 154.0,
+      "unit": "Grams",
+      "strainName": "Garlic Breath",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.19,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.19,
+        "CBGA": 0.86,
+        "CBN": 0.0,
+        "THCA": 29.65,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.11,
+        "myrcene": 0.13,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.45,
+        "eudesmol": 0.14,
+        "beta-pinene": 0.05,
+        "limonene": 0.42,
+        "linalool": 0.12
+      },
+      "totalTerps": 1.75,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8768959,
+          "label": "1A40303000000C9000164871",
+          "quantity": 154.0,
+          "packagedDate": "2026-07-23",
+          "expirationDate": "2027-07-19"
+        }
+      ]
+    },
+    {
       "id": 8395073,
       "packageCount": 1,
       "name": "Gazzurple Pre-Pack (Mixed Buds) - Good Green (Sativa) - Usable - 3.5g",
@@ -26661,7 +26646,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 154.0,
+      "quantity": 147.0,
       "unit": "Grams",
       "strainName": "Guava IX",
       "strainType": null,
@@ -26694,7 +26679,7 @@
         {
           "id": 8882266,
           "label": "1A4030300003521000056046",
-          "quantity": 154.0,
+          "quantity": 147.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-30"
         }
@@ -29758,7 +29743,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 63.0,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -29792,7 +29777,7 @@
         {
           "id": 8894303,
           "label": "1A4030300003A3C000089891",
-          "quantity": 63.0,
+          "quantity": 56.0,
           "packagedDate": "2026-08-04",
           "expirationDate": "2027-08-04"
         }
@@ -37187,7 +37172,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Grams",
       "strainName": "Voyager",
       "strainType": null,
@@ -37219,7 +37204,7 @@
         {
           "id": 8890370,
           "label": "1A40303000001F5000420176",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -37441,7 +37426,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 30.0,
       "unit": "Grams",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -37474,7 +37459,7 @@
         {
           "id": 8849579,
           "label": "1A40303000040D9000005597",
-          "quantity": 35.0,
+          "quantity": 30.0,
           "packagedDate": "2026-08-11",
           "expirationDate": null
         }
@@ -49489,7 +49474,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -49522,7 +49507,7 @@
         {
           "id": 8689166,
           "label": "1A4030300003201000001353",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-07-07",
           "expirationDate": null
         }
