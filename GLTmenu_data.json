@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T14:41:30.802365+00:00",
+  "generated_at": "2026-08-28T14:50:43.548674+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8531,7 +8531,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Watermelon Z",
       "strainType": "Indica",
@@ -8565,7 +8565,7 @@
         {
           "id": 8854452,
           "label": "1A40303000003EA000202542",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-07-21"
         }
@@ -17958,7 +17958,7 @@
     },
     {
       "id": 8870785,
-      "packageCount": 3,
+      "packageCount": 2,
       "name": "Encore Gummies - Pomegranate Punch 1:2 CBN:THC - Edible Product - 10mg - 10pc*",
       "brand": null,
       "category": "Edible",
@@ -17967,7 +17967,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 31.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18016,13 +18016,6 @@
           "quantity": 1.0,
           "packagedDate": "2026-04-01",
           "expirationDate": "2027-04-01"
-        },
-        {
-          "id": 8110065,
-          "label": "1A40303000017D5000079302",
-          "quantity": 6.0,
-          "packagedDate": "2025-12-09",
-          "expirationDate": "2026-12-09"
         }
       ]
     },
@@ -26902,113 +26895,6 @@
       ]
     },
     {
-      "id": 8884216,
-      "packageCount": 1,
-      "name": "Blue Zangria 2 Pre-Pack 3.5g",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 112.0,
-      "unit": "Grams",
-      "strainName": "Blue zangria 2",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 24.02,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.13,
-        "CBGA": 0.33,
-        "CBN": 0.0,
-        "THCA": 26.69,
-        "THCV": 0.12
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.07,
-        "humulene": 0.06,
-        "myrcene": 0.1,
-        "alpha-pinene": 0.15,
-        "caryophyllene": 0.16,
-        "beta-pinene": 0.16,
-        "ocimene": 0.08,
-        "limonene": 1.06,
-        "linalool": 0.35,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 2.58,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8884216,
-          "label": "1A40303000000CB000050202",
-          "quantity": 112.0,
-          "packagedDate": "2026-08-19",
-          "expirationDate": "2027-06-27"
-        }
-      ]
-    },
-    {
-      "id": 8695957,
-      "packageCount": 2,
-      "name": "Blue Zangria 9 Pre-Pack 3.5g",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 119.0,
-      "unit": "Grams",
-      "strainName": "Blue Zangria 9",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 19.9,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.2,
-        "CBGA": 1.22,
-        "CBN": 0.0,
-        "THCA": 22.69,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.08,
-        "myrcene": 0.05,
-        "alpha-pinene": 0.08,
-        "caryophyllene": 0.26,
-        "beta-pinene": 0.08,
-        "ocimene": 0.03,
-        "limonene": 0.42,
-        "linalool": 0.15
-      },
-      "totalTerps": 1.29,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8695957,
-          "label": "1A40303000000CB000046434",
-          "quantity": 21.0,
-          "packagedDate": "2026-07-08",
-          "expirationDate": "2027-06-13"
-        },
-        {
-          "id": 8675792,
-          "label": "1A40303000000CB000046018",
-          "quantity": 98.0,
-          "packagedDate": "2026-07-02",
-          "expirationDate": "2027-06-13"
-        }
-      ]
-    },
-    {
       "id": 8826455,
       "packageCount": 2,
       "name": "Brownie Scout Pre-Pack (Buds) - Rythm (Indica Dominant) - Usable - 3.5g",
@@ -27525,105 +27411,6 @@
           "quantity": 38.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-03"
-        }
-      ]
-    },
-    {
-      "id": 8301114,
-      "packageCount": 1,
-      "name": "Cush Pre-Pack 3.5g",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 59.5,
-      "unit": "Grams",
-      "strainName": "Cush",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 21.04,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.15,
-        "CBGA": 1.27,
-        "CBN": 0.0,
-        "THCA": 23.54,
-        "THCV": 0.07
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.16,
-        "humulene": 0.13,
-        "myrcene": 0.66,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.41,
-        "beta-pinene": 0.04,
-        "ocimene": 0.12,
-        "limonene": 0.14
-      },
-      "totalTerps": 1.74,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8301114,
-          "label": "1A40303000000CB000038841",
-          "quantity": 59.5,
-          "packagedDate": "2026-04-08",
-          "expirationDate": "2027-02-22"
-        }
-      ]
-    },
-    {
-      "id": 8266065,
-      "packageCount": 1,
-      "name": "Deadband 12 Pre-Pack 3.5g",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "Deadband x GC5 #12",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 24.66,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.61,
-        "CBN": 0.0,
-        "THCA": 27.2,
-        "THCV": 0.11
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.14,
-        "myrcene": 1.65,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 0.41,
-        "beta-pinene": 0.04,
-        "ocimene": 0.06,
-        "limonene": 0.29,
-        "linalool": 0.11
-      },
-      "totalTerps": 2.81,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8266065,
-          "label": "1A40303000000CB000038189",
-          "quantity": 3.5,
-          "packagedDate": "2026-03-31",
-          "expirationDate": "2027-02-03"
         }
       ]
     },
@@ -33825,55 +33612,6 @@
           "quantity": 46.0,
           "packagedDate": "2026-03-06",
           "expirationDate": "2026-11-13"
-        }
-      ]
-    },
-    {
-      "id": 8490481,
-      "packageCount": 1,
-      "name": "1937|Pre-Roll|Old Money|Usable|2ct, 0.5g",
-      "brand": "1937",
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 46.0,
-      "unit": "Grams",
-      "strainName": "Old Money",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 24.44,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.16,
-        "CBGA": 1.38,
-        "CBN": 0.0,
-        "THCA": 27.07,
-        "THCV": 0.09
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.14,
-        "myrcene": 0.13,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.57,
-        "beta-pinene": 0.08,
-        "ocimene": 0.06,
-        "limonene": 0.68,
-        "linalool": 0.2
-      },
-      "totalTerps": 2.12,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8490481,
-          "label": "1A4030300002009000102666",
-          "quantity": 46.0,
-          "packagedDate": "2026-05-21",
-          "expirationDate": "2027-04-17"
         }
       ]
     },
@@ -52006,50 +51744,6 @@
       ]
     },
     {
-      "id": 8756992,
-      "packageCount": 1,
-      "name": "Honeydew Dream Distillate Slyde Rechargeable Vape Cart 2.0mL",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 5.0,
-      "unit": "Each",
-      "strainName": "Honeydew Dream Slyde Rechargeable",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 84.03,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.91,
-        "CBGA": 0.0,
-        "CBN": 0.35,
-        "THCA": 0.0,
-        "THCV": 0.88
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.28,
-        "humulene": 0.07,
-        "myrcene": 0.23
-      },
-      "totalTerps": 0.58,
-      "dominantTerpene": "bisabolol",
-      "packages": [
-        {
-          "id": 8756992,
-          "label": "1A4030300000C83000077947",
-          "quantity": 5.0,
-          "packagedDate": "2026-07-21",
-          "expirationDate": "2027-07-10"
-        }
-      ]
-    },
-    {
       "id": 8858497,
       "packageCount": 1,
       "name": "Honeydew Kush DV 0.5g/500mg",
@@ -58751,53 +58445,6 @@
       ]
     },
     {
-      "id": 8757240,
-      "packageCount": 1,
-      "name": "Pina Colada Parade Distillate Slyde Rechargeable Vape Cart 2.0mL",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.0,
-      "unit": "Each",
-      "strainName": "Pina Colada Parade Slyde Rechargeable",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 83.87,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.49,
-        "CBGA": 0.0,
-        "CBN": 0.33,
-        "THCA": 0.0,
-        "THCV": 1.28
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.35,
-        "humulene": 0.21,
-        "myrcene": 0.34,
-        "caryophyllene": 0.46,
-        "ocimene": 0.25,
-        "limonene": 0.29
-      },
-      "totalTerps": 1.9,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8757240,
-          "label": "1A4030300000C83000077948",
-          "quantity": 3.0,
-          "packagedDate": "2026-07-21",
-          "expirationDate": "2027-07-10"
-        }
-      ]
-    },
-    {
       "id": 8809509,
       "packageCount": 1,
       "name": "Pineapple Delight Cartridge (Live Resin) - Rythm (Sativa Dominant) - Vape Cart - 1000mg",
@@ -59041,50 +58688,6 @@
           "quantity": 16.0,
           "packagedDate": "2026-03-23",
           "expirationDate": "2027-02-26"
-        }
-      ]
-    },
-    {
-      "id": 8756995,
-      "packageCount": 1,
-      "name": "Pom Power Distillate Slyde Rechargeable Vape Cart 2.0mL",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 7.0,
-      "unit": "Each",
-      "strainName": "Pom Power Slyde Rechargeable",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 83.25,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.86,
-        "CBGA": 0.0,
-        "CBN": 0.35,
-        "THCA": 0.0,
-        "THCV": 1.09
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.27,
-        "humulene": 0.09,
-        "myrcene": 0.14
-      },
-      "totalTerps": 0.5,
-      "dominantTerpene": "bisabolol",
-      "packages": [
-        {
-          "id": 8756995,
-          "label": "1A4030300000C83000077949",
-          "quantity": 7.0,
-          "packagedDate": "2026-07-21",
-          "expirationDate": "2027-07-10"
         }
       ]
     },
@@ -61589,7 +61192,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Sour Tangie BD",
       "strainType": null,
@@ -61623,7 +61226,7 @@
         {
           "id": 8229542,
           "label": "ABC0303000037DD000021641",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-03-23",
           "expirationDate": "2026-12-26"
         }
