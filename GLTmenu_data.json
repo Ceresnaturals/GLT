@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T15:30:38.332673+00:00",
+  "generated_at": "2026-08-28T15:40:45.485250+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4086,52 +4086,6 @@
       ]
     },
     {
-      "id": 8386208,
-      "packageCount": 1,
-      "name": "K&Q|Cured THCa Isolate|Sherbanger #22|Concentrate|1.0g",
-      "brand": null,
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 5.0,
-      "unit": "Each",
-      "strainName": "Sherbanger",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 85.24,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.41,
-        "CBN": 0.0,
-        "THCA": 95.68,
-        "THCV": 0.5
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.17,
-        "humulene": 0.27,
-        "caryophyllene": 1.01,
-        "limonene": 0.18,
-        "linalool": 0.31
-      },
-      "totalTerps": 2.26,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8386208,
-          "label": "1A4030300002009000099168",
-          "quantity": 5.0,
-          "packagedDate": "2026-04-28",
-          "expirationDate": "2027-04-12"
-        }
-      ]
-    },
-    {
       "id": 8752046,
       "packageCount": 1,
       "name": "K&Q|Cured THCa Isolate|Znow Flakes|Concentrate|1.0g",
@@ -4272,8 +4226,8 @@
       ]
     },
     {
-      "id": 8689173,
-      "packageCount": 3,
+      "id": 7643604,
+      "packageCount": 1,
       "name": "LORE Double Diamonds 1g - Amnesia OG",
       "brand": "LORE",
       "category": "Concentrate",
@@ -4281,7 +4235,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 3.0,
       "unit": "Grams",
       "strainName": "Amnesia OG",
       "strainType": null,
@@ -4294,33 +4248,17 @@
         "CBG": 0.34,
         "CBGA": 0.66,
         "CBN": 0.0,
-        "THCA": 34.74,
+        "THCA": 98.84,
         "THCV": 0.17
       },
       "dose": null,
       "terpenes": {
         "humulene": 0.04,
-        "caryophyllene": 0.09,
-        "caryophyllene-oxide": 0.05,
-        "terpinolene": 0.03
+        "caryophyllene-oxide": 0.05
       },
-      "totalTerps": 0.0,
-      "dominantTerpene": "caryophyllene",
+      "totalTerps": 0.23,
+      "dominantTerpene": "caryophyllene-oxide",
       "packages": [
-        {
-          "id": 8689173,
-          "label": "1A4030300003201000001360",
-          "quantity": 6.0,
-          "packagedDate": "2026-07-07",
-          "expirationDate": null
-        },
-        {
-          "id": 8127773,
-          "label": "1A4030300003201000000899",
-          "quantity": 4.0,
-          "packagedDate": "2026-02-25",
-          "expirationDate": "2026-11-14"
-        },
         {
           "id": 7643604,
           "label": "1A4030300003201000000460",
@@ -4331,8 +4269,8 @@
       ]
     },
     {
-      "id": 8904266,
-      "packageCount": 2,
+      "id": 8842347,
+      "packageCount": 1,
       "name": "LORE Double Diamonds 1g - Berry Inferno",
       "brand": "LORE",
       "category": "Concentrate",
@@ -4340,7 +4278,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 27.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Berry Inferno",
       "strainType": null,
@@ -4365,13 +4303,6 @@
       "dominantTerpene": "caryophyllene",
       "packages": [
         {
-          "id": 8904266,
-          "label": "1A4030300003201000001623",
-          "quantity": 10.0,
-          "packagedDate": "2026-08-24",
-          "expirationDate": null
-        },
-        {
           "id": 8842347,
           "label": "1A4030300003201000001521",
           "quantity": 17.0,
@@ -4381,50 +4312,8 @@
       ]
     },
     {
-      "id": 8904267,
+      "id": 7643607,
       "packageCount": 1,
-      "name": "LORE Double Diamonds 1g - Dough Diamond",
-      "brand": "LORE",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 10.0,
-      "unit": "Each",
-      "strainName": "Double",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 33.58,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.17,
-        "CBGA": 0.23,
-        "CBN": 0.12,
-        "THCA": 33.17,
-        "THCV": 0.13
-      },
-      "dose": null,
-      "terpenes": {
-        "caryophyllene": 0.09
-      },
-      "totalTerps": 0.09,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8904267,
-          "label": "1A4030300003201000001624",
-          "quantity": 10.0,
-          "packagedDate": "2026-08-24",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8689174,
-      "packageCount": 2,
       "name": "LORE Double Diamonds 1g - Gelato OG",
       "brand": "LORE",
       "category": "Concentrate",
@@ -4432,7 +4321,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 36.0,
       "unit": "Grams",
       "strainName": "Gelato OG",
       "strainType": null,
@@ -4445,25 +4334,14 @@
         "CBG": 0.0,
         "CBGA": 0.51,
         "CBN": 0.0,
-        "THCA": 33.24,
+        "THCA": 98.84,
         "THCV": 0.14
       },
       "dose": null,
-      "terpenes": {
-        "humulene": 0.05,
-        "caryophyllene": 0.11,
-        "caryophyllene-oxide": 0.05
-      },
-      "totalTerps": 0.24,
-      "dominantTerpene": "caryophyllene",
+      "terpenes": {},
+      "totalTerps": 0.0,
+      "dominantTerpene": null,
       "packages": [
-        {
-          "id": 8689174,
-          "label": "1A4030300003201000001361",
-          "quantity": 6.0,
-          "packagedDate": "2026-07-07",
-          "expirationDate": null
-        },
         {
           "id": 7643607,
           "label": "1A4030300003201000000461",
@@ -4515,7 +4393,7 @@
     },
     {
       "id": 8689162,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "LORE Double Diamonds 1g - Zelato",
       "brand": "LORE",
       "category": "Concentrate",
@@ -4523,7 +4401,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 18.0,
       "unit": "Grams",
       "strainName": "Zelato",
       "strainType": null,
@@ -4553,13 +4431,6 @@
           "quantity": 18.0,
           "packagedDate": "2026-07-07",
           "expirationDate": null
-        },
-        {
-          "id": 8127882,
-          "label": "1A4030300003201000000897",
-          "quantity": 4.0,
-          "packagedDate": "2026-02-25",
-          "expirationDate": "2027-02-02"
         }
       ]
     },
@@ -8374,7 +8245,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Durban Poison",
       "strainType": "Sativa",
@@ -8407,7 +8278,7 @@
         {
           "id": 8891523,
           "label": "1A40303000003EA000205087",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-06-17"
         }
@@ -8423,7 +8294,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Mai Tai",
       "strainType": "Sativa",
@@ -8459,7 +8330,7 @@
         {
           "id": 8891524,
           "label": "1A40303000003EA000205088",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-14"
         }
@@ -8475,7 +8346,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Watermelon Z",
       "strainType": "Indica",
@@ -8509,7 +8380,7 @@
         {
           "id": 8854452,
           "label": "1A40303000003EA000202542",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-07-21"
         }
@@ -10083,7 +9954,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10124,7 +9995,7 @@
         {
           "id": 8890125,
           "label": "1A40303000001F5000420083",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-14"
         }
@@ -10423,7 +10294,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10464,7 +10335,7 @@
         {
           "id": 8890211,
           "label": "1A40303000001F5000420084",
-          "quantity": 16.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-30"
         }
@@ -10586,16 +10457,15 @@
     },
     {
       "id": 8886711,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Tall - Fuji Apple Pear 1:1 (THC:CBD) - Liquid Edible - 10mg - 1",
       "brand": null,
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10638,13 +10508,6 @@
           "label": "1A4030300000C83000081041",
           "quantity": 24.0,
           "packagedDate": "2026-08-19",
-          "expirationDate": "2027-07-15"
-        },
-        {
-          "id": 8793068,
-          "label": "1A4030300000C83000080426",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-29",
           "expirationDate": "2027-07-15"
         }
       ]
@@ -10773,7 +10636,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10814,7 +10677,7 @@
         {
           "id": 8851619,
           "label": "1A4030300000C83000080820",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-06-24"
         }
@@ -20736,7 +20599,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20777,7 +20640,7 @@
         {
           "id": 8891360,
           "label": "1A40303000003EA000205082",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-30"
         }
@@ -21480,120 +21343,6 @@
           "quantity": 8.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-06-08"
-        }
-      ]
-    },
-    {
-      "id": 8520795,
-      "packageCount": 1,
-      "name": "Kind Tree | Edibles | Soft Lozenges | White Peach and Fig - Edible Product - 10mg - 10pk",
-      "brand": "Kind Tree",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.23,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8520795,
-          "label": "1A4030300002199000051907",
-          "quantity": 1.0,
-          "packagedDate": "2026-05-04",
-          "expirationDate": "2027-05-04"
-        }
-      ]
-    },
-    {
-      "id": 8494058,
-      "packageCount": 1,
-      "name": "Mellow Fellow - Gummies - Dream Berry 1:2:2 Sleep Blend- 100mg THC - Edible Product - 10mg - 10",
-      "brand": "Mellow Fellow",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 5.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.233,
-        "totalCBD": 0.441,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.008,
-        "CBGA": 0.0,
-        "CBN": 0.473,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "4.5g",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 19.845,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.36,
-          "CBGA": 0.0,
-          "CBN": 21.285,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8494058,
-          "label": "1A403030000283D000049575",
-          "quantity": 5.0,
-          "packagedDate": "2026-05-21",
-          "expirationDate": "2027-05-20"
         }
       ]
     },
@@ -27983,7 +27732,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 49.0,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "White Iverson",
       "strainType": null,
@@ -28018,7 +27767,7 @@
         {
           "id": 8890134,
           "label": "1A403030000025B000084351",
-          "quantity": 49.0,
+          "quantity": 42.0,
           "packagedDate": "2026-07-17",
           "expirationDate": "2027-07-08"
         }
@@ -29103,59 +28852,9 @@
       ]
     },
     {
-      "id": 8698781,
+      "id": 8438414,
       "packageCount": 1,
-      "name": "Maryland Herb Co Packaged Flower - 3.5g - 24K",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 56.0,
-      "unit": "Grams",
-      "strainName": "24K",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 26.82,
-        "totalCBD": 0.06,
-        "CBC": 0.0,
-        "CBDA": 0.06,
-        "CBDV": 0.0,
-        "CBG": 0.16,
-        "CBGA": 0.82,
-        "CBN": 0.0,
-        "THCA": 30.25,
-        "THCV": 0.15
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.02,
-        "humulene": 0.19,
-        "myrcene": 0.38,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 0.36,
-        "beta-pinene": 0.04,
-        "limonene": 0.24,
-        "linalool": 0.19
-      },
-      "totalTerps": 1.49,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8698781,
-          "label": "1A403030000477D000000083",
-          "quantity": 56.0,
-          "packagedDate": "2026-07-06",
-          "expirationDate": "2027-04-15"
-        }
-      ]
-    },
-    {
-      "id": 8698685,
-      "packageCount": 1,
-      "name": "Maryland Herb Co Packaged Flower - 3.5g - Blueberry Cruffins",
+      "name": "Maryland Herb Co Packaged Flower - 3.5g - Headshot",
       "brand": null,
       "category": "Flower",
       "metrcCategory": "Buds",
@@ -29164,91 +28863,35 @@
       ],
       "quantity": 73.5,
       "unit": "Grams",
-      "strainName": "Blueberry Cruffins",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 29.31,
-        "totalCBD": 0.05,
-        "CBC": 0.0,
-        "CBDA": 0.06,
-        "CBDV": 0.0,
-        "CBG": 0.13,
-        "CBGA": 0.33,
-        "CBN": 0.0,
-        "THCA": 32.23,
-        "THCV": 0.13
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.08,
-        "myrcene": 0.24,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 0.2,
-        "beta-pinene": 0.07,
-        "limonene": 0.33,
-        "linalool": 0.48
-      },
-      "totalTerps": 1.7,
-      "dominantTerpene": "linalool",
-      "packages": [
-        {
-          "id": 8698685,
-          "label": "1A403030000477D000000084",
-          "quantity": 73.5,
-          "packagedDate": "2026-07-06",
-          "expirationDate": "2027-05-08"
-        }
-      ]
-    },
-    {
-      "id": 8699036,
-      "packageCount": 2,
-      "name": "Maryland Herb Co Packaged Flower - 3.5g - Headshot",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 133.0,
-      "unit": "Grams",
       "strainName": "Headshot",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 30.57,
-        "totalCBD": 0.07,
+        "totalTHC": 23.68,
+        "totalCBD": 0.06,
         "CBC": 0.0,
-        "CBDA": 0.08,
+        "CBDA": 0.07,
         "CBDV": 0.0,
-        "CBG": 0.18,
+        "CBG": 0.08,
         "CBGA": 1.6,
         "CBN": 0.0,
-        "THCA": 34.36,
-        "THCV": 0.19
+        "THCA": 26.11,
+        "THCV": 0.09
       },
       "dose": null,
       "terpenes": {
-        "humulene": 0.1,
-        "myrcene": 0.72,
-        "alpha-pinene": 0.02,
-        "caryophyllene": 0.24,
-        "beta-pinene": 0.04,
-        "ocimene": 0.12,
-        "limonene": 0.15,
-        "linalool": 0.23
+        "humulene": 0.14,
+        "myrcene": 0.04,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.43,
+        "beta-pinene": 0.09,
+        "ocimene": 0.08,
+        "limonene": 0.48,
+        "linalool": 0.26
       },
-      "totalTerps": 1.64,
-      "dominantTerpene": "myrcene",
+      "totalTerps": 1.76,
+      "dominantTerpene": "limonene",
       "packages": [
-        {
-          "id": 8699036,
-          "label": "1A403030000477D000000086",
-          "quantity": 59.5,
-          "packagedDate": "2026-07-06",
-          "expirationDate": "2027-05-08"
-        },
         {
           "id": 8438414,
           "label": "1A4030300000709000049895",
@@ -29954,7 +29597,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 24.5,
       "unit": "Grams",
       "strainName": "Plantz",
       "strainType": null,
@@ -29987,7 +29630,7 @@
         {
           "id": 8858486,
           "label": "1A40303000001F5000416969",
-          "quantity": 28.0,
+          "quantity": 24.5,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -36002,16 +35645,15 @@
     },
     {
       "id": 8904264,
-      "packageCount": 3,
+      "packageCount": 1,
       "name": "LORE Ritual - 2g Blunt - Strawberry Blizzard",
       "brand": "LORE",
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 52.0,
+      "quantity": 38.0,
       "unit": "Each",
       "strainName": "Strawberry Blizzard",
       "strainType": null,
@@ -36045,73 +35687,6 @@
           "label": "1A4030300003201000001621",
           "quantity": 38.0,
           "packagedDate": "2026-08-24",
-          "expirationDate": null
-        },
-        {
-          "id": 8904265,
-          "label": "1A4030300003201000001622",
-          "quantity": 10.0,
-          "packagedDate": "2026-08-24",
-          "expirationDate": null
-        },
-        {
-          "id": 8842351,
-          "label": "1A4030300003201000001525",
-          "quantity": 4.0,
-          "packagedDate": "2026-08-10",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8520796,
-      "packageCount": 1,
-      "name": "Legend | Pre-Rolls | THCa and Terpene Infused Multipack | Citrus Berry Marmalade - Usable - 5pk/2.5g",
-      "brand": "Legend",
-      "category": "Pre-Roll",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 7.0,
-      "unit": "Each",
-      "strainName": "Citrus Berry Marmalade",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 39.07,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.33,
-        "CBN": 0.0,
-        "THCA": 43.04,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.49,
-        "myrcene": 0.37,
-        "alpha-pinene": 0.3,
-        "caryophyllene": 1.39,
-        "beta-pinene": 0.18,
-        "caryophyllene-oxide": 0.13,
-        "ocimene": 0.21,
-        "limonene": 1.61,
-        "linalool": 0.36,
-        "terpinolene": 0.04,
-        "nerolidol": 0.08
-      },
-      "totalTerps": 5.6,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8520796,
-          "label": "1A4030300002199000051908",
-          "quantity": 7.0,
-          "packagedDate": "2026-03-26",
           "expirationDate": null
         }
       ]
@@ -36213,106 +35788,6 @@
           "quantity": 50.0,
           "packagedDate": "2026-08-03",
           "expirationDate": "2027-05-08"
-        }
-      ]
-    },
-    {
-      "id": 8699041,
-      "packageCount": 1,
-      "name": "Maryland Herb Co Pre-Roll - 2 x 0.5g - Rainbow Guava",
-      "brand": null,
-      "category": "Pre-Roll",
-      "metrcCategory": "Shake/Trim",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 11.0,
-      "unit": "Grams",
-      "strainName": "Maryland Herb Co",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 25.63,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.56,
-        "CBN": 0.0,
-        "THCA": 28.95,
-        "THCV": 0.13
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.07,
-        "myrcene": 0.15,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 0.25,
-        "beta-pinene": 0.05,
-        "limonene": 0.44,
-        "linalool": 0.13,
-        "nerolidol": 0.08
-      },
-      "totalTerps": 1.31,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8699041,
-          "label": "1A403030000477D000000087",
-          "quantity": 11.0,
-          "packagedDate": "2026-07-06",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8699014,
-      "packageCount": 1,
-      "name": "Maryland Herb Co Pre-Rolls - 2 x 0.5g - Candy Fumez",
-      "brand": null,
-      "category": "Pre-Roll",
-      "metrcCategory": "Shake/Trim",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 14.0,
-      "unit": "Grams",
-      "strainName": "Maryland Herb Co",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 20.46,
-        "totalCBD": 0.05,
-        "CBC": 0.0,
-        "CBDA": 0.06,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.31,
-        "CBN": 0.0,
-        "THCA": 21.45,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.17,
-        "myrcene": 0.05,
-        "alpha-pinene": 0.22,
-        "caryophyllene": 0.52,
-        "beta-pinene": 0.14,
-        "limonene": 0.8,
-        "linalool": 0.55,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 2.73,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8699014,
-          "label": "1A403030000477D000000085",
-          "quantity": 14.0,
-          "packagedDate": "2026-07-06",
-          "expirationDate": null
         }
       ]
     },
@@ -51101,16 +50576,15 @@
     },
     {
       "id": 8842349,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "LORE 1g Cart - Blackberry Gelato",
       "brand": "LORE",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Blackberry Gelato",
       "strainType": null,
@@ -51148,19 +50622,12 @@
           "quantity": 4.0,
           "packagedDate": "2026-08-10",
           "expirationDate": null
-        },
-        {
-          "id": 8689169,
-          "label": "1A4030300003201000001356",
-          "quantity": 2.0,
-          "packagedDate": "2026-07-07",
-          "expirationDate": null
         }
       ]
     },
     {
       "id": 8842350,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "LORE 1g Cart - Grape Ape",
       "brand": "LORE",
       "category": "Vape",
@@ -51168,7 +50635,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Grape Ape",
       "strainType": null,
@@ -51206,19 +50673,12 @@
           "quantity": 20.0,
           "packagedDate": "2026-08-10",
           "expirationDate": null
-        },
-        {
-          "id": 8689170,
-          "label": "1A4030300003201000001357",
-          "quantity": 2.0,
-          "packagedDate": "2026-07-07",
-          "expirationDate": null
         }
       ]
     },
     {
       "id": 8689166,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "LORE 1g Vape - Super Lemon Haze",
       "brand": "LORE",
       "category": "Vape",
@@ -51226,7 +50686,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -51262,28 +50722,20 @@
           "quantity": 12.0,
           "packagedDate": "2026-07-07",
           "expirationDate": null
-        },
-        {
-          "id": 8689171,
-          "label": "1A4030300003201000001358",
-          "quantity": 2.0,
-          "packagedDate": "2026-07-07",
-          "expirationDate": null
         }
       ]
     },
     {
       "id": 8689167,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "LORE 1g Vape - Watermelon Burst",
       "brand": "LORE",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 17.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Watermelon Burst",
       "strainType": null,
@@ -51315,13 +50767,6 @@
           "id": 8689167,
           "label": "1A4030300003201000001354",
           "quantity": 15.0,
-          "packagedDate": "2026-07-07",
-          "expirationDate": null
-        },
-        {
-          "id": 8689172,
-          "label": "1A4030300003201000001359",
-          "quantity": 2.0,
           "packagedDate": "2026-07-07",
           "expirationDate": null
         }
@@ -53999,58 +53444,6 @@
           "label": "1A403030000012D000259345",
           "quantity": 7.0,
           "packagedDate": "2026-08-06",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8550501,
-      "packageCount": 1,
-      "name": "Mfused LOUD Super Fog Jefe Plus- Golden Glove Disposable-Vape Cart-2g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 7.0,
-      "unit": "Each",
-      "strainName": "Mfused LOUD Super Fog Jefe Golden Glove",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 73.47,
-        "CBC": 1.22,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.12,
-        "CBGA": 0.0,
-        "CBN": 0.38,
-        "THCA": 2.9,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.28,
-        "humulene": 0.53,
-        "myrcene": 1.59,
-        "alpha-pinene": 1.22,
-        "caryophyllene": 1.67,
-        "eudesmol": 0.23,
-        "beta-pinene": 0.25,
-        "ocimene": 0.27,
-        "limonene": 1.88,
-        "linalool": 0.72,
-        "terpinolene": 0.19
-      },
-      "totalTerps": 9.73,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8550501,
-          "label": "1A403030000012D000236489",
-          "quantity": 7.0,
-          "packagedDate": "2026-06-04",
           "expirationDate": null
         }
       ]
@@ -59299,7 +58692,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Super Sour Peach DV",
       "strainType": null,
@@ -59334,7 +58727,7 @@
         {
           "id": 8890380,
           "label": "1A40303000001F5000420187",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-03-26"
         }
