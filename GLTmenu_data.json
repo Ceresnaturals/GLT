@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T19:40:28.004569+00:00",
+  "generated_at": "2026-08-28T19:50:26.005766+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -25549,7 +25549,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 168.0,
+      "quantity": 164.5,
       "unit": "Grams",
       "strainName": "41 CHERRY CHOCOLATE WIDOW",
       "strainType": null,
@@ -25584,7 +25584,7 @@
         {
           "id": 8858125,
           "label": "1A40303000039D1000091576",
-          "quantity": 168.0,
+          "quantity": 164.5,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -31899,7 +31899,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Patapeake Shortbread x Isolate",
       "strainType": null,
@@ -31932,7 +31932,7 @@
         {
           "id": 8886214,
           "label": "1A4030300000C83000085454",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-08-11"
         }
@@ -31996,7 +31996,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "Apollo 22",
       "strainType": null,
@@ -32031,7 +32031,7 @@
         {
           "id": 8725273,
           "label": "1A4030300000709000035847",
-          "quantity": 25.0,
+          "quantity": 20.0,
           "packagedDate": "2026-07-14",
           "expirationDate": null
         }
@@ -37167,55 +37167,6 @@
           "label": "1A40303000001F5000408133",
           "quantity": 5.6,
           "packagedDate": "2026-07-23",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8849579,
-      "packageCount": 1,
-      "name": "Super Lemon Haze 5g Shake/Trim",
-      "brand": null,
-      "category": "Shake/Trim",
-      "metrcCategory": "Shake/Trim (by strain)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 20.0,
-      "unit": "Grams",
-      "strainName": "Super Lemon Haze",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 19.88,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.24,
-        "CBN": 0.0,
-        "THCA": 22.15,
-        "THCV": 0.17
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.1,
-        "myrcene": 0.41,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.33,
-        "beta-pinene": 0.07,
-        "ocimene": 0.55,
-        "limonene": 0.06,
-        "terpinolene": 0.7
-      },
-      "totalTerps": 2.3,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8849579,
-          "label": "1A40303000040D9000005597",
-          "quantity": 20.0,
-          "packagedDate": "2026-08-11",
           "expirationDate": null
         }
       ]
@@ -49114,57 +49065,6 @@
           "quantity": 27.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-05-19"
-        }
-      ]
-    },
-    {
-      "id": 8842349,
-      "packageCount": 1,
-      "name": "LORE 1g Cart - Blackberry Gelato",
-      "brand": "LORE",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Vault"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Blackberry Gelato",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 77.43,
-        "CBC": 0.64,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.6,
-        "CBGA": 0.0,
-        "CBN": 1.73,
-        "THCA": 0.0,
-        "THCV": 0.84
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.21,
-        "humulene": 0.17,
-        "myrcene": 0.57,
-        "alpha-pinene": 0.28,
-        "caryophyllene": 1.21,
-        "beta-pinene": 0.27,
-        "ocimene": 0.09,
-        "limonene": 1.44,
-        "linalool": 0.41,
-        "terpinolene": 0.31
-      },
-      "totalTerps": 5.34,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8842349,
-          "label": "1A4030300003201000001523",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-10",
-          "expirationDate": null
         }
       ]
     },
