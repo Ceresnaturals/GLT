@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T23:00:26.224293+00:00",
+  "generated_at": "2026-08-28T23:10:27.826286+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2279,7 +2279,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Chili Con Gelato OD",
       "strainType": null,
@@ -2315,7 +2315,7 @@
         {
           "id": 8091561,
           "label": "1A403030000070A000031930",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-02-17",
           "expirationDate": "2027-01-03"
         }
@@ -15400,7 +15400,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15441,7 +15441,7 @@
         {
           "id": 8814670,
           "label": "1A4030300000C83000080557",
-          "quantity": 21.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-04",
           "expirationDate": "2027-05-14"
         }
@@ -17566,7 +17566,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17605,7 +17605,7 @@
         {
           "id": 8870788,
           "label": "1A40303000017D5000103606",
-          "quantity": 22.0,
+          "quantity": 20.0,
           "packagedDate": "2026-06-30",
           "expirationDate": "2027-06-30"
         }
@@ -17621,7 +17621,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17660,7 +17660,7 @@
         {
           "id": 8870924,
           "label": "1A40303000017D5000103607",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-07-10",
           "expirationDate": "2027-07-10"
         }
@@ -25424,7 +25424,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "Afternoon Delight #4",
       "strainType": "Hybrid",
@@ -25460,7 +25460,7 @@
         {
           "id": 8891526,
           "label": "1A40303000003EA000205085",
-          "quantity": 38.5,
+          "quantity": 31.5,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-08-04"
         }
@@ -25673,7 +25673,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "Black Afghan",
       "strainType": "Indica",
@@ -25707,7 +25707,7 @@
         {
           "id": 8826360,
           "label": "1A40303000003EA000195252",
-          "quantity": 35.0,
+          "quantity": 31.5,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-01"
         }
@@ -26462,7 +26462,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "GMO",
       "strainType": "Indica",
@@ -26495,7 +26495,7 @@
         {
           "id": 8854451,
           "label": "1A40303000003EA000202541",
-          "quantity": 38.5,
+          "quantity": 28.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-07-17"
         }
@@ -29608,7 +29608,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 80.5,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -29642,7 +29642,7 @@
         {
           "id": 8919168,
           "label": "1A40303000001F5000423328",
-          "quantity": 80.5,
+          "quantity": 70.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -36298,7 +36298,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 50.0,
+      "quantity": 49.0,
       "unit": "Grams",
       "strainName": "Purple Punch TC",
       "strainType": null,
@@ -36330,7 +36330,7 @@
         {
           "id": 8919171,
           "label": "1A40303000001F5000423329",
-          "quantity": 50.0,
+          "quantity": 49.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -37117,55 +37117,6 @@
           "label": "1A40303000000CB000050201",
           "quantity": 2.0,
           "packagedDate": "2026-08-19",
-          "expirationDate": "2027-07-14"
-        }
-      ]
-    },
-    {
-      "id": 8854309,
-      "packageCount": 1,
-      "name": "Thai-Ger King PRJx2 (Two 0.5g Joints) 1.0g",
-      "brand": null,
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Grams",
-      "strainName": "Thai-Ger King",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 25.14,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.47,
-        "CBN": 0.0,
-        "THCA": 28.25,
-        "THCV": 0.24
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.08,
-        "myrcene": 1.38,
-        "alpha-pinene": 0.02,
-        "caryophyllene": 0.21,
-        "beta-pinene": 0.03,
-        "ocimene": 0.08,
-        "limonene": 0.19,
-        "linalool": 0.11
-      },
-      "totalTerps": 2.12,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8854309,
-          "label": "1A40303000000CB000049636",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-12",
           "expirationDate": "2027-07-14"
         }
       ]
