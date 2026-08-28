@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T22:20:25.373045+00:00",
+  "generated_at": "2026-08-28T22:30:24.702777+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8046,7 +8046,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Reserve Dynamite Stix",
       "strainType": null,
@@ -8079,7 +8079,7 @@
         {
           "id": 8080970,
           "label": "1A40303000017D5000078268",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-01-19",
           "expirationDate": "2027-01-19"
         }
@@ -13084,7 +13084,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13125,7 +13125,7 @@
         {
           "id": 8801743,
           "label": "1A4030300000579000043670",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-07-30",
           "expirationDate": null
         }
@@ -19183,7 +19183,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -19222,7 +19222,7 @@
         {
           "id": 8678447,
           "label": "1A4030300002009000107924",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-04-20"
         }
@@ -25424,7 +25424,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 49.0,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Afternoon Delight #4",
       "strainType": "Hybrid",
@@ -25460,7 +25460,7 @@
         {
           "id": 8891526,
           "label": "1A40303000003EA000205085",
-          "quantity": 49.0,
+          "quantity": 42.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-08-04"
         }
@@ -25812,7 +25812,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 49.0,
+      "quantity": 45.5,
       "unit": "Grams",
       "strainName": "MICA",
       "strainType": null,
@@ -25845,7 +25845,7 @@
         {
           "id": 8895514,
           "label": "1A40303000000CD000075420",
-          "quantity": 49.0,
+          "quantity": 45.5,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -25861,7 +25861,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "SCSO",
       "strainType": null,
@@ -25895,7 +25895,7 @@
         {
           "id": 8895433,
           "label": "1A40303000000CD000075419",
-          "quantity": 35.0,
+          "quantity": 28.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -26361,7 +26361,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "E85 Candi",
       "strainType": null,
@@ -26396,7 +26396,7 @@
         {
           "id": 8725845,
           "label": "1A4030300004845000032773",
-          "quantity": 38.5,
+          "quantity": 35.0,
           "packagedDate": "2026-06-03",
           "expirationDate": null
         }
@@ -27492,57 +27492,6 @@
       ]
     },
     {
-      "id": 8890134,
-      "packageCount": 1,
-      "name": "Kind Tree | Flower | Reserve Buds | White Iverson - Usable - 3.5g",
-      "brand": "Kind Tree",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "White Iverson",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 32.3,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.57,
-        "CBN": 0.0,
-        "THCA": 36.05,
-        "THCV": 0.2
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.09,
-        "humulene": 0.24,
-        "myrcene": 0.55,
-        "alpha-pinene": 2.01,
-        "caryophyllene": 0.77,
-        "beta-pinene": 0.46,
-        "ocimene": 0.31,
-        "limonene": 0.78,
-        "linalool": 0.33,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 5.8,
-      "dominantTerpene": "alpha-pinene",
-      "packages": [
-        {
-          "id": 8890134,
-          "label": "1A403030000025B000084351",
-          "quantity": 3.5,
-          "packagedDate": "2026-07-17",
-          "expirationDate": "2027-07-08"
-        }
-      ]
-    },
-    {
       "id": 8890222,
       "packageCount": 1,
       "name": "Legend | Flower | Buds | Jelly Donut x GMO - Usable - 28g",
@@ -27552,7 +27501,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 364.0,
+      "quantity": 336.0,
       "unit": "Grams",
       "strainName": "Jelly Donut x GMO",
       "strainType": null,
@@ -27585,7 +27534,7 @@
         {
           "id": 8890222,
           "label": "1A403030000025B000084391",
-          "quantity": 364.0,
+          "quantity": 336.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-08-12"
         }
@@ -28734,7 +28683,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 70.0,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Guava IX",
       "strainType": null,
@@ -28768,7 +28717,7 @@
         {
           "id": 8882185,
           "label": "1A4030300003521000056051",
-          "quantity": 70.0,
+          "quantity": 56.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-05"
         }
@@ -35323,7 +35272,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 24.5,
       "unit": "Grams",
       "strainName": "Grapefruitz",
       "strainType": null,
@@ -35357,7 +35306,7 @@
         {
           "id": 8884209,
           "label": "1A40303000000CB000050197",
-          "quantity": 28.0,
+          "quantity": 24.5,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-07-10"
         }
