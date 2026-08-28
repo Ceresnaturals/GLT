@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:11:32.818106+00:00",
+  "generated_at": "2026-08-28T16:20:32.866792+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4590,7 +4590,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Lemon Funk",
       "strainType": null,
@@ -4625,7 +4625,7 @@
         {
           "id": 8785081,
           "label": "ABC0303000037DD000024830",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-06-29"
         }
@@ -4678,6 +4678,57 @@
           "quantity": 28.0,
           "packagedDate": "2026-05-26",
           "expirationDate": "2027-03-12"
+        }
+      ]
+    },
+    {
+      "id": 8443325,
+      "packageCount": 1,
+      "name": "Live Badder: Blue Sherb -1g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 28.0,
+      "unit": "Each",
+      "strainName": "Blue Sherb",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 74.26,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.23,
+        "CBN": 0.0,
+        "THCA": 84.67,
+        "THCV": 0.39
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.44,
+        "myrcene": 4.1,
+        "alpha-pinene": 0.29,
+        "caryophyllene": 1.93,
+        "beta-pinene": 0.39,
+        "caryophyllene-oxide": 0.25,
+        "ocimene": 0.4,
+        "limonene": 3.45,
+        "linalool": 0.72,
+        "terpinolene": 0.6
+      },
+      "totalTerps": 13.54,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8443325,
+          "label": "1A4030300003D55000005792",
+          "quantity": 28.0,
+          "packagedDate": "2026-05-11",
+          "expirationDate": "2026-12-19"
         }
       ]
     },
@@ -17436,61 +17487,6 @@
       ]
     },
     {
-      "id": 8902252,
-      "packageCount": 1,
-      "name": "Encore Gummies - Pineapple Raspberry - Edible Product - 10mg - 10pc*",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 24.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.297,
-        "CBC": 0.003,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.012,
-        "CBGA": 0.0,
-        "CBN": 0.004,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.105,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.42,
-          "CBGA": 0.0,
-          "CBN": 0.14,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8902252,
-          "label": "1A40303000017D5000104294",
-          "quantity": 24.0,
-          "packagedDate": "2026-07-20",
-          "expirationDate": "2027-07-20"
-        }
-      ]
-    },
-    {
       "id": 8870785,
       "packageCount": 2,
       "name": "Encore Gummies - Pomegranate Punch 1:2 CBN:THC - Edible Product - 10mg - 10pc*",
@@ -23481,7 +23477,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23522,7 +23518,7 @@
         {
           "id": 8857836,
           "label": "1A403030000390D000066138",
-          "quantity": 15.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-08-02"
         }
@@ -26618,7 +26614,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.5,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Gelato 33",
       "strainType": null,
@@ -26652,7 +26648,7 @@
         {
           "id": 8828388,
           "label": "1A4030300003521000054643",
-          "quantity": 10.5,
+          "quantity": 7.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-25"
         }
@@ -26717,7 +26713,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Orange Chemeleon",
       "strainType": null,
@@ -26752,7 +26748,7 @@
         {
           "id": 8882272,
           "label": "1A4030300003521000056048",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-05-31"
         }
@@ -26906,55 +26902,6 @@
           "quantity": 70.0,
           "packagedDate": "2026-06-22",
           "expirationDate": "2027-05-31"
-        }
-      ]
-    },
-    {
-      "id": 8483523,
-      "packageCount": 1,
-      "name": "Khalifa Mints Flower 3.5g",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 49.0,
-      "unit": "Grams",
-      "strainName": "Khalifa Mints",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 25.03,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.66,
-        "CBN": 0.0,
-        "THCA": 27.39,
-        "THCV": 0.05
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.1,
-        "myrcene": 0.05,
-        "alpha-pinene": 0.12,
-        "caryophyllene": 0.34,
-        "beta-pinene": 0.12,
-        "limonene": 1.0,
-        "linalool": 0.43
-      },
-      "totalTerps": 2.45,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8483523,
-          "label": "1A40303000000C9000157042",
-          "quantity": 49.0,
-          "packagedDate": "2026-05-20",
-          "expirationDate": "2027-05-10"
         }
       ]
     },
@@ -28336,6 +28283,57 @@
       ]
     },
     {
+      "id": 8438416,
+      "packageCount": 1,
+      "name": "Maryland Herb Co Packaged Flower - 3.5g - Lava Lamp",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.5,
+      "unit": "Grams",
+      "strainName": "Lava Lamp",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 18.53,
+        "totalCBD": 0.05,
+        "CBC": 0.0,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.06,
+        "CBGA": 0.89,
+        "CBN": 0.0,
+        "THCA": 20.7,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.22,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.63,
+        "beta-pinene": 0.06,
+        "ocimene": 0.06,
+        "limonene": 0.31,
+        "linalool": 0.14
+      },
+      "totalTerps": 1.73,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8438416,
+          "label": "1A4030300000709000049897",
+          "quantity": 24.5,
+          "packagedDate": "2026-05-11",
+          "expirationDate": "2027-04-03"
+        }
+      ]
+    },
+    {
       "id": 8208833,
       "packageCount": 1,
       "name": "Melonade Flower 3.5g",
@@ -29124,7 +29122,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 17.5,
       "unit": "Grams",
       "strainName": "RS11 x Skywalker OG",
       "strainType": null,
@@ -29158,7 +29156,7 @@
         {
           "id": 8789889,
           "label": "1A40303000040D9000005463",
-          "quantity": 21.0,
+          "quantity": 17.5,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-07-28"
         }
@@ -30011,7 +30009,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.5,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Sunshine #4",
       "strainType": null,
@@ -30043,7 +30041,7 @@
         {
           "id": 8890368,
           "label": "1A40303000001F5000420173",
-          "quantity": 31.5,
+          "quantity": 28.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -57006,6 +57004,56 @@
           "quantity": 9.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-05-02"
+        }
+      ]
+    },
+    {
+      "id": 8858442,
+      "packageCount": 1,
+      "name": "Super Lemon Haze - Spirits Distillate Cart - 1g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 30.0,
+      "unit": "Each",
+      "strainName": "Super Lemon Haze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.2,
+        "CBC": 0.63,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.46,
+        "CBGA": 0.0,
+        "CBN": 0.36,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.38,
+        "myrcene": 0.43,
+        "alpha-pinene": 0.44,
+        "caryophyllene": 1.03,
+        "eudesmol": 0.31,
+        "beta-pinene": 0.38,
+        "limonene": 0.27,
+        "linalool": 0.22,
+        "terpinolene": 1.48
+      },
+      "totalTerps": 5.99,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8858442,
+          "label": "1A40303000039D1000091583",
+          "quantity": 30.0,
+          "packagedDate": "2026-08-13",
+          "expirationDate": "2027-05-18"
         }
       ]
     },
