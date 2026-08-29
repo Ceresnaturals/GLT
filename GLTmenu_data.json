@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T15:40:26.991757+00:00",
+  "generated_at": "2026-08-29T15:50:27.374558+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2431,7 +2431,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Happy er J Gumi x House Blends",
       "strainType": null,
@@ -2464,7 +2464,7 @@
         {
           "id": 8884045,
           "label": "1A4030300000C83000085453",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-05-27"
         }
@@ -2980,46 +2980,56 @@
       ]
     },
     {
-      "id": 8420323,
-      "packageCount": 1,
+      "id": 8758172,
+      "packageCount": 2,
       "name": "Fade Co | Concentrate | Live Badder | Golden Lemons - Concentrate - 1g",
       "brand": "Fade Co",
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": "Golden Lemons",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 76.59,
-        "totalCBD": 0.11,
+        "totalTHC": 71.01,
+        "totalCBD": 0.15,
         "CBC": 0.0,
-        "CBDA": 0.13,
+        "CBDA": 0.17,
         "CBDV": 0.0,
-        "CBG": 0.56,
-        "CBGA": 2.48,
+        "CBG": 0.54,
+        "CBGA": 2.52,
         "CBN": 0.0,
-        "THCA": 86.12,
-        "THCV": 0.51
+        "THCA": 80.14,
+        "THCV": 0.48
       },
       "dose": null,
       "terpenes": {
-        "humulene": 0.23,
-        "myrcene": 1.13,
-        "alpha-pinene": 0.6,
-        "caryophyllene": 0.73,
-        "beta-pinene": 0.09,
-        "limonene": 0.43,
-        "linalool": 0.14,
-        "terpinolene": 0.03
+        "humulene": 0.42,
+        "myrcene": 2.4,
+        "alpha-pinene": 1.56,
+        "caryophyllene": 1.25,
+        "beta-pinene": 0.47,
+        "ocimene": 0.06,
+        "limonene": 1.56,
+        "linalool": 0.65,
+        "terpinolene": 0.22,
+        "nerolidol": 0.02
       },
-      "totalTerps": 3.65,
+      "totalTerps": 9.25,
       "dominantTerpene": "myrcene",
       "packages": [
+        {
+          "id": 8758172,
+          "label": "1A4030300004845000034911",
+          "quantity": 20.0,
+          "packagedDate": "2026-06-26",
+          "expirationDate": null
+        },
         {
           "id": 8420323,
           "label": "1A4030300004845000021353",
@@ -17759,6 +17769,61 @@
       ]
     },
     {
+      "id": 8870785,
+      "packageCount": 1,
+      "name": "Encore Gummies - Pomegranate Punch 1:2 CBN:THC - Edible Product - 10mg - 10pc*",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.259,
+        "CBC": 0.003,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.019,
+        "CBGA": 0.0,
+        "CBN": 0.143,
+        "THCA": 0.0,
+        "THCV": 0.007
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.105,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.665,
+          "CBGA": 0.0,
+          "CBN": 5.005,
+          "THCA": 0.0,
+          "THCV": 0.245
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8870785,
+          "label": "1A40303000017D5000103605",
+          "quantity": 24.0,
+          "packagedDate": "2026-06-26",
+          "expirationDate": "2027-06-26"
+        }
+      ]
+    },
+    {
       "id": 8902326,
       "packageCount": 1,
       "name": "Encore Gummies - Strawberry - Edible Product - 10mg - 10pc*",
@@ -18385,7 +18450,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18426,7 +18491,7 @@
         {
           "id": 8838282,
           "label": "1A40303000017D5000103036",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-06-16",
           "expirationDate": "2027-06-16"
         }
@@ -18499,7 +18564,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18540,7 +18605,7 @@
         {
           "id": 8490545,
           "label": "1A4030300002009000102653",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-05-21",
           "expirationDate": "2027-03-06"
         }
@@ -18778,7 +18843,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18819,7 +18884,7 @@
         {
           "id": 8606612,
           "label": "1A4030300002009000105189",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-06-17",
           "expirationDate": "2027-04-08"
         }
@@ -19617,7 +19682,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19658,7 +19723,7 @@
         {
           "id": 8766856,
           "label": "1A4030300003522000207397",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-17"
         }
@@ -20079,7 +20144,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20120,7 +20185,7 @@
         {
           "id": 8882346,
           "label": "1A4030300003522000202262",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-17"
         }
@@ -20533,7 +20598,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20574,7 +20639,7 @@
         {
           "id": 8891360,
           "label": "1A40303000003EA000205082",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-30"
         }
@@ -20761,7 +20826,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20802,7 +20867,7 @@
         {
           "id": 8891520,
           "label": "1A40303000003EA000205080",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-05-18"
         }
@@ -26438,7 +26503,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 136.5,
+      "quantity": 133.0,
       "unit": "Grams",
       "strainName": "Garlic Breath",
       "strainType": null,
@@ -26472,7 +26537,7 @@
         {
           "id": 8768959,
           "label": "1A40303000000C9000164871",
-          "quantity": 136.5,
+          "quantity": 133.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-07-19"
         }
@@ -32817,56 +32882,6 @@
       ]
     },
     {
-      "id": 8884048,
-      "packageCount": 1,
-      "name": "Deadband 12 PRJx2 (Two 0.5g Joints) 1g",
-      "brand": null,
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Grams",
-      "strainName": "Deadband x GC5 #12",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 32.84,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.42,
-        "CBN": 0.0,
-        "THCA": 36.39,
-        "THCV": 0.15
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.15,
-        "myrcene": 1.57,
-        "alpha-pinene": 0.02,
-        "caryophyllene": 0.45,
-        "beta-pinene": 0.04,
-        "ocimene": 0.07,
-        "limonene": 0.3,
-        "linalool": 0.14
-      },
-      "totalTerps": 2.83,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8884048,
-          "label": "1A40303000000CB000050196",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-19",
-          "expirationDate": "2027-07-21"
-        }
-      ]
-    },
-    {
       "id": 8858439,
       "packageCount": 1,
       "name": "Dogwalker | Georgies | 1g",
@@ -32978,7 +32993,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 39.0,
+      "quantity": 36.0,
       "unit": "Grams",
       "strainName": "Boston Runtz",
       "strainType": null,
@@ -33013,7 +33028,7 @@
         {
           "id": 8297058,
           "label": "1A4030300004845000014998",
-          "quantity": 39.0,
+          "quantity": 36.0,
           "packagedDate": "2026-03-10",
           "expirationDate": null
         }
@@ -35099,7 +35114,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Mango Dragon Juicy Stickz",
       "strainType": null,
@@ -35134,7 +35149,7 @@
         {
           "id": 8820792,
           "label": "1A403030000012E000181576",
-          "quantity": 7.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-04-27"
         }
@@ -35199,7 +35214,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 17.5,
       "unit": "Grams",
       "strainName": "Grapefruitz",
       "strainType": null,
@@ -35233,7 +35248,7 @@
         {
           "id": 8884209,
           "label": "1A40303000000CB000050197",
-          "quantity": 21.0,
+          "quantity": 17.5,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-07-10"
         }
@@ -36812,7 +36827,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Strawberry Haze Juicy Stickz",
       "strainType": null,
@@ -36846,7 +36861,7 @@
         {
           "id": 8756281,
           "label": "1A403030000012E000176870",
-          "quantity": 9.0,
+          "quantity": 6.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-03-18"
         }
@@ -36960,7 +36975,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Grams",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -36993,7 +37008,7 @@
         {
           "id": 8884050,
           "label": "1A40303000000CB000050200",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-07-14"
         }
@@ -37831,7 +37846,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -37877,7 +37892,7 @@
         {
           "id": 8707442,
           "label": "1A403030000012D000254647",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-07-09",
           "expirationDate": null
         }
@@ -50536,7 +50551,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Liquid",
       "strainType": null,
@@ -50570,7 +50585,7 @@
         {
           "id": 8578985,
           "label": "1A4030300003D55000006177",
-          "quantity": 13.0,
+          "quantity": 11.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-02-21"
         }
@@ -50586,7 +50601,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 34.0,
+      "quantity": 32.0,
       "unit": "Each",
       "strainName": "Black Cherry Soda",
       "strainType": null,
@@ -50620,7 +50635,7 @@
         {
           "id": 8583239,
           "label": "1A4030300003D55000006209",
-          "quantity": 34.0,
+          "quantity": 32.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-02-21"
         }
@@ -50686,7 +50701,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 40.0,
+      "quantity": 38.0,
       "unit": "Each",
       "strainName": "Cherry Cough",
       "strainType": null,
@@ -50720,7 +50735,7 @@
         {
           "id": 8716505,
           "label": "1A4030300003D55000006535",
-          "quantity": 40.0,
+          "quantity": 38.0,
           "packagedDate": "2026-07-13",
           "expirationDate": "2027-03-28"
         }
@@ -50836,7 +50851,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Cookies n Chem",
       "strainType": null,
@@ -50870,7 +50885,7 @@
         {
           "id": 8294399,
           "label": "1A4030300003D55000005248",
-          "quantity": 15.0,
+          "quantity": 13.0,
           "packagedDate": "2026-04-07",
           "expirationDate": "2026-12-20"
         }
@@ -50886,7 +50901,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.0,
+      "quantity": 36.0,
       "unit": "Each",
       "strainName": "Liquid",
       "strainType": null,
@@ -50920,7 +50935,7 @@
         {
           "id": 8582090,
           "label": "1A4030300003D55000006198",
-          "quantity": 38.0,
+          "quantity": 36.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-02-21"
         }
@@ -50994,7 +51009,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 39.0,
+      "quantity": 37.0,
       "unit": "Each",
       "strainName": "Hawaiian Gold",
       "strainType": null,
@@ -51027,7 +51042,7 @@
         {
           "id": 8712355,
           "label": "1A4030300003D55000006509",
-          "quantity": 39.0,
+          "quantity": 37.0,
           "packagedDate": "2026-07-10",
           "expirationDate": "2027-02-15"
         }
@@ -52074,7 +52089,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 26.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Durban Poison",
       "strainType": null,
@@ -52108,7 +52123,7 @@
         {
           "id": 8885893,
           "label": "1A403030000283D000057727",
-          "quantity": 26.0,
+          "quantity": 24.0,
           "packagedDate": "2026-08-19",
           "expirationDate": null
         }
@@ -52124,7 +52139,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Northern Lights",
       "strainType": null,
@@ -52159,7 +52174,7 @@
         {
           "id": 8796285,
           "label": "1A403030000283D000054606",
-          "quantity": 3.0,
+          "quantity": 1.0,
           "packagedDate": "2026-07-29",
           "expirationDate": null
         }
