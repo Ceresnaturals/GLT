@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T16:50:25.731417+00:00",
+  "generated_at": "2026-08-29T17:00:27.855481+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1583,7 +1583,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Diesel",
       "strainType": null,
@@ -1616,7 +1616,7 @@
         {
           "id": 8690397,
           "label": "1A403030000283D000052774",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-06-05"
         }
@@ -2078,7 +2078,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Blvck Gelatti",
       "strainType": null,
@@ -2112,7 +2112,7 @@
         {
           "id": 8730498,
           "label": "ABC0303000037DD000024550",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2026-11-03"
         }
@@ -2380,7 +2380,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Compound Z Preground",
       "strainType": null,
@@ -2415,7 +2415,7 @@
         {
           "id": 8873563,
           "label": "1A403030000012E000183587",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-06-26"
         }
@@ -3441,6 +3441,58 @@
           "quantity": 15.0,
           "packagedDate": "2026-06-08",
           "expirationDate": "2027-04-09"
+        }
+      ]
+    },
+    {
+      "id": 8765366,
+      "packageCount": 1,
+      "name": "Golden Pineapple Live Resin Batter 2.0g/2000mg",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 8.0,
+      "unit": "Each",
+      "strainName": "Golden Pineapple",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 67.43,
+        "totalCBD": 0.11,
+        "CBC": 0.0,
+        "CBDA": 0.12,
+        "CBDV": 0.0,
+        "CBG": 0.12,
+        "CBGA": 4.62,
+        "CBN": 0.0,
+        "THCA": 76.03,
+        "THCV": 4.54
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.06,
+        "myrcene": 1.81,
+        "alpha-pinene": 0.38,
+        "caryophyllene": 0.18,
+        "eudesmol": 0.02,
+        "beta-pinene": 0.05,
+        "ocimene": 1.06,
+        "limonene": 0.88,
+        "linalool": 0.04,
+        "terpinolene": 3.97
+      },
+      "totalTerps": 9.96,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8765366,
+          "label": "1A40303000001F5000408130",
+          "quantity": 8.0,
+          "packagedDate": "2026-07-23",
+          "expirationDate": "2027-06-01"
         }
       ]
     },
@@ -8792,6 +8844,49 @@
           "quantity": 10.0,
           "packagedDate": "2026-05-14",
           "expirationDate": "2027-05-14"
+        }
+      ]
+    },
+    {
+      "id": 8765230,
+      "packageCount": 1,
+      "name": "THCa 1.0g/1000mg",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.66,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.04,
+        "CBGA": 0.19,
+        "CBN": 0.0,
+        "THCA": 98.59,
+        "THCV": 0.62
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.02
+      },
+      "totalTerps": 0.02,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8765230,
+          "label": "1A40303000001F5000408131",
+          "quantity": 5.0,
+          "packagedDate": "2026-07-23",
+          "expirationDate": "2027-02-19"
         }
       ]
     },
@@ -16336,7 +16431,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16375,7 +16470,7 @@
         {
           "id": 8864068,
           "label": "1A403030000012D000260504",
-          "quantity": 9.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -17639,7 +17734,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17678,7 +17773,7 @@
         {
           "id": 8902326,
           "label": "1A40303000017D5000104295",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-07-02"
         }
@@ -19254,7 +19349,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19295,7 +19390,7 @@
         {
           "id": 8882334,
           "label": "1A4030300003522000202260",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-05"
         }
@@ -26202,7 +26297,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.5,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Frosted Jungle",
       "strainType": null,
@@ -26236,7 +26331,7 @@
         {
           "id": 8821106,
           "label": "1A403030000012E000181557",
-          "quantity": 31.5,
+          "quantity": 28.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-07-22"
         }
@@ -35890,7 +35985,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Grams",
       "strainName": "Pineapple Bang 5",
       "strainType": null,
@@ -35923,7 +36018,7 @@
         {
           "id": 8854308,
           "label": "1A40303000000CB000049631",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-07-03"
         }
@@ -36526,7 +36621,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.0,
+      "quantity": 37.0,
       "unit": "Grams",
       "strainName": "Sour Peel",
       "strainType": null,
@@ -36559,7 +36654,7 @@
         {
           "id": 8884210,
           "label": "1A40303000000CB000050198",
-          "quantity": 38.0,
+          "quantity": 37.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-07-18"
         }
@@ -38953,7 +39048,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Black Mamba",
       "strainType": null,
@@ -38984,7 +39079,7 @@
         {
           "id": 8919179,
           "label": "1A40303000001F5000423333",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-30"
         }
@@ -55444,7 +55539,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Maui Wowie",
       "strainType": "Sativa",
@@ -55478,7 +55573,7 @@
         {
           "id": 8698040,
           "label": "1A40303000003EA000198683",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-07-08",
           "expirationDate": "2027-05-19"
         }
