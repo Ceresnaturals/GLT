@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T23:20:25.143874+00:00",
+  "generated_at": "2026-08-29T23:30:25.604090+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -13821,7 +13821,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13860,7 +13860,7 @@
         {
           "id": 8894078,
           "label": "1A403030000012D000261763",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -33337,7 +33337,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -33372,7 +33372,7 @@
         {
           "id": 8894077,
           "label": "1A403030000012D000261762",
-          "quantity": 25.0,
+          "quantity": 23.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -40132,7 +40132,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Bacio Gelato",
       "strainType": null,
@@ -40166,7 +40166,7 @@
         {
           "id": 8819285,
           "label": "1A40303000001F5000412896",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-03-12"
         }
@@ -41835,57 +41835,6 @@
       ]
     },
     {
-      "id": 8674326,
-      "packageCount": 1,
-      "name": "Bloom | Live Surf | 1g | Sativa | Durban Gelato",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Durban Gelato",
-      "strainType": "Sativa",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 80.88,
-        "totalCBD": 1.56,
-        "CBC": 0.63,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.86,
-        "CBGA": 0.0,
-        "CBN": 1.02,
-        "THCA": 0.0,
-        "THCV": 0.68
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.02,
-        "myrcene": 1.98,
-        "alpha-pinene": 0.4,
-        "caryophyllene": 0.19,
-        "beta-pinene": 0.26,
-        "ocimene": 0.38,
-        "limonene": 0.97,
-        "linalool": 0.13,
-        "terpinolene": 1.35
-      },
-      "totalTerps": 5.93,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8674326,
-          "label": "1A4030300000579000045170",
-          "quantity": 1.0,
-          "packagedDate": "2026-06-02",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8781202,
       "packageCount": 1,
       "name": "Bloom | Live Surf | 1g | Sativa | Lemon Creme",
@@ -42047,7 +41996,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Blue Hawaiian Slyde Rechargeable",
       "strainType": null,
@@ -42082,7 +42031,7 @@
         {
           "id": 8508535,
           "label": "1A4030300000C83000071958",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-05-26",
           "expirationDate": "2027-05-05"
         }
@@ -45545,52 +45494,6 @@
           "quantity": 19.0,
           "packagedDate": "2026-08-03",
           "expirationDate": "2027-07-01"
-        }
-      ]
-    },
-    {
-      "id": 8240740,
-      "packageCount": 1,
-      "name": "GPOG Distillate Slyde Rechargeable Vape Cart 1.0mL",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "GPOG Slyde Rechargeable",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 83.64,
-        "CBC": 0.44,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.02,
-        "CBGA": 0.0,
-        "CBN": 0.31,
-        "THCA": 0.0,
-        "THCV": 0.7
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.22,
-        "myrcene": 0.2,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.12,
-        "limonene": 4.59
-      },
-      "totalTerps": 5.23,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8240740,
-          "label": "1A4030300000C83000065208",
-          "quantity": 1.0,
-          "packagedDate": "2026-03-25",
-          "expirationDate": "2027-01-13"
         }
       ]
     },
