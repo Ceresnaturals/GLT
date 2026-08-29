@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T22:10:28.032287+00:00",
+  "generated_at": "2026-08-29T22:20:25.303899+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -247,7 +247,7 @@
     },
     {
       "id": 8596199,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "RSO Capsule - Capsule - 10mg - 10",
       "brand": null,
       "category": "Capsule",
@@ -255,7 +255,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -297,6 +297,13 @@
           "quantity": 10.0,
           "packagedDate": "2026-06-15",
           "expirationDate": "2027-05-05"
+        },
+        {
+          "id": 8484003,
+          "label": "1A4030300000193000095467",
+          "quantity": 13.0,
+          "packagedDate": "2026-05-20",
+          "expirationDate": "2027-04-26"
         }
       ]
     },
@@ -5245,7 +5252,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Animal Fuel",
       "strainType": null,
@@ -5278,7 +5285,7 @@
         {
           "id": 8777901,
           "label": "1A40303000017D5000101324",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-06-18",
           "expirationDate": "2027-06-18"
         }
@@ -18000,7 +18007,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18039,7 +18046,7 @@
         {
           "id": 8139544,
           "label": "1A40303000017D5000080528",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-01-20",
           "expirationDate": "2027-01-20"
         }
@@ -19399,7 +19406,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19440,7 +19447,7 @@
         {
           "id": 8828744,
           "label": "1A4030300003522000195382",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-22"
         }
@@ -29063,7 +29070,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "Red Velvet Kush",
       "strainType": null,
@@ -29096,7 +29103,7 @@
         {
           "id": 8731176,
           "label": "1A40303000001F5000404811",
-          "quantity": 35.0,
+          "quantity": 31.5,
           "packagedDate": "2026-07-15",
           "expirationDate": null
         }
@@ -29555,7 +29562,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 105.0,
+      "quantity": 101.5,
       "unit": "Grams",
       "strainName": "Blockberry",
       "strainType": null,
@@ -29587,7 +29594,7 @@
         {
           "id": 8751944,
           "label": "1A4030300002009000109421",
-          "quantity": 105.0,
+          "quantity": 101.5,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-06-26"
         }
@@ -40182,7 +40189,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Bacio Gelato",
       "strainType": null,
@@ -40216,7 +40223,7 @@
         {
           "id": 8819285,
           "label": "1A40303000001F5000412896",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-03-12"
         }
@@ -45695,56 +45702,6 @@
       ]
     },
     {
-      "id": 8755627,
-      "packageCount": 1,
-      "name": "Gelatti BD - Brik Vape Cart (Color: Black Leaf) - 2g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Black Leaf)",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 82.5,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 1.3,
-        "THCV": 0.91
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.17,
-        "myrcene": 0.91,
-        "alpha-pinene": 0.96,
-        "caryophyllene": 0.96,
-        "beta-pinene": 0.18,
-        "caryophyllene-oxide": 0.1,
-        "limonene": 3.23,
-        "linalool": 0.71,
-        "terpinolene": 0.07
-      },
-      "totalTerps": 8.05,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8755627,
-          "label": "ABC0303000037DD000024738",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-21",
-          "expirationDate": "2026-09-20"
-        }
-      ]
-    },
-    {
       "id": 8229541,
       "packageCount": 1,
       "name": "Georgia Mintz FSE - M3 Vape Cart - 1g",
@@ -47838,7 +47795,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": null,
@@ -47871,7 +47828,7 @@
         {
           "id": 8828742,
           "label": "1A4030300003522000195381",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-02-22"
         }
@@ -51148,7 +51105,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Maui Wowie",
       "strainType": null,
@@ -51182,7 +51139,7 @@
         {
           "id": 8919303,
           "label": "1A40303000001F5000423343",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-05-27"
         }
@@ -55875,7 +55832,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Strawberry Cough",
       "strainType": null,
@@ -55910,7 +55867,7 @@
         {
           "id": 8750532,
           "label": "1A40303000039D1000084245",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-05-22"
         }
