@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T20:00:34.168303+00:00",
+  "generated_at": "2026-08-30T20:10:31.233918+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1978,7 +1978,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Blue Blockers",
       "strainType": null,
@@ -2011,7 +2011,7 @@
         {
           "id": 8114004,
           "label": "ABC0303000037DD000020989",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-02-23",
           "expirationDate": "2027-02-23"
         }
@@ -3455,7 +3455,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Grapes & Cream",
       "strainType": null,
@@ -3491,7 +3491,7 @@
         {
           "id": 8890382,
           "label": "1A40303000001F5000420190",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-06-30"
         }
@@ -8334,6 +8334,57 @@
           "quantity": 13.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-05-04"
+        }
+      ]
+    },
+    {
+      "id": 8731419,
+      "packageCount": 1,
+      "name": "SDG OG - Live Resin Batter - 2.0g/2000mg",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 2.0,
+      "unit": "Each",
+      "strainName": "SDG OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 71.72,
+        "totalCBD": 0.17,
+        "CBC": 0.0,
+        "CBDA": 0.19,
+        "CBDV": 0.0,
+        "CBG": 0.51,
+        "CBGA": 1.26,
+        "CBN": 0.0,
+        "THCA": 76.05,
+        "THCV": 0.54
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 1.08,
+        "myrcene": 2.98,
+        "alpha-pinene": 0.37,
+        "caryophyllene": 2.27,
+        "beta-pinene": 0.42,
+        "limonene": 3.06,
+        "linalool": 1.32,
+        "terpinolene": 0.09
+      },
+      "totalTerps": 12.7,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8731419,
+          "label": "1A40303000001F5000404840",
+          "quantity": 2.0,
+          "packagedDate": "2026-07-15",
+          "expirationDate": "2027-05-01"
         }
       ]
     },
@@ -23579,15 +23630,16 @@
     },
     {
       "id": 8857876,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "WYLD SB Gummies - Edible Product-1mg-10",
       "brand": "WYLD",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
+        "Sales Floor",
         "Vault"
       ],
-      "quantity": 20.0,
+      "quantity": 33.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23631,6 +23683,13 @@
           "quantity": 20.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-05-01"
+        },
+        {
+          "id": 8756856,
+          "label": "1A403030000390D000065036",
+          "quantity": 13.0,
+          "packagedDate": "2026-07-21",
+          "expirationDate": "2027-06-23"
         }
       ]
     },
@@ -25974,7 +26033,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Golden Pineapple OG",
       "strainType": "Sativa",
@@ -26011,7 +26070,7 @@
         {
           "id": 8778311,
           "label": "1A40303000003EA000192816",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-07-02"
         }
@@ -28333,7 +28392,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 170.0,
+      "quantity": 160.0,
       "unit": "Grams",
       "strainName": "Permanent Marker",
       "strainType": null,
@@ -28366,7 +28425,7 @@
         {
           "id": 8858487,
           "label": "1A40303000001F5000416970",
-          "quantity": 170.0,
+          "quantity": 160.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -28723,7 +28782,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 56.0,
+      "quantity": 49.0,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -28757,7 +28816,7 @@
         {
           "id": 8919168,
           "label": "1A40303000001F5000423328",
-          "quantity": 56.0,
+          "quantity": 49.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -30536,7 +30595,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Grams",
       "strainName": "Banana Puddintain",
       "strainType": null,
@@ -30568,7 +30627,7 @@
         {
           "id": 8819344,
           "label": "1A40303000001F5000412889",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-05",
           "expirationDate": null
         }
@@ -35308,7 +35367,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -35342,7 +35401,7 @@
         {
           "id": 8858181,
           "label": "1A40303000001F5000416974",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -35506,7 +35565,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 43.0,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -35538,7 +35597,7 @@
         {
           "id": 8919175,
           "label": "1A40303000001F5000423330",
-          "quantity": 43.0,
+          "quantity": 42.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -47954,7 +48013,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Grape Ape",
       "strainType": null,
@@ -47989,7 +48048,7 @@
         {
           "id": 8842350,
           "label": "1A4030300003201000001524",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-10",
           "expirationDate": null
         }
