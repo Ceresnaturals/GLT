@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T21:40:28.571774+00:00",
+  "generated_at": "2026-08-30T21:50:28.804183+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -23582,15 +23582,16 @@
     },
     {
       "id": 8857876,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "WYLD SB Gummies - Edible Product-1mg-10",
       "brand": "WYLD",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
+        "Sales Floor",
         "Vault"
       ],
-      "quantity": 20.0,
+      "quantity": 33.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23634,6 +23635,13 @@
           "quantity": 20.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-05-01"
+        },
+        {
+          "id": 8756856,
+          "label": "1A403030000390D000065036",
+          "quantity": 13.0,
+          "packagedDate": "2026-07-21",
+          "expirationDate": "2027-06-23"
         }
       ]
     },
@@ -28436,7 +28444,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 3.5,
       "unit": "Grams",
       "strainName": "Plantz",
       "strainType": null,
@@ -28469,7 +28477,7 @@
         {
           "id": 8858486,
           "label": "1A40303000001F5000416969",
-          "quantity": 7.0,
+          "quantity": 3.5,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -32954,7 +32962,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -32989,7 +32997,7 @@
         {
           "id": 8894081,
           "label": "1A403030000012D000261766",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -50356,7 +50364,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Grandaddy Purp",
       "strainType": null,
@@ -50389,7 +50397,7 @@
         {
           "id": 8885894,
           "label": "1A403030000283D000057728",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-06-25"
         }
