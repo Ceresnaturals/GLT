@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T18:30:28.857919+00:00",
+  "generated_at": "2026-08-30T18:40:28.982787+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2929,56 +2929,46 @@
       ]
     },
     {
-      "id": 8758172,
-      "packageCount": 2,
+      "id": 8420323,
+      "packageCount": 1,
       "name": "Fade Co | Concentrate | Live Badder | Golden Lemons - Concentrate - 1g",
       "brand": "Fade Co",
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Golden Lemons",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 71.01,
-        "totalCBD": 0.15,
+        "totalTHC": 76.59,
+        "totalCBD": 0.11,
         "CBC": 0.0,
-        "CBDA": 0.17,
+        "CBDA": 0.13,
         "CBDV": 0.0,
-        "CBG": 0.54,
-        "CBGA": 2.52,
+        "CBG": 0.56,
+        "CBGA": 2.48,
         "CBN": 0.0,
-        "THCA": 80.14,
-        "THCV": 0.48
+        "THCA": 86.12,
+        "THCV": 0.51
       },
       "dose": null,
       "terpenes": {
-        "humulene": 0.42,
-        "myrcene": 2.4,
-        "alpha-pinene": 1.56,
-        "caryophyllene": 1.25,
-        "beta-pinene": 0.47,
-        "ocimene": 0.06,
-        "limonene": 1.56,
-        "linalool": 0.65,
-        "terpinolene": 0.22,
-        "nerolidol": 0.02
+        "humulene": 0.23,
+        "myrcene": 1.13,
+        "alpha-pinene": 0.6,
+        "caryophyllene": 0.73,
+        "beta-pinene": 0.09,
+        "limonene": 0.43,
+        "linalool": 0.14,
+        "terpinolene": 0.03
       },
-      "totalTerps": 9.25,
+      "totalTerps": 3.65,
       "dominantTerpene": "myrcene",
       "packages": [
-        {
-          "id": 8758172,
-          "label": "1A4030300004845000034911",
-          "quantity": 20.0,
-          "packagedDate": "2026-06-26",
-          "expirationDate": null
-        },
         {
           "id": 8420323,
           "label": "1A4030300004845000021353",
@@ -17286,7 +17276,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17325,64 +17315,9 @@
         {
           "id": 8902252,
           "label": "1A40303000017D5000104294",
-          "quantity": 24.0,
+          "quantity": 21.0,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-07-20"
-        }
-      ]
-    },
-    {
-      "id": 8870785,
-      "packageCount": 1,
-      "name": "Encore Gummies - Pomegranate Punch 1:2 CBN:THC - Edible Product - 10mg - 10pc*",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Vault"
-      ],
-      "quantity": 20.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.259,
-        "CBC": 0.003,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.019,
-        "CBGA": 0.0,
-        "CBN": 0.143,
-        "THCA": 0.0,
-        "THCV": 0.007
-      },
-      "dose": {
-        "servingSize": "1 Piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.105,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.665,
-          "CBGA": 0.0,
-          "CBN": 5.005,
-          "THCA": 0.0,
-          "THCV": 0.245
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8870785,
-          "label": "1A40303000017D5000103605",
-          "quantity": 20.0,
-          "packagedDate": "2026-06-26",
-          "expirationDate": "2027-06-26"
         }
       ]
     },
@@ -24800,7 +24735,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Afternoon Delight #4",
       "strainType": "Hybrid",
@@ -24836,7 +24771,7 @@
         {
           "id": 8891526,
           "label": "1A40303000003EA000205085",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-08-04"
         }
@@ -25686,7 +25621,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "E85 Candi",
       "strainType": null,
@@ -25721,7 +25656,7 @@
         {
           "id": 8725845,
           "label": "1A4030300004845000032773",
-          "quantity": 24.5,
+          "quantity": 21.0,
           "packagedDate": "2026-06-03",
           "expirationDate": null
         }
@@ -38999,7 +38934,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "SDG OG LLR",
       "strainType": null,
@@ -39035,7 +38970,7 @@
         {
           "id": 8609606,
           "label": "1A40303000001F5000393055",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-06-17",
           "expirationDate": "2026-10-02"
         }
@@ -42411,7 +42346,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Clementine",
       "strainType": null,
@@ -42445,7 +42380,7 @@
         {
           "id": 8873572,
           "label": "1A403030000012E000183583",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-07-17"
         }
