@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T20:20:25.130180+00:00",
+  "generated_at": "2026-08-31T20:30:26.022619+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3608,7 +3608,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Ice Cream Cake Cold",
       "strainType": null,
@@ -3641,7 +3641,7 @@
         {
           "id": 8854302,
           "label": "1A4030300000C83000079933",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-08-04"
         }
@@ -25090,7 +25090,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 133.0,
+      "quantity": 129.5,
       "unit": "Grams",
       "strainName": "41 CHERRY CHOCOLATE WIDOW",
       "strainType": null,
@@ -25125,7 +25125,7 @@
         {
           "id": 8858125,
           "label": "1A40303000039D1000091576",
-          "quantity": 133.0,
+          "quantity": 129.5,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -28390,7 +28390,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 140.0,
+      "quantity": 136.5,
       "unit": "Grams",
       "strainName": "Rainbow Walker",
       "strainType": null,
@@ -28423,7 +28423,7 @@
         {
           "id": 8849580,
           "label": "1A40303000040D9000005598",
-          "quantity": 140.0,
+          "quantity": 136.5,
           "packagedDate": "2026-08-11",
           "expirationDate": "2027-08-10"
         }
@@ -35367,7 +35367,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 32.0,
+      "quantity": 30.0,
       "unit": "Grams",
       "strainName": "Sour Peel",
       "strainType": null,
@@ -35400,7 +35400,7 @@
         {
           "id": 8884210,
           "label": "1A40303000000CB000050198",
-          "quantity": 32.0,
+          "quantity": 30.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-07-18"
         }
@@ -51591,16 +51591,15 @@
     },
     {
       "id": 8756356,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Peach Cobbler Cloud Bar Hellavated - Vape Cart - 1 g",
       "brand": "Hellavated",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Peach Cobbler",
       "strainType": null,
@@ -51633,13 +51632,6 @@
           "quantity": 12.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-03-28"
-        },
-        {
-          "id": 8583729,
-          "label": "1A403030000012E000166357",
-          "quantity": 1.0,
-          "packagedDate": "2026-06-11",
-          "expirationDate": "2027-03-23"
         }
       ]
     },
