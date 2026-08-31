@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T20:50:26.743376+00:00",
+  "generated_at": "2026-08-31T21:00:31.411199+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -41841,44 +41841,52 @@
       ]
     },
     {
-      "id": 8397929,
-      "packageCount": 1,
+      "id": 8756345,
+      "packageCount": 2,
       "name": "Clementine Cloud Bar Hellavated - Vape Cart - 1 g",
       "brand": "Hellavated",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Clementine",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 83.01,
-        "CBC": 0.63,
+        "totalTHC": 86.16,
+        "CBC": 0.72,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 2.12,
+        "CBG": 3.67,
         "CBGA": 0.0,
-        "CBN": 0.34,
+        "CBN": 0.66,
         "THCA": 0.0,
-        "THCV": 1.33
+        "THCV": 1.01
       },
       "dose": null,
       "terpenes": {
-        "myrcene": 0.43,
-        "alpha-pinene": 0.07,
-        "caryophyllene": 0.63,
+        "myrcene": 0.35,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.6,
         "beta-pinene": 0.08,
-        "limonene": 1.17,
-        "linalool": 0.22,
+        "limonene": 1.12,
+        "linalool": 0.24,
         "nerolidol": 0.17
       },
-      "totalTerps": 3.03,
+      "totalTerps": 2.9,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 8756345,
+          "label": "1A403030000012E000176846",
+          "quantity": 12.0,
+          "packagedDate": "2026-07-21",
+          "expirationDate": "2027-03-28"
+        },
         {
           "id": 8397929,
           "label": "1A403030000012E000155174",
@@ -44660,44 +44668,53 @@
       ]
     },
     {
-      "id": 8516319,
-      "packageCount": 1,
+      "id": 8756246,
+      "packageCount": 2,
       "name": "Grape Stomper Cloud Bar Hellavated - Vape Cart - 1 g",
       "brand": "Hellavated",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Grape Stomper",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 87.94,
+        "totalTHC": 85.54,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 4.54,
+        "CBG": 2.75,
         "CBGA": 0.0,
-        "CBN": 0.28,
+        "CBN": 0.35,
         "THCA": 0.0,
         "THCV": 0.0
       },
       "dose": null,
       "terpenes": {
-        "bisabolol": 0.24,
-        "myrcene": 0.24,
-        "alpha-pinene": 0.24,
-        "caryophyllene": 0.3,
-        "beta-pinene": 0.15,
-        "limonene": 0.92,
-        "linalool": 0.25
+        "bisabolol": 0.26,
+        "myrcene": 0.15,
+        "alpha-pinene": 0.14,
+        "caryophyllene": 0.24,
+        "beta-pinene": 0.11,
+        "limonene": 0.65,
+        "linalool": 0.24,
+        "nerolidol": 0.26
       },
-      "totalTerps": 2.34,
+      "totalTerps": 2.05,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 8756246,
+          "label": "1A403030000012E000176845",
+          "quantity": 12.0,
+          "packagedDate": "2026-07-21",
+          "expirationDate": "2027-04-25"
+        },
         {
           "id": 8516319,
           "label": "1A403030000012E000162115",
@@ -45609,6 +45626,53 @@
       ]
     },
     {
+      "id": 8731266,
+      "packageCount": 1,
+      "name": "Hibiscus Cooler Distillate Slyde Rechargeable Vape Cart 1.0mL",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 17.0,
+      "unit": "Each",
+      "strainName": "Hibiscus Cooler Slyde Rechargeable",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 82.2,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.09,
+        "CBGA": 0.0,
+        "CBN": 0.35,
+        "THCA": 0.0,
+        "THCV": 1.47
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.31,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.06,
+        "beta-pinene": 0.08,
+        "limonene": 1.15,
+        "terpinolene": 0.12
+      },
+      "totalTerps": 1.95,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8731266,
+          "label": "1A4030300000C83000077078",
+          "quantity": 17.0,
+          "packagedDate": "2026-07-15",
+          "expirationDate": "2027-05-05"
+        }
+      ]
+    },
+    {
       "id": 8858497,
       "packageCount": 1,
       "name": "Honeydew Kush DV 0.5g/500mg",
@@ -45669,7 +45733,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Ice Cream Cake",
       "strainType": "Indica",
@@ -45702,7 +45766,7 @@
         {
           "id": 8826359,
           "label": "1A40303000003EA000195262",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-04-27"
         }
@@ -50105,7 +50169,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Melon Sherbert",
       "strainType": null,
@@ -50137,7 +50201,7 @@
         {
           "id": 8821025,
           "label": "1A403030000012E000181569",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-05-07"
         }
@@ -51878,7 +51942,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Pink Lemonade",
       "strainType": null,
@@ -51910,7 +51974,7 @@
         {
           "id": 8919190,
           "label": "1A40303000001F5000423342",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-01"
         }
@@ -53350,6 +53414,56 @@
       ]
     },
     {
+      "id": 8698040,
+      "packageCount": 1,
+      "name": "Rythm Pen (Liquid Diamonds) - Maui Wowie (Sativa Dominant) - Vape Pen - 1000mg",
+      "brand": "Rythm",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 6.0,
+      "unit": "Each",
+      "strainName": "Maui Wowie",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 91.47,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.08,
+        "myrcene": 0.61,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.51,
+        "beta-pinene": 0.22,
+        "ocimene": 1.19,
+        "limonene": 0.42,
+        "linalool": 0.25,
+        "terpinolene": 0.09
+      },
+      "totalTerps": 3.4,
+      "dominantTerpene": "ocimene",
+      "packages": [
+        {
+          "id": 8698040,
+          "label": "1A40303000003EA000198683",
+          "quantity": 6.0,
+          "packagedDate": "2026-07-08",
+          "expirationDate": "2027-05-19"
+        }
+      ]
+    },
+    {
       "id": 8854457,
       "packageCount": 1,
       "name": "Rythm Pen (Liquid Diamonds) - Pineapple Express (Hybrid) - Vape Pen - 1000mg",
@@ -53501,7 +53615,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Grape Kush",
       "strainType": null,
@@ -53534,7 +53648,7 @@
         {
           "id": 8902253,
           "label": "1A40303000017D5000104296",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-08-12"
         }
