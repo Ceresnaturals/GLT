@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T21:20:25.324260+00:00",
+  "generated_at": "2026-08-31T21:30:26.494293+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2820,6 +2820,60 @@
           "label": "1A4030300004845000015000",
           "quantity": 8.0,
           "packagedDate": "2026-03-20",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8634224,
+      "packageCount": 1,
+      "name": "Fade Co | Concentrate | Live Badder | Fried Ice Cream - Concentrate - 1g",
+      "brand": "Fade Co",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Fried Ice Cream",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 69.78,
+        "totalCBD": 0.14,
+        "CBC": 0.0,
+        "CBDA": 0.16,
+        "CBDV": 0.0,
+        "CBG": 0.19,
+        "CBGA": 3.52,
+        "CBN": 0.0,
+        "THCA": 78.87,
+        "THCV": 0.35
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.38,
+        "myrcene": 0.83,
+        "alpha-pinene": 0.28,
+        "caryophyllene": 1.36,
+        "eudesmol": 0.05,
+        "beta-pinene": 0.19,
+        "caryophyllene-oxide": 0.02,
+        "ocimene": 0.03,
+        "limonene": 1.6,
+        "linalool": 0.93,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 6.3,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8634224,
+          "label": "1A4030300004845000028659",
+          "quantity": 12.0,
+          "packagedDate": "2026-06-15",
           "expirationDate": null
         }
       ]
@@ -25324,6 +25378,58 @@
       ]
     },
     {
+      "id": 8725908,
+      "packageCount": 1,
+      "name": "Fade Co Packaged Flower (Boston Tea Party)^ - Usable - 3.5g",
+      "brand": "Fade Co",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.5,
+      "unit": "Grams",
+      "strainName": "Boston Tea Party",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.32,
+        "totalCBD": 0.05,
+        "CBC": 0.0,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.13,
+        "CBGA": 0.87,
+        "CBN": 0.0,
+        "THCA": 32.59,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.23,
+        "myrcene": 0.1,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 0.85,
+        "beta-pinene": 0.15,
+        "ocimene": 0.05,
+        "limonene": 1.12,
+        "linalool": 0.49,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.54,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8725908,
+          "label": "1A4030300004845000032771",
+          "quantity": 24.5,
+          "packagedDate": "2026-06-15",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8725845,
       "packageCount": 1,
       "name": "Fade Co Packaged Flower (E85 Candi)^ - Usable - 3.5g",
@@ -25631,7 +25737,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 24.5,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -25664,7 +25770,7 @@
         {
           "id": 8919167,
           "label": "1A40303000001F5000423327",
-          "quantity": 28.0,
+          "quantity": 24.5,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -25828,7 +25934,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 154.0,
+      "quantity": 147.0,
       "unit": "Grams",
       "strainName": "Han Solo HashBurger",
       "strainType": null,
@@ -25861,7 +25967,7 @@
         {
           "id": 8870114,
           "label": "1A40303000040D9000005721",
-          "quantity": 154.0,
+          "quantity": 147.0,
           "packagedDate": "2026-08-16",
           "expirationDate": "2027-08-15"
         }
@@ -31863,6 +31969,56 @@
       ]
     },
     {
+      "id": 8588009,
+      "packageCount": 1,
+      "name": "Fruit Gushers Preroll 1g (.5g 2pk)",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 46.0,
+      "unit": "Grams",
+      "strainName": "Fruit Gushers",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 21.43,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.13,
+        "CBGA": 0.68,
+        "CBN": 0.0,
+        "THCA": 24.23,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.08,
+        "myrcene": 0.1,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.31,
+        "eudesmol": 0.16,
+        "beta-pinene": 0.05,
+        "limonene": 0.35,
+        "linalool": 0.12
+      },
+      "totalTerps": 1.51,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8588009,
+          "label": "1A40303000000C9000159334",
+          "quantity": 46.0,
+          "packagedDate": "2026-06-12",
+          "expirationDate": "2027-06-08"
+        }
+      ]
+    },
+    {
       "id": 8891365,
       "packageCount": 1,
       "name": "GMO 5 Pack - Dogwalkers (Sit) - Usable - 1.75g",
@@ -34575,7 +34731,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 13.0,
       "unit": "Grams",
       "strainName": "Pineapple Bang 5",
       "strainType": null,
@@ -34608,7 +34764,7 @@
         {
           "id": 8854308,
           "label": "1A40303000000CB000049631",
-          "quantity": 16.0,
+          "quantity": 13.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-07-03"
         }
