@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T19:30:25.701353+00:00",
+  "generated_at": "2026-08-31T19:40:26.640121+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -13,7 +13,6 @@
     "Flower",
     "Pre-Roll",
     "Seeds",
-    "Shake/Trim",
     "Tincture",
     "Topical",
     "Vape"
@@ -13355,7 +13354,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 17.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13394,7 +13393,7 @@
         {
           "id": 8790229,
           "label": "1A403030000012D000257808",
-          "quantity": 17.0,
+          "quantity": 15.0,
           "packagedDate": "2026-07-28",
           "expirationDate": null
         }
@@ -29124,7 +29123,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 56.0,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Tear Gas -BLVK MRKT",
       "strainType": null,
@@ -29158,7 +29157,7 @@
         {
           "id": 8870115,
           "label": "1A40303000040D9000005722",
-          "quantity": 56.0,
+          "quantity": 42.0,
           "packagedDate": "2026-08-16",
           "expirationDate": "2027-08-15"
         }
@@ -32664,7 +32663,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -32699,7 +32698,7 @@
         {
           "id": 8894077,
           "label": "1A403030000012D000261762",
-          "quantity": 23.0,
+          "quantity": 20.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -35906,53 +35905,6 @@
           "label": "1A40303000000CB000040524",
           "quantity": 5.0,
           "packagedDate": "2026-04-28",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8765231,
-      "packageCount": 1,
-      "name": "Shake/Trim - Dark Rainbow",
-      "brand": null,
-      "category": "Shake/Trim",
-      "metrcCategory": "Shake/Trim (by strain)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.1,
-      "unit": "Grams",
-      "strainName": "Dark Rainbow",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 20.85,
-        "totalCBD": 0.22,
-        "CBDA": 0.04,
-        "CBG": 0.15,
-        "CBN": 0.01,
-        "THCA": 23.56
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.02,
-        "humulene": 0.23,
-        "myrcene": 0.16,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 0.46,
-        "beta-pinene": 0.03,
-        "limonene": 0.21,
-        "linalool": 0.08,
-        "nerolidol": 0.01
-      },
-      "totalTerps": 1.26,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8765231,
-          "label": "1A40303000001F5000408133",
-          "quantity": 2.1,
-          "packagedDate": "2026-07-23",
           "expirationDate": null
         }
       ]
@@ -47609,7 +47561,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -47642,7 +47594,7 @@
         {
           "id": 8689166,
           "label": "1A4030300003201000001353",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-07-07",
           "expirationDate": null
         }
@@ -53038,7 +52990,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Skywalker OG",
       "strainType": null,
@@ -53071,7 +53023,7 @@
         {
           "id": 8884035,
           "label": "1A4030300000C83000085450",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-06-22"
         }
@@ -53418,56 +53370,6 @@
           "quantity": 10.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-06-25"
-        }
-      ]
-    },
-    {
-      "id": 8755916,
-      "packageCount": 1,
-      "name": "Rove | Ready-To-Use Live Resin Diamond Vaporizer | Watermelon Burst - I | 1.0g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.0,
-      "unit": "Each",
-      "strainName": "Ready To Use Vaporizer",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 88.2,
-        "totalCBD": 0.21,
-        "CBC": 0.26,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.57,
-        "CBGA": 0.0,
-        "CBN": 0.31,
-        "THCA": 0.0,
-        "THCV": 1.15
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.02,
-        "myrcene": 0.05,
-        "alpha-pinene": 0.02,
-        "caryophyllene": 0.07,
-        "beta-pinene": 0.02,
-        "limonene": 0.38,
-        "linalool": 0.02,
-        "terpinolene": 0.01
-      },
-      "totalTerps": 0.65,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8755916,
-          "label": "1A4030300000C83000077910",
-          "quantity": 3.0,
-          "packagedDate": "2026-07-21",
-          "expirationDate": "2027-05-21"
         }
       ]
     },
