@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T19:50:31.180072+00:00",
+  "generated_at": "2026-08-31T20:00:31.003989+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1964,6 +1964,55 @@
           "quantity": 14.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-04-06"
+        }
+      ]
+    },
+    {
+      "id": 8114004,
+      "packageCount": 1,
+      "name": "Blue Blockers - Cured Sugar - 3.5g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": "Blue Blockers",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 74.39,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.96,
+        "CBN": 0.0,
+        "THCA": 82.83,
+        "THCV": 0.28
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.18,
+        "humulene": 0.64,
+        "myrcene": 0.36,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 2.55,
+        "beta-pinene": 0.13,
+        "limonene": 1.05,
+        "linalool": 0.34
+      },
+      "totalTerps": 5.64,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8114004,
+          "label": "ABC0303000037DD000020989",
+          "quantity": 5.0,
+          "packagedDate": "2026-02-23",
+          "expirationDate": "2027-02-23"
         }
       ]
     },
@@ -8797,6 +8846,57 @@
           "quantity": 11.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-03-19"
+        }
+      ]
+    },
+    {
+      "id": 8115308,
+      "packageCount": 1,
+      "name": "White Mule - Cured Badder - 1g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "White Mule",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 70.85,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.94,
+        "CBN": 0.0,
+        "THCA": 73.89,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.33,
+        "humulene": 0.71,
+        "myrcene": 0.98,
+        "alpha-pinene": 0.26,
+        "caryophyllene": 2.19,
+        "beta-pinene": 0.18,
+        "ocimene": 0.08,
+        "limonene": 0.95,
+        "linalool": 0.26,
+        "terpinolene": 0.08
+      },
+      "totalTerps": 6.7,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8115308,
+          "label": "ABC0303000037DD000021012",
+          "quantity": 10.0,
+          "packagedDate": "2026-02-24",
+          "expirationDate": "2027-01-12"
         }
       ]
     },
@@ -23008,7 +23108,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 18.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23047,7 +23147,7 @@
         {
           "id": 8762410,
           "label": "1A403030000390D000065058",
-          "quantity": 18.0,
+          "quantity": 16.0,
           "packagedDate": "2026-07-22",
           "expirationDate": "2027-04-09"
         }
@@ -25188,7 +25288,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 175.0,
+      "quantity": 171.5,
       "unit": "Grams",
       "strainName": "Disco Diesel",
       "strainType": null,
@@ -25221,7 +25321,7 @@
         {
           "id": 8433791,
           "label": "1A40303000000C9000149733",
-          "quantity": 175.0,
+          "quantity": 171.5,
           "packagedDate": "2026-05-08",
           "expirationDate": "2027-05-03"
         }
@@ -25834,7 +25934,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 161.0,
+      "quantity": 157.5,
       "unit": "Grams",
       "strainName": "Han Solo HashBurger",
       "strainType": null,
@@ -25867,7 +25967,7 @@
         {
           "id": 8870114,
           "label": "1A40303000040D9000005721",
-          "quantity": 161.0,
+          "quantity": 157.5,
           "packagedDate": "2026-08-16",
           "expirationDate": "2027-08-15"
         }
@@ -29200,6 +29300,55 @@
           "label": "1A40303000039D1000076679",
           "quantity": 1.0,
           "packagedDate": "2026-05-26",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8270982,
+      "packageCount": 1,
+      "name": "Tyson 2.0 | Flower | Buds | The Toad - Usable - 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 17.5,
+      "unit": "Grams",
+      "strainName": "The Toad",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.29,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 3.47,
+        "CBN": 0.0,
+        "THCA": 28.63,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.08,
+        "myrcene": 0.25,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.28,
+        "beta-pinene": 0.06,
+        "limonene": 0.56,
+        "linalool": 0.09
+      },
+      "totalTerps": 1.55,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8270982,
+          "label": "1A403030000025B000072030",
+          "quantity": 17.5,
+          "packagedDate": "2026-02-23",
           "expirationDate": null
         }
       ]
@@ -32905,6 +33054,55 @@
           "label": "1A4030300002199000057211",
           "quantity": 11.0,
           "packagedDate": "2026-05-06",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8601355,
+      "packageCount": 1,
+      "name": "Kind Tree | Pre-Rolls | Diamond Infused Multipack | Ice Cream Banger - Usable - 2pk/1.0g",
+      "brand": "Kind Tree",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 8.0,
+      "unit": "Each",
+      "strainName": "Ice Cream Banger",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 40.83,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.15,
+        "CBGA": 0.91,
+        "CBN": 0.0,
+        "THCA": 45.75,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.03,
+        "myrcene": 0.03,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.1,
+        "beta-pinene": 0.03,
+        "caryophyllene-oxide": 0.12,
+        "limonene": 0.24,
+        "linalool": 0.16
+      },
+      "totalTerps": 0.83,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8601355,
+          "label": "1A4030300002199000053122",
+          "quantity": 8.0,
+          "packagedDate": "2026-02-23",
           "expirationDate": null
         }
       ]
@@ -49773,7 +49971,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Banana Berry Smoothie",
       "strainType": null,
@@ -49805,7 +50003,7 @@
         {
           "id": 8885895,
           "label": "1A403030000283D000057729",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-06-24"
         }
