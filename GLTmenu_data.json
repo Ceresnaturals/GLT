@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T21:40:24.720549+00:00",
+  "generated_at": "2026-08-31T21:50:29.289286+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -25688,7 +25688,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 87.5,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Ghost Gas Pie",
       "strainType": null,
@@ -25721,7 +25721,7 @@
         {
           "id": 8750452,
           "label": "1A40303000040D9000005360",
-          "quantity": 87.5,
+          "quantity": 84.0,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-07-19"
         }
@@ -25826,6 +25826,56 @@
           "quantity": 10.5,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-07-02"
+        }
+      ]
+    },
+    {
+      "id": 8920779,
+      "packageCount": 1,
+      "name": "Grape Gas Cake 14g Half Oz",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 98.0,
+      "unit": "Grams",
+      "strainName": "Grape Gas Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 23.81,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.66,
+        "CBN": 0.0,
+        "THCA": 26.99,
+        "THCV": 0.15
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.09,
+        "myrcene": 0.55,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.32,
+        "eudesmol": 0.15,
+        "beta-pinene": 0.05,
+        "limonene": 0.34,
+        "linalool": 0.19
+      },
+      "totalTerps": 1.98,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8920779,
+          "label": "1A40303000040D9000005942",
+          "quantity": 98.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-08-25"
         }
       ]
     },
@@ -27647,56 +27697,6 @@
           "quantity": 168.0,
           "packagedDate": "2026-03-18",
           "expirationDate": "2027-02-03"
-        }
-      ]
-    },
-    {
-      "id": 8923688,
-      "packageCount": 1,
-      "name": "Midnight Circus Untrimmed Small Buds Pre-Pack 28g",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 28.0,
-      "unit": "Grams",
-      "strainName": "R&D Seedlings #5",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 26.76,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.11,
-        "CBGA": 0.9,
-        "CBN": 0.0,
-        "THCA": 29.45,
-        "THCV": 0.09
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.58,
-        "myrcene": 0.06,
-        "alpha-pinene": 0.15,
-        "caryophyllene": 1.78,
-        "beta-pinene": 0.13,
-        "limonene": 0.81,
-        "linalool": 0.43,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 4.43,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8923688,
-          "label": "1A40303000000CB000050892",
-          "quantity": 28.0,
-          "packagedDate": "2026-08-27",
-          "expirationDate": "2027-08-14"
         }
       ]
     },
