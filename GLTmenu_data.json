@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T18:00:31.821969+00:00",
+  "generated_at": "2026-08-31T18:10:36.847112+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7904,7 +7904,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Durban Poison",
       "strainType": "Sativa",
@@ -7937,7 +7937,7 @@
         {
           "id": 8891523,
           "label": "1A40303000003EA000205087",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-06-17"
         }
@@ -7953,7 +7953,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Mai Tai",
       "strainType": "Sativa",
@@ -7989,7 +7989,7 @@
         {
           "id": 8891524,
           "label": "1A40303000003EA000205088",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-14"
         }
@@ -32184,7 +32184,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 29.0,
+      "quantity": 24.0,
       "unit": "Grams",
       "strainName": "Grape Lime Ricky",
       "strainType": null,
@@ -32218,7 +32218,7 @@
         {
           "id": 8858490,
           "label": "1A40303000001F5000416973",
-          "quantity": 29.0,
+          "quantity": 24.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -48480,6 +48480,56 @@
           "quantity": 8.0,
           "packagedDate": "2025-10-03",
           "expirationDate": "2026-10-03"
+        }
+      ]
+    },
+    {
+      "id": 8747429,
+      "packageCount": 1,
+      "name": "Legend | Vapes | Live Terpene Cartridges | Pink Diesel - Vape cart - 1g",
+      "brand": "Legend",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 9.0,
+      "unit": "Each",
+      "strainName": "Pink Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.95,
+        "CBC": 0.94,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.76,
+        "CBGA": 0.0,
+        "CBN": 0.23,
+        "THCA": 0.0,
+        "THCV": 2.65
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.13,
+        "humulene": 0.07,
+        "myrcene": 0.83,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 0.22,
+        "beta-pinene": 0.14,
+        "ocimene": 0.46,
+        "limonene": 0.41,
+        "terpinolene": 1.5
+      },
+      "totalTerps": 3.99,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8747429,
+          "label": "1A4030300002199000057212",
+          "quantity": 9.0,
+          "packagedDate": "2026-06-10",
+          "expirationDate": "2027-06-10"
         }
       ]
     },
