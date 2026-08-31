@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T15:50:31.801715+00:00",
+  "generated_at": "2026-08-31T16:00:27.925054+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -5204,7 +5204,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Animal Fuel",
       "strainType": null,
@@ -5237,7 +5237,7 @@
         {
           "id": 8777901,
           "label": "1A40303000017D5000101324",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-06-18",
           "expirationDate": "2027-06-18"
         }
@@ -7800,7 +7800,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Rainbow Push Pop",
       "strainType": null,
@@ -7833,7 +7833,7 @@
         {
           "id": 8854136,
           "label": "1A4030300000C83000079935",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-07-31"
         }
@@ -29166,6 +29166,56 @@
       ]
     },
     {
+      "id": 8858128,
+      "packageCount": 1,
+      "name": "Strawguava | Georgies | 2.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 47.5,
+      "unit": "Grams",
+      "strainName": "201 STRAWGUAVA",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.72,
+        "totalCBD": 0.08,
+        "CBC": 0.0,
+        "CBDA": 0.09,
+        "CBDV": 0.0,
+        "CBG": 0.13,
+        "CBGA": 2.07,
+        "CBN": 0.0,
+        "THCA": 35.36,
+        "THCV": 0.23
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.07,
+        "myrcene": 0.2,
+        "alpha-pinene": 0.23,
+        "caryophyllene": 0.27,
+        "eudesmol": 0.02,
+        "beta-pinene": 0.18,
+        "limonene": 0.82,
+        "linalool": 0.38
+      },
+      "totalTerps": 2.41,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8858128,
+          "label": "1A40303000039D1000091579",
+          "quantity": 47.5,
+          "packagedDate": "2026-08-13",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8838519,
       "packageCount": 1,
       "name": "Swift Lifts - Guava Jam - Usable - 2.5g 5pk",
@@ -45877,7 +45927,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Honeydew Kush DV",
       "strainType": null,
@@ -45912,7 +45962,7 @@
         {
           "id": 8858497,
           "label": "1A40303000001F5000416984",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2026-12-15"
         }
@@ -50263,7 +50313,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Grape Ice OG",
       "strainType": null,
@@ -50298,7 +50348,7 @@
         {
           "id": 8885946,
           "label": "1A403030000283D000057730",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-05-21"
         }
@@ -51263,7 +51313,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Cosmic Cherry Cream",
       "strainType": null,
@@ -51297,7 +51347,7 @@
         {
           "id": 8631520,
           "label": "1A40303000039D1000082052",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-06-23",
           "expirationDate": null
         }
