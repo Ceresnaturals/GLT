@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T13:10:27.261051+00:00",
+  "generated_at": "2026-09-01T13:20:25.256378+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12081,7 +12081,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 16.0,
       "unit": "Each",
@@ -30199,6 +30199,57 @@
           "quantity": 12.75,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-23"
+        }
+      ]
+    },
+    {
+      "id": 8923144,
+      "packageCount": 1,
+      "name": "Alien Mints Strane - Pre-rolls - 1g",
+      "brand": "Strane",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 11.0,
+      "unit": "Grams",
+      "strainName": "Alien Mints",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.41,
+        "totalCBD": 0.1,
+        "CBC": 0.0,
+        "CBDA": 0.11,
+        "CBDV": 0.0,
+        "CBG": 0.08,
+        "CBGA": 0.91,
+        "CBN": 0.0,
+        "THCA": 32.29,
+        "THCV": 0.18
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.09,
+        "myrcene": 0.05,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.28,
+        "eudesmol": 0.03,
+        "beta-pinene": 0.03,
+        "limonene": 0.13,
+        "linalool": 0.39
+      },
+      "totalTerps": 1.22,
+      "dominantTerpene": "linalool",
+      "packages": [
+        {
+          "id": 8923144,
+          "label": "1A403030000012E000187008",
+          "quantity": 11.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": "2027-07-13"
         }
       ]
     },
