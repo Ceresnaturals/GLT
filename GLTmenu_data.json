@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T16:50:33.766750+00:00",
+  "generated_at": "2026-09-01T17:00:28.519602+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -19223,7 +19223,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19264,7 +19264,7 @@
         {
           "id": 8882360,
           "label": "1A4030300003522000202264",
-          "quantity": 16.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-03"
         }
@@ -19389,63 +19389,6 @@
           "quantity": 2.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-04-02"
-        }
-      ]
-    },
-    {
-      "id": 8828739,
-      "packageCount": 1,
-      "name": "In House Watermelon Fast Acting V3 Gummies-Edible Product-10mg-10",
-      "brand": "In House",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.2,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.1,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 5.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8828739,
-          "label": "1A4030300003522000195380",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-06",
-          "expirationDate": "2027-07-24"
         }
       ]
     },
@@ -24798,6 +24741,56 @@
       ]
     },
     {
+      "id": 8919838,
+      "packageCount": 1,
+      "name": "Animal Face Pre-Pack (Mixed Buds) - Rythm (Indica Dominant) - Usable - 28g",
+      "brand": "Rythm",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 56.0,
+      "unit": "Grams",
+      "strainName": "Animal Face",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.25,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.39,
+        "CBN": 0.0,
+        "THCA": 34.59,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.26,
+        "myrcene": 0.85,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 1.08,
+        "beta-pinene": 0.08,
+        "limonene": 0.65,
+        "linalool": 0.56,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.79,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8919838,
+          "label": "1A40303000003EA000206306",
+          "quantity": 56.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-07-16"
+        }
+      ]
+    },
+    {
       "id": 8091552,
       "packageCount": 1,
       "name": "Apollo 22-PR-0.5gx2",
@@ -25939,7 +25932,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 17.5,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -25972,7 +25965,7 @@
         {
           "id": 8919167,
           "label": "1A40303000001F5000423327",
-          "quantity": 21.0,
+          "quantity": 17.5,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -31338,7 +31331,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 39.0,
+      "quantity": 38.0,
       "unit": "Grams",
       "strainName": "Chem de la Chem TC",
       "strainType": null,
@@ -31370,7 +31363,7 @@
         {
           "id": 8890514,
           "label": "1A40303000001F5000420174",
-          "quantity": 39.0,
+          "quantity": 38.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -35577,7 +35570,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.0,
+      "quantity": 44.0,
       "unit": "Grams",
       "strainName": "Purple Punch TC",
       "strainType": null,
@@ -35609,7 +35602,7 @@
         {
           "id": 8919171,
           "label": "1A40303000001F5000423329",
-          "quantity": 45.0,
+          "quantity": 44.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -36412,7 +36405,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 18.0,
       "unit": "Grams",
       "strainName": "The Beavs",
       "strainType": null,
@@ -36445,7 +36438,7 @@
         {
           "id": 8794511,
           "label": "1A40303000001F5000410794",
-          "quantity": 20.0,
+          "quantity": 18.0,
           "packagedDate": "2026-07-29",
           "expirationDate": null
         }
@@ -46686,7 +46679,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Acapulco Gold",
       "strainType": null,
@@ -46718,7 +46711,7 @@
         {
           "id": 8632157,
           "label": "1A4030300003522000194078",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-04-21"
         }
@@ -47078,7 +47071,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Green Crack",
       "strainType": null,
@@ -47111,7 +47104,7 @@
         {
           "id": 8882280,
           "label": "1A4030300003522000202239",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-04"
         }
@@ -47716,7 +47709,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Tangie",
       "strainType": null,
@@ -47749,7 +47742,7 @@
         {
           "id": 8689758,
           "label": "1A4030300003522000201313",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-05-16"
         }
@@ -50623,7 +50616,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Mango Dragon",
       "strainType": null,
@@ -50654,7 +50647,7 @@
         {
           "id": 8873567,
           "label": "1A403030000012E000183009",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-05-22"
         }
