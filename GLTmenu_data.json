@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T17:30:29.947392+00:00",
+  "generated_at": "2026-09-01T17:40:27.256095+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -18153,29 +18153,30 @@
       ]
     },
     {
-      "id": 8606612,
-      "packageCount": 1,
+      "id": 8914785,
+      "packageCount": 2,
       "name": "HiColor Gummies Sour Green Apple 5:1|Edible Product|10mg|10ct",
       "brand": "HiColor",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.211,
-        "totalCBD": 1.058,
-        "CBC": 0.005,
+        "totalTHC": 0.24,
+        "totalCBD": 1.14,
+        "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.146,
+        "CBG": 0.0,
         "CBGA": 0.0,
-        "CBN": 0.025,
+        "CBN": 0.0,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -18184,13 +18185,13 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 44.991,
-          "CBC": 0.213,
+          "totalCBD": 48.478,
+          "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 6.209,
+          "CBG": 0.0,
           "CBGA": 0.0,
-          "CBN": 1.063,
+          "CBN": 0.0,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -18200,6 +18201,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8914785,
+          "label": "1A4030300002009000112791",
+          "quantity": 20.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-04-20"
+        },
         {
           "id": 8606612,
           "label": "1A4030300002009000105189",
@@ -18550,8 +18558,8 @@
       ]
     },
     {
-      "id": 8678450,
-      "packageCount": 1,
+      "id": 8914799,
+      "packageCount": 2,
       "name": "HiColor RSO Sativa Gummies Cherry|Edible Product|10mg|10ct",
       "brand": "HiColor",
       "category": "Edible",
@@ -18559,19 +18567,20 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.229,
+        "totalTHC": 0.21,
+        "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
         "CBG": 0.0,
         "CBGA": 0.0,
-        "CBN": 0.002,
+        "CBN": 0.0,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -18580,12 +18589,13 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
+          "totalCBD": 0.0,
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
           "CBG": 0.0,
           "CBGA": 0.0,
-          "CBN": 0.085,
+          "CBN": 0.0,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -18595,6 +18605,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8914799,
+          "label": "1A4030300002009000112800",
+          "quantity": 20.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-05-20"
+        },
         {
           "id": 8678450,
           "label": "1A4030300002009000107927",
@@ -26242,7 +26259,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 126.0,
+      "quantity": 119.0,
       "unit": "Grams",
       "strainName": "Guava IX",
       "strainType": null,
@@ -26275,7 +26292,7 @@
         {
           "id": 8882266,
           "label": "1A4030300003521000056046",
-          "quantity": 126.0,
+          "quantity": 119.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-30"
         }
@@ -36580,7 +36597,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 420.11,
+      "quantity": 388.61,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato TC",
       "strainType": null,
@@ -36611,7 +36628,7 @@
         {
           "id": 8765566,
           "label": "1A40303000001F5000408132",
-          "quantity": 420.11,
+          "quantity": 388.61,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
@@ -41417,7 +41434,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Classic Surf",
       "strainType": "Sativa",
@@ -41452,7 +41469,7 @@
         {
           "id": 8869055,
           "label": "1A4030300000579000042352",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-13",
           "expirationDate": null
         }
@@ -46495,7 +46512,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Acapulco Gold",
       "strainType": null,
@@ -46525,7 +46542,7 @@
         {
           "id": 8766954,
           "label": "1A4030300003522000207394",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-04"
         }
@@ -47325,7 +47342,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": "Purple Haze",
       "strainType": null,
@@ -47359,7 +47376,7 @@
         {
           "id": 8882187,
           "label": "1A4030300003522000202240",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-05-01"
         }
@@ -50684,7 +50701,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Grandaddy Purp",
       "strainType": null,
@@ -50717,7 +50734,7 @@
         {
           "id": 8885894,
           "label": "1A403030000283D000057728",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-06-25"
         }
