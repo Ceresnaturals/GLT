@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T19:50:26.144831+00:00",
+  "generated_at": "2026-09-01T20:00:25.769066+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2380,7 +2380,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Happy er J Deadband x House Blends",
       "strainType": null,
@@ -2413,7 +2413,7 @@
         {
           "id": 8911014,
           "label": "1A4030300000C83000086193",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-19"
         }
@@ -9108,6 +9108,56 @@
           "quantity": 11.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-05-27"
+        }
+      ]
+    },
+    {
+      "id": 8910396,
+      "packageCount": 1,
+      "name": "Z Mints Live Rosin Cold Cure 1.0g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 18.0,
+      "unit": "Each",
+      "strainName": "Z Mints",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 73.48,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 3.7,
+        "CBN": 0.0,
+        "THCA": 83.79,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.29,
+        "humulene": 0.54,
+        "myrcene": 0.98,
+        "alpha-pinene": 0.23,
+        "caryophyllene": 1.44,
+        "beta-pinene": 0.34,
+        "limonene": 3.06,
+        "linalool": 0.76,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 8.43,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8910396,
+          "label": "1A4030300000C83000086192",
+          "quantity": 18.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-08-18"
         }
       ]
     },
@@ -28125,7 +28175,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 364.0,
       "unit": "Grams",
@@ -32746,7 +32796,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 30.0,
+      "quantity": 29.0,
       "unit": "Grams",
       "strainName": "Fruit Loot 3",
       "strainType": null,
@@ -32779,7 +32829,7 @@
         {
           "id": 8918183,
           "label": "1A40303000000CB000050575",
-          "quantity": 30.0,
+          "quantity": 29.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-25"
         }
@@ -33093,7 +33143,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.0,
+      "quantity": 44.0,
       "unit": "Grams",
       "strainName": "Gumi 6",
       "strainType": null,
@@ -33126,7 +33176,7 @@
         {
           "id": 8911025,
           "label": "1A40303000000CB000050577",
-          "quantity": 45.0,
+          "quantity": 44.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-18"
         }
@@ -34759,7 +34809,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 27.0,
       "unit": "Each",
@@ -34909,7 +34959,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 105.0,
+      "quantity": 101.5,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -34941,7 +34991,7 @@
         {
           "id": 8911027,
           "label": "1A40303000000CB000050578",
-          "quantity": 105.0,
+          "quantity": 101.5,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         }
@@ -34957,7 +35007,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 105.0,
+      "quantity": 101.5,
       "unit": "Grams",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -34992,7 +35042,7 @@
         {
           "id": 8911028,
           "label": "1A40303000000CB000050579",
-          "quantity": 105.0,
+          "quantity": 101.5,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-28"
         }
@@ -37518,7 +37568,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -37566,7 +37616,7 @@
         {
           "id": 8383019,
           "label": "1A4030300003522000185621",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-04-27",
           "expirationDate": "2027-04-19"
         }
