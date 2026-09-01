@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T23:30:28.948110+00:00",
+  "generated_at": "2026-09-01T23:40:23.764362+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -198,7 +198,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -239,7 +239,7 @@
         {
           "id": 8882441,
           "label": "1A4030300003522000202265",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-04-09"
         }
@@ -4569,7 +4569,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": "Limone OG",
       "strainType": null,
@@ -4603,7 +4603,7 @@
         {
           "id": 8505502,
           "label": "ABC0303000037DD000023272",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-05-26",
           "expirationDate": "2027-03-12"
         }
@@ -5167,7 +5167,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Animal Fuel",
       "strainType": null,
@@ -5200,7 +5200,7 @@
         {
           "id": 8777901,
           "label": "1A40303000017D5000101324",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-06-18",
           "expirationDate": "2027-06-18"
         }
@@ -6099,53 +6099,6 @@
       ]
     },
     {
-      "id": 8579674,
-      "packageCount": 1,
-      "name": "NH Animal Mint Cookies Bubble Hash-Concentrate-1g",
-      "brand": "NH",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Animal Mint Cookies",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 59.43,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.15,
-        "CBGA": 1.52,
-        "CBN": 0.0,
-        "THCA": 64.38,
-        "THCV": 3.47
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.34,
-        "alpha-pinene": 0.21,
-        "caryophyllene": 1.38,
-        "beta-pinene": 0.17,
-        "limonene": 1.03,
-        "linalool": 0.55
-      },
-      "totalTerps": 4.13,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8579674,
-          "label": "1A4030300003522000187567",
-          "quantity": 1.0,
-          "packagedDate": "2026-06-11",
-          "expirationDate": "2027-05-18"
-        }
-      ]
-    },
-    {
       "id": 8150845,
       "packageCount": 1,
       "name": "NH Animal Mint Cookies Live Badder-Concentrate-1g",
@@ -6399,7 +6352,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Chocolatina",
       "strainType": null,
@@ -6432,7 +6385,7 @@
         {
           "id": 8882387,
           "label": "1A4030300003522000202268",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-31"
         }
@@ -6837,7 +6790,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Lilac Diesel",
       "strainType": null,
@@ -6871,7 +6824,7 @@
         {
           "id": 8882456,
           "label": "1A4030300003522000202270",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-04"
         }
@@ -10428,7 +10381,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10469,7 +10422,7 @@
         {
           "id": 8793245,
           "label": "1A4030300000C83000080427",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-07-15"
         }
@@ -10542,7 +10495,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10583,65 +10536,8 @@
         {
           "id": 8851619,
           "label": "1A4030300000C83000080820",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-12",
-          "expirationDate": "2027-06-24"
-        }
-      ]
-    },
-    {
-      "id": 8814873,
-      "packageCount": 1,
-      "name": "Tall- (XO) Juicy Peach - Liquid Edible - 10mg - 1",
-      "brand": null,
-      "category": "Drink",
-      "metrcCategory": "Infused Liquid Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.003,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 can, 12 fl. oz.",
-        "totalThcMg": 10.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8814873,
-          "label": "1A4030300000C83000080554",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-04",
           "expirationDate": "2027-06-24"
         }
       ]
@@ -15614,7 +15510,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15655,7 +15551,7 @@
         {
           "id": 8793070,
           "label": "1A4030300000C83000080432",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-05-26"
         }
@@ -24876,7 +24772,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 56.0,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Animal Face",
       "strainType": "Indica",
@@ -24910,7 +24806,7 @@
         {
           "id": 8919838,
           "label": "1A40303000003EA000206306",
-          "quantity": 56.0,
+          "quantity": 28.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-16"
         }
@@ -25311,7 +25207,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 9.0,
       "unit": "Grams",
       "strainName": "41 CHERRY CHOCOLATE WIDOW",
       "strainType": null,
@@ -25346,7 +25242,7 @@
         {
           "id": 8751133,
           "label": "1A40303000039D1000084248",
-          "quantity": 11.0,
+          "quantity": 9.0,
           "packagedDate": "2026-07-21",
           "expirationDate": null
         }
@@ -25812,7 +25708,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 105.0,
+      "quantity": 101.5,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -25845,7 +25741,7 @@
         {
           "id": 8911033,
           "label": "1A40303000000CB000050582",
-          "quantity": 105.0,
+          "quantity": 101.5,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         }
@@ -28179,7 +28075,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 105.0,
+      "quantity": 101.5,
       "unit": "Grams",
       "strainName": "Governmint Oasis",
       "strainType": null,
@@ -28211,7 +28107,7 @@
         {
           "id": 8882181,
           "label": "1A4030300003521000056049",
-          "quantity": 105.0,
+          "quantity": 101.5,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-18"
         }
@@ -28416,56 +28312,6 @@
       ]
     },
     {
-      "id": 8828649,
-      "packageCount": 1,
-      "name": "NH Sequoia Strawberry Flower-Usable-28g",
-      "brand": "NH",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 28.0,
-      "unit": "Grams",
-      "strainName": "Sequoia Strawberry",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 26.94,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.11,
-        "CBGA": 0.98,
-        "CBN": 0.0,
-        "THCA": 30.36,
-        "THCV": 0.09
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.09,
-        "myrcene": 0.38,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.33,
-        "beta-pinene": 0.06,
-        "limonene": 0.42,
-        "linalool": 0.2,
-        "terpinolene": 0.02,
-        "nerolidol": 0.08
-      },
-      "totalTerps": 1.72,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8828649,
-          "label": "1A4030300003521000054646",
-          "quantity": 28.0,
-          "packagedDate": "2026-08-06",
-          "expirationDate": "2027-07-12"
-        }
-      ]
-    },
-    {
       "id": 8828648,
       "packageCount": 1,
       "name": "NH Strawberry Jelly Flower-Usable-3.5g",
@@ -28662,7 +28508,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 30.0,
+      "quantity": 27.5,
       "unit": "Grams",
       "strainName": "04 PIE CRUST",
       "strainType": null,
@@ -28697,7 +28543,7 @@
         {
           "id": 8751019,
           "label": "1A40303000039D1000084244",
-          "quantity": 30.0,
+          "quantity": 27.5,
           "packagedDate": "2026-07-21",
           "expirationDate": null
         }
@@ -36622,7 +36468,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 60.0,
+      "quantity": 57.5,
       "unit": "Grams",
       "strainName": "Thunder Punch",
       "strainType": null,
@@ -36657,7 +36503,7 @@
         {
           "id": 8698817,
           "label": "1A40303000000C9000160158",
-          "quantity": 60.0,
+          "quantity": 57.5,
           "packagedDate": "2026-07-08",
           "expirationDate": "2027-06-21"
         }
