@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T17:20:25.564092+00:00",
+  "generated_at": "2026-09-01T17:30:29.947392+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8871,7 +8871,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Voyager",
       "strainType": null,
@@ -8906,7 +8906,7 @@
         {
           "id": 8794436,
           "label": "1A40303000001F5000410811",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-03-19"
         }
@@ -17978,44 +17978,47 @@
       ]
     },
     {
-      "id": 8386142,
-      "packageCount": 1,
+      "id": 8914782,
+      "packageCount": 2,
       "name": "HiColor Gummies Fruit Punch Power-Up 1:4|Edible Product|10mg|10ct",
       "brand": "HiColor",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.216,
-        "CBC": 0.006,
+        "totalTHC": 0.21,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.022,
+        "CBG": 0.0,
         "CBGA": 0.0,
-        "CBN": 0.002,
+        "CBN": 0.0,
         "THCA": 0.0,
-        "THCV": 0.048
+        "THCV": 0.05
       },
       "dose": {
         "servingSize": "1pc",
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "CBC": 0.255,
+          "totalCBD": 0.0,
+          "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.936,
+          "CBG": 0.0,
           "CBGA": 0.0,
-          "CBN": 0.085,
+          "CBN": 0.0,
           "THCA": 0.0,
-          "THCV": 2.041
+          "THCV": 2.126
         },
         "minorsEstimated": true
       },
@@ -18023,6 +18026,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8914782,
+          "label": "1A4030300002009000112788",
+          "quantity": 20.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-05-20"
+        },
         {
           "id": 8386142,
           "label": "1A4030300002009000099169",
@@ -26281,7 +26291,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 52.5,
+      "quantity": 49.0,
       "unit": "Grams",
       "strainName": "Romulan",
       "strainType": null,
@@ -26316,7 +26326,7 @@
         {
           "id": 8766296,
           "label": "1A4030300003521000054047",
-          "quantity": 52.5,
+          "quantity": 49.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-27"
         }
@@ -32824,7 +32834,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Gush Mints Dust",
       "strainType": null,
@@ -32854,7 +32864,7 @@
         {
           "id": 8890376,
           "label": "1A40303000001F5000420183",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-17"
         }
@@ -33998,50 +34008,51 @@
       ]
     },
     {
-      "id": 8521745,
+      "id": 8270984,
       "packageCount": 1,
-      "name": "Kind Tree | Pre-Rolls | Multipack | Pink Guava - Usable - 5pk/1.75g",
+      "name": "Kind Tree | Pre-Rolls | Multipack | Skywalker 11 - Usable - 2pk/1.0g",
       "brand": "Kind Tree",
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 1.75,
+      "quantity": 9.0,
       "unit": "Grams",
-      "strainName": "Pink Guava",
+      "strainName": "Skywalker 11",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 24.4,
+        "totalTHC": 22.11,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.67,
+        "CBG": 0.11,
+        "CBGA": 1.49,
         "CBN": 0.0,
-        "THCA": 26.77,
-        "THCV": 0.09
+        "THCA": 24.03,
+        "THCV": 0.14
       },
       "dose": null,
       "terpenes": {
-        "humulene": 0.06,
-        "myrcene": 0.31,
+        "bisabolol": 0.05,
+        "humulene": 0.08,
+        "myrcene": 0.23,
         "alpha-pinene": 0.03,
-        "caryophyllene": 0.23,
-        "beta-pinene": 0.05,
-        "limonene": 0.3,
-        "linalool": 0.18
+        "caryophyllene": 0.26,
+        "beta-pinene": 0.04,
+        "limonene": 0.33,
+        "linalool": 0.33
       },
-      "totalTerps": 1.27,
-      "dominantTerpene": "myrcene",
+      "totalTerps": 1.49,
+      "dominantTerpene": "limonene",
       "packages": [
         {
-          "id": 8521745,
-          "label": "1A403030000025B000075936",
-          "quantity": 1.75,
-          "packagedDate": "2026-03-31",
-          "expirationDate": "2027-02-21"
+          "id": 8270984,
+          "label": "1A403030000025B000072033",
+          "quantity": 9.0,
+          "packagedDate": "2026-02-25",
+          "expirationDate": null
         }
       ]
     },
@@ -35920,7 +35931,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 37.0,
+      "quantity": 36.0,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -35952,7 +35963,7 @@
         {
           "id": 8919175,
           "label": "1A40303000001F5000423330",
-          "quantity": 37.0,
+          "quantity": 36.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -36412,7 +36423,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 4.0,
       "unit": "Grams",
       "strainName": "Voyager",
       "strainType": null,
@@ -36444,7 +36455,7 @@
         {
           "id": 8890370,
           "label": "1A40303000001F5000420176",
-          "quantity": 6.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -36569,7 +36580,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 423.61,
+      "quantity": 420.11,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato TC",
       "strainType": null,
@@ -36600,7 +36611,7 @@
         {
           "id": 8765566,
           "label": "1A40303000001F5000408132",
-          "quantity": 423.61,
+          "quantity": 420.11,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
@@ -45388,7 +45399,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Grape Stomper",
       "strainType": null,
@@ -45422,7 +45433,7 @@
         {
           "id": 8873571,
           "label": "1A403030000012E000183582",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-06-13"
         }
@@ -47958,6 +47969,56 @@
       ]
     },
     {
+      "id": 8420302,
+      "packageCount": 1,
+      "name": "Just Vape | Vape | Distillate | Do-Si-Do - Vape Cart - 1g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 8.0,
+      "unit": "Each",
+      "strainName": "Do Si Do",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.43,
+        "totalCBD": 0.26,
+        "CBC": 0.48,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.38,
+        "CBGA": 0.0,
+        "CBN": 0.37,
+        "THCA": 0.0,
+        "THCV": 0.7
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.25,
+        "myrcene": 0.7,
+        "alpha-pinene": 0.16,
+        "caryophyllene": 1.08,
+        "beta-pinene": 0.17,
+        "limonene": 1.28,
+        "linalool": 0.49,
+        "terpinolene": 0.03
+      },
+      "totalTerps": 4.41,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8420302,
+          "label": "1A4030300004845000021350",
+          "quantity": 8.0,
+          "packagedDate": "2026-03-02",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8118780,
       "packageCount": 1,
       "name": "Just Vape | Vape | Distillate | OG Kush - Vape Cart - 1g",
@@ -49683,6 +49744,56 @@
       ]
     },
     {
+      "id": 8122776,
+      "packageCount": 1,
+      "name": "Live Liquid Diamonds: Lemon Royale-.5g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 21.0,
+      "unit": "Each",
+      "strainName": "Lemon Royale",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 78.89,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 9.21,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.66,
+        "myrcene": 1.95,
+        "alpha-pinene": 0.5,
+        "caryophyllene": 3.44,
+        "beta-pinene": 0.43,
+        "ocimene": 0.11,
+        "limonene": 2.19,
+        "linalool": 1.95,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 12.71,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8122776,
+          "label": "1A4030300003D55000004828",
+          "quantity": 21.0,
+          "packagedDate": "2026-02-25",
+          "expirationDate": "2026-11-09"
+        }
+      ]
+    },
+    {
       "id": 8147965,
       "packageCount": 1,
       "name": "Live Liquid Diamonds: Myers Reserve Lemon Skunk-.5g",
@@ -50273,7 +50384,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Mango Dragon",
       "strainType": null,
@@ -50304,7 +50415,7 @@
         {
           "id": 8873567,
           "label": "1A403030000012E000183009",
-          "quantity": 3.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-05-22"
         }
@@ -50771,7 +50882,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Melon Sherbert",
       "strainType": null,
@@ -50803,7 +50914,7 @@
         {
           "id": 8922975,
           "label": "1A403030000012E000187012",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-06-13"
         }
@@ -51912,7 +52023,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "OG Mint",
       "strainType": null,
@@ -51942,7 +52053,7 @@
         {
           "id": 8873609,
           "label": "1A403030000012E000183581",
-          "quantity": 5.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-06-05"
         }
@@ -52634,6 +52745,55 @@
       ]
     },
     {
+      "id": 8134431,
+      "packageCount": 1,
+      "name": "Purple Koala - Blink 2.0 Sauce Cart - 1g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 22.0,
+      "unit": "Each",
+      "strainName": "Purple Koala",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 81.77,
+        "CBC": 0.36,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.31,
+        "CBGA": 0.47,
+        "CBN": 0.42,
+        "THCA": 2.27,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.26,
+        "myrcene": 0.48,
+        "alpha-pinene": 0.24,
+        "caryophyllene": 1.23,
+        "beta-pinene": 0.22,
+        "limonene": 1.45,
+        "linalool": 0.93,
+        "terpinolene": 0.13
+      },
+      "totalTerps": 5.42,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8134431,
+          "label": "1A40303000039D1000070615",
+          "quantity": 22.0,
+          "packagedDate": "2026-02-27",
+          "expirationDate": "2027-01-22"
+        }
+      ]
+    },
+    {
       "id": 8765363,
       "packageCount": 1,
       "name": "Purple Martian DV 0.5g/500mg",
@@ -53088,7 +53248,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Razberry Blitz",
       "strainType": null,
@@ -53119,7 +53279,7 @@
         {
           "id": 8873607,
           "label": "1A403030000012E000183010",
-          "quantity": 12.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-07-03"
         }
@@ -55913,51 +56073,6 @@
           "label": "1A403030000012E000166354",
           "quantity": 8.0,
           "packagedDate": "2026-06-11",
-          "expirationDate": "2027-03-28"
-        }
-      ]
-    },
-    {
-      "id": 8756269,
-      "packageCount": 1,
-      "name": "Tropicalez Punch Distillate Cartridge Hellavated - Vape Cart - 1.0 g",
-      "brand": "Hellavated",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": "Tropicalez Punch",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 87.77,
-        "CBC": 0.56,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.04,
-        "CBGA": 0.0,
-        "CBN": 0.37,
-        "THCA": 0.0,
-        "THCV": 0.86
-      },
-      "dose": null,
-      "terpenes": {
-        "alpha-pinene": 0.03,
-        "beta-pinene": 0.11,
-        "limonene": 2.06,
-        "terpinolene": 0.03
-      },
-      "totalTerps": 2.33,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8756269,
-          "label": "1A403030000012E000176864",
-          "quantity": 2.0,
-          "packagedDate": "2026-07-21",
           "expirationDate": "2027-03-28"
         }
       ]
