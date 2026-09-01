@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T17:10:26.889751+00:00",
+  "generated_at": "2026-09-01T17:20:25.564092+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -13,6 +13,7 @@
     "Flower",
     "Pre-Roll",
     "Seeds",
+    "Shake/Trim",
     "Tincture",
     "Topical",
     "Vape"
@@ -13013,8 +13014,8 @@
       ]
     },
     {
-      "id": 8828988,
-      "packageCount": 2,
+      "id": 8550510,
+      "packageCount": 1,
       "name": "Curio Wellness Chill 25mg Plus Terpenes Pineapple Breeze Chews-Exempt-25mg-10",
       "brand": "Curio Wellness",
       "category": "Edible",
@@ -13022,35 +13023,35 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 27.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.564,
-        "CBC": 0.006,
+        "totalTHC": 0.565,
+        "CBC": 0.005,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.025,
+        "CBG": 0.024,
         "CBGA": 0.0,
-        "CBN": 0.023,
+        "CBN": 0.026,
         "THCA": 0.0,
-        "THCV": 0.005
+        "THCV": 0.003
       },
       "dose": {
         "servingSize": "1 piece",
         "totalThcMg": 250.0,
         "thcMgPerServing": 25.0,
         "minorsMgPerServing": {
-          "CBC": 0.24,
+          "CBC": 0.2,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 1.0,
+          "CBG": 0.96,
           "CBGA": 0.0,
-          "CBN": 0.92,
+          "CBN": 1.04,
           "THCA": 0.0,
-          "THCV": 0.2
+          "THCV": 0.12
         },
         "minorsEstimated": true
       },
@@ -13058,13 +13059,6 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
-        {
-          "id": 8828988,
-          "label": "1A403030000012D000259348",
-          "quantity": 23.0,
-          "packagedDate": "2026-08-06",
-          "expirationDate": null
-        },
         {
           "id": 8550510,
           "label": "1A403030000012D000236498",
@@ -14080,7 +14074,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14119,7 +14113,7 @@
         {
           "id": 8462431,
           "label": "1A403030000012D000233657",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-05-14",
           "expirationDate": null
         }
@@ -18481,28 +18475,30 @@
       ]
     },
     {
-      "id": 8678447,
-      "packageCount": 1,
+      "id": 8914798,
+      "packageCount": 2,
       "name": "HiColor RSO Hybrid Gummies Pineberry|Edible Product|10mg|10ct",
       "brand": "HiColor",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.21,
+        "totalTHC": 0.23,
+        "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
         "CBG": 0.0,
         "CBGA": 0.0,
-        "CBN": 0.002,
+        "CBN": 0.0,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -18511,12 +18507,13 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
+          "totalCBD": 0.0,
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
           "CBG": 0.0,
           "CBGA": 0.0,
-          "CBN": 0.085,
+          "CBN": 0.0,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -18526,6 +18523,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8914798,
+          "label": "1A4030300002009000112799",
+          "quantity": 20.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-05-22"
+        },
         {
           "id": 8678447,
           "label": "1A4030300002009000107924",
@@ -26180,7 +26184,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 217.0,
+      "quantity": 210.0,
       "unit": "Grams",
       "strainName": "Blueberry",
       "strainType": null,
@@ -26212,7 +26216,7 @@
         {
           "id": 8882277,
           "label": "1A4030300003521000056050",
-          "quantity": 217.0,
+          "quantity": 210.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-04"
         }
@@ -30447,7 +30451,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 22.75,
       "unit": "Grams",
       "strainName": "Animal Scout",
       "strainType": null,
@@ -30481,7 +30485,7 @@
         {
           "id": 8826456,
           "label": "1A40303000003EA000195253",
-          "quantity": 24.5,
+          "quantity": 22.75,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-15"
         }
@@ -31036,7 +31040,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 40.25,
       "unit": "Grams",
       "strainName": "Brownie Scout",
       "strainType": null,
@@ -31070,7 +31074,7 @@
         {
           "id": 8639444,
           "label": "1A40303000003EA000184244",
-          "quantity": 42.0,
+          "quantity": 40.25,
           "packagedDate": "2026-06-24",
           "expirationDate": "2027-05-07"
         }
@@ -34042,55 +34046,6 @@
       ]
     },
     {
-      "id": 8270984,
-      "packageCount": 1,
-      "name": "Kind Tree | Pre-Rolls | Multipack | Skywalker 11 - Usable - 2pk/1.0g",
-      "brand": "Kind Tree",
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 9.0,
-      "unit": "Grams",
-      "strainName": "Skywalker 11",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 22.11,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.11,
-        "CBGA": 1.49,
-        "CBN": 0.0,
-        "THCA": 24.03,
-        "THCV": 0.14
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.08,
-        "myrcene": 0.23,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 0.26,
-        "beta-pinene": 0.04,
-        "limonene": 0.33,
-        "linalool": 0.33
-      },
-      "totalTerps": 1.49,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8270984,
-          "label": "1A403030000025B000072033",
-          "quantity": 9.0,
-          "packagedDate": "2026-02-25",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8745273,
       "packageCount": 1,
       "name": "Kind Tree | Pre-Rolls | Multipack | White Iverson - Usable - 2pk/1g",
@@ -36600,6 +36555,53 @@
           "label": "1A40303000000CB000040524",
           "quantity": 5.0,
           "packagedDate": "2026-04-28",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8765566,
+      "packageCount": 1,
+      "name": "Shake/Trim - Black Cherry Gelato TC",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 423.61,
+      "unit": "Grams",
+      "strainName": "Black Cherry Gelato TC",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.58,
+        "totalCBD": 0.25,
+        "CBDA": 0.04,
+        "CBG": 0.82,
+        "CBN": 0.02,
+        "THCA": 33.2
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.11,
+        "myrcene": 0.4,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.33,
+        "beta-pinene": 0.05,
+        "limonene": 0.27,
+        "linalool": 0.04,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 1.38,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8765566,
+          "label": "1A40303000001F5000408132",
+          "quantity": 423.61,
+          "packagedDate": "2026-07-23",
           "expirationDate": null
         }
       ]
@@ -47956,56 +47958,6 @@
       ]
     },
     {
-      "id": 8420302,
-      "packageCount": 1,
-      "name": "Just Vape | Vape | Distillate | Do-Si-Do - Vape Cart - 1g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 8.0,
-      "unit": "Each",
-      "strainName": "Do Si Do",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 86.43,
-        "totalCBD": 0.26,
-        "CBC": 0.48,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.38,
-        "CBGA": 0.0,
-        "CBN": 0.37,
-        "THCA": 0.0,
-        "THCV": 0.7
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.25,
-        "myrcene": 0.7,
-        "alpha-pinene": 0.16,
-        "caryophyllene": 1.08,
-        "beta-pinene": 0.17,
-        "limonene": 1.28,
-        "linalool": 0.49,
-        "terpinolene": 0.03
-      },
-      "totalTerps": 4.41,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8420302,
-          "label": "1A4030300004845000021350",
-          "quantity": 8.0,
-          "packagedDate": "2026-03-02",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8118780,
       "packageCount": 1,
       "name": "Just Vape | Vape | Distillate | OG Kush - Vape Cart - 1g",
@@ -49731,56 +49683,6 @@
       ]
     },
     {
-      "id": 8122776,
-      "packageCount": 1,
-      "name": "Live Liquid Diamonds: Lemon Royale-.5g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 21.0,
-      "unit": "Each",
-      "strainName": "Lemon Royale",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 78.89,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 9.21,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.66,
-        "myrcene": 1.95,
-        "alpha-pinene": 0.5,
-        "caryophyllene": 3.44,
-        "beta-pinene": 0.43,
-        "ocimene": 0.11,
-        "limonene": 2.19,
-        "linalool": 1.95,
-        "terpinolene": 0.05
-      },
-      "totalTerps": 12.71,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8122776,
-          "label": "1A4030300003D55000004828",
-          "quantity": 21.0,
-          "packagedDate": "2026-02-25",
-          "expirationDate": "2026-11-09"
-        }
-      ]
-    },
-    {
       "id": 8147965,
       "packageCount": 1,
       "name": "Live Liquid Diamonds: Myers Reserve Lemon Skunk-.5g",
@@ -50371,7 +50273,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Mango Dragon",
       "strainType": null,
@@ -50402,7 +50304,7 @@
         {
           "id": 8873567,
           "label": "1A403030000012E000183009",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-05-22"
         }
@@ -52728,55 +52630,6 @@
           "quantity": 15.0,
           "packagedDate": "2026-03-23",
           "expirationDate": "2027-02-26"
-        }
-      ]
-    },
-    {
-      "id": 8134431,
-      "packageCount": 1,
-      "name": "Purple Koala - Blink 2.0 Sauce Cart - 1g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 22.0,
-      "unit": "Each",
-      "strainName": "Purple Koala",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 81.77,
-        "CBC": 0.36,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.31,
-        "CBGA": 0.47,
-        "CBN": 0.42,
-        "THCA": 2.27,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.26,
-        "myrcene": 0.48,
-        "alpha-pinene": 0.24,
-        "caryophyllene": 1.23,
-        "beta-pinene": 0.22,
-        "limonene": 1.45,
-        "linalool": 0.93,
-        "terpinolene": 0.13
-      },
-      "totalTerps": 5.42,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8134431,
-          "label": "1A40303000039D1000070615",
-          "quantity": 22.0,
-          "packagedDate": "2026-02-27",
-          "expirationDate": "2027-01-22"
         }
       ]
     },
