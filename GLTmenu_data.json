@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T17:50:25.666988+00:00",
+  "generated_at": "2026-09-01T18:00:30.652178+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7321,7 +7321,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Syringe",
       "strainType": null,
@@ -7350,7 +7350,7 @@
         {
           "id": 8882466,
           "label": "1A4030300003522000202279",
-          "quantity": 10.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-04-27"
         }
@@ -12239,7 +12239,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12278,7 +12278,7 @@
         {
           "id": 8828726,
           "label": "1A4030300003522000195370",
-          "quantity": 17.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-23"
         }
@@ -18218,44 +18218,47 @@
       ]
     },
     {
-      "id": 8386145,
-      "packageCount": 1,
+      "id": 8914788,
+      "packageCount": 2,
       "name": "HiColor Max Gummies Bear Lake Raspberry|Exempt|40mg|10ct",
       "brand": "HiColor",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.833,
-        "CBC": 0.024,
+        "totalTHC": 0.82,
+        "totalCBD": 0.0,
+        "CBC": 0.03,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.098,
+        "CBG": 0.08,
         "CBGA": 0.0,
-        "CBN": 0.008,
+        "CBN": 0.0,
         "THCA": 0.0,
-        "THCV": 0.005
+        "THCV": 0.0
       },
       "dose": {
         "servingSize": "1pc",
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "CBC": 1.021,
+          "totalCBD": 0.0,
+          "CBC": 1.276,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 4.167,
+          "CBG": 3.402,
           "CBGA": 0.0,
-          "CBN": 0.34,
+          "CBN": 0.0,
           "THCA": 0.0,
-          "THCV": 0.213
+          "THCV": 0.0
         },
         "minorsEstimated": true
       },
@@ -18263,6 +18266,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8914788,
+          "label": "1A4030300002009000112793",
+          "quantity": 20.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-02-23"
+        },
         {
           "id": 8386145,
           "label": "1A4030300002009000099172",
@@ -18328,28 +18338,30 @@
       ]
     },
     {
-      "id": 8288951,
-      "packageCount": 1,
+      "id": 8914791,
+      "packageCount": 2,
       "name": "HiColor Max Gummies Wild Black Cherry|Exempt|40mg|10ct",
       "brand": "HiColor",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.837,
-        "CBC": 0.013,
+        "totalTHC": 0.804,
+        "totalCBD": 0.0,
+        "CBC": 0.03,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.071,
+        "CBG": 0.08,
         "CBGA": 0.0,
-        "CBN": 0.009,
+        "CBN": 0.0,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -18358,12 +18370,13 @@
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "CBC": 0.553,
+          "totalCBD": 0.0,
+          "CBC": 1.276,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 3.019,
+          "CBG": 3.402,
           "CBGA": 0.0,
-          "CBN": 0.383,
+          "CBN": 0.0,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -18373,6 +18386,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8914791,
+          "label": "1A4030300002009000112796",
+          "quantity": 20.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-02-23"
+        },
         {
           "id": 8288951,
           "label": "1A4030300002009000096909",
