@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T18:40:26.145750+00:00",
+  "generated_at": "2026-09-01T18:50:30.706016+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -28733,7 +28733,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -28767,7 +28767,7 @@
         {
           "id": 8919168,
           "label": "1A40303000001F5000423328",
-          "quantity": 38.5,
+          "quantity": 35.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -35475,7 +35475,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 34.0,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
@@ -35510,7 +35510,7 @@
         {
           "id": 8911103,
           "label": "1A40303000000CB000050580",
-          "quantity": 35.0,
+          "quantity": 34.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         }
@@ -36568,7 +36568,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 370.67,
+      "quantity": 367.17,
       "unit": "Grams",
       "strainName": "Sour Dubble",
       "strainType": null,
@@ -36601,7 +36601,7 @@
         {
           "id": 8606883,
           "label": "1A4030300002009000105201",
-          "quantity": 370.67,
+          "quantity": 367.17,
           "packagedDate": "2026-06-17",
           "expirationDate": null
         }
@@ -36617,7 +36617,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 381.61,
+      "quantity": 378.11,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato TC",
       "strainType": null,
@@ -36648,7 +36648,7 @@
         {
           "id": 8765566,
           "label": "1A40303000001F5000408132",
-          "quantity": 381.61,
+          "quantity": 378.11,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
@@ -39636,6 +39636,56 @@
       ]
     },
     {
+      "id": 7653805,
+      "packageCount": 1,
+      "name": "Animal Mintz BD - BOMA Vape Cart (Color: Commanders) - 0.5g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 2.0,
+      "unit": "Each",
+      "strainName": "Animal Mintz BD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 89.15,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 1.35,
+        "THCV": 0.84
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.08,
+        "myrcene": 0.51,
+        "alpha-pinene": 0.28,
+        "caryophyllene": 0.21,
+        "beta-pinene": 0.22,
+        "caryophyllene-oxide": 0.07,
+        "limonene": 2.86,
+        "linalool": 0.27,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 5.48,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 7653805,
+          "label": "1A40303000037DD000018250",
+          "quantity": 2.0,
+          "packagedDate": "2025-10-27",
+          "expirationDate": "2026-09-08"
+        }
+      ]
+    },
+    {
       "id": 8778178,
       "packageCount": 1,
       "name": "Apple Berry Pie (NCD) &Shine (Hybrid) - Vape Pen - 1000mg",
@@ -40286,56 +40336,6 @@
           "quantity": 2.0,
           "packagedDate": "2026-06-17",
           "expirationDate": "2027-04-17"
-        }
-      ]
-    },
-    {
-      "id": 8768052,
-      "packageCount": 1,
-      "name": "Beezle - Buzz Vape - Banana Piepaya - 0.5g",
-      "brand": "Beezle",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Banana Piepaya",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 84.9,
-        "CBC": 1.08,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.48,
-        "CBGA": 0.0,
-        "CBN": 0.72,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.11,
-        "myrcene": 0.47,
-        "alpha-pinene": 0.35,
-        "caryophyllene": 0.5,
-        "beta-pinene": 0.26,
-        "limonene": 1.99,
-        "linalool": 0.35,
-        "terpinolene": 0.05,
-        "nerolidol": 0.14
-      },
-      "totalTerps": 4.59,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8768052,
-          "label": "1A403030000283D000056945",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-23",
-          "expirationDate": "2027-06-18"
         }
       ]
     },
@@ -45584,6 +45584,57 @@
       ]
     },
     {
+      "id": 8115303,
+      "packageCount": 1,
+      "name": "Herbal Gummiez FSE - 510 Vape Cart - 1g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 13.0,
+      "unit": "Each",
+      "strainName": "Herbal Gummiez FSE",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 74.72,
+        "CBC": 0.57,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.27,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.16,
+        "humulene": 0.4,
+        "myrcene": 1.12,
+        "alpha-pinene": 0.34,
+        "caryophyllene": 1.51,
+        "beta-pinene": 0.39,
+        "ocimene": 0.17,
+        "limonene": 2.11,
+        "linalool": 1.04,
+        "terpinolene": 1.4
+      },
+      "totalTerps": 9.46,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8115303,
+          "label": "ABC0303000037DD000021007",
+          "quantity": 13.0,
+          "packagedDate": "2026-02-24",
+          "expirationDate": "2027-02-09"
+        }
+      ]
+    },
+    {
       "id": 8034200,
       "packageCount": 1,
       "name": "HiAF|Disposable Live Terpenes|Dosidos|Vape Cart|1000mg",
@@ -49677,6 +49728,56 @@
           "quantity": 37.0,
           "packagedDate": "2026-07-10",
           "expirationDate": "2027-02-15"
+        }
+      ]
+    },
+    {
+      "id": 8122776,
+      "packageCount": 1,
+      "name": "Live Liquid Diamonds: Lemon Royale-.5g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 21.0,
+      "unit": "Each",
+      "strainName": "Lemon Royale",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 78.89,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 9.21,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.66,
+        "myrcene": 1.95,
+        "alpha-pinene": 0.5,
+        "caryophyllene": 3.44,
+        "beta-pinene": 0.43,
+        "ocimene": 0.11,
+        "limonene": 2.19,
+        "linalool": 1.95,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 12.71,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8122776,
+          "label": "1A4030300003D55000004828",
+          "quantity": 21.0,
+          "packagedDate": "2026-02-25",
+          "expirationDate": "2026-11-09"
         }
       ]
     },
