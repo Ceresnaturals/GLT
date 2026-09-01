@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T13:00:29.605868+00:00",
+  "generated_at": "2026-09-01T13:10:27.261051+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3599,16 +3599,17 @@
       ]
     },
     {
-      "id": 8854302,
-      "packageCount": 1,
+      "id": 8911016,
+      "packageCount": 2,
       "name": "Ice Cream Cake Live Rosin Cold Cured 1.0g",
       "brand": null,
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": "Ice Cream Cake Cold",
       "strainType": null,
@@ -3638,6 +3639,13 @@
       "totalTerps": 9.42,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 8911016,
+          "label": "1A4030300000C83000086190",
+          "quantity": 20.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-08-04"
+        },
         {
           "id": 8854302,
           "label": "1A4030300000C83000079933",
@@ -35649,6 +35657,55 @@
           "quantity": 28.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-07-18"
+        }
+      ]
+    },
+    {
+      "id": 8919094,
+      "packageCount": 1,
+      "name": "Strawberry Candy #4 - Diamond Duster 0.5g Infused Pre-Roll 5-Pack Tin",
+      "brand": "Diamond Duster",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Strawberry Candy",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 43.55,
+        "totalCBD": 0.03,
+        "CBC": 0.0,
+        "CBDA": 0.03,
+        "CBDV": 0.0,
+        "CBG": 0.2,
+        "CBGA": 0.42,
+        "CBN": 0.0,
+        "THCA": 48.01,
+        "THCV": 0.35
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.05,
+        "myrcene": 0.17,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.17,
+        "beta-pinene": 0.02,
+        "limonene": 0.11,
+        "linalool": 0.07
+      },
+      "totalTerps": 0.64,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8919094,
+          "label": "1A40303000001F5000423338",
+          "quantity": 10.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-04-02"
         }
       ]
     },
