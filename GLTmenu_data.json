@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T18:00:30.652178+00:00",
+  "generated_at": "2026-09-01T18:10:28.927742+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11062,7 +11062,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11101,7 +11101,7 @@
         {
           "id": 8882297,
           "label": "1A4030300003522000202249",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-21"
         }
@@ -11182,7 +11182,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11223,7 +11223,7 @@
         {
           "id": 8882197,
           "label": "1A4030300003522000202245",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-23"
         }
@@ -12184,7 +12184,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12223,7 +12223,7 @@
         {
           "id": 8882408,
           "label": "1A4030300003522000202253",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-02"
         }
@@ -18283,44 +18283,45 @@
       ]
     },
     {
-      "id": 8163769,
-      "packageCount": 1,
+      "id": 8914789,
+      "packageCount": 2,
       "name": "HiColor Max Gummies Juicy Peach|Exempt|40mg|10ct",
       "brand": "HiColor",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.828,
-        "CBC": 0.013,
+        "totalTHC": 0.811,
+        "CBC": 0.021,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.065,
+        "CBG": 0.074,
         "CBGA": 0.0,
-        "CBN": 0.009,
+        "CBN": 0.007,
         "THCA": 0.0,
-        "THCV": 0.0
+        "THCV": 0.005
       },
       "dose": {
         "servingSize": "1pc",
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "CBC": 0.553,
+          "CBC": 0.893,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 2.764,
+          "CBG": 3.147,
           "CBGA": 0.0,
-          "CBN": 0.383,
+          "CBN": 0.298,
           "THCA": 0.0,
-          "THCV": 0.0
+          "THCV": 0.213
         },
         "minorsEstimated": true
       },
@@ -18328,6 +18329,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8914789,
+          "label": "1A4030300002009000112794",
+          "quantity": 20.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-05-14"
+        },
         {
           "id": 8163769,
           "label": "1A4030300002009000092999",
@@ -22590,7 +22598,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22631,7 +22639,7 @@
         {
           "id": 8919306,
           "label": "1A40303000001F5000423347",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-28"
         }
@@ -26328,7 +26336,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 49.0,
+      "quantity": 45.5,
       "unit": "Grams",
       "strainName": "Romulan",
       "strainType": null,
@@ -26363,7 +26371,7 @@
         {
           "id": 8766296,
           "label": "1A4030300003521000054047",
-          "quantity": 49.0,
+          "quantity": 45.5,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-27"
         }
@@ -31731,7 +31739,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Grams",
       "strainName": "Crescendo",
       "strainType": null,
@@ -31764,7 +31772,7 @@
         {
           "id": 8828987,
           "label": "1A403030000012D000259346",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -36603,6 +36611,55 @@
           "label": "1A40303000000CB000040524",
           "quantity": 5.0,
           "packagedDate": "2026-04-28",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8606883,
+      "packageCount": 1,
+      "name": "1937|Trim|Sour Dubble|Usable|Bulk|454g",
+      "brand": "1937",
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 370.67,
+      "unit": "Grams",
+      "strainName": "Sour Dubble",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 21.51,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.66,
+        "CBN": 0.0,
+        "THCA": 24.53,
+        "THCV": 0.15
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.12,
+        "humulene": 0.13,
+        "myrcene": 0.13,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.49,
+        "beta-pinene": 0.08,
+        "limonene": 0.51,
+        "linalool": 0.17
+      },
+      "totalTerps": 1.86,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8606883,
+          "label": "1A4030300002009000105201",
+          "quantity": 370.67,
+          "packagedDate": "2026-06-17",
           "expirationDate": null
         }
       ]
