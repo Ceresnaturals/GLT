@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T13:50:25.196713+00:00",
+  "generated_at": "2026-09-01T14:00:27.693478+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -41646,42 +41646,50 @@
       ]
     },
     {
-      "id": 8821029,
-      "packageCount": 1,
+      "id": 8922974,
+      "packageCount": 2,
       "name": "Bomb Popz Distillate Cartridge Hellavated - Vape Cart - 1.0 g",
       "brand": "Hellavated",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Bomb Popz",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 83.38,
-        "CBC": 0.4,
+        "totalTHC": 91.19,
+        "CBC": 0.41,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 3.11,
+        "CBG": 3.84,
         "CBGA": 0.0,
-        "CBN": 0.3,
+        "CBN": 0.44,
         "THCA": 0.0,
-        "THCV": 2.27
+        "THCV": 0.0
       },
       "dose": null,
       "terpenes": {
-        "myrcene": 0.37,
-        "alpha-pinene": 0.58,
-        "caryophyllene": 0.46,
+        "myrcene": 0.42,
+        "alpha-pinene": 0.57,
+        "caryophyllene": 0.48,
         "beta-pinene": 0.11,
-        "limonene": 1.8
+        "limonene": 1.73
       },
-      "totalTerps": 3.41,
+      "totalTerps": 3.39,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 8922974,
+          "label": "1A403030000012E000187011",
+          "quantity": 11.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": "2027-07-31"
+        },
         {
           "id": 8821029,
           "label": "1A403030000012E000181563",
@@ -44517,6 +44525,57 @@
           "quantity": 11.0,
           "packagedDate": "2026-06-03",
           "expirationDate": "2026-12-15"
+        }
+      ]
+    },
+    {
+      "id": 8911022,
+      "packageCount": 1,
+      "name": "Fruit Gushers Live Resin Vape Cart 1.0mL",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Each",
+      "strainName": "Fruit Gushers",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 77.7,
+        "CBC": 0.54,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.45,
+        "CBGA": 0.48,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.37,
+        "humulene": 0.4,
+        "myrcene": 0.64,
+        "alpha-pinene": 0.39,
+        "caryophyllene": 1.53,
+        "eudesmol": 0.46,
+        "beta-pinene": 0.07,
+        "limonene": 2.27,
+        "linalool": 0.58,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 7.87,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8911022,
+          "label": "1A4030300000C83000086195",
+          "quantity": 16.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-08-14"
         }
       ]
     },
