@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T15:40:28.092729+00:00",
+  "generated_at": "2026-09-01T15:50:25.133469+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -23112,44 +23112,45 @@
       ]
     },
     {
-      "id": 8743702,
-      "packageCount": 1,
+      "id": 8875133,
+      "packageCount": 2,
       "name": "WYLD GF Gummies - Edible Product-10mg-10",
       "brand": "WYLD",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 32.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.279,
-        "CBC": 0.254,
+        "totalTHC": 0.243,
+        "CBC": 0.246,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.264,
+        "CBG": 0.253,
         "CBGA": 0.0,
-        "CBN": 0.002,
-        "THCA": 0.005,
-        "THCV": 0.002
+        "CBN": 0.004,
+        "THCA": 0.0,
+        "THCV": 0.0
       },
       "dose": {
         "servingSize": "1 gummy",
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "CBC": 10.16,
+          "CBC": 9.84,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 10.56,
+          "CBG": 10.12,
           "CBGA": 0.0,
-          "CBN": 0.08,
-          "THCA": 0.2,
-          "THCV": 0.08
+          "CBN": 0.16,
+          "THCA": 0.0,
+          "THCV": 0.0
         },
         "minorsEstimated": true
       },
@@ -23157,6 +23158,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8875133,
+          "label": "1A403030000390D000066324",
+          "quantity": 20.0,
+          "packagedDate": "2026-08-17",
+          "expirationDate": "2027-08-09"
+        },
         {
           "id": 8743702,
           "label": "1A403030000390D000065938",
@@ -27757,7 +27765,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 10.5,
       "unit": "Grams",
       "strainName": "Chocolatina",
       "strainType": null,
@@ -27791,7 +27799,7 @@
         {
           "id": 8882269,
           "label": "1A4030300003521000056047",
-          "quantity": 17.5,
+          "quantity": 10.5,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-31"
         }
