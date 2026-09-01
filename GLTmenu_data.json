@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T20:10:24.839396+00:00",
+  "generated_at": "2026-09-01T20:20:25.595085+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3186,6 +3186,56 @@
           "label": "ABC0303000037DD000024829",
           "quantity": 38.0,
           "packagedDate": "2026-07-28",
+          "expirationDate": "2027-07-02"
+        }
+      ]
+    },
+    {
+      "id": 8872074,
+      "packageCount": 1,
+      "name": "Funky Headband - Cured Sugar - 3.5g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Funky Headband",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 77.84,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.97,
+        "CBN": 0.0,
+        "THCA": 84.57,
+        "THCV": 0.77
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.23,
+        "humulene": 0.36,
+        "myrcene": 0.63,
+        "alpha-pinene": 0.11,
+        "caryophyllene": 1.19,
+        "beta-pinene": 0.14,
+        "limonene": 0.9,
+        "linalool": 0.85,
+        "terpinolene": 0.07
+      },
+      "totalTerps": 5.05,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8872074,
+          "label": "1A40303000037DD000025274",
+          "quantity": 20.0,
+          "packagedDate": "2026-08-17",
           "expirationDate": "2027-07-02"
         }
       ]
@@ -19034,7 +19084,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19075,7 +19125,7 @@
         {
           "id": 8518567,
           "label": "1A4030300003522000192421",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-04-23"
         }
@@ -26452,7 +26502,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 84.0,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "Berry Citrus Slurricane",
       "strainType": null,
@@ -26484,7 +26534,7 @@
         {
           "id": 8882282,
           "label": "1A4030300003521000056052",
-          "quantity": 84.0,
+          "quantity": 70.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-16"
         }
@@ -51329,7 +51379,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Banana Berry Smoothie",
       "strainType": null,
@@ -51361,7 +51411,7 @@
         {
           "id": 8885895,
           "label": "1A403030000283D000057729",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-06-24"
         }
