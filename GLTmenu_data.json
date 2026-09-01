@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T21:30:25.104361+00:00",
+  "generated_at": "2026-09-01T21:40:25.458199+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4232,6 +4232,48 @@
           "quantity": 16.0,
           "packagedDate": "2026-08-10",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 7643607,
+      "packageCount": 1,
+      "name": "LORE Double Diamonds 1g - Gelato OG",
+      "brand": "LORE",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Weight)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 32.0,
+      "unit": "Grams",
+      "strainName": "Gelato OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 34.95,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.51,
+        "CBN": 0.0,
+        "THCA": 33.24,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.05
+      },
+      "totalTerps": 0.0,
+      "dominantTerpene": "humulene",
+      "packages": [
+        {
+          "id": 7643607,
+          "label": "1A4030300003201000000461",
+          "quantity": 32.0,
+          "packagedDate": "2025-10-23",
+          "expirationDate": "2026-10-14"
         }
       ]
     },
@@ -11939,6 +11981,61 @@
           "id": 8828732,
           "label": "1A4030300003522000195375",
           "quantity": 11.0,
+          "packagedDate": "2026-08-06",
+          "expirationDate": "2027-07-30"
+        }
+      ]
+    },
+    {
+      "id": 8828677,
+      "packageCount": 1,
+      "name": "Betty's Eddies Pumpkin Spice Latte Fruit Chews-Exempt-40mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.559,
+        "CBC": 0.147,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.153,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.004
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "CBC": 10.437,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 10.863,
+          "CBGA": 0.0,
+          "CBN": 0.142,
+          "THCA": 0.0,
+          "THCV": 0.284
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8828677,
+          "label": "1A4030300003522000195376",
+          "quantity": 12.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-30"
         }
@@ -22814,7 +22911,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22855,7 +22952,7 @@
         {
           "id": 8919306,
           "label": "1A40303000001F5000423347",
-          "quantity": 14.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-28"
         }
@@ -28132,7 +28229,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 364.0,
+      "quantity": 308.0,
       "unit": "Grams",
       "strainName": "Double Krush",
       "strainType": null,
@@ -28166,7 +28263,7 @@
         {
           "id": 8882192,
           "label": "1A4030300003521000056053",
-          "quantity": 364.0,
+          "quantity": 308.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-06"
         }
@@ -33772,7 +33869,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -33807,7 +33904,7 @@
         {
           "id": 8894077,
           "label": "1A403030000012D000261762",
-          "quantity": 20.0,
+          "quantity": 16.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -33962,58 +34059,6 @@
           "label": "1A403030000012D000255828",
           "quantity": 3.0,
           "packagedDate": "2026-07-16",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8864064,
-      "packageCount": 1,
-      "name": "Kaviar Sativa Infused Pre-Roll - Concentrate - 1.5g",
-      "brand": "Kaviar",
-      "category": "Pre-Roll",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 6.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": "Sativa",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 38.86,
-        "CBC": 0.55,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.74,
-        "CBGA": 0.64,
-        "CBN": 0.23,
-        "THCA": 15.9,
-        "THCV": 0.16
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.08,
-        "humulene": 0.16,
-        "myrcene": 0.12,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 0.54,
-        "eudesmol": 0.09,
-        "beta-pinene": 0.04,
-        "ocimene": 0.07,
-        "limonene": 0.23,
-        "linalool": 0.16,
-        "terpinolene": 0.16
-      },
-      "totalTerps": 1.88,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8864064,
-          "label": "1A403030000012D000260500",
-          "quantity": 6.0,
-          "packagedDate": "2026-08-13",
           "expirationDate": null
         }
       ]
@@ -34914,7 +34959,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 101.5,
+      "quantity": 94.5,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -34946,7 +34991,7 @@
         {
           "id": 8911027,
           "label": "1A40303000000CB000050578",
-          "quantity": 101.5,
+          "quantity": 94.5,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         }
@@ -34962,7 +35007,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 98.0,
+      "quantity": 94.5,
       "unit": "Grams",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -34997,7 +35042,7 @@
         {
           "id": 8911028,
           "label": "1A40303000000CB000050579",
-          "quantity": 98.0,
+          "quantity": 94.5,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-28"
         }
@@ -46849,7 +46894,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "White Runtz",
       "strainType": null,
@@ -46883,7 +46928,7 @@
         {
           "id": 8034266,
           "label": "1A4030300002009000089131",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-02-04",
           "expirationDate": "2027-01-18"
         }
@@ -52080,7 +52125,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": "RS",
       "strainType": null,
@@ -52114,7 +52159,7 @@
         {
           "id": 8882189,
           "label": "1A4030300003522000202241",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-09"
         }
