@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T01:50:27.816546+00:00",
+  "generated_at": "2026-09-01T13:00:29.605868+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -26125,6 +26125,54 @@
       ]
     },
     {
+      "id": 8882277,
+      "packageCount": 1,
+      "name": "In House Blueberry Buds-Usable-7g",
+      "brand": "In House",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 224.0,
+      "unit": "Grams",
+      "strainName": "Blueberry",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 19.55,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.12,
+        "CBGA": 0.45,
+        "CBN": 0.0,
+        "THCA": 21.9,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.08,
+        "myrcene": 0.23,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.29,
+        "beta-pinene": 0.06,
+        "limonene": 0.44,
+        "linalool": 0.28
+      },
+      "totalTerps": 1.55,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8882277,
+          "label": "1A4030300003521000056050",
+          "quantity": 224.0,
+          "packagedDate": "2026-08-18",
+          "expirationDate": "2027-07-04"
+        }
+      ]
+    },
+    {
       "id": 8882266,
       "packageCount": 1,
       "name": "In House Guava IX Ground Flower-Usable-7g",
@@ -27750,6 +27798,104 @@
           "quantity": 21.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-31"
+        }
+      ]
+    },
+    {
+      "id": 8882192,
+      "packageCount": 1,
+      "name": "NH Double Krush Flower-Usable-28g",
+      "brand": "NH",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 448.0,
+      "unit": "Grams",
+      "strainName": "Double Krush",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.72,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.94,
+        "CBN": 0.0,
+        "THCA": 31.79,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.13,
+        "humulene": 0.18,
+        "myrcene": 0.7,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.71,
+        "beta-pinene": 0.06,
+        "limonene": 0.42,
+        "linalool": 0.27,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.66,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8882192,
+          "label": "1A4030300003521000056053",
+          "quantity": 448.0,
+          "packagedDate": "2026-08-18",
+          "expirationDate": "2027-08-06"
+        }
+      ]
+    },
+    {
+      "id": 8882181,
+      "packageCount": 1,
+      "name": "NH Governmint Oasis Flower-Usable-3.5g",
+      "brand": "NH",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 112.0,
+      "unit": "Grams",
+      "strainName": "Governmint Oasis",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.49,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.31,
+        "CBN": 0.0,
+        "THCA": 31.19,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.19,
+        "myrcene": 0.08,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.59,
+        "beta-pinene": 0.05,
+        "limonene": 0.43
+      },
+      "totalTerps": 1.53,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8882181,
+          "label": "1A4030300003521000056049",
+          "quantity": 112.0,
+          "packagedDate": "2026-08-18",
+          "expirationDate": "2027-07-18"
         }
       ]
     },
