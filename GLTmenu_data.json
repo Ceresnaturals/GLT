@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T19:00:30.727486+00:00",
+  "generated_at": "2026-09-01T19:10:30.959587+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3953,6 +3953,52 @@
           "quantity": 13.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-06-10"
+        }
+      ]
+    },
+    {
+      "id": 8914780,
+      "packageCount": 1,
+      "name": "K&Q|Cured THCa Isolate|McRuntz|Conncentrate|1.0g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 15.0,
+      "unit": "Each",
+      "strainName": "Conncentrate",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.23,
+        "totalCBD": 0.03,
+        "CBC": 0.0,
+        "CBDA": 0.03,
+        "CBDV": 0.0,
+        "CBG": 0.07,
+        "CBGA": 0.38,
+        "CBN": 0.0,
+        "THCA": 97.71,
+        "THCV": 0.22
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.02,
+        "myrcene": 0.04,
+        "limonene": 0.15,
+        "terpinolene": 0.03
+      },
+      "totalTerps": 0.39,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8914780,
+          "label": "1A4030300002009000112785",
+          "quantity": 15.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-05-05"
         }
       ]
     },
@@ -17864,6 +17910,61 @@
       ]
     },
     {
+      "id": 8914614,
+      "packageCount": 1,
+      "name": "HiColor Dream Gummies Blackberry 1:1|Edible Product|10mg|10ct",
+      "brand": "HiColor",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.203,
+        "CBC": 0.008,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.033,
+        "CBGA": 0.0,
+        "CBN": 0.203,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1pc",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.34,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.403,
+          "CBGA": 0.0,
+          "CBN": 8.632,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8914614,
+          "label": "1A4030300002009000112787",
+          "quantity": 20.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-05-18"
+        }
+      ]
+    },
+    {
       "id": 8606293,
       "packageCount": 1,
       "name": "HiColor Gummies Alfonso Mango 1:1|Edible Product|10mg|10ct",
@@ -18149,6 +18250,63 @@
           "quantity": 14.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-03-30"
+        }
+      ]
+    },
+    {
+      "id": 8914783,
+      "packageCount": 1,
+      "name": "HiColor Gummies Raspberry Lemonade 1:1:1|Edible Product|10mg|10ct",
+      "brand": "HiColor",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.235,
+        "totalCBD": 0.203,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.267,
+        "CBGA": 0.0,
+        "CBN": 0.03,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1pc",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.002,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.003,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8914783,
+          "label": "1A4030300002009000112789",
+          "quantity": 20.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-05-13"
         }
       ]
     },
@@ -18521,6 +18679,61 @@
       ]
     },
     {
+      "id": 8914797,
+      "packageCount": 1,
+      "name": "HiColor RSO Hybrid Gummies Passionfruit|Edible Product|10mg|10ct",
+      "brand": "HiColor",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.228,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1pc",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.085,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8914797,
+          "label": "1A4030300002009000112798",
+          "quantity": 20.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-05-07"
+        }
+      ]
+    },
+    {
       "id": 8914798,
       "packageCount": 2,
       "name": "HiColor RSO Hybrid Gummies Pineberry|Edible Product|10mg|10ct",
@@ -18646,6 +18859,61 @@
           "quantity": 3.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-04-29"
+        }
+      ]
+    },
+    {
+      "id": 8914800,
+      "packageCount": 1,
+      "name": "HiColor RSO Sativa Gummies Sour Lemon Drop|Edible Product|10mg|10ct",
+      "brand": "HiColor",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.229,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.001,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1pc",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.043,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8914800,
+          "label": "1A4030300002009000112801",
+          "quantity": 20.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-05-15"
         }
       ]
     },
@@ -33055,6 +33323,101 @@
       ]
     },
     {
+      "id": 8914807,
+      "packageCount": 1,
+      "name": "K&Q|Diamond Infused Blunts|Blueberry Cruffin|2ct, 1.0g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Blueberry Cruffin",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 41.57,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.56,
+        "CBN": 0.0,
+        "THCA": 46.79,
+        "THCV": 0.2
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.09,
+        "caryophyllene": 0.24,
+        "beta-pinene": 0.02,
+        "limonene": 0.1,
+        "linalool": 0.08
+      },
+      "totalTerps": 0.62,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8914807,
+          "label": "1A4030300002009000112808",
+          "quantity": 10.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-08-11"
+        }
+      ]
+    },
+    {
+      "id": 8914804,
+      "packageCount": 1,
+      "name": "K&Q|Diamond Infused Blunts|Duct Tape|2ct, 1.0g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Duct Tape",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 44.7,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.53,
+        "CBN": 0.0,
+        "THCA": 48.96,
+        "THCV": 0.33
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.14,
+        "myrcene": 0.03,
+        "alpha-pinene": 0.01,
+        "caryophyllene": 0.52,
+        "beta-pinene": 0.01,
+        "limonene": 0.05,
+        "linalool": 0.1
+      },
+      "totalTerps": 1.08,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8914804,
+          "label": "1A4030300002009000112805",
+          "quantity": 10.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-07-29"
+        }
+      ]
+    },
+    {
       "id": 8751949,
       "packageCount": 1,
       "name": "K&Q|Diamond Infused Blunts|GMO Pie|2ct, 1.0g",
@@ -33104,6 +33467,55 @@
       ]
     },
     {
+      "id": 8914805,
+      "packageCount": 1,
+      "name": "K&Q|Diamond Infused Blunts|Purple Panties|2ct, 1.0g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Purple Panties",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 48.54,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.44,
+        "CBN": 0.0,
+        "THCA": 53.54,
+        "THCV": 0.21
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.07,
+        "myrcene": 0.1,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.24,
+        "beta-pinene": 0.02,
+        "limonene": 0.06,
+        "linalool": 0.14
+      },
+      "totalTerps": 0.85,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8914805,
+          "label": "1A4030300002009000112806",
+          "quantity": 10.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-07-08"
+        }
+      ]
+    },
+    {
       "id": 8752069,
       "packageCount": 1,
       "name": "K&Q|Diamond Infused Blunts|Rain Drops|2ct, 1.0g",
@@ -33149,6 +33561,51 @@
           "quantity": 6.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-03-04"
+        }
+      ]
+    },
+    {
+      "id": 8914806,
+      "packageCount": 1,
+      "name": "K&Q|Diamond Infused Pre-Roll|Bazooka Haze|Usable|1ct, 1g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Bazooka Haze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 44.5,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.51,
+        "CBN": 0.03,
+        "THCA": 49.44,
+        "THCV": 0.2
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.04,
+        "myrcene": 0.06,
+        "alpha-pinene": 0.01,
+        "caryophyllene": 0.07
+      },
+      "totalTerps": 0.21,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8914806,
+          "label": "1A4030300002009000112807",
+          "quantity": 10.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-06-24"
         }
       ]
     },
@@ -43865,7 +44322,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Glitter Bomb",
       "strainType": null,
@@ -43901,7 +44358,7 @@
         {
           "id": 8840302,
           "label": "1A4030300004845000037837",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-07-30",
           "expirationDate": null
         }
@@ -44021,7 +44478,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": "Shaved Monkey",
       "strainType": null,
@@ -44057,7 +44514,7 @@
         {
           "id": 8881944,
           "label": "1A4030300004845000039297",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-08-10",
           "expirationDate": null
         }
@@ -46033,6 +46490,54 @@
       ]
     },
     {
+      "id": 8914808,
+      "packageCount": 1,
+      "name": "HiAF|Disposable|Cotton Candy|Vape Cart|1000mg",
+      "brand": "HiAF",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Cotton Candy",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 88.81,
+        "CBC": 0.44,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.12,
+        "CBGA": 0.0,
+        "CBN": 0.38,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.16,
+        "humulene": 0.12,
+        "myrcene": 0.84,
+        "caryophyllene": 0.37,
+        "limonene": 1.8,
+        "linalool": 0.24,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 3.84,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8914808,
+          "label": "1A4030300002009000112809",
+          "quantity": 10.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-04-20"
+        }
+      ]
+    },
+    {
       "id": 8752071,
       "packageCount": 1,
       "name": "HiAF|Disposable|Mango Sunrise|Vape Cart|1000mg",
@@ -46125,6 +46630,56 @@
           "quantity": 2.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-04-12"
+        }
+      ]
+    },
+    {
+      "id": 8914809,
+      "packageCount": 1,
+      "name": "HiAF|Disposable|Sour Patch Watermelon|Vape Cart|1000mg",
+      "brand": "HiAF",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Sour Patch Watermelon",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.06,
+        "CBC": 0.64,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.33,
+        "CBGA": 0.0,
+        "CBN": 0.9,
+        "THCA": 0.0,
+        "THCV": 0.75
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.13,
+        "myrcene": 0.49,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.68,
+        "beta-pinene": 0.07,
+        "limonene": 1.05,
+        "linalool": 0.27,
+        "terpinolene": 0.22,
+        "nerolidol": 0.18
+      },
+      "totalTerps": 4.01,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8914809,
+          "label": "1A4030300002009000112810",
+          "quantity": 10.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-04-20"
         }
       ]
     },
