@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T19:40:28.196935+00:00",
+  "generated_at": "2026-09-01T19:50:26.144831+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3352,7 +3352,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Gelato Ice Cream",
       "strainType": null,
@@ -3387,7 +3387,7 @@
         {
           "id": 8563611,
           "label": "ABC0303000037DD000023760",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-06-08",
           "expirationDate": "2027-04-09"
         }
@@ -5264,7 +5264,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "MD EXT DIAMONDDUST",
       "strainType": null,
@@ -5292,7 +5292,7 @@
         {
           "id": 8872250,
           "label": "1A40303000007D1000093665",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-17",
           "expirationDate": null
         }
@@ -25558,7 +25558,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 171.5,
+      "quantity": 168.0,
       "unit": "Grams",
       "strainName": "Disco Diesel",
       "strainType": null,
@@ -25591,7 +25591,7 @@
         {
           "id": 8433791,
           "label": "1A40303000000C9000149733",
-          "quantity": 171.5,
+          "quantity": 168.0,
           "packagedDate": "2026-05-08",
           "expirationDate": "2027-05-03"
         }
@@ -26598,7 +26598,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 40.0,
+      "quantity": 36.0,
       "unit": "Grams",
       "strainName": "Cherry Pie",
       "strainType": null,
@@ -26633,7 +26633,7 @@
         {
           "id": 8839895,
           "label": "1A4030300004845000037835",
-          "quantity": 40.0,
+          "quantity": 36.0,
           "packagedDate": "2026-08-05",
           "expirationDate": null
         }
@@ -31455,7 +31455,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.0,
+      "quantity": 36.0,
       "unit": "Grams",
       "strainName": "Chem de la Chem TC",
       "strainType": null,
@@ -31487,7 +31487,7 @@
         {
           "id": 8890514,
           "label": "1A40303000001F5000420174",
-          "quantity": 38.0,
+          "quantity": 36.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -32586,6 +32586,58 @@
       ]
     },
     {
+      "id": 8922970,
+      "packageCount": 1,
+      "name": "Finger Lime Haze Garcia Hand Picked - Pre-rolls - 1 g",
+      "brand": "Garcia Hand Picked",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 11.0,
+      "unit": "Grams",
+      "strainName": "Finger Lime Haze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.32,
+        "totalCBD": 0.08,
+        "CBC": 0.07,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.32,
+        "CBGA": 1.86,
+        "CBN": 0.0,
+        "THCA": 24.49,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.01,
+        "humulene": 0.04,
+        "myrcene": 0.17,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.15,
+        "beta-pinene": 0.06,
+        "ocimene": 0.1,
+        "limonene": 0.12,
+        "linalool": 0.04,
+        "terpinolene": 0.58
+      },
+      "totalTerps": 1.56,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8922970,
+          "label": "1A403030000012E000187006",
+          "quantity": 11.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": "2027-08-06"
+        }
+      ]
+    },
+    {
       "id": 8923143,
       "packageCount": 1,
       "name": "Florida Kush Garcia Hand Picked - Pre-rolls - 1 g",
@@ -33090,7 +33142,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Gush Mints Dust",
       "strainType": null,
@@ -33120,7 +33172,7 @@
         {
           "id": 8890376,
           "label": "1A40303000001F5000420183",
-          "quantity": 11.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-17"
         }
@@ -34848,6 +34900,54 @@
       ]
     },
     {
+      "id": 8911027,
+      "packageCount": 1,
+      "name": "Multi Pack- Funky Guava Pre-Rolls (x7 0.5g Joints) 3.5g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 105.0,
+      "unit": "Grams",
+      "strainName": "Funky Guava",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.14,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.12,
+        "CBGA": 2.59,
+        "CBN": 0.0,
+        "THCA": 35.3,
+        "THCV": 0.2
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.18,
+        "myrcene": 0.27,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.68,
+        "beta-pinene": 0.06,
+        "limonene": 0.49,
+        "linalool": 0.1
+      },
+      "totalTerps": 1.94,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8911027,
+          "label": "1A40303000000CB000050578",
+          "quantity": 105.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-07-21"
+        }
+      ]
+    },
+    {
       "id": 8911028,
       "packageCount": 1,
       "name": "Multi Pack- Orange Drizzle Pre-Rolls (x7 0.5g Joints) 3.5g",
@@ -36178,7 +36278,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 5.0,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -36212,7 +36312,7 @@
         {
           "id": 8858181,
           "label": "1A40303000001F5000416974",
-          "quantity": 9.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -37025,7 +37125,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 363.67,
+      "quantity": 356.67,
       "unit": "Grams",
       "strainName": "Sour Dubble",
       "strainType": null,
@@ -37058,7 +37158,7 @@
         {
           "id": 8606883,
           "label": "1A4030300002009000105201",
-          "quantity": 363.67,
+          "quantity": 356.67,
           "packagedDate": "2026-06-17",
           "expirationDate": null
         }
@@ -42605,7 +42705,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 31.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": "Cherry Chem . Liquid and",
       "strainType": null,
@@ -42645,7 +42745,7 @@
         {
           "id": 8599199,
           "label": "1A40303000007D1000080938",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-06-16",
           "expirationDate": null
         }
