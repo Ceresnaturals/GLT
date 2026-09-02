@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T22:30:28.827789+00:00",
+  "generated_at": "2026-09-02T22:40:33.508880+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1732,7 +1732,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Strawberry Snoball",
       "strainType": null,
@@ -1766,7 +1766,7 @@
         {
           "id": 8768207,
           "label": "1A403030000283D000056949",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
@@ -3616,7 +3616,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": "Ice Cream Cake Cold",
       "strainType": null,
@@ -3656,7 +3656,7 @@
         {
           "id": 8854302,
           "label": "1A4030300000C83000079933",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-08-04"
         }
@@ -4361,56 +4361,6 @@
           "quantity": 9.0,
           "packagedDate": "2026-06-03",
           "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8731260,
-      "packageCount": 1,
-      "name": "Lemon Blanc Live Resin Cake Badder 1.0g",
-      "brand": null,
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 10.0,
-      "unit": "Each",
-      "strainName": "Lemon Blanc Cake",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 71.26,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 2.51,
-        "CBN": 0.0,
-        "THCA": 80.19,
-        "THCV": 0.35
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.24,
-        "humulene": 0.36,
-        "myrcene": 5.68,
-        "alpha-pinene": 0.7,
-        "caryophyllene": 0.9,
-        "beta-pinene": 0.24,
-        "ocimene": 0.39,
-        "limonene": 0.73,
-        "linalool": 0.37
-      },
-      "totalTerps": 9.8,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8731260,
-          "label": "1A4030300000C83000077075",
-          "quantity": 10.0,
-          "packagedDate": "2026-07-15",
-          "expirationDate": "2027-06-30"
         }
       ]
     },
@@ -8989,7 +8939,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Z Mints",
       "strainType": null,
@@ -9023,7 +8973,7 @@
         {
           "id": 8910396,
           "label": "1A4030300000C83000086192",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-18"
         }
@@ -24821,58 +24771,6 @@
       ]
     },
     {
-      "id": 8891526,
-      "packageCount": 1,
-      "name": "Afternoon Delight #4 Pre-Pack (Buds) - Rythm (Hybrid) - Usable - 3.5g",
-      "brand": "Rythm",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "Afternoon Delight #4",
-      "strainType": "Hybrid",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 32.25,
-        "totalCBD": 0.08,
-        "CBC": 0.0,
-        "CBDA": 0.09,
-        "CBDV": 0.0,
-        "CBG": 0.1,
-        "CBGA": 2.46,
-        "CBN": 0.0,
-        "THCA": 36.27,
-        "THCV": 0.21
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.03,
-        "humulene": 0.23,
-        "myrcene": 0.41,
-        "alpha-pinene": 0.09,
-        "caryophyllene": 0.64,
-        "beta-pinene": 0.12,
-        "caryophyllene-oxide": 0.02,
-        "limonene": 0.79,
-        "linalool": 0.39,
-        "terpinolene": 0.03
-      },
-      "totalTerps": 2.95,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8891526,
-          "label": "1A40303000003EA000205085",
-          "quantity": 3.5,
-          "packagedDate": "2026-08-20",
-          "expirationDate": "2027-08-04"
-        }
-      ]
-    },
-    {
       "id": 8731098,
       "packageCount": 1,
       "name": "Animal Cocktail - Pre Pack Bud - 3.5 gram - Plastic Container",
@@ -27084,56 +26982,6 @@
           "quantity": 49.0,
           "packagedDate": "2026-05-20",
           "expirationDate": "2027-05-10"
-        }
-      ]
-    },
-    {
-      "id": 8890221,
-      "packageCount": 1,
-      "name": "Kind Tree | Flower | Buds | Banana Tree - Usable - 3.5g",
-      "brand": "Kind Tree",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 101.5,
-      "unit": "Grams",
-      "strainName": "Banana Tree",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 26.82,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.53,
-        "CBN": 0.0,
-        "THCA": 30.21,
-        "THCV": 0.1
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.07,
-        "humulene": 0.09,
-        "myrcene": 0.44,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 0.28,
-        "beta-pinene": 0.07,
-        "limonene": 0.47,
-        "linalool": 0.33,
-        "nerolidol": 0.07
-      },
-      "totalTerps": 2.01,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8890221,
-          "label": "1A403030000025B000083873",
-          "quantity": 101.5,
-          "packagedDate": "2026-07-15",
-          "expirationDate": "2027-07-10"
         }
       ]
     },
@@ -30720,7 +30568,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Afternoon Delight",
       "strainType": null,
@@ -30753,7 +30601,7 @@
         {
           "id": 8778312,
           "label": "1A40303000003EA000192817",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-06-18"
         }
@@ -31704,7 +31552,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Brownie Scout",
       "strainType": null,
@@ -31737,7 +31585,7 @@
         {
           "id": 8676410,
           "label": "1A40303000003EA000197285",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-06-09"
         }
@@ -47710,53 +47558,6 @@
           "quantity": 6.0,
           "packagedDate": "2026-02-04",
           "expirationDate": "2027-01-18"
-        }
-      ]
-    },
-    {
-      "id": 8731266,
-      "packageCount": 1,
-      "name": "Hibiscus Cooler Distillate Slyde Rechargeable Vape Cart 1.0mL",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 17.0,
-      "unit": "Each",
-      "strainName": "Hibiscus Cooler Slyde Rechargeable",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 82.2,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 4.09,
-        "CBGA": 0.0,
-        "CBN": 0.35,
-        "THCA": 0.0,
-        "THCV": 1.47
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.31,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.06,
-        "beta-pinene": 0.08,
-        "limonene": 1.15,
-        "terpinolene": 0.12
-      },
-      "totalTerps": 1.95,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8731266,
-          "label": "1A4030300000C83000077078",
-          "quantity": 17.0,
-          "packagedDate": "2026-07-15",
-          "expirationDate": "2027-05-05"
         }
       ]
     },
