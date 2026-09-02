@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T19:50:35.597340+00:00",
+  "generated_at": "2026-09-02T20:00:38.784244+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -25983,6 +25983,55 @@
           "quantity": 164.5,
           "packagedDate": "2026-05-08",
           "expirationDate": "2027-05-03"
+        }
+      ]
+    },
+    {
+      "id": 8000715,
+      "packageCount": 1,
+      "name": "Earthquake Bulk 454g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 413.27,
+      "unit": "Grams",
+      "strainName": "Earthquake #25",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 23.62,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.17,
+        "CBN": 0.0,
+        "THCA": 26.49,
+        "THCV": 1.38
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.14,
+        "myrcene": 0.74,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.6,
+        "beta-pinene": 0.03,
+        "limonene": 0.23,
+        "linalool": 0.3
+      },
+      "totalTerps": 2.17,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8000715,
+          "label": "1A40303000000C9000082241",
+          "quantity": 413.27,
+          "packagedDate": "2026-01-28",
+          "expirationDate": "2026-11-23"
         }
       ]
     },
