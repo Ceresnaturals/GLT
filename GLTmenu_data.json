@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T14:10:33.615982+00:00",
+  "generated_at": "2026-09-02T14:20:38.447435+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -35874,16 +35874,17 @@
       ]
     },
     {
-      "id": 8766904,
-      "packageCount": 1,
+      "id": 8882294,
+      "packageCount": 2,
       "name": "NH Lilac Diesel Preroll-Usable-.5g 2pk",
       "brand": "NH",
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 30.0,
       "unit": "Grams",
       "strainName": "Lilac Diesel",
       "strainType": null,
@@ -35915,6 +35916,13 @@
       "dominantTerpene": "caryophyllene",
       "packages": [
         {
+          "id": 8882294,
+          "label": "1A4030300003521000056055",
+          "quantity": 25.0,
+          "packagedDate": "2026-08-18",
+          "expirationDate": "2027-03-15"
+        },
+        {
           "id": 8766904,
           "label": "1A4030300003521000054053",
           "quantity": 5.0,
@@ -35924,16 +35932,17 @@
       ]
     },
     {
-      "id": 8040365,
-      "packageCount": 1,
+      "id": 8828390,
+      "packageCount": 2,
       "name": "NH Lilac Diesel Preroll-Usable-.5g 5pk",
       "brand": "NH",
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 17.5,
+      "quantity": 80.0,
       "unit": "Grams",
       "strainName": "Lilac Diesel",
       "strainType": null,
@@ -35964,6 +35973,13 @@
       "totalTerps": 1.13,
       "dominantTerpene": "caryophyllene",
       "packages": [
+        {
+          "id": 8828390,
+          "label": "1A4030300003521000054648",
+          "quantity": 62.5,
+          "packagedDate": "2026-08-06",
+          "expirationDate": null
+        },
         {
           "id": 8040365,
           "label": "1A4030300003521000045207",
