@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T19:30:36.800187+00:00",
+  "generated_at": "2026-09-02T19:40:36.593347+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2077,7 +2077,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Candy Cabal",
       "strainType": null,
@@ -2113,7 +2113,7 @@
         {
           "id": 8819351,
           "label": "1A40303000001F5000412898",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-03-05"
         }
@@ -17471,7 +17471,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 9.0,
       "unit": "Each",
@@ -18194,8 +18194,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 21.0,
       "unit": "Each",
@@ -26195,7 +26194,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 3.5,
       "unit": "Grams",
       "strainName": "E85 Candi",
       "strainType": null,
@@ -26230,7 +26229,7 @@
         {
           "id": 8725845,
           "label": "1A4030300004845000032773",
-          "quantity": 7.0,
+          "quantity": 3.5,
           "packagedDate": "2026-06-03",
           "expirationDate": null
         }
@@ -26542,7 +26541,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 3.5,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -26575,7 +26574,7 @@
         {
           "id": 8919167,
           "label": "1A40303000001F5000423327",
-          "quantity": 7.0,
+          "quantity": 3.5,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -29681,7 +29680,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 17.5,
       "unit": "Grams",
       "strainName": "Biscotti",
       "strainType": null,
@@ -29714,7 +29713,7 @@
         {
           "id": 8874238,
           "label": "1A4030300003A3C000089553",
-          "quantity": 21.0,
+          "quantity": 17.5,
           "packagedDate": "2026-07-14",
           "expirationDate": "2027-07-14"
         }
@@ -37901,7 +37900,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 269.17,
+      "quantity": 265.67,
       "unit": "Grams",
       "strainName": "Sour Dubble",
       "strainType": null,
@@ -37934,7 +37933,7 @@
         {
           "id": 8606883,
           "label": "1A4030300002009000105201",
-          "quantity": 269.17,
+          "quantity": 265.67,
           "packagedDate": "2026-06-17",
           "expirationDate": null
         }
@@ -38045,70 +38044,6 @@
       ]
     },
     {
-      "id": 8518178,
-      "packageCount": 1,
-      "name": "Healer Night-Tincture-600mg",
-      "brand": "Healer",
-      "category": "Tincture",
-      "metrcCategory": "Tincture for Oral Administration",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "",
-        "totalThcMg": 516.0,
-        "thcMgPerServing": 1.7,
-        "minorsMgPerServing": {
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {
-        "bisabolol": 0.02,
-        "humulene": 0.03,
-        "myrcene": 0.05,
-        "alpha-pinene": 0.01,
-        "caryophyllene": 0.09,
-        "beta-pinene": 0.01,
-        "limonene": 0.04,
-        "terpinolene": 0.01
-      },
-      "totalTerps": 0.26,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8518178,
-          "label": "1A4030300003522000192436",
-          "quantity": 1.0,
-          "packagedDate": "2026-05-28",
-          "expirationDate": "2027-03-30"
-        }
-      ]
-    },
-    {
       "id": 8579678,
       "packageCount": 1,
       "name": "Healer Uplift-Tincture-100mg",
@@ -38118,7 +38053,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -38163,7 +38098,7 @@
         {
           "id": 8579678,
           "label": "1A4030300003522000187571",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-05-26"
         }
