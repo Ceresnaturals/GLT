@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T17:40:30.716353+00:00",
+  "generated_at": "2026-09-02T17:50:32.362223+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -993,7 +993,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Pungent Smile",
       "strainType": null,
@@ -1027,7 +1027,7 @@
         {
           "id": 8293034,
           "label": "1A403030000283D000048673",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-04-07",
           "expirationDate": "2027-03-17"
         }
@@ -25205,6 +25205,56 @@
       ]
     },
     {
+      "id": 8926776,
+      "packageCount": 1,
+      "name": "CUR-CW-BB-LESH-14-MD",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 112.0,
+      "unit": "Grams",
+      "strainName": "LESH",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.94,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.54,
+        "CBN": 0.0,
+        "THCA": 32.63,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.15,
+        "humulene": 0.14,
+        "myrcene": 0.19,
+        "alpha-pinene": 0.19,
+        "caryophyllene": 0.63,
+        "beta-pinene": 0.19,
+        "limonene": 1.29,
+        "linalool": 0.31,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.54,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8926776,
+          "label": "1A40303000000CD000079032",
+          "quantity": 112.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8895514,
       "packageCount": 1,
       "name": "CUR-EXC-JAR-MICA-3.5-MD",
@@ -40583,7 +40633,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Animal Mintz BD",
       "strainType": null,
@@ -40617,7 +40667,7 @@
         {
           "id": 7653805,
           "label": "1A40303000037DD000018250",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2025-10-27",
           "expirationDate": "2026-09-08"
         }
