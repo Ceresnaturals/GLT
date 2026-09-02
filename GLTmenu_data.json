@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T18:20:35.770278+00:00",
+  "generated_at": "2026-09-02T18:30:37.104593+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2586,7 +2586,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "OG Kush",
       "strainType": "Indica",
@@ -2620,7 +2620,7 @@
         {
           "id": 8854456,
           "label": "1A40303000003EA000202546",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-06-16"
         }
@@ -9591,7 +9591,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 7.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9632,7 +9632,7 @@
         {
           "id": 8890125,
           "label": "1A40303000001F5000420083",
-          "quantity": 7.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-14"
         }
@@ -9762,7 +9762,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9803,7 +9803,7 @@
         {
           "id": 8920193,
           "label": "1A40303000001F5000423548",
-          "quantity": 21.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -12860,44 +12860,45 @@
       ]
     },
     {
-      "id": 8769857,
-      "packageCount": 1,
+      "id": 8926321,
+      "packageCount": 2,
       "name": "Curio Wellness Black Cherry Vanilla 40mg Chews-Exempt-40mg-10",
       "brand": "Curio Wellness",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.962,
-        "CBC": 0.011,
+        "totalTHC": 1.046,
+        "CBC": 0.009,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.035,
+        "CBG": 0.058,
         "CBGA": 0.0,
-        "CBN": 0.028,
+        "CBN": 0.054,
         "THCA": 0.0,
-        "THCV": 0.007
+        "THCV": 0.005
       },
       "dose": {
         "servingSize": "1 piece",
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "CBC": 0.44,
+          "CBC": 0.36,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 1.4,
+          "CBG": 2.32,
           "CBGA": 0.0,
-          "CBN": 1.12,
+          "CBN": 2.16,
           "THCA": 0.0,
-          "THCV": 0.28
+          "THCV": 0.2
         },
         "minorsEstimated": true
       },
@@ -12905,6 +12906,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8926321,
+          "label": "1A403030000012D000262974",
+          "quantity": 24.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": null
+        },
         {
           "id": 8769857,
           "label": "1A403030000012D000257040",
@@ -13698,44 +13706,45 @@
       ]
     },
     {
-      "id": 8738023,
-      "packageCount": 1,
+      "id": 8926296,
+      "packageCount": 2,
       "name": "Curio Wellness Pink Cotton 40mg Chews-Exempt-40mg-10",
       "brand": "Curio Wellness",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.959,
-        "CBC": 0.01,
+        "totalTHC": 0.934,
+        "CBC": 0.013,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.041,
+        "CBG": 0.032,
         "CBGA": 0.0,
-        "CBN": 0.032,
+        "CBN": 0.033,
         "THCA": 0.0,
-        "THCV": 0.007
+        "THCV": 0.009
       },
       "dose": {
         "servingSize": "1 piece",
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "CBC": 0.4,
+          "CBC": 0.52,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 1.64,
+          "CBG": 1.28,
           "CBGA": 0.0,
-          "CBN": 1.28,
+          "CBN": 1.32,
           "THCA": 0.0,
-          "THCV": 0.28
+          "THCV": 0.36
         },
         "minorsEstimated": true
       },
@@ -13743,6 +13752,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8926296,
+          "label": "1A403030000012D000262976",
+          "quantity": 24.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": null
+        },
         {
           "id": 8738023,
           "label": "1A403030000012D000255835",
@@ -29006,7 +29022,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 30.0,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "Purple Punch TC",
       "strainType": null,
@@ -29038,7 +29054,7 @@
         {
           "id": 8858488,
           "label": "1A40303000001F5000416971",
-          "quantity": 30.0,
+          "quantity": 20.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -29346,7 +29362,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 66.5,
+      "quantity": 59.5,
       "unit": "Grams",
       "strainName": "Banana Muffins",
       "strainType": null,
@@ -29378,7 +29394,7 @@
         {
           "id": 8894214,
           "label": "1A4030300003A3C000089890",
-          "quantity": 66.5,
+          "quantity": 59.5,
           "packagedDate": "2026-07-17",
           "expirationDate": "2027-07-17"
         }
@@ -30025,7 +30041,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "The Toad",
       "strainType": null,
@@ -30058,7 +30074,7 @@
         {
           "id": 8270982,
           "label": "1A403030000025B000072030",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-02-23",
           "expirationDate": null
         }
@@ -33393,7 +33409,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Gush Mints Dust",
       "strainType": null,
@@ -33423,7 +33439,7 @@
         {
           "id": 8890376,
           "label": "1A40303000001F5000420183",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-17"
         }
@@ -35261,7 +35277,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 84.0,
+      "quantity": 80.5,
       "unit": "Grams",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -35296,7 +35312,7 @@
         {
           "id": 8911028,
           "label": "1A40303000000CB000050579",
-          "quantity": 84.0,
+          "quantity": 80.5,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-28"
         }
@@ -37454,7 +37470,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 300.67,
+      "quantity": 297.17,
       "unit": "Grams",
       "strainName": "Sour Dubble",
       "strainType": null,
@@ -37487,7 +37503,7 @@
         {
           "id": 8606883,
           "label": "1A4030300002009000105201",
-          "quantity": 300.67,
+          "quantity": 297.17,
           "packagedDate": "2026-06-17",
           "expirationDate": null
         }
@@ -46614,16 +46630,15 @@
     },
     {
       "id": 8371303,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Gummiez Distillate Slyde Rechargeable Vape Cart 1.0mL",
       "brand": null,
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Gummiez Slyde Rechargeable",
       "strainType": null,
@@ -46654,13 +46669,6 @@
           "label": "1A4030300000C83000068624",
           "quantity": 20.0,
           "packagedDate": "2026-04-23",
-          "expirationDate": "2027-01-13"
-        },
-        {
-          "id": 8365502,
-          "label": "1A4030300000C83000068488",
-          "quantity": 7.0,
-          "packagedDate": "2026-04-22",
           "expirationDate": "2027-01-13"
         }
       ]
@@ -47940,6 +47948,55 @@
           "quantity": 5.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-05-19"
+        }
+      ]
+    },
+    {
+      "id": 8518540,
+      "packageCount": 1,
+      "name": "In House Durban Poison 5:1-Vape Cart-1g",
+      "brand": "In House",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 18.0,
+      "unit": "Each",
+      "strainName": "Durban Poison",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 67.04,
+        "CBC": 0.53,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.46,
+        "CBGA": 0.0,
+        "CBN": 0.3,
+        "THCA": 0.0,
+        "THCV": 14.48
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.36,
+        "myrcene": 0.26,
+        "alpha-pinene": 0.22,
+        "caryophyllene": 1.26,
+        "beta-pinene": 0.14,
+        "limonene": 1.3,
+        "linalool": 0.3,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 3.96,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8518540,
+          "label": "1A4030300003522000192404",
+          "quantity": 18.0,
+          "packagedDate": "2026-05-28",
+          "expirationDate": "2027-01-11"
         }
       ]
     },
