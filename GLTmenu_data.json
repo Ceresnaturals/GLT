@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T17:30:30.419161+00:00",
+  "generated_at": "2026-09-02T17:40:30.716353+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12814,7 +12814,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12853,7 +12853,7 @@
         {
           "id": 8828894,
           "label": "1A403030000012D000259358",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -13155,7 +13155,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13194,7 +13194,7 @@
         {
           "id": 8616990,
           "label": "1A403030000012D000250792",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-06-18",
           "expirationDate": null
         }
@@ -21317,26 +21317,27 @@
       ]
     },
     {
-      "id": 8738112,
-      "packageCount": 1,
+      "id": 8926291,
+      "packageCount": 2,
       "name": "Smokiez Sour Blackberry Indica 10mg Medicated Chews-Edible Product-10mg-10",
       "brand": "Smokiez",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.161,
-        "CBC": 0.0,
+        "totalTHC": 0.151,
+        "CBC": 0.002,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.012,
+        "CBG": 0.006,
         "CBGA": 0.0,
         "CBN": 0.006,
         "THCA": 0.0,
@@ -21347,10 +21348,10 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "CBC": 0.0,
+          "CBC": 0.12,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.72,
+          "CBG": 0.36,
           "CBGA": 0.0,
           "CBN": 0.36,
           "THCA": 0.0,
@@ -21362,6 +21363,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8926291,
+          "label": "1A403030000012D000262968",
+          "quantity": 12.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": null
+        },
         {
           "id": 8738112,
           "label": "1A403030000012D000255827",
@@ -25951,7 +25959,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 87.5,
+      "quantity": 59.5,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -25984,7 +25992,7 @@
         {
           "id": 8911033,
           "label": "1A40303000000CB000050582",
-          "quantity": 87.5,
+          "quantity": 59.5,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         }
@@ -26197,7 +26205,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -26230,7 +26238,7 @@
         {
           "id": 8919167,
           "label": "1A40303000001F5000423327",
-          "quantity": 17.5,
+          "quantity": 7.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -28367,7 +28375,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 3.5,
       "unit": "Grams",
       "strainName": "Chocolatina",
       "strainType": null,
@@ -28401,7 +28409,7 @@
         {
           "id": 8882269,
           "label": "1A4030300003521000056047",
-          "quantity": 7.0,
+          "quantity": 3.5,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-31"
         }
@@ -34804,7 +34812,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "L'Orange Big Dogs",
       "strainType": null,
@@ -34837,7 +34845,7 @@
         {
           "id": 8778176,
           "label": "1A40303000003EA000192818",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-05-26"
         }
