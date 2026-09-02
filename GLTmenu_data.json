@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T20:40:30.464626+00:00",
+  "generated_at": "2026-09-02T20:50:33.044536+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -5174,7 +5174,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Animal Fuel",
       "strainType": null,
@@ -5207,7 +5207,7 @@
         {
           "id": 8777901,
           "label": "1A40303000017D5000101324",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-06-18",
           "expirationDate": "2027-06-18"
         }
@@ -12199,7 +12199,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12238,7 +12238,7 @@
         {
           "id": 8882409,
           "label": "1A4030300003522000202258",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-01-18"
         }
@@ -30198,6 +30198,57 @@
       ]
     },
     {
+      "id": 7913937,
+      "packageCount": 1,
+      "name": "Triple Stack - Usable 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 35.0,
+      "unit": "Grams",
+      "strainName": "Triple Stack",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.78,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.24,
+        "CBGA": 0.83,
+        "CBN": 0.0,
+        "THCA": 32.41,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.14,
+        "myrcene": 0.13,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.56,
+        "beta-pinene": 0.1,
+        "caryophyllene-oxide": 0.05,
+        "limonene": 0.68,
+        "linalool": 0.4,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 2.2,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 7913937,
+          "label": "1A4030300000192000022666",
+          "quantity": 35.0,
+          "packagedDate": "2026-01-06",
+          "expirationDate": "2026-09-22"
+        }
+      ]
+    },
+    {
       "id": 8507791,
       "packageCount": 1,
       "name": "Twin Peaks | Georgies | 1g",
@@ -31934,7 +31985,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Chem de la Chem TC",
       "strainType": null,
@@ -31966,7 +32017,7 @@
         {
           "id": 8890514,
           "label": "1A40303000001F5000420174",
-          "quantity": 29.0,
+          "quantity": 28.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -32992,7 +33043,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.5,
+      "quantity": 5.0,
       "unit": "Grams",
       "strainName": "Mule Fuel",
       "strainType": null,
@@ -33024,7 +33075,7 @@
         {
           "id": 8604973,
           "label": "1A4030300004845000027737",
-          "quantity": 7.5,
+          "quantity": 5.0,
           "packagedDate": "2026-05-26",
           "expirationDate": null
         }
@@ -34118,9 +34169,9 @@
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Purple Panties",
       "strainType": null,
@@ -34153,7 +34204,7 @@
         {
           "id": 8914805,
           "label": "1A4030300002009000112806",
-          "quantity": 9.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-08"
         }
@@ -34652,6 +34703,55 @@
           "quantity": 30.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 7937278,
+      "packageCount": 1,
+      "name": "Khalifa Kush Preroll 1g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 28.0,
+      "unit": "Grams",
+      "strainName": "Khalifa Kush",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 21.54,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.7,
+        "CBN": 0.0,
+        "THCA": 24.06,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.11,
+        "myrcene": 0.46,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.39,
+        "beta-pinene": 0.05,
+        "limonene": 0.28,
+        "linalool": 0.22
+      },
+      "totalTerps": 1.75,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 7937278,
+          "label": "1A40303000000C9000128834",
+          "quantity": 28.0,
+          "packagedDate": "2026-01-12",
+          "expirationDate": "2026-12-22"
         }
       ]
     },
@@ -35655,7 +35755,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 80.5,
+      "quantity": 77.0,
       "unit": "Grams",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -35690,7 +35790,7 @@
         {
           "id": 8911028,
           "label": "1A40303000000CB000050579",
-          "quantity": 80.5,
+          "quantity": 77.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-28"
         }
@@ -44826,7 +44926,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Earthquake",
       "strainType": null,
@@ -44861,7 +44961,7 @@
         {
           "id": 8910397,
           "label": "1A4030300000C83000086194",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-14"
         }
@@ -45995,7 +46095,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Flavor Series Pineapple Express BRIQ",
       "strainType": null,
@@ -46029,7 +46129,7 @@
         {
           "id": 8908971,
           "label": "1A4030300000193000106245",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-05-11"
         }
@@ -50644,6 +50744,56 @@
       ]
     },
     {
+      "id": 7940015,
+      "packageCount": 1,
+      "name": "Lemon Fresh Cartridge (Live Resin) - Rythm (Sativa Dominant) - Vape Cart - 500mg",
+      "brand": "Rythm",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 11.0,
+      "unit": "Each",
+      "strainName": "Lemon Fresh",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 82.26,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.19,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.25,
+        "myrcene": 1.08,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 0.82,
+        "eudesmol": 0.37,
+        "beta-pinene": 0.16,
+        "ocimene": 0.67,
+        "limonene": 0.33,
+        "terpinolene": 3.25
+      },
+      "totalTerps": 7.74,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 7940015,
+          "label": "1A40303000003EA000140860",
+          "quantity": 11.0,
+          "packagedDate": "2026-01-12",
+          "expirationDate": "2026-11-25"
+        }
+      ]
+    },
+    {
       "id": 8309871,
       "packageCount": 1,
       "name": "Live Liquid Diamonds AIO: G.O.A.T.E.D x Grapefruit -.5g",
@@ -51103,7 +51253,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 34.0,
       "unit": "Each",
       "strainName": "Liquid",
       "strainType": null,
@@ -51137,7 +51287,7 @@
         {
           "id": 8582090,
           "label": "1A4030300003D55000006198",
-          "quantity": 35.0,
+          "quantity": 34.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-02-21"
         }
@@ -55797,7 +55947,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Juicy Mango",
       "strainType": null,
@@ -55830,7 +55980,7 @@
         {
           "id": 8870926,
           "label": "1A40303000017D5000103610",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-07-15"
         }
@@ -56850,6 +57000,55 @@
           "quantity": 2.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-05-31"
+        }
+      ]
+    },
+    {
+      "id": 7944850,
+      "packageCount": 1,
+      "name": "Sunset Soda FSE - BOMA Vape Cart (Color: Variety) - 0.5 gram",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 15.0,
+      "unit": "Each",
+      "strainName": "Sunset Soda FSE",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 73.35,
+        "CBC": 0.47,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.39,
+        "CBGA": 0.0,
+        "CBN": 2.08,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.23,
+        "humulene": 0.58,
+        "myrcene": 0.18,
+        "alpha-pinene": 0.14,
+        "caryophyllene": 1.69,
+        "beta-pinene": 0.16,
+        "limonene": 0.39,
+        "linalool": 0.96
+      },
+      "totalTerps": 5.15,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 7944850,
+          "label": "1A40303000037DD000019964",
+          "quantity": 15.0,
+          "packagedDate": "2026-01-13",
+          "expirationDate": "2026-11-18"
         }
       ]
     },
