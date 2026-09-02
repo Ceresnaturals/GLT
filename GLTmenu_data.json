@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T20:30:30.729952+00:00",
+  "generated_at": "2026-09-02T20:40:30.464626+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -17145,7 +17145,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17184,7 +17184,7 @@
         {
           "id": 8739610,
           "label": "1A40303000017D5000100462",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-06-10",
           "expirationDate": "2027-06-10"
         }
@@ -22373,7 +22373,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22414,7 +22414,7 @@
         {
           "id": 8819286,
           "label": "1A40303000001F5000412901",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-07-02"
         }
@@ -25945,7 +25945,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 413.27,
+      "quantity": 409.77,
       "unit": "Grams",
       "strainName": "Earthquake #25",
       "strainType": null,
@@ -25978,7 +25978,7 @@
         {
           "id": 8000715,
           "label": "1A40303000000C9000082241",
-          "quantity": 413.27,
+          "quantity": 409.77,
           "packagedDate": "2026-01-28",
           "expirationDate": "2026-11-23"
         }
@@ -29581,7 +29581,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 42.0,
+      "quantity": 38.5,
       "unit": "Grams",
       "strainName": "Alien Breath",
       "strainType": null,
@@ -29614,7 +29614,7 @@
         {
           "id": 8774602,
           "label": "1A4030300003A3C000087020",
-          "quantity": 42.0,
+          "quantity": 38.5,
           "packagedDate": "2026-07-09",
           "expirationDate": "2027-07-09"
         }
@@ -30194,57 +30194,6 @@
           "quantity": 80.5,
           "packagedDate": "2026-04-13",
           "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 7913937,
-      "packageCount": 1,
-      "name": "Triple Stack - Usable 3.5g",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 35.0,
-      "unit": "Grams",
-      "strainName": "Triple Stack",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 28.78,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.24,
-        "CBGA": 0.83,
-        "CBN": 0.0,
-        "THCA": 32.41,
-        "THCV": 0.13
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.14,
-        "myrcene": 0.13,
-        "alpha-pinene": 0.07,
-        "caryophyllene": 0.56,
-        "beta-pinene": 0.1,
-        "caryophyllene-oxide": 0.05,
-        "limonene": 0.68,
-        "linalool": 0.4,
-        "terpinolene": 0.01
-      },
-      "totalTerps": 2.2,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 7913937,
-          "label": "1A4030300000192000022666",
-          "quantity": 35.0,
-          "packagedDate": "2026-01-06",
-          "expirationDate": "2026-09-22"
         }
       ]
     },
@@ -34703,55 +34652,6 @@
           "quantity": 30.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 7937278,
-      "packageCount": 1,
-      "name": "Khalifa Kush Preroll 1g",
-      "brand": null,
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 28.0,
-      "unit": "Grams",
-      "strainName": "Khalifa Kush",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 21.54,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.7,
-        "CBN": 0.0,
-        "THCA": 24.06,
-        "THCV": 0.08
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.11,
-        "myrcene": 0.46,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 0.39,
-        "beta-pinene": 0.05,
-        "limonene": 0.28,
-        "linalool": 0.22
-      },
-      "totalTerps": 1.75,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 7937278,
-          "label": "1A40303000000C9000128834",
-          "quantity": 28.0,
-          "packagedDate": "2026-01-12",
-          "expirationDate": "2026-12-22"
         }
       ]
     },
@@ -41113,7 +41013,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Bacio Gelato",
       "strainType": null,
@@ -41147,7 +41047,7 @@
         {
           "id": 8919189,
           "label": "1A40303000001F5000423341",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-02-20"
         }
@@ -50744,56 +50644,6 @@
       ]
     },
     {
-      "id": 7940015,
-      "packageCount": 1,
-      "name": "Lemon Fresh Cartridge (Live Resin) - Rythm (Sativa Dominant) - Vape Cart - 500mg",
-      "brand": "Rythm",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 11.0,
-      "unit": "Each",
-      "strainName": "Lemon Fresh",
-      "strainType": "Sativa",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 82.26,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.19,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.25,
-        "myrcene": 1.08,
-        "alpha-pinene": 0.15,
-        "caryophyllene": 0.82,
-        "eudesmol": 0.37,
-        "beta-pinene": 0.16,
-        "ocimene": 0.67,
-        "limonene": 0.33,
-        "terpinolene": 3.25
-      },
-      "totalTerps": 7.74,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 7940015,
-          "label": "1A40303000003EA000140860",
-          "quantity": 11.0,
-          "packagedDate": "2026-01-12",
-          "expirationDate": "2026-11-25"
-        }
-      ]
-    },
-    {
       "id": 8309871,
       "packageCount": 1,
       "name": "Live Liquid Diamonds AIO: G.O.A.T.E.D x Grapefruit -.5g",
@@ -57000,55 +56850,6 @@
           "quantity": 2.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-05-31"
-        }
-      ]
-    },
-    {
-      "id": 7944850,
-      "packageCount": 1,
-      "name": "Sunset Soda FSE - BOMA Vape Cart (Color: Variety) - 0.5 gram",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 16.0,
-      "unit": "Each",
-      "strainName": "Sunset Soda FSE",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 73.35,
-        "CBC": 0.47,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.39,
-        "CBGA": 0.0,
-        "CBN": 2.08,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.23,
-        "humulene": 0.58,
-        "myrcene": 0.18,
-        "alpha-pinene": 0.14,
-        "caryophyllene": 1.69,
-        "beta-pinene": 0.16,
-        "limonene": 0.39,
-        "linalool": 0.96
-      },
-      "totalTerps": 5.15,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 7944850,
-          "label": "1A40303000037DD000019964",
-          "quantity": 16.0,
-          "packagedDate": "2026-01-13",
-          "expirationDate": "2026-11-18"
         }
       ]
     },
