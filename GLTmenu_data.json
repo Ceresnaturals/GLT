@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T21:30:31.221867+00:00",
+  "generated_at": "2026-09-02T21:40:34.418409+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8989,7 +8989,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Z Mints",
       "strainType": null,
@@ -9023,7 +9023,7 @@
         {
           "id": 8910396,
           "label": "1A4030300000C83000086192",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-18"
         }
@@ -16910,61 +16910,6 @@
           "quantity": 9.0,
           "packagedDate": "2026-05-19",
           "expirationDate": "2027-05-19"
-        }
-      ]
-    },
-    {
-      "id": 8624318,
-      "packageCount": 1,
-      "name": "Encore Dark Chocolate - Indica RSO - Edible Product - 10mg - 10pc*",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": "Indica",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.177,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.004,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.224,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8624318,
-          "label": "1A40303000017D5000097269",
-          "quantity": 1.0,
-          "packagedDate": "2026-04-22",
-          "expirationDate": "2027-04-22"
         }
       ]
     },
@@ -28490,57 +28435,6 @@
           "quantity": 73.5,
           "packagedDate": "2026-05-11",
           "expirationDate": "2027-04-13"
-        }
-      ]
-    },
-    {
-      "id": 8438416,
-      "packageCount": 1,
-      "name": "Maryland Herb Co Packaged Flower - 3.5g - Lava Lamp",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 17.5,
-      "unit": "Grams",
-      "strainName": "Lava Lamp",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 18.53,
-        "totalCBD": 0.05,
-        "CBC": 0.0,
-        "CBDA": 0.06,
-        "CBDV": 0.0,
-        "CBG": 0.06,
-        "CBGA": 0.89,
-        "CBN": 0.0,
-        "THCA": 20.7,
-        "THCV": 0.08
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.22,
-        "myrcene": 0.07,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.63,
-        "beta-pinene": 0.06,
-        "ocimene": 0.06,
-        "limonene": 0.31,
-        "linalool": 0.14
-      },
-      "totalTerps": 1.73,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8438416,
-          "label": "1A4030300000709000049897",
-          "quantity": 17.5,
-          "packagedDate": "2026-05-11",
-          "expirationDate": "2027-04-03"
         }
       ]
     },
