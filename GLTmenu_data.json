@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T19:40:36.593347+00:00",
+  "generated_at": "2026-09-02T19:50:35.597340+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -33440,7 +33440,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -33472,7 +33472,7 @@
         {
           "id": 8918184,
           "label": "1A40303000000CB000050576",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-21"
         }
@@ -37935,6 +37935,57 @@
           "label": "1A4030300002009000105201",
           "quantity": 265.67,
           "packagedDate": "2026-06-17",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8920778,
+      "packageCount": 1,
+      "name": "Dulce de Fresca - 5g Shake/Trim",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 55.0,
+      "unit": "Grams",
+      "strainName": "Dulce de Fresca",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.49,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.64,
+        "CBN": 0.0,
+        "THCA": 25.5,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.1,
+        "myrcene": 0.53,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.27,
+        "eudesmol": 0.1,
+        "beta-pinene": 0.04,
+        "limonene": 0.34,
+        "linalool": 0.09,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 1.73,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8920778,
+          "label": "1A40303000040D9000005941",
+          "quantity": 55.0,
+          "packagedDate": "2026-08-26",
           "expirationDate": null
         }
       ]
