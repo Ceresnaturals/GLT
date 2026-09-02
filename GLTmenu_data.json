@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T17:10:30.724102+00:00",
+  "generated_at": "2026-09-02T17:20:30.132508+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -5223,7 +5223,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "MD EXT DIAMONDDUST",
       "strainType": null,
@@ -5251,7 +5251,7 @@
         {
           "id": 8872250,
           "label": "1A40303000007D1000093665",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-17",
           "expirationDate": null
         }
@@ -16312,29 +16312,30 @@
       ]
     },
     {
-      "id": 8769568,
-      "packageCount": 1,
+      "id": 8926317,
+      "packageCount": 2,
       "name": "Dixie Synergy 1:1 Berry Tablets-Exempt-5mg-60",
       "brand": "Dixie",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 1.359,
-        "totalCBD": 1.365,
-        "CBC": 0.015,
+        "totalTHC": 1.377,
+        "totalCBD": 1.367,
+        "CBC": 0.02,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.041,
+        "CBG": 0.024,
         "CBGA": 0.0,
-        "CBN": 0.03,
+        "CBN": 0.026,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -16343,13 +16344,13 @@
         "totalThcMg": 300.0,
         "thcMgPerServing": 5.0,
         "minorsMgPerServing": {
-          "totalCBD": 4.777,
-          "CBC": 0.052,
+          "totalCBD": 4.784,
+          "CBC": 0.07,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.143,
+          "CBG": 0.084,
           "CBGA": 0.0,
-          "CBN": 0.105,
+          "CBN": 0.091,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -16359,6 +16360,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8926317,
+          "label": "1A403030000012D000262967",
+          "quantity": 12.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": null
+        },
         {
           "id": 8769568,
           "label": "1A403030000012D000257036",
@@ -18897,63 +18905,6 @@
           "quantity": 15.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-27"
-        }
-      ]
-    },
-    {
-      "id": 8518567,
-      "packageCount": 1,
-      "name": "In House Blueberry Dream Fast Acting V2 Gummies-Exempt-40mg-10",
-      "brand": "In House",
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 4.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.71,
-        "totalCBD": 0.29,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.03,
-        "CBGA": 0.0,
-        "CBN": 0.1,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 400.0,
-        "thcMgPerServing": 40.0,
-        "minorsMgPerServing": {
-          "totalCBD": 14.5,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 1.5,
-          "CBGA": 0.0,
-          "CBN": 5.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8518567,
-          "label": "1A4030300003522000192421",
-          "quantity": 4.0,
-          "packagedDate": "2026-05-28",
-          "expirationDate": "2027-04-23"
         }
       ]
     },
@@ -23311,7 +23262,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23352,7 +23303,7 @@
         {
           "id": 8857836,
           "label": "1A403030000390D000066138",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-08-02"
         }
@@ -23368,7 +23319,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23407,7 +23358,7 @@
         {
           "id": 8762410,
           "label": "1A403030000390D000065058",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-07-22",
           "expirationDate": "2027-04-09"
         }
@@ -33521,7 +33472,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": "Cherry Paloma",
       "strainType": null,
@@ -33553,7 +33504,7 @@
         {
           "id": 8678454,
           "label": "1A4030300002009000107933",
-          "quantity": 27.0,
+          "quantity": 26.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-05-08"
         }
