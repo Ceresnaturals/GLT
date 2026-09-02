@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T17:20:30.132508+00:00",
+  "generated_at": "2026-09-02T17:30:30.419161+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11364,7 +11364,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11403,7 +11403,7 @@
         {
           "id": 8882301,
           "label": "1A4030300003522000202247",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-30"
         }
@@ -11474,7 +11474,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11513,7 +11513,7 @@
         {
           "id": 8882284,
           "label": "1A4030300003522000202243",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-23"
         }
@@ -11861,7 +11861,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11900,7 +11900,7 @@
         {
           "id": 8882418,
           "label": "1A4030300003522000202256",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-05"
         }
@@ -12085,7 +12085,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12124,7 +12124,7 @@
         {
           "id": 8882408,
           "label": "1A4030300003522000202253",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-02"
         }
@@ -21704,44 +21704,45 @@
       ]
     },
     {
-      "id": 8344223,
-      "packageCount": 1,
+      "id": 8926316,
+      "packageCount": 2,
       "name": "Smokiez Watermelon 30mg Medicated Chews-Exempt-30mg-10",
       "brand": "Smokiez",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.463,
-        "CBC": 0.005,
+        "totalTHC": 0.453,
+        "CBC": 0.006,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.02,
+        "CBG": 0.019,
         "CBGA": 0.0,
-        "CBN": 0.013,
+        "CBN": 0.017,
         "THCA": 0.0,
-        "THCV": 0.009
+        "THCV": 0.003
       },
       "dose": {
         "servingSize": "1 piece",
         "totalThcMg": 300.0,
         "thcMgPerServing": 30.0,
         "minorsMgPerServing": {
-          "CBC": 0.3,
+          "CBC": 0.36,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 1.2,
+          "CBG": 1.14,
           "CBGA": 0.0,
-          "CBN": 0.78,
+          "CBN": 1.02,
           "THCA": 0.0,
-          "THCV": 0.54
+          "THCV": 0.18
         },
         "minorsEstimated": true
       },
@@ -21749,6 +21750,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8926316,
+          "label": "1A403030000012D000262966",
+          "quantity": 12.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": null
+        },
         {
           "id": 8344223,
           "label": "1A403030000012D000224151",
@@ -54616,7 +54624,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Sour Jack",
       "strainType": null,
@@ -54649,7 +54657,7 @@
         {
           "id": 8812103,
           "label": "1A4030300000C83000079099",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-03",
           "expirationDate": "2027-06-23"
         }
