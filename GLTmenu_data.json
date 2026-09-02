@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T16:20:31.428281+00:00",
+  "generated_at": "2026-09-02T16:30:30.551648+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -27173,7 +27173,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 210.0,
+      "quantity": 196.0,
       "unit": "Grams",
       "strainName": "White Truffle",
       "strainType": null,
@@ -27207,7 +27207,7 @@
         {
           "id": 8820132,
           "label": "1A403030000025B000083296",
-          "quantity": 210.0,
+          "quantity": 196.0,
           "packagedDate": "2026-07-22",
           "expirationDate": "2027-07-15"
         }
@@ -54245,42 +54245,51 @@
       ]
     },
     {
-      "id": 8583678,
-      "packageCount": 1,
+      "id": 8756257,
+      "packageCount": 2,
       "name": "Razberry Blitz Cloud Bar Hellavated - Vape Cart - 1 g",
       "brand": "Hellavated",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Razberry Blitz",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 87.93,
-        "CBC": 0.43,
+        "totalTHC": 83.68,
+        "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 2.7,
+        "CBG": 3.43,
         "CBGA": 0.0,
-        "CBN": 0.26,
+        "CBN": 0.47,
         "THCA": 0.0,
         "THCV": 0.0
       },
       "dose": null,
       "terpenes": {
-        "myrcene": 0.13,
-        "alpha-pinene": 1.36,
-        "beta-pinene": 0.2,
-        "limonene": 0.45,
-        "linalool": 0.21
+        "myrcene": 0.15,
+        "alpha-pinene": 1.63,
+        "caryophyllene": 0.04,
+        "beta-pinene": 0.24,
+        "limonene": 0.52,
+        "linalool": 0.28
       },
-      "totalTerps": 2.35,
+      "totalTerps": 2.86,
       "dominantTerpene": "alpha-pinene",
       "packages": [
+        {
+          "id": 8756257,
+          "label": "1A403030000012E000176850",
+          "quantity": 12.0,
+          "packagedDate": "2026-07-21",
+          "expirationDate": "2027-05-16"
+        },
         {
           "id": 8583678,
           "label": "1A403030000012E000166356",
