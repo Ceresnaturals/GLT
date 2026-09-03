@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T17:50:31.338976+00:00",
+  "generated_at": "2026-09-03T18:00:33.797394+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4059,7 +4059,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Berry Inferno",
       "strainType": null,
@@ -4086,7 +4086,7 @@
         {
           "id": 8842347,
           "label": "1A4030300003201000001521",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-08-10",
           "expirationDate": null
         }
@@ -7075,41 +7075,50 @@
       ]
     },
     {
-      "id": 8518846,
-      "packageCount": 1,
+      "id": 8939249,
+      "packageCount": 2,
       "name": "NH THC:CBD 1:1 RSO-Concentrate-1ml",
       "brand": "NH",
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 43.91,
-        "totalCBD": 45.97,
-        "CBC": 0.0,
+        "totalTHC": 41.25,
+        "totalCBD": 42.44,
+        "CBC": 0.41,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 1.56,
+        "CBG": 1.37,
         "CBGA": 0.0,
-        "CBN": 0.22,
+        "CBN": 0.23,
         "THCA": 0.0,
         "THCV": 0.0
       },
       "dose": null,
       "terpenes": {
         "humulene": 0.16,
-        "caryophyllene": 0.43,
-        "linalool": 0.23
+        "caryophyllene": 0.49,
+        "eudesmol": 0.2,
+        "linalool": 0.22
       },
-      "totalTerps": 1.07,
+      "totalTerps": 1.38,
       "dominantTerpene": "caryophyllene",
       "packages": [
+        {
+          "id": 8939249,
+          "label": "1A4030300003522000210583",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-04-28"
+        },
         {
           "id": 8518846,
           "label": "1A4030300003522000192434",
@@ -26600,7 +26609,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 16.0,
       "unit": "Grams",
       "strainName": "Cherry Pie",
       "strainType": null,
@@ -26635,7 +26644,7 @@
         {
           "id": 8839895,
           "label": "1A4030300004845000037835",
-          "quantity": 20.0,
+          "quantity": 16.0,
           "packagedDate": "2026-08-05",
           "expirationDate": null
         }
@@ -36319,7 +36328,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 59.0,
+      "quantity": 58.0,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
@@ -36354,7 +36363,7 @@
         {
           "id": 8911103,
           "label": "1A40303000000CB000050580",
-          "quantity": 26.0,
+          "quantity": 25.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         },
@@ -37519,7 +37528,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 297.61,
+      "quantity": 290.61,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato TC",
       "strainType": null,
@@ -37550,7 +37559,7 @@
         {
           "id": 8765566,
           "label": "1A40303000001F5000408132",
-          "quantity": 297.61,
+          "quantity": 290.61,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
@@ -53980,7 +53989,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Pink Lemonade",
       "strainType": null,
@@ -54012,7 +54021,7 @@
         {
           "id": 8919190,
           "label": "1A40303000001F5000423342",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-01"
         }
