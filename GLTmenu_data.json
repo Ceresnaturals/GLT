@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T16:00:34.381511+00:00",
+  "generated_at": "2026-09-03T16:10:30.108947+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10865,27 +10865,28 @@
       ]
     },
     {
-      "id": 8882197,
-      "packageCount": 1,
+      "id": 8939323,
+      "packageCount": 2,
       "name": "Betty's Eddies Cherry V3 Fruit Chews-Edible Product-10mg-10",
       "brand": "Betty's Eddies",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.137,
-        "totalCBD": 0.517,
-        "CBC": 0.068,
+        "totalTHC": 0.145,
+        "totalCBD": 0.61,
+        "CBC": 0.071,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.006,
+        "CBG": 0.007,
         "CBGA": 0.0,
         "CBN": 0.001,
         "THCA": 0.0,
@@ -10896,11 +10897,11 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 3.671,
-          "CBC": 0.483,
+          "totalCBD": 4.331,
+          "CBC": 0.504,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.043,
+          "CBG": 0.05,
           "CBGA": 0.0,
           "CBN": 0.007,
           "THCA": 0.0,
@@ -10913,9 +10914,16 @@
       "dominantTerpene": null,
       "packages": [
         {
+          "id": 8939323,
+          "label": "1A4030300003522000210558",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-08-02"
+        },
+        {
           "id": 8882197,
           "label": "1A4030300003522000202245",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-23"
         }
@@ -11265,7 +11273,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11304,7 +11312,7 @@
         {
           "id": 8882284,
           "label": "1A4030300003522000202243",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-23"
         }
@@ -19443,7 +19451,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19484,7 +19492,7 @@
         {
           "id": 8882346,
           "label": "1A4030300003522000202262",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-17"
         }
@@ -26035,55 +26043,6 @@
           "quantity": 70.0,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-07-19"
-        }
-      ]
-    },
-    {
-      "id": 8919167,
-      "packageCount": 1,
-      "name": "Golden Pineapple - Pre Pack Bud - 3.5 gram- Plastic Container",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "Golden Pineapple",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 28.62,
-        "totalCBD": 0.32,
-        "CBDA": 0.09,
-        "CBG": 0.14,
-        "CBN": 0.0,
-        "THCA": 31.89
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.01,
-        "humulene": 0.04,
-        "myrcene": 0.26,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.14,
-        "beta-pinene": 0.09,
-        "ocimene": 0.24,
-        "limonene": 0.17,
-        "linalool": 0.02,
-        "terpinolene": 1.13,
-        "nerolidol": 0.01
-      },
-      "totalTerps": 2.35,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8919167,
-          "label": "1A40303000001F5000423327",
-          "quantity": 3.5,
-          "packagedDate": "2026-08-26",
-          "expirationDate": null
         }
       ]
     },
