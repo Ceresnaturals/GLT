@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T18:20:34.884357+00:00",
+  "generated_at": "2026-09-03T18:30:35.039706+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4108,88 +4108,6 @@
       ]
     },
     {
-      "id": 7643607,
-      "packageCount": 1,
-      "name": "LORE Double Diamonds 1g - Gelato OG",
-      "brand": "LORE",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Weight)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 31.0,
-      "unit": "Grams",
-      "strainName": "Gelato OG",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 34.95,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.51,
-        "CBN": 0.0,
-        "THCA": 33.24,
-        "THCV": 0.14
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.05
-      },
-      "totalTerps": 0.0,
-      "dominantTerpene": "humulene",
-      "packages": [
-        {
-          "id": 7643607,
-          "label": "1A4030300003201000000461",
-          "quantity": 31.0,
-          "packagedDate": "2025-10-23",
-          "expirationDate": "2026-10-14"
-        }
-      ]
-    },
-    {
-      "id": 7643606,
-      "packageCount": 1,
-      "name": "LORE Double Diamonds 1g - Goji Dough",
-      "brand": "LORE",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Weight)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 23.0,
-      "unit": "Grams",
-      "strainName": "Goji Dough",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 33.99,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.3,
-        "CBN": 0.0,
-        "THCA": 98.84,
-        "THCV": 0.15
-      },
-      "dose": null,
-      "terpenes": {},
-      "totalTerps": 0.0,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 7643606,
-          "label": "1A4030300003201000000465",
-          "quantity": 23.0,
-          "packagedDate": "2025-10-23",
-          "expirationDate": "2026-10-14"
-        }
-      ]
-    },
-    {
       "id": 8689162,
       "packageCount": 1,
       "name": "LORE Double Diamonds 1g - Zelato",
@@ -4740,7 +4658,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Toad Venom",
       "strainType": null,
@@ -4774,7 +4692,7 @@
         {
           "id": 8331437,
           "label": "1A4030300003D55000005476",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-04-14",
           "expirationDate": "2026-12-20"
         }
@@ -11910,6 +11828,120 @@
       ]
     },
     {
+      "id": 8939332,
+      "packageCount": 1,
+      "name": "Betty's Eddies Raspberry Creme Fruit Chews-Edible Product-10mg-2",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.136,
+        "totalCBD": 0.29,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.007,
+        "CBGA": 0.0,
+        "CBN": 0.065,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 20.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 10.295,
+          "CBC": 0.071,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.249,
+          "CBGA": 0.0,
+          "CBN": 2.308,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8939332,
+          "label": "1A4030300003522000210562",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-08-06"
+        }
+      ]
+    },
+    {
+      "id": 8939218,
+      "packageCount": 1,
+      "name": "Betty's Eddies Raspberry Creme V3 Fruit Chews-Edible Product-10mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.146,
+        "totalCBD": 0.303,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.008,
+        "CBGA": 0.0,
+        "CBN": 0.069,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 2.151,
+          "CBC": 0.014,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.057,
+          "CBGA": 0.0,
+          "CBN": 0.49,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8939218,
+          "label": "1A4030300003522000210559",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-08-06"
+        }
+      ]
+    },
+    {
       "id": 8689778,
       "packageCount": 1,
       "name": "Betty's Eddies Raspberry Creme V3 Fruit Chews-Exempt-40mg-10",
@@ -12018,6 +12050,63 @@
           "quantity": 21.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-05"
+        }
+      ]
+    },
+    {
+      "id": 8939327,
+      "packageCount": 1,
+      "name": "Betty's Eddies Tropical Smoothie Fruit Chews-Edible Product-10mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.139,
+        "totalCBD": 0.41,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.009,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 29.11,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.639,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8939327,
+          "label": "1A4030300003522000210560",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-07-07"
         }
       ]
     },
@@ -19128,6 +19217,177 @@
       ]
     },
     {
+      "id": 8939228,
+      "packageCount": 1,
+      "name": "In House Blood Orange Fast Acting V3 Gummies-Edible Product-10mg-10",
+      "brand": "In House",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.18,
+        "totalCBD": 0.94,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 47.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8939228,
+          "label": "1A4030300003522000210567",
+          "quantity": 50.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-08-19"
+        }
+      ]
+    },
+    {
+      "id": 8939346,
+      "packageCount": 1,
+      "name": "In House Blueberry Dream Fast Acting V2 Gummies-Exempt-40mg-10",
+      "brand": "In House",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.79,
+        "totalCBD": 0.32,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.05,
+        "CBGA": 0.0,
+        "CBN": 0.11,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 16.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 2.5,
+          "CBGA": 0.0,
+          "CBN": 5.5,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8939346,
+          "label": "1A4030300003522000210568",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-07-17"
+        }
+      ]
+    },
+    {
+      "id": 8939348,
+      "packageCount": 1,
+      "name": "In House Blueberry Dream Fast Acting V3 Gummies-Edible Product-10mg-10",
+      "brand": "In House",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.21,
+        "totalCBD": 0.32,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.12,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 16.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 6.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8939348,
+          "label": "1A4030300003522000210569",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-08-11"
+        }
+      ]
+    },
+    {
       "id": 8828679,
       "packageCount": 1,
       "name": "In House Cherry Lemonade Fast Acting V2 Gummies-Exempt-40mg-10",
@@ -19242,6 +19502,63 @@
       ]
     },
     {
+      "id": 8939355,
+      "packageCount": 1,
+      "name": "In House Peach Mango Fast Acting V2 Gummies-Edible Product-10mg-10",
+      "brand": "In House",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.19,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8939355,
+          "label": "1A4030300003522000210574",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-08-14"
+        }
+      ]
+    },
+    {
       "id": 8766944,
       "packageCount": 1,
       "name": "In House Peach Mango Fast Acting V2 Gummies-Exempt-40mg-10",
@@ -19295,6 +19612,63 @@
           "quantity": 17.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-15"
+        }
+      ]
+    },
+    {
+      "id": 8939232,
+      "packageCount": 1,
+      "name": "In House Sour Apple Gummies-Edible Product-10mg-10",
+      "brand": "In House",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.22,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8939232,
+          "label": "1A4030300003522000210570",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-08-07"
         }
       ]
     },
@@ -19760,6 +20134,63 @@
       ]
     },
     {
+      "id": 8939354,
+      "packageCount": 1,
+      "name": "In House Watermelon Fast Acting V3 Gummies-Edible Product-10mg-10",
+      "brand": "In House",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.2,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.1,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 5.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8939354,
+          "label": "1A4030300003522000210573",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-07-24"
+        }
+      ]
+    },
+    {
       "id": 8882346,
       "packageCount": 1,
       "name": "In House Wild Berry Fast Acting V2 Gummies-Edible Product-10mg-10",
@@ -19881,7 +20312,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19922,7 +20353,7 @@
         {
           "id": 8826445,
           "label": "1A40303000003EA000195250",
-          "quantity": 19.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-02"
         }
@@ -23082,6 +23513,63 @@
       ]
     },
     {
+      "id": 8939256,
+      "packageCount": 1,
+      "name": "Vibations Half & Half Iced Tea Drink Mix V2-Edible Product-10mg-10",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.09,
+        "totalCBD": 0.1,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 10.291,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8939256,
+          "label": "1A4030300003522000210589",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-08-07"
+        }
+      ]
+    },
+    {
       "id": 8689785,
       "packageCount": 1,
       "name": "Vibations Half & Half Iced Tea Drink Mix V2-Exempt-40mg-10",
@@ -23249,6 +23737,63 @@
           "quantity": 22.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-17"
+        }
+      ]
+    },
+    {
+      "id": 8939378,
+      "packageCount": 1,
+      "name": "Vibations Strawberry Lemonade Drink Mix V1-Edible Product-10mg-10",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.082,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8939378,
+          "label": "1A4030300003522000210590",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-08-14"
         }
       ]
     },
@@ -28683,6 +29228,57 @@
       ]
     },
     {
+      "id": 8939201,
+      "packageCount": 1,
+      "name": "NH Lilac Diesel Flower-Usable-14g",
+      "brand": "NH",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 224.0,
+      "unit": "Grams",
+      "strainName": "Lilac Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.39,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 3.16,
+        "CBN": 0.0,
+        "THCA": 28.77,
+        "THCV": 0.21
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.09,
+        "myrcene": 0.29,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 0.35,
+        "beta-pinene": 0.12,
+        "ocimene": 0.42,
+        "limonene": 0.13,
+        "linalool": 0.06,
+        "terpinolene": 0.32
+      },
+      "totalTerps": 2.13,
+      "dominantTerpene": "ocimene",
+      "packages": [
+        {
+          "id": 8939201,
+          "label": "1A4030300003521000056674",
+          "quantity": 224.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-07-30"
+        }
+      ]
+    },
+    {
       "id": 8632102,
       "packageCount": 1,
       "name": "NH RS #11 Flower-Usable-3.5g",
@@ -31266,52 +31862,6 @@
           "quantity": 15.0,
           "packagedDate": "2026-08-11",
           "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 7728819,
-      "packageCount": 1,
-      "name": "Beezle - Stingers - THCa Infused Pre-Rolls - Tri State Banana - 2g",
-      "brand": "Beezle",
-      "category": "Pre-Roll",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 9.0,
-      "unit": "Each",
-      "strainName": "Tri State Banana",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 32.18,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.17,
-        "CBGA": 0.53,
-        "CBN": 0.0,
-        "THCA": 36.32,
-        "THCV": 0.13
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.11,
-        "alpha-pinene": 0.02,
-        "caryophyllene": 0.32,
-        "beta-pinene": 0.02,
-        "caryophyllene-oxide": 0.04
-      },
-      "totalTerps": 0.54,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 7728819,
-          "label": "1A403030000283D000043583",
-          "quantity": 9.0,
-          "packagedDate": "2025-11-14",
-          "expirationDate": "2026-10-29"
         }
       ]
     },
@@ -35446,7 +35996,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 59.5,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -35478,7 +36028,7 @@
         {
           "id": 8911027,
           "label": "1A40303000000CB000050578",
-          "quantity": 59.5,
+          "quantity": 56.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         }
@@ -35824,6 +36374,107 @@
           "quantity": 18.0,
           "packagedDate": "2026-07-23",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8939204,
+      "packageCount": 1,
+      "name": "NH Chocolatina Preroll-Usable-.5g 2pk",
+      "brand": "NH",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Grams",
+      "strainName": "Chocolatina",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.21,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.19,
+        "CBN": 0.0,
+        "THCA": 32.13,
+        "THCV": 0.18
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.12,
+        "myrcene": 0.34,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.32,
+        "beta-pinene": 0.06,
+        "limonene": 0.48,
+        "linalool": 0.48,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.19,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8939204,
+          "label": "1A4030300003521000056677",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-08-20"
+        }
+      ]
+    },
+    {
+      "id": 8939239,
+      "packageCount": 1,
+      "name": "NH Double Krush Infused Preroll-Concentrate-.5g 2pk",
+      "brand": "NH",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Double Krush",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.73,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.18,
+        "CBN": 0.0,
+        "THCA": 35.16,
+        "THCV": 0.2
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.13,
+        "humulene": 0.16,
+        "myrcene": 0.24,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.57,
+        "eudesmol": 0.08,
+        "beta-pinene": 0.05,
+        "limonene": 0.35,
+        "linalool": 0.36,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.25,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8939239,
+          "label": "1A4030300003522000210576",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-05-14"
         }
       ]
     },
@@ -36879,56 +37530,6 @@
       ]
     },
     {
-      "id": 7688695,
-      "packageCount": 1,
-      "name": "Sherbanger #22 Big Dogs (Infused) - Dogwalkers (Stay) - Concentrate - 1g",
-      "brand": "Dogwalkers",
-      "category": "Pre-Roll",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 14.0,
-      "unit": "Each",
-      "strainName": "Sherbanger Big Dogs",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 37.41,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.46,
-        "CBN": 0.0,
-        "THCA": 41.24,
-        "THCV": 0.19
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.1,
-        "humulene": 0.19,
-        "myrcene": 0.16,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 0.86,
-        "beta-pinene": 0.05,
-        "caryophyllene-oxide": 0.05,
-        "limonene": 0.44,
-        "linalool": 0.21
-      },
-      "totalTerps": 2.17,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 7688695,
-          "label": "1A40303000003EA000122385",
-          "quantity": 14.0,
-          "packagedDate": "2025-11-05",
-          "expirationDate": "2026-10-17"
-        }
-      ]
-    },
-    {
       "id": 8060114,
       "packageCount": 1,
       "name": "Skunk Hero Preroll 2.5g (.5g 5Pk)",
@@ -37466,56 +38067,6 @@
           "quantity": 12.0,
           "packagedDate": "2026-05-20",
           "expirationDate": "2027-03-30"
-        }
-      ]
-    },
-    {
-      "id": 7754713,
-      "packageCount": 1,
-      "name": "Triple Stack Pre-Roll - Usable - 1g",
-      "brand": null,
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 15.0,
-      "unit": "Grams",
-      "strainName": "Triple Stack",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 22.74,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.13,
-        "CBGA": 0.42,
-        "CBN": 0.0,
-        "THCA": 25.68,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.1,
-        "myrcene": 0.1,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 0.42,
-        "beta-pinene": 0.07,
-        "caryophyllene-oxide": 0.04,
-        "limonene": 0.47,
-        "linalool": 0.23
-      },
-      "totalTerps": 1.69,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 7754713,
-          "label": "1A4030300000192000019502",
-          "quantity": 15.0,
-          "packagedDate": "2025-11-20",
-          "expirationDate": "2026-11-03"
         }
       ]
     },
@@ -38166,6 +38717,70 @@
           "quantity": 5.0,
           "packagedDate": "2026-04-27",
           "expirationDate": "2027-04-19"
+        }
+      ]
+    },
+    {
+      "id": 8939334,
+      "packageCount": 1,
+      "name": "Cosmec Healing-Recovery Salve-250mg",
+      "brand": null,
+      "category": "Topical",
+      "metrcCategory": "Infused Non-Edibles",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.38,
+        "totalCBD": 1.46,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.76,
+        "THCA": 0.0
+      },
+      "dose": {
+        "servingSize": "",
+        "totalThcMg": 250.0,
+        "thcMgPerServing": 2.5,
+        "minorsMgPerServing": {
+          "totalCBD": 9.125,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 4.75,
+          "THCA": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {
+        "myrcene": 1.37,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.87,
+        "beta-pinene": 0.12,
+        "caryophyllene-oxide": 0.05,
+        "limonene": 0.05,
+        "linalool": 1.24,
+        "nerolidol": 0.16
+      },
+      "totalTerps": 5.04,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8939334,
+          "label": "1A4030300003522000210563",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-08-19"
         }
       ]
     },
@@ -39081,57 +39696,6 @@
       ]
     },
     {
-      "id": 7697289,
-      "packageCount": 1,
-      "name": "2g_Roll One_FlexAIO_9lb Hammer_Indica (251029MED077554)-Vape Cart",
-      "brand": "Roll One",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.0,
-      "unit": "Each",
-      "strainName": "9lb Hammer",
-      "strainType": "Indica",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 89.64,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.78,
-        "CBGA": 0.0,
-        "CBN": 0.23,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.15,
-        "humulene": 0.17,
-        "myrcene": 0.96,
-        "alpha-pinene": 1.32,
-        "caryophyllene": 0.74,
-        "beta-pinene": 0.47,
-        "caryophyllene-oxide": 0.08,
-        "limonene": 0.31,
-        "linalool": 0.14,
-        "terpinolene": 0.05
-      },
-      "totalTerps": 4.53,
-      "dominantTerpene": "alpha-pinene",
-      "packages": [
-        {
-          "id": 7697289,
-          "label": "1A403030000238D000078939",
-          "quantity": 3.0,
-          "packagedDate": "2025-11-06",
-          "expirationDate": "2026-11-04"
-        }
-      ]
-    },
-    {
       "id": 7993632,
       "packageCount": 1,
       "name": "2g_Roll One_FlexAIO_Bubba Kush_Indica (260114MED086196)-Vape Cart",
@@ -39178,58 +39742,6 @@
           "quantity": 10.0,
           "packagedDate": "2026-01-23",
           "expirationDate": "2027-01-18"
-        }
-      ]
-    },
-    {
-      "id": 7666078,
-      "packageCount": 1,
-      "name": "2g_Roll One_FlexAIO_GG #4_Hybrid (251020MED077550)-Vape Cart",
-      "brand": "Roll One",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 8.0,
-      "unit": "Each",
-      "strainName": "FlexAIO",
-      "strainType": "Hybrid",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 86.53,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 4.31,
-        "CBGA": 0.0,
-        "CBN": 0.39,
-        "THCA": 0.48,
-        "THCV": 0.95
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.26,
-        "humulene": 0.43,
-        "myrcene": 0.57,
-        "alpha-pinene": 0.08,
-        "caryophyllene": 1.7,
-        "beta-pinene": 0.11,
-        "caryophyllene-oxide": 0.13,
-        "limonene": 0.83,
-        "linalool": 0.18,
-        "terpinolene": 0.02,
-        "nerolidol": 0.24
-      },
-      "totalTerps": 4.81,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 7666078,
-          "label": "1A403030000238D000078309",
-          "quantity": 8.0,
-          "packagedDate": "2025-10-29",
-          "expirationDate": "2026-10-26"
         }
       ]
     },
@@ -40838,56 +41350,6 @@
           "quantity": 22.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-05-22"
-        }
-      ]
-    },
-    {
-      "id": 7653805,
-      "packageCount": 1,
-      "name": "Animal Mintz BD - BOMA Vape Cart (Color: Commanders) - 0.5g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Animal Mintz BD",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 89.15,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 1.35,
-        "THCV": 0.84
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.08,
-        "myrcene": 0.51,
-        "alpha-pinene": 0.28,
-        "caryophyllene": 0.21,
-        "beta-pinene": 0.22,
-        "caryophyllene-oxide": 0.07,
-        "limonene": 2.86,
-        "linalool": 0.27,
-        "terpinolene": 0.05
-      },
-      "totalTerps": 5.48,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 7653805,
-          "label": "1A40303000037DD000018250",
-          "quantity": 1.0,
-          "packagedDate": "2025-10-27",
-          "expirationDate": "2026-09-13"
         }
       ]
     },
@@ -43004,7 +43466,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Blueberry Dream",
       "strainType": null,
@@ -43033,7 +43495,7 @@
         {
           "id": 8873611,
           "label": "1A403030000012E000183584",
-          "quantity": 5.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-06-13"
         }
@@ -43399,7 +43861,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 30.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": "Cherry Chem . Liquid and",
       "strainType": null,
@@ -43439,7 +43901,7 @@
         {
           "id": 8599199,
           "label": "1A40303000007D1000080938",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-06-16",
           "expirationDate": null
         }
@@ -43796,54 +44258,6 @@
           "quantity": 11.0,
           "packagedDate": "2025-09-25",
           "expirationDate": "2026-09-25"
-        }
-      ]
-    },
-    {
-      "id": 8039529,
-      "packageCount": 1,
-      "name": "Cookies | Vapes | CDT 3-in-1 Disposables | Gary Payton + Pomegranate Shake - Vape Cart - 1g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 11.0,
-      "unit": "Each",
-      "strainName": "Gary Payton + Pomegranate",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 84.84,
-        "CBC": 0.87,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.05,
-        "CBGA": 0.0,
-        "CBN": 0.25,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.095,
-        "myrcene": 0.725,
-        "alpha-pinene": 0.17,
-        "caryophyllene": 0.341,
-        "beta-pinene": 0.166,
-        "limonene": 0.98,
-        "linalool": 0.348
-      },
-      "totalTerps": 3.03,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8039529,
-          "label": "1A4030300002199000038844",
-          "quantity": 11.0,
-          "packagedDate": "2025-11-13",
-          "expirationDate": null
         }
       ]
     },
@@ -53263,58 +53677,6 @@
       ]
     },
     {
-      "id": 7626173,
-      "packageCount": 1,
-      "name": "NH Tropical Adhesive Live Resin-Vape Cart-.5g",
-      "brand": "NH",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 5.0,
-      "unit": "Each",
-      "strainName": "Tropical Adhesive",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 70.96,
-        "CBC": 0.58,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.37,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.55,
-        "humulene": 0.9,
-        "myrcene": 1.09,
-        "alpha-pinene": 0.7,
-        "caryophyllene": 3.44,
-        "beta-pinene": 0.13,
-        "caryophyllene-oxide": 0.1,
-        "ocimene": 0.26,
-        "limonene": 2.32,
-        "linalool": 0.47,
-        "terpinolene": 0.05
-      },
-      "totalTerps": 10.81,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 7626173,
-          "label": "1A4030300003522000140111",
-          "quantity": 5.0,
-          "packagedDate": "2025-10-20",
-          "expirationDate": "2026-10-08"
-        }
-      ]
-    },
-    {
       "id": 8858130,
       "packageCount": 1,
       "name": "Nectar | Vapes | Live Resin Cartridges | Cherry AK-47 - Vape Cart - 0.5g",
@@ -56740,58 +57102,6 @@
           "quantity": 3.0,
           "packagedDate": "2026-05-20",
           "expirationDate": "2027-04-20"
-        }
-      ]
-    },
-    {
-      "id": 7653650,
-      "packageCount": 1,
-      "name": "Stocking Stuffer FSE - BOMA Vape Cart (Color: Flannel) - 0.5 gram",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 12.0,
-      "unit": "Each",
-      "strainName": "Stocking Stuffer FSE",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 71.6,
-        "CBC": 0.29,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.31,
-        "CBGA": 0.56,
-        "CBN": 1.27,
-        "THCA": 2.03,
-        "THCV": 0.77
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.18,
-        "humulene": 0.45,
-        "myrcene": 0.45,
-        "alpha-pinene": 0.37,
-        "caryophyllene": 1.46,
-        "eudesmol": 0.21,
-        "beta-pinene": 0.25,
-        "caryophyllene-oxide": 0.18,
-        "limonene": 1.41,
-        "linalool": 0.88,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 6.94,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 7653650,
-          "label": "1A40303000037DD000018249",
-          "quantity": 12.0,
-          "packagedDate": "2025-10-27",
-          "expirationDate": "2026-09-20"
         }
       ]
     },
