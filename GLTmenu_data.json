@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T22:10:31.535505+00:00",
+  "generated_at": "2026-09-03T22:20:31.969001+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -5120,55 +5120,6 @@
       ]
     },
     {
-      "id": 8777901,
-      "packageCount": 1,
-      "name": "Long Lifts Diamond Infused - Animal Fuel - Concentrate - 1g",
-      "brand": null,
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Animal Fuel",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 40.43,
-        "totalCBD": 0.04,
-        "CBC": 0.0,
-        "CBDA": 0.04,
-        "CBDV": 0.0,
-        "CBG": 0.07,
-        "CBGA": 0.78,
-        "CBN": 0.0,
-        "THCA": 44.72,
-        "THCV": 0.23
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.05,
-        "myrcene": 0.03,
-        "alpha-pinene": 0.08,
-        "caryophyllene": 0.2,
-        "beta-pinene": 0.04,
-        "limonene": 0.3,
-        "linalool": 0.14
-      },
-      "totalTerps": 0.96,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8777901,
-          "label": "1A40303000017D5000101324",
-          "quantity": 1.0,
-          "packagedDate": "2026-06-18",
-          "expirationDate": "2027-06-18"
-        }
-      ]
-    },
-    {
       "id": 8872250,
       "packageCount": 1,
       "name": "MD-EXT-DIAMONDDUST-1G",
@@ -8238,7 +8189,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Strawberry Sour Diesel",
       "strainType": "Sativa",
@@ -8273,7 +8224,7 @@
         {
           "id": 8826452,
           "label": "1A40303000003EA000195258",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-05-04"
         }
@@ -9401,6 +9352,52 @@
       ]
     },
     {
+      "id": 8678607,
+      "packageCount": 1,
+      "name": "Dixie Signature Berry Lemonade Elixir 200mg-Exempt-12mg-17",
+      "brand": "Dixie",
+      "category": "Drink",
+      "metrcCategory": "Exempt Liquid Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 6.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.078,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.003,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "15mL",
+        "totalThcMg": 200.0,
+        "thcMgPerServing": 12.0,
+        "minorsMgPerServing": {},
+        "minorsEstimated": false
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8678607,
+          "label": "1A403030000012D000253352",
+          "quantity": 6.0,
+          "packagedDate": "2026-07-02",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8828891,
       "packageCount": 1,
       "name": "Dixie Signature Cherry Limeade Elixir 200mg-Exempt-12mg-17",
@@ -9442,6 +9439,52 @@
           "label": "1A403030000012D000259353",
           "quantity": 10.0,
           "packagedDate": "2026-08-06",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8863973,
+      "packageCount": 1,
+      "name": "Dixie Signature Fruit Punch Elixir 200mg-Exempt-12mg-17",
+      "brand": "Dixie",
+      "category": "Drink",
+      "metrcCategory": "Exempt Liquid Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 6.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.07,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.002,
+        "CBGA": 0.0,
+        "CBN": 0.003,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "15mL",
+        "totalThcMg": 200.0,
+        "thcMgPerServing": 12.0,
+        "minorsMgPerServing": {},
+        "minorsEstimated": false
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8863973,
+          "label": "1A403030000012D000260499",
+          "quantity": 6.0,
+          "packagedDate": "2026-08-13",
           "expirationDate": null
         }
       ]
@@ -12926,6 +12969,116 @@
           "label": "1A4030300000579000037549",
           "quantity": 7.0,
           "packagedDate": "2026-04-10",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8828894,
+      "packageCount": 1,
+      "name": "Curio Wellness Black Cherry Vanilla 10mg Chews-Edible Product-10mg-10",
+      "brand": "Curio Wellness",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 11.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.268,
+        "CBC": 0.003,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.009,
+        "CBGA": 0.0,
+        "CBN": 0.008,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.12,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.36,
+          "CBGA": 0.0,
+          "CBN": 0.32,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8828894,
+          "label": "1A403030000012D000259358",
+          "quantity": 11.0,
+          "packagedDate": "2026-08-06",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8926321,
+      "packageCount": 1,
+      "name": "Curio Wellness Black Cherry Vanilla 40mg Chews-Exempt-40mg-10",
+      "brand": "Curio Wellness",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 23.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 1.046,
+        "CBC": 0.009,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.058,
+        "CBGA": 0.0,
+        "CBN": 0.054,
+        "THCA": 0.0,
+        "THCV": 0.005
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "CBC": 0.36,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 2.32,
+          "CBGA": 0.0,
+          "CBN": 2.16,
+          "THCA": 0.0,
+          "THCV": 0.2
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8926321,
+          "label": "1A403030000012D000262974",
+          "quantity": 23.0,
+          "packagedDate": "2026-08-27",
           "expirationDate": null
         }
       ]
@@ -26890,7 +27043,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 147.5,
+      "quantity": 144.0,
       "unit": "Grams",
       "strainName": "Bapple Fritz",
       "strainType": null,
@@ -26924,7 +27077,7 @@
         {
           "id": 8083908,
           "label": "1A4030300003521000045578",
-          "quantity": 147.5,
+          "quantity": 144.0,
           "packagedDate": "2026-02-16",
           "expirationDate": "2027-01-01"
         }
@@ -29489,7 +29642,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 196.0,
+      "quantity": 189.0,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
@@ -29524,7 +29677,7 @@
         {
           "id": 8911109,
           "label": "1A40303000000CB000050585",
-          "quantity": 196.0,
+          "quantity": 189.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         }
@@ -29540,7 +29693,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Grams",
       "strainName": "Forum Cut Cookies",
       "strainType": null,
@@ -29572,7 +29725,7 @@
         {
           "id": 8894099,
           "label": "1A4030300003A3C000089888",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-06-16",
           "expirationDate": "2027-06-16"
         }
@@ -35667,7 +35820,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 49.0,
+      "quantity": 45.5,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -35699,7 +35852,7 @@
         {
           "id": 8911027,
           "label": "1A40303000000CB000050578",
-          "quantity": 49.0,
+          "quantity": 45.5,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         }
@@ -37406,7 +37559,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 18.0,
       "unit": "Grams",
       "strainName": "Sour Peel",
       "strainType": null,
@@ -37439,7 +37592,7 @@
         {
           "id": 8884210,
           "label": "1A40303000000CB000050198",
-          "quantity": 20.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-07-18"
         }
@@ -45450,7 +45603,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "El Chivo",
       "strainType": null,
@@ -45486,7 +45639,7 @@
         {
           "id": 8758176,
           "label": "1A4030300004845000034914",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-05-18",
           "expirationDate": null
         }
