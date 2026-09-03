@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T17:40:34.197826+00:00",
+  "generated_at": "2026-09-03T17:50:31.338976+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -20076,7 +20076,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 21.0,
       "unit": "Each",
@@ -25515,7 +25515,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 399.77,
+      "quantity": 398.77,
       "unit": "Grams",
       "strainName": "Earthquake #25",
       "strainType": null,
@@ -25548,7 +25548,7 @@
         {
           "id": 8000715,
           "label": "1A40303000000C9000082241",
-          "quantity": 399.77,
+          "quantity": 398.77,
           "packagedDate": "2026-01-28",
           "expirationDate": "2026-11-23"
         }
@@ -31953,7 +31953,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Grams",
       "strainName": "Crescendo",
       "strainType": null,
@@ -31986,7 +31986,7 @@
         {
           "id": 8828987,
           "label": "1A403030000012D000259346",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -36768,7 +36768,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Grams",
       "strainName": "Sour Peel",
       "strainType": null,
@@ -36801,7 +36801,7 @@
         {
           "id": 8884210,
           "label": "1A40303000000CB000050198",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-07-18"
         }
@@ -52498,6 +52498,56 @@
       ]
     },
     {
+      "id": 8939368,
+      "packageCount": 1,
+      "name": "NH Double Krush Live Rosin-Vape Cart-.5g",
+      "brand": "NH",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Double Krush",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 77.55,
+        "CBC": 0.65,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.5,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.41,
+        "humulene": 0.61,
+        "myrcene": 3.09,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 2.2,
+        "beta-pinene": 0.1,
+        "limonene": 1.04,
+        "linalool": 0.63,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 8.65,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8939368,
+          "label": "1A4030300003522000210585",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-08-25"
+        }
+      ]
+    },
+    {
       "id": 8632151,
       "packageCount": 1,
       "name": "NH Governmint Oasis Live Resin-Vape Cart-1g",
@@ -52690,6 +52740,57 @@
           "quantity": 14.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-01-18"
+        }
+      ]
+    },
+    {
+      "id": 8939250,
+      "packageCount": 1,
+      "name": "NH Lilac Diesel Live Resin-Vape Cart-1g",
+      "brand": "NH",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Lilac Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 70.08,
+        "CBC": 0.6,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 5.52,
+        "CBGA": 0.79,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.72
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.27,
+        "humulene": 0.47,
+        "myrcene": 1.15,
+        "alpha-pinene": 0.71,
+        "caryophyllene": 1.77,
+        "beta-pinene": 0.06,
+        "ocimene": 1.44,
+        "limonene": 0.67,
+        "linalool": 0.19,
+        "terpinolene": 4.81
+      },
+      "totalTerps": 12.62,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8939250,
+          "label": "1A4030300003522000210584",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-07-12"
         }
       ]
     },
