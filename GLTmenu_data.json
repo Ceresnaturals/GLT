@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T23:50:34.632390+00:00",
+  "generated_at": "2026-09-03T00:00:33.503615+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -380,7 +380,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -419,7 +419,7 @@
         {
           "id": 8484004,
           "label": "1A4030300000193000095468",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-05-20",
           "expirationDate": "2027-03-03"
         },
@@ -25205,6 +25205,56 @@
       ]
     },
     {
+      "id": 8895433,
+      "packageCount": 1,
+      "name": "CUR-EXC-JAR-SCSO-3.5-MD",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.5,
+      "unit": "Grams",
+      "strainName": "SCSO",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 33.93,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.32,
+        "CBGA": 0.45,
+        "CBN": 0.0,
+        "THCA": 38.32,
+        "THCV": 0.2
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.15,
+        "myrcene": 1.51,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.49,
+        "beta-pinene": 0.07,
+        "limonene": 0.48,
+        "linalool": 0.13,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.13,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8895433,
+          "label": "1A40303000000CD000075419",
+          "quantity": 10.5,
+          "packagedDate": "2026-08-20",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8908833,
       "packageCount": 1,
       "name": "Chem De La Chem - Shorties Five Pack - Usable - 2g",
@@ -32855,7 +32905,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Finger Lime Haze",
       "strainType": null,
@@ -32891,7 +32941,7 @@
         {
           "id": 8922970,
           "label": "1A403030000012E000187006",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-08-06"
         }
@@ -36867,7 +36917,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -36899,7 +36949,7 @@
         {
           "id": 8919175,
           "label": "1A40303000001F5000423330",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -37302,6 +37352,54 @@
       ]
     },
     {
+      "id": 8890370,
+      "packageCount": 1,
+      "name": "Voyager - Pre Roll Joints - 0.5 gram - 2 Pack",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 2.0,
+      "unit": "Grams",
+      "strainName": "Voyager",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.82,
+        "totalCBD": 0.27,
+        "CBDA": 0.05,
+        "CBG": 0.16,
+        "CBN": 0.01,
+        "THCA": 27.73
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.01,
+        "humulene": 0.05,
+        "myrcene": 0.2,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.11,
+        "beta-pinene": 0.08,
+        "ocimene": 0.09,
+        "limonene": 0.11,
+        "linalool": 0.04,
+        "terpinolene": 0.32
+      },
+      "totalTerps": 1.17,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8890370,
+          "label": "1A40303000001F5000420176",
+          "quantity": 2.0,
+          "packagedDate": "2026-08-20",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8746344,
       "packageCount": 1,
       "name": "White OG 5 pack (Infused) Dogwalkers (Sit) - Concentrate - 2.25g",
@@ -37420,7 +37518,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 223.67,
+      "quantity": 216.67,
       "unit": "Grams",
       "strainName": "Sour Dubble",
       "strainType": null,
@@ -37453,7 +37551,7 @@
         {
           "id": 8606883,
           "label": "1A4030300002009000105201",
-          "quantity": 223.67,
+          "quantity": 216.67,
           "packagedDate": "2026-06-17",
           "expirationDate": null
         }
@@ -38385,7 +38483,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Orange Creamsicle",
       "strainType": null,
@@ -38418,7 +38516,7 @@
         {
           "id": 8683128,
           "label": "1A40303000017D5000099033",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-05-22",
           "expirationDate": "2027-05-22"
         }
@@ -50780,7 +50878,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 37.0,
+      "quantity": 36.0,
       "unit": "Each",
       "strainName": "Grapefruit Maui",
       "strainType": null,
@@ -50814,7 +50912,7 @@
         {
           "id": 8077934,
           "label": "1A4030300003D55000004743",
-          "quantity": 37.0,
+          "quantity": 36.0,
           "packagedDate": "2026-02-13",
           "expirationDate": "2026-10-19"
         }
