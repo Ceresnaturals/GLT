@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T18:10:34.463635+00:00",
+  "generated_at": "2026-09-03T18:20:34.884357+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -132,8 +132,8 @@
       ]
     },
     {
-      "id": 8828775,
-      "packageCount": 1,
+      "id": 8939364,
+      "packageCount": 2,
       "name": "NH RSO V1-Capsule-10mg-10",
       "brand": "NH",
       "category": "Capsule",
@@ -141,20 +141,20 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 1.85,
+        "totalTHC": 1.82,
         "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.05,
+        "CBG": 0.06,
         "CBGA": 0.0,
-        "CBN": 0.08,
+        "CBN": 0.09,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -167,9 +167,9 @@
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.25,
+          "CBG": 0.3,
           "CBGA": 0.0,
-          "CBN": 0.4,
+          "CBN": 0.45,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -180,6 +180,13 @@
       "dominantTerpene": null,
       "packages": [
         {
+          "id": 8939364,
+          "label": "1A4030300003522000210582",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-06-10"
+        },
+        {
           "id": 8828775,
           "label": "1A4030300003522000195389",
           "quantity": 4.0,
@@ -189,16 +196,17 @@
       ]
     },
     {
-      "id": 8882441,
-      "packageCount": 1,
+      "id": 8939253,
+      "packageCount": 2,
       "name": "NH RSO V1-Capsule-50mg-20",
       "brand": "NH",
       "category": "Capsule",
       "metrcCategory": "Infused Edible (Capsule Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -236,6 +244,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8939253,
+          "label": "1A4030300003522000210586",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-04-09"
+        },
         {
           "id": 8882441,
           "label": "1A4030300003522000202265",
@@ -6151,6 +6166,52 @@
       ]
     },
     {
+      "id": 8939362,
+      "packageCount": 1,
+      "name": "NH Bapple Fritz RSO-Concentrate-1ml",
+      "brand": "NH",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Bapple Fritz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 75.33,
+        "CBC": 0.83,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.89,
+        "CBGA": 0.0,
+        "CBN": 0.38,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.5,
+        "humulene": 0.28,
+        "caryophyllene": 0.96,
+        "limonene": 0.13,
+        "linalool": 0.31
+      },
+      "totalTerps": 2.73,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8939362,
+          "label": "1A4030300003522000210581",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-05-12"
+        }
+      ]
+    },
+    {
       "id": 8882396,
       "packageCount": 1,
       "name": "NH Blueberry Kief-Concentrate-1g",
@@ -6343,6 +6404,56 @@
           "quantity": 9.0,
           "packagedDate": "2026-03-18",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8939371,
+      "packageCount": 1,
+      "name": "NH Chocolatina Live Rosin-Concentrate-1g",
+      "brand": "NH",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Chocolatina",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 72.69,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.78,
+        "CBN": 0.0,
+        "THCA": 82.04,
+        "THCV": 0.53
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.34,
+        "humulene": 0.47,
+        "myrcene": 2.19,
+        "alpha-pinene": 0.19,
+        "caryophyllene": 1.31,
+        "beta-pinene": 0.28,
+        "limonene": 2.01,
+        "linalool": 1.12,
+        "terpinolene": 0.08
+      },
+      "totalTerps": 8.6,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8939371,
+          "label": "1A4030300003522000210587",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-08-21"
         }
       ]
     },
@@ -6541,6 +6652,52 @@
       ]
     },
     {
+      "id": 8939361,
+      "packageCount": 1,
+      "name": "NH Lamb's Bread Live Sugar-Concentrate-1g",
+      "brand": "NH",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Lamb's Bread",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 82.02,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.55,
+        "CBN": 0.0,
+        "THCA": 90.62,
+        "THCV": 0.62
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.28,
+        "myrcene": 1.74,
+        "caryophyllene": 0.65,
+        "beta-pinene": 0.06,
+        "limonene": 0.38
+      },
+      "totalTerps": 3.37,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8939361,
+          "label": "1A4030300003522000210580",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-06-30"
+        }
+      ]
+    },
+    {
       "id": 8632234,
       "packageCount": 1,
       "name": "NH Larry Bird Mints Bubble Hash-Concentrate-1g",
@@ -6733,6 +6890,56 @@
           "quantity": 1.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-04"
+        }
+      ]
+    },
+    {
+      "id": 8939241,
+      "packageCount": 1,
+      "name": "NH Lilac Diesel Kief-Concentrate-1g",
+      "brand": "NH",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Lilac Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 41.02,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.3,
+        "CBGA": 5.32,
+        "CBN": 0.0,
+        "THCA": 42.31,
+        "THCV": 0.31
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.12,
+        "humulene": 0.11,
+        "myrcene": 0.12,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.38,
+        "beta-pinene": 0.04,
+        "ocimene": 0.24,
+        "limonene": 0.08,
+        "terpinolene": 0.4
+      },
+      "totalTerps": 1.63,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8939241,
+          "label": "1A4030300003522000210577",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-08-16"
         }
       ]
     },
@@ -6975,6 +7182,56 @@
       ]
     },
     {
+      "id": 8939360,
+      "packageCount": 1,
+      "name": "NH Romulan Live Badder-Concentrate-1g",
+      "brand": "NH",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Romulan",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 75.5,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.37,
+        "CBN": 0.0,
+        "THCA": 86.09,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.27,
+        "humulene": 0.27,
+        "myrcene": 4.3,
+        "alpha-pinene": 0.25,
+        "caryophyllene": 1.14,
+        "beta-pinene": 0.13,
+        "ocimene": 0.23,
+        "limonene": 0.31,
+        "linalool": 0.36
+      },
+      "totalTerps": 7.26,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8939360,
+          "label": "1A4030300003522000210578",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-07-19"
+        }
+      ]
+    },
+    {
       "id": 7914570,
       "packageCount": 1,
       "name": "NH Sour Bobby Live Badder-Concentrate-1g",
@@ -7071,6 +7328,56 @@
           "quantity": 10.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-21"
+        }
+      ]
+    },
+    {
+      "id": 8939244,
+      "packageCount": 1,
+      "name": "NH Strawberry Jelly Live Rosin-Concentrate-1g",
+      "brand": "NH",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 13.0,
+      "unit": "Each",
+      "strainName": "Strawberry Jelly",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 69.79,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 4.73,
+        "CBN": 0.0,
+        "THCA": 60.49,
+        "THCV": 0.41
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.42,
+        "humulene": 0.43,
+        "myrcene": 2.01,
+        "alpha-pinene": 0.26,
+        "caryophyllene": 1.68,
+        "eudesmol": 0.76,
+        "beta-pinene": 0.2,
+        "limonene": 1.69,
+        "linalool": 0.28
+      },
+      "totalTerps": 8.82,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8939244,
+          "label": "1A4030300003522000210579",
+          "quantity": 13.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-07-19"
         }
       ]
     },
@@ -7739,7 +8046,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Durban Poison",
       "strainType": "Sativa",
@@ -7772,7 +8079,7 @@
         {
           "id": 8891523,
           "label": "1A40303000003EA000205087",
-          "quantity": 13.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-06-17"
         }
@@ -7840,7 +8147,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Watermelon Z",
       "strainType": "Indica",
@@ -7874,7 +8181,7 @@
         {
           "id": 8854452,
           "label": "1A40303000003EA000202542",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-07-21"
         }
@@ -8998,7 +9305,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9037,7 +9344,7 @@
         {
           "id": 7987789,
           "label": "1A403030000012D000203969",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-01-22",
           "expirationDate": null
         }
@@ -9108,7 +9415,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9147,7 +9454,7 @@
         {
           "id": 8402267,
           "label": "1A403030000012D000231118",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-04-30",
           "expirationDate": null
         }
@@ -23427,7 +23734,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23466,7 +23773,7 @@
         {
           "id": 8864833,
           "label": "1A403030000390D000066245",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-14",
           "expirationDate": "2027-08-04"
         }
@@ -26265,7 +26572,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 126.0,
+      "quantity": 115.5,
       "unit": "Grams",
       "strainName": "Han Solo HashBurger",
       "strainType": null,
@@ -26298,7 +26605,7 @@
         {
           "id": 8870114,
           "label": "1A40303000040D9000005721",
-          "quantity": 126.0,
+          "quantity": 115.5,
           "packagedDate": "2026-08-16",
           "expirationDate": "2027-08-15"
         }
@@ -26956,7 +27263,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 77.0,
+      "quantity": 63.0,
       "unit": "Grams",
       "strainName": "LEMF",
       "strainType": null,
@@ -26992,7 +27299,7 @@
         {
           "id": 8926928,
           "label": "1A40303000000CD000079029",
-          "quantity": 77.0,
+          "quantity": 63.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         }
@@ -28523,7 +28830,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "PROM",
       "strainType": null,
@@ -28556,7 +28863,7 @@
         {
           "id": 8895515,
           "label": "1A40303000000CD000075421",
-          "quantity": 24.5,
+          "quantity": 14.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -29010,7 +29317,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -29044,7 +29351,7 @@
         {
           "id": 8919168,
           "label": "1A40303000001F5000423328",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -37528,7 +37835,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 290.61,
+      "quantity": 287.11,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato TC",
       "strainType": null,
@@ -37559,7 +37866,7 @@
         {
           "id": 8765566,
           "label": "1A40303000001F5000408132",
-          "quantity": 290.61,
+          "quantity": 287.11,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
@@ -37575,7 +37882,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -37616,7 +37923,7 @@
         {
           "id": 7534188,
           "label": "1A4030300003201000000367",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2025-09-25",
           "expirationDate": "2026-09-19"
         }
@@ -40884,7 +41191,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Baja Blue DV",
       "strainType": null,
@@ -40920,7 +41227,7 @@
         {
           "id": 8890377,
           "label": "1A40303000001F5000420184",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-22"
         }
@@ -44507,7 +44814,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Edie Parker Lavender Vanilla",
       "strainType": null,
@@ -44542,7 +44849,7 @@
         {
           "id": 8583747,
           "label": "1A403030000012D000244628",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-06-11",
           "expirationDate": null
         }
