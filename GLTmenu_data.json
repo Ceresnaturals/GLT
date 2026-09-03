@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T15:10:33.838099+00:00",
+  "generated_at": "2026-09-03T15:20:35.840647+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -5124,7 +5124,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Animal Fuel",
       "strainType": null,
@@ -5157,7 +5157,7 @@
         {
           "id": 8777901,
           "label": "1A40303000017D5000101324",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-06-18",
           "expirationDate": "2027-06-18"
         }
@@ -9844,7 +9844,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9885,7 +9885,7 @@
         {
           "id": 8920196,
           "label": "1A40303000001F5000423551",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-29"
         }
@@ -21439,61 +21439,6 @@
       ]
     },
     {
-      "id": 8583753,
-      "packageCount": 1,
-      "name": "Smokiez Sour Watermelon 30mg Medicated Chews-Exempt-30mg-10",
-      "brand": "Smokiez",
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 10.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.462,
-        "CBC": 0.004,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.017,
-        "CBGA": 0.0,
-        "CBN": 0.012,
-        "THCA": 0.0,
-        "THCV": 0.003
-      },
-      "dose": {
-        "servingSize": "1 piece",
-        "totalThcMg": 300.0,
-        "thcMgPerServing": 30.0,
-        "minorsMgPerServing": {
-          "CBC": 0.24,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 1.02,
-          "CBGA": 0.0,
-          "CBN": 0.72,
-          "THCA": 0.0,
-          "THCV": 0.18
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8583753,
-          "label": "1A403030000012D000244637",
-          "quantity": 10.0,
-          "packagedDate": "2026-06-11",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8616991,
       "packageCount": 1,
       "name": "Smokiez Sour Watermelon Hybrid 10mg Medicated Chews-Edible Product-10mg-10",
@@ -22651,7 +22596,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22692,7 +22637,7 @@
         {
           "id": 8919306,
           "label": "1A40303000001F5000423347",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-28"
         }
@@ -25315,7 +25260,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 129.5,
+      "quantity": 126.0,
       "unit": "Grams",
       "strainName": "41 CHERRY CHOCOLATE WIDOW",
       "strainType": null,
@@ -25350,7 +25295,7 @@
         {
           "id": 8858125,
           "label": "1A40303000039D1000091576",
-          "quantity": 129.5,
+          "quantity": 126.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -25611,7 +25556,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "Cadillac Rainbows",
       "strainType": null,
@@ -25645,7 +25590,7 @@
         {
           "id": 8725907,
           "label": "1A4030300004845000032770",
-          "quantity": 35.0,
+          "quantity": 31.5,
           "packagedDate": "2026-05-08",
           "expirationDate": null
         }
@@ -37617,7 +37562,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 315.11,
+      "quantity": 304.61,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato TC",
       "strainType": null,
@@ -37648,7 +37593,7 @@
         {
           "id": 8765566,
           "label": "1A40303000001F5000408132",
-          "quantity": 315.11,
+          "quantity": 304.61,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
@@ -43069,55 +43014,6 @@
           "quantity": 12.0,
           "packagedDate": "2026-02-11",
           "expirationDate": "2026-11-24"
-        }
-      ]
-    },
-    {
-      "id": 8583909,
-      "packageCount": 1,
-      "name": "Champagne Supernova Distillate Cartridge Strane - Vape Cart - 1 g",
-      "brand": "Strane",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.0,
-      "unit": "Each",
-      "strainName": "Champagne Supernova",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 84.39,
-        "CBC": 0.77,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.67,
-        "CBGA": 0.0,
-        "CBN": 0.8,
-        "THCA": 0.0,
-        "THCV": 0.71
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.23,
-        "myrcene": 1.79,
-        "alpha-pinene": 0.4,
-        "caryophyllene": 0.76,
-        "beta-pinene": 0.22,
-        "ocimene": 0.62,
-        "limonene": 0.54,
-        "terpinolene": 2.03
-      },
-      "totalTerps": 6.66,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8583909,
-          "label": "1A403030000012E000166344",
-          "quantity": 3.0,
-          "packagedDate": "2026-06-11",
-          "expirationDate": "2027-03-21"
         }
       ]
     },
@@ -51812,7 +51708,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Banana Berry Smoothie",
       "strainType": null,
@@ -51844,7 +51740,7 @@
         {
           "id": 8885895,
           "label": "1A403030000283D000057729",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-06-24"
         }
@@ -54371,16 +54267,15 @@
     },
     {
       "id": 8756257,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Razberry Blitz Cloud Bar Hellavated - Vape Cart - 1 g",
       "brand": "Hellavated",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 16.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Razberry Blitz",
       "strainType": null,
@@ -54414,13 +54309,6 @@
           "quantity": 12.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-05-16"
-        },
-        {
-          "id": 8583678,
-          "label": "1A403030000012E000166356",
-          "quantity": 4.0,
-          "packagedDate": "2026-06-11",
-          "expirationDate": "2027-03-07"
         }
       ]
     },
@@ -56621,52 +56509,6 @@
       ]
     },
     {
-      "id": 8583736,
-      "packageCount": 1,
-      "name": "Super Boof Rip Sticks Strane - Vape Cart - 1 g",
-      "brand": "Strane",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 9.0,
-      "unit": "Each",
-      "strainName": "Super Boof Rip Sticks",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 86.19,
-        "CBC": 0.69,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.74,
-        "CBGA": 0.0,
-        "CBN": 0.39,
-        "THCA": 0.0,
-        "THCV": 1.37
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.08,
-        "myrcene": 0.99,
-        "caryophyllene": 1.93,
-        "limonene": 1.68,
-        "linalool": 0.45
-      },
-      "totalTerps": 5.43,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8583736,
-          "label": "1A403030000012E000166353",
-          "quantity": 9.0,
-          "packagedDate": "2026-06-11",
-          "expirationDate": "2027-05-02"
-        }
-      ]
-    },
-    {
       "id": 8858442,
       "packageCount": 1,
       "name": "Super Lemon Haze - Spirits Distillate Cart - 1g",
@@ -57216,50 +57058,6 @@
           "quantity": 22.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-01-15"
-        }
-      ]
-    },
-    {
-      "id": 8583734,
-      "packageCount": 1,
-      "name": "Tropicalez Punch Cloud Bar Hellavated - Vape Cart - 1 g",
-      "brand": "Hellavated",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 8.0,
-      "unit": "Each",
-      "strainName": "Tropicalez Punch",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 88.07,
-        "CBC": 0.58,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.05,
-        "CBGA": 0.0,
-        "CBN": 0.37,
-        "THCA": 0.0,
-        "THCV": 0.91
-      },
-      "dose": null,
-      "terpenes": {
-        "alpha-pinene": 0.03,
-        "beta-pinene": 0.12,
-        "limonene": 2.13
-      },
-      "totalTerps": 2.38,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8583734,
-          "label": "1A403030000012E000166354",
-          "quantity": 8.0,
-          "packagedDate": "2026-06-11",
-          "expirationDate": "2027-03-28"
         }
       ]
     },
