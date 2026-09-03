@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T22:50:31.145428+00:00",
+  "generated_at": "2026-09-03T23:00:32.850317+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -6162,7 +6162,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Blueberry",
       "strainType": null,
@@ -6194,7 +6194,7 @@
         {
           "id": 8882396,
           "label": "1A4030300003522000202272",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-09"
         }
@@ -7183,7 +7183,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Strawberry Jelly",
       "strainType": null,
@@ -7216,7 +7216,7 @@
         {
           "id": 8882398,
           "label": "1A4030300003522000202273",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-21"
         }
@@ -9809,7 +9809,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9850,7 +9850,7 @@
         {
           "id": 8920193,
           "label": "1A40303000001F5000423548",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -24328,6 +24328,63 @@
       ]
     },
     {
+      "id": 8686615,
+      "packageCount": 1,
+      "name": "Wana | Edibles | Soft Lozenges | Classic Blueberry Indica - Edible Product - 10mg - 10pk",
+      "brand": "Wana",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 13.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.2,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8686615,
+          "label": "1A4030300002199000056241",
+          "quantity": 13.0,
+          "packagedDate": "2026-04-24",
+          "expirationDate": "2027-04-24"
+        }
+      ]
+    },
+    {
       "id": 8270907,
       "packageCount": 1,
       "name": "Wana | Edibles | Soft Lozenges | Classic Dream Berry - Edible Product - 10mg - 10pk",
@@ -25642,7 +25699,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 77.0,
+      "quantity": 73.5,
       "unit": "Grams",
       "strainName": "OGKB",
       "strainType": null,
@@ -25676,7 +25733,7 @@
         {
           "id": 8926775,
           "label": "1A40303000000CD000079030",
-          "quantity": 77.0,
+          "quantity": 73.5,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         }
@@ -26387,7 +26444,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.5,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -26420,7 +26477,7 @@
         {
           "id": 8911033,
           "label": "1A40303000000CB000050582",
-          "quantity": 45.5,
+          "quantity": 42.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         }
@@ -27522,7 +27579,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 56.0,
+      "quantity": 49.0,
       "unit": "Grams",
       "strainName": "LEMF",
       "strainType": null,
@@ -27558,58 +27615,9 @@
         {
           "id": 8926928,
           "label": "1A40303000000CD000079029",
-          "quantity": 56.0,
+          "quantity": 49.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8890222,
-      "packageCount": 1,
-      "name": "Legend | Flower | Buds | Jelly Donut x GMO - Usable - 28g",
-      "brand": "Legend",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 28.0,
-      "unit": "Grams",
-      "strainName": "Jelly Donut x GMO",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 31.57,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.77,
-        "CBN": 0.0,
-        "THCA": 35.63,
-        "THCV": 0.18
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.16,
-        "humulene": 0.43,
-        "myrcene": 0.57,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 1.39,
-        "beta-pinene": 0.09,
-        "limonene": 0.68,
-        "linalool": 0.13
-      },
-      "totalTerps": 3.73,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8890222,
-          "label": "1A403030000025B000084391",
-          "quantity": 28.0,
-          "packagedDate": "2026-08-12",
-          "expirationDate": "2027-08-12"
         }
       ]
     },
@@ -29383,7 +29391,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Purple Punch TC",
       "strainType": null,
@@ -29414,7 +29422,7 @@
         {
           "id": 8890367,
           "label": "1A40303000001F5000420172",
-          "quantity": 38.5,
+          "quantity": 35.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -38047,7 +38055,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 139.67,
+      "quantity": 136.17,
       "unit": "Grams",
       "strainName": "Sour Dubble",
       "strainType": null,
@@ -38080,7 +38088,7 @@
         {
           "id": 8606883,
           "label": "1A4030300002009000105201",
-          "quantity": 139.67,
+          "quantity": 136.17,
           "packagedDate": "2026-06-17",
           "expirationDate": null
         }
@@ -58486,6 +58494,56 @@
           "id": 8106588,
           "label": "1A40303000030D5000002727",
           "quantity": 23.0,
+          "packagedDate": "2026-02-20",
+          "expirationDate": "2027-06-19"
+        }
+      ]
+    },
+    {
+      "id": 8106933,
+      "packageCount": 1,
+      "name": "Vape - Cherry Limeade (1.0g)",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "Cherry Limeade",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.32,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 17.87,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.27,
+        "myrcene": 2.2,
+        "alpha-pinene": 0.72,
+        "caryophyllene": 1.09,
+        "beta-pinene": 0.19,
+        "ocimene": 0.46,
+        "limonene": 1.64,
+        "linalool": 0.4,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 7.11,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8106933,
+          "label": "1A40303000030D5000002728",
+          "quantity": 24.0,
           "packagedDate": "2026-02-20",
           "expirationDate": "2027-06-19"
         }
