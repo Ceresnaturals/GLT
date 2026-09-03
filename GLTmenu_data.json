@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T13:20:35.833781+00:00",
+  "generated_at": "2026-09-03T13:30:34.099325+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -53427,6 +53427,51 @@
           "quantity": 7.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-04-18"
+        }
+      ]
+    },
+    {
+      "id": 8923146,
+      "packageCount": 1,
+      "name": "Passion Fruit Distillate Cartridge Hellavated - Vape Cart - 1.0 g",
+      "brand": "Hellavated",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 11.0,
+      "unit": "Each",
+      "strainName": "Passion Fruit",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.71,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.83,
+        "CBGA": 0.0,
+        "CBN": 0.33,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "caryophyllene": 0.05,
+        "limonene": 0.87,
+        "linalool": 0.28,
+        "terpinolene": 0.17
+      },
+      "totalTerps": 1.37,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8923146,
+          "label": "1A403030000012E000187014",
+          "quantity": 11.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": "2027-05-08"
         }
       ]
     },
