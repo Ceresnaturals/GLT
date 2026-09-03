@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T20:00:31.653428+00:00",
+  "generated_at": "2026-09-03T20:10:30.637180+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9462,8 +9462,7 @@
       "category": "Drink",
       "metrcCategory": "Exempt Liquid Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 14.0,
       "unit": "Each",
@@ -9516,7 +9515,7 @@
       "category": "Drink",
       "metrcCategory": "Exempt Liquid Edible Product (Medical Only)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 12.0,
       "unit": "Each",
@@ -18141,7 +18140,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18180,7 +18179,7 @@
         {
           "id": 8914614,
           "label": "1A4030300002009000112787",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-05-18"
         }
@@ -21310,7 +21309,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -21351,7 +21350,7 @@
         {
           "id": 8919089,
           "label": "1A40303000001F5000423336",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-17"
         }
@@ -21931,16 +21930,15 @@
     },
     {
       "id": 8926291,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Smokiez Sour Blackberry Indica 10mg Medicated Chews-Edible Product-10mg-10",
       "brand": "Smokiez",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 14.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -21981,13 +21979,6 @@
           "label": "1A403030000012D000262968",
           "quantity": 12.0,
           "packagedDate": "2026-08-27",
-          "expirationDate": null
-        },
-        {
-          "id": 8738112,
-          "label": "1A403030000012D000255827",
-          "quantity": 2.0,
-          "packagedDate": "2026-07-16",
           "expirationDate": null
         }
       ]
@@ -26490,7 +26481,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Boston Tea Party",
       "strainType": null,
@@ -26526,7 +26517,7 @@
         {
           "id": 8725908,
           "label": "1A4030300004845000032771",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-06-15",
           "expirationDate": null
         }
@@ -32767,59 +32758,6 @@
       ]
     },
     {
-      "id": 8738013,
-      "packageCount": 1,
-      "name": "Curio Wellness Chill CBD:THC Infused Pre-rolls-Concentrate-2x0.5g",
-      "brand": "Curio Wellness",
-      "category": "Pre-Roll",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 9.0,
-      "unit": "Each",
-      "strainName": "Chill",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 27.16,
-        "totalCBD": 7.96,
-        "CBC": 0.24,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.84,
-        "CBGA": 0.52,
-        "CBN": 0.12,
-        "THCA": 12.85,
-        "THCV": 0.2
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.11,
-        "humulene": 0.14,
-        "myrcene": 0.64,
-        "alpha-pinene": 0.07,
-        "caryophyllene": 0.61,
-        "eudesmol": 0.07,
-        "beta-pinene": 0.07,
-        "ocimene": 0.03,
-        "limonene": 0.49,
-        "linalool": 0.27,
-        "terpinolene": 0.04
-      },
-      "totalTerps": 2.79,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8738013,
-          "label": "1A403030000012D000255820",
-          "quantity": 9.0,
-          "packagedDate": "2026-07-16",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8828987,
       "packageCount": 1,
       "name": "Curio Wellness Crescendo Pre-rolls-Usable-2x0.5g",
@@ -32969,16 +32907,15 @@
     },
     {
       "id": 8926323,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Curio Wellness Thrive Infused Pre-rolls-Concentrate-2x0.5g",
       "brand": "Curio Wellness",
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 31.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": "Thrive",
       "strainType": null,
@@ -33017,13 +32954,6 @@
           "label": "1A403030000012D000262978",
           "quantity": 30.0,
           "packagedDate": "2026-08-27",
-          "expirationDate": null
-        },
-        {
-          "id": 8738109,
-          "label": "1A403030000012D000255823",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-16",
           "expirationDate": null
         }
       ]
@@ -33931,7 +33861,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 10.0,
       "unit": "Grams",
       "strainName": "Gas Smack",
       "strainType": null,
@@ -33966,7 +33896,7 @@
         {
           "id": 8922972,
           "label": "1A403030000012E000187009",
-          "quantity": 12.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-07-27"
         }
@@ -35062,7 +34992,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Grams",
       "strainName": "Khalifa Kush",
       "strainType": null,
@@ -35095,7 +35025,7 @@
         {
           "id": 7937278,
           "label": "1A40303000000C9000128834",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-01-12",
           "expirationDate": "2026-12-22"
         }
@@ -36006,7 +35936,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 56.0,
+      "quantity": 52.5,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -36038,7 +35968,7 @@
         {
           "id": 8911027,
           "label": "1A40303000000CB000050578",
-          "quantity": 56.0,
+          "quantity": 52.5,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         }
@@ -37697,7 +37627,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -37729,7 +37659,7 @@
         {
           "id": 8919175,
           "label": "1A40303000001F5000423330",
-          "quantity": 22.0,
+          "quantity": 20.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -44974,56 +44904,6 @@
           "label": "1A403030000012D000233651",
           "quantity": 1.0,
           "packagedDate": "2026-05-14",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8738110,
-      "packageCount": 1,
-      "name": "Curio Wellness Captain's Cake Vape-Vape Cart-1.0g",
-      "brand": "Curio Wellness",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 8.0,
-      "unit": "Each",
-      "strainName": "Captain's Cake",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 79.31,
-        "CBC": 1.09,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.61,
-        "CBGA": 0.0,
-        "CBN": 2.81,
-        "THCA": 0.0,
-        "THCV": 0.6
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.34,
-        "humulene": 0.31,
-        "myrcene": 1.29,
-        "alpha-pinene": 0.28,
-        "caryophyllene": 1.57,
-        "beta-pinene": 0.29,
-        "limonene": 2.29,
-        "linalool": 0.67,
-        "terpinolene": 0.2
-      },
-      "totalTerps": 8.14,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8738110,
-          "label": "1A403030000012D000255825",
-          "quantity": 8.0,
-          "packagedDate": "2026-07-16",
           "expirationDate": null
         }
       ]
