@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T13:10:37.159957+00:00",
+  "generated_at": "2026-09-04T13:20:36.614377+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2071,6 +2071,58 @@
           "quantity": 11.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": 8819351,
+      "packageCount": 1,
+      "name": "Candy Cabal Live Resin Batter 1.0g/1000mg",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 6.0,
+      "unit": "Each",
+      "strainName": "Candy Cabal",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 69.82,
+        "totalCBD": 0.2,
+        "CBC": 0.0,
+        "CBDA": 0.23,
+        "CBDV": 0.0,
+        "CBG": 0.45,
+        "CBGA": 2.09,
+        "CBN": 0.0,
+        "THCA": 77.0,
+        "THCV": 0.58
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.39,
+        "myrcene": 3.61,
+        "alpha-pinene": 0.71,
+        "caryophyllene": 0.96,
+        "beta-pinene": 0.34,
+        "ocimene": 0.33,
+        "limonene": 1.08,
+        "linalool": 0.57,
+        "terpinolene": 0.03
+      },
+      "totalTerps": 8.51,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8819351,
+          "label": "1A40303000001F5000412898",
+          "quantity": 6.0,
+          "packagedDate": "2026-08-05",
+          "expirationDate": "2027-03-05"
         }
       ]
     },
@@ -25264,7 +25316,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 210.0,
       "unit": "Grams",
@@ -25402,6 +25454,55 @@
           "quantity": 45.0,
           "packagedDate": "2026-02-17",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 7831886,
+      "packageCount": 1,
+      "name": "Apple Z - Usable - 7g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 210.0,
+      "unit": "Grams",
+      "strainName": "Apple Z",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 20.06,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.58,
+        "CBN": 0.0,
+        "THCA": 22.7,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.21,
+        "myrcene": 0.18,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.68,
+        "beta-pinene": 0.03,
+        "caryophyllene-oxide": 0.05,
+        "limonene": 0.21,
+        "linalool": 0.26
+      },
+      "totalTerps": 1.66,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 7831886,
+          "label": "1A4030300000192000020610",
+          "quantity": 210.0,
+          "packagedDate": "2025-12-12",
+          "expirationDate": "2026-10-20"
         }
       ]
     },
@@ -25696,7 +25797,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 224.0,
       "unit": "Grams",
@@ -26139,6 +26240,54 @@
       ]
     },
     {
+      "id": 8351548,
+      "packageCount": 1,
+      "name": "Collie Man Kush - Usable - 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 105.0,
+      "unit": "Grams",
+      "strainName": "Collie Man Kush",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.21,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.38,
+        "CBN": 0.0,
+        "THCA": 34.21,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.3,
+        "alpha-pinene": 0.19,
+        "caryophyllene": 0.36,
+        "beta-pinene": 0.16,
+        "limonene": 0.93,
+        "linalool": 0.22
+      },
+      "totalTerps": 2.6,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8351548,
+          "label": "1A4030300000192000030571",
+          "quantity": 105.0,
+          "packagedDate": "2026-04-20",
+          "expirationDate": "2027-02-23"
+        }
+      ]
+    },
+    {
       "id": 8908834,
       "packageCount": 1,
       "name": "Cowboy Caviar Shorties 5 Pack - Usable - 2g",
@@ -26185,6 +26334,55 @@
           "quantity": 36.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-03"
+        }
+      ]
+    },
+    {
+      "id": 8725292,
+      "packageCount": 1,
+      "name": "Culta Packaged Flower - 14g - Sugar Rush",
+      "brand": "Culta",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 224.0,
+      "unit": "Grams",
+      "strainName": "Blue Nerds",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.37,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.11,
+        "CBN": 0.0,
+        "THCA": 23.83,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.08,
+        "myrcene": 0.27,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.29,
+        "beta-pinene": 0.06,
+        "limonene": 0.38,
+        "linalool": 0.35,
+        "nerolidol": 0.12
+      },
+      "totalTerps": 1.78,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8725292,
+          "label": "1A4030300000709000035850",
+          "quantity": 224.0,
+          "packagedDate": "2026-07-14",
+          "expirationDate": null
         }
       ]
     },
@@ -27981,7 +28179,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 448.0,
       "unit": "Grams",
@@ -41677,6 +41875,56 @@
       ]
     },
     {
+      "id": 8819285,
+      "packageCount": 1,
+      "name": "Bacio Gelato Distillate Vape 1.0g/1000mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Bacio Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.56,
+        "totalCBD": 0.13,
+        "CBC": 0.57,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.74,
+        "CBGA": 0.0,
+        "CBN": 0.35,
+        "THCA": 0.0,
+        "THCV": 0.24
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 1.47,
+        "alpha-pinene": 0.86,
+        "caryophyllene": 0.1,
+        "beta-pinene": 0.51,
+        "ocimene": 0.38,
+        "limonene": 2.31,
+        "linalool": 0.13,
+        "terpinolene": 0.09
+      },
+      "totalTerps": 6.47,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8819285,
+          "label": "1A40303000001F5000412896",
+          "quantity": 20.0,
+          "packagedDate": "2026-08-05",
+          "expirationDate": "2027-03-12"
+        }
+      ]
+    },
+    {
       "id": 8820798,
       "packageCount": 1,
       "name": "Bad Assle Melted Diamonds AIO Helly Meltz - Vape Cart - 1 g",
@@ -49835,6 +50083,58 @@
           "quantity": 18.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-05-11"
+        }
+      ]
+    },
+    {
+      "id": 8819348,
+      "packageCount": 1,
+      "name": "Jack Herer Disposable Distillate Vape 2.0g/2000mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 2.0,
+      "unit": "Each",
+      "strainName": "Jack Herer",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.45,
+        "totalCBD": 0.16,
+        "CBC": 0.67,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.73,
+        "CBGA": 0.0,
+        "CBN": 0.35,
+        "THCA": 0.0,
+        "THCV": 0.3
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.13,
+        "myrcene": 1.42,
+        "alpha-pinene": 0.38,
+        "caryophyllene": 0.27,
+        "beta-pinene": 0.28,
+        "caryophyllene-oxide": 0.02,
+        "ocimene": 0.82,
+        "limonene": 0.73,
+        "linalool": 0.02,
+        "terpinolene": 2.8
+      },
+      "totalTerps": 8.11,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8819348,
+          "label": "1A40303000001F5000412894",
+          "quantity": 2.0,
+          "packagedDate": "2026-08-05",
+          "expirationDate": "2027-04-20"
         }
       ]
     },
