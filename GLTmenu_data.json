@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T20:20:28.281750+00:00",
+  "generated_at": "2026-09-04T20:30:26.654888+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -20811,16 +20811,17 @@
       ]
     },
     {
-      "id": 8778175,
-      "packageCount": 1,
+      "id": 8944208,
+      "packageCount": 2,
       "name": "Incredibles Gummy 100mg - Snoozzzeberry (5:1 THC:CBN) - Edible Product - 10mg - 10 Pieces",
       "brand": "Incredibles",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20831,7 +20832,7 @@
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.04,
+        "CBG": 0.03,
         "CBGA": 0.0,
         "CBN": 0.06,
         "THCA": 0.0,
@@ -20846,7 +20847,7 @@
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 1.2,
+          "CBG": 0.9,
           "CBGA": 0.0,
           "CBN": 1.8,
           "THCA": 0.0,
@@ -20858,6 +20859,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8944208,
+          "label": "1A40303000003EA000264673",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": "2027-06-17"
+        },
         {
           "id": 8778175,
           "label": "1A40303000003EA000192815",
@@ -25612,7 +25620,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 140.0,
+      "quantity": 112.0,
       "unit": "Grams",
       "strainName": "Motor Kush",
       "strainType": null,
@@ -25645,7 +25653,7 @@
         {
           "id": 8914802,
           "label": "1A4030300002009000112803",
-          "quantity": 140.0,
+          "quantity": 112.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-08-04"
         }
@@ -29637,7 +29645,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 130.0,
+      "quantity": 120.0,
       "unit": "Grams",
       "strainName": "Permanent Marker",
       "strainType": null,
@@ -29670,7 +29678,7 @@
         {
           "id": 8858487,
           "label": "1A40303000001F5000416970",
-          "quantity": 130.0,
+          "quantity": 120.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -30176,7 +30184,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Charm City Kush",
       "strainType": null,
@@ -30209,7 +30217,7 @@
         {
           "id": 8774426,
           "label": "1A4030300003A3C000087021",
-          "quantity": 21.0,
+          "quantity": 14.0,
           "packagedDate": "2026-06-18",
           "expirationDate": "2027-06-18"
         }
@@ -47738,7 +47746,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Goat Piss",
       "strainType": null,
@@ -47772,7 +47780,7 @@
         {
           "id": 8356316,
           "label": "1A40303000039D1000074996",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-04-21",
           "expirationDate": "2027-02-09"
         }
