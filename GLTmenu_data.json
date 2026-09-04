@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T16:30:39.387303+00:00",
+  "generated_at": "2026-09-04T16:40:38.637120+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -6312,7 +6312,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Chocolatina",
       "strainType": null,
@@ -6345,7 +6345,7 @@
         {
           "id": 8882387,
           "label": "1A4030300003522000202268",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-31"
         }
@@ -29651,7 +29651,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 150.0,
+      "quantity": 130.0,
       "unit": "Grams",
       "strainName": "Permanent Marker",
       "strainType": null,
@@ -29684,7 +29684,7 @@
         {
           "id": 8858487,
           "label": "1A40303000001F5000416970",
-          "quantity": 150.0,
+          "quantity": 130.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -36223,7 +36223,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.5,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -36258,7 +36258,7 @@
         {
           "id": 8911028,
           "label": "1A40303000000CB000050579",
-          "quantity": 31.5,
+          "quantity": 28.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-28"
         }
@@ -43339,6 +43339,57 @@
       ]
     },
     {
+      "id": 8781209,
+      "packageCount": 1,
+      "name": "Bloom | Classic Surf | 1g | Indica | King Louis",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": "Classic Surf",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.03,
+        "totalCBD": 0.03,
+        "CBC": 0.09,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.11,
+        "CBGA": 0.0,
+        "CBN": 0.24,
+        "THCA": 0.32,
+        "THCV": 0.43
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.39,
+        "myrcene": 1.13,
+        "alpha-pinene": 0.4,
+        "caryophyllene": 1.05,
+        "beta-pinene": 0.17,
+        "ocimene": 0.02,
+        "limonene": 2.75,
+        "linalool": 0.5,
+        "terpinolene": 0.08
+      },
+      "totalTerps": 6.9,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8781209,
+          "label": "1A4030300000579000044426",
+          "quantity": 5.0,
+          "packagedDate": "2026-06-23",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8869055,
       "packageCount": 1,
       "name": "Bloom | Classic Surf | 1g | Sativa | Maui Wowie",
@@ -44788,6 +44839,58 @@
           "label": "1A403030000012D000261769",
           "quantity": 19.0,
           "packagedDate": "2026-08-20",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8953001,
+      "packageCount": 1,
+      "name": "Curio Wellness Blissful Wizard Vape-Vape Cart-1.0g",
+      "brand": "Curio Wellness",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "Blissful Wizard",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 77.48,
+        "CBC": 1.1,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.51,
+        "CBGA": 0.0,
+        "CBN": 2.34,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.33,
+        "humulene": 0.12,
+        "myrcene": 1.13,
+        "alpha-pinene": 0.29,
+        "caryophyllene": 2.16,
+        "beta-pinene": 0.27,
+        "caryophyllene-oxide": 0.23,
+        "limonene": 2.27,
+        "linalool": 0.55,
+        "terpinolene": 0.21,
+        "nerolidol": 0.24
+      },
+      "totalTerps": 8.52,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8953001,
+          "label": "1A403030000012D000265624",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-03",
           "expirationDate": null
         }
       ]
@@ -51333,7 +51436,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Pink Diesel",
       "strainType": null,
@@ -51367,7 +51470,7 @@
         {
           "id": 8747429,
           "label": "1A4030300002199000057212",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-06-10",
           "expirationDate": "2027-06-10"
         }
@@ -56333,7 +56436,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Ready To Use Vaporizer",
       "strainType": null,
@@ -56366,7 +56469,7 @@
         {
           "id": 8812513,
           "label": "1A4030300000C83000079106",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-03",
           "expirationDate": "2027-06-17"
         }
