@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T16:50:37.828892+00:00",
+  "generated_at": "2026-09-04T17:00:37.079723+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -16324,7 +16324,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16363,7 +16363,7 @@
         {
           "id": 8864068,
           "label": "1A403030000012D000260504",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -17240,7 +17240,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17279,7 +17279,7 @@
         {
           "id": 8902252,
           "label": "1A40303000017D5000104294",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-07-20"
         }
@@ -21743,28 +21743,29 @@
       ]
     },
     {
-      "id": 8828893,
-      "packageCount": 1,
+      "id": 8952598,
+      "packageCount": 2,
       "name": "Smokiez Peach Sativa 10mg Medicated Chews-Edible Product-10mg-10",
       "brand": "Smokiez",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.152,
-        "CBC": 0.0,
+        "totalTHC": 0.155,
+        "CBC": 0.002,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.009,
+        "CBG": 0.006,
         "CBGA": 0.0,
-        "CBN": 0.008,
+        "CBN": 0.006,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -21773,12 +21774,12 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "CBC": 0.0,
+          "CBC": 0.12,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.54,
+          "CBG": 0.36,
           "CBGA": 0.0,
-          "CBN": 0.48,
+          "CBN": 0.36,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -21788,6 +21789,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8952598,
+          "label": "1A403030000012D000265620",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-03",
+          "expirationDate": null
+        },
         {
           "id": 8828893,
           "label": "1A403030000012D000259356",
@@ -30337,7 +30345,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "Mango Mintality",
       "strainType": null,
@@ -30369,7 +30377,7 @@
         {
           "id": 8606884,
           "label": "1A4030300002009000105202",
-          "quantity": 24.5,
+          "quantity": 21.0,
           "packagedDate": "2026-06-17",
           "expirationDate": "2027-05-20"
         }
@@ -56237,55 +56245,6 @@
           "quantity": 2.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-07-14"
-        }
-      ]
-    },
-    {
-      "id": 8884035,
-      "packageCount": 1,
-      "name": "Rove | Live Resin Diamonds Vape Reload | Skywalker OG - I | 1.0g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Skywalker OG",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 91.21,
-        "CBC": 0.573,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.13,
-        "CBGA": 0.0,
-        "CBN": 1.33,
-        "THCA": 0.0,
-        "THCV": 1.1
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.068,
-        "humulene": 0.0418,
-        "myrcene": 0.0661,
-        "caryophyllene": 0.263,
-        "beta-pinene": 0.0511,
-        "caryophyllene-oxide": 0.0266,
-        "limonene": 0.0912,
-        "linalool": 0.0988
-      },
-      "totalTerps": 0.707,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8884035,
-          "label": "1A4030300000C83000085450",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-19",
-          "expirationDate": "2027-06-22"
         }
       ]
     },
