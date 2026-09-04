@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T19:30:26.109713+00:00",
+  "generated_at": "2026-09-04T19:40:25.582438+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12681,7 +12681,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12722,7 +12722,7 @@
         {
           "id": 8882325,
           "label": "1A4030300003522000202259",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-02-03"
         }
@@ -19449,7 +19449,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 47.0,
+      "quantity": 46.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19490,7 +19490,7 @@
         {
           "id": 8939228,
           "label": "1A4030300003522000210567",
-          "quantity": 47.0,
+          "quantity": 46.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-19"
         }
@@ -19668,63 +19668,6 @@
       ]
     },
     {
-      "id": 8882334,
-      "packageCount": 1,
-      "name": "In House Cherry Lemonade Fast Acting V3 Gummies-Edible Product-10mg-10",
-      "brand": "In House",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.22,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8882334,
-          "label": "1A4030300003522000202260",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-18",
-          "expirationDate": "2027-08-05"
-        }
-      ]
-    },
-    {
       "id": 8939355,
       "packageCount": 1,
       "name": "In House Peach Mango Fast Acting V2 Gummies-Edible Product-10mg-10",
@@ -19734,7 +19677,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19775,7 +19718,7 @@
         {
           "id": 8939355,
           "label": "1A4030300003522000210574",
-          "quantity": 25.0,
+          "quantity": 22.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-14"
         }
@@ -27829,57 +27772,6 @@
       ]
     },
     {
-      "id": 8839895,
-      "packageCount": 1,
-      "name": "Just Flower Packaged Flower (Cherry Pie) - Usable - 4g",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 4.0,
-      "unit": "Grams",
-      "strainName": "Cherry Pie",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 25.67,
-        "totalCBD": 0.08,
-        "CBC": 0.0,
-        "CBDA": 0.09,
-        "CBDV": 0.0,
-        "CBG": 0.16,
-        "CBGA": 2.04,
-        "CBN": 0.0,
-        "THCA": 28.69,
-        "THCV": 0.21
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.13,
-        "myrcene": 0.27,
-        "alpha-pinene": 0.13,
-        "caryophyllene": 0.4,
-        "beta-pinene": 0.13,
-        "ocimene": 0.29,
-        "limonene": 0.19,
-        "linalool": 0.02,
-        "terpinolene": 0.91
-      },
-      "totalTerps": 2.69,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8839895,
-          "label": "1A4030300004845000037835",
-          "quantity": 4.0,
-          "packagedDate": "2026-08-05",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8625106,
       "packageCount": 1,
       "name": "Khalifa Kush Flower 3.5g",
@@ -32647,7 +32539,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Grams",
       "strainName": "Chem de la Chem TC",
       "strainType": null,
@@ -32679,7 +32571,7 @@
         {
           "id": 8890514,
           "label": "1A40303000001F5000420174",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -34402,7 +34294,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 41.0,
       "unit": "Grams",
       "strainName": "Gumi 6",
       "strainType": null,
@@ -34435,7 +34327,7 @@
         {
           "id": 8911025,
           "label": "1A40303000000CB000050577",
-          "quantity": 42.0,
+          "quantity": 41.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-18"
         }
@@ -34645,7 +34537,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 50.0,
+      "quantity": 48.0,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -34677,7 +34569,7 @@
         {
           "id": 8947058,
           "label": "1A40303000000CB000051189",
-          "quantity": 50.0,
+          "quantity": 48.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-01"
         }
@@ -34936,7 +34828,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Purple Panties",
       "strainType": null,
@@ -34969,7 +34861,7 @@
         {
           "id": 8914805,
           "label": "1A4030300002009000112806",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-08"
         }
@@ -35498,7 +35390,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Grams",
       "strainName": "Khalifa Kush",
       "strainType": null,
@@ -35531,7 +35423,7 @@
         {
           "id": 7937278,
           "label": "1A40303000000C9000128834",
-          "quantity": 26.0,
+          "quantity": 25.0,
           "packagedDate": "2026-01-12",
           "expirationDate": "2026-12-22"
         }
@@ -36390,7 +36282,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 50.0,
+      "quantity": 47.0,
       "unit": "Grams",
       "strainName": "Lemon Cherry Gelato",
       "strainType": null,
@@ -36424,7 +36316,7 @@
         {
           "id": 8947045,
           "label": "1A40303000000CB000051183",
-          "quantity": 50.0,
+          "quantity": 47.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-02"
         }
@@ -36791,7 +36683,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 66.5,
+      "quantity": 63.0,
       "unit": "Grams",
       "strainName": "Rainbow Push Pop #4",
       "strainType": null,
@@ -36824,7 +36716,7 @@
         {
           "id": 8947047,
           "label": "1A40303000000CB000051184",
-          "quantity": 66.5,
+          "quantity": 63.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         }
@@ -37690,7 +37582,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 51.0,
+      "quantity": 50.0,
       "unit": "Grams",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -37725,7 +37617,7 @@
         {
           "id": 8947062,
           "label": "1A40303000000CB000051194",
-          "quantity": 50.0,
+          "quantity": 49.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         },
@@ -37943,7 +37835,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 41.0,
+      "quantity": 40.0,
       "unit": "Grams",
       "strainName": "Purple Punch TC",
       "strainType": null,
@@ -37975,7 +37867,7 @@
         {
           "id": 8919171,
           "label": "1A40303000001F5000423329",
-          "quantity": 41.0,
+          "quantity": 40.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -38089,7 +37981,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 55.0,
+      "quantity": 54.0,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
@@ -38124,7 +38016,7 @@
         {
           "id": 8911103,
           "label": "1A40303000000CB000050580",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         },
@@ -38538,7 +38430,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Sour Peel",
       "strainType": null,
@@ -38571,7 +38463,7 @@
         {
           "id": 8884210,
           "label": "1A40303000000CB000050198",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-07-18"
         }
@@ -40318,7 +40210,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Blueberry",
       "strainType": null,
@@ -40347,7 +40239,7 @@
         {
           "id": 8238833,
           "label": "1A403030000238D000094212",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-03-24",
           "expirationDate": "2027-03-22"
         }
@@ -46424,55 +46316,6 @@
       ]
     },
     {
-      "id": 8485373,
-      "packageCount": 1,
-      "name": "EverCrisp Cartridge (Live Resin) - Rythm (Hybrid) - Vape Cart - 1000mg",
-      "brand": "Rythm",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "EverCrisp",
-      "strainType": "Hybrid",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 74.95,
-        "CBC": 0.76,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.5,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.47,
-        "humulene": 0.82,
-        "myrcene": 0.1,
-        "alpha-pinene": 0.51,
-        "caryophyllene": 3.17,
-        "beta-pinene": 0.07,
-        "limonene": 1.9,
-        "linalool": 1.0
-      },
-      "totalTerps": 8.87,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8485373,
-          "label": "1A40303000003EA000181121",
-          "quantity": 1.0,
-          "packagedDate": "2026-05-20",
-          "expirationDate": "2027-04-21"
-        }
-      ]
-    },
-    {
       "id": 8758173,
       "packageCount": 1,
       "name": "Fade Co | Vape | Live Resin | Bolo Runtz - Vape Cart - 1g",
@@ -51761,7 +51604,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Legacy Series Ray Charles",
       "strainType": null,
@@ -51795,7 +51638,7 @@
         {
           "id": 8908841,
           "label": "1A4030300000193000106246",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-03"
         }
@@ -53944,7 +53787,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": null,
@@ -53978,7 +53821,7 @@
         {
           "id": 8945348,
           "label": "1A403030000283D000060835",
-          "quantity": 29.0,
+          "quantity": 28.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -56511,7 +56354,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Raspberry Daydream DV",
       "strainType": null,
@@ -56547,7 +56390,7 @@
         {
           "id": 8919185,
           "label": "1A40303000001F5000423339",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-23"
         }
@@ -56769,7 +56612,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Classics",
       "strainType": null,
@@ -56804,7 +56647,7 @@
         {
           "id": 8811770,
           "label": "1A4030300000C83000079098",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-03",
           "expirationDate": "2027-06-23"
         }
@@ -58105,7 +57948,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Summer Melon",
       "strainType": null,
@@ -58133,7 +57976,7 @@
         {
           "id": 8777903,
           "label": "1A40303000017D5000101325",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-13",
           "expirationDate": "2027-07-13"
         }
