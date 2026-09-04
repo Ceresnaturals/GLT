@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T16:20:36.534327+00:00",
+  "generated_at": "2026-09-04T16:30:39.387303+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9363,7 +9363,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9393,7 +9393,7 @@
         {
           "id": 8678607,
           "label": "1A403030000012D000253352",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-02",
           "expirationDate": null
         }
@@ -16965,7 +16965,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -17004,7 +17004,7 @@
         {
           "id": 8704637,
           "label": "1A40303000017D5000099616",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-06-04",
           "expirationDate": "2027-06-04"
         }
@@ -19578,7 +19578,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19619,7 +19619,7 @@
         {
           "id": 8766856,
           "label": "1A4030300003522000207397",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-17"
         }
@@ -19749,7 +19749,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19788,7 +19788,7 @@
         {
           "id": 8341769,
           "label": "1A4030300003522000181363",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-04-16",
           "expirationDate": "2027-03-15"
         }
@@ -22136,46 +22136,47 @@
       ]
     },
     {
-      "id": 8102695,
-      "packageCount": 1,
+      "id": 8952596,
+      "packageCount": 2,
       "name": "Smokiez Tropical Fruit CBD/THC Medicated Chews-Edible Product-10mg-10",
       "brand": "Smokiez",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.163,
-        "totalCBD": 0.158,
-        "CBC": 0.002,
+        "totalTHC": 0.158,
+        "totalCBD": 0.153,
+        "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.004,
+        "CBG": 0.006,
         "CBGA": 0.0,
-        "CBN": 0.004,
+        "CBN": 0.006,
         "THCA": 0.0,
-        "THCV": 0.004
+        "THCV": 0.0
       },
       "dose": {
         "servingSize": "1 piece",
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 9.48,
-          "CBC": 0.12,
+          "totalCBD": 9.18,
+          "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.24,
+          "CBG": 0.36,
           "CBGA": 0.0,
-          "CBN": 0.24,
+          "CBN": 0.36,
           "THCA": 0.0,
-          "THCV": 0.24
+          "THCV": 0.0
         },
         "minorsEstimated": true
       },
@@ -22183,6 +22184,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8952596,
+          "label": "1A403030000012D000265617",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-03",
+          "expirationDate": null
+        },
         {
           "id": 8102695,
           "label": "1A403030000012D000208018",
@@ -27529,7 +27537,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.5,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Romulan",
       "strainType": null,
@@ -27564,7 +27572,7 @@
         {
           "id": 8766296,
           "label": "1A4030300003521000054047",
-          "quantity": 31.5,
+          "quantity": 28.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-27"
         }
@@ -29783,54 +29791,6 @@
       ]
     },
     {
-      "id": 8858488,
-      "packageCount": 1,
-      "name": "Purple Punch - Pre Ground Bud - 10 gram - Pouch",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 10.0,
-      "unit": "Grams",
-      "strainName": "Purple Punch TC",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 26.71,
-        "totalCBD": 0.2,
-        "CBDA": 0.04,
-        "CBG": 0.12,
-        "CBN": 0.01,
-        "THCA": 29.94
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.04,
-        "humulene": 0.29,
-        "myrcene": 0.28,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.71,
-        "beta-pinene": 0.06,
-        "limonene": 0.48,
-        "linalool": 0.04,
-        "terpinolene": 0.01,
-        "nerolidol": 0.01
-      },
-      "totalTerps": 2.04,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8858488,
-          "label": "1A40303000001F5000416971",
-          "quantity": 10.0,
-          "packagedDate": "2026-08-13",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8890367,
       "packageCount": 1,
       "name": "Purple Punch - Pre Pack Bud - 3.5 gram - Plastic Container",
@@ -31653,7 +31613,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Animal Face",
       "strainType": null,
@@ -31686,7 +31646,7 @@
         {
           "id": 8746343,
           "label": "1A40303000003EA000201210",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-06-12"
         }
@@ -43379,57 +43339,6 @@
       ]
     },
     {
-      "id": 8781209,
-      "packageCount": 1,
-      "name": "Bloom | Classic Surf | 1g | Indica | King Louis",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 5.0,
-      "unit": "Each",
-      "strainName": "Classic Surf",
-      "strainType": "Indica",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 83.03,
-        "totalCBD": 0.03,
-        "CBC": 0.09,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.11,
-        "CBGA": 0.0,
-        "CBN": 0.24,
-        "THCA": 0.32,
-        "THCV": 0.43
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.39,
-        "myrcene": 1.13,
-        "alpha-pinene": 0.4,
-        "caryophyllene": 1.05,
-        "beta-pinene": 0.17,
-        "ocimene": 0.02,
-        "limonene": 2.75,
-        "linalool": 0.5,
-        "terpinolene": 0.08
-      },
-      "totalTerps": 6.9,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8781209,
-          "label": "1A4030300000579000044426",
-          "quantity": 5.0,
-          "packagedDate": "2026-06-23",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8869055,
       "packageCount": 1,
       "name": "Bloom | Classic Surf | 1g | Sativa | Maui Wowie",
@@ -48669,7 +48578,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Acapulco Gold",
       "strainType": null,
@@ -48701,7 +48610,7 @@
         {
           "id": 8632157,
           "label": "1A4030300003522000194078",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-04-21"
         }
@@ -53207,7 +53116,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 30.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": null,
@@ -53241,7 +53150,7 @@
         {
           "id": 8945348,
           "label": "1A403030000283D000060835",
-          "quantity": 30.0,
+          "quantity": 29.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
