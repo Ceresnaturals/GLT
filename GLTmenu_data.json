@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T13:00:39.551238+00:00",
+  "generated_at": "2026-09-04T13:10:37.159957+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2075,58 +2075,6 @@
       ]
     },
     {
-      "id": 8819351,
-      "packageCount": 1,
-      "name": "Candy Cabal Live Resin Batter 1.0g/1000mg",
-      "brand": null,
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 6.0,
-      "unit": "Each",
-      "strainName": "Candy Cabal",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 69.82,
-        "totalCBD": 0.2,
-        "CBC": 0.0,
-        "CBDA": 0.23,
-        "CBDV": 0.0,
-        "CBG": 0.45,
-        "CBGA": 2.09,
-        "CBN": 0.0,
-        "THCA": 77.0,
-        "THCV": 0.58
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.07,
-        "humulene": 0.39,
-        "myrcene": 3.61,
-        "alpha-pinene": 0.71,
-        "caryophyllene": 0.96,
-        "beta-pinene": 0.34,
-        "ocimene": 0.33,
-        "limonene": 1.08,
-        "linalool": 0.57,
-        "terpinolene": 0.03
-      },
-      "totalTerps": 8.51,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8819351,
-          "label": "1A40303000001F5000412898",
-          "quantity": 6.0,
-          "packagedDate": "2026-08-05",
-          "expirationDate": "2027-03-05"
-        }
-      ]
-    },
-    {
       "id": 8605788,
       "packageCount": 1,
       "name": "Cap Junky Live Resin Cake Badder 1.0g",
@@ -3821,6 +3769,58 @@
           "quantity": 2.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-08-04"
+        }
+      ]
+    },
+    {
+      "id": 8873564,
+      "packageCount": 1,
+      "name": "Juicee J Infused Preground Flower - Usable - 7 g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Each",
+      "strainName": "Juicee J Preground",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 36.05,
+        "totalCBD": 0.09,
+        "CBC": 0.09,
+        "CBDA": 0.05,
+        "CBDV": 0.0,
+        "CBG": 0.85,
+        "CBGA": 0.68,
+        "CBN": 0.1,
+        "THCA": 19.52,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.2,
+        "myrcene": 0.05,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.66,
+        "eudesmol": 0.03,
+        "beta-pinene": 0.06,
+        "ocimene": 0.03,
+        "limonene": 0.25,
+        "linalool": 0.48,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.12,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8873564,
+          "label": "1A403030000012E000183586",
+          "quantity": 16.0,
+          "packagedDate": "2026-08-17",
+          "expirationDate": "2027-07-08"
         }
       ]
     },
@@ -9921,7 +9921,7 @@
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 24.0,
       "unit": "Each",
@@ -25257,6 +25257,55 @@
       ]
     },
     {
+      "id": 8914802,
+      "packageCount": 1,
+      "name": "1937|Shake|Motor Kush|Usable|7.0g",
+      "brand": "1937",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 210.0,
+      "unit": "Grams",
+      "strainName": "Motor Kush",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 21.22,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.38,
+        "CBN": 0.0,
+        "THCA": 23.33,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.13,
+        "humulene": 0.2,
+        "myrcene": 0.24,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.79,
+        "beta-pinene": 0.05,
+        "limonene": 0.4,
+        "linalool": 0.07
+      },
+      "totalTerps": 2.04,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8914802,
+          "label": "1A4030300002009000112803",
+          "quantity": 210.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-08-04"
+        }
+      ]
+    },
+    {
       "id": 8731098,
       "packageCount": 1,
       "name": "Animal Cocktail - Pre Pack Bud - 3.5 gram - Plastic Container",
@@ -25353,6 +25402,55 @@
           "quantity": 45.0,
           "packagedDate": "2026-02-17",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8923148,
+      "packageCount": 1,
+      "name": "BTY OG Garcia Hand Picked - Usable - 3.5 g",
+      "brand": "Garcia Hand Picked",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 56.0,
+      "unit": "Grams",
+      "strainName": "BTY OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.52,
+        "totalCBD": 0.04,
+        "CBC": 0.0,
+        "CBDA": 0.05,
+        "CBDV": 0.0,
+        "CBG": 0.09,
+        "CBGA": 0.86,
+        "CBN": 0.0,
+        "THCA": 24.21,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.2,
+        "myrcene": 1.02,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.75,
+        "beta-pinene": 0.09,
+        "limonene": 0.47,
+        "linalool": 0.27
+      },
+      "totalTerps": 3.0,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8923148,
+          "label": "1A403030000012E000187017",
+          "quantity": 56.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": "2027-07-22"
         }
       ]
     },
@@ -25587,6 +25685,56 @@
           "quantity": 7.0,
           "packagedDate": "2026-07-08",
           "expirationDate": "2027-06-13"
+        }
+      ]
+    },
+    {
+      "id": 8923154,
+      "packageCount": 1,
+      "name": "Bodega Gas Stash - Usable - 14 g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 224.0,
+      "unit": "Grams",
+      "strainName": "Bodega Gas",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.32,
+        "totalCBD": 0.07,
+        "CBC": 0.0,
+        "CBDA": 0.08,
+        "CBDV": 0.0,
+        "CBG": 0.09,
+        "CBGA": 1.27,
+        "CBN": 0.0,
+        "THCA": 31.47,
+        "THCV": 0.22
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.07,
+        "myrcene": 0.58,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.17,
+        "beta-pinene": 0.06,
+        "limonene": 0.45,
+        "linalool": 0.39,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 1.91,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8923154,
+          "label": "1A403030000012E000187020",
+          "quantity": 224.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": "2027-08-07"
         }
       ]
     },
@@ -26784,6 +26932,58 @@
       ]
     },
     {
+      "id": 8922981,
+      "packageCount": 1,
+      "name": "Gumbo Limbo #35 Strane \"Growers Series\" - Usable - 3.5 g",
+      "brand": "Strane",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 56.0,
+      "unit": "Grams",
+      "strainName": "Gumbo Limbo #35",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.59,
+        "totalCBD": 0.07,
+        "CBC": 0.0,
+        "CBDA": 0.08,
+        "CBDV": 0.0,
+        "CBG": 0.12,
+        "CBGA": 2.22,
+        "CBN": 0.0,
+        "THCA": 32.16,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.1,
+        "myrcene": 0.46,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 0.32,
+        "eudesmol": 0.02,
+        "beta-pinene": 0.12,
+        "limonene": 0.91,
+        "linalool": 0.42,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.69,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8922981,
+          "label": "1A403030000012E000187019",
+          "quantity": 56.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": "2027-08-19"
+        }
+      ]
+    },
+    {
       "id": 8858484,
       "packageCount": 1,
       "name": "Gush Mints - Pre Pack Bud - 28 gram - Bag",
@@ -27570,6 +27770,58 @@
       ]
     },
     {
+      "id": 8923151,
+      "packageCount": 1,
+      "name": "LA Baker Garcia Hand Picked - Usable - 3.5 g",
+      "brand": "Garcia Hand Picked",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 56.0,
+      "unit": "Grams",
+      "strainName": "LA Baker",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.81,
+        "totalCBD": 0.07,
+        "CBC": 0.0,
+        "CBDA": 0.08,
+        "CBDV": 0.0,
+        "CBG": 0.21,
+        "CBGA": 2.53,
+        "CBN": 0.0,
+        "THCA": 31.14,
+        "THCV": 0.16
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.1,
+        "myrcene": 0.5,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 0.38,
+        "eudesmol": 0.03,
+        "beta-pinene": 0.17,
+        "limonene": 1.12,
+        "linalool": 0.58,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.36,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8923151,
+          "label": "1A403030000012E000187018",
+          "quantity": 56.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": "2027-08-19"
+        }
+      ]
+    },
+    {
       "id": 8926928,
       "packageCount": 1,
       "name": "LEMF-EX-35",
@@ -27718,6 +27970,55 @@
           "quantity": 182.0,
           "packagedDate": "2026-07-22",
           "expirationDate": "2027-07-15"
+        }
+      ]
+    },
+    {
+      "id": 8873615,
+      "packageCount": 1,
+      "name": "Lemon Bananas Stash - Usable - 28 g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 448.0,
+      "unit": "Grams",
+      "strainName": "Lemon Bananas",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.86,
+        "totalCBD": 0.11,
+        "CBC": 0.0,
+        "CBDA": 0.12,
+        "CBDV": 0.0,
+        "CBG": 0.18,
+        "CBGA": 0.99,
+        "CBN": 0.0,
+        "THCA": 31.17,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.09,
+        "myrcene": 0.77,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.32,
+        "beta-pinene": 0.11,
+        "limonene": 0.68,
+        "linalool": 0.4
+      },
+      "totalTerps": 2.58,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8873615,
+          "label": "1A403030000012E000183001",
+          "quantity": 448.0,
+          "packagedDate": "2026-08-17",
+          "expirationDate": "2027-07-12"
         }
       ]
     },
@@ -30113,6 +30414,55 @@
           "quantity": 31.5,
           "packagedDate": "2026-06-03",
           "expirationDate": "2027-04-07"
+        }
+      ]
+    },
+    {
+      "id": 8873614,
+      "packageCount": 1,
+      "name": "Swampwater Fumez Garcia Hand Picked - Usable - 3.5 g",
+      "brand": "Garcia Hand Picked",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 56.0,
+      "unit": "Grams",
+      "strainName": "Swampwater Fumez",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.23,
+        "totalCBD": 0.06,
+        "CBC": 0.0,
+        "CBDA": 0.07,
+        "CBDV": 0.0,
+        "CBG": 0.05,
+        "CBGA": 1.25,
+        "CBN": 0.0,
+        "THCA": 29.64,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.2,
+        "myrcene": 0.04,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.53,
+        "beta-pinene": 0.07,
+        "limonene": 0.61,
+        "linalool": 0.61
+      },
+      "totalTerps": 2.27,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8873614,
+          "label": "1A403030000012E000183004",
+          "quantity": 56.0,
+          "packagedDate": "2026-08-17",
+          "expirationDate": "2027-08-04"
         }
       ]
     },
@@ -38098,6 +38448,56 @@
       ]
     },
     {
+      "id": 8716255,
+      "packageCount": 1,
+      "name": "Groovy Diesel Shake/Trim 14g",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 252.0,
+      "unit": "Grams",
+      "strainName": "Groovy Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 21.34,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.6,
+        "CBN": 0.0,
+        "THCA": 23.57,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.12,
+        "humulene": 0.13,
+        "myrcene": 0.27,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.53,
+        "beta-pinene": 0.07,
+        "limonene": 0.43,
+        "linalool": 0.35,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 2.19,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8716255,
+          "label": "1A40303000000C9000163169",
+          "quantity": 252.0,
+          "packagedDate": "2026-07-13",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8920913,
       "packageCount": 1,
       "name": "Pank Lemonade-5g Shake/Trim",
@@ -41273,56 +41673,6 @@
           "quantity": 18.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-02-20"
-        }
-      ]
-    },
-    {
-      "id": 8819285,
-      "packageCount": 1,
-      "name": "Bacio Gelato Distillate Vape 1.0g/1000mg",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 20.0,
-      "unit": "Each",
-      "strainName": "Bacio Gelato",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 85.56,
-        "totalCBD": 0.13,
-        "CBC": 0.57,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.74,
-        "CBGA": 0.0,
-        "CBN": 0.35,
-        "THCA": 0.0,
-        "THCV": 0.24
-      },
-      "dose": null,
-      "terpenes": {
-        "myrcene": 1.47,
-        "alpha-pinene": 0.86,
-        "caryophyllene": 0.1,
-        "beta-pinene": 0.51,
-        "ocimene": 0.38,
-        "limonene": 2.31,
-        "linalool": 0.13,
-        "terpinolene": 0.09
-      },
-      "totalTerps": 6.47,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8819285,
-          "label": "1A40303000001F5000412896",
-          "quantity": 20.0,
-          "packagedDate": "2026-08-05",
-          "expirationDate": "2027-03-12"
         }
       ]
     },
@@ -49485,58 +49835,6 @@
           "quantity": 18.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-05-11"
-        }
-      ]
-    },
-    {
-      "id": 8819348,
-      "packageCount": 1,
-      "name": "Jack Herer Disposable Distillate Vape 2.0g/2000mg",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": "Jack Herer",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 87.45,
-        "totalCBD": 0.16,
-        "CBC": 0.67,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.73,
-        "CBGA": 0.0,
-        "CBN": 0.35,
-        "THCA": 0.0,
-        "THCV": 0.3
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.13,
-        "myrcene": 1.42,
-        "alpha-pinene": 0.38,
-        "caryophyllene": 0.27,
-        "beta-pinene": 0.28,
-        "caryophyllene-oxide": 0.02,
-        "ocimene": 0.82,
-        "limonene": 0.73,
-        "linalool": 0.02,
-        "terpinolene": 2.8
-      },
-      "totalTerps": 8.11,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8819348,
-          "label": "1A40303000001F5000412894",
-          "quantity": 2.0,
-          "packagedDate": "2026-08-05",
-          "expirationDate": "2027-04-20"
         }
       ]
     },
