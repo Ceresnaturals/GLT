@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T17:40:40.183186+00:00",
+  "generated_at": "2026-09-04T17:50:27.227684+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12517,61 +12517,6 @@
       ]
     },
     {
-      "id": 7626261,
-      "packageCount": 1,
-      "name": "Bubby's Baked Pumpkin Bites-Exempt-40mg-5",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.378,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.017,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 200.0,
-        "thcMgPerServing": 40.0,
-        "minorsMgPerServing": {
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 1.7,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 7626261,
-          "label": "1A4030300003522000140114",
-          "quantity": 1.0,
-          "packagedDate": "2025-10-20",
-          "expirationDate": "2026-10-01"
-        }
-      ]
-    },
-    {
       "id": 8882325,
       "packageCount": 1,
       "name": "Bubby's Baked Snickerdoodle Bites V4-Edible Product-10mg-10",
@@ -14148,8 +14093,8 @@
       ]
     },
     {
-      "id": 8893987,
-      "packageCount": 1,
+      "id": 8953004,
+      "packageCount": 2,
       "name": "Curio Wellness Sleep 2:1 Blueberry Chews-Edible Product-5mg-10",
       "brand": "Curio Wellness",
       "category": "Edible",
@@ -14157,7 +14102,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 31.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14194,10 +14139,72 @@
       "dominantTerpene": null,
       "packages": [
         {
+          "id": 8953004,
+          "label": "1A403030000012D000265628",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-03",
+          "expirationDate": null
+        },
+        {
           "id": 8893987,
           "label": "1A403030000012D000261768",
           "quantity": 7.0,
           "packagedDate": "2026-08-20",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8953002,
+      "packageCount": 1,
+      "name": "Curio Wellness Thrive 25mg Plus Terpenes Mango Momentum Chews-Exempt-25mg-10",
+      "brand": "Curio Wellness",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.565,
+        "CBC": 0.007,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.025,
+        "CBGA": 0.0,
+        "CBN": 0.018,
+        "THCA": 0.0,
+        "THCV": 0.005
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 250.0,
+        "thcMgPerServing": 25.0,
+        "minorsMgPerServing": {
+          "CBC": 0.28,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.0,
+          "CBGA": 0.0,
+          "CBN": 0.72,
+          "THCA": 0.0,
+          "THCV": 0.2
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8953002,
+          "label": "1A403030000012D000265625",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-03",
           "expirationDate": null
         }
       ]
@@ -21112,7 +21119,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21153,7 +21160,7 @@
         {
           "id": 8854382,
           "label": "1A40303000003EA000202540",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-06-16"
         }
@@ -25735,7 +25742,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 157.5,
+      "quantity": 154.0,
       "unit": "Grams",
       "strainName": "Berry Trix",
       "strainType": null,
@@ -25768,7 +25775,7 @@
         {
           "id": 8674620,
           "label": "1A40303000040D9000005118",
-          "quantity": 157.5,
+          "quantity": 154.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-06-30"
         }
@@ -29910,7 +29917,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 112.0,
+      "quantity": 108.5,
       "unit": "Grams",
       "strainName": "Rainbow Walker",
       "strainType": null,
@@ -29943,7 +29950,7 @@
         {
           "id": 8849580,
           "label": "1A40303000040D9000005598",
-          "quantity": 112.0,
+          "quantity": 108.5,
           "packagedDate": "2026-08-11",
           "expirationDate": "2027-08-10"
         }
@@ -36405,7 +36412,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 24.5,
       "unit": "Grams",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -36440,7 +36447,7 @@
         {
           "id": 8911028,
           "label": "1A40303000000CB000050579",
-          "quantity": 28.0,
+          "quantity": 24.5,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-28"
         }
@@ -38849,7 +38856,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 224.0,
+      "quantity": 210.0,
       "unit": "Grams",
       "strainName": "Groovy Diesel",
       "strainType": null,
@@ -38883,7 +38890,7 @@
         {
           "id": 8716255,
           "label": "1A40303000000C9000163169",
-          "quantity": 224.0,
+          "quantity": 210.0,
           "packagedDate": "2026-07-13",
           "expirationDate": null
         }
@@ -46298,7 +46305,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Golden Lemons",
       "strainType": null,
@@ -46333,7 +46340,7 @@
         {
           "id": 8881943,
           "label": "1A4030300004845000039296",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -50838,7 +50845,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Grape Ape",
       "strainType": null,
@@ -50873,7 +50880,7 @@
         {
           "id": 8842350,
           "label": "1A4030300003201000001524",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-10",
           "expirationDate": null
         }
@@ -50985,7 +50992,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Lemon Berry Gelato",
       "strainType": null,
@@ -51019,7 +51026,7 @@
         {
           "id": 8689168,
           "label": "1A4030300003201000001355",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-07-07",
           "expirationDate": null
         }
@@ -56160,59 +56167,6 @@
           "quantity": 8.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-07-03"
-        }
-      ]
-    },
-    {
-      "id": 8765228,
-      "packageCount": 1,
-      "name": "Rocket Pop DV 1.0g/1000mg",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": "Rocket Pop DV",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 87.56,
-        "totalCBD": 0.15,
-        "CBC": 0.65,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.77,
-        "CBGA": 0.0,
-        "CBN": 0.35,
-        "THCA": 0.0,
-        "THCV": 0.28
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.01,
-        "humulene": 0.02,
-        "myrcene": 0.89,
-        "alpha-pinene": 0.38,
-        "caryophyllene": 0.58,
-        "beta-pinene": 0.67,
-        "caryophyllene-oxide": 0.02,
-        "ocimene": 0.02,
-        "limonene": 3.15,
-        "linalool": 0.59,
-        "terpinolene": 0.29
-      },
-      "totalTerps": 8.08,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8765228,
-          "label": "1A40303000001F5000408126",
-          "quantity": 2.0,
-          "packagedDate": "2026-07-23",
-          "expirationDate": "2027-04-28"
         }
       ]
     },
