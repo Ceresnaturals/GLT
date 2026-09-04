@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T17:50:27.227684+00:00",
+  "generated_at": "2026-09-04T18:00:34.975318+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -14487,44 +14487,45 @@
       ]
     },
     {
-      "id": 8894080,
-      "packageCount": 1,
+      "id": 8953003,
+      "packageCount": 2,
       "name": "Curio Wellness White Peach 40mg Chews-Exempt-40mg-10",
       "brand": "Curio Wellness",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.925,
-        "CBC": 0.011,
+        "totalTHC": 1.018,
+        "CBC": 0.014,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.045,
+        "CBG": 0.034,
         "CBGA": 0.0,
-        "CBN": 0.044,
+        "CBN": 0.036,
         "THCA": 0.0,
-        "THCV": 0.006
+        "THCV": 0.01
       },
       "dose": {
         "servingSize": "1 piece",
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "CBC": 0.44,
+          "CBC": 0.56,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 1.8,
+          "CBG": 1.36,
           "CBGA": 0.0,
-          "CBN": 1.76,
+          "CBN": 1.44,
           "THCA": 0.0,
-          "THCV": 0.24
+          "THCV": 0.4
         },
         "minorsEstimated": true
       },
@@ -14532,6 +14533,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8953003,
+          "label": "1A403030000012D000265627",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-03",
+          "expirationDate": null
+        },
         {
           "id": 8894080,
           "label": "1A403030000012D000261765",
@@ -17242,7 +17250,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17281,7 +17289,7 @@
         {
           "id": 8870788,
           "label": "1A40303000017D5000103606",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-06-30",
           "expirationDate": "2027-06-30"
         }
@@ -17796,7 +17804,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -17835,7 +17843,7 @@
         {
           "id": 8870792,
           "label": "1A40303000017D5000103609",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-06-22",
           "expirationDate": "2027-06-22"
         }
@@ -25447,7 +25455,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 175.0,
+      "quantity": 168.0,
       "unit": "Grams",
       "strainName": "Motor Kush",
       "strainType": null,
@@ -25480,7 +25488,7 @@
         {
           "id": 8914802,
           "label": "1A4030300002009000112803",
-          "quantity": 175.0,
+          "quantity": 168.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-08-04"
         }
@@ -32961,7 +32969,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "Mama Marmalade",
       "strainType": null,
@@ -32996,7 +33004,7 @@
         {
           "id": 8926294,
           "label": "1A403030000012D000262973",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         }
@@ -33872,7 +33880,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Grams",
       "strainName": "Finger Lime Haze",
       "strainType": null,
@@ -33908,7 +33916,7 @@
         {
           "id": 8922970,
           "label": "1A403030000012E000187006",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-08-06"
         }
@@ -34023,7 +34031,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Grams",
       "strainName": "Fruit Loot 3",
       "strainType": null,
@@ -34056,7 +34064,7 @@
         {
           "id": 8918183,
           "label": "1A40303000000CB000050575",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-25"
         }
@@ -34322,7 +34330,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 43.0,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Gumi 6",
       "strainType": null,
@@ -34355,7 +34363,7 @@
         {
           "id": 8911025,
           "label": "1A40303000000CB000050577",
-          "quantity": 43.0,
+          "quantity": 42.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-18"
         }
@@ -37510,7 +37518,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Grams",
       "strainName": "Pineapple Bang 5",
       "strainType": null,
@@ -37543,7 +37551,7 @@
         {
           "id": 8854308,
           "label": "1A40303000000CB000049631",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-07-03"
         }
@@ -38106,7 +38114,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -38138,7 +38146,7 @@
         {
           "id": 8919175,
           "label": "1A40303000001F5000423330",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -38301,7 +38309,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 22.75,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -38334,7 +38342,7 @@
         {
           "id": 8911030,
           "label": "1A40303000000CB000050581",
-          "quantity": 24.5,
+          "quantity": 22.75,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-10"
         }
@@ -38906,7 +38914,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 30.0,
       "unit": "Grams",
       "strainName": "the crazy lady- BLVCK MRKT",
       "strainType": null,
@@ -38939,7 +38947,7 @@
         {
           "id": 8920913,
           "label": "1A40303000040D9000005939",
-          "quantity": 35.0,
+          "quantity": 30.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -38955,7 +38963,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 192.61,
+      "quantity": 189.11,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato TC",
       "strainType": null,
@@ -38986,7 +38994,7 @@
         {
           "id": 8765566,
           "label": "1A40303000001F5000408132",
-          "quantity": 192.61,
+          "quantity": 189.11,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
@@ -56167,6 +56175,59 @@
           "quantity": 8.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-07-03"
+        }
+      ]
+    },
+    {
+      "id": 8765228,
+      "packageCount": 1,
+      "name": "Rocket Pop DV 1.0g/1000mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 2.0,
+      "unit": "Each",
+      "strainName": "Rocket Pop DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.56,
+        "totalCBD": 0.15,
+        "CBC": 0.65,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.77,
+        "CBGA": 0.0,
+        "CBN": 0.35,
+        "THCA": 0.0,
+        "THCV": 0.28
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.01,
+        "humulene": 0.02,
+        "myrcene": 0.89,
+        "alpha-pinene": 0.38,
+        "caryophyllene": 0.58,
+        "beta-pinene": 0.67,
+        "caryophyllene-oxide": 0.02,
+        "ocimene": 0.02,
+        "limonene": 3.15,
+        "linalool": 0.59,
+        "terpinolene": 0.29
+      },
+      "totalTerps": 8.08,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8765228,
+          "label": "1A40303000001F5000408126",
+          "quantity": 2.0,
+          "packagedDate": "2026-07-23",
+          "expirationDate": "2027-04-28"
         }
       ]
     },
