@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T19:10:28.184439+00:00",
+  "generated_at": "2026-09-04T19:20:28.931935+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4428,7 +4428,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Cosmic Balance Blend",
       "strainType": "Hybrid",
@@ -4463,7 +4463,7 @@
         {
           "id": 8890310,
           "label": "1A4030300002199000061272",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-06-03",
           "expirationDate": null
         }
@@ -36841,7 +36841,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 70.0,
+      "quantity": 66.5,
       "unit": "Grams",
       "strainName": "Rainbow Push Pop #4",
       "strainType": null,
@@ -36874,7 +36874,7 @@
         {
           "id": 8947047,
           "label": "1A40303000000CB000051184",
-          "quantity": 70.0,
+          "quantity": 66.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         }
@@ -39190,7 +39190,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 62.67,
+      "quantity": 48.67,
       "unit": "Grams",
       "strainName": "Sour Dubble",
       "strainType": null,
@@ -39223,7 +39223,7 @@
         {
           "id": 8606883,
           "label": "1A4030300002009000105201",
-          "quantity": 62.67,
+          "quantity": 48.67,
           "packagedDate": "2026-06-17",
           "expirationDate": null
         }
@@ -39375,6 +39375,53 @@
           "label": "1A40303000040D9000005939",
           "quantity": 20.0,
           "packagedDate": "2026-08-26",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8765566,
+      "packageCount": 1,
+      "name": "Shake/Trim - Black Cherry Gelato TC",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 161.11,
+      "unit": "Grams",
+      "strainName": "Black Cherry Gelato TC",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.58,
+        "totalCBD": 0.25,
+        "CBDA": 0.04,
+        "CBG": 0.82,
+        "CBN": 0.02,
+        "THCA": 33.2
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.11,
+        "myrcene": 0.4,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.33,
+        "beta-pinene": 0.05,
+        "limonene": 0.27,
+        "linalool": 0.04,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 1.38,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8765566,
+          "label": "1A40303000001F5000408132",
+          "quantity": 161.11,
+          "packagedDate": "2026-07-23",
           "expirationDate": null
         }
       ]
@@ -46588,7 +46635,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "El Chivo",
       "strainType": null,
@@ -46624,7 +46671,7 @@
         {
           "id": 8758176,
           "label": "1A4030300004845000034914",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-05-18",
           "expirationDate": null
         }
@@ -57116,7 +57163,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Orange Crush",
       "strainType": null,
@@ -57147,7 +57194,7 @@
         {
           "id": 8940646,
           "label": "1A4030300000C83000086773",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-06-22"
         }
