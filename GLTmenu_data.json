@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T17:20:35.089745+00:00",
+  "generated_at": "2026-09-04T17:30:35.421174+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -18577,44 +18577,45 @@
       ]
     },
     {
-      "id": 8163769,
-      "packageCount": 1,
+      "id": 8914789,
+      "packageCount": 2,
       "name": "HiColor Max Gummies Juicy Peach|Exempt|40mg|10ct",
       "brand": "HiColor",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.828,
-        "CBC": 0.013,
+        "totalTHC": 0.811,
+        "CBC": 0.021,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.065,
+        "CBG": 0.074,
         "CBGA": 0.0,
-        "CBN": 0.009,
+        "CBN": 0.007,
         "THCA": 0.0,
-        "THCV": 0.0
+        "THCV": 0.005
       },
       "dose": {
         "servingSize": "1pc",
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "CBC": 0.553,
+          "CBC": 0.893,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 2.764,
+          "CBG": 3.147,
           "CBGA": 0.0,
-          "CBN": 0.383,
+          "CBN": 0.298,
           "THCA": 0.0,
-          "THCV": 0.0
+          "THCV": 0.213
         },
         "minorsEstimated": true
       },
@@ -18622,6 +18623,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8914789,
+          "label": "1A4030300002009000112794",
+          "quantity": 20.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-05-14"
+        },
         {
           "id": 8163769,
           "label": "1A4030300002009000092999",
@@ -25580,7 +25588,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 49.0,
+      "quantity": 45.5,
       "unit": "Grams",
       "strainName": "BTY OG",
       "strainType": null,
@@ -25613,7 +25621,7 @@
         {
           "id": 8923148,
           "label": "1A403030000012E000187017",
-          "quantity": 49.0,
+          "quantity": 45.5,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-07-22"
         }
@@ -26012,7 +26020,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 73.5,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "OGKB",
       "strainType": null,
@@ -26046,7 +26054,7 @@
         {
           "id": 8926775,
           "label": "1A40303000000CD000079030",
-          "quantity": 73.5,
+          "quantity": 70.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         }
@@ -27992,7 +28000,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.5,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "LEMF",
       "strainType": null,
@@ -28028,7 +28036,7 @@
         {
           "id": 8926928,
           "label": "1A40303000000CD000079029",
-          "quantity": 45.5,
+          "quantity": 42.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         }
@@ -29950,7 +29958,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 178.5,
+      "quantity": 171.5,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
@@ -29985,7 +29993,7 @@
         {
           "id": 8911109,
           "label": "1A40303000000CB000050585",
-          "quantity": 178.5,
+          "quantity": 171.5,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         }
@@ -32788,6 +32796,56 @@
       ]
     },
     {
+      "id": 8952843,
+      "packageCount": 1,
+      "name": "Curio Wellness Alien Burger Pre-rolls-usable-2x0.5g",
+      "brand": "Curio Wellness",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 30.0,
+      "unit": "Grams",
+      "strainName": "Alien Burger",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 23.25,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.6,
+        "CBN": 0.0,
+        "THCA": 26.23,
+        "THCV": 0.15
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.1,
+        "myrcene": 0.1,
+        "alpha-pinene": 0.32,
+        "caryophyllene": 0.25,
+        "beta-pinene": 0.15,
+        "ocimene": 0.04,
+        "limonene": 0.79,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.01,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8952843,
+          "label": "1A403030000012D000265626",
+          "quantity": 30.0,
+          "packagedDate": "2026-09-03",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8738020,
       "packageCount": 1,
       "name": "Curio Wellness Alien OG Pre-rolls- Usable-2x0.5g",
@@ -32933,6 +32991,56 @@
           "label": "1A403030000012D000257042",
           "quantity": 22.0,
           "packagedDate": "2026-07-23",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8952600,
+      "packageCount": 1,
+      "name": "Curio Wellness Carolina Pre-rolls-Usable-2x0.5g",
+      "brand": "Curio Wellness",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 30.0,
+      "unit": "Grams",
+      "strainName": "Carolina",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.42,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.73,
+        "CBN": 0.0,
+        "THCA": 27.66,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.05,
+        "myrcene": 0.39,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 0.14,
+        "beta-pinene": 0.12,
+        "ocimene": 0.08,
+        "limonene": 0.89,
+        "linalool": 0.1
+      },
+      "totalTerps": 2.23,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8952600,
+          "label": "1A403030000012D000265623",
+          "quantity": 30.0,
+          "packagedDate": "2026-09-03",
           "expirationDate": null
         }
       ]
@@ -33845,103 +33953,6 @@
           "quantity": 46.0,
           "packagedDate": "2026-06-12",
           "expirationDate": "2027-06-08"
-        }
-      ]
-    },
-    {
-      "id": 8918183,
-      "packageCount": 1,
-      "name": "Fruit Loot 3 PRJx2 (Two 0.5g Joints) 1.0g",
-      "brand": null,
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 21.0,
-      "unit": "Grams",
-      "strainName": "Fruit Loot 3",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 26.1,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.16,
-        "CBGA": 0.51,
-        "CBN": 0.0,
-        "THCA": 29.31,
-        "THCV": 0.06
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.1,
-        "myrcene": 0.09,
-        "alpha-pinene": 0.13,
-        "caryophyllene": 0.28,
-        "beta-pinene": 0.14,
-        "ocimene": 0.03,
-        "limonene": 0.99,
-        "linalool": 0.36
-      },
-      "totalTerps": 2.41,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8918183,
-          "label": "1A40303000000CB000050575",
-          "quantity": 21.0,
-          "packagedDate": "2026-08-26",
-          "expirationDate": "2027-07-25"
-        }
-      ]
-    },
-    {
-      "id": 8918184,
-      "packageCount": 1,
-      "name": "Funky Guava PRJx2 (Two 0.5g Joints) 1g",
-      "brand": null,
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Grams",
-      "strainName": "Funky Guava",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 32.91,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.12,
-        "CBGA": 2.85,
-        "CBN": 0.0,
-        "THCA": 37.3,
-        "THCV": 0.22
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.19,
-        "myrcene": 0.29,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.73,
-        "beta-pinene": 0.07,
-        "limonene": 0.57,
-        "linalool": 0.11
-      },
-      "totalTerps": 2.13,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8918184,
-          "label": "1A40303000000CB000050576",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-26",
-          "expirationDate": "2027-07-21"
         }
       ]
     },
@@ -42097,57 +42108,6 @@
           "quantity": 4.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-22"
-        }
-      ]
-    },
-    {
-      "id": 8890378,
-      "packageCount": 1,
-      "name": "Banana Pancakes Vape 0.5g/500mg",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 5.0,
-      "unit": "Each",
-      "strainName": "Banana Pancakes",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 75.69,
-        "totalCBD": 0.21,
-        "CBC": 1.06,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.59,
-        "CBGA": 0.0,
-        "CBN": 0.28,
-        "THCA": 0.0,
-        "THCV": 0.94
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.18,
-        "myrcene": 1.34,
-        "alpha-pinene": 0.77,
-        "caryophyllene": 0.7,
-        "beta-pinene": 0.42,
-        "ocimene": 0.58,
-        "limonene": 3.1,
-        "linalool": 0.69,
-        "terpinolene": 0.09
-      },
-      "totalTerps": 8.68,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8890378,
-          "label": "1A40303000001F5000420185",
-          "quantity": 5.0,
-          "packagedDate": "2026-08-20",
-          "expirationDate": "2026-12-24"
         }
       ]
     },
@@ -56364,7 +56324,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Ready To Use Vaporizer",
       "strainType": null,
@@ -56393,7 +56353,7 @@
         {
           "id": 8667047,
           "label": "1A4030300000C83000075870",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-06-30",
           "expirationDate": "2027-03-25"
         }
