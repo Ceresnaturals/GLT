@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T21:40:28.455491+00:00",
+  "generated_at": "2026-09-04T21:50:27.132972+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -253,8 +253,8 @@
       ]
     },
     {
-      "id": 8484003,
-      "packageCount": 1,
+      "id": 8596199,
+      "packageCount": 2,
       "name": "RSO Capsule - Capsule - 10mg - 10",
       "brand": null,
       "category": "Capsule",
@@ -262,35 +262,35 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 3.359,
-        "CBC": 0.027,
+        "totalTHC": 3.292,
+        "CBC": 0.023,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.083,
+        "CBG": 0.126,
         "CBGA": 0.0,
-        "CBN": 0.008,
+        "CBN": 0.014,
         "THCA": 0.0,
-        "THCV": 0.024
+        "THCV": 0.014
       },
       "dose": {
         "servingSize": "One Capsule",
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "CBC": 0.065,
+          "CBC": 0.055,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.199,
+          "CBG": 0.302,
           "CBGA": 0.0,
-          "CBN": 0.019,
+          "CBN": 0.034,
           "THCA": 0.0,
-          "THCV": 0.058
+          "THCV": 0.034
         },
         "minorsEstimated": true
       },
@@ -298,6 +298,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8596199,
+          "label": "1A4030300000193000098457",
+          "quantity": 9.0,
+          "packagedDate": "2026-06-15",
+          "expirationDate": "2027-05-05"
+        },
         {
           "id": 8484003,
           "label": "1A4030300000193000095467",
@@ -25820,7 +25827,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 105.0,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "Motor Kush",
       "strainType": null,
@@ -25853,7 +25860,7 @@
         {
           "id": 8914802,
           "label": "1A4030300002009000112803",
-          "quantity": 105.0,
+          "quantity": 70.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-08-04"
         }
@@ -29011,6 +29018,54 @@
       ]
     },
     {
+      "id": 7787875,
+      "packageCount": 1,
+      "name": "MDGECK-PR-05-2PK",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Grams",
+      "strainName": "Gelato Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 18.17,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.44,
+        "CBN": 0.0,
+        "THCA": 19.34,
+        "THCV": 0.09
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.159,
+        "myrcene": 0.06,
+        "alpha-pinene": 0.11,
+        "caryophyllene": 0.694,
+        "beta-pinene": 0.088,
+        "limonene": 0.463,
+        "linalool": 0.19
+      },
+      "totalTerps": 1.98,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 7787875,
+          "label": "1A40303000007D1000045153",
+          "quantity": 5.0,
+          "packagedDate": "2025-12-02",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 7787876,
       "packageCount": 1,
       "name": "MDLYCK-PR-05-2PK",
@@ -31659,7 +31714,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Grams",
       "strainName": "Alien Mints",
       "strainType": null,
@@ -31694,7 +31749,7 @@
         {
           "id": 8923144,
           "label": "1A403030000012E000187008",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-07-13"
         }
@@ -38339,7 +38394,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 17.5,
       "unit": "Grams",
       "strainName": "Skunk Hero",
       "strainType": null,
@@ -38372,7 +38427,7 @@
         {
           "id": 8060114,
           "label": "1A40303000000C9000132812",
-          "quantity": 20.0,
+          "quantity": 17.5,
           "packagedDate": "2026-02-10",
           "expirationDate": "2027-01-18"
         }
@@ -41153,7 +41208,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Durban Poison",
       "strainType": null,
@@ -41188,7 +41243,7 @@
         {
           "id": 8794515,
           "label": "1A40303000001F5000410802",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2026-11-19"
         }
@@ -41658,7 +41713,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Northern Lights",
       "strainType": null,
@@ -41690,7 +41745,7 @@
         {
           "id": 8890373,
           "label": "1A40303000001F5000420180",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-06-01"
         }
@@ -43774,7 +43829,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Mango Haze",
       "strainType": null,
@@ -43806,7 +43861,7 @@
         {
           "id": 8673144,
           "label": "1A403030000283D000052568",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-05-22"
         }
@@ -46986,6 +47041,58 @@
       ]
     },
     {
+      "id": 8596801,
+      "packageCount": 1,
+      "name": "Flavor Series Baja Smash- Vape Cart- BRIQ 1g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 18.0,
+      "unit": "Each",
+      "strainName": "Flavor Series Baja Smash BRIQ",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 82.11,
+        "CBC": 0.97,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.53,
+        "CBGA": 0.0,
+        "CBN": 0.28,
+        "THCA": 0.0,
+        "THCV": 0.84
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.16,
+        "humulene": 0.13,
+        "myrcene": 0.82,
+        "alpha-pinene": 1.2,
+        "caryophyllene": 0.36,
+        "beta-pinene": 0.48,
+        "ocimene": 0.15,
+        "limonene": 0.83,
+        "linalool": 0.24,
+        "terpinolene": 0.08,
+        "nerolidol": 0.19
+      },
+      "totalTerps": 4.64,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 8596801,
+          "label": "1A4030300000193000098459",
+          "quantity": 18.0,
+          "packagedDate": "2026-06-15",
+          "expirationDate": "2027-05-18"
+        }
+      ]
+    },
+    {
       "id": 8596802,
       "packageCount": 2,
       "name": "Flavor Series Berry Gelato- Vape Cart- 1g",
@@ -47746,7 +47853,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "GMO",
       "strainType": "Indica",
@@ -47780,7 +47887,7 @@
         {
           "id": 8809510,
           "label": "1A40303000003EA000194169",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-08-03",
           "expirationDate": "2027-07-01"
         }
@@ -50780,7 +50887,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Jack's Delight",
       "strainType": "Sativa",
@@ -50814,7 +50921,7 @@
         {
           "id": 8826358,
           "label": "1A40303000003EA000195261",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-12"
         }
@@ -51355,6 +51462,52 @@
           "quantity": 11.0,
           "packagedDate": "2026-05-20",
           "expirationDate": "2027-03-23"
+        }
+      ]
+    },
+    {
+      "id": 8596200,
+      "packageCount": 1,
+      "name": "Legacy Series Acapulco Gold- Vape Cart- BRIQ 2g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 6.0,
+      "unit": "Each",
+      "strainName": "Legacy Series Acapulco Gold BRIQ",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.51,
+        "CBC": 0.83,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.91,
+        "CBGA": 0.0,
+        "CBN": 0.18,
+        "THCA": 0.0,
+        "THCV": 0.96
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.35,
+        "humulene": 0.89,
+        "caryophyllene": 2.86,
+        "limonene": 0.38,
+        "linalool": 0.75
+      },
+      "totalTerps": 5.23,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8596200,
+          "label": "1A4030300000193000098458",
+          "quantity": 6.0,
+          "packagedDate": "2026-06-15",
+          "expirationDate": "2027-02-23"
         }
       ]
     },
@@ -56619,7 +56772,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Classics",
       "strainType": null,
@@ -56654,7 +56807,7 @@
         {
           "id": 8811770,
           "label": "1A4030300000C83000079098",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-03",
           "expirationDate": "2027-06-23"
         }
