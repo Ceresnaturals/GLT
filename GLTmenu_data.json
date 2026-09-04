@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T16:40:38.637120+00:00",
+  "generated_at": "2026-09-04T16:50:37.828892+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8038,7 +8038,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Mai Tai",
       "strainType": "Sativa",
@@ -8074,7 +8074,7 @@
         {
           "id": 8891524,
           "label": "1A40303000003EA000205088",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-14"
         }
@@ -8090,7 +8090,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Blue Z",
       "strainType": "Indica",
@@ -8124,7 +8124,7 @@
         {
           "id": 8854455,
           "label": "1A40303000003EA000202545",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-06-17"
         }
@@ -24166,7 +24166,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -24205,7 +24205,7 @@
         {
           "id": 8859042,
           "label": "1A403030000390D000066173",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-07-27"
         }
@@ -26601,7 +26601,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.5,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Boston Tea Party",
       "strainType": null,
@@ -26637,7 +26637,7 @@
         {
           "id": 8725908,
           "label": "1A4030300004845000032771",
-          "quantity": 10.5,
+          "quantity": 7.0,
           "packagedDate": "2026-06-15",
           "expirationDate": null
         }
@@ -28139,7 +28139,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 420.0,
+      "quantity": 392.0,
       "unit": "Grams",
       "strainName": "Lemon Bananas",
       "strainType": null,
@@ -28172,7 +28172,7 @@
         {
           "id": 8873615,
           "label": "1A403030000012E000183001",
-          "quantity": 420.0,
+          "quantity": 392.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-07-12"
         }
@@ -33754,7 +33754,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Grams",
       "strainName": "Florida Kush",
       "strainType": null,
@@ -33787,7 +33787,7 @@
         {
           "id": 8923143,
           "label": "1A403030000012E000187005",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-01-15"
         }
@@ -35017,46 +35017,55 @@
       ]
     },
     {
-      "id": 8678608,
-      "packageCount": 1,
+      "id": 8952597,
+      "packageCount": 2,
       "name": "Kaviar Mini Pre-rolls (Hybrid)-Concentrate-5x0.6g",
       "brand": "Kaviar",
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 7.0,
+      "quantity": 37.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 35.7,
-        "CBC": 0.33,
+        "totalTHC": 38.94,
+        "CBC": 0.43,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 1.19,
-        "CBGA": 0.49,
-        "CBN": 0.33,
-        "THCA": 13.37,
-        "THCV": 0.18
+        "CBG": 0.0,
+        "CBGA": 0.51,
+        "CBN": 0.36,
+        "THCA": 13.29,
+        "THCV": 0.21
       },
       "dose": null,
       "terpenes": {
-        "bisabolol": 0.07,
-        "humulene": 0.09,
-        "myrcene": 0.14,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.26,
-        "eudesmol": 0.07,
-        "beta-pinene": 0.03,
-        "limonene": 0.25,
+        "bisabolol": 0.1,
+        "humulene": 0.08,
+        "myrcene": 0.33,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.28,
+        "eudesmol": 0.12,
+        "beta-pinene": 0.02,
+        "ocimene": 0.04,
+        "limonene": 0.22,
         "linalool": 0.14
       },
-      "totalTerps": 1.29,
-      "dominantTerpene": "caryophyllene",
+      "totalTerps": 1.54,
+      "dominantTerpene": "myrcene",
       "packages": [
+        {
+          "id": 8952597,
+          "label": "1A403030000012D000265618",
+          "quantity": 30.0,
+          "packagedDate": "2026-09-03",
+          "expirationDate": null
+        },
         {
           "id": 8678608,
           "label": "1A403030000012D000253353",
@@ -38666,7 +38675,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.0,
+      "quantity": 40.0,
       "unit": "Grams",
       "strainName": "the crazy lady- BLVCK MRKT",
       "strainType": null,
@@ -38699,7 +38708,7 @@
         {
           "id": 8920913,
           "label": "1A40303000040D9000005939",
-          "quantity": 45.0,
+          "quantity": 40.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -38715,7 +38724,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 196.11,
+      "quantity": 192.61,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato TC",
       "strainType": null,
@@ -38746,7 +38755,7 @@
         {
           "id": 8765566,
           "label": "1A40303000001F5000408132",
-          "quantity": 196.11,
+          "quantity": 192.61,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
