@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T19:40:25.582438+00:00",
+  "generated_at": "2026-09-04T19:50:26.019791+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8036,7 +8036,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": "Sativa",
@@ -8071,7 +8071,7 @@
         {
           "id": 8919841,
           "label": "1A40303000003EA000206309",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-09"
         }
@@ -8289,7 +8289,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Strawberry Sour Diesel",
       "strainType": "Sativa",
@@ -8324,7 +8324,7 @@
         {
           "id": 8826452,
           "label": "1A40303000003EA000195258",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-05-04"
         }
@@ -26745,7 +26745,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 348.77,
+      "quantity": 347.77,
       "unit": "Grams",
       "strainName": "Earthquake #25",
       "strainType": null,
@@ -26778,7 +26778,7 @@
         {
           "id": 8000715,
           "label": "1A40303000000C9000082241",
-          "quantity": 348.77,
+          "quantity": 347.77,
           "packagedDate": "2026-01-28",
           "expirationDate": "2026-11-23"
         }
@@ -26932,55 +26932,6 @@
       ]
     },
     {
-      "id": 8911033,
-      "packageCount": 1,
-      "name": "Funky Guava Pre-Pack 3.5g",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 14.0,
-      "unit": "Grams",
-      "strainName": "Funky Guava",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 35.07,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.11,
-        "CBGA": 2.63,
-        "CBN": 0.0,
-        "THCA": 39.7,
-        "THCV": 0.25
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.2,
-        "myrcene": 0.43,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.79,
-        "beta-pinene": 0.06,
-        "ocimene": 0.03,
-        "limonene": 0.5,
-        "linalool": 0.1
-      },
-      "totalTerps": 2.27,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8911033,
-          "label": "1A40303000000CB000050582",
-          "quantity": 14.0,
-          "packagedDate": "2026-08-25",
-          "expirationDate": "2027-07-21"
-        }
-      ]
-    },
-    {
       "id": 8854451,
       "packageCount": 1,
       "name": "GMO Pre-Pack (Buds) - Rythm (Indica Dominant) - Usable - 3.5g",
@@ -27039,7 +26990,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 112.0,
+      "quantity": 108.5,
       "unit": "Grams",
       "strainName": "Garlic Breath",
       "strainType": null,
@@ -27073,7 +27024,7 @@
         {
           "id": 8768959,
           "label": "1A40303000000C9000164871",
-          "quantity": 112.0,
+          "quantity": 108.5,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-07-19"
         }
@@ -27125,55 +27076,6 @@
           "quantity": 59.5,
           "packagedDate": "2026-04-29",
           "expirationDate": "2027-03-18"
-        }
-      ]
-    },
-    {
-      "id": 8750452,
-      "packageCount": 1,
-      "name": "Ghost Gas Pie 8ths",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 59.5,
-      "unit": "Grams",
-      "strainName": "Ghost Gas Pie",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 19.49,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.36,
-        "CBN": 0.0,
-        "THCA": 21.93,
-        "THCV": 0.12
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.08,
-        "humulene": 0.07,
-        "myrcene": 0.41,
-        "alpha-pinene": 0.11,
-        "caryophyllene": 0.25,
-        "beta-pinene": 0.11,
-        "limonene": 0.78,
-        "linalool": 0.1
-      },
-      "totalTerps": 2.1,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8750452,
-          "label": "1A40303000040D9000005360",
-          "quantity": 59.5,
-          "packagedDate": "2026-07-20",
-          "expirationDate": "2027-07-19"
         }
       ]
     },
@@ -39132,7 +39034,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 210.0,
+      "quantity": 196.0,
       "unit": "Grams",
       "strainName": "Groovy Diesel",
       "strainType": null,
@@ -39166,7 +39068,7 @@
         {
           "id": 8716255,
           "label": "1A40303000000C9000163169",
-          "quantity": 210.0,
+          "quantity": 196.0,
           "packagedDate": "2026-07-13",
           "expirationDate": null
         }
@@ -39231,7 +39133,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 161.11,
+      "quantity": 154.11,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato TC",
       "strainType": null,
@@ -39262,7 +39164,7 @@
         {
           "id": 8765566,
           "label": "1A40303000001F5000408132",
-          "quantity": 161.11,
+          "quantity": 154.11,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
@@ -49048,7 +48950,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Honeydew Kush DV",
       "strainType": null,
@@ -49083,7 +48985,7 @@
         {
           "id": 8858497,
           "label": "1A40303000001F5000416984",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2026-12-15"
         }
@@ -50272,7 +50174,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Tahoe OG",
       "strainType": null,
@@ -50308,7 +50210,7 @@
         {
           "id": 7914426,
           "label": "1A4030300003522000161383",
-          "quantity": 8.0,
+          "quantity": 6.0,
           "packagedDate": "2026-01-06",
           "expirationDate": "2026-10-08"
         }
@@ -59062,7 +58964,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Super Sour Peach DV",
       "strainType": null,
@@ -59097,7 +58999,7 @@
         {
           "id": 8890380,
           "label": "1A40303000001F5000420187",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-03-26"
         }
