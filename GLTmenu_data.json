@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T14:40:36.864181+00:00",
+  "generated_at": "2026-09-04T15:00:44.410107+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -30042,7 +30042,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 189.0,
+      "quantity": 182.0,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
@@ -30077,7 +30077,7 @@
         {
           "id": 8911109,
           "label": "1A40303000000CB000050585",
-          "quantity": 189.0,
+          "quantity": 182.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         }
@@ -34480,6 +34480,57 @@
       ]
     },
     {
+      "id": 8922973,
+      "packageCount": 1,
+      "name": "Highaleah Strane - Pre-rolls - 1 g",
+      "brand": "Strane",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Grams",
+      "strainName": "Highaleah",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.8,
+        "totalCBD": 0.1,
+        "CBC": 0.06,
+        "CBDA": 0.11,
+        "CBDV": 0.0,
+        "CBG": 0.16,
+        "CBGA": 1.21,
+        "CBN": 0.0,
+        "THCA": 28.22,
+        "THCV": 0.16
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.03,
+        "myrcene": 0.25,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.14,
+        "beta-pinene": 0.06,
+        "ocimene": 0.12,
+        "limonene": 0.13,
+        "linalool": 0.09,
+        "terpinolene": 0.8
+      },
+      "totalTerps": 1.87,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8922973,
+          "label": "1A403030000012E000187010",
+          "quantity": 12.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": "2027-07-10"
+        }
+      ]
+    },
+    {
       "id": 8809460,
       "packageCount": 1,
       "name": "Jack's Delight 5 Pack (Infused) Dogwalkers (Play ) - Concentrate - 2.25g",
@@ -34828,7 +34879,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 5.0,
       "unit": "Each",
@@ -47936,7 +47987,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "NYC Diesel",
       "strainType": null,
@@ -47970,7 +48021,7 @@
         {
           "id": 8490802,
           "label": "1A4030300002009000102673",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-05-21",
           "expirationDate": "2027-01-20"
         }
@@ -51916,56 +51967,6 @@
           "label": "1A4030300003D55000005369",
           "quantity": 36.0,
           "packagedDate": "2026-04-09",
-          "expirationDate": "2026-12-20"
-        }
-      ]
-    },
-    {
-      "id": 8294399,
-      "packageCount": 1,
-      "name": "Live Liquid Diamonds: Cookies n Chem -1g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 12.0,
-      "unit": "Each",
-      "strainName": "Cookies n Chem",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 79.23,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 15.48,
-        "THCV": 1.37
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.38,
-        "myrcene": 3.52,
-        "alpha-pinene": 0.3,
-        "caryophyllene": 1.26,
-        "beta-pinene": 0.42,
-        "ocimene": 1.0,
-        "limonene": 3.53,
-        "linalool": 0.35,
-        "terpinolene": 2.82
-      },
-      "totalTerps": 14.07,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8294399,
-          "label": "1A4030300003D55000005248",
-          "quantity": 12.0,
-          "packagedDate": "2026-04-07",
           "expirationDate": "2026-12-20"
         }
       ]
