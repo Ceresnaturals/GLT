@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T13:30:36.483475+00:00",
+  "generated_at": "2026-09-04T13:40:36.049763+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -24840,6 +24840,63 @@
           "quantity": 11.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-06-11"
+        }
+      ]
+    },
+    {
+      "id": 8820337,
+      "packageCount": 1,
+      "name": "Wana | Edibles | Soft Lozenges | Quick Island Punch Indica - Edible Product - 10mg - 10pk",
+      "brand": "Wana",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 17.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.21,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8820337,
+          "label": "1A4030300002199000058517",
+          "quantity": 17.0,
+          "packagedDate": "2026-05-20",
+          "expirationDate": "2027-05-20"
         }
       ]
     },
@@ -52852,8 +52909,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 14.0,
       "unit": "Each",
