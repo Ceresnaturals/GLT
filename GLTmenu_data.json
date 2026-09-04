@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T21:30:25.759277+00:00",
+  "generated_at": "2026-09-04T21:40:28.455491+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -253,8 +253,8 @@
       ]
     },
     {
-      "id": 8596199,
-      "packageCount": 2,
+      "id": 8484003,
+      "packageCount": 1,
       "name": "RSO Capsule - Capsule - 10mg - 10",
       "brand": null,
       "category": "Capsule",
@@ -262,35 +262,35 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 3.292,
-        "CBC": 0.023,
+        "totalTHC": 3.359,
+        "CBC": 0.027,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.126,
+        "CBG": 0.083,
         "CBGA": 0.0,
-        "CBN": 0.014,
+        "CBN": 0.008,
         "THCA": 0.0,
-        "THCV": 0.014
+        "THCV": 0.024
       },
       "dose": {
         "servingSize": "One Capsule",
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "CBC": 0.055,
+          "CBC": 0.065,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.302,
+          "CBG": 0.199,
           "CBGA": 0.0,
-          "CBN": 0.034,
+          "CBN": 0.019,
           "THCA": 0.0,
-          "THCV": 0.034
+          "THCV": 0.058
         },
         "minorsEstimated": true
       },
@@ -298,13 +298,6 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
-        {
-          "id": 8596199,
-          "label": "1A4030300000193000098457",
-          "quantity": 9.0,
-          "packagedDate": "2026-06-15",
-          "expirationDate": "2027-05-05"
-        },
         {
           "id": 8484003,
           "label": "1A4030300000193000095467",
@@ -22590,7 +22583,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22629,7 +22622,7 @@
         {
           "id": 8863974,
           "label": "1A403030000012D000260505",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -26903,7 +26896,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 344.27,
+      "quantity": 343.27,
       "unit": "Grams",
       "strainName": "Earthquake #25",
       "strainType": null,
@@ -26936,7 +26929,7 @@
         {
           "id": 8000715,
           "label": "1A40303000000C9000082241",
-          "quantity": 344.27,
+          "quantity": 343.27,
           "packagedDate": "2026-01-28",
           "expirationDate": "2026-11-23"
         }
@@ -27546,7 +27539,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 73.5,
+      "quantity": 66.5,
       "unit": "Grams",
       "strainName": "Han Solo HashBurger",
       "strainType": null,
@@ -27579,7 +27572,7 @@
         {
           "id": 8870114,
           "label": "1A40303000040D9000005721",
-          "quantity": 73.5,
+          "quantity": 66.5,
           "packagedDate": "2026-08-16",
           "expirationDate": "2027-08-15"
         }
@@ -28238,7 +28231,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 38.5,
       "unit": "Grams",
       "strainName": "LEMF",
       "strainType": null,
@@ -28274,7 +28267,7 @@
         {
           "id": 8926928,
           "label": "1A40303000000CD000079029",
-          "quantity": 42.0,
+          "quantity": 38.5,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         }
@@ -29013,54 +29006,6 @@
           "label": "1A40303000007D1000056117",
           "quantity": 36.0,
           "packagedDate": "2026-02-03",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 7787875,
-      "packageCount": 1,
-      "name": "MDGECK-PR-05-2PK",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 6.0,
-      "unit": "Grams",
-      "strainName": "Gelato Cake",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 18.17,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.44,
-        "CBN": 0.0,
-        "THCA": 19.34,
-        "THCV": 0.09
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.159,
-        "myrcene": 0.06,
-        "alpha-pinene": 0.11,
-        "caryophyllene": 0.694,
-        "beta-pinene": 0.088,
-        "limonene": 0.463,
-        "linalool": 0.19
-      },
-      "totalTerps": 1.98,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 7787875,
-          "label": "1A40303000007D1000045153",
-          "quantity": 6.0,
-          "packagedDate": "2025-12-02",
           "expirationDate": null
         }
       ]
@@ -31911,7 +31856,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 19.25,
       "unit": "Grams",
       "strainName": "Animal Scout",
       "strainType": null,
@@ -31945,7 +31890,7 @@
         {
           "id": 8826456,
           "label": "1A40303000003EA000195253",
-          "quantity": 21.0,
+          "quantity": 19.25,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-15"
         }
@@ -34105,7 +34050,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Grams",
       "strainName": "Fruit Loot 3",
       "strainType": null,
@@ -34138,7 +34083,7 @@
         {
           "id": 8918183,
           "label": "1A40303000000CB000050575",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-25"
         }
@@ -36643,7 +36588,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -36675,7 +36620,7 @@
         {
           "id": 8911027,
           "label": "1A40303000000CB000050578",
-          "quantity": 38.5,
+          "quantity": 35.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         }
@@ -36691,7 +36636,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -36726,7 +36671,7 @@
         {
           "id": 8911028,
           "label": "1A40303000000CB000050579",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-28"
         }
@@ -37993,7 +37938,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 49.0,
+      "quantity": 48.0,
       "unit": "Grams",
       "strainName": "Rainbow Push Pop #4",
       "strainType": null,
@@ -38026,7 +37971,7 @@
         {
           "id": 8947325,
           "label": "1A40303000000CB000051195",
-          "quantity": 49.0,
+          "quantity": 48.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         }
@@ -38785,7 +38730,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 57.5,
+      "quantity": 55.0,
       "unit": "Grams",
       "strainName": "Thunder Punch",
       "strainType": null,
@@ -38820,7 +38765,7 @@
         {
           "id": 8698817,
           "label": "1A40303000000C9000160158",
-          "quantity": 57.5,
+          "quantity": 55.0,
           "packagedDate": "2026-07-08",
           "expirationDate": "2027-06-21"
         }
@@ -39374,6 +39319,55 @@
           "label": "1A40303000001F5000408132",
           "quantity": 140.11,
           "packagedDate": "2026-07-23",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8920914,
+      "packageCount": 1,
+      "name": "Super Lemon Haze 5g Shake/Trim",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 40.0,
+      "unit": "Grams",
+      "strainName": "Super Lemon Haze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 20.54,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.23,
+        "CBN": 0.0,
+        "THCA": 22.76,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.12,
+        "myrcene": 0.46,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.38,
+        "beta-pinene": 0.07,
+        "ocimene": 0.62,
+        "limonene": 0.07,
+        "terpinolene": 0.67
+      },
+      "totalTerps": 2.45,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8920914,
+          "label": "1A40303000040D9000005940",
+          "quantity": 40.0,
+          "packagedDate": "2026-08-26",
           "expirationDate": null
         }
       ]
@@ -46992,58 +46986,6 @@
       ]
     },
     {
-      "id": 8596801,
-      "packageCount": 1,
-      "name": "Flavor Series Baja Smash- Vape Cart- BRIQ 1g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 18.0,
-      "unit": "Each",
-      "strainName": "Flavor Series Baja Smash BRIQ",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 82.11,
-        "CBC": 0.97,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.53,
-        "CBGA": 0.0,
-        "CBN": 0.28,
-        "THCA": 0.0,
-        "THCV": 0.84
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.16,
-        "humulene": 0.13,
-        "myrcene": 0.82,
-        "alpha-pinene": 1.2,
-        "caryophyllene": 0.36,
-        "beta-pinene": 0.48,
-        "ocimene": 0.15,
-        "limonene": 0.83,
-        "linalool": 0.24,
-        "terpinolene": 0.08,
-        "nerolidol": 0.19
-      },
-      "totalTerps": 4.64,
-      "dominantTerpene": "alpha-pinene",
-      "packages": [
-        {
-          "id": 8596801,
-          "label": "1A4030300000193000098459",
-          "quantity": 18.0,
-          "packagedDate": "2026-06-15",
-          "expirationDate": "2027-05-18"
-        }
-      ]
-    },
-    {
       "id": 8596802,
       "packageCount": 2,
       "name": "Flavor Series Berry Gelato- Vape Cart- 1g",
@@ -51417,52 +51359,6 @@
       ]
     },
     {
-      "id": 8596200,
-      "packageCount": 1,
-      "name": "Legacy Series Acapulco Gold- Vape Cart- BRIQ 2g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Vault"
-      ],
-      "quantity": 6.0,
-      "unit": "Each",
-      "strainName": "Legacy Series Acapulco Gold BRIQ",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 85.51,
-        "CBC": 0.83,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.91,
-        "CBGA": 0.0,
-        "CBN": 0.18,
-        "THCA": 0.0,
-        "THCV": 0.96
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.35,
-        "humulene": 0.89,
-        "caryophyllene": 2.86,
-        "limonene": 0.38,
-        "linalool": 0.75
-      },
-      "totalTerps": 5.23,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8596200,
-          "label": "1A4030300000193000098458",
-          "quantity": 6.0,
-          "packagedDate": "2026-06-15",
-          "expirationDate": "2027-02-23"
-        }
-      ]
-    },
-    {
       "id": 8351050,
       "packageCount": 1,
       "name": "Legacy Series Amnesia Haze- Vape Cart- 1g",
@@ -53797,7 +53693,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": "Green Crack",
       "strainType": null,
@@ -53831,7 +53727,7 @@
         {
           "id": 8945349,
           "label": "1A403030000283D000060837",
-          "quantity": 27.0,
+          "quantity": 26.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
