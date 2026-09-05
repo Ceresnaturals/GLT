@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T20:30:28.002766+00:00",
+  "generated_at": "2026-09-05T20:40:25.336673+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -15368,7 +15368,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15409,7 +15409,7 @@
         {
           "id": 8946619,
           "label": "1A4030300000C83000081471",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-11"
         }
@@ -17483,7 +17483,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -17522,7 +17522,7 @@
         {
           "id": 8894084,
           "label": "1A403030000012D000261770",
-          "quantity": 17.0,
+          "quantity": 15.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -46406,7 +46406,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Earthquake",
       "strainType": null,
@@ -46441,7 +46441,7 @@
         {
           "id": 8910397,
           "label": "1A4030300000C83000086194",
-          "quantity": 15.0,
+          "quantity": 13.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-14"
         }
@@ -56604,59 +56604,6 @@
           "quantity": 6.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-07-03"
-        }
-      ]
-    },
-    {
-      "id": 8765228,
-      "packageCount": 1,
-      "name": "Rocket Pop DV 1.0g/1000mg",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Rocket Pop DV",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 87.56,
-        "totalCBD": 0.15,
-        "CBC": 0.65,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.77,
-        "CBGA": 0.0,
-        "CBN": 0.35,
-        "THCA": 0.0,
-        "THCV": 0.28
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.01,
-        "humulene": 0.02,
-        "myrcene": 0.89,
-        "alpha-pinene": 0.38,
-        "caryophyllene": 0.58,
-        "beta-pinene": 0.67,
-        "caryophyllene-oxide": 0.02,
-        "ocimene": 0.02,
-        "limonene": 3.15,
-        "linalool": 0.59,
-        "terpinolene": 0.29
-      },
-      "totalTerps": 8.08,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8765228,
-          "label": "1A40303000001F5000408126",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-23",
-          "expirationDate": "2027-04-28"
         }
       ]
     },
