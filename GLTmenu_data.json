@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T16:10:27.257337+00:00",
+  "generated_at": "2026-09-05T16:20:26.959507+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12,7 +12,6 @@
     "Edible",
     "Flower",
     "Pre-Roll",
-    "Seeds",
     "Shake/Trim",
     "Tincture",
     "Topical",
@@ -1454,7 +1453,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Lilac Diesel",
       "strainType": null,
@@ -1481,7 +1480,7 @@
         {
           "id": 8849850,
           "label": "1A403030000283D000057290",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-11",
           "expirationDate": null
         }
@@ -2791,7 +2790,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Dulce Destroyer",
       "strainType": null,
@@ -2829,7 +2828,7 @@
         {
           "id": 8919192,
           "label": "1A40303000001F5000423344",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-02"
         }
@@ -3517,7 +3516,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Grapes & Cream",
       "strainType": null,
@@ -3553,7 +3552,7 @@
         {
           "id": 8890382,
           "label": "1A40303000001F5000420190",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-06-30"
         }
@@ -5329,7 +5328,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "MD EXT DIAMONDDUST",
       "strainType": null,
@@ -5357,7 +5356,7 @@
         {
           "id": 8872250,
           "label": "1A40303000007D1000093665",
-          "quantity": 6.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-17",
           "expirationDate": null
         }
@@ -7827,6 +7826,58 @@
       ]
     },
     {
+      "id": 8947230,
+      "packageCount": 1,
+      "name": "Rainbow Belts-Strain Specific Live Resin Batter 2.0g/2000mg",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Rainbow Belts Strain Specific",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 62.88,
+        "totalCBD": 0.15,
+        "CBC": 0.0,
+        "CBDA": 0.17,
+        "CBDV": 0.0,
+        "CBG": 0.26,
+        "CBGA": 3.78,
+        "CBN": 0.0,
+        "THCA": 70.59,
+        "THCV": 0.36
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.41,
+        "myrcene": 0.35,
+        "alpha-pinene": 0.36,
+        "caryophyllene": 1.35,
+        "eudesmol": 0.06,
+        "beta-pinene": 0.17,
+        "ocimene": 0.07,
+        "limonene": 2.46,
+        "linalool": 0.97,
+        "terpinolene": 0.29
+      },
+      "totalTerps": 7.32,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8947230,
+          "label": "1A40303000001F5000425617",
+          "quantity": 20.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": "2027-05-18"
+        }
+      ]
+    },
+    {
       "id": 8272461,
       "packageCount": 1,
       "name": "Rainbow Cocktail Live Resin Batter 1.0g/1000mg",
@@ -9934,52 +9985,6 @@
       ]
     },
     {
-      "id": 8395000,
-      "packageCount": 1,
-      "name": "Dr. Solomons Tincture 50mg - Doze (1:1 CBN:THC)-Exempt-1.67mg-30",
-      "brand": null,
-      "category": "Drink",
-      "metrcCategory": "Exempt Liquid Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.379,
-        "CBC": 0.012,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.036,
-        "CBGA": 0.0,
-        "CBN": 0.36,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": ".5mL",
-        "totalThcMg": 50.0,
-        "thcMgPerServing": 1.67,
-        "minorsMgPerServing": {},
-        "minorsEstimated": false
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8395000,
-          "label": "1A40303000003EA000169974",
-          "quantity": 1.0,
-          "packagedDate": "2026-04-29",
-          "expirationDate": "2026-09-05"
-        }
-      ]
-    },
-    {
       "id": 8890125,
       "packageCount": 1,
       "name": "Keef - Blue Razz - Liquid Edible - 10mg - 1",
@@ -10386,7 +10391,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10427,7 +10432,7 @@
         {
           "id": 8920196,
           "label": "1A40303000001F5000423551",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-29"
         }
@@ -12662,7 +12667,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12701,7 +12706,7 @@
         {
           "id": 8882408,
           "label": "1A4030300003522000202253",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-02"
         }
@@ -20172,7 +20177,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20213,7 +20218,7 @@
         {
           "id": 8882429,
           "label": "1A4030300003522000202263",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-06-26"
         }
@@ -20624,7 +20629,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20665,7 +20670,7 @@
         {
           "id": 8826445,
           "label": "1A40303000003EA000195250",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-02"
         }
@@ -22241,7 +22246,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -22287,7 +22292,7 @@
         {
           "id": 8828893,
           "label": "1A403030000012D000259356",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -24782,7 +24787,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -24821,7 +24826,7 @@
         {
           "id": 8846682,
           "label": "1A403030000390D000066087",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-11",
           "expirationDate": "2027-07-28"
         }
@@ -38920,66 +38925,6 @@
       ]
     },
     {
-      "id": 8387800,
-      "packageCount": 1,
-      "name": "Lemon Layer Cake x Funky Guava (Male) Cannabis Seeds (10 Pack)",
-      "brand": null,
-      "category": "Seeds",
-      "metrcCategory": "Seeds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 4.0,
-      "unit": "Each",
-      "strainName": "R&D Seedling",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {},
-      "dose": null,
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8387800,
-          "label": "1A40303000000CB000040523",
-          "quantity": 4.0,
-          "packagedDate": "2026-04-28",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8388202,
-      "packageCount": 1,
-      "name": "Papaya Beltshake #4 x Funky Guava (Male) Cannabis Seeds (10 Pack)",
-      "brand": null,
-      "category": "Seeds",
-      "metrcCategory": "Seeds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 5.0,
-      "unit": "Each",
-      "strainName": "R&D Seedling",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {},
-      "dose": null,
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8388202,
-          "label": "1A40303000000CB000040524",
-          "quantity": 5.0,
-          "packagedDate": "2026-04-28",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8606883,
       "packageCount": 1,
       "name": "1937|Trim|Sour Dubble|Usable|Bulk|454g",
@@ -39866,55 +39811,6 @@
           "quantity": 9.0,
           "packagedDate": "2025-12-03",
           "expirationDate": "2026-11-03"
-        }
-      ]
-    },
-    {
-      "id": 8522408,
-      "packageCount": 1,
-      "name": "(the) Essence Cartridge - Berry Gelato - Vape Cart - 0.5g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 9.0,
-      "unit": "Each",
-      "strainName": "Berry Gelato",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 81.64,
-        "CBC": 1.13,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.69,
-        "CBGA": 0.0,
-        "CBN": 0.41,
-        "THCA": 0.0,
-        "THCV": 0.58
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.23,
-        "myrcene": 0.73,
-        "alpha-pinene": 0.19,
-        "caryophyllene": 1.14,
-        "beta-pinene": 0.27,
-        "limonene": 1.61,
-        "linalool": 0.37,
-        "terpinolene": 0.18
-      },
-      "totalTerps": 5.1,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8522408,
-          "label": "1A40303000017D5000092086",
-          "quantity": 9.0,
-          "packagedDate": "2026-04-28",
-          "expirationDate": "2027-04-16"
         }
       ]
     },
@@ -43576,7 +43472,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Wedding Cake",
       "strainType": null,
@@ -43611,7 +43507,7 @@
         {
           "id": 8911344,
           "label": "1A403030000283D000060418",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-25",
           "expirationDate": null
         }
@@ -47789,55 +47685,6 @@
           "quantity": 12.0,
           "packagedDate": "2026-03-23",
           "expirationDate": "2027-03-04"
-        }
-      ]
-    },
-    {
-      "id": 8395075,
-      "packageCount": 1,
-      "name": "Ghost Train Haze (NCD) - &Shine (Sativa) - Vape Cart - 1000mg",
-      "brand": "&Shine",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 10.0,
-      "unit": "Each",
-      "strainName": "Ghost Train Haze",
-      "strainType": "Sativa",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 82.7,
-        "CBC": 0.61,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.76,
-        "CBGA": 0.0,
-        "CBN": 0.92,
-        "THCA": 0.0,
-        "THCV": 0.63
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.14,
-        "myrcene": 0.29,
-        "alpha-pinene": 0.22,
-        "caryophyllene": 0.68,
-        "beta-pinene": 0.17,
-        "limonene": 0.17,
-        "terpinolene": 1.69,
-        "nerolidol": 0.14
-      },
-      "totalTerps": 4.11,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8395075,
-          "label": "1A40303000003EA000169975",
-          "quantity": 10.0,
-          "packagedDate": "2026-04-29",
-          "expirationDate": "2027-03-05"
         }
       ]
     },
@@ -58480,6 +58327,57 @@
           "quantity": 20.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-05-22"
+        }
+      ]
+    },
+    {
+      "id": 8778313,
+      "packageCount": 1,
+      "name": "Strawberry Cough Cartridge (NCD) - &Shine (Sativa) - Vape Cart - 1000mg",
+      "brand": "&Shine",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Strawberry Cough",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.99,
+        "CBC": 0.74,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.78,
+        "CBGA": 0.0,
+        "CBN": 0.36,
+        "THCA": 0.0,
+        "THCV": 0.84
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.3,
+        "humulene": 0.44,
+        "myrcene": 0.72,
+        "alpha-pinene": 0.41,
+        "caryophyllene": 1.21,
+        "beta-pinene": 0.24,
+        "ocimene": 0.36,
+        "limonene": 0.71,
+        "linalool": 0.24,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 4.96,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8778313,
+          "label": "1A40303000003EA000192820",
+          "quantity": 12.0,
+          "packagedDate": "2026-07-27",
+          "expirationDate": "2027-06-26"
         }
       ]
     },
