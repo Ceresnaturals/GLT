@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T17:30:27.306240+00:00",
+  "generated_at": "2026-09-05T17:40:26.477119+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7834,7 +7834,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "RO CrdBudder Firecracker H MD",
       "strainType": null,
@@ -7869,7 +7869,7 @@
         {
           "id": 8588262,
           "label": "1A403030000238D000102670",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-06-12",
           "expirationDate": "2027-06-09"
         }
@@ -8339,7 +8339,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Strawberry Shortcake",
       "strainType": "Indica",
@@ -8373,7 +8373,7 @@
         {
           "id": 8944069,
           "label": "1A40303000003EA000264677",
-          "quantity": 23.0,
+          "quantity": 21.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-14"
         }
@@ -20039,7 +20039,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20080,7 +20080,7 @@
         {
           "id": 8939232,
           "label": "1A4030300003522000210570",
-          "quantity": 25.0,
+          "quantity": 21.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-07"
         }
@@ -27115,7 +27115,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 333.27,
+      "quantity": 329.77,
       "unit": "Grams",
       "strainName": "Earthquake #25",
       "strainType": null,
@@ -27148,7 +27148,7 @@
         {
           "id": 8000715,
           "label": "1A40303000000C9000082241",
-          "quantity": 333.27,
+          "quantity": 329.77,
           "packagedDate": "2026-01-28",
           "expirationDate": "2026-11-23"
         }
@@ -27446,6 +27446,55 @@
           "quantity": 52.5,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-07-19"
+        }
+      ]
+    },
+    {
+      "id": 8947153,
+      "packageCount": 1,
+      "name": "Golden Pineapple - Pre Ground Bud - 10 gram - Pouch",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 250.0,
+      "unit": "Grams",
+      "strainName": "Golden Pineapple",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.06,
+        "totalCBD": 0.23,
+        "CBDA": 0.03,
+        "CBG": 0.21,
+        "CBN": 0.01,
+        "THCA": 26.99
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.01,
+        "humulene": 0.04,
+        "myrcene": 0.29,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 0.14,
+        "beta-pinene": 0.08,
+        "ocimene": 0.25,
+        "limonene": 0.18,
+        "linalool": 0.02,
+        "terpinolene": 1.32,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.65,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8947153,
+          "label": "1A40303000001F5000425606",
+          "quantity": 250.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": null
         }
       ]
     },
@@ -31429,7 +31478,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 33.0,
+      "quantity": 32.0,
       "unit": "Grams",
       "strainName": "Sour Jack",
       "strainType": null,
@@ -31462,7 +31511,7 @@
         {
           "id": 8490482,
           "label": "1A4030300002009000102667",
-          "quantity": 33.0,
+          "quantity": 32.0,
           "packagedDate": "2026-05-21",
           "expirationDate": "2027-04-17"
         }
@@ -34558,7 +34607,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Cherry Paloma",
       "strainType": null,
@@ -34590,7 +34639,7 @@
         {
           "id": 8678454,
           "label": "1A4030300002009000107933",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-05-08"
         }
@@ -37701,7 +37750,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.0,
+      "quantity": 44.0,
       "unit": "Grams",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -37736,7 +37785,7 @@
         {
           "id": 8947062,
           "label": "1A40303000000CB000051194",
-          "quantity": 44.0,
+          "quantity": 43.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         },
