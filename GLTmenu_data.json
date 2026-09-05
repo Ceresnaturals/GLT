@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T18:50:26.471750+00:00",
+  "generated_at": "2026-09-05T19:00:28.122533+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10475,6 +10475,63 @@
           "quantity": 12.0,
           "packagedDate": "2026-02-24",
           "expirationDate": "2027-01-07"
+        }
+      ]
+    },
+    {
+      "id": 8947756,
+      "packageCount": 1,
+      "name": "Sunnies Mocktail No. 1 Sweet Orange - Liquid Edible -10mg -1",
+      "brand": "Sunnies",
+      "category": "Drink",
+      "metrcCategory": "Infused Liquid Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.003,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Can",
+        "totalThcMg": 10.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8947756,
+          "label": "1A40303000001F5000425699",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": "2027-07-29"
         }
       ]
     },
@@ -26606,7 +26663,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 448.0,
+      "quantity": 420.0,
       "unit": "Grams",
       "strainName": "Chem de la Chem TC",
       "strainType": null,
@@ -26638,7 +26695,7 @@
         {
           "id": 8947223,
           "label": "1A40303000001F5000425607",
-          "quantity": 448.0,
+          "quantity": 420.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -34486,52 +34543,6 @@
       ]
     },
     {
-      "id": 8890376,
-      "packageCount": 1,
-      "name": "Gush Mints Diamond Dust IPRJ 1.0g/1000mg - 1 Single",
-      "brand": null,
-      "category": "Pre-Roll",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Gush Mints Dust",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 44.92,
-        "totalCBD": 0.22,
-        "CBDA": 0.03,
-        "CBG": 0.24,
-        "CBN": 0.01,
-        "THCA": 49.94
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.16,
-        "myrcene": 0.03,
-        "alpha-pinene": 0.02,
-        "caryophyllene": 0.51,
-        "beta-pinene": 0.03,
-        "limonene": 0.21,
-        "linalool": 0.14,
-        "terpinolene": 0.01
-      },
-      "totalTerps": 1.23,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8890376,
-          "label": "1A40303000001F5000420183",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-20",
-          "expirationDate": "2027-07-17"
-        }
-      ]
-    },
-    {
       "id": 8676363,
       "packageCount": 1,
       "name": "Hash Burger #7 Big Dogs - Dogwalkers (Sit) - Usable - 0.75g",
@@ -35591,7 +35602,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Grams",
       "strainName": "Khalifa Mints",
       "strainType": null,
@@ -35626,7 +35637,7 @@
         {
           "id": 8142475,
           "label": "1A40303000000C9000137239",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-03-02",
           "expirationDate": "2026-09-28"
         }
@@ -36434,7 +36445,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 33.0,
       "unit": "Grams",
       "strainName": "Lemon Cherry Gelato",
       "strainType": null,
@@ -36468,7 +36479,7 @@
         {
           "id": 8947045,
           "label": "1A40303000000CB000051183",
-          "quantity": 35.0,
+          "quantity": 33.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-02"
         }
@@ -36635,7 +36646,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 115.5,
+      "quantity": 112.0,
       "unit": "Grams",
       "strainName": "Deadband x GC5 #12",
       "strainType": null,
@@ -36669,7 +36680,7 @@
         {
           "id": 8947059,
           "label": "1A40303000000CB000051191",
-          "quantity": 115.5,
+          "quantity": 112.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         }
@@ -37983,7 +37994,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.0,
+      "quantity": 44.0,
       "unit": "Grams",
       "strainName": "Rainbow Push Pop #4",
       "strainType": null,
@@ -38016,7 +38027,7 @@
         {
           "id": 8947325,
           "label": "1A40303000000CB000051195",
-          "quantity": 45.0,
+          "quantity": 44.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         }
@@ -41937,58 +41948,6 @@
           "quantity": 5.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-06-01"
-        }
-      ]
-    },
-    {
-      "id": 8765361,
-      "packageCount": 1,
-      "name": "Airo Pod Permanent Marker LLR 1.0g/1000mg",
-      "brand": "Airo",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Permanent Marker LLR",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 65.18,
-        "totalCBD": 0.15,
-        "CBC": 0.62,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.8,
-        "CBGA": 0.0,
-        "CBN": 0.1,
-        "THCA": 0.0,
-        "THCV": 0.26
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.04,
-        "humulene": 0.38,
-        "myrcene": 0.25,
-        "alpha-pinene": 0.68,
-        "caryophyllene": 0.98,
-        "beta-pinene": 0.36,
-        "ocimene": 0.36,
-        "limonene": 1.84,
-        "linalool": 1.11,
-        "terpinolene": 0.1
-      },
-      "totalTerps": 6.98,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8765361,
-          "label": "1A40303000001F5000408119",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-23",
-          "expirationDate": "2027-03-05"
         }
       ]
     },
@@ -52497,7 +52456,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": "Black Cherry Soda",
       "strainType": null,
@@ -52531,7 +52490,7 @@
         {
           "id": 8583239,
           "label": "1A4030300003D55000006209",
-          "quantity": 31.0,
+          "quantity": 30.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-02-21"
         }
@@ -55114,7 +55073,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Cherry AK",
       "strainType": null,
@@ -55147,7 +55106,7 @@
         {
           "id": 8858130,
           "label": "1A40303000039D1000091581",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -55163,7 +55122,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Cosmic Cherry Cream",
       "strainType": null,
@@ -55197,7 +55156,7 @@
         {
           "id": 8631520,
           "label": "1A40303000039D1000082052",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-06-23",
           "expirationDate": null
         }
@@ -59088,7 +59047,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Super Silver Haze",
       "strainType": null,
@@ -59122,7 +59081,7 @@
         {
           "id": 8091559,
           "label": "1A403030000070A000031928",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-02-17",
           "expirationDate": null
         }
@@ -59338,7 +59297,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Thin Mint GSC",
       "strainType": null,
@@ -59371,7 +59330,7 @@
         {
           "id": 7786376,
           "label": "1A403030000070A000029890",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2025-12-01",
           "expirationDate": null
         }
