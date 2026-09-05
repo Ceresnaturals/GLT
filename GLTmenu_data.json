@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T15:40:25.312871+00:00",
+  "generated_at": "2026-09-05T15:50:26.671878+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1000,7 +1000,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Pungent Smile",
       "strainType": null,
@@ -1034,7 +1034,7 @@
         {
           "id": 8293034,
           "label": "1A403030000283D000048673",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-04-07",
           "expirationDate": "2027-03-17"
         }
@@ -1050,7 +1050,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Red Sunset",
       "strainType": null,
@@ -1083,7 +1083,7 @@
         {
           "id": 8690390,
           "label": "1A403030000283D000052768",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-06-17"
         }
@@ -2084,7 +2084,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Candy Cabal",
       "strainType": null,
@@ -2120,7 +2120,7 @@
         {
           "id": 8819351,
           "label": "1A40303000001F5000412898",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-03-05"
         }
@@ -5570,7 +5570,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "MD EXT MDGFGE 1LB",
       "strainType": null,
@@ -5605,7 +5605,7 @@
         {
           "id": 8182750,
           "label": "1A40303000007D1000060513",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-03-11",
           "expirationDate": null
         }
@@ -5968,7 +5968,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Mfused FIRE Fattys",
       "strainType": null,
@@ -6003,7 +6003,7 @@
         {
           "id": 8828895,
           "label": "1A403030000012D000259359",
-          "quantity": 19.0,
+          "quantity": 16.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -6019,7 +6019,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Mfused TWISTED Fattys",
       "strainType": null,
@@ -6053,7 +6053,7 @@
         {
           "id": 8894082,
           "label": "1A403030000012D000261767",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -8796,7 +8796,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Starburst",
       "strainType": null,
@@ -8832,7 +8832,7 @@
         {
           "id": 8755629,
           "label": "ABC0303000037DD000024741",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-06-21"
         }
@@ -16737,6 +16737,61 @@
           "label": "1A403030000012D000241952",
           "quantity": 4.0,
           "packagedDate": "2026-05-28",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8707445,
+      "packageCount": 1,
+      "name": "Dixie Chocolate 10mg Straight Up Milk Sativa-Edible Product-10mg-10",
+      "brand": "Dixie",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 7.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.103,
+        "CBC": 0.001,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.004,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.1,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.4,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8707445,
+          "label": "1A403030000012D000254652",
+          "quantity": 7.0,
+          "packagedDate": "2026-07-09",
           "expirationDate": null
         }
       ]
@@ -28919,7 +28974,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Grams",
       "strainName": "Gelato Cake",
       "strainType": null,
@@ -28951,7 +29006,7 @@
         {
           "id": 7787875,
           "label": "1A40303000007D1000045153",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2025-12-02",
           "expirationDate": null
         }
@@ -40701,7 +40756,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Afternoon Delight",
       "strainType": "Hybrid",
@@ -40733,7 +40788,7 @@
         {
           "id": 8778314,
           "label": "1A40303000003EA000192821",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-05-04"
         }
@@ -43620,7 +43675,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Nectarz",
       "strainType": null,
@@ -43653,7 +43708,7 @@
         {
           "id": 8673145,
           "label": "1A403030000283D000052569",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-05-22"
         }
@@ -45926,7 +45981,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Purple Kush",
       "strainType": null,
@@ -45960,7 +46015,7 @@
         {
           "id": 8790140,
           "label": "1A403030000012D000257803",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-07-28",
           "expirationDate": null
         }
@@ -48642,55 +48697,6 @@
           "quantity": 9.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-04-20"
-        }
-      ]
-    },
-    {
-      "id": 8678460,
-      "packageCount": 1,
-      "name": "HiAF|Disposable|Peach Rings|Vape Cart|1000mg",
-      "brand": "HiAF",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Peach Rings",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 88.67,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.28,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.2,
-        "myrcene": 0.44,
-        "alpha-pinene": 0.1,
-        "caryophyllene": 0.96,
-        "beta-pinene": 0.11,
-        "limonene": 1.01,
-        "linalool": 0.38,
-        "terpinolene": 0.04
-      },
-      "totalTerps": 3.63,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8678460,
-          "label": "1A4030300002009000107940",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-02",
-          "expirationDate": "2027-04-12"
         }
       ]
     },
@@ -53490,7 +53496,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Grandaddy Purp",
       "strainType": null,
@@ -53523,7 +53529,7 @@
         {
           "id": 8885894,
           "label": "1A403030000283D000057728",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-06-25"
         }
