@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T16:50:27.135349+00:00",
+  "generated_at": "2026-09-05T17:00:30.383203+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -15206,7 +15206,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15247,7 +15247,7 @@
         {
           "id": 8793246,
           "label": "1A4030300000C83000080429",
-          "quantity": 11.0,
+          "quantity": 9.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-01-29"
         }
@@ -21556,7 +21556,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21597,7 +21597,7 @@
         {
           "id": 8854382,
           "label": "1A40303000003EA000202540",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-06-16"
         }
@@ -26465,7 +26465,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 63.0,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "OGKB",
       "strainType": null,
@@ -26499,7 +26499,7 @@
         {
           "id": 8926775,
           "label": "1A40303000000CD000079030",
-          "quantity": 63.0,
+          "quantity": 56.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         }
@@ -26960,7 +26960,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 334.27,
+      "quantity": 333.27,
       "unit": "Grams",
       "strainName": "Earthquake #25",
       "strainType": null,
@@ -26993,7 +26993,7 @@
         {
           "id": 8000715,
           "label": "1A40303000000C9000082241",
-          "quantity": 334.27,
+          "quantity": 333.27,
           "packagedDate": "2026-01-28",
           "expirationDate": "2026-11-23"
         }
@@ -36199,7 +36199,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 36.0,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Lemon Cherry Gelato",
       "strainType": null,
@@ -36233,7 +36233,7 @@
         {
           "id": 8947045,
           "label": "1A40303000000CB000051183",
-          "quantity": 36.0,
+          "quantity": 35.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-02"
         }
@@ -36600,7 +36600,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.5,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Rainbow Push Pop #4",
       "strainType": null,
@@ -36633,7 +36633,7 @@
         {
           "id": 8947047,
           "label": "1A40303000000CB000051184",
-          "quantity": 45.5,
+          "quantity": 42.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         }
@@ -37498,7 +37498,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 47.0,
+      "quantity": 46.0,
       "unit": "Grams",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -37533,7 +37533,7 @@
         {
           "id": 8947062,
           "label": "1A40303000000CB000051194",
-          "quantity": 46.0,
+          "quantity": 45.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         },
@@ -41056,6 +41056,56 @@
       ]
     },
     {
+      "id": 8947227,
+      "packageCount": 1,
+      "name": "Airo Pod Blue Dream 0.5g/500mg",
+      "brand": "Airo",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Blue Dream",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.91,
+        "totalCBD": 0.22,
+        "CBC": 1.05,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.89,
+        "CBGA": 0.0,
+        "CBN": 0.27,
+        "THCA": 0.0,
+        "THCV": 0.88
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.17,
+        "myrcene": 2.31,
+        "alpha-pinene": 1.96,
+        "caryophyllene": 0.67,
+        "beta-pinene": 0.91,
+        "limonene": 0.42,
+        "linalool": 0.11
+      },
+      "totalTerps": 7.09,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8947227,
+          "label": "1A40303000001F5000425612",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": "2027-03-12"
+        }
+      ]
+    },
+    {
       "id": 8794515,
       "packageCount": 1,
       "name": "Airo Pod Durban Poison 0.5g/500mg",
@@ -42657,6 +42707,58 @@
           "quantity": 4.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-22"
+        }
+      ]
+    },
+    {
+      "id": 8947157,
+      "packageCount": 1,
+      "name": "Banana Munson Vape 0.5g/500mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Banana Munson",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 79.52,
+        "totalCBD": 0.16,
+        "CBC": 0.64,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.49,
+        "CBGA": 0.0,
+        "CBN": 0.31,
+        "THCA": 0.0,
+        "THCV": 0.37
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.05,
+        "myrcene": 1.99,
+        "alpha-pinene": 1.74,
+        "caryophyllene": 0.4,
+        "beta-pinene": 1.48,
+        "caryophyllene-oxide": 0.02,
+        "ocimene": 0.2,
+        "limonene": 4.46,
+        "linalool": 0.15,
+        "terpinolene": 0.12
+      },
+      "totalTerps": 11.78,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8947157,
+          "label": "1A40303000001F5000425616",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": "2027-07-01"
         }
       ]
     },
@@ -56751,7 +56853,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Maui Waui",
       "strainType": null,
@@ -56783,7 +56885,7 @@
         {
           "id": 8883699,
           "label": "1A4030300000C83000085449",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-07-14"
         }
