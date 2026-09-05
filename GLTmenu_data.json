@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T17:00:30.383203+00:00",
+  "generated_at": "2026-09-05T17:10:31.436747+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3712,16 +3712,15 @@
     },
     {
       "id": 8911016,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Ice Cream Cake Live Rosin Cold Cured 1.0g",
       "brand": null,
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Ice Cream Cake Cold",
       "strainType": null,
@@ -3756,13 +3755,6 @@
           "label": "1A4030300000C83000086190",
           "quantity": 20.0,
           "packagedDate": "2026-08-25",
-          "expirationDate": "2027-08-04"
-        },
-        {
-          "id": 8854302,
-          "label": "1A4030300000C83000079933",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-12",
           "expirationDate": "2027-08-04"
         }
       ]
@@ -9044,16 +9036,15 @@
     },
     {
       "id": 8947232,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "THCa 1.0g/1000mg",
       "brand": null,
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9084,13 +9075,6 @@
           "quantity": 20.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-08"
-        },
-        {
-          "id": 8765230,
-          "label": "1A40303000001F5000408131",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-23",
-          "expirationDate": "2027-02-19"
         }
       ]
     },
@@ -22830,7 +22814,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -22869,7 +22853,7 @@
         {
           "id": 8864067,
           "label": "1A403030000012D000260503",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -32751,7 +32735,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Alien Burger",
       "strainType": null,
@@ -32785,7 +32769,7 @@
         {
           "id": 8952843,
           "label": "1A403030000012D000265626",
-          "quantity": 29.0,
+          "quantity": 28.0,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -33203,7 +33187,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 31.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": "Thrive",
       "strainType": null,
@@ -33240,7 +33224,7 @@
         {
           "id": 8926323,
           "label": "1A403030000012D000262978",
-          "quantity": 30.0,
+          "quantity": 28.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         },
@@ -37498,7 +37482,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 46.0,
+      "quantity": 45.0,
       "unit": "Grams",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -37533,7 +37517,7 @@
         {
           "id": 8947062,
           "label": "1A40303000000CB000051194",
-          "quantity": 45.0,
+          "quantity": 44.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         },
@@ -41921,7 +41905,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Purple Punch LLR",
       "strainType": null,
@@ -41957,7 +41941,7 @@
         {
           "id": 8575545,
           "label": "1A40303000001F5000389383",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-06-10",
           "expirationDate": "2026-10-01"
         }
@@ -56497,6 +56481,58 @@
       ]
     },
     {
+      "id": 8947228,
+      "packageCount": 1,
+      "name": "Rocket Pop Disposable DV 2.0g/2000mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Rocket Pop DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 81.9,
+        "totalCBD": 0.21,
+        "CBC": 1.09,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.88,
+        "CBGA": 0.0,
+        "CBN": 0.21,
+        "THCA": 0.0,
+        "THCV": 0.92
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.03,
+        "humulene": 0.03,
+        "myrcene": 1.98,
+        "alpha-pinene": 0.62,
+        "caryophyllene": 1.18,
+        "beta-pinene": 1.06,
+        "caryophyllene-oxide": 0.03,
+        "limonene": 4.16,
+        "linalool": 0.74,
+        "terpinolene": 0.5
+      },
+      "totalTerps": 12.62,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8947228,
+          "label": "1A40303000001F5000425613",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": "2027-08-13"
+        }
+      ]
+    },
+    {
       "id": 8811769,
       "packageCount": 1,
       "name": "Rove | Classics | Gelato - I | 1.0g",
@@ -58318,7 +58354,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Sour Tangie",
       "strainType": null,
@@ -58355,7 +58391,7 @@
         {
           "id": 8765229,
           "label": "1A40303000001F5000408128",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2026-11-03"
         }
@@ -58892,6 +58928,55 @@
           "quantity": 9.0,
           "packagedDate": "2026-02-17",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8947156,
+      "packageCount": 1,
+      "name": "Super Sour Diesel DV 1.0g/1000mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Super Sour Diesel DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.6,
+        "totalCBD": 0.22,
+        "CBC": 1.29,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.7,
+        "CBGA": 0.0,
+        "CBN": 0.22,
+        "THCA": 0.0,
+        "THCV": 0.97
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.04,
+        "myrcene": 1.78,
+        "alpha-pinene": 1.55,
+        "caryophyllene": 0.21,
+        "beta-pinene": 1.26,
+        "limonene": 1.88,
+        "terpinolene": 0.26
+      },
+      "totalTerps": 8.08,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8947156,
+          "label": "1A40303000001F5000425615",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": "2027-07-14"
         }
       ]
     },
