@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T15:30:26.153264+00:00",
+  "generated_at": "2026-09-05T15:40:25.312871+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8186,7 +8186,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Mai Tai",
       "strainType": "Sativa",
@@ -8222,7 +8222,7 @@
         {
           "id": 8891524,
           "label": "1A40303000003EA000205088",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-14"
         }
@@ -8238,7 +8238,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Strawberry Shortcake",
       "strainType": "Indica",
@@ -8272,7 +8272,7 @@
         {
           "id": 8944069,
           "label": "1A40303000003EA000264677",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-14"
         }
@@ -8338,7 +8338,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Blue Z",
       "strainType": "Indica",
@@ -8372,7 +8372,7 @@
         {
           "id": 8854455,
           "label": "1A40303000003EA000202545",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-06-17"
         }
@@ -16742,61 +16742,6 @@
       ]
     },
     {
-      "id": 8707445,
-      "packageCount": 1,
-      "name": "Dixie Chocolate 10mg Straight Up Milk Sativa-Edible Product-10mg-10",
-      "brand": "Dixie",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Vault"
-      ],
-      "quantity": 7.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": "Sativa",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.103,
-        "CBC": 0.001,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.004,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.1,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.4,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8707445,
-          "label": "1A403030000012D000254652",
-          "quantity": 7.0,
-          "packagedDate": "2026-07-09",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8864070,
       "packageCount": 1,
       "name": "Dixie Chocolate 25mg Straight Up Dark-Exempt-25mg-10",
@@ -21381,7 +21326,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 17.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21422,7 +21367,7 @@
         {
           "id": 8891361,
           "label": "1A40303000003EA000205083",
-          "quantity": 17.0,
+          "quantity": 15.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-05-20"
         }
@@ -33753,7 +33698,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Bomb Popz",
       "strainType": null,
@@ -33786,7 +33731,7 @@
         {
           "id": 8840301,
           "label": "1A4030300004845000037836",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-07-31",
           "expirationDate": null
         }
@@ -38989,7 +38934,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.67,
+      "quantity": 6.67,
       "unit": "Grams",
       "strainName": "Sour Dubble",
       "strainType": null,
@@ -39022,7 +38967,7 @@
         {
           "id": 8606883,
           "label": "1A4030300002009000105201",
-          "quantity": 20.67,
+          "quantity": 6.67,
           "packagedDate": "2026-06-17",
           "expirationDate": null
         }
@@ -39188,7 +39133,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 80.61,
+      "quantity": 66.61,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato TC",
       "strainType": null,
@@ -39219,7 +39164,7 @@
         {
           "id": 8765566,
           "label": "1A40303000001F5000408132",
-          "quantity": 80.61,
+          "quantity": 66.61,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
@@ -52012,7 +51957,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Lemon Fresh",
       "strainType": "Sativa",
@@ -52046,7 +51991,7 @@
         {
           "id": 7940015,
           "label": "1A40303000003EA000140860",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-01-12",
           "expirationDate": "2026-11-25"
         }
@@ -53645,7 +53590,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Green Crack",
       "strainType": null,
@@ -53679,7 +53624,7 @@
         {
           "id": 8945349,
           "label": "1A403030000283D000060837",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -53693,9 +53638,9 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": "White Widow",
       "strainType": null,
@@ -53730,7 +53675,7 @@
         {
           "id": 8945081,
           "label": "1A403030000283D000060838",
-          "quantity": 27.0,
+          "quantity": 26.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-26"
         }
@@ -57938,51 +57883,6 @@
           "quantity": 2.0,
           "packagedDate": "2026-07-13",
           "expirationDate": "2027-07-13"
-        }
-      ]
-    },
-    {
-      "id": 8408019,
-      "packageCount": 1,
-      "name": "Savvy Disposable - Fresh Berry - Vape Cart - 0.3g",
-      "brand": "Savvy",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Fresh Berry",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 81.26,
-        "CBC": 0.68,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.69,
-        "CBGA": 0.0,
-        "CBN": 0.51,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.2,
-        "beta-pinene": 0.06,
-        "limonene": 0.39
-      },
-      "totalTerps": 0.69,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8408019,
-          "label": "1A40303000017D5000087090",
-          "quantity": 1.0,
-          "packagedDate": "2026-04-23",
-          "expirationDate": "2027-04-15"
         }
       ]
     },
