@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T19:20:25.528176+00:00",
+  "generated_at": "2026-09-05T19:30:28.423232+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4468,6 +4468,52 @@
           "quantity": 12.0,
           "packagedDate": "2026-07-07",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8688991,
+      "packageCount": 1,
+      "name": "LORE Infused PR 1g - Goji Overdrive",
+      "brand": "LORE",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Weight)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 21.0,
+      "unit": "Grams",
+      "strainName": "Goji Overdrive",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 32.54,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.2,
+        "CBN": 0.09,
+        "THCA": 33.21,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.06,
+        "caryophyllene": 0.16,
+        "limonene": 0.03,
+        "linalool": 0.08
+      },
+      "totalTerps": 0.41,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8688991,
+          "label": "1A4030300003201000001362",
+          "quantity": 21.0,
+          "packagedDate": "2026-07-07",
+          "expirationDate": "2027-02-24"
         }
       ]
     },
@@ -16300,7 +16346,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16341,7 +16387,7 @@
         {
           "id": 8793248,
           "label": "1A4030300000C83000080431",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-03-25"
         }
@@ -21258,7 +21304,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21299,7 +21345,7 @@
         {
           "id": 8891520,
           "label": "1A40303000003EA000205080",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-05-18"
         }
@@ -23108,7 +23154,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23149,7 +23195,7 @@
         {
           "id": 8507908,
           "label": "1A40303000039D1000076300",
-          "quantity": 3.0,
+          "quantity": 1.0,
           "packagedDate": "2026-05-26",
           "expirationDate": null
         }
@@ -26405,56 +26451,6 @@
           "quantity": 210.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-08-07"
-        }
-      ]
-    },
-    {
-      "id": 8926776,
-      "packageCount": 1,
-      "name": "CUR-CW-BB-LESH-14-MD",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 14.0,
-      "unit": "Grams",
-      "strainName": "LESH",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 28.94,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.54,
-        "CBN": 0.0,
-        "THCA": 32.63,
-        "THCV": 0.11
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.15,
-        "humulene": 0.14,
-        "myrcene": 0.19,
-        "alpha-pinene": 0.19,
-        "caryophyllene": 0.63,
-        "beta-pinene": 0.19,
-        "limonene": 1.29,
-        "linalool": 0.31,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 3.54,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8926776,
-          "label": "1A40303000000CD000079032",
-          "quantity": 14.0,
-          "packagedDate": "2026-08-27",
-          "expirationDate": null
         }
       ]
     },
@@ -30200,7 +30196,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 143.5,
+      "quantity": 140.0,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
@@ -30235,7 +30231,7 @@
         {
           "id": 8911109,
           "label": "1A40303000000CB000050585",
-          "quantity": 143.5,
+          "quantity": 140.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         }
@@ -33960,7 +33956,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Florida Kush",
       "strainType": null,
@@ -33993,7 +33989,7 @@
         {
           "id": 8923143,
           "label": "1A403030000012E000187005",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-01-15"
         }
@@ -36348,7 +36344,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 33.0,
+      "quantity": 31.0,
       "unit": "Grams",
       "strainName": "Lemon Cherry Gelato",
       "strainType": null,
@@ -36382,7 +36378,7 @@
         {
           "id": 8947045,
           "label": "1A40303000000CB000051183",
-          "quantity": 33.0,
+          "quantity": 31.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-02"
         }
@@ -36549,7 +36545,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 105.0,
+      "quantity": 98.0,
       "unit": "Grams",
       "strainName": "Deadband x GC5 #12",
       "strainType": null,
@@ -36583,7 +36579,7 @@
         {
           "id": 8947059,
           "label": "1A40303000000CB000051191",
-          "quantity": 105.0,
+          "quantity": 98.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         }
@@ -43408,6 +43404,58 @@
       ]
     },
     {
+      "id": 8849829,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Fab Fuel - 1g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 8.0,
+      "unit": "Each",
+      "strainName": "Fab Fuel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 81.39,
+        "CBC": 1.05,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.01,
+        "CBGA": 0.0,
+        "CBN": 0.42,
+        "THCA": 0.0,
+        "THCV": 0.91
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.37,
+        "humulene": 0.07,
+        "myrcene": 0.61,
+        "alpha-pinene": 0.18,
+        "caryophyllene": 0.91,
+        "eudesmol": 0.18,
+        "beta-pinene": 0.17,
+        "ocimene": 0.4,
+        "limonene": 1.13,
+        "linalool": 0.31,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 4.73,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8849829,
+          "label": "1A403030000283D000057286",
+          "quantity": 8.0,
+          "packagedDate": "2026-08-11",
+          "expirationDate": "2027-05-13"
+        }
+      ]
+    },
+    {
       "id": 8849721,
       "packageCount": 1,
       "name": "Beezle - Buzz Vape - Grapefruit Diesel - 0.5g",
@@ -43467,7 +43515,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Jelly Donut",
       "strainType": null,
@@ -43501,7 +43549,7 @@
         {
           "id": 8911342,
           "label": "1A403030000283D000060416",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-25",
           "expirationDate": null
         }
@@ -46534,7 +46582,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Bolo Runtz",
       "strainType": null,
@@ -46570,7 +46618,7 @@
         {
           "id": 8758173,
           "label": "1A4030300004845000034912",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-04-13",
           "expirationDate": null
         }
@@ -49101,7 +49149,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Honeydew Kush DV",
       "strainType": null,
@@ -49136,7 +49184,7 @@
         {
           "id": 8858497,
           "label": "1A40303000001F5000416984",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2026-12-15"
         }
@@ -53723,7 +53771,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": "Green Crack",
       "strainType": null,
@@ -53757,7 +53805,7 @@
         {
           "id": 8945349,
           "label": "1A403030000283D000060837",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -53874,7 +53922,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Durban Poison",
       "strainType": null,
@@ -53908,7 +53956,7 @@
         {
           "id": 8885893,
           "label": "1A403030000283D000057727",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-19",
           "expirationDate": null
         }
@@ -55600,7 +55648,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Pina Colada DV",
       "strainType": null,
@@ -55634,7 +55682,7 @@
         {
           "id": 8765564,
           "label": "1A40303000001F5000408122",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2026-12-17"
         }
@@ -57636,7 +57684,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Watermelon Z",
       "strainType": "Indica",
@@ -57670,7 +57718,7 @@
         {
           "id": 8944071,
           "label": "1A40303000003EA000264681",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         }
