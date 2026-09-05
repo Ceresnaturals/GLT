@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T21:40:26.284983+00:00",
+  "generated_at": "2026-09-05T21:50:25.881291+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -644,56 +644,6 @@
           "quantity": 12.0,
           "packagedDate": "2026-03-02",
           "expirationDate": "2027-02-22"
-        }
-      ]
-    },
-    {
-      "id": 8269516,
-      "packageCount": 1,
-      "name": "1g_MF_LiveBudder_Marshmallow_Indica (260316MED092784)-Concentrate",
-      "brand": null,
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 7.0,
-      "unit": "Each",
-      "strainName": "Marshmallow",
-      "strainType": "Indica",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 62.87,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.38,
-        "CBN": 0.0,
-        "THCA": 71.69,
-        "THCV": 0.33
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.22,
-        "humulene": 0.27,
-        "myrcene": 1.16,
-        "alpha-pinene": 0.28,
-        "caryophyllene": 1.01,
-        "beta-pinene": 0.38,
-        "limonene": 2.79,
-        "linalool": 0.3,
-        "terpinolene": 0.1
-      },
-      "totalTerps": 7.45,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8269516,
-          "label": "1A403030000238D000095029",
-          "quantity": 7.0,
-          "packagedDate": "2026-04-01",
-          "expirationDate": "2027-03-22"
         }
       ]
     },
@@ -9395,7 +9345,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Z Cream",
       "strainType": null,
@@ -9429,7 +9379,7 @@
         {
           "id": 8947319,
           "label": "1A4030300000C83000086907",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-25"
         }
@@ -19764,7 +19714,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 43.0,
+      "quantity": 42.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19805,7 +19755,7 @@
         {
           "id": 8939228,
           "label": "1A4030300003522000210567",
-          "quantity": 43.0,
+          "quantity": 42.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-19"
         }
@@ -22225,6 +22175,63 @@
       ]
     },
     {
+      "id": 8787116,
+      "packageCount": 1,
+      "name": "Shineapple Jams Remix - Edible Product - 10mg - 10",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 17.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.19,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.106,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.1
+      },
+      "dose": {
+        "servingSize": "One Gummy",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 5.3,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 5.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8787116,
+          "label": "1A4030300000193000102919",
+          "quantity": 17.0,
+          "packagedDate": "2026-07-28",
+          "expirationDate": "2027-06-03"
+        }
+      ]
+    },
+    {
       "id": 8926292,
       "packageCount": 1,
       "name": "Smokiez Blackberry Indica 10mg Medicated Chews-Edible Product-10mg-10",
@@ -22923,6 +22930,63 @@
           "quantity": 7.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8787117,
+      "packageCount": 1,
+      "name": "Sour Green Apple Jams - Edible Product - 5mg - 20",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.093,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "One gummy",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 5.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8787117,
+          "label": "1A4030300000193000102920",
+          "quantity": 16.0,
+          "packagedDate": "2026-07-28",
+          "expirationDate": "2027-05-12"
         }
       ]
     },
@@ -25832,7 +25896,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 10.5,
       "unit": "Grams",
       "strainName": "Yum Yum",
       "strainType": null,
@@ -25867,7 +25931,7 @@
         {
           "id": 8894094,
           "label": "1A4030300003A3C000089886",
-          "quantity": 14.0,
+          "quantity": 10.5,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-07-29"
         }
@@ -26614,7 +26678,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 87.5,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Chem de la Chem TC",
       "strainType": null,
@@ -26646,7 +26710,7 @@
         {
           "id": 8947221,
           "label": "1A40303000001F5000425604",
-          "quantity": 87.5,
+          "quantity": 84.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -30390,7 +30454,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 17.5,
       "unit": "Grams",
       "strainName": "Mango Mintality",
       "strainType": null,
@@ -30422,7 +30486,7 @@
         {
           "id": 8606884,
           "label": "1A4030300002009000105202",
-          "quantity": 21.0,
+          "quantity": 17.5,
           "packagedDate": "2026-06-17",
           "expirationDate": "2027-05-20"
         }
@@ -31417,7 +31481,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 32.0,
+      "quantity": 31.0,
       "unit": "Grams",
       "strainName": "Sour Jack",
       "strainType": null,
@@ -31450,7 +31514,7 @@
         {
           "id": 8490482,
           "label": "1A4030300002009000102667",
-          "quantity": 32.0,
+          "quantity": 31.0,
           "packagedDate": "2026-05-21",
           "expirationDate": "2027-04-17"
         }
@@ -34397,7 +34461,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Grams",
       "strainName": "Highaleah",
       "strainType": null,
@@ -34432,7 +34496,7 @@
         {
           "id": 8922973,
           "label": "1A403030000012E000187010",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-07-10"
         }
@@ -39189,7 +39253,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.61,
+      "quantity": 14.11,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato TC",
       "strainType": null,
@@ -39220,7 +39284,7 @@
         {
           "id": 8765566,
           "label": "1A40303000001F5000408132",
-          "quantity": 17.61,
+          "quantity": 14.11,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
@@ -53082,7 +53146,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "MD VP MDGECK 05CR",
       "strainType": null,
@@ -53115,7 +53179,7 @@
         {
           "id": 8745225,
           "label": "1A40303000007D1000090204",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-07-20",
           "expirationDate": null
         }
@@ -53131,7 +53195,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "MD VP MDLYCK 05CR",
       "strainType": null,
@@ -53164,7 +53228,7 @@
         {
           "id": 8872245,
           "label": "1A40303000007D1000093660",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-08-17",
           "expirationDate": null
         }
@@ -53872,7 +53936,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Northern Lights",
       "strainType": null,
@@ -53905,7 +53969,7 @@
         {
           "id": 8945079,
           "label": "1A403030000283D000060836",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -55313,7 +55377,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Papayahuasca",
       "strainType": null,
@@ -55346,7 +55410,7 @@
         {
           "id": 8858443,
           "label": "1A40303000039D1000091567",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-05-15"
         }
@@ -55535,6 +55599,56 @@
           "quantity": 15.0,
           "packagedDate": "2026-01-13",
           "expirationDate": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "id": 8765564,
+      "packageCount": 1,
+      "name": "Pina Colada DV 0.5g/500mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 4.0,
+      "unit": "Each",
+      "strainName": "Pina Colada DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 79.67,
+        "totalCBD": 0.21,
+        "CBC": 1.07,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.72,
+        "CBGA": 0.0,
+        "CBN": 0.24,
+        "THCA": 0.0,
+        "THCV": 0.84
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.04,
+        "myrcene": 0.23,
+        "alpha-pinene": 0.6,
+        "caryophyllene": 0.85,
+        "beta-pinene": 0.5,
+        "limonene": 2.15,
+        "linalool": 0.43,
+        "terpinolene": 0.08
+      },
+      "totalTerps": 5.28,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8765564,
+          "label": "1A40303000001F5000408122",
+          "quantity": 4.0,
+          "packagedDate": "2026-07-23",
+          "expirationDate": "2026-12-17"
         }
       ]
     },
