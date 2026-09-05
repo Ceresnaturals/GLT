@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T21:10:28.033886+00:00",
+  "generated_at": "2026-09-05T21:20:26.278990+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -29,7 +29,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -70,7 +70,7 @@
         {
           "id": 8909468,
           "label": "1A4030300000C83000081192",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-03-12"
         }
@@ -27858,7 +27858,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 140.5,
+      "quantity": 137.0,
       "unit": "Grams",
       "strainName": "Bapple Fritz",
       "strainType": null,
@@ -27892,7 +27892,7 @@
         {
           "id": 8083908,
           "label": "1A4030300003521000045578",
-          "quantity": 140.5,
+          "quantity": 137.0,
           "packagedDate": "2026-02-16",
           "expirationDate": "2027-01-01"
         }
@@ -28400,7 +28400,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 49.0,
+      "quantity": 45.5,
       "unit": "Grams",
       "strainName": "LA Baker",
       "strainType": null,
@@ -28436,7 +28436,7 @@
         {
           "id": 8923151,
           "label": "1A403030000012E000187018",
-          "quantity": 49.0,
+          "quantity": 45.5,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-08-19"
         }
@@ -41373,7 +41373,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Frosted Dream .0gX",
       "strainType": null,
@@ -41407,7 +41407,7 @@
         {
           "id": 8858493,
           "label": "1A40303000001F5000416978",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-05-27"
         }
@@ -42382,7 +42382,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "X Golden Pineapple",
       "strainType": null,
@@ -42417,7 +42417,7 @@
         {
           "id": 8919181,
           "label": "1A40303000001F5000423335",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-20"
         }
@@ -43465,6 +43465,58 @@
           "quantity": 6.0,
           "packagedDate": "2026-08-25",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8849829,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Fab Fuel - 1g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 8.0,
+      "unit": "Each",
+      "strainName": "Fab Fuel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 81.39,
+        "CBC": 1.05,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.01,
+        "CBGA": 0.0,
+        "CBN": 0.42,
+        "THCA": 0.0,
+        "THCV": 0.91
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.37,
+        "humulene": 0.07,
+        "myrcene": 0.61,
+        "alpha-pinene": 0.18,
+        "caryophyllene": 0.91,
+        "eudesmol": 0.18,
+        "beta-pinene": 0.17,
+        "ocimene": 0.4,
+        "limonene": 1.13,
+        "linalool": 0.31,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 4.73,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8849829,
+          "label": "1A403030000283D000057286",
+          "quantity": 8.0,
+          "packagedDate": "2026-08-11",
+          "expirationDate": "2027-05-13"
         }
       ]
     },
@@ -56807,7 +56859,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Fruit Punch",
       "strainType": null,
@@ -56840,7 +56892,7 @@
         {
           "id": 8883698,
           "label": "1A4030300000C83000085448",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-06-17"
         }
