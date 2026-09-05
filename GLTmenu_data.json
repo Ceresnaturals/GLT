@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T13:10:25.923833+00:00",
+  "generated_at": "2026-09-05T13:20:26.435054+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -14857,8 +14857,8 @@
       ]
     },
     {
-      "id": 8764129,
-      "packageCount": 1,
+      "id": 8909902,
+      "packageCount": 2,
       "name": "Disco - Dark Chocolate (Fel) - Edible Product - 10mg - 10",
       "brand": "Disco",
       "category": "Edible",
@@ -14866,13 +14866,13 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.19,
+        "totalTHC": 0.22,
         "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
@@ -14904,6 +14904,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8909902,
+          "label": "1A4030300000C83000081193",
+          "quantity": 25.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-07-30"
+        },
         {
           "id": 8764129,
           "label": "1A4030300000C83000080155",
@@ -36443,7 +36450,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 129.5,
       "unit": "Grams",
