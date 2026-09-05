@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T20:10:25.898739+00:00",
+  "generated_at": "2026-09-05T20:20:30.900208+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2748,7 +2748,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Wedding Cake Bx1",
       "strainType": "Indica",
@@ -2782,7 +2782,7 @@
         {
           "id": 8944210,
           "label": "1A40303000003EA000264679",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-01"
         }
@@ -10082,8 +10082,8 @@
       ]
     },
     {
-      "id": 8890125,
-      "packageCount": 1,
+      "id": 8947753,
+      "packageCount": 2,
       "name": "Keef - Blue Razz - Liquid Edible - 10mg - 1",
       "brand": null,
       "category": "Drink",
@@ -10091,7 +10091,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10129,6 +10129,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8947753,
+          "label": "1A40303000001F5000425697",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": "2027-07-14"
+        },
         {
           "id": 8890125,
           "label": "1A40303000001F5000420083",
@@ -10363,6 +10370,63 @@
           "quantity": 20.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-05-12"
+        }
+      ]
+    },
+    {
+      "id": 8947754,
+      "packageCount": 1,
+      "name": "Keef - Pineapple X-Press - Liquid Edible - 10mg - 1",
+      "brand": null,
+      "category": "Drink",
+      "metrcCategory": "Infused Liquid Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.003,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Can",
+        "totalThcMg": 10.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8947754,
+          "label": "1A40303000001F5000425698",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": "2027-07-15"
         }
       ]
     },
@@ -14510,7 +14574,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14549,7 +14613,7 @@
         {
           "id": 8894078,
           "label": "1A403030000012D000261763",
-          "quantity": 12.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -39252,7 +39316,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 112.0,
+      "quantity": 98.0,
       "unit": "Grams",
       "strainName": "Groovy Diesel",
       "strainType": null,
@@ -39286,7 +39350,7 @@
         {
           "id": 8716255,
           "label": "1A40303000000C9000163169",
-          "quantity": 112.0,
+          "quantity": 98.0,
           "packagedDate": "2026-07-13",
           "expirationDate": null
         }
@@ -46747,7 +46811,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "El Chivo",
       "strainType": null,
@@ -46783,7 +46847,7 @@
         {
           "id": 8758176,
           "label": "1A4030300004845000034914",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-05-18",
           "expirationDate": null
         }
