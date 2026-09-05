@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T17:10:31.436747+00:00",
+  "generated_at": "2026-09-05T17:20:30.710570+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -19,6 +19,63 @@
     "Vape"
   ],
   "products": [
+    {
+      "id": 8909468,
+      "packageCount": 1,
+      "name": "ALLCAPS 100mg - Capsule - 100mg - 10",
+      "brand": null,
+      "category": "Capsule",
+      "metrcCategory": "Infused Edible (Capsule Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 17.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 13.45,
+        "totalCBD": 0.09,
+        "CBC": 0.1,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.5,
+        "CBGA": 0.0,
+        "CBN": 0.06,
+        "THCA": 0.0,
+        "THCV": 0.07
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 1000.0,
+        "thcMgPerServing": 100.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.07,
+          "CBC": 0.078,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.39,
+          "CBGA": 0.0,
+          "CBN": 0.047,
+          "THCA": 0.0,
+          "THCV": 0.055
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8909468,
+          "label": "1A4030300000C83000081192",
+          "quantity": 17.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-03-12"
+        }
+      ]
+    },
     {
       "id": 8793069,
       "packageCount": 1,
@@ -203,7 +260,7 @@
       "category": "Capsule",
       "metrcCategory": "Infused Edible (Capsule Only)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -1099,7 +1156,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Black Triangle",
       "strainType": null,
@@ -1135,7 +1192,7 @@
         {
           "id": 8911264,
           "label": "1A403030000283D000060420",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-25",
           "expirationDate": null
         }
@@ -1151,7 +1208,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Dark Rainbow",
       "strainType": null,
@@ -1185,7 +1242,7 @@
         {
           "id": 8768209,
           "label": "1A403030000283D000056952",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-02-19"
         }
@@ -1201,7 +1258,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Durban Poison",
       "strainType": null,
@@ -1235,7 +1292,7 @@
         {
           "id": 8911262,
           "label": "1A403030000283D000060419",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-25",
           "expirationDate": null
         }
@@ -1539,7 +1596,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Diesel",
       "strainType": null,
@@ -1572,7 +1629,7 @@
         {
           "id": 8690397,
           "label": "1A403030000283D000052774",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-06-05"
         }
@@ -14392,7 +14449,7 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 24.0,
       "unit": "Each",
@@ -21059,6 +21116,63 @@
       ]
     },
     {
+      "id": 8920048,
+      "packageCount": 1,
+      "name": "Incredibles Gummy 100mg - Lemon Lime Boost (1:2 THCv:THC) - Edible Product - 10mg - 10 Pieces",
+      "brand": "Incredibles",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.35,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.03,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.18
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.9,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 5.4
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8920048,
+          "label": "1A40303000003EA000206305",
+          "quantity": 25.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-07-15"
+        }
+      ]
+    },
+    {
       "id": 8944208,
       "packageCount": 2,
       "name": "Incredibles Gummy 100mg - Snoozzzeberry (5:1 THC:CBN) - Edible Product - 10mg - 10 Pieces",
@@ -21424,7 +21538,7 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 15.0,
       "unit": "Each",
@@ -22409,7 +22523,7 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 12.0,
       "unit": "Each",
@@ -32190,7 +32304,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Blueberry Dream Juicy Stickz",
       "strainType": null,
@@ -32225,7 +32339,7 @@
         {
           "id": 8922969,
           "label": "1A403030000012E000187003",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-05-08"
         }
@@ -37686,7 +37800,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 37.0,
+      "quantity": 36.0,
       "unit": "Grams",
       "strainName": "Puro Loco",
       "strainType": null,
@@ -37719,7 +37833,7 @@
         {
           "id": 8890369,
           "label": "1A40303000001F5000420175",
-          "quantity": 37.0,
+          "quantity": 36.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -41447,6 +41561,56 @@
       ]
     },
     {
+      "id": 8947225,
+      "packageCount": 1,
+      "name": "Airo Pod Melon Mist 2.0gX",
+      "brand": "Airo",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Melon Mist .0gX",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.55,
+        "totalCBD": 0.16,
+        "CBC": 0.24,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.26,
+        "CBGA": 0.0,
+        "CBN": 0.45,
+        "THCA": 0.0,
+        "THCV": 0.26
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.13,
+        "myrcene": 0.12,
+        "alpha-pinene": 3.53,
+        "caryophyllene": 0.46,
+        "beta-pinene": 1.16,
+        "limonene": 0.84,
+        "linalool": 0.24,
+        "terpinolene": 0.57
+      },
+      "totalTerps": 7.58,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 8947225,
+          "label": "1A40303000001F5000425610",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": "2027-08-06"
+        }
+      ]
+    },
+    {
       "id": 8919084,
       "packageCount": 1,
       "name": "Airo Pod Midnight Moon 0.5g/500mg",
@@ -42111,7 +42275,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "X Chem de La Chem",
       "strainType": null,
@@ -42145,7 +42309,7 @@
         {
           "id": 8919087,
           "label": "1A40303000001F5000423334",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-08-05"
         }
@@ -42161,7 +42325,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "X Golden Pineapple",
       "strainType": null,
@@ -42196,7 +42360,7 @@
         {
           "id": 8919181,
           "label": "1A40303000001F5000423335",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-20"
         }
@@ -44370,7 +44534,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Blueberry Dream",
       "strainType": null,
@@ -44399,7 +44563,7 @@
         {
           "id": 8671235,
           "label": "1A403030000012E000172675",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-05-16"
         }
@@ -44415,7 +44579,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Blueberry Dream",
       "strainType": null,
@@ -44444,7 +44608,7 @@
         {
           "id": 8873611,
           "label": "1A403030000012E000183584",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-06-13"
         }
@@ -44507,7 +44671,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Bomb Popz",
       "strainType": null,
@@ -44544,7 +44708,7 @@
         {
           "id": 8821029,
           "label": "1A403030000012E000181563",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-05-22"
         }
@@ -48082,56 +48246,6 @@
           "quantity": 12.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-04-25"
-        }
-      ]
-    },
-    {
-      "id": 8873571,
-      "packageCount": 1,
-      "name": "Grape Stomper Distillate Cartridge Hellavated - Vape Cart - 1.0 g",
-      "brand": "Hellavated",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Grape Stomper",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 85.48,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.88,
-        "CBGA": 0.0,
-        "CBN": 0.45,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.24,
-        "humulene": 0.06,
-        "myrcene": 0.19,
-        "alpha-pinene": 0.22,
-        "caryophyllene": 0.26,
-        "beta-pinene": 0.15,
-        "limonene": 0.93,
-        "linalool": 0.26,
-        "nerolidol": 0.25
-      },
-      "totalTerps": 2.56,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8873571,
-          "label": "1A403030000012E000183582",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-17",
-          "expirationDate": "2027-06-13"
         }
       ]
     },
