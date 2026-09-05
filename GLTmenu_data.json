@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T17:50:29.771172+00:00",
+  "generated_at": "2026-09-05T18:00:31.731017+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -26711,6 +26711,54 @@
       ]
     },
     {
+      "id": 8947223,
+      "packageCount": 1,
+      "name": "Chem de la Chem - Pre Pack Bud - 28 gram - Bag",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 448.0,
+      "unit": "Grams",
+      "strainName": "Chem de la Chem TC",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.28,
+        "totalCBD": 0.25,
+        "CBDA": 0.06,
+        "CBG": 0.69,
+        "CBN": 0.03,
+        "THCA": 33.87
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.04,
+        "humulene": 0.28,
+        "myrcene": 0.54,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.62,
+        "beta-pinene": 0.06,
+        "limonene": 0.54,
+        "linalool": 0.09,
+        "terpinolene": 0.01,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.32,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8947223,
+          "label": "1A40303000001F5000425607",
+          "quantity": 448.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8751133,
       "packageCount": 1,
       "name": "Cherry Chocolate Widow | Georgies | 1g",
@@ -32651,6 +32699,54 @@
       ]
     },
     {
+      "id": 8854453,
+      "packageCount": 1,
+      "name": "Chicken n' Wafflez Big Dogs - Dogwalkers (Play) - Usable - 0.75g",
+      "brand": "Dogwalkers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 17.25,
+      "unit": "Grams",
+      "strainName": "Chicken n' Wafflez",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.61,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.59,
+        "CBN": 0.0,
+        "THCA": 31.2,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.11,
+        "myrcene": 0.17,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.3,
+        "beta-pinene": 0.09,
+        "limonene": 0.57,
+        "linalool": 0.39
+      },
+      "totalTerps": 1.87,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8854453,
+          "label": "1A40303000003EA000202543",
+          "quantity": 17.25,
+          "packagedDate": "2026-08-12",
+          "expirationDate": "2027-07-06"
+        }
+      ]
+    },
+    {
       "id": 8886214,
       "packageCount": 1,
       "name": "Concentrate- Patapeake Shortbread x THCa Isolate Infused (.35g Joints) 5 Pack 1.75g",
@@ -37809,7 +37905,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Grams",
       "strainName": "Pineapple Bang 5",
       "strainType": null,
@@ -37842,7 +37938,7 @@
         {
           "id": 8854308,
           "label": "1A40303000000CB000049631",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-07-03"
         }
@@ -39351,7 +39447,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.61,
+      "quantity": 38.61,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato TC",
       "strainType": null,
@@ -39382,7 +39478,7 @@
         {
           "id": 8765566,
           "label": "1A40303000001F5000408132",
-          "quantity": 45.61,
+          "quantity": 38.61,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
@@ -52118,7 +52214,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Permanent Marker",
       "strainType": null,
@@ -52152,7 +52248,7 @@
         {
           "id": 8499476,
           "label": "1A4030300002199000051396",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2025-10-03",
           "expirationDate": "2026-10-03"
         }
@@ -52218,7 +52314,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Tropicana Cookies",
       "strainType": null,
@@ -52253,7 +52349,7 @@
         {
           "id": 8954300,
           "label": "1A4030300002199000062284",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-06-23"
         }
@@ -53885,7 +53981,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Green Crack",
       "strainType": null,
@@ -53919,7 +54015,7 @@
         {
           "id": 8945349,
           "label": "1A403030000283D000060837",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -53986,7 +54082,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": null,
@@ -54020,7 +54116,7 @@
         {
           "id": 8945348,
           "label": "1A403030000283D000060835",
-          "quantity": 27.0,
+          "quantity": 25.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -57061,7 +57157,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Magic Melon",
       "strainType": null,
@@ -57093,7 +57189,7 @@
         {
           "id": 8940645,
           "label": "1A4030300000C83000086772",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-13"
         }
