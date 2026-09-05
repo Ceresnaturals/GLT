@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T18:10:31.801274+00:00",
+  "generated_at": "2026-09-05T18:20:30.918603+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11917,7 +11917,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11956,7 +11956,7 @@
         {
           "id": 8882284,
           "label": "1A4030300003522000202243",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-23"
         }
@@ -25930,7 +25930,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 17.5,
       "unit": "Grams",
       "strainName": "B52 Bomber",
       "strainType": null,
@@ -25966,7 +25966,7 @@
         {
           "id": 8894097,
           "label": "1A4030300003A3C000089887",
-          "quantity": 20.0,
+          "quantity": 17.5,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-07-02"
         }
@@ -26696,6 +26696,54 @@
           "id": 8947223,
           "label": "1A40303000001F5000425607",
           "quantity": 448.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8947221,
+      "packageCount": 1,
+      "name": "Chem de la Chem - Pre Pack Bud - 3.5 gram - Plastic Container",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 87.5,
+      "unit": "Grams",
+      "strainName": "Chem de la Chem TC",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.97,
+        "totalCBD": 0.25,
+        "CBDA": 0.06,
+        "CBG": 0.69,
+        "CBN": 0.03,
+        "THCA": 35.12
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.04,
+        "humulene": 0.35,
+        "myrcene": 0.57,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.83,
+        "beta-pinene": 0.09,
+        "limonene": 0.67,
+        "linalool": 0.09,
+        "terpinolene": 0.01,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.82,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8947221,
+          "label": "1A40303000001F5000425604",
+          "quantity": 87.5,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -30787,7 +30835,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 5.0,
       "unit": "Grams",
       "strainName": "Guava Jam",
       "strainType": null,
@@ -30818,7 +30866,7 @@
         {
           "id": 8838519,
           "label": "1A4030300003A3C000087958",
-          "quantity": 10.0,
+          "quantity": 5.0,
           "packagedDate": "2026-05-01",
           "expirationDate": "2027-05-01"
         }
@@ -35228,7 +35276,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -35263,7 +35311,7 @@
         {
           "id": 8894077,
           "label": "1A403030000012D000261762",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -35799,7 +35847,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 12.25,
       "unit": "Grams",
       "strainName": "Chunky Monkey",
       "strainType": null,
@@ -35831,7 +35879,7 @@
         {
           "id": 8745272,
           "label": "1A403030000025B000080881",
-          "quantity": 14.0,
+          "quantity": 12.25,
           "packagedDate": "2026-07-09",
           "expirationDate": "2027-06-25"
         }
@@ -36733,57 +36781,6 @@
       ]
     },
     {
-      "id": 8911028,
-      "packageCount": 1,
-      "name": "Multi Pack- Orange Drizzle Pre-Rolls (x7 0.5g Joints) 3.5g",
-      "brand": null,
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 7.0,
-      "unit": "Grams",
-      "strainName": "Orange Drizzle",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 30.5,
-        "totalCBD": 0.06,
-        "CBC": 0.0,
-        "CBDA": 0.069,
-        "CBDV": 0.0,
-        "CBG": 0.18,
-        "CBGA": 1.944,
-        "CBN": 0.0,
-        "THCA": 34.37,
-        "THCV": 0.174
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.0371,
-        "humulene": 0.199,
-        "myrcene": 0.106,
-        "alpha-pinene": 0.0273,
-        "caryophyllene": 0.775,
-        "beta-pinene": 0.0425,
-        "limonene": 0.344,
-        "linalool": 0.236,
-        "nerolidol": 0.0513
-      },
-      "totalTerps": 1.97,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8911028,
-          "label": "1A40303000000CB000050579",
-          "quantity": 7.0,
-          "packagedDate": "2026-08-25",
-          "expirationDate": "2027-07-28"
-        }
-      ]
-    },
-    {
       "id": 8947324,
       "packageCount": 1,
       "name": "Multi Pack- Peach RuntZ (x7 0.5g Joints) 3.5g",
@@ -37071,6 +37068,55 @@
           "id": 8882304,
           "label": "1A4030300003521000056056",
           "quantity": 19.0,
+          "packagedDate": "2026-08-18",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8882306,
+      "packageCount": 1,
+      "name": "NH Chestah The Cheetah Preroll-Usable-.5g 5pk",
+      "brand": "NH",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 60.0,
+      "unit": "Grams",
+      "strainName": "Chestah The Cheetah",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 21.12,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.77,
+        "CBN": 0.0,
+        "THCA": 23.74,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.15,
+        "myrcene": 0.12,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.46,
+        "beta-pinene": 0.04,
+        "limonene": 0.22,
+        "linalool": 0.12
+      },
+      "totalTerps": 1.29,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8882306,
+          "label": "1A4030300003521000056058",
+          "quantity": 60.0,
           "packagedDate": "2026-08-18",
           "expirationDate": null
         }
@@ -38343,7 +38389,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 25.0,
       "unit": "Grams",
@@ -50663,6 +50709,56 @@
           "label": "1A4030300003522000210566",
           "quantity": 24.0,
           "packagedDate": "2026-09-01",
+          "expirationDate": "2027-08-11"
+        }
+      ]
+    },
+    {
+      "id": 8882182,
+      "packageCount": 1,
+      "name": "In House Trainwreck-Vape Cart-1g",
+      "brand": "In House",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 22.0,
+      "unit": "Each",
+      "strainName": "Trainwreck",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.88,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.95,
+        "CBGA": 0.0,
+        "CBN": 1.5,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.34,
+        "myrcene": 0.41,
+        "alpha-pinene": 0.27,
+        "caryophyllene": 1.09,
+        "beta-pinene": 0.18,
+        "ocimene": 0.78,
+        "limonene": 1.01,
+        "linalool": 0.32,
+        "terpinolene": 1.43
+      },
+      "totalTerps": 5.91,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8882182,
+          "label": "1A4030300003522000202236",
+          "quantity": 22.0,
+          "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-11"
         }
       ]
