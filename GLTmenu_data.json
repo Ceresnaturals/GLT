@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T17:20:30.710570+00:00",
+  "generated_at": "2026-09-05T17:30:27.306240+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1596,7 +1596,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Diesel",
       "strainType": null,
@@ -1629,7 +1629,7 @@
         {
           "id": 8690397,
           "label": "1A403030000283D000052774",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-06-05"
         }
@@ -5670,7 +5670,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "MD EXT MDHZFC 35LB",
       "strainType": null,
@@ -5705,7 +5705,7 @@
         {
           "id": 8745118,
           "label": "1A40303000007D1000090205",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-20",
           "expirationDate": null
         }
@@ -7481,7 +7481,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Strawberry Jelly",
       "strainType": null,
@@ -7515,7 +7515,7 @@
         {
           "id": 8939244,
           "label": "1A4030300003522000210579",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-19"
         }
@@ -23715,6 +23715,63 @@
       ]
     },
     {
+      "id": 8947233,
+      "packageCount": 1,
+      "name": "Sunnies - SDG OG - Peaches & Cream Live Resin Gummies - Edible Product - 10mg - 10Pcs",
+      "brand": "Sunnies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.26,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8947233,
+          "label": "1A40303000001F5000425619",
+          "quantity": 20.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": "2027-08-03"
+        }
+      ]
+    },
+    {
       "id": 8890517,
       "packageCount": 1,
       "name": "Sunnies - Sugar Free Strawberry Banana Gummies - Edible Product - 5mg - 20Pc",
@@ -32849,7 +32906,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Grams",
       "strainName": "Alien Burger",
       "strainType": null,
@@ -32883,7 +32940,7 @@
         {
           "id": 8952843,
           "label": "1A403030000012D000265626",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -34149,6 +34206,54 @@
       ]
     },
     {
+      "id": 8947154,
+      "packageCount": 1,
+      "name": "GMO x Skywalker OG - Pre Roll Joints - 0.5 gram - 2 Pack",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 50.0,
+      "unit": "Grams",
+      "strainName": "GMO x Skywalker OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.26,
+        "totalCBD": 0.32,
+        "CBDA": 0.04,
+        "CBG": 0.35,
+        "CBN": 0.01,
+        "THCA": 33.06
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.18,
+        "myrcene": 0.44,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.45,
+        "beta-pinene": 0.08,
+        "ocimene": 0.01,
+        "limonene": 0.41,
+        "linalool": 0.23,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.06,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8947154,
+          "label": "1A40303000001F5000425609",
+          "quantity": 50.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8922972,
       "packageCount": 1,
       "name": "Gas Smack Strane - Pre-rolls - 1 g",
@@ -34358,7 +34463,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Gush Mints Dust",
       "strainType": null,
@@ -34388,7 +34493,7 @@
         {
           "id": 8890376,
           "label": "1A40303000001F5000420183",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-17"
         }
@@ -35454,7 +35559,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Grams",
       "strainName": "Khalifa Mints",
       "strainType": null,
@@ -35489,7 +35594,7 @@
         {
           "id": 8142475,
           "label": "1A40303000000C9000137239",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-03-02",
           "expirationDate": "2026-09-28"
         }
@@ -35554,7 +35659,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Ice Cream Banger",
       "strainType": null,
@@ -35587,7 +35692,7 @@
         {
           "id": 8601355,
           "label": "1A4030300002199000053122",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-02-23",
           "expirationDate": null
         }
@@ -37995,7 +38100,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 53.0,
+      "quantity": 52.0,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
@@ -38030,7 +38135,7 @@
         {
           "id": 8911103,
           "label": "1A40303000000CB000050580",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         },
@@ -38235,6 +38340,54 @@
           "quantity": 13.0,
           "packagedDate": "2026-07-08",
           "expirationDate": "2027-06-05"
+        }
+      ]
+    },
+    {
+      "id": 8947224,
+      "packageCount": 1,
+      "name": "SDG OG - Pre Roll Joints - 0.5 gram - 5 Pack Tin",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Grams",
+      "strainName": "SDG OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.62,
+        "totalCBD": 0.33,
+        "CBDA": 0.04,
+        "CBG": 0.68,
+        "CBN": 0.01,
+        "THCA": 35.2
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.33,
+        "myrcene": 0.76,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.99,
+        "beta-pinene": 0.07,
+        "limonene": 0.41,
+        "linalool": 0.14,
+        "terpinolene": 0.01,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.91,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8947224,
+          "label": "1A40303000001F5000425608",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": null
         }
       ]
     },
@@ -38591,7 +38744,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 12.25,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -38624,7 +38777,7 @@
         {
           "id": 8911030,
           "label": "1A40303000000CB000050581",
-          "quantity": 14.0,
+          "quantity": 12.25,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-10"
         }
@@ -39245,7 +39398,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 56.11,
+      "quantity": 45.61,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato TC",
       "strainType": null,
@@ -39276,7 +39429,7 @@
         {
           "id": 8765566,
           "label": "1A40303000001F5000408132",
-          "quantity": 56.11,
+          "quantity": 45.61,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
@@ -41115,7 +41268,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Black Mamba .0gX",
       "strainType": null,
@@ -41147,7 +41300,7 @@
         {
           "id": 8890374,
           "label": "1A40303000001F5000420181",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-17"
         }
@@ -42920,7 +43073,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Banana Pancakes",
       "strainType": null,
@@ -42955,7 +43108,7 @@
         {
           "id": 8890378,
           "label": "1A40303000001F5000420185",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2026-12-24"
         }
@@ -43218,7 +43371,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Chem Cookies",
       "strainType": null,
@@ -43253,7 +43406,7 @@
         {
           "id": 8911260,
           "label": "1A403030000283D000060415",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-06-24"
         }
@@ -43473,7 +43626,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Grapefruit Diesel",
       "strainType": null,
@@ -43507,7 +43660,7 @@
         {
           "id": 8849721,
           "label": "1A403030000283D000057282",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-11",
           "expirationDate": null
         }
@@ -46490,7 +46643,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Edie Parker Maui Mango",
       "strainType": "Sativa",
@@ -46525,7 +46678,7 @@
         {
           "id": 8828888,
           "label": "1A403030000012D000259349",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -55656,7 +55809,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Pina Colada DV",
       "strainType": null,
@@ -55690,7 +55843,7 @@
         {
           "id": 8765564,
           "label": "1A40303000001F5000408122",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2026-12-17"
         }
