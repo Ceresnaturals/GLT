@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T19:40:25.776238+00:00",
+  "generated_at": "2026-09-05T19:50:29.212542+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -5027,7 +5027,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -10536,6 +10536,63 @@
       ]
     },
     {
+      "id": 8947814,
+      "packageCount": 1,
+      "name": "Sunnies Socials - Black Cherry Sparkling Water - Liquid Edible -10mg -1",
+      "brand": "Sunnies",
+      "category": "Drink",
+      "metrcCategory": "Infused Liquid Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.003,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Can",
+        "totalThcMg": 10.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8947814,
+          "label": "1A40303000001F5000425701",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": "2027-07-21"
+        }
+      ]
+    },
+    {
       "id": 8920197,
       "packageCount": 1,
       "name": "Sunnies Socials - Peach Sparkling Water - Liquid Edible -10mg -1",
@@ -10650,16 +10707,17 @@
       ]
     },
     {
-      "id": 8890212,
-      "packageCount": 1,
+      "id": 8947815,
+      "packageCount": 2,
       "name": "Sunnies Socials -Watermelon Sparkling Water - Liquid Edible -10mg -1",
       "brand": "Sunnies",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10697,6 +10755,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8947815,
+          "label": "1A40303000001F5000425702",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": "2027-07-31"
+        },
         {
           "id": 8890212,
           "label": "1A40303000001F5000420085",
@@ -10887,7 +10952,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10928,7 +10993,7 @@
         {
           "id": 8946522,
           "label": "1A4030300000C83000081470",
-          "quantity": 24.0,
+          "quantity": 20.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-17"
         }
@@ -17475,7 +17540,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17523,7 +17588,7 @@
         {
           "id": 8516272,
           "label": "1A403030000012E000162105",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-05-27",
           "expirationDate": "2026-11-09"
         }
@@ -21304,7 +21369,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21345,7 +21410,7 @@
         {
           "id": 8891520,
           "label": "1A40303000003EA000205080",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-05-18"
         }
@@ -23268,7 +23333,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23309,7 +23374,7 @@
         {
           "id": 8819286,
           "label": "1A40303000001F5000412901",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-07-02"
         }
@@ -24123,7 +24188,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -24164,7 +24229,7 @@
         {
           "id": 8689787,
           "label": "1A4030300003522000201326",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-06-24"
         }
@@ -30098,7 +30163,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 105.0,
+      "quantity": 101.5,
       "unit": "Grams",
       "strainName": "Rainbow Walker",
       "strainType": null,
@@ -30131,7 +30196,7 @@
         {
           "id": 8849580,
           "label": "1A40303000040D9000005598",
-          "quantity": 105.0,
+          "quantity": 101.5,
           "packagedDate": "2026-08-11",
           "expirationDate": "2027-08-10"
         }
@@ -43665,7 +43730,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Orange Apricot",
       "strainType": null,
@@ -43701,7 +43766,7 @@
         {
           "id": 8768206,
           "label": "1A403030000283D000056947",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-19"
         }
@@ -43818,7 +43883,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Wedding Cake",
       "strainType": null,
@@ -43853,7 +43918,7 @@
         {
           "id": 8911344,
           "label": "1A403030000283D000060418",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-25",
           "expirationDate": null
         }
@@ -53573,7 +53638,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Maui Wowie",
       "strainType": null,
@@ -53607,7 +53672,7 @@
         {
           "id": 8919303,
           "label": "1A40303000001F5000423343",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-05-27"
         }
@@ -57819,55 +57884,6 @@
       ]
     },
     {
-      "id": 8902253,
-      "packageCount": 1,
-      "name": "Savvy Cartridge - Grape Kush - Vape Cart - 1g",
-      "brand": "Savvy",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": "Grape Kush",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 85.57,
-        "CBC": 0.73,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.36,
-        "CBGA": 0.0,
-        "CBN": 0.37,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.14,
-        "myrcene": 2.52,
-        "alpha-pinene": 0.6,
-        "caryophyllene": 0.8,
-        "beta-pinene": 0.54,
-        "limonene": 3.14,
-        "linalool": 0.52,
-        "terpinolene": 0.09
-      },
-      "totalTerps": 8.65,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8902253,
-          "label": "1A40303000017D5000104296",
-          "quantity": 2.0,
-          "packagedDate": "2026-08-12",
-          "expirationDate": "2027-08-12"
-        }
-      ]
-    },
-    {
       "id": 8870926,
       "packageCount": 1,
       "name": "Savvy Cartridge - Juicy Mango - Vape Cart - 1g",
@@ -58996,7 +59012,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Super Sour Diesel DV",
       "strainType": null,
@@ -59029,7 +59045,7 @@
         {
           "id": 8947156,
           "label": "1A40303000001F5000425615",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-14"
         }
@@ -59146,7 +59162,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Tangie",
       "strainType": null,
@@ -59180,7 +59196,7 @@
         {
           "id": 8821104,
           "label": "1A403030000012E000181561",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-06-26"
         }
