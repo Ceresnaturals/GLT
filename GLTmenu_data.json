@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T14:20:25.660858+00:00",
+  "generated_at": "2026-09-05T14:30:27.919143+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -6992,7 +6992,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -20295,7 +20295,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20336,7 +20336,7 @@
         {
           "id": 8882360,
           "label": "1A4030300003522000202264",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-03"
         }
@@ -36452,7 +36452,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 129.5,
+      "quantity": 126.0,
       "unit": "Grams",
       "strainName": "Deadband x GC5 #12",
       "strainType": null,
@@ -36486,7 +36486,7 @@
         {
           "id": 8947059,
           "label": "1A40303000000CB000051191",
-          "quantity": 129.5,
+          "quantity": 126.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         }
@@ -53906,7 +53906,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": "Northern Lights",
       "strainType": null,
@@ -53939,7 +53939,7 @@
         {
           "id": 8945079,
           "label": "1A403030000283D000060836",
-          "quantity": 29.0,
+          "quantity": 28.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -55723,56 +55723,6 @@
       ]
     },
     {
-      "id": 8922977,
-      "packageCount": 1,
-      "name": "Pineapple Express Distillate Cartridge Strane - Vape Cart - 1 g",
-      "brand": "Strane",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 7.0,
-      "unit": "Each",
-      "strainName": "Pineapple Express",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 84.11,
-        "CBC": 0.43,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.51,
-        "CBGA": 0.0,
-        "CBN": 0.4,
-        "THCA": 0.0,
-        "THCV": 0.86
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.22,
-        "myrcene": 1.09,
-        "alpha-pinene": 1.28,
-        "caryophyllene": 0.69,
-        "beta-pinene": 0.49,
-        "ocimene": 3.2,
-        "limonene": 4.12,
-        "linalool": 0.36,
-        "terpinolene": 0.59
-      },
-      "totalTerps": 12.5,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8922977,
-          "label": "1A403030000012E000187016",
-          "quantity": 7.0,
-          "packagedDate": "2026-08-27",
-          "expirationDate": "2027-07-03"
-        }
-      ]
-    },
-    {
       "id": 8756259,
       "packageCount": 1,
       "name": "Pineapple Krush Cloud Bar Hellavated - Vape Cart - 1 g",
@@ -56271,7 +56221,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Raspberry Cough",
       "strainType": null,
@@ -56305,7 +56255,7 @@
         {
           "id": 8873612,
           "label": "1A403030000012E000183006",
-          "quantity": 3.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-06-26"
         }
@@ -58827,52 +58777,6 @@
           "quantity": 7.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-06-26"
-        }
-      ]
-    },
-    {
-      "id": 8873569,
-      "packageCount": 1,
-      "name": "Strawberry Haze Distillate Cartridge Hellavated - Vape Cart - 1.0 g",
-      "brand": "Hellavated",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": "Strawberry Haze",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 84.85,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 4.27,
-        "CBGA": 0.0,
-        "CBN": 0.46,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "myrcene": 0.13,
-        "alpha-pinene": 1.46,
-        "caryophyllene": 0.22,
-        "beta-pinene": 0.2,
-        "limonene": 0.45
-      },
-      "totalTerps": 2.46,
-      "dominantTerpene": "alpha-pinene",
-      "packages": [
-        {
-          "id": 8873569,
-          "label": "1A403030000012E000183011",
-          "quantity": 2.0,
-          "packagedDate": "2026-08-17",
-          "expirationDate": "2027-05-31"
         }
       ]
     },
