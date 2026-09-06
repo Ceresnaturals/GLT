@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T19:40:29.153957+00:00",
+  "generated_at": "2026-09-06T19:50:31.469120+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12260,7 +12260,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 20.0,
       "unit": "Each",
@@ -25762,6 +25762,58 @@
       ]
     },
     {
+      "id": 8944209,
+      "packageCount": 1,
+      "name": "Animal Face Pre-Pack (Buds) - Rythm (Indica Dominant) - Usable - 3.5g",
+      "brand": "Rythm",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 87.5,
+      "unit": "Grams",
+      "strainName": "Animal Face",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.98,
+        "totalCBD": 0.07,
+        "CBC": 0.0,
+        "CBDA": 0.08,
+        "CBDV": 0.0,
+        "CBG": 0.13,
+        "CBGA": 1.62,
+        "CBN": 0.0,
+        "THCA": 32.94,
+        "THCV": 0.15
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.21,
+        "myrcene": 1.11,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.61,
+        "beta-pinene": 0.11,
+        "caryophyllene-oxide": 0.02,
+        "limonene": 0.8,
+        "linalool": 0.59,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 3.71,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8944209,
+          "label": "1A40303000003EA000264674",
+          "quantity": 87.5,
+          "packagedDate": "2026-09-02",
+          "expirationDate": "2027-08-11"
+        }
+      ]
+    },
+    {
       "id": 8091552,
       "packageCount": 1,
       "name": "Apollo 22-PR-0.5gx2",
@@ -26290,6 +26342,55 @@
           "quantity": 49.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8943242,
+      "packageCount": 1,
+      "name": "Charm Biscuitz 8ths",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 224.0,
+      "unit": "Grams",
+      "strainName": "Charm Biscuitz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.29,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.75,
+        "CBN": 0.0,
+        "THCA": 28.13,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.14,
+        "myrcene": 2.42,
+        "caryophyllene": 0.42,
+        "beta-pinene": 0.03,
+        "ocimene": 0.15,
+        "limonene": 0.1,
+        "linalool": 0.19
+      },
+      "totalTerps": 3.54,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8943242,
+          "label": "1A40303000040D9000005971",
+          "quantity": 224.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-08-31"
         }
       ]
     },
@@ -27227,56 +27328,6 @@
       ]
     },
     {
-      "id": 8920779,
-      "packageCount": 1,
-      "name": "Grape Gas Cake 14g Half Oz",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 14.0,
-      "unit": "Grams",
-      "strainName": "Grape Gas Cake",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 23.81,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.66,
-        "CBN": 0.0,
-        "THCA": 26.99,
-        "THCV": 0.15
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.08,
-        "humulene": 0.09,
-        "myrcene": 0.55,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 0.32,
-        "eudesmol": 0.15,
-        "beta-pinene": 0.05,
-        "limonene": 0.34,
-        "linalool": 0.19
-      },
-      "totalTerps": 1.98,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8920779,
-          "label": "1A40303000040D9000005942",
-          "quantity": 14.0,
-          "packagedDate": "2026-08-26",
-          "expirationDate": "2027-08-25"
-        }
-      ]
-    },
-    {
       "id": 8922981,
       "packageCount": 1,
       "name": "Gumbo Limbo #35 Strane \"Growers Series\" - Usable - 3.5 g",
@@ -27518,6 +27569,56 @@
           "quantity": 70.0,
           "packagedDate": "2026-06-24",
           "expirationDate": "2027-02-18"
+        }
+      ]
+    },
+    {
+      "id": 8923389,
+      "packageCount": 1,
+      "name": "Ice Cream Cake Untrimmed Small Buds Pre-Pack 28g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 112.0,
+      "unit": "Grams",
+      "strainName": "Ice Cream Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.21,
+        "totalCBD": 0.088,
+        "CBC": 0.0,
+        "CBDA": 0.1,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.05,
+        "CBN": 0.0,
+        "THCA": 32.96,
+        "THCV": 0.15
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.31,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.16,
+        "caryophyllene": 0.95,
+        "beta-pinene": 0.13,
+        "limonene": 0.85,
+        "linalool": 0.33,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.12,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8923389,
+          "label": "1A40303000000CB000050891",
+          "quantity": 112.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": "2027-08-11"
         }
       ]
     },
@@ -28413,6 +28514,56 @@
           "quantity": 12.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-07-21"
+        }
+      ]
+    },
+    {
+      "id": 8947053,
+      "packageCount": 1,
+      "name": "Lucky Orchard Pre-Pack 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 224.0,
+      "unit": "Grams",
+      "strainName": "Lucky Orchard",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.38,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.09,
+        "CBGA": 0.35,
+        "CBN": 0.0,
+        "THCA": 35.23,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.18,
+        "myrcene": 0.36,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 0.75,
+        "beta-pinene": 0.14,
+        "limonene": 1.06,
+        "linalool": 0.74,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.75,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8947053,
+          "label": "1A40303000000CB000051186",
+          "quantity": 224.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": "2027-08-18"
         }
       ]
     },
@@ -30023,6 +30174,55 @@
       ]
     },
     {
+      "id": 8944067,
+      "packageCount": 1,
+      "name": "Scotch & Soda Pre-Pack (Buds) - Rythm (Hybrid) - Usable - 3.5g",
+      "brand": "Rythm",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 87.5,
+      "unit": "Grams",
+      "strainName": "Scotch & Soda",
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.33,
+        "totalCBD": 0.08,
+        "CBC": 0.0,
+        "CBDA": 0.09,
+        "CBDV": 0.0,
+        "CBG": 0.16,
+        "CBGA": 0.32,
+        "CBN": 0.0,
+        "THCA": 31.59,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.06,
+        "myrcene": 1.26,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.17,
+        "beta-pinene": 0.07,
+        "limonene": 0.44,
+        "linalool": 0.15
+      },
+      "totalTerps": 2.29,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8944067,
+          "label": "1A40303000003EA000264675",
+          "quantity": 87.5,
+          "packagedDate": "2026-09-02",
+          "expirationDate": "2027-07-28"
+        }
+      ]
+    },
+    {
       "id": 8751944,
       "packageCount": 1,
       "name": "Small A$$ Buds|Small Flower|Blockberry|Usable|3.5g",
@@ -30269,6 +30469,56 @@
       ]
     },
     {
+      "id": 8923689,
+      "packageCount": 1,
+      "name": "Sunset Octane Untrimmed Small Buds Pre-Pack 28g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 196.0,
+      "unit": "Grams",
+      "strainName": "Sunset Octane",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.62,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.17,
+        "CBGA": 1.62,
+        "CBN": 0.0,
+        "THCA": 33.4,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.24,
+        "myrcene": 0.5,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 0.95,
+        "beta-pinene": 0.13,
+        "ocimene": 0.03,
+        "limonene": 0.9,
+        "linalool": 0.33,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.53,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8923689,
+          "label": "1A40303000000CB000050893",
+          "quantity": 196.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": "2027-08-14"
+        }
+      ]
+    },
+    {
       "id": 8947222,
       "packageCount": 1,
       "name": "Sunshine #4-Pre Pack Bud-3.5 gram-Plastic Container",
@@ -30363,6 +30613,55 @@
           "quantity": 45.5,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-08-04"
+        }
+      ]
+    },
+    {
+      "id": 8947055,
+      "packageCount": 1,
+      "name": "Swampwater Fumez Pre-Pack 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 224.0,
+      "unit": "Grams",
+      "strainName": "Swampwater Fumez",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 34.09,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.66,
+        "CBN": 0.0,
+        "THCA": 38.53,
+        "THCV": 0.09
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.33,
+        "myrcene": 0.04,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.94,
+        "beta-pinene": 0.06,
+        "limonene": 0.47,
+        "linalool": 0.65
+      },
+      "totalTerps": 2.61,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8947055,
+          "label": "1A40303000000CB000051188",
+          "quantity": 224.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": "2027-08-11"
         }
       ]
     },
@@ -35685,7 +35984,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Grams",
       "strainName": "Lemon Cherry Gelato",
       "strainType": null,
@@ -35719,7 +36018,7 @@
         {
           "id": 8947045,
           "label": "1A40303000000CB000051183",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-02"
         }
@@ -37186,7 +37485,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 39.0,
+      "quantity": 38.0,
       "unit": "Grams",
       "strainName": "Purple Punch TC",
       "strainType": null,
@@ -37218,7 +37517,7 @@
         {
           "id": 8919171,
           "label": "1A40303000001F5000423329",
-          "quantity": 39.0,
+          "quantity": 38.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -38524,6 +38823,104 @@
       ]
     },
     {
+      "id": 8943241,
+      "packageCount": 1,
+      "name": "Pank Lemonade 5g Shake/Trim",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 160.0,
+      "unit": "Grams",
+      "strainName": "Pank Lemonade",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 21.04,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.22,
+        "CBN": 0.0,
+        "THCA": 23.68,
+        "THCV": 0.05
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.21,
+        "humulene": 0.2,
+        "myrcene": 0.27,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.86,
+        "beta-pinene": 0.04,
+        "limonene": 0.37,
+        "linalool": 0.3
+      },
+      "totalTerps": 2.36,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8943241,
+          "label": "1A40303000040D9000005969",
+          "quantity": 160.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8942955,
+      "packageCount": 1,
+      "name": "Rainbow Walker 5g Shake/Trim",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 160.0,
+      "unit": "Grams",
+      "strainName": "Rainbow Walker",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 19.54,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.58,
+        "CBN": 0.0,
+        "THCA": 21.62,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.07,
+        "myrcene": 0.61,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.26,
+        "beta-pinene": 0.06,
+        "limonene": 0.43,
+        "linalool": 0.24
+      },
+      "totalTerps": 1.87,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8942955,
+          "label": "1A40303000040D9000005970",
+          "quantity": 160.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8765566,
       "packageCount": 1,
       "name": "Shake/Trim - Black Cherry Gelato TC",
@@ -38615,6 +39012,56 @@
           "label": "1A40303000040D9000005940",
           "quantity": 30.0,
           "packagedDate": "2026-08-26",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8942954,
+      "packageCount": 1,
+      "name": "Tear Gas 5g Shake/Trim",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 160.0,
+      "unit": "Grams",
+      "strainName": "Tear Gas -BLVK MRKT",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.19,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.18,
+        "CBN": 0.0,
+        "THCA": 28.35,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.08,
+        "myrcene": 1.36,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.3,
+        "eudesmol": 0.16,
+        "beta-pinene": 0.09,
+        "limonene": 0.59,
+        "linalool": 0.31
+      },
+      "totalTerps": 3.33,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8942954,
+          "label": "1A40303000040D9000005968",
+          "quantity": 160.0,
+          "packagedDate": "2026-09-01",
           "expirationDate": null
         }
       ]
@@ -54210,7 +54657,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Purple Koala",
       "strainType": null,
@@ -54244,7 +54691,7 @@
         {
           "id": 8631522,
           "label": "1A40303000039D1000082054",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-06-23",
           "expirationDate": null
         }
@@ -54642,7 +55089,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Peach Cobbler",
       "strainType": null,
@@ -54672,7 +55119,7 @@
         {
           "id": 8756356,
           "label": "1A403030000012E000176852",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-03-28"
         }
