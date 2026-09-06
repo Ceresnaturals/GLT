@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T16:30:30.559069+00:00",
+  "generated_at": "2026-09-06T16:40:25.473389+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10911,7 +10911,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10952,7 +10952,7 @@
         {
           "id": 8946522,
           "label": "1A4030300000C83000081470",
-          "quantity": 20.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-17"
         }
@@ -11756,116 +11756,6 @@
           "quantity": 23.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-05-14"
-        }
-      ]
-    },
-    {
-      "id": 8882309,
-      "packageCount": 1,
-      "name": "Betty's Eddies Lemon Agave V3 Fruit Chews-Edible Product-10mg-10",
-      "brand": "Betty's Eddies",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 8.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.144,
-        "CBC": 0.002,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.008,
-        "CBGA": 0.0,
-        "CBN": 0.001,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.014,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.057,
-          "CBGA": 0.0,
-          "CBN": 0.007,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8882309,
-          "label": "1A4030300003522000202251",
-          "quantity": 8.0,
-          "packagedDate": "2026-08-18",
-          "expirationDate": "2027-08-02"
-        }
-      ]
-    },
-    {
-      "id": 8882315,
-      "packageCount": 1,
-      "name": "Betty's Eddies Lemon Agave V3 Fruit Chews-Exempt-40mg-10",
-      "brand": "Betty's Eddies",
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 16.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.534,
-        "CBC": 0.006,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.025,
-        "CBGA": 0.0,
-        "CBN": 0.002,
-        "THCA": 0.0,
-        "THCV": 0.005
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 400.0,
-        "thcMgPerServing": 40.0,
-        "minorsMgPerServing": {
-          "CBC": 0.043,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.177,
-          "CBGA": 0.0,
-          "CBN": 0.014,
-          "THCA": 0.0,
-          "THCV": 0.036
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8882315,
-          "label": "1A4030300003522000202257",
-          "quantity": 16.0,
-          "packagedDate": "2026-08-18",
-          "expirationDate": "2027-08-05"
         }
       ]
     },
@@ -20572,7 +20462,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20613,7 +20503,7 @@
         {
           "id": 8939354,
           "label": "1A4030300003522000210573",
-          "quantity": 21.0,
+          "quantity": 18.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-24"
         }
@@ -20741,7 +20631,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20782,7 +20672,7 @@
         {
           "id": 8826445,
           "label": "1A40303000003EA000195250",
-          "quantity": 12.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-02"
         }
@@ -27445,56 +27335,6 @@
       ]
     },
     {
-      "id": 8920779,
-      "packageCount": 1,
-      "name": "Grape Gas Cake 14g Half Oz",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 14.0,
-      "unit": "Grams",
-      "strainName": "Grape Gas Cake",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 23.81,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.66,
-        "CBN": 0.0,
-        "THCA": 26.99,
-        "THCV": 0.15
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.08,
-        "humulene": 0.09,
-        "myrcene": 0.55,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 0.32,
-        "eudesmol": 0.15,
-        "beta-pinene": 0.05,
-        "limonene": 0.34,
-        "linalool": 0.19
-      },
-      "totalTerps": 1.98,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8920779,
-          "label": "1A40303000040D9000005942",
-          "quantity": 14.0,
-          "packagedDate": "2026-08-26",
-          "expirationDate": "2027-08-25"
-        }
-      ]
-    },
-    {
       "id": 8922981,
       "packageCount": 1,
       "name": "Gumbo Limbo #35 Strane \"Growers Series\" - Usable - 3.5 g",
@@ -28395,7 +28235,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 168.0,
+      "quantity": 154.0,
       "unit": "Grams",
       "strainName": "White Truffle",
       "strainType": null,
@@ -28429,7 +28269,7 @@
         {
           "id": 8820132,
           "label": "1A403030000025B000083296",
-          "quantity": 168.0,
+          "quantity": 154.0,
           "packagedDate": "2026-07-22",
           "expirationDate": "2027-07-15"
         }
@@ -30496,7 +30336,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 80.5,
+      "quantity": 66.5,
       "unit": "Grams",
       "strainName": "Sunshine #4",
       "strainType": null,
@@ -30529,7 +30369,7 @@
         {
           "id": 8947222,
           "label": "1A40303000001F5000425605",
-          "quantity": 80.5,
+          "quantity": 66.5,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -52588,6 +52428,50 @@
       ]
     },
     {
+      "id": 8745224,
+      "packageCount": 1,
+      "name": "MD-DP-WATERMELONICE-1PEN",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 9.0,
+      "unit": "Each",
+      "strainName": "MD DP WATERMELONICE 1PEN",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.73,
+        "CBC": 1.17,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.19,
+        "CBGA": 0.0,
+        "CBN": 0.84,
+        "THCA": 0.0,
+        "THCV": 0.97
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.33,
+        "caryophyllene": 0.32,
+        "terpinolene": 0.07
+      },
+      "totalTerps": 2.21,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8745224,
+          "label": "1A40303000007D1000090203",
+          "quantity": 9.0,
+          "packagedDate": "2026-07-20",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8414526,
       "packageCount": 1,
       "name": "MD-VP-MDBNAM-05CR",
@@ -55497,56 +55381,6 @@
       ]
     },
     {
-      "id": 8765363,
-      "packageCount": 1,
-      "name": "Purple Martian DV 0.5g/500mg",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": "Purple Martian DV",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 82.25,
-        "totalCBD": 0.2,
-        "CBC": 1.01,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.8,
-        "CBGA": 0.0,
-        "CBN": 0.24,
-        "THCA": 0.0,
-        "THCV": 0.83
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.24,
-        "myrcene": 2.64,
-        "alpha-pinene": 1.11,
-        "caryophyllene": 0.82,
-        "beta-pinene": 0.38,
-        "limonene": 0.92,
-        "linalool": 0.13,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 6.78,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8765363,
-          "label": "1A40303000001F5000408124",
-          "quantity": 2.0,
-          "packagedDate": "2026-07-23",
-          "expirationDate": "2027-01-22"
-        }
-      ]
-    },
-    {
       "id": 8587006,
       "packageCount": 1,
       "name": "RO-BDTCart-.5g-OGKush-H-MD (260601MED101353)-Vape",
@@ -56046,57 +55880,6 @@
           "quantity": 10.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-13"
-        }
-      ]
-    },
-    {
-      "id": 8811769,
-      "packageCount": 1,
-      "name": "Rove | Classics | Gelato - I | 1.0g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 7.0,
-      "unit": "Each",
-      "strainName": "Classics",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 93.16,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.312,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.108,
-        "humulene": 0.158,
-        "myrcene": 0.039,
-        "caryophyllene": 0.858,
-        "eudesmol": 0.0404,
-        "caryophyllene-oxide": 0.069,
-        "limonene": 0.563,
-        "linalool": 0.143,
-        "terpinolene": 0.0229,
-        "nerolidol": 0.0247
-      },
-      "totalTerps": 2.16,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8811769,
-          "label": "1A4030300000C83000079097",
-          "quantity": 7.0,
-          "packagedDate": "2026-08-03",
-          "expirationDate": "2027-07-06"
         }
       ]
     },
