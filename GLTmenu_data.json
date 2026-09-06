@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T21:40:29.712756+00:00",
+  "generated_at": "2026-09-06T21:50:29.145974+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -24600,6 +24600,61 @@
       ]
     },
     {
+      "id": 8859042,
+      "packageCount": 1,
+      "name": "WYLD SA Gummies - Edible Product-10mg-10",
+      "brand": "WYLD",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 9.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.274,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.012,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.002
+      },
+      "dose": {
+        "servingSize": "1 gummy",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.48,
+          "CBGA": 0.0,
+          "CBN": 0.08,
+          "THCA": 0.0,
+          "THCV": 0.08
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8859042,
+          "label": "1A403030000390D000066173",
+          "quantity": 9.0,
+          "packagedDate": "2026-08-13",
+          "expirationDate": "2027-07-27"
+        }
+      ]
+    },
+    {
       "id": 8857876,
       "packageCount": 2,
       "name": "WYLD SB Gummies - Edible Product-1mg-10",
@@ -26889,7 +26944,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 291.77,
+      "quantity": 288.27,
       "unit": "Grams",
       "strainName": "Earthquake #25",
       "strainType": null,
@@ -26922,7 +26977,7 @@
         {
           "id": 8000715,
           "label": "1A40303000000C9000082241",
-          "quantity": 291.77,
+          "quantity": 288.27,
           "packagedDate": "2026-01-28",
           "expirationDate": "2026-11-23"
         }
@@ -36178,7 +36233,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 115.5,
+      "quantity": 112.0,
       "unit": "Grams",
       "strainName": "Peach Runtz",
       "strainType": null,
@@ -36213,7 +36268,7 @@
         {
           "id": 8947324,
           "label": "1A40303000000CB000051192",
-          "quantity": 115.5,
+          "quantity": 112.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-16"
         }
@@ -36229,7 +36284,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "Rainbow Push Pop #4",
       "strainType": null,
@@ -36262,7 +36317,7 @@
         {
           "id": 8947047,
           "label": "1A40303000000CB000051184",
-          "quantity": 24.5,
+          "quantity": 21.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         }
@@ -38821,7 +38876,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 5.0,
       "unit": "Grams",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -38854,7 +38909,7 @@
         {
           "id": 8920914,
           "label": "1A40303000040D9000005940",
-          "quantity": 15.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -52334,7 +52389,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "London Pound Cake DV",
       "strainType": null,
@@ -52369,7 +52424,7 @@
         {
           "id": 8731417,
           "label": "1A40303000001F5000404836",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2026-12-15"
         }
