@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T15:30:26.286913+00:00",
+  "generated_at": "2026-09-06T15:40:25.257768+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10449,7 +10449,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10490,7 +10490,7 @@
         {
           "id": 8947756,
           "label": "1A40303000001F5000425699",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-29"
         }
@@ -20621,7 +20621,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 21.0,
       "unit": "Each",
@@ -27308,7 +27308,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 80.5,
+      "quantity": 77.0,
       "unit": "Grams",
       "strainName": "Garlic Breath",
       "strainType": null,
@@ -27342,7 +27342,7 @@
         {
           "id": 8768959,
           "label": "1A40303000000C9000164871",
-          "quantity": 80.5,
+          "quantity": 77.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-07-19"
         }
@@ -27946,7 +27946,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 105.0,
+      "quantity": 98.0,
       "unit": "Grams",
       "strainName": "Guava IX",
       "strainType": null,
@@ -27979,7 +27979,7 @@
         {
           "id": 8882266,
           "label": "1A4030300003521000056046",
-          "quantity": 105.0,
+          "quantity": 98.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-30"
         }
@@ -29897,55 +29897,6 @@
           "label": "1A40303000039D1000084244",
           "quantity": 27.5,
           "packagedDate": "2026-07-21",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8858486,
-      "packageCount": 1,
-      "name": "Plantz - Pre Pack Bud - 3.5 gram - Plastic Container",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "Plantz",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 23.34,
-        "totalCBD": 0.19,
-        "CBDA": 0.02,
-        "CBG": 0.43,
-        "CBN": 0.02,
-        "THCA": 26.15
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.05,
-        "myrcene": 0.25,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 0.16,
-        "eudesmol": 0.01,
-        "beta-pinene": 0.07,
-        "ocimene": 0.01,
-        "limonene": 0.34,
-        "linalool": 0.33,
-        "terpinolene": 0.01,
-        "nerolidol": 0.02
-      },
-      "totalTerps": 1.38,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8858486,
-          "label": "1A40303000001F5000416969",
-          "quantity": 3.5,
-          "packagedDate": "2026-08-13",
           "expirationDate": null
         }
       ]
@@ -52399,56 +52350,6 @@
           "quantity": 34.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-02-21"
-        }
-      ]
-    },
-    {
-      "id": 8077934,
-      "packageCount": 1,
-      "name": "Live Liquid Diamonds: Grapefruit Maui-.5g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 34.0,
-      "unit": "Each",
-      "strainName": "Grapefruit Maui",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 79.47,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.16,
-        "myrcene": 4.57,
-        "alpha-pinene": 5.06,
-        "caryophyllene": 0.71,
-        "beta-pinene": 1.71,
-        "ocimene": 0.62,
-        "limonene": 1.69,
-        "linalool": 0.26,
-        "terpinolene": 0.81
-      },
-      "totalTerps": 15.91,
-      "dominantTerpene": "alpha-pinene",
-      "packages": [
-        {
-          "id": 8077934,
-          "label": "1A4030300003D55000004743",
-          "quantity": 34.0,
-          "packagedDate": "2026-02-13",
-          "expirationDate": "2026-10-19"
         }
       ]
     },
