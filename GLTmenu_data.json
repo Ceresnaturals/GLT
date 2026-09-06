@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T21:30:35.165583+00:00",
+  "generated_at": "2026-09-06T21:40:29.712756+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3267,7 +3267,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "GMO x Sour Diesel",
       "strainType": null,
@@ -3304,7 +3304,7 @@
         {
           "id": 8575647,
           "label": "1A40303000001F5000389391",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-06-10",
           "expirationDate": "2027-03-05"
         }
@@ -18892,7 +18892,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18933,7 +18933,7 @@
         {
           "id": 8914783,
           "label": "1A4030300002009000112789",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-05-13"
         }
@@ -22241,8 +22241,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 13.0,
       "unit": "Each",
@@ -24597,61 +24596,6 @@
           "quantity": 2.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-07-05"
-        }
-      ]
-    },
-    {
-      "id": 8859042,
-      "packageCount": 1,
-      "name": "WYLD SA Gummies - Edible Product-10mg-10",
-      "brand": "WYLD",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 9.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.274,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.012,
-        "CBGA": 0.0,
-        "CBN": 0.002,
-        "THCA": 0.0,
-        "THCV": 0.002
-      },
-      "dose": {
-        "servingSize": "1 gummy",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.48,
-          "CBGA": 0.0,
-          "CBN": 0.08,
-          "THCA": 0.0,
-          "THCV": 0.08
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8859042,
-          "label": "1A403030000390D000066173",
-          "quantity": 9.0,
-          "packagedDate": "2026-08-13",
-          "expirationDate": "2027-07-27"
         }
       ]
     },
@@ -29793,7 +29737,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 24.5,
       "unit": "Grams",
       "strainName": "Purple Punch TC",
       "strainType": null,
@@ -29824,7 +29768,7 @@
         {
           "id": 8890367,
           "label": "1A40303000001F5000420172",
-          "quantity": 28.0,
+          "quantity": 24.5,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -33040,7 +32984,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "LA Kush Cake",
       "strainType": null,
@@ -33072,7 +33016,7 @@
         {
           "id": 8790142,
           "label": "1A403030000012D000257806",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-07-28",
           "expirationDate": null
         }
@@ -36136,7 +36080,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 87.5,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Deadband x GC5 #12",
       "strainType": null,
@@ -36170,7 +36114,7 @@
         {
           "id": 8947059,
           "label": "1A40303000000CB000051191",
-          "quantity": 87.5,
+          "quantity": 84.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         }
@@ -38668,57 +38612,6 @@
           "label": "1A4030300002009000105201",
           "quantity": 6.67,
           "packagedDate": "2026-06-17",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8920778,
-      "packageCount": 1,
-      "name": "Dulce de Fresca - 5g Shake/Trim",
-      "brand": null,
-      "category": "Shake/Trim",
-      "metrcCategory": "Shake/Trim (by strain)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 5.0,
-      "unit": "Grams",
-      "strainName": "Dulce de Fresca",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 22.49,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.64,
-        "CBN": 0.0,
-        "THCA": 25.5,
-        "THCV": 0.14
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.08,
-        "humulene": 0.1,
-        "myrcene": 0.53,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 0.27,
-        "eudesmol": 0.1,
-        "beta-pinene": 0.04,
-        "limonene": 0.34,
-        "linalool": 0.09,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 1.73,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8920778,
-          "label": "1A40303000040D9000005941",
-          "quantity": 5.0,
-          "packagedDate": "2026-08-26",
           "expirationDate": null
         }
       ]
@@ -42348,7 +42241,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Baja Blue DV",
       "strainType": null,
@@ -42382,7 +42275,7 @@
         {
           "id": 8731186,
           "label": "1A40303000001F5000404834",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-01-22"
         }
@@ -48688,7 +48581,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Honeydew Kush DV",
       "strainType": null,
@@ -48723,7 +48616,7 @@
         {
           "id": 8858497,
           "label": "1A40303000001F5000416984",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2026-12-15"
         }
@@ -55383,7 +55276,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Pink Lemonade",
       "strainType": null,
@@ -55415,7 +55308,7 @@
         {
           "id": 8919190,
           "label": "1A40303000001F5000423342",
-          "quantity": 20.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-01"
         }
