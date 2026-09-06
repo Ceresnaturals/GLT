@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T17:30:32.863493+00:00",
+  "generated_at": "2026-09-06T17:40:29.244488+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10398,7 +10398,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10439,7 +10439,7 @@
         {
           "id": 8947756,
           "label": "1A40303000001F5000425699",
-          "quantity": 22.0,
+          "quantity": 20.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-29"
         }
@@ -10455,7 +10455,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10496,7 +10496,7 @@
         {
           "id": 8947757,
           "label": "1A40303000001F5000425700",
-          "quantity": 24.0,
+          "quantity": 22.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-30"
         }
@@ -10512,7 +10512,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10553,7 +10553,7 @@
         {
           "id": 8947814,
           "label": "1A40303000001F5000425701",
-          "quantity": 24.0,
+          "quantity": 22.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-21"
         }
@@ -10563,63 +10563,6 @@
       "id": 8920197,
       "packageCount": 1,
       "name": "Sunnies Socials - Peach Sparkling Water - Liquid Edible -10mg -1",
-      "brand": "Sunnies",
-      "category": "Drink",
-      "metrcCategory": "Infused Liquid Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 7.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.003,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Can",
-        "totalThcMg": 10.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8920197,
-          "label": "1A40303000001F5000423552",
-          "quantity": 7.0,
-          "packagedDate": "2026-08-26",
-          "expirationDate": "2027-06-17"
-        }
-      ]
-    },
-    {
-      "id": 8857670,
-      "packageCount": 1,
-      "name": "Sunnies Socials -Pineapple Sparkling Water - Liquid Edible -10mg -1",
       "brand": "Sunnies",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
@@ -10665,9 +10608,66 @@
       "dominantTerpene": null,
       "packages": [
         {
+          "id": 8920197,
+          "label": "1A40303000001F5000423552",
+          "quantity": 4.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-06-17"
+        }
+      ]
+    },
+    {
+      "id": 8857670,
+      "packageCount": 1,
+      "name": "Sunnies Socials -Pineapple Sparkling Water - Liquid Edible -10mg -1",
+      "brand": "Sunnies",
+      "category": "Drink",
+      "metrcCategory": "Infused Liquid Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 2.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.003,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Can",
+        "totalThcMg": 10.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
           "id": 8857670,
           "label": "1A40303000001F5000416955",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-06-16"
         }
@@ -10683,7 +10683,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10724,7 +10724,7 @@
         {
           "id": 8947815,
           "label": "1A40303000001F5000425702",
-          "quantity": 24.0,
+          "quantity": 22.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-31"
         }
@@ -36937,7 +36937,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "Lemon Margy",
       "strainType": null,
@@ -36969,7 +36969,7 @@
         {
           "id": 8882298,
           "label": "1A4030300003521000056057",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-08-18",
           "expirationDate": null
         }
