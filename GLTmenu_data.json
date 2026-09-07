@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T22:50:27.218613+00:00",
+  "generated_at": "2026-09-07T23:00:26.805426+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -26611,6 +26611,54 @@
           "quantity": 42.5,
           "packagedDate": "2026-08-13",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8351548,
+      "packageCount": 1,
+      "name": "Collie Man Kush - Usable - 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 45.5,
+      "unit": "Grams",
+      "strainName": "Collie Man Kush",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.21,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.38,
+        "CBN": 0.0,
+        "THCA": 34.21,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.3,
+        "alpha-pinene": 0.19,
+        "caryophyllene": 0.36,
+        "beta-pinene": 0.16,
+        "limonene": 0.93,
+        "linalool": 0.22
+      },
+      "totalTerps": 2.6,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8351548,
+          "label": "1A4030300000192000030571",
+          "quantity": 45.5,
+          "packagedDate": "2026-04-20",
+          "expirationDate": "2027-02-23"
         }
       ]
     },
