@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T18:30:24.076527+00:00",
+  "generated_at": "2026-09-07T18:40:27.614134+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -27111,6 +27111,57 @@
       ]
     },
     {
+      "id": 8946384,
+      "packageCount": 1,
+      "name": "Fade Co Packaged Flower (Velvet Pie)^ - Usable - 3.5g",
+      "brand": "Fade Co",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 112.0,
+      "unit": "Grams",
+      "strainName": "Velvet Pie",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.26,
+        "totalCBD": 0.07,
+        "CBC": 0.0,
+        "CBDA": 0.08,
+        "CBDV": 0.0,
+        "CBG": 0.12,
+        "CBGA": 1.06,
+        "CBN": 0.0,
+        "THCA": 33.28,
+        "THCV": 0.23
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.09,
+        "myrcene": 0.17,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 0.43,
+        "beta-pinene": 0.17,
+        "ocimene": 0.04,
+        "limonene": 0.94,
+        "linalool": 0.38,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.65,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8946384,
+          "label": "1A4030300004845000041483",
+          "quantity": 112.0,
+          "packagedDate": "2026-06-01",
+          "expirationDate": "2027-06-01"
+        }
+      ]
+    },
+    {
       "id": 8768959,
       "packageCount": 1,
       "name": "Garlic Breath Flower 3.5g",
@@ -27845,6 +27896,55 @@
           "quantity": 24.5,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-27"
+        }
+      ]
+    },
+    {
+      "id": 8946491,
+      "packageCount": 1,
+      "name": "Just Flower Packaged Flower (Head Hunter) - Usable - 4g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 128.0,
+      "unit": "Grams",
+      "strainName": "Head Hunter",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 23.94,
+        "totalCBD": 0.05,
+        "CBC": 0.0,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.13,
+        "CBGA": 0.8,
+        "CBN": 0.0,
+        "THCA": 26.06,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.26,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.93,
+        "beta-pinene": 0.05,
+        "limonene": 0.34,
+        "linalool": 0.43
+      },
+      "totalTerps": 2.17,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8946491,
+          "label": "1A4030300004845000041484",
+          "quantity": 128.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-08-25"
         }
       ]
     },
@@ -38649,6 +38749,57 @@
           "label": "1A40303000000C9000163169",
           "quantity": 56.0,
           "packagedDate": "2026-07-13",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8946809,
+      "packageCount": 1,
+      "name": "Just Flower Packaged Ready to Roll (Cherry Pie) - Usable - 15g",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 240.0,
+      "unit": "Grams",
+      "strainName": "Just Packaged Ready to Roll",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.86,
+        "totalCBD": 0.06,
+        "CBC": 0.0,
+        "CBDA": 0.07,
+        "CBDV": 0.0,
+        "CBG": 0.11,
+        "CBGA": 1.63,
+        "CBN": 0.0,
+        "THCA": 25.3,
+        "THCV": 0.18
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.13,
+        "myrcene": 0.26,
+        "alpha-pinene": 0.12,
+        "caryophyllene": 0.43,
+        "beta-pinene": 0.15,
+        "ocimene": 0.27,
+        "limonene": 0.14,
+        "linalool": 0.01,
+        "terpinolene": 1.2
+      },
+      "totalTerps": 2.9,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8946809,
+          "label": "1A4030300004845000041487",
+          "quantity": 240.0,
+          "packagedDate": "2026-08-25",
           "expirationDate": null
         }
       ]
