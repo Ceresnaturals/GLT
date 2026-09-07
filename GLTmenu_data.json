@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T13:40:25.702025+00:00",
+  "generated_at": "2026-09-07T13:50:26.847921+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9826,52 +9826,6 @@
           "quantity": 7.0,
           "packagedDate": "2026-02-04",
           "expirationDate": "2026-12-30"
-        }
-      ]
-    },
-    {
-      "id": 8395000,
-      "packageCount": 1,
-      "name": "Dr. Solomons Tincture 50mg - Doze (1:1 CBN:THC)-Exempt-1.67mg-30",
-      "brand": null,
-      "category": "Drink",
-      "metrcCategory": "Exempt Liquid Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.379,
-        "CBC": 0.012,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.036,
-        "CBGA": 0.0,
-        "CBN": 0.36,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": ".5mL",
-        "totalThcMg": 50.0,
-        "thcMgPerServing": 1.67,
-        "minorsMgPerServing": {},
-        "minorsEstimated": false
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8395000,
-          "label": "1A40303000003EA000169974",
-          "quantity": 1.0,
-          "packagedDate": "2026-04-29",
-          "expirationDate": "2026-09-05"
         }
       ]
     },
@@ -27621,6 +27575,56 @@
       ]
     },
     {
+      "id": 8923389,
+      "packageCount": 1,
+      "name": "Ice Cream Cake Untrimmed Small Buds Pre-Pack 28g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 112.0,
+      "unit": "Grams",
+      "strainName": "Ice Cream Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.21,
+        "totalCBD": 0.088,
+        "CBC": 0.0,
+        "CBDA": 0.1,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.05,
+        "CBN": 0.0,
+        "THCA": 32.96,
+        "THCV": 0.15
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.31,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.16,
+        "caryophyllene": 0.95,
+        "beta-pinene": 0.13,
+        "limonene": 0.85,
+        "linalool": 0.33,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.12,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8923389,
+          "label": "1A40303000000CB000050891",
+          "quantity": 112.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": "2027-08-11"
+        }
+      ]
+    },
+    {
       "id": 8083908,
       "packageCount": 1,
       "name": "In House Bapple Fritz Flower-Usable-1 Pound",
@@ -40129,58 +40133,6 @@
           "quantity": 3.0,
           "packagedDate": "2026-02-05",
           "expirationDate": "2027-02-01"
-        }
-      ]
-    },
-    {
-      "id": 7854358,
-      "packageCount": 1,
-      "name": "1g_MF_AIO_LLR_Blue Crab_Hybrid (250821MED073297)-Vape Cart",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Blue Crab",
-      "strainType": "Hybrid",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 74.81,
-        "CBC": 0.75,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.49,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.46
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.16,
-        "humulene": 0.14,
-        "myrcene": 2.01,
-        "alpha-pinene": 0.34,
-        "caryophyllene": 0.41,
-        "eudesmol": 0.13,
-        "beta-pinene": 0.27,
-        "caryophyllene-oxide": 0.13,
-        "ocimene": 1.68,
-        "limonene": 1.08,
-        "terpinolene": 6.76
-      },
-      "totalTerps": 14.4,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 7854358,
-          "label": "1A403030000238D000083419",
-          "quantity": 1.0,
-          "packagedDate": "2025-12-17",
-          "expirationDate": "2026-09-07"
         }
       ]
     },
