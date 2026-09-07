@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T19:40:25.278755+00:00",
+  "generated_at": "2026-09-07T19:50:23.513586+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -53632,7 +53632,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Black Cherry Punch",
       "strainType": null,
@@ -53667,7 +53667,7 @@
         {
           "id": 8040378,
           "label": "1A4030300003522000169431",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-02-05",
           "expirationDate": "2026-09-16"
         }
@@ -57468,59 +57468,6 @@
           "quantity": 19.0,
           "packagedDate": "2026-02-24",
           "expirationDate": "2027-01-02"
-        }
-      ]
-    },
-    {
-      "id": 8765565,
-      "packageCount": 1,
-      "name": "Skywalker OG Distillate Vape 1.0g/1000mg",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Skywalker OG",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 79.37,
-        "totalCBD": 0.25,
-        "CBC": 1.18,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.81,
-        "CBGA": 0.0,
-        "CBN": 0.31,
-        "THCA": 0.0,
-        "THCV": 0.82
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.02,
-        "humulene": 0.27,
-        "myrcene": 2.03,
-        "alpha-pinene": 0.25,
-        "caryophyllene": 1.18,
-        "beta-pinene": 0.29,
-        "caryophyllene-oxide": 0.02,
-        "ocimene": 0.07,
-        "limonene": 1.44,
-        "linalool": 0.85,
-        "terpinolene": 0.07
-      },
-      "totalTerps": 7.85,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8765565,
-          "label": "1A40303000001F5000408127",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-23",
-          "expirationDate": "2026-11-03"
         }
       ]
     },
