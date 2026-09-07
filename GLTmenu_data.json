@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T16:10:26.594795+00:00",
+  "generated_at": "2026-09-07T16:20:24.062424+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2078,6 +2078,58 @@
           "quantity": 10.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": 8819351,
+      "packageCount": 1,
+      "name": "Candy Cabal Live Resin Batter 1.0g/1000mg",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 1.0,
+      "unit": "Each",
+      "strainName": "Candy Cabal",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 69.82,
+        "totalCBD": 0.2,
+        "CBC": 0.0,
+        "CBDA": 0.23,
+        "CBDV": 0.0,
+        "CBG": 0.45,
+        "CBGA": 2.09,
+        "CBN": 0.0,
+        "THCA": 77.0,
+        "THCV": 0.58
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.39,
+        "myrcene": 3.61,
+        "alpha-pinene": 0.71,
+        "caryophyllene": 0.96,
+        "beta-pinene": 0.34,
+        "ocimene": 0.33,
+        "limonene": 1.08,
+        "linalool": 0.57,
+        "terpinolene": 0.03
+      },
+      "totalTerps": 8.51,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8819351,
+          "label": "1A40303000001F5000412898",
+          "quantity": 1.0,
+          "packagedDate": "2026-08-05",
+          "expirationDate": "2027-03-05"
         }
       ]
     },
@@ -22207,8 +22259,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 14.0,
       "unit": "Each",
@@ -25666,7 +25717,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 444.43,
+      "quantity": 433.93,
       "unit": "Grams",
       "strainName": "GP II",
       "strainType": null,
@@ -25699,7 +25750,7 @@
         {
           "id": 8751943,
           "label": "1A4030300002009000109419",
-          "quantity": 444.43,
+          "quantity": 433.93,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-05-12"
         }
@@ -37526,7 +37577,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 50.0,
+      "quantity": 48.0,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
@@ -37561,7 +37612,7 @@
         {
           "id": 8911103,
           "label": "1A40303000000CB000050580",
-          "quantity": 17.0,
+          "quantity": 15.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         },
@@ -38821,7 +38872,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 451.18,
+      "quantity": 444.18,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -38853,7 +38904,7 @@
         {
           "id": 8858186,
           "label": "1A40303000001F5000416988",
-          "quantity": 451.18,
+          "quantity": 444.18,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -55153,6 +55204,56 @@
           "quantity": 17.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-05-28"
+        }
+      ]
+    },
+    {
+      "id": 8911019,
+      "packageCount": 1,
+      "name": "Pink CertZ Live Resin Vape Cart 1.0mL",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Each",
+      "strainName": "Pink CertZ",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 74.82,
+        "CBC": 0.51,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.11,
+        "CBGA": 1.49,
+        "CBN": 0.0,
+        "THCA": 3.16,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.23,
+        "humulene": 0.59,
+        "myrcene": 0.93,
+        "alpha-pinene": 0.41,
+        "caryophyllene": 2.34,
+        "beta-pinene": 0.07,
+        "limonene": 2.5,
+        "linalool": 1.87,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 9.78,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8911019,
+          "label": "1A4030300000C83000086196",
+          "quantity": 16.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-08-14"
         }
       ]
     },
