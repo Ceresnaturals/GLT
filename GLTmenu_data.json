@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T15:20:25.771163+00:00",
+  "generated_at": "2026-09-07T15:30:27.159097+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -26200,7 +26200,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 210.0,
+      "quantity": 196.0,
       "unit": "Grams",
       "strainName": "Bodega Gas",
       "strainType": null,
@@ -26234,7 +26234,7 @@
         {
           "id": 8923154,
           "label": "1A403030000012E000187020",
-          "quantity": 210.0,
+          "quantity": 196.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-08-07"
         }
@@ -26297,7 +26297,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 49.0,
       "unit": "Grams",
@@ -40339,7 +40339,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Afternoon Delight",
       "strainType": "Hybrid",
@@ -40373,7 +40373,7 @@
         {
           "id": 8944211,
           "label": "1A40303000003EA000264680",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-23"
         }
@@ -55596,58 +55596,6 @@
           "quantity": 2.0,
           "packagedDate": "2026-05-27",
           "expirationDate": "2027-05-24"
-        }
-      ]
-    },
-    {
-      "id": 8858498,
-      "packageCount": 1,
-      "name": "Raspberry Daydream DV 0.5g/500mg",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 9.0,
-      "unit": "Each",
-      "strainName": "Raspberry Daydream DV",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 87.2,
-        "totalCBD": 0.22,
-        "CBC": 1.08,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.89,
-        "CBGA": 0.0,
-        "CBN": 0.19,
-        "THCA": 0.0,
-        "THCV": 1.03
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.09,
-        "myrcene": 1.75,
-        "alpha-pinene": 1.31,
-        "caryophyllene": 0.88,
-        "beta-pinene": 0.71,
-        "ocimene": 0.02,
-        "limonene": 1.38,
-        "linalool": 0.53,
-        "terpinolene": 0.05
-      },
-      "totalTerps": 7.42,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8858498,
-          "label": "1A40303000001F5000416986",
-          "quantity": 9.0,
-          "packagedDate": "2026-08-13",
-          "expirationDate": "2027-03-26"
         }
       ]
     },
