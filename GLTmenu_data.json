@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T15:10:23.506432+00:00",
+  "generated_at": "2026-09-07T15:20:25.771163+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -14874,7 +14874,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14915,7 +14915,7 @@
         {
           "id": 8909902,
           "label": "1A4030300000C83000081193",
-          "quantity": 25.0,
+          "quantity": 23.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-30"
         }
@@ -15045,7 +15045,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15086,7 +15086,7 @@
         {
           "id": 8946619,
           "label": "1A4030300000C83000081471",
-          "quantity": 23.0,
+          "quantity": 21.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-11"
         }
@@ -24492,16 +24492,15 @@
     },
     {
       "id": 8846254,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "WYLD PR Gummies - Edible Product-10mg-10",
       "brand": "WYLD",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -24543,13 +24542,6 @@
           "quantity": 20.0,
           "packagedDate": "2026-08-11",
           "expirationDate": "2027-07-21"
-        },
-        {
-          "id": 8756161,
-          "label": "1A403030000390D000065029",
-          "quantity": 2.0,
-          "packagedDate": "2026-07-21",
-          "expirationDate": "2027-07-05"
         }
       ]
     },
@@ -30480,7 +30472,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 168.0,
+      "quantity": 140.0,
       "unit": "Grams",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -30514,7 +30506,7 @@
         {
           "id": 8923689,
           "label": "1A40303000000CB000050893",
-          "quantity": 168.0,
+          "quantity": 140.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-08-14"
         }
@@ -33748,7 +33740,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Fruit Loot 3",
       "strainType": null,
@@ -33781,7 +33773,7 @@
         {
           "id": 8918183,
           "label": "1A40303000000CB000050575",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-25"
         }
@@ -38228,7 +38220,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.25,
+      "quantity": 5.25,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -38261,7 +38253,7 @@
         {
           "id": 8911030,
           "label": "1A40303000000CB000050581",
-          "quantity": 12.25,
+          "quantity": 5.25,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-10"
         }
@@ -38918,55 +38910,6 @@
       ]
     },
     {
-      "id": 8920914,
-      "packageCount": 1,
-      "name": "Super Lemon Haze 5g Shake/Trim",
-      "brand": null,
-      "category": "Shake/Trim",
-      "metrcCategory": "Shake/Trim (by strain)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 5.0,
-      "unit": "Grams",
-      "strainName": "Super Lemon Haze",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 20.54,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.23,
-        "CBN": 0.0,
-        "THCA": 22.76,
-        "THCV": 0.17
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.12,
-        "myrcene": 0.46,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.38,
-        "beta-pinene": 0.07,
-        "ocimene": 0.62,
-        "limonene": 0.07,
-        "terpinolene": 0.67
-      },
-      "totalTerps": 2.45,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8920914,
-          "label": "1A40303000040D9000005940",
-          "quantity": 5.0,
-          "packagedDate": "2026-08-26",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8942954,
       "packageCount": 1,
       "name": "Tear Gas 5g Shake/Trim",
@@ -38976,7 +38919,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 160.0,
+      "quantity": 155.0,
       "unit": "Grams",
       "strainName": "Tear Gas -BLVK MRKT",
       "strainType": null,
@@ -39010,7 +38953,7 @@
         {
           "id": 8942954,
           "label": "1A40303000040D9000005968",
-          "quantity": 160.0,
+          "quantity": 155.0,
           "packagedDate": "2026-09-01",
           "expirationDate": null
         }
@@ -53090,55 +53033,6 @@
       ]
     },
     {
-      "id": 8885894,
-      "packageCount": 1,
-      "name": "Mellow Fellow - Disposable Vape - Grandaddy Purp - 1g",
-      "brand": "Mellow Fellow",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Grandaddy Purp",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 82.99,
-        "CBC": 1.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.04,
-        "CBGA": 0.0,
-        "CBN": 0.41,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.33,
-        "humulene": 0.17,
-        "myrcene": 0.7,
-        "alpha-pinene": 0.23,
-        "caryophyllene": 0.6,
-        "beta-pinene": 0.19,
-        "limonene": 1.36,
-        "linalool": 0.4
-      },
-      "totalTerps": 4.24,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8885894,
-          "label": "1A403030000283D000057728",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-19",
-          "expirationDate": "2027-06-25"
-        }
-      ]
-    },
-    {
       "id": 8885946,
       "packageCount": 1,
       "name": "Mellow Fellow - Disposable Vape - Grape Ice OG - 1g",
@@ -53684,6 +53578,58 @@
           "quantity": 2.0,
           "packagedDate": "2026-02-05",
           "expirationDate": "2026-09-16"
+        }
+      ]
+    },
+    {
+      "id": 8342757,
+      "packageCount": 1,
+      "name": "NH Black Cherry Punch Live Rosin Disp-Vape Cart-.5g",
+      "brand": "NH",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 9.0,
+      "unit": "Each",
+      "strainName": "Black Cherry Punch Disp",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 76.85,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.77,
+        "CBGA": 1.69,
+        "CBN": 0.0,
+        "THCA": 19.09,
+        "THCV": 0.5
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.29,
+        "humulene": 0.29,
+        "myrcene": 1.17,
+        "alpha-pinene": 0.56,
+        "caryophyllene": 0.9,
+        "eudesmol": 0.58,
+        "beta-pinene": 0.06,
+        "limonene": 2.67,
+        "linalool": 1.17,
+        "terpinolene": 0.06,
+        "nerolidol": 0.15
+      },
+      "totalTerps": 9.36,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8342757,
+          "label": "1A4030300003522000181546",
+          "quantity": 9.0,
+          "packagedDate": "2026-04-16",
+          "expirationDate": "2027-04-04"
         }
       ]
     },
@@ -56023,7 +55969,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Sour Jack",
       "strainType": null,
@@ -56056,7 +56002,7 @@
         {
           "id": 8812103,
           "label": "1A4030300000C83000079099",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-03",
           "expirationDate": "2027-06-23"
         }
@@ -56072,7 +56018,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Birthday Cake",
       "strainType": null,
@@ -56104,7 +56050,7 @@
         {
           "id": 8940639,
           "label": "1A4030300000C83000086770",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-13"
         }
