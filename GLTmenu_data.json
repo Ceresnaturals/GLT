@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T20:30:24.065774+00:00",
+  "generated_at": "2026-09-07T20:40:23.494693+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8135,7 +8135,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Strawberry Shortcake",
       "strainType": "Indica",
@@ -8169,7 +8169,7 @@
         {
           "id": 8944069,
           "label": "1A40303000003EA000264677",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-14"
         }
@@ -14925,7 +14925,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14966,66 +14966,9 @@
         {
           "id": 8814667,
           "label": "1A4030300000C83000080555",
-          "quantity": 17.0,
+          "quantity": 15.0,
           "packagedDate": "2026-08-04",
           "expirationDate": "2027-07-09"
-        }
-      ]
-    },
-    {
-      "id": 8093504,
-      "packageCount": 1,
-      "name": "Disco Dark Chocolate Peppermint (Fel) - exempt - 40mg - 10",
-      "brand": "Disco",
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.76,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.04,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 each, 10 servings per package",
-        "totalThcMg": 400.0,
-        "thcMgPerServing": 40.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 1.92,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8093504,
-          "label": "1A4030300000C83000049200",
-          "quantity": 3.0,
-          "packagedDate": "2026-02-18",
-          "expirationDate": "2026-10-06"
         }
       ]
     },
@@ -19489,7 +19432,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19530,7 +19473,7 @@
         {
           "id": 8882417,
           "label": "1A4030300003522000202261",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-27"
         }
@@ -28247,58 +28190,6 @@
       ]
     },
     {
-      "id": 8926928,
-      "packageCount": 1,
-      "name": "LEMF-EX-35",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 24.5,
-      "unit": "Grams",
-      "strainName": "LEMF",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 32.09,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.99,
-        "CBN": 0.0,
-        "THCA": 35.73,
-        "THCV": 0.21
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.05,
-        "myrcene": 0.7,
-        "alpha-pinene": 0.12,
-        "caryophyllene": 0.15,
-        "eudesmol": 0.09,
-        "beta-pinene": 0.16,
-        "ocimene": 0.59,
-        "limonene": 0.18,
-        "linalool": 0.17,
-        "terpinolene": 1.1
-      },
-      "totalTerps": 3.65,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8926928,
-          "label": "1A40303000000CD000079029",
-          "quantity": 24.5,
-          "packagedDate": "2026-08-27",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8890135,
       "packageCount": 1,
       "name": "Legend | Flower | Buds | Lemon Splash - Usable - 3.5g",
@@ -28607,7 +28498,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 161.0,
+      "quantity": 157.5,
       "unit": "Grams",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -28641,7 +28532,7 @@
         {
           "id": 8947053,
           "label": "1A40303000000CB000051186",
-          "quantity": 161.0,
+          "quantity": 157.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-18"
         }
@@ -37720,7 +37611,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Cherry Slush",
       "strainType": null,
@@ -37753,7 +37644,7 @@
         {
           "id": 8755913,
           "label": "1A4030300000C83000077904",
-          "quantity": 5.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-06-24"
         }
@@ -39243,7 +39134,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -39291,7 +39182,7 @@
         {
           "id": 8383019,
           "label": "1A4030300003522000185621",
-          "quantity": 5.0,
+          "quantity": 3.0,
           "packagedDate": "2026-04-27",
           "expirationDate": "2027-04-19"
         }
@@ -39307,7 +39198,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -39355,7 +39246,7 @@
         {
           "id": 8939334,
           "label": "1A4030300003522000210563",
-          "quantity": 22.0,
+          "quantity": 20.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-19"
         }
