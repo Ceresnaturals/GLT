@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T20:10:23.576003+00:00",
+  "generated_at": "2026-09-07T20:20:24.835649+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4614,6 +4614,57 @@
           "label": "1A40303000037DD000025223",
           "quantity": 38.0,
           "packagedDate": "2026-08-13",
+          "expirationDate": "2027-06-29"
+        }
+      ]
+    },
+    {
+      "id": 8785081,
+      "packageCount": 1,
+      "name": "Lemon Funk - Cured Sugar - 3.5g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 6.0,
+      "unit": "Each",
+      "strainName": "Lemon Funk",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 73.51,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.07,
+        "CBN": 0.0,
+        "THCA": 78.44,
+        "THCV": 0.45
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.4,
+        "humulene": 0.57,
+        "myrcene": 2.23,
+        "alpha-pinene": 0.37,
+        "caryophyllene": 2.06,
+        "eudesmol": 0.2,
+        "beta-pinene": 0.28,
+        "limonene": 1.95,
+        "linalool": 0.77,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 9.72,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8785081,
+          "label": "ABC0303000037DD000024830",
+          "quantity": 6.0,
+          "packagedDate": "2026-07-28",
           "expirationDate": "2027-06-29"
         }
       ]
@@ -26284,7 +26335,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 210.0,
+      "quantity": 206.5,
       "unit": "Grams",
       "strainName": "Charm Biscuitz",
       "strainType": null,
@@ -26317,7 +26368,7 @@
         {
           "id": 8943242,
           "label": "1A40303000040D9000005971",
-          "quantity": 210.0,
+          "quantity": 206.5,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-31"
         }
@@ -27464,7 +27515,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 24.5,
       "unit": "Grams",
       "strainName": "Han Solo HashBurger",
       "strainType": null,
@@ -27497,7 +27548,7 @@
         {
           "id": 8870114,
           "label": "1A40303000040D9000005721",
-          "quantity": 28.0,
+          "quantity": 24.5,
           "packagedDate": "2026-08-16",
           "expirationDate": "2027-08-15"
         }
@@ -35964,7 +36015,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 12.0,
       "unit": "Grams",
       "strainName": "Lemon Cherry Gelato",
       "strainType": null,
@@ -35998,7 +36049,7 @@
         {
           "id": 8947045,
           "label": "1A40303000000CB000051183",
-          "quantity": 14.0,
+          "quantity": 12.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-02"
         }
@@ -38861,7 +38912,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 409.18,
+      "quantity": 367.18,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -38893,7 +38944,7 @@
         {
           "id": 8858186,
           "label": "1A40303000001F5000416988",
-          "quantity": 409.18,
+          "quantity": 367.18,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -38909,7 +38960,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 150.0,
+      "quantity": 145.0,
       "unit": "Grams",
       "strainName": "Tear Gas -BLVK MRKT",
       "strainType": null,
@@ -38943,7 +38994,7 @@
         {
           "id": 8942954,
           "label": "1A40303000040D9000005968",
-          "quantity": 150.0,
+          "quantity": 145.0,
           "packagedDate": "2026-09-01",
           "expirationDate": null
         }
