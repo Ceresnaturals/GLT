@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T01:50:30.367204+00:00",
+  "generated_at": "2026-09-07T13:00:26.733577+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -25761,6 +25761,55 @@
       ]
     },
     {
+      "id": 8751943,
+      "packageCount": 1,
+      "name": "1937|Trim|GP II|Usable|Bulk|454g",
+      "brand": "1937",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 451.43,
+      "unit": "Grams",
+      "strainName": "GP II",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 19.27,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.53,
+        "CBN": 0.0,
+        "THCA": 21.37,
+        "THCV": 0.09
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.18,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.51,
+        "beta-pinene": 0.06,
+        "limonene": 0.4,
+        "linalool": 0.23
+      },
+      "totalTerps": 1.71,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8751943,
+          "label": "1A4030300002009000109419",
+          "quantity": 451.43,
+          "packagedDate": "2026-07-21",
+          "expirationDate": "2027-05-12"
+        }
+      ]
+    },
+    {
       "id": 8944209,
       "packageCount": 1,
       "name": "Animal Face Pre-Pack (Buds) - Rythm (Indica Dominant) - Usable - 3.5g",
@@ -27568,56 +27617,6 @@
           "quantity": 70.0,
           "packagedDate": "2026-06-24",
           "expirationDate": "2027-02-18"
-        }
-      ]
-    },
-    {
-      "id": 8923389,
-      "packageCount": 1,
-      "name": "Ice Cream Cake Untrimmed Small Buds Pre-Pack 28g",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 112.0,
-      "unit": "Grams",
-      "strainName": "Ice Cream Cake",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 29.21,
-        "totalCBD": 0.088,
-        "CBC": 0.0,
-        "CBDA": 0.1,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 2.05,
-        "CBN": 0.0,
-        "THCA": 32.96,
-        "THCV": 0.15
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.31,
-        "myrcene": 0.07,
-        "alpha-pinene": 0.16,
-        "caryophyllene": 0.95,
-        "beta-pinene": 0.13,
-        "limonene": 0.85,
-        "linalool": 0.33,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 3.12,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8923389,
-          "label": "1A40303000000CB000050891",
-          "quantity": 112.0,
-          "packagedDate": "2026-08-27",
-          "expirationDate": "2027-08-11"
         }
       ]
     },
@@ -38862,6 +38861,54 @@
           "label": "1A40303000001F5000408132",
           "quantity": 3.61,
           "packagedDate": "2026-07-23",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8858186,
+      "packageCount": 1,
+      "name": "Shake/Trim - SDG OG",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 451.18,
+      "unit": "Grams",
+      "strainName": "SDG OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.29,
+        "totalCBD": 0.19,
+        "CBDA": 0.03,
+        "CBG": 0.42,
+        "CBN": 0.02,
+        "THCA": 30.61
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.24,
+        "myrcene": 0.64,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.75,
+        "beta-pinene": 0.06,
+        "limonene": 0.36,
+        "linalool": 0.12,
+        "terpinolene": 0.01,
+        "nerolidol": 0.02
+      },
+      "totalTerps": 2.36,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8858186,
+          "label": "1A40303000001F5000416988",
+          "quantity": 451.18,
+          "packagedDate": "2026-08-13",
           "expirationDate": null
         }
       ]
