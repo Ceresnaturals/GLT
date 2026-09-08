@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T21:10:24.853378+00:00",
+  "generated_at": "2026-09-08T21:20:25.160347+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9789,7 +9789,7 @@
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 24.0,
       "unit": "Each",
@@ -10979,63 +10979,6 @@
           "quantity": 11.0,
           "packagedDate": "2026-05-29",
           "expirationDate": "2027-05-29"
-        }
-      ]
-    },
-    {
-      "id": 8648874,
-      "packageCount": 1,
-      "name": "Avexia Microdose Tablets - 1:1:1 CBN:CBD:THC - Edible Product - 2.5mg - 40pc",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 8.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.784,
-        "totalCBD": 0.765,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.784,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 2.5,
-        "minorsMgPerServing": {
-          "totalCBD": 2.295,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 2.352,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8648874,
-          "label": "1A40303000017D5000097874",
-          "quantity": 8.0,
-          "packagedDate": "2026-06-04",
-          "expirationDate": "2027-06-04"
         }
       ]
     },
@@ -16651,7 +16594,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16690,7 +16633,7 @@
         {
           "id": 8864070,
           "label": "1A403030000012D000260511",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -36743,7 +36686,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Grams",
       "strainName": "Cherimoya",
       "strainType": null,
@@ -36776,7 +36719,7 @@
         {
           "id": 8882304,
           "label": "1A4030300003521000056056",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-18",
           "expirationDate": null
         }
@@ -36891,7 +36834,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Grams",
       "strainName": "Chocolatina",
       "strainType": null,
@@ -36925,7 +36868,7 @@
         {
           "id": 8939204,
           "label": "1A4030300003521000056677",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-20"
         }
@@ -39097,7 +39040,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 125.0,
+      "quantity": 120.0,
       "unit": "Grams",
       "strainName": "Tear Gas -BLVK MRKT",
       "strainType": null,
@@ -39131,7 +39074,7 @@
         {
           "id": 8942954,
           "label": "1A40303000040D9000005968",
-          "quantity": 125.0,
+          "quantity": 120.0,
           "packagedDate": "2026-09-01",
           "expirationDate": null
         }
@@ -55641,7 +55584,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "RO BDTCart PineappleExprss S MD",
       "strainType": null,
@@ -55672,7 +55615,7 @@
         {
           "id": 8516745,
           "label": "1A403030000238D000101100",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-05-27",
           "expirationDate": "2027-05-24"
         }
