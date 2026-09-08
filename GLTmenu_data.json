@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T23:10:30.690984+00:00",
+  "generated_at": "2026-09-08T23:20:24.790219+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -17518,6 +17518,61 @@
       ]
     },
     {
+      "id": 8902325,
+      "packageCount": 1,
+      "name": "Encore Dark Chocolate - 1:1 CBN:THC - Edible Product - 10mg - 10pc",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 7.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.181,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.006,
+        "CBGA": 0.0,
+        "CBN": 0.187,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.336,
+          "CBGA": 0.0,
+          "CBN": 10.472,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8902325,
+          "label": "1A40303000017D5000104293",
+          "quantity": 7.0,
+          "packagedDate": "2026-05-19",
+          "expirationDate": "2027-05-19"
+        }
+      ]
+    },
+    {
       "id": 8556509,
       "packageCount": 1,
       "name": "Encore Dark Chocolate - Sativa RSO - Edible Product - 10mg - 10pc*",
@@ -24920,6 +24975,63 @@
       ]
     },
     {
+      "id": 8820337,
+      "packageCount": 1,
+      "name": "Wana | Edibles | Soft Lozenges | Quick Island Punch Indica - Edible Product - 10mg - 10pk",
+      "brand": "Wana",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 17.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.21,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8820337,
+          "label": "1A4030300002199000058517",
+          "quantity": 17.0,
+          "packagedDate": "2026-05-20",
+          "expirationDate": "2027-05-20"
+        }
+      ]
+    },
+    {
       "id": 8686399,
       "packageCount": 1,
       "name": "Wana | Edibles | Soft Lozenges | Quick Italian Lemon Cream Hybrid - Edible Product - 10mg - 10pk",
@@ -25092,7 +25204,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 10.5,
       "unit": "Grams",
       "strainName": "Forum Cut Cookies",
       "strainType": null,
@@ -25126,7 +25238,7 @@
         {
           "id": 8874094,
           "label": "1A4030300003A3C000089550",
-          "quantity": 14.0,
+          "quantity": 10.5,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-07-21"
         }
@@ -25443,7 +25555,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 70.0,
+      "quantity": 66.5,
       "unit": "Grams",
       "strainName": "Animal Face",
       "strainType": "Indica",
@@ -25479,7 +25591,7 @@
         {
           "id": 8944209,
           "label": "1A40303000003EA000264674",
-          "quantity": 70.0,
+          "quantity": 66.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         }
@@ -26077,7 +26189,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 182.0,
+      "quantity": 178.5,
       "unit": "Grams",
       "strainName": "Charm Biscuitz",
       "strainType": null,
@@ -26110,7 +26222,7 @@
         {
           "id": 8943242,
           "label": "1A40303000040D9000005971",
-          "quantity": 182.0,
+          "quantity": 178.5,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-31"
         }
@@ -26126,7 +26238,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 26.0,
+      "quantity": 22.0,
       "unit": "Grams",
       "strainName": "Chem de la Chem",
       "strainType": null,
@@ -26160,7 +26272,7 @@
         {
           "id": 8908833,
           "label": "1A4030300000192000041094",
-          "quantity": 26.0,
+          "quantity": 22.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-03"
         }
@@ -26618,7 +26730,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 161.0,
+      "quantity": 157.5,
       "unit": "Grams",
       "strainName": "Disco Diesel",
       "strainType": null,
@@ -26651,7 +26763,7 @@
         {
           "id": 8433791,
           "label": "1A40303000000C9000149733",
-          "quantity": 161.0,
+          "quantity": 157.5,
           "packagedDate": "2026-05-08",
           "expirationDate": "2027-05-03"
         }
@@ -29577,7 +29689,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 98.0,
+      "quantity": 91.0,
       "unit": "Grams",
       "strainName": "ONYCD 3.0",
       "strainType": null,
@@ -29611,7 +29723,7 @@
         {
           "id": 8939203,
           "label": "1A4030300003521000056676",
-          "quantity": 98.0,
+          "quantity": 91.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-12"
         }
@@ -35946,7 +36058,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 1.0,
       "unit": "Grams",
       "strainName": "Lemon Cherry Gelato",
       "strainType": null,
@@ -35980,7 +36092,7 @@
         {
           "id": 8947045,
           "label": "1A40303000000CB000051183",
-          "quantity": 3.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-02"
         }
@@ -36147,7 +36259,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 49.0,
+      "quantity": 45.5,
       "unit": "Grams",
       "strainName": "Deadband x GC5 #12",
       "strainType": null,
@@ -36181,7 +36293,7 @@
         {
           "id": 8947059,
           "label": "1A40303000000CB000051191",
-          "quantity": 49.0,
+          "quantity": 45.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         }
@@ -36588,7 +36700,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "Chocolatina",
       "strainType": null,
@@ -36622,7 +36734,7 @@
         {
           "id": 8939204,
           "label": "1A4030300003521000056677",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-20"
         }
@@ -37446,7 +37558,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "Rainbow Push Pop #4",
       "strainType": null,
@@ -37479,7 +37591,7 @@
         {
           "id": 8947325,
           "label": "1A40303000000CB000051195",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         }
@@ -38746,7 +38858,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 244.68,
+      "quantity": 241.18,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -38778,7 +38890,7 @@
         {
           "id": 8858186,
           "label": "1A40303000001F5000416988",
-          "quantity": 244.68,
+          "quantity": 241.18,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -52818,7 +52930,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Green Crack",
       "strainType": null,
@@ -52852,7 +52964,7 @@
         {
           "id": 8945349,
           "label": "1A403030000283D000060837",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -53055,54 +53167,6 @@
           "quantity": 22.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8922975,
-      "packageCount": 1,
-      "name": "Melon Sherbert Distillate Cartridge Hellavated - Vape Cart - 1.0 g",
-      "brand": "Hellavated",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Melon Sherbert",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 86.48,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.88,
-        "CBGA": 0.0,
-        "CBN": 0.46,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "myrcene": 0.1,
-        "alpha-pinene": 0.15,
-        "caryophyllene": 0.17,
-        "beta-pinene": 0.1,
-        "limonene": 0.53,
-        "linalool": 0.23,
-        "nerolidol": 0.23
-      },
-      "totalTerps": 1.51,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8922975,
-          "label": "1A403030000012E000187012",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-27",
-          "expirationDate": "2027-06-13"
         }
       ]
     },
@@ -55444,7 +55508,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Razberry Blitz",
       "strainType": null,
@@ -55475,7 +55539,7 @@
         {
           "id": 8873607,
           "label": "1A403030000012E000183010",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-07-03"
         }
