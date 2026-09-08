@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T14:40:35.739510+00:00",
+  "generated_at": "2026-09-08T14:50:28.042962+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -262,7 +262,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -303,7 +303,7 @@
         {
           "id": 8939253,
           "label": "1A4030300003522000210586",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-04-09"
         }
@@ -17823,63 +17823,6 @@
           "quantity": 8.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-07-02"
-        }
-      ]
-    },
-    {
-      "id": 8683134,
-      "packageCount": 1,
-      "name": "Encore Gummies - Strawberry Peach 2:1 CBD:THC - Edible Product - 10mg - 10pc*",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 5.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.258,
-        "totalCBD": 0.492,
-        "CBC": 0.003,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.002,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 17.22,
-          "CBC": 0.105,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.07,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8683134,
-          "label": "1A40303000017D5000099036",
-          "quantity": 5.0,
-          "packagedDate": "2026-05-26",
-          "expirationDate": "2027-05-26"
         }
       ]
     },
