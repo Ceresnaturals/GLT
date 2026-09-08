@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T16:00:27.741992+00:00",
+  "generated_at": "2026-09-08T16:10:24.233478+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -14980,7 +14980,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 21.0,
       "unit": "Each",
@@ -39993,51 +39993,6 @@
       ]
     },
     {
-      "id": 8238833,
-      "packageCount": 1,
-      "name": "1g_Co2lors_AIO_Blueberry (260317MED092778)-Vape Cart",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Blueberry",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 81.77,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.05,
-        "CBGA": 0.0,
-        "CBN": 0.25,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "alpha-pinene": 5.73,
-        "caryophyllene": 0.25,
-        "beta-pinene": 0.62,
-        "linalool": 0.4
-      },
-      "totalTerps": 7.22,
-      "dominantTerpene": "alpha-pinene",
-      "packages": [
-        {
-          "id": 8238833,
-          "label": "1A403030000238D000094212",
-          "quantity": 1.0,
-          "packagedDate": "2026-03-24",
-          "expirationDate": "2027-03-22"
-        }
-      ]
-    },
-    {
       "id": 7802455,
       "packageCount": 1,
       "name": "1g_Co2lors_AIO_Grape Dreams (251124MED080553)-Vape Cart",
@@ -40142,7 +40097,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Sweet Melon",
       "strainType": null,
@@ -40174,7 +40129,7 @@
         {
           "id": 8043255,
           "label": "1A403030000238D000088487",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-02-05",
           "expirationDate": "2027-02-01"
         }
@@ -44048,7 +44003,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Blueberry Dream",
       "strainType": null,
@@ -44077,7 +44032,7 @@
         {
           "id": 8671235,
           "label": "1A403030000012E000172675",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-05-16"
         }
