@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T13:10:27.010507+00:00",
+  "generated_at": "2026-09-08T13:20:27.111878+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -15372,16 +15372,17 @@
       ]
     },
     {
-      "id": 8631009,
-      "packageCount": 1,
+      "id": 8723652,
+      "packageCount": 2,
       "name": "Discos - Pineapple Passion Fruit 1:1 (CBD:THC) - Edible Product - 10mg - 10",
       "brand": null,
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15419,6 +15420,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8723652,
+          "label": "1A4030300000C83000064895",
+          "quantity": 25.0,
+          "packagedDate": "2026-07-14",
+          "expirationDate": "2027-04-28"
+        },
         {
           "id": 8631009,
           "label": "1A4030300000C83000064231",
@@ -21835,7 +21843,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 12.0,
       "unit": "Each",
@@ -38779,6 +38787,56 @@
       ]
     },
     {
+      "id": 8716255,
+      "packageCount": 1,
+      "name": "Groovy Diesel Shake/Trim 14g",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 56.0,
+      "unit": "Grams",
+      "strainName": "Groovy Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 21.34,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.6,
+        "CBN": 0.0,
+        "THCA": 23.57,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.12,
+        "humulene": 0.13,
+        "myrcene": 0.27,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.53,
+        "beta-pinene": 0.07,
+        "limonene": 0.43,
+        "linalool": 0.35,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 2.19,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8716255,
+          "label": "1A40303000000C9000163169",
+          "quantity": 56.0,
+          "packagedDate": "2026-07-13",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8946809,
       "packageCount": 1,
       "name": "Just Flower Packaged Ready to Roll (Cherry Pie) - Usable - 15g",
@@ -51984,6 +52042,56 @@
       ]
     },
     {
+      "id": 8716505,
+      "packageCount": 1,
+      "name": "Live Liquid Diamonds: Cherry Cough -1g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 37.0,
+      "unit": "Each",
+      "strainName": "Cherry Cough",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 82.21,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 3.92,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.27,
+        "myrcene": 3.01,
+        "alpha-pinene": 1.6,
+        "caryophyllene": 1.43,
+        "beta-pinene": 0.6,
+        "ocimene": 0.06,
+        "limonene": 4.15,
+        "linalool": 0.43,
+        "terpinolene": 0.12
+      },
+      "totalTerps": 12.16,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8716505,
+          "label": "1A4030300003D55000006535",
+          "quantity": 37.0,
+          "packagedDate": "2026-07-13",
+          "expirationDate": "2027-03-28"
+        }
+      ]
+    },
+    {
       "id": 8301787,
       "packageCount": 1,
       "name": "Live Liquid Diamonds: Cherry Wreck -.5g",
@@ -57201,6 +57309,50 @@
           "quantity": 3.0,
           "packagedDate": "2026-06-17",
           "expirationDate": "2027-06-05"
+        }
+      ]
+    },
+    {
+      "id": 8777906,
+      "packageCount": 1,
+      "name": "Savvy Disposable - Summer Melon - Vape Cart - 0.3g",
+      "brand": "Savvy",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 4.0,
+      "unit": "Each",
+      "strainName": "Summer Melon",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.17,
+        "CBC": 0.56,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.45,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "alpha-pinene": 5.97,
+        "caryophyllene": 0.51,
+        "beta-pinene": 0.47
+      },
+      "totalTerps": 7.36,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 8777906,
+          "label": "1A40303000017D5000101326",
+          "quantity": 4.0,
+          "packagedDate": "2026-07-13",
+          "expirationDate": "2027-07-13"
         }
       ]
     },
