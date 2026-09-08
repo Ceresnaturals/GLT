@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T19:10:27.091937+00:00",
+  "generated_at": "2026-09-08T19:20:26.919566+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -27902,7 +27902,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 108.5,
+      "quantity": 105.0,
       "unit": "Grams",
       "strainName": "Gelato 33",
       "strainType": null,
@@ -27935,7 +27935,7 @@
         {
           "id": 8939181,
           "label": "1A4030300003521000056673",
-          "quantity": 108.5,
+          "quantity": 105.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-08"
         }
@@ -36246,7 +36246,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Grams",
       "strainName": "Lemon Cherry Gelato",
       "strainType": null,
@@ -36280,7 +36280,7 @@
         {
           "id": 8947045,
           "label": "1A40303000000CB000051183",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-02"
         }
@@ -38342,7 +38342,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -38374,7 +38374,7 @@
         {
           "id": 8919175,
           "label": "1A40303000001F5000423330",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -39143,7 +39143,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 272.68,
+      "quantity": 269.18,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -39175,7 +39175,7 @@
         {
           "id": 8858186,
           "label": "1A40303000001F5000416988",
-          "quantity": 272.68,
+          "quantity": 269.18,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -53124,7 +53124,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Maui Berry",
       "strainType": null,
@@ -53159,7 +53159,7 @@
         {
           "id": 8858185,
           "label": "1A40303000001F5000416985",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-03-12"
         }
@@ -53267,7 +53267,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Banana Berry Smoothie",
       "strainType": null,
@@ -53299,7 +53299,7 @@
         {
           "id": 8885895,
           "label": "1A403030000283D000057729",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-06-24"
         }
@@ -55928,51 +55928,42 @@
       ]
     },
     {
-      "id": 8756257,
-      "packageCount": 2,
+      "id": 8583678,
+      "packageCount": 1,
       "name": "Razberry Blitz Cloud Bar Hellavated - Vape Cart - 1 g",
       "brand": "Hellavated",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Razberry Blitz",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 83.68,
-        "CBC": 0.0,
+        "totalTHC": 87.93,
+        "CBC": 0.43,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 3.43,
+        "CBG": 2.7,
         "CBGA": 0.0,
-        "CBN": 0.47,
+        "CBN": 0.26,
         "THCA": 0.0,
         "THCV": 0.0
       },
       "dose": null,
       "terpenes": {
-        "myrcene": 0.15,
-        "alpha-pinene": 1.63,
-        "caryophyllene": 0.04,
-        "beta-pinene": 0.24,
-        "limonene": 0.52,
-        "linalool": 0.28
+        "myrcene": 0.13,
+        "alpha-pinene": 1.36,
+        "beta-pinene": 0.2,
+        "limonene": 0.45,
+        "linalool": 0.21
       },
-      "totalTerps": 2.86,
+      "totalTerps": 2.35,
       "dominantTerpene": "alpha-pinene",
       "packages": [
-        {
-          "id": 8756257,
-          "label": "1A403030000012E000176850",
-          "quantity": 12.0,
-          "packagedDate": "2026-07-21",
-          "expirationDate": "2027-05-16"
-        },
         {
           "id": 8583678,
           "label": "1A403030000012E000166356",
