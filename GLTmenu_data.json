@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T21:20:25.160347+00:00",
+  "generated_at": "2026-09-08T21:30:24.678566+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4024,7 +4024,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Znow Flakes",
       "strainType": null,
@@ -4053,7 +4053,7 @@
         {
           "id": 8752046,
           "label": "1A4030300002009000109412",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-07-01"
         }
@@ -5218,50 +5218,6 @@
       ]
     },
     {
-      "id": 8872250,
-      "packageCount": 1,
-      "name": "MD-EXT-DIAMONDDUST-1G",
-      "brand": null,
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": "MD EXT DIAMONDDUST",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 87.31,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 99.56,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.08,
-        "caryophyllene": 0.24,
-        "limonene": 0.12
-      },
-      "totalTerps": 0.44,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8872250,
-          "label": "1A40303000007D1000093665",
-          "quantity": 2.0,
-          "packagedDate": "2026-08-17",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8414622,
       "packageCount": 1,
       "name": "MD-EXT-MDBECK-1LB",
@@ -6214,7 +6170,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Bapple Fritz",
       "strainType": null,
@@ -6244,7 +6200,7 @@
         {
           "id": 8939362,
           "label": "1A4030300003522000210581",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-05-12"
         }
@@ -7090,7 +7046,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Romulan",
       "strainType": null,
@@ -7119,7 +7075,7 @@
         {
           "id": 8690032,
           "label": "1A4030300003522000201340",
-          "quantity": 6.0,
+          "quantity": 4.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-04-06"
         }
@@ -10983,6 +10939,63 @@
       ]
     },
     {
+      "id": 8648874,
+      "packageCount": 1,
+      "name": "Avexia Microdose Tablets - 1:1:1 CBN:CBD:THC - Edible Product - 2.5mg - 40pc",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 8.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.784,
+        "totalCBD": 0.765,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.784,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 2.5,
+        "minorsMgPerServing": {
+          "totalCBD": 2.295,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 2.352,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8648874,
+          "label": "1A40303000017D5000097874",
+          "quantity": 8.0,
+          "packagedDate": "2026-06-04",
+          "expirationDate": "2027-06-04"
+        }
+      ]
+    },
+    {
       "id": 8944207,
       "packageCount": 1,
       "name": "Beboe Gummy 100mg-Cloud 9 (Sparkling Pear) (1:1 THC:CBG)(Thick)-Edible Product-5mg-20 Pieces",
@@ -10992,7 +11005,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11033,7 +11046,7 @@
         {
           "id": 8944207,
           "label": "1A40303000003EA000264672",
-          "quantity": 23.0,
+          "quantity": 20.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-08"
         }
@@ -11725,7 +11738,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11764,7 +11777,7 @@
         {
           "id": 8882284,
           "label": "1A4030300003522000202243",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-23"
         }
@@ -12672,7 +12685,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12711,7 +12724,7 @@
         {
           "id": 8882409,
           "label": "1A4030300003522000202258",
-          "quantity": 13.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-01-18"
         }
@@ -12727,7 +12740,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12768,7 +12781,7 @@
         {
           "id": 8882325,
           "label": "1A4030300003522000202259",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-02-03"
         }
@@ -17339,7 +17352,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17380,7 +17393,7 @@
         {
           "id": 8923138,
           "label": "1A403030000012E000187001",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-03-09"
         }
@@ -24678,7 +24691,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -24719,7 +24732,7 @@
         {
           "id": 8601448,
           "label": "1A4030300002199000053118",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-02-20",
           "expirationDate": "2027-02-20"
         }
@@ -27799,7 +27812,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 101.5,
+      "quantity": 98.0,
       "unit": "Grams",
       "strainName": "Gelato 33",
       "strainType": null,
@@ -27832,7 +27845,7 @@
         {
           "id": 8939181,
           "label": "1A4030300003521000056673",
-          "quantity": 101.5,
+          "quantity": 98.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-08"
         }
@@ -43718,7 +43731,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Classic Surf",
       "strainType": "Indica",
@@ -43753,7 +43766,7 @@
         {
           "id": 8781209,
           "label": "1A4030300000579000044426",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-06-23",
           "expirationDate": null
         }
@@ -44771,7 +44784,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Clementine",
       "strainType": null,
@@ -44805,7 +44818,7 @@
         {
           "id": 8873572,
           "label": "1A403030000012E000183583",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-07-17"
         }
@@ -49821,7 +49834,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Purple Haze",
       "strainType": null,
@@ -49855,7 +49868,7 @@
         {
           "id": 8882187,
           "label": "1A4030300003522000202240",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-05-01"
         }
@@ -52529,7 +52542,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "MD VP MDBNAM 05CR",
       "strainType": null,
@@ -52563,7 +52576,7 @@
         {
           "id": 8414526,
           "label": "1A40303000007D1000074260",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-05-05",
           "expirationDate": null
         }
@@ -52619,55 +52632,6 @@
       ]
     },
     {
-      "id": 8745225,
-      "packageCount": 1,
-      "name": "MD-VP-MDGECK-05CR",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "MD VP MDGECK 05CR",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 78.56,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.28,
-        "CBN": 0.0,
-        "THCA": 17.19,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.57,
-        "myrcene": 0.14,
-        "alpha-pinene": 0.4,
-        "caryophyllene": 1.77,
-        "beta-pinene": 0.31,
-        "limonene": 1.91,
-        "linalool": 1.3,
-        "terpinolene": 0.05
-      },
-      "totalTerps": 7.4,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8745225,
-          "label": "1A40303000007D1000090204",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-20",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8872245,
       "packageCount": 1,
       "name": "MD-VP-MDLYCK-05CR",
@@ -52677,7 +52641,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "MD VP MDLYCK 05CR",
       "strainType": null,
@@ -52710,7 +52674,7 @@
         {
           "id": 8872245,
           "label": "1A40303000007D1000093660",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-08-17",
           "expirationDate": null
         }
