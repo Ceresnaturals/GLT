@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T14:10:26.498123+00:00",
+  "generated_at": "2026-09-08T14:20:32.984288+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12613,7 +12613,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12652,7 +12652,7 @@
         {
           "id": 8882408,
           "label": "1A4030300003522000202253",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-02"
         }
@@ -26113,6 +26113,56 @@
       ]
     },
     {
+      "id": 8926929,
+      "packageCount": 1,
+      "name": "CUR-CW-BB-LESH-14-MD",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 126.0,
+      "unit": "Grams",
+      "strainName": "LESH",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.9,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.6,
+        "CBN": 0.0,
+        "THCA": 33.72,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.14,
+        "humulene": 0.15,
+        "myrcene": 0.16,
+        "alpha-pinene": 0.21,
+        "caryophyllene": 0.63,
+        "beta-pinene": 0.22,
+        "limonene": 1.44,
+        "linalool": 0.3,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.72,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8926929,
+          "label": "1A40303000000CD000079031",
+          "quantity": 126.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8895514,
       "packageCount": 1,
       "name": "CUR-EXC-JAR-MICA-3.5-MD",
@@ -27794,7 +27844,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 112.0,
+      "quantity": 108.5,
       "unit": "Grams",
       "strainName": "Gelato 33",
       "strainType": null,
@@ -27827,7 +27877,7 @@
         {
           "id": 8939181,
           "label": "1A4030300003521000056673",
-          "quantity": 112.0,
+          "quantity": 108.5,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-08"
         }
@@ -36789,7 +36839,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Grams",
       "strainName": "Chocolatina",
       "strainType": null,
@@ -36823,7 +36873,7 @@
         {
           "id": 8939204,
           "label": "1A4030300003521000056677",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-20"
         }
@@ -57121,7 +57171,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Juicy Mango",
       "strainType": null,
@@ -57154,7 +57204,7 @@
         {
           "id": 8870926,
           "label": "1A40303000017D5000103610",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-07-15"
         }
