@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T17:40:25.824017+00:00",
+  "generated_at": "2026-09-08T17:50:26.157379+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4513,58 +4513,6 @@
           "quantity": 34.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-08-04"
-        }
-      ]
-    },
-    {
-      "id": 8862125,
-      "packageCount": 1,
-      "name": "Lemon Funk - Cured Sugar - 1g",
-      "brand": null,
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 38.0,
-      "unit": "Each",
-      "strainName": "Lemon Funk",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 73.41,
-        "totalCBD": 0.614,
-        "CBC": 0.0,
-        "CBDA": 0.7,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.06,
-        "CBN": 0.0,
-        "THCA": 78.31,
-        "THCV": 0.44
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.39,
-        "humulene": 0.57,
-        "myrcene": 1.76,
-        "alpha-pinene": 0.32,
-        "caryophyllene": 2.05,
-        "eudesmol": 0.19,
-        "beta-pinene": 0.24,
-        "limonene": 1.58,
-        "linalool": 0.76,
-        "terpinolene": 0.04
-      },
-      "totalTerps": 8.72,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8862125,
-          "label": "1A40303000037DD000025223",
-          "quantity": 38.0,
-          "packagedDate": "2026-08-13",
-          "expirationDate": "2027-06-29"
         }
       ]
     },
@@ -14708,7 +14656,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14747,7 +14695,7 @@
         {
           "id": 8926297,
           "label": "1A403030000012D000262977",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         }
@@ -33157,7 +33105,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 30.0,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Carolina",
       "strainType": null,
@@ -33191,7 +33139,7 @@
         {
           "id": 8952600,
           "label": "1A403030000012D000265623",
-          "quantity": 30.0,
+          "quantity": 28.0,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -39134,6 +39082,54 @@
       ]
     },
     {
+      "id": 8858186,
+      "packageCount": 1,
+      "name": "Shake/Trim - SDG OG",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 279.68,
+      "unit": "Grams",
+      "strainName": "SDG OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.29,
+        "totalCBD": 0.19,
+        "CBDA": 0.03,
+        "CBG": 0.42,
+        "CBN": 0.02,
+        "THCA": 30.61
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.24,
+        "myrcene": 0.64,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.75,
+        "beta-pinene": 0.06,
+        "limonene": 0.36,
+        "linalool": 0.12,
+        "terpinolene": 0.01,
+        "nerolidol": 0.02
+      },
+      "totalTerps": 2.36,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8858186,
+          "label": "1A40303000001F5000416988",
+          "quantity": 279.68,
+          "packagedDate": "2026-08-13",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8942954,
       "packageCount": 1,
       "name": "Tear Gas 5g Shake/Trim",
@@ -44025,7 +44021,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": null,
@@ -44059,7 +44055,7 @@
         {
           "id": 8890381,
           "label": "1A40303000001F5000420188",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-05-27"
         }
@@ -52831,7 +52827,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "MD VP MDLYCK 05CR",
       "strainType": null,
@@ -52864,7 +52860,7 @@
         {
           "id": 8872245,
           "label": "1A40303000007D1000093660",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-08-17",
           "expirationDate": null
         }
