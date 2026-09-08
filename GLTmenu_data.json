@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T13:00:29.860550+00:00",
+  "generated_at": "2026-09-08T13:10:27.010507+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11429,6 +11429,63 @@
       ]
     },
     {
+      "id": 8882291,
+      "packageCount": 1,
+      "name": "Betty's Eddies Cherry Fruit Chews-Edible Product-10mg-2",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.146,
+        "totalCBD": 0.607,
+        "CBC": 0.071,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.007,
+        "CBGA": 0.0,
+        "CBN": 0.001,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 20.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 21.549,
+          "CBC": 2.52,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.249,
+          "CBGA": 0.0,
+          "CBN": 0.036,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8882291,
+          "label": "1A4030300003522000202246",
+          "quantity": 25.0,
+          "packagedDate": "2026-08-18",
+          "expirationDate": "2027-08-02"
+        }
+      ]
+    },
+    {
       "id": 8939323,
       "packageCount": 1,
       "name": "Betty's Eddies Cherry V3 Fruit Chews-Edible Product-10mg-10",
@@ -11481,6 +11538,63 @@
           "label": "1A4030300003522000210558",
           "quantity": 15.0,
           "packagedDate": "2026-09-01",
+          "expirationDate": "2027-08-02"
+        }
+      ]
+    },
+    {
+      "id": 8882283,
+      "packageCount": 1,
+      "name": "Betty's Eddies Cherry V3 Fruit Chews-Exempt-40mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 3.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.563,
+        "totalCBD": 0.602,
+        "CBC": 0.074,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.029,
+        "CBGA": 0.0,
+        "CBN": 0.003,
+        "THCA": 0.0,
+        "THCV": 0.003
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 4.274,
+          "CBC": 0.525,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.206,
+          "CBGA": 0.0,
+          "CBN": 0.021,
+          "THCA": 0.0,
+          "THCV": 0.021
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8882283,
+          "label": "1A4030300003522000202242",
+          "quantity": 3.0,
+          "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-02"
         }
       ]
@@ -11649,6 +11763,116 @@
           "quantity": 15.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-05"
+        }
+      ]
+    },
+    {
+      "id": 8882296,
+      "packageCount": 1,
+      "name": "Betty's Eddies Orange Creme V3 Fruit Chews-Exempt-40mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 22.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.531,
+        "CBC": 0.072,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.035,
+        "CBGA": 0.0,
+        "CBN": 0.066,
+        "THCA": 0.0,
+        "THCV": 0.004
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "CBC": 0.511,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.249,
+          "CBGA": 0.0,
+          "CBN": 0.469,
+          "THCA": 0.0,
+          "THCV": 0.028
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8882296,
+          "label": "1A4030300003522000202248",
+          "quantity": 22.0,
+          "packagedDate": "2026-08-18",
+          "expirationDate": "2027-07-15"
+        }
+      ]
+    },
+    {
+      "id": 8882284,
+      "packageCount": 1,
+      "name": "Betty's Eddies Passion Fruit V3 Fruit Chews-Edible Product-10mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 7.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.135,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.007,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.014,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.05,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8882284,
+          "label": "1A4030300003522000202243",
+          "quantity": 7.0,
+          "packagedDate": "2026-08-18",
+          "expirationDate": "2027-07-23"
         }
       ]
     },
@@ -15148,17 +15372,16 @@
       ]
     },
     {
-      "id": 8723652,
-      "packageCount": 2,
+      "id": 8631009,
+      "packageCount": 1,
       "name": "Discos - Pineapple Passion Fruit 1:1 (CBD:THC) - Edible Product - 10mg - 10",
       "brand": null,
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15196,13 +15419,6 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
-        {
-          "id": 8723652,
-          "label": "1A4030300000C83000064895",
-          "quantity": 25.0,
-          "packagedDate": "2026-07-14",
-          "expirationDate": "2027-04-28"
-        },
         {
           "id": 8631009,
           "label": "1A4030300000C83000064231",
@@ -20055,6 +20271,63 @@
           "quantity": 20.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-24"
+        }
+      ]
+    },
+    {
+      "id": 8882287,
+      "packageCount": 1,
+      "name": "In House Watermelon Fast Acting V2 Gummies-Exempt-40mg-10",
+      "brand": "In House",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 22.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.81,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.12,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 6.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8882287,
+          "label": "1A4030300003522000202244",
+          "quantity": 22.0,
+          "packagedDate": "2026-08-18",
+          "expirationDate": "2027-07-13"
         }
       ]
     },
@@ -27412,7 +27685,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 112.0,
       "unit": "Grams",
@@ -27511,7 +27784,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 112.0,
       "unit": "Grams",
@@ -29237,7 +29510,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 224.0,
       "unit": "Grams",
@@ -29385,7 +29658,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 224.0,
       "unit": "Grams",
@@ -29436,7 +29709,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 112.0,
       "unit": "Grams",
@@ -38501,56 +38774,6 @@
           "label": "1A40303000000CB000040524",
           "quantity": 4.0,
           "packagedDate": "2026-04-28",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8716255,
-      "packageCount": 1,
-      "name": "Groovy Diesel Shake/Trim 14g",
-      "brand": null,
-      "category": "Shake/Trim",
-      "metrcCategory": "Shake/Trim (by strain)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 56.0,
-      "unit": "Grams",
-      "strainName": "Groovy Diesel",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 21.34,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.6,
-        "CBN": 0.0,
-        "THCA": 23.57,
-        "THCV": 0.11
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.12,
-        "humulene": 0.13,
-        "myrcene": 0.27,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 0.53,
-        "beta-pinene": 0.07,
-        "limonene": 0.43,
-        "linalool": 0.35,
-        "terpinolene": 0.04
-      },
-      "totalTerps": 2.19,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8716255,
-          "label": "1A40303000000C9000163169",
-          "quantity": 56.0,
-          "packagedDate": "2026-07-13",
           "expirationDate": null
         }
       ]
@@ -51761,56 +51984,6 @@
       ]
     },
     {
-      "id": 8716505,
-      "packageCount": 1,
-      "name": "Live Liquid Diamonds: Cherry Cough -1g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 37.0,
-      "unit": "Each",
-      "strainName": "Cherry Cough",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 82.21,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 3.92,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.27,
-        "myrcene": 3.01,
-        "alpha-pinene": 1.6,
-        "caryophyllene": 1.43,
-        "beta-pinene": 0.6,
-        "ocimene": 0.06,
-        "limonene": 4.15,
-        "linalool": 0.43,
-        "terpinolene": 0.12
-      },
-      "totalTerps": 12.16,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8716505,
-          "label": "1A4030300003D55000006535",
-          "quantity": 37.0,
-          "packagedDate": "2026-07-13",
-          "expirationDate": "2027-03-28"
-        }
-      ]
-    },
-    {
       "id": 8301787,
       "packageCount": 1,
       "name": "Live Liquid Diamonds: Cherry Wreck -.5g",
@@ -57028,50 +57201,6 @@
           "quantity": 3.0,
           "packagedDate": "2026-06-17",
           "expirationDate": "2027-06-05"
-        }
-      ]
-    },
-    {
-      "id": 8777906,
-      "packageCount": 1,
-      "name": "Savvy Disposable - Summer Melon - Vape Cart - 0.3g",
-      "brand": "Savvy",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 4.0,
-      "unit": "Each",
-      "strainName": "Summer Melon",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 86.17,
-        "CBC": 0.56,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.45,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "alpha-pinene": 5.97,
-        "caryophyllene": 0.51,
-        "beta-pinene": 0.47
-      },
-      "totalTerps": 7.36,
-      "dominantTerpene": "alpha-pinene",
-      "packages": [
-        {
-          "id": 8777906,
-          "label": "1A40303000017D5000101326",
-          "quantity": 4.0,
-          "packagedDate": "2026-07-13",
-          "expirationDate": "2027-07-13"
         }
       ]
     },
