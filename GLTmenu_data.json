@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T17:30:38.332042+00:00",
+  "generated_at": "2026-09-08T17:40:25.824017+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -25596,7 +25596,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 349.93,
+      "quantity": 346.43,
       "unit": "Grams",
       "strainName": "GP II",
       "strainType": null,
@@ -25629,7 +25629,7 @@
         {
           "id": 8751943,
           "label": "1A4030300002009000109419",
-          "quantity": 349.93,
+          "quantity": 346.43,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-05-12"
         }
@@ -39134,54 +39134,6 @@
       ]
     },
     {
-      "id": 8858186,
-      "packageCount": 1,
-      "name": "Shake/Trim - SDG OG",
-      "brand": null,
-      "category": "Shake/Trim",
-      "metrcCategory": "Shake/Trim (by strain)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 293.68,
-      "unit": "Grams",
-      "strainName": "SDG OG",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 27.29,
-        "totalCBD": 0.19,
-        "CBDA": 0.03,
-        "CBG": 0.42,
-        "CBN": 0.02,
-        "THCA": 30.61
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.24,
-        "myrcene": 0.64,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.75,
-        "beta-pinene": 0.06,
-        "limonene": 0.36,
-        "linalool": 0.12,
-        "terpinolene": 0.01,
-        "nerolidol": 0.02
-      },
-      "totalTerps": 2.36,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8858186,
-          "label": "1A40303000001F5000416988",
-          "quantity": 293.68,
-          "packagedDate": "2026-08-13",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8942954,
       "packageCount": 1,
       "name": "Tear Gas 5g Shake/Trim",
@@ -40871,7 +40823,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Black Mamba",
       "strainType": null,
@@ -40902,7 +40854,7 @@
         {
           "id": 8919179,
           "label": "1A40303000001F5000423333",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-30"
         }
@@ -44603,16 +44555,17 @@
       ]
     },
     {
-      "id": 8599199,
-      "packageCount": 1,
+      "id": 8872243,
+      "packageCount": 2,
       "name": "Cherry Chem .5g Liquid Diamonds and Sauce Vape Cart",
       "brand": null,
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": "Cherry Chem . Liquid and",
       "strainType": null,
@@ -44642,6 +44595,13 @@
       "totalTerps": 10.23,
       "dominantTerpene": "caryophyllene",
       "packages": [
+        {
+          "id": 8872243,
+          "label": "1A40303000007D1000093658",
+          "quantity": 24.0,
+          "packagedDate": "2026-08-17",
+          "expirationDate": null
+        },
         {
           "id": 8599199,
           "label": "1A40303000007D1000080938",
@@ -56677,7 +56637,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Ready To Use Vaporizer",
       "strainType": null,
@@ -56706,7 +56666,7 @@
         {
           "id": 8667047,
           "label": "1A4030300000C83000075870",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-06-30",
           "expirationDate": "2027-03-25"
         }
