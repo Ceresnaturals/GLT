@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T19:40:26.374443+00:00",
+  "generated_at": "2026-09-08T19:50:26.983271+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -17899,61 +17899,6 @@
       ]
     },
     {
-      "id": 8870790,
-      "packageCount": 1,
-      "name": "Encore Gummies - Watermelon - Edible Product - 10mg - 10pc*",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 5.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.258,
-        "CBC": 0.003,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.011,
-        "CBGA": 0.0,
-        "CBN": 0.003,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.105,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.385,
-          "CBGA": 0.0,
-          "CBN": 0.105,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8870790,
-          "label": "1A40303000017D5000103608",
-          "quantity": 5.0,
-          "packagedDate": "2026-07-01",
-          "expirationDate": "2027-07-01"
-        }
-      ]
-    },
-    {
       "id": 8648886,
       "packageCount": 1,
       "name": "Encore Milk Chocolate (Macro Dose) - Hybrid - Exempt - 40mg - 10pc",
@@ -25645,7 +25590,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 73.5,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "Animal Face",
       "strainType": "Indica",
@@ -25681,7 +25626,7 @@
         {
           "id": 8944209,
           "label": "1A40303000003EA000264674",
-          "quantity": 73.5,
+          "quantity": 70.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         }
@@ -26625,7 +26570,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 45.5,
+      "quantity": 38.5,
       "unit": "Grams",
       "strainName": "Collie Man Kush",
       "strainType": null,
@@ -26657,7 +26602,7 @@
         {
           "id": 8351548,
           "label": "1A4030300000192000030571",
-          "quantity": 45.5,
+          "quantity": 38.5,
           "packagedDate": "2026-04-20",
           "expirationDate": "2027-02-23"
         }
@@ -27902,7 +27847,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 105.0,
+      "quantity": 101.5,
       "unit": "Grams",
       "strainName": "Gelato 33",
       "strainType": null,
@@ -27935,7 +27880,7 @@
         {
           "id": 8939181,
           "label": "1A4030300003521000056673",
-          "quantity": 105.0,
+          "quantity": 101.5,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-08"
         }
@@ -31324,6 +31269,55 @@
       ]
     },
     {
+      "id": 8809506,
+      "packageCount": 1,
+      "name": "White OG Pre-Pack (Mixed Buds) - Rythm (Indica Dominant) - Usable - 28g",
+      "brand": "Rythm",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 28.0,
+      "unit": "Grams",
+      "strainName": "White OG",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.49,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.09,
+        "CBGA": 0.87,
+        "CBN": 0.0,
+        "THCA": 28.37,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.09,
+        "myrcene": 0.43,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.25,
+        "beta-pinene": 0.09,
+        "limonene": 0.75,
+        "linalool": 0.34,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.26,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8809506,
+          "label": "1A40303000003EA000194163",
+          "quantity": 28.0,
+          "packagedDate": "2026-08-03",
+          "expirationDate": "2027-06-23"
+        }
+      ]
+    },
+    {
       "id": 8678470,
       "packageCount": 1,
       "name": "1937|Pre-Roll|Chem & Chocolate|Usable|5ct, 0.5g",
@@ -32565,7 +32559,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Brownie Scout",
       "strainType": null,
@@ -32598,7 +32592,7 @@
         {
           "id": 8676410,
           "label": "1A40303000003EA000197285",
-          "quantity": 5.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-06-09"
         }
@@ -37233,7 +37227,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Grams",
       "strainName": "Lilac Diesel",
       "strainType": null,
@@ -37274,7 +37268,7 @@
         {
           "id": 8766904,
           "label": "1A4030300003521000054053",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
