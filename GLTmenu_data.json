@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T17:50:26.157379+00:00",
+  "generated_at": "2026-09-08T18:00:27.439417+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4517,6 +4517,58 @@
       ]
     },
     {
+      "id": 8862125,
+      "packageCount": 1,
+      "name": "Lemon Funk - Cured Sugar - 1g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 38.0,
+      "unit": "Each",
+      "strainName": "Lemon Funk",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 73.41,
+        "totalCBD": 0.614,
+        "CBC": 0.0,
+        "CBDA": 0.7,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.06,
+        "CBN": 0.0,
+        "THCA": 78.31,
+        "THCV": 0.44
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.39,
+        "humulene": 0.57,
+        "myrcene": 1.76,
+        "alpha-pinene": 0.32,
+        "caryophyllene": 2.05,
+        "eudesmol": 0.19,
+        "beta-pinene": 0.24,
+        "limonene": 1.58,
+        "linalool": 0.76,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 8.72,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8862125,
+          "label": "1A40303000037DD000025223",
+          "quantity": 38.0,
+          "packagedDate": "2026-08-13",
+          "expirationDate": "2027-06-29"
+        }
+      ]
+    },
+    {
       "id": 8785081,
       "packageCount": 1,
       "name": "Lemon Funk - Cured Sugar - 3.5g",
@@ -8033,7 +8085,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Strawberry Shortcake",
       "strainType": "Indica",
@@ -8067,7 +8119,7 @@
         {
           "id": 8944069,
           "label": "1A40303000003EA000264677",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-14"
         }
@@ -12238,7 +12290,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12277,7 +12329,7 @@
         {
           "id": 8882418,
           "label": "1A4030300003522000202256",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-05"
         }
@@ -27999,7 +28051,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 128.0,
+      "quantity": 124.0,
       "unit": "Grams",
       "strainName": "Head Hunter",
       "strainType": null,
@@ -28032,7 +28084,7 @@
         {
           "id": 8946491,
           "label": "1A4030300004845000041484",
-          "quantity": 128.0,
+          "quantity": 124.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-25"
         }
@@ -31281,7 +31333,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 56.0,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "White OG",
       "strainType": "Indica",
@@ -31314,7 +31366,7 @@
         {
           "id": 8809506,
           "label": "1A40303000003EA000194163",
-          "quantity": 56.0,
+          "quantity": 28.0,
           "packagedDate": "2026-08-03",
           "expirationDate": "2027-06-23"
         }
@@ -31923,7 +31975,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Animal Face",
       "strainType": null,
@@ -31956,7 +32008,7 @@
         {
           "id": 8746343,
           "label": "1A40303000003EA000201210",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-06-12"
         }
@@ -50170,7 +50222,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Trainwreck",
       "strainType": null,
@@ -50204,7 +50256,7 @@
         {
           "id": 8882182,
           "label": "1A4030300003522000202236",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-11"
         }
