@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T19:00:27.136122+00:00",
+  "generated_at": "2026-09-09T19:10:26.082897+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -19581,7 +19581,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19622,7 +19622,7 @@
         {
           "id": 8766944,
           "label": "1A4030300003522000207393",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-15"
         }
@@ -20107,7 +20107,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20148,7 +20148,7 @@
         {
           "id": 8882287,
           "label": "1A4030300003522000202244",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-13"
         }
@@ -25298,7 +25298,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 265.93,
+      "quantity": 258.93,
       "unit": "Grams",
       "strainName": "GP II",
       "strainType": null,
@@ -25331,7 +25331,7 @@
         {
           "id": 8751943,
           "label": "1A4030300002009000109419",
-          "quantity": 265.93,
+          "quantity": 258.93,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-05-12"
         }
@@ -30971,57 +30971,6 @@
           "quantity": 73.5,
           "packagedDate": "2026-04-13",
           "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 7913937,
-      "packageCount": 1,
-      "name": "Triple Stack - Usable 3.5g",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "Triple Stack",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 28.78,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.24,
-        "CBGA": 0.83,
-        "CBN": 0.0,
-        "THCA": 32.41,
-        "THCV": 0.13
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.14,
-        "myrcene": 0.13,
-        "alpha-pinene": 0.07,
-        "caryophyllene": 0.56,
-        "beta-pinene": 0.1,
-        "caryophyllene-oxide": 0.05,
-        "limonene": 0.68,
-        "linalool": 0.4,
-        "terpinolene": 0.01
-      },
-      "totalTerps": 2.2,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 7913937,
-          "label": "1A4030300000192000022666",
-          "quantity": 3.5,
-          "packagedDate": "2026-01-06",
-          "expirationDate": "2026-09-22"
         }
       ]
     },
