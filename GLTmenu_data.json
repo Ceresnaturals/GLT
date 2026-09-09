@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T23:50:24.891870+00:00",
+  "generated_at": "2026-09-09T00:00:31.792281+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11459,7 +11459,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11500,7 +11500,7 @@
         {
           "id": 8882283,
           "label": "1A4030300003522000202242",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-02"
         }
@@ -12182,7 +12182,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12223,7 +12223,7 @@
         {
           "id": 8689778,
           "label": "1A4030300003522000201320",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-06-16"
         }
@@ -12575,7 +12575,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12614,7 +12614,7 @@
         {
           "id": 8828726,
           "label": "1A4030300003522000195370",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-23"
         }
@@ -17747,7 +17747,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17786,7 +17786,7 @@
         {
           "id": 8870785,
           "label": "1A40303000017D5000103605",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-06-26",
           "expirationDate": "2027-06-26"
         }
@@ -18356,7 +18356,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18395,7 +18395,7 @@
         {
           "id": 8914614,
           "label": "1A4030300002009000112787",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-05-18"
         }
@@ -26139,7 +26139,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "OGKB",
       "strainType": null,
@@ -26173,7 +26173,7 @@
         {
           "id": 8926775,
           "label": "1A40303000000CD000079030",
-          "quantity": 35.0,
+          "quantity": 31.5,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         }
@@ -37036,44 +37036,40 @@
     },
     {
       "id": 8882294,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "NH Lilac Diesel Preroll-Usable-.5g 2pk",
       "brand": "NH",
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Grams",
       "strainName": "Lilac Diesel",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 22.93,
+        "totalTHC": 23.74,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.14,
-        "CBGA": 2.56,
+        "CBG": 0.21,
+        "CBGA": 2.36,
         "CBN": 0.0,
-        "THCA": 24.65,
+        "THCA": 24.27,
         "THCV": 0.17
       },
       "dose": null,
       "terpenes": {
-        "bisabolol": 0.08,
-        "humulene": 0.08,
-        "myrcene": 0.1,
-        "alpha-pinene": 0.02,
-        "caryophyllene": 0.29,
-        "beta-pinene": 0.03,
-        "ocimene": 0.17,
-        "limonene": 0.07,
-        "terpinolene": 0.24
+        "bisabolol": 0.07,
+        "humulene": 0.06,
+        "caryophyllene": 0.21,
+        "caryophyllene-oxide": 0.11,
+        "ocimene": 0.06,
+        "terpinolene": 0.08
       },
-      "totalTerps": 1.17,
+      "totalTerps": 0.65,
       "dominantTerpene": "caryophyllene",
       "packages": [
         {
@@ -37082,13 +37078,6 @@
           "quantity": 25.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-03-15"
-        },
-        {
-          "id": 8766904,
-          "label": "1A4030300003521000054053",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-23",
-          "expirationDate": null
         }
       ]
     },
@@ -49835,7 +49824,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Trainwreck",
       "strainType": null,
@@ -49869,7 +49858,7 @@
         {
           "id": 8882182,
           "label": "1A4030300003522000202236",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-11"
         }
