@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T21:20:28.354527+00:00",
+  "generated_at": "2026-09-09T21:30:24.789137+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4628,7 +4628,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Goji OG",
       "strainType": null,
@@ -4661,7 +4661,7 @@
         {
           "id": 8574161,
           "label": "1A4030300003D55000006128",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-06-10",
           "expirationDate": "2027-01-22"
         }
@@ -5371,7 +5371,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 24.0,
       "unit": "Each",
@@ -5523,7 +5523,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -11779,61 +11779,6 @@
           "quantity": 6.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-23"
-        }
-      ]
-    },
-    {
-      "id": 8882411,
-      "packageCount": 1,
-      "name": "Betty's Eddies Passion Fruit V3 Fruit Chews-Exempt-40mg-10",
-      "brand": "Betty's Eddies",
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 17.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.516,
-        "CBC": 0.004,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.019,
-        "CBGA": 0.0,
-        "CBN": 0.003,
-        "THCA": 0.0,
-        "THCV": 0.005
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 400.0,
-        "thcMgPerServing": 40.0,
-        "minorsMgPerServing": {
-          "CBC": 0.028,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.135,
-          "CBGA": 0.0,
-          "CBN": 0.021,
-          "THCA": 0.0,
-          "THCV": 0.036
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8882411,
-          "label": "1A4030300003522000202254",
-          "quantity": 17.0,
-          "packagedDate": "2026-08-18",
-          "expirationDate": "2027-06-25"
         }
       ]
     },
@@ -21474,7 +21419,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 12.0,
       "unit": "Each",
@@ -21871,7 +21816,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 12.0,
       "unit": "Each",
@@ -22793,7 +22738,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 12.0,
       "unit": "Each",
@@ -25898,56 +25843,6 @@
           "quantity": 143.5,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-06-30"
-        }
-      ]
-    },
-    {
-      "id": 8826360,
-      "packageCount": 1,
-      "name": "Black Afghan Pre-Pack (Mixed Buds) - Good Green (Indica) - Usable - 3.5g",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "Black Afghan",
-      "strainType": "Indica",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 23.49,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.36,
-        "CBN": 0.0,
-        "THCA": 25.87,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.08,
-        "humulene": 0.14,
-        "myrcene": 1.63,
-        "alpha-pinene": 0.42,
-        "caryophyllene": 0.46,
-        "beta-pinene": 0.09,
-        "ocimene": 0.23,
-        "limonene": 0.08,
-        "linalool": 0.14
-      },
-      "totalTerps": 3.27,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8826360,
-          "label": "1A40303000003EA000195252",
-          "quantity": 3.5,
-          "packagedDate": "2026-08-06",
-          "expirationDate": "2027-07-01"
         }
       ]
     },
@@ -33224,7 +33119,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Grams",
       "strainName": "Mama Marmalade",
       "strainType": null,
@@ -33259,7 +33154,7 @@
         {
           "id": 8926294,
           "label": "1A403030000012D000262973",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         }
@@ -35521,7 +35416,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "PB Souffle",
       "strainType": null,
@@ -35554,7 +35449,7 @@
         {
           "id": 8747428,
           "label": "1A4030300002199000057211",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-05-06",
           "expirationDate": null
         }
@@ -39055,7 +38950,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 185.18,
+      "quantity": 181.68,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -39087,7 +38982,7 @@
         {
           "id": 8858186,
           "label": "1A40303000001F5000416988",
-          "quantity": 185.18,
+          "quantity": 181.68,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -48946,57 +48841,6 @@
       ]
     },
     {
-      "id": 8341895,
-      "packageCount": 1,
-      "name": "In House Animal Cookies 2:1:1 Disposable-Vape Cart-.5g",
-      "brand": "In House",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Animal Cookies",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 46.22,
-        "totalCBD": 22.87,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.28,
-        "CBGA": 0.0,
-        "CBN": 22.61,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.21,
-        "myrcene": 0.52,
-        "alpha-pinene": 0.83,
-        "caryophyllene": 0.74,
-        "beta-pinene": 0.22,
-        "ocimene": 0.19,
-        "limonene": 0.93,
-        "linalool": 0.19,
-        "terpinolene": 0.11
-      },
-      "totalTerps": 4.0,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8341895,
-          "label": "1A4030300003522000181344",
-          "quantity": 1.0,
-          "packagedDate": "2026-04-16",
-          "expirationDate": "2027-03-17"
-        }
-      ]
-    },
-    {
       "id": 8579711,
       "packageCount": 1,
       "name": "In House Baja Blastoff Disposable-Vape Cart-.5g",
@@ -52590,7 +52434,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 24.0,
       "unit": "Each",
@@ -52738,7 +52582,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 24.0,
       "unit": "Each",
