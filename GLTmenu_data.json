@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T16:40:29.603405+00:00",
+  "generated_at": "2026-09-09T16:50:26.060096+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12231,63 +12231,6 @@
           "quantity": 13.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-05"
-        }
-      ]
-    },
-    {
-      "id": 8939327,
-      "packageCount": 1,
-      "name": "Betty's Eddies Tropical Smoothie Fruit Chews-Edible Product-10mg-10",
-      "brand": "Betty's Eddies",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 16.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.139,
-        "totalCBD": 0.41,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.009,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 29.11,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.639,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8939327,
-          "label": "1A4030300003522000210560",
-          "quantity": 16.0,
-          "packagedDate": "2026-09-01",
-          "expirationDate": "2027-07-07"
         }
       ]
     },
@@ -45871,58 +45814,6 @@
       ]
     },
     {
-      "id": 8758176,
-      "packageCount": 1,
-      "name": "Fade Co | Vape | Live Resin | El Chivo - Vape Cart - 1g",
-      "brand": "Fade Co",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 5.0,
-      "unit": "Each",
-      "strainName": "El Chivo",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 65.9,
-        "totalCBD": 0.16,
-        "CBC": 0.49,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.34,
-        "CBGA": 0.0,
-        "CBN": 0.16,
-        "THCA": 0.0,
-        "THCV": 0.17
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.62,
-        "myrcene": 1.18,
-        "alpha-pinene": 0.8,
-        "caryophyllene": 1.27,
-        "beta-pinene": 0.64,
-        "caryophyllene-oxide": 0.04,
-        "ocimene": 0.14,
-        "limonene": 3.46,
-        "linalool": 1.92,
-        "terpinolene": 0.13
-      },
-      "totalTerps": 11.72,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8758176,
-          "label": "1A4030300004845000034914",
-          "quantity": 5.0,
-          "packagedDate": "2026-05-18",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8840302,
       "packageCount": 1,
       "name": "Fade Co | Vape | Live Resin | Glitter Bomb - Vape Cart - 1g",
@@ -46073,58 +45964,6 @@
           "quantity": 24.0,
           "packagedDate": "2026-04-23",
           "expirationDate": "2027-04-23"
-        }
-      ]
-    },
-    {
-      "id": 8946716,
-      "packageCount": 1,
-      "name": "Fade Co | Vape | Live Resin | Maui Wowie - Vape Cart - 1g",
-      "brand": "Fade Co",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Vault"
-      ],
-      "quantity": 23.0,
-      "unit": "Each",
-      "strainName": "Maui Wowie",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 80.15,
-        "totalCBD": 0.2,
-        "CBC": 1.37,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.13,
-        "CBGA": 0.0,
-        "CBN": 0.19,
-        "THCA": 0.0,
-        "THCV": 0.28
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.13,
-        "myrcene": 2.59,
-        "alpha-pinene": 1.83,
-        "caryophyllene": 0.55,
-        "beta-pinene": 0.61,
-        "caryophyllene-oxide": 0.03,
-        "ocimene": 0.02,
-        "limonene": 1.16,
-        "linalool": 0.6,
-        "terpinolene": 0.03
-      },
-      "totalTerps": 7.93,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8946716,
-          "label": "1A4030300004845000041486",
-          "quantity": 23.0,
-          "packagedDate": "2026-08-26",
-          "expirationDate": "2027-08-26"
         }
       ]
     },
