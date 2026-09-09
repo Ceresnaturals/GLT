@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T21:30:24.789137+00:00",
+  "generated_at": "2026-09-09T21:40:25.199529+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11783,6 +11783,61 @@
       ]
     },
     {
+      "id": 8882411,
+      "packageCount": 1,
+      "name": "Betty's Eddies Passion Fruit V3 Fruit Chews-Exempt-40mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 17.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.516,
+        "CBC": 0.004,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.019,
+        "CBGA": 0.0,
+        "CBN": 0.003,
+        "THCA": 0.0,
+        "THCV": 0.005
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "CBC": 0.028,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.135,
+          "CBGA": 0.0,
+          "CBN": 0.021,
+          "THCA": 0.0,
+          "THCV": 0.036
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8882411,
+          "label": "1A4030300003522000202254",
+          "quantity": 17.0,
+          "packagedDate": "2026-08-18",
+          "expirationDate": "2027-06-25"
+        }
+      ]
+    },
+    {
       "id": 8882314,
       "packageCount": 1,
       "name": "Betty's Eddies Pineapple Orange V3 Fruit Chews-Edible Product-10mg-10",
@@ -13024,7 +13079,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13065,7 +13120,7 @@
         {
           "id": 8801743,
           "label": "1A4030300000579000043670",
-          "quantity": 18.0,
+          "quantity": 14.0,
           "packagedDate": "2026-07-30",
           "expirationDate": null
         }
@@ -42676,7 +42731,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Chem Cookies",
       "strainType": null,
@@ -42711,7 +42766,7 @@
         {
           "id": 8911260,
           "label": "1A403030000283D000060415",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-06-24"
         }
