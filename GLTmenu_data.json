@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T22:30:26.539137+00:00",
+  "generated_at": "2026-09-09T22:40:26.359661+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12574,7 +12574,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12613,7 +12613,7 @@
         {
           "id": 8828726,
           "label": "1A4030300003522000195370",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-23"
         }
@@ -16272,7 +16272,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16313,7 +16313,7 @@
         {
           "id": 8814673,
           "label": "1A4030300000C83000080558",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-04",
           "expirationDate": "2027-07-01"
         }
@@ -20719,7 +20719,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20760,7 +20760,7 @@
         {
           "id": 8854449,
           "label": "1A40303000003EA000202538",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-06-10"
         }
@@ -25411,7 +25411,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 24.5,
       "unit": "Grams",
       "strainName": "Torrone",
       "strainType": null,
@@ -25445,7 +25445,7 @@
         {
           "id": 8739583,
           "label": "1A4030300003A3C000086573",
-          "quantity": 28.0,
+          "quantity": 24.5,
           "packagedDate": "2026-03-23",
           "expirationDate": "2027-03-23"
         }
@@ -25564,7 +25564,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 227.43,
+      "quantity": 223.93,
       "unit": "Grams",
       "strainName": "GP II",
       "strainType": null,
@@ -25597,7 +25597,7 @@
         {
           "id": 8751943,
           "label": "1A4030300002009000109419",
-          "quantity": 227.43,
+          "quantity": 223.93,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-05-12"
         }
@@ -26543,7 +26543,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 24.5,
       "unit": "Grams",
       "strainName": "Collie Man Kush",
       "strainType": null,
@@ -26575,7 +26575,7 @@
         {
           "id": 8351548,
           "label": "1A4030300000192000030571",
-          "quantity": 28.0,
+          "quantity": 24.5,
           "packagedDate": "2026-04-20",
           "expirationDate": "2027-02-23"
         }
@@ -34175,55 +34175,6 @@
       ]
     },
     {
-      "id": 8858495,
-      "packageCount": 1,
-      "name": "GMO Skywalker OG x SDGOG - Diamond Duster 0.5g Infused Pre-Roll 5-Pack Tin",
-      "brand": "Diamond Duster",
-      "category": "Pre-Roll",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "GMO Skywalker OG x SDGOG",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 43.37,
-        "totalCBD": 0.04,
-        "CBC": 0.0,
-        "CBDA": 0.04,
-        "CBDV": 0.0,
-        "CBG": 0.07,
-        "CBGA": 1.31,
-        "CBN": 0.0,
-        "THCA": 49.0,
-        "THCV": 0.58
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.07,
-        "myrcene": 0.12,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 0.17,
-        "beta-pinene": 0.04,
-        "limonene": 0.22,
-        "linalool": 0.12
-      },
-      "totalTerps": 0.82,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8858495,
-          "label": "1A40303000001F5000416981",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-13",
-          "expirationDate": "2027-04-30"
-        }
-      ]
-    },
-    {
       "id": 8947154,
       "packageCount": 1,
       "name": "GMO x Skywalker OG - Pre Roll Joints - 0.5 gram - 2 Pack",
@@ -35302,60 +35253,51 @@
     },
     {
       "id": 8952841,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Kaviar Mini Pre-rolls (Sativa)-Concentrate-5x0.6g",
       "brand": "Kaviar",
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 31.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 37.47,
-        "CBC": 0.37,
+        "totalTHC": 36.5,
+        "CBC": 0.39,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.75,
-        "CBGA": 0.65,
-        "CBN": 0.22,
-        "THCA": 13.98,
+        "CBG": 0.84,
+        "CBGA": 0.41,
+        "CBN": 0.2,
+        "THCA": 13.97,
         "THCV": 0.17
       },
       "dose": null,
       "terpenes": {
         "bisabolol": 0.07,
-        "humulene": 0.05,
-        "myrcene": 0.07,
-        "alpha-pinene": 0.02,
-        "caryophyllene": 0.14,
-        "eudesmol": 0.08,
-        "beta-pinene": 0.03,
-        "ocimene": 0.07,
-        "limonene": 0.1,
-        "linalool": 0.09,
-        "terpinolene": 0.27
+        "humulene": 0.08,
+        "myrcene": 0.09,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.29,
+        "eudesmol": 0.11,
+        "beta-pinene": 0.05,
+        "limonene": 0.28,
+        "linalool": 0.16,
+        "terpinolene": 0.08
       },
-      "totalTerps": 1.18,
-      "dominantTerpene": "terpinolene",
+      "totalTerps": 1.47,
+      "dominantTerpene": "caryophyllene",
       "packages": [
         {
           "id": 8952841,
           "label": "1A403030000012D000265619",
           "quantity": 30.0,
           "packagedDate": "2026-09-03",
-          "expirationDate": null
-        },
-        {
-          "id": 8738016,
-          "label": "1A403030000012D000255828",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-16",
           "expirationDate": null
         }
       ]
@@ -39005,7 +38947,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 160.68,
+      "quantity": 150.18,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -39037,7 +38979,7 @@
         {
           "id": 8858186,
           "label": "1A40303000001F5000416988",
-          "quantity": 160.68,
+          "quantity": 150.18,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -40130,7 +40072,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Sweet Melon",
       "strainType": null,
@@ -40162,7 +40104,7 @@
         {
           "id": 8043255,
           "label": "1A403030000238D000088487",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-02-05",
           "expirationDate": "2027-02-01"
         }
@@ -40627,7 +40569,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Berry Bliss",
       "strainType": null,
@@ -40663,7 +40605,7 @@
         {
           "id": 8919177,
           "label": "1A40303000001F5000423331",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2026-11-05"
         }
@@ -42630,7 +42572,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Beboe Inspired",
       "strainType": null,
@@ -42665,7 +42607,7 @@
         {
           "id": 8541802,
           "label": "1A40303000003EA000187981",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-06-03",
           "expirationDate": "2027-02-25"
         }
@@ -51354,56 +51296,6 @@
       ]
     },
     {
-      "id": 8747429,
-      "packageCount": 1,
-      "name": "Legend | Vapes | Live Terpene Cartridges | Pink Diesel - Vape cart - 1g",
-      "brand": "Legend",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Pink Diesel",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 85.95,
-        "CBC": 0.94,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.76,
-        "CBGA": 0.0,
-        "CBN": 0.23,
-        "THCA": 0.0,
-        "THCV": 2.65
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.13,
-        "humulene": 0.07,
-        "myrcene": 0.83,
-        "alpha-pinene": 0.17,
-        "caryophyllene": 0.22,
-        "beta-pinene": 0.14,
-        "ocimene": 0.46,
-        "limonene": 0.41,
-        "terpinolene": 1.5
-      },
-      "totalTerps": 3.99,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8747429,
-          "label": "1A4030300002199000057212",
-          "quantity": 1.0,
-          "packagedDate": "2026-06-10",
-          "expirationDate": "2027-06-10"
-        }
-      ]
-    },
-    {
       "id": 8954300,
       "packageCount": 1,
       "name": "Legend | Vapes | Live Terpene Cartridges | Tropicana Cookies - Vape cart - 1g",
@@ -55950,7 +55842,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Granddaddy Purp",
       "strainType": null,
@@ -55985,7 +55877,7 @@
         {
           "id": 8940643,
           "label": "1A4030300000C83000086771",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-13"
         }
@@ -56049,7 +55941,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Orange Crush",
       "strainType": null,
@@ -56080,7 +55972,7 @@
         {
           "id": 8940646,
           "label": "1A4030300000C83000086773",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-06-22"
         }
