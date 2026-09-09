@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T17:00:27.002365+00:00",
+  "generated_at": "2026-09-09T17:10:27.337426+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -25298,7 +25298,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 15.0,
       "unit": "Grams",
       "strainName": "B52 Bomber",
       "strainType": null,
@@ -25334,7 +25334,7 @@
         {
           "id": 8894097,
           "label": "1A4030300003A3C000089887",
-          "quantity": 17.5,
+          "quantity": 15.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-07-02"
         }
@@ -26623,7 +26623,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 279.27,
+      "quantity": 275.77,
       "unit": "Grams",
       "strainName": "Earthquake #25",
       "strainType": null,
@@ -26656,7 +26656,7 @@
         {
           "id": 8000715,
           "label": "1A40303000000C9000082241",
-          "quantity": 279.27,
+          "quantity": 275.77,
           "packagedDate": "2026-01-28",
           "expirationDate": "2026-11-23"
         }
@@ -28203,7 +28203,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 94.5,
+      "quantity": 91.0,
       "unit": "Grams",
       "strainName": "Lemon Splash",
       "strainType": null,
@@ -28237,7 +28237,7 @@
         {
           "id": 8890135,
           "label": "1A403030000025B000084392",
-          "quantity": 94.5,
+          "quantity": 91.0,
           "packagedDate": "2026-06-16",
           "expirationDate": "2027-06-11"
         }
@@ -28797,7 +28797,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Grams",
       "strainName": "Cherry Limeade Cake",
       "strainType": null,
@@ -28830,7 +28830,7 @@
         {
           "id": 7945826,
           "label": "1A40303000007D1000058449",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-01-13",
           "expirationDate": null
         }
@@ -33920,7 +33920,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 46.0,
+      "quantity": 45.0,
       "unit": "Grams",
       "strainName": "GMO x Skywalker OG",
       "strainType": null,
@@ -33952,7 +33952,7 @@
         {
           "id": 8947154,
           "label": "1A40303000001F5000425609",
-          "quantity": 46.0,
+          "quantity": 45.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -37782,6 +37782,56 @@
       ]
     },
     {
+      "id": 7688695,
+      "packageCount": 1,
+      "name": "Sherbanger #22 Big Dogs (Infused) - Dogwalkers (Stay) - Concentrate - 1g",
+      "brand": "Dogwalkers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 13.0,
+      "unit": "Each",
+      "strainName": "Sherbanger Big Dogs",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 37.41,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.46,
+        "CBN": 0.0,
+        "THCA": 41.24,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.19,
+        "myrcene": 0.16,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.86,
+        "beta-pinene": 0.05,
+        "caryophyllene-oxide": 0.05,
+        "limonene": 0.44,
+        "linalool": 0.21
+      },
+      "totalTerps": 2.17,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 7688695,
+          "label": "1A40303000003EA000122385",
+          "quantity": 13.0,
+          "packagedDate": "2025-11-05",
+          "expirationDate": "2026-10-17"
+        }
+      ]
+    },
+    {
       "id": 8060114,
       "packageCount": 1,
       "name": "Skunk Hero Preroll 2.5g (.5g 5Pk)",
@@ -39954,6 +40004,58 @@
           "quantity": 9.0,
           "packagedDate": "2026-01-23",
           "expirationDate": "2027-01-18"
+        }
+      ]
+    },
+    {
+      "id": 7666078,
+      "packageCount": 1,
+      "name": "2g_Roll One_FlexAIO_GG #4_Hybrid (251020MED077550)-Vape Cart",
+      "brand": "Roll One",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 8.0,
+      "unit": "Each",
+      "strainName": "FlexAIO",
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.53,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.31,
+        "CBGA": 0.0,
+        "CBN": 0.39,
+        "THCA": 0.48,
+        "THCV": 0.95
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.26,
+        "humulene": 0.43,
+        "myrcene": 0.57,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 1.7,
+        "beta-pinene": 0.11,
+        "caryophyllene-oxide": 0.13,
+        "limonene": 0.83,
+        "linalool": 0.18,
+        "terpinolene": 0.02,
+        "nerolidol": 0.24
+      },
+      "totalTerps": 4.81,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 7666078,
+          "label": "1A403030000238D000078309",
+          "quantity": 8.0,
+          "packagedDate": "2025-10-29",
+          "expirationDate": "2026-10-26"
         }
       ]
     },
@@ -56885,6 +56987,58 @@
           "quantity": 14.0,
           "packagedDate": "2026-02-19",
           "expirationDate": "2026-12-22"
+        }
+      ]
+    },
+    {
+      "id": 7653650,
+      "packageCount": 1,
+      "name": "Stocking Stuffer FSE - BOMA Vape Cart (Color: Flannel) - 0.5 gram",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Stocking Stuffer FSE",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 71.6,
+        "CBC": 0.29,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.31,
+        "CBGA": 0.56,
+        "CBN": 1.27,
+        "THCA": 2.03,
+        "THCV": 0.77
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.18,
+        "humulene": 0.45,
+        "myrcene": 0.45,
+        "alpha-pinene": 0.37,
+        "caryophyllene": 1.46,
+        "eudesmol": 0.21,
+        "beta-pinene": 0.25,
+        "caryophyllene-oxide": 0.18,
+        "limonene": 1.41,
+        "linalool": 0.88,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 6.94,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 7653650,
+          "label": "1A40303000037DD000018249",
+          "quantity": 12.0,
+          "packagedDate": "2025-10-27",
+          "expirationDate": "2026-09-20"
         }
       ]
     },
