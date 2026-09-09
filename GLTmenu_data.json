@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T21:10:26.798028+00:00",
+  "generated_at": "2026-09-09T21:20:28.354527+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -5364,6 +5364,57 @@
       ]
     },
     {
+      "id": 8959172,
+      "packageCount": 1,
+      "name": "MD-EXT-MDHZFC-1LB",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "MD EXT MDHZFC 1LB",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 69.67,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 3.57,
+        "CBN": 0.0,
+        "THCA": 76.53,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.14,
+        "humulene": 0.14,
+        "myrcene": 1.73,
+        "alpha-pinene": 0.27,
+        "caryophyllene": 0.5,
+        "beta-pinene": 0.43,
+        "ocimene": 1.43,
+        "limonene": 1.45,
+        "linalool": 0.17,
+        "terpinolene": 4.41
+      },
+      "totalTerps": 11.62,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8959172,
+          "label": "1A40303000007D1000102090",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-04",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8745118,
       "packageCount": 1,
       "name": "MD-EXT-MDHZFC-35LB",
@@ -5460,6 +5511,56 @@
           "label": "1A40303000007D1000093662",
           "quantity": 5.0,
           "packagedDate": "2026-08-17",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8959173,
+      "packageCount": 1,
+      "name": "MD-EXT-MDOGKU-35LB",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "MD EXT MDOGKU 35LB",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 72.51,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.33,
+        "CBN": 0.0,
+        "THCA": 80.44,
+        "THCV": 0.3
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.67,
+        "myrcene": 3.18,
+        "alpha-pinene": 0.18,
+        "caryophyllene": 2.69,
+        "eudesmol": 0.54,
+        "beta-pinene": 0.3,
+        "limonene": 2.85,
+        "linalool": 1.62,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 13.26,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8959173,
+          "label": "1A40303000007D1000102091",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-04",
           "expirationDate": null
         }
       ]
@@ -21366,6 +21467,61 @@
       ]
     },
     {
+      "id": 8959237,
+      "packageCount": 1,
+      "name": "Mango-Edible Product-10mg THC-10 Pack",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.228,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.009,
+        "CBGA": 0.0,
+        "CBN": 0.016,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Gummy",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.008,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.036,
+          "CBGA": 0.0,
+          "CBN": 0.064,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8959237,
+          "label": "1A40303000007D1000102086",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-04",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8794428,
       "packageCount": 1,
       "name": "ORIA - Berry Bliss - Indica Gummies - Edible Product - 10mg - 10 pcs",
@@ -21704,6 +21860,61 @@
           "quantity": 11.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-06-30"
+        }
+      ]
+    },
+    {
+      "id": 8959238,
+      "packageCount": 1,
+      "name": "Pink Lemonade-Edible Product-10mg THC-10 Pack",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.217,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.012,
+        "CBGA": 0.0,
+        "CBN": 0.015,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Gummy",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.008,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.048,
+          "CBGA": 0.0,
+          "CBN": 0.06,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8959238,
+          "label": "1A40303000007D1000102087",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-04",
+          "expirationDate": null
         }
       ]
     },
@@ -22571,6 +22782,61 @@
           "quantity": 20.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-05-26"
+        }
+      ]
+    },
+    {
+      "id": 8959240,
+      "packageCount": 1,
+      "name": "Sour Watermelon-Edible Product-10mg THC-10 Pack",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.233,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.009,
+        "CBGA": 0.0,
+        "CBN": 0.016,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Gummy",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.008,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.036,
+          "CBGA": 0.0,
+          "CBN": 0.064,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8959240,
+          "label": "1A40303000007D1000102088",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-04",
+          "expirationDate": null
         }
       ]
     },
@@ -29822,6 +30088,56 @@
       ]
     },
     {
+      "id": 8954761,
+      "packageCount": 1,
+      "name": "OPBO-EX-35",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 84.0,
+      "unit": "Grams",
+      "strainName": "OPBO",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.75,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.14,
+        "CBGA": 1.67,
+        "CBN": 0.0,
+        "THCA": 35.07,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.12,
+        "myrcene": 2.04,
+        "alpha-pinene": 0.54,
+        "caryophyllene": 0.51,
+        "beta-pinene": 0.11,
+        "ocimene": 0.32,
+        "limonene": 0.14,
+        "linalool": 0.21
+      },
+      "totalTerps": 4.05,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8954761,
+          "label": "1A40303000000CD000079350",
+          "quantity": 84.0,
+          "packagedDate": "2026-09-03",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8321426,
       "packageCount": 1,
       "name": "Ocean Fruit- 3.5g",
@@ -34842,7 +35158,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -34877,7 +35193,7 @@
         {
           "id": 8894077,
           "label": "1A403030000012D000261762",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -35943,7 +36259,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Strawberry Blizzard",
       "strainType": null,
@@ -35975,7 +36291,7 @@
         {
           "id": 8904264,
           "label": "1A4030300003201000001621",
-          "quantity": 3.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-24",
           "expirationDate": null
         },
@@ -35998,7 +36314,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 35.0,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "Lemon Blanc",
       "strainType": null,
@@ -36032,7 +36348,7 @@
         {
           "id": 8947323,
           "label": "1A40303000000CB000051190",
-          "quantity": 35.0,
+          "quantity": 31.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-18"
         }
@@ -38739,7 +39055,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 192.18,
+      "quantity": 185.18,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -38771,7 +39087,7 @@
         {
           "id": 8858186,
           "label": "1A40303000001F5000416988",
-          "quantity": 192.18,
+          "quantity": 185.18,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -52267,6 +52583,55 @@
       ]
     },
     {
+      "id": 8959170,
+      "packageCount": 1,
+      "name": "MD-VP-MDLMRY-05CR",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "MD VP MDLMRY 05CR",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 76.02,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.07,
+        "CBN": 0.0,
+        "THCA": 18.27,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.63,
+        "humulene": 1.26,
+        "myrcene": 0.38,
+        "alpha-pinene": 0.16,
+        "caryophyllene": 3.1,
+        "beta-pinene": 0.15,
+        "limonene": 1.58,
+        "linalool": 0.59
+      },
+      "totalTerps": 8.22,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8959170,
+          "label": "1A40303000007D1000102084",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-04",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8872245,
       "packageCount": 1,
       "name": "MD-VP-MDLYCK-05CR",
@@ -52361,6 +52726,55 @@
           "label": "1A40303000007D1000093659",
           "quantity": 16.0,
           "packagedDate": "2026-08-17",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8959235,
+      "packageCount": 1,
+      "name": "MD-VP-MDPAVE-05CR",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "MD VP MDPAVE 05CR",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 78.69,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.85,
+        "CBN": 0.0,
+        "THCA": 15.99,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.24,
+        "humulene": 0.67,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.2,
+        "caryophyllene": 2.01,
+        "beta-pinene": 0.15,
+        "limonene": 1.13,
+        "linalool": 0.84
+      },
+      "totalTerps": 5.85,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8959235,
+          "label": "1A40303000007D1000102083",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-04",
           "expirationDate": null
         }
       ]
@@ -55723,54 +56137,6 @@
           "quantity": 5.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-13"
-        }
-      ]
-    },
-    {
-      "id": 8883699,
-      "packageCount": 1,
-      "name": "Rove | Live Resin Diamonds Vape Reload | Maui Waui - S | 1.0g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Maui Waui",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 90.2,
-        "totalCBD": 0.215,
-        "CBC": 0.311,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.969,
-        "CBGA": 0.0,
-        "CBN": 0.343,
-        "THCA": 0.0,
-        "THCV": 1.25
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.236,
-        "humulene": 0.0312,
-        "myrcene": 0.0228,
-        "caryophyllene": 0.0704,
-        "caryophyllene-oxide": 0.039,
-        "limonene": 0.0853
-      },
-      "totalTerps": 0.624,
-      "dominantTerpene": "bisabolol",
-      "packages": [
-        {
-          "id": 8883699,
-          "label": "1A4030300000C83000085449",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-19",
-          "expirationDate": "2027-07-14"
         }
       ]
     },
