@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:00:28.610552+00:00",
+  "generated_at": "2026-09-10T14:10:30.114515+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -29,7 +29,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -70,7 +70,7 @@
         {
           "id": 8909468,
           "label": "1A4030300000C83000081192",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-03-12"
         }
@@ -13708,7 +13708,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13747,7 +13747,7 @@
         {
           "id": 8790229,
           "label": "1A403030000012D000257808",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-07-28",
           "expirationDate": null
         }
@@ -24942,7 +24942,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -24983,7 +24983,7 @@
         {
           "id": 8747179,
           "label": "1A4030300002199000057210",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-06-11"
         }
@@ -48592,6 +48592,54 @@
           "quantity": 13.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-03-10"
+        }
+      ]
+    },
+    {
+      "id": 8579706,
+      "packageCount": 1,
+      "name": "In House Biscotti Disposable-Vape Cart-.5g",
+      "brand": "In House",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 4.0,
+      "unit": "Each",
+      "strainName": "Biscotti",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.67,
+        "CBC": 0.73,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.23,
+        "CBGA": 0.0,
+        "CBN": 0.37,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.37,
+        "myrcene": 0.28,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 1.1,
+        "beta-pinene": 0.12,
+        "limonene": 1.25,
+        "linalool": 0.26
+      },
+      "totalTerps": 3.59,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8579706,
+          "label": "1A4030300003522000187538",
+          "quantity": 4.0,
+          "packagedDate": "2026-06-11",
+          "expirationDate": "2027-05-19"
         }
       ]
     },
