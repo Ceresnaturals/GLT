@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T17:30:25.737281+00:00",
+  "generated_at": "2026-09-10T17:40:26.122469+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11811,7 +11811,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11850,7 +11850,7 @@
         {
           "id": 8828677,
           "label": "1A4030300003522000195376",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-30"
         }
@@ -25943,55 +25943,6 @@
       ]
     },
     {
-      "id": 8895514,
-      "packageCount": 1,
-      "name": "CUR-EXC-JAR-MICA-3.5-MD",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "MICA",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 31.09,
-        "totalCBD": 0.09,
-        "CBC": 0.0,
-        "CBDA": 0.1,
-        "CBDV": 0.0,
-        "CBG": 0.17,
-        "CBGA": 1.53,
-        "CBN": 0.0,
-        "THCA": 35.11,
-        "THCV": 0.19
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.03,
-        "myrcene": 1.04,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.17,
-        "beta-pinene": 0.07,
-        "limonene": 0.5,
-        "linalool": 0.07
-      },
-      "totalTerps": 2.03,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8895514,
-          "label": "1A40303000000CD000075420",
-          "quantity": 3.5,
-          "packagedDate": "2026-08-20",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8926775,
       "packageCount": 1,
       "name": "CUR-EXC-JAR-OGKB-3.5-MD",
@@ -29851,7 +29802,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 77.0,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "OPBO",
       "strainType": null,
@@ -29885,7 +29836,7 @@
         {
           "id": 8954761,
           "label": "1A40303000000CD000079350",
-          "quantity": 77.0,
+          "quantity": 70.0,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -33948,7 +33899,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 43.0,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "GMO x Skywalker OG",
       "strainType": null,
@@ -33980,7 +33931,7 @@
         {
           "id": 8947154,
           "label": "1A40303000001F5000425609",
-          "quantity": 43.0,
+          "quantity": 42.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -35970,16 +35921,17 @@
       ]
     },
     {
-      "id": 8820792,
-      "packageCount": 1,
+      "id": 8966439,
+      "packageCount": 2,
       "name": "Mango Dragon Hellavated Juicy Stickz - Infused Pre-roll - 0.75 g",
       "brand": "Hellavated",
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Mango Dragon Juicy Stickz",
       "strainType": null,
@@ -36011,6 +35963,13 @@
       "totalTerps": 1.49,
       "dominantTerpene": "linalool",
       "packages": [
+        {
+          "id": 8966439,
+          "label": "1A403030000012E000192648",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-04-27"
+        },
         {
           "id": 8820792,
           "label": "1A403030000012E000181576",
@@ -36130,7 +36089,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Deadband x GC5 #12",
       "strainType": null,
@@ -36164,7 +36123,7 @@
         {
           "id": 8947059,
           "label": "1A40303000000CB000051191",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         }
@@ -41000,7 +40959,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Midnight Moon .0gX",
       "strainType": null,
@@ -41033,7 +40992,7 @@
         {
           "id": 8765224,
           "label": "1A40303000001F5000408116",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-29"
         }
