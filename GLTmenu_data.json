@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T20:10:27.999016+00:00",
+  "generated_at": "2026-09-10T20:20:27.081592+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3328,6 +3328,58 @@
       ]
     },
     {
+      "id": 8974571,
+      "packageCount": 1,
+      "name": "Golden Valley Glaze Live Resin Batter 1.0g/1000mg",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Golden Valley Glaze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 69.28,
+        "totalCBD": 0.22,
+        "CBC": 0.0,
+        "CBDA": 0.25,
+        "CBDV": 0.0,
+        "CBG": 0.75,
+        "CBGA": 4.0,
+        "CBN": 0.0,
+        "THCA": 76.55,
+        "THCV": 0.55
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.62,
+        "myrcene": 1.83,
+        "alpha-pinene": 1.56,
+        "caryophyllene": 1.57,
+        "eudesmol": 0.12,
+        "beta-pinene": 0.63,
+        "ocimene": 0.55,
+        "limonene": 2.94,
+        "linalool": 0.4,
+        "terpinolene": 0.13
+      },
+      "totalTerps": 11.87,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8974571,
+          "label": "1A40303000001F5000428943",
+          "quantity": 20.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-07-23"
+        }
+      ]
+    },
+    {
       "id": 8890382,
       "packageCount": 1,
       "name": "Grapes & Cream Live Resin Batter 1.0g/1000mg",
@@ -3527,6 +3579,57 @@
           "quantity": 18.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-06-22"
+        }
+      ]
+    },
+    {
+      "id": 8974572,
+      "packageCount": 1,
+      "name": "Ice Cream Cake Live Resin Batter 2.0g/2000mg",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Ice Cream Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 63.3,
+        "totalCBD": 0.29,
+        "CBC": 0.07,
+        "CBDA": 0.33,
+        "CBDV": 0.0,
+        "CBG": 0.75,
+        "CBGA": 3.44,
+        "CBN": 0.0,
+        "THCA": 70.36,
+        "THCV": 0.55
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.71,
+        "myrcene": 2.27,
+        "alpha-pinene": 0.38,
+        "caryophyllene": 1.67,
+        "beta-pinene": 0.21,
+        "ocimene": 0.03,
+        "limonene": 2.23,
+        "linalool": 1.24,
+        "terpinolene": 0.08
+      },
+      "totalTerps": 9.56,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8974572,
+          "label": "1A40303000001F5000428944",
+          "quantity": 20.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-06-08"
         }
       ]
     },
@@ -9766,7 +9869,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9807,7 +9910,7 @@
         {
           "id": 8920317,
           "label": "1A40303000001F5000423547",
-          "quantity": 14.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -9985,63 +10088,6 @@
       ]
     },
     {
-      "id": 8947754,
-      "packageCount": 1,
-      "name": "Keef - Pineapple X-Press - Liquid Edible - 10mg - 1",
-      "brand": null,
-      "category": "Drink",
-      "metrcCategory": "Infused Liquid Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 8.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.003,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Can",
-        "totalThcMg": 10.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8947754,
-          "label": "1A40303000001F5000425698",
-          "quantity": 8.0,
-          "packagedDate": "2026-09-02",
-          "expirationDate": "2027-07-15"
-        }
-      ]
-    },
-    {
       "id": 8920318,
       "packageCount": 1,
       "name": "Keef - Purple Passion - Liquid Edible - 10mg - 1",
@@ -10051,7 +10097,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10092,7 +10138,7 @@
         {
           "id": 8920318,
           "label": "1A40303000001F5000423550",
-          "quantity": 21.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-13"
         }
@@ -15485,7 +15531,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15526,7 +15572,7 @@
         {
           "id": 8274960,
           "label": "1A4030300000C83000061503",
-          "quantity": 7.0,
+          "quantity": 5.0,
           "packagedDate": "2026-04-02",
           "expirationDate": "2027-03-02"
         }
@@ -25589,7 +25635,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 192.43,
+      "quantity": 185.43,
       "unit": "Grams",
       "strainName": "GP II",
       "strainType": null,
@@ -25622,7 +25668,7 @@
         {
           "id": 8751943,
           "label": "1A4030300002009000109419",
-          "quantity": 192.43,
+          "quantity": 185.43,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-05-12"
         }
@@ -26813,7 +26859,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 244.27,
+      "quantity": 240.77,
       "unit": "Grams",
       "strainName": "Earthquake #25",
       "strainType": null,
@@ -26846,7 +26892,7 @@
         {
           "id": 8000715,
           "label": "1A40303000000C9000082241",
-          "quantity": 244.27,
+          "quantity": 240.77,
           "packagedDate": "2026-01-28",
           "expirationDate": "2026-11-23"
         }
@@ -27897,7 +27943,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 120.0,
+      "quantity": 116.0,
       "unit": "Grams",
       "strainName": "Head Hunter",
       "strainType": null,
@@ -27930,7 +27976,7 @@
         {
           "id": 8946491,
           "label": "1A4030300004845000041484",
-          "quantity": 120.0,
+          "quantity": 116.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-25"
         }
@@ -33263,57 +33309,6 @@
       ]
     },
     {
-      "id": 8926294,
-      "packageCount": 1,
-      "name": "Curio Wellness CW Mama Marmalade Pre-rolls-Usable-2x0.5g",
-      "brand": "Curio Wellness",
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Grams",
-      "strainName": "Mama Marmalade",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 25.4,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.84,
-        "CBN": 0.0,
-        "THCA": 27.74,
-        "THCV": 0.19
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.19,
-        "myrcene": 0.33,
-        "alpha-pinene": 0.09,
-        "caryophyllene": 0.59,
-        "beta-pinene": 0.12,
-        "ocimene": 0.46,
-        "limonene": 0.2,
-        "linalool": 0.07,
-        "terpinolene": 0.91
-      },
-      "totalTerps": 3.19,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8926294,
-          "label": "1A403030000012D000262973",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-27",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8769569,
       "packageCount": 1,
       "name": "Curio Wellness CW Pink Mountain Kush Pre-rolls-usable-2x0.5g",
@@ -36729,7 +36724,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 10.5,
       "unit": "Grams",
       "strainName": "Deadband x GC5 #12",
       "strainType": null,
@@ -36763,7 +36758,7 @@
         {
           "id": 8947059,
           "label": "1A40303000000CB000051191",
-          "quantity": 14.0,
+          "quantity": 10.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         }
@@ -39467,7 +39462,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 80.18,
+      "quantity": 76.68,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -39499,7 +39494,7 @@
         {
           "id": 8858186,
           "label": "1A40303000001F5000416988",
-          "quantity": 80.18,
+          "quantity": 76.68,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -42555,7 +42550,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Animal Face",
       "strainType": "Indica",
@@ -42589,7 +42584,7 @@
         {
           "id": 8891525,
           "label": "1A40303000003EA000205090",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-05-22"
         }
@@ -48990,7 +48985,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Mango Sunrise",
       "strainType": null,
@@ -49021,7 +49016,7 @@
         {
           "id": 8752071,
           "label": "1A4030300002009000109428",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-04-20"
         }
