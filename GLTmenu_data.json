@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T17:50:28.332556+00:00",
+  "generated_at": "2026-09-10T18:00:30.788182+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -190,7 +190,7 @@
     },
     {
       "id": 8939364,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "NH RSO V1-Capsule-10mg-10",
       "brand": "NH",
       "category": "Capsule",
@@ -198,7 +198,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -241,13 +241,6 @@
           "label": "1A4030300003522000210582",
           "quantity": 10.0,
           "packagedDate": "2026-09-01",
-          "expirationDate": "2027-06-10"
-        },
-        {
-          "id": 8828775,
-          "label": "1A4030300003522000195389",
-          "quantity": 2.0,
-          "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-10"
         }
       ]
@@ -894,56 +887,6 @@
           "quantity": 8.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-04-17"
-        }
-      ]
-    },
-    {
-      "id": 8483804,
-      "packageCount": 1,
-      "name": "Astro GMO Live Budder - Concentrate - 1.0g",
-      "brand": null,
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 10.0,
-      "unit": "Each",
-      "strainName": "Astro GMO",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 70.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.52,
-        "CBN": 0.0,
-        "THCA": 79.82,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.17,
-        "humulene": 0.58,
-        "myrcene": 1.9,
-        "alpha-pinene": 0.17,
-        "caryophyllene": 1.64,
-        "beta-pinene": 0.3,
-        "limonene": 2.98,
-        "linalool": 0.49,
-        "nerolidol": 0.16
-      },
-      "totalTerps": 9.19,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8483804,
-          "label": "1A4030300000193000095464",
-          "quantity": 10.0,
-          "packagedDate": "2026-05-20",
-          "expirationDate": "2027-05-04"
         }
       ]
     },
@@ -2859,57 +2802,6 @@
           "label": "1A4030300004845000025718",
           "quantity": 10.0,
           "packagedDate": "2026-05-21",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8365694,
-      "packageCount": 1,
-      "name": "Fade Co | Concentrate | Live Sugar | Inzane N' The Membrane - Concentrate - 1g",
-      "brand": "Fade Co",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 6.0,
-      "unit": "Each",
-      "strainName": "Inzane N' The Membrane",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 72.06,
-        "totalCBD": 0.09,
-        "CBC": 0.0,
-        "CBDA": 0.1,
-        "CBDV": 0.0,
-        "CBG": 0.41,
-        "CBGA": 4.58,
-        "CBN": 0.0,
-        "THCA": 79.78,
-        "THCV": 0.2
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.36,
-        "myrcene": 0.78,
-        "alpha-pinene": 0.3,
-        "caryophyllene": 0.86,
-        "beta-pinene": 0.24,
-        "ocimene": 0.68,
-        "limonene": 0.73,
-        "linalool": 0.12,
-        "terpinolene": 1.97
-      },
-      "totalTerps": 6.97,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8365694,
-          "label": "1A4030300004845000017488",
-          "quantity": 6.0,
-          "packagedDate": "2026-04-07",
           "expirationDate": null
         }
       ]
@@ -6455,56 +6347,6 @@
           "quantity": 8.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-02"
-        }
-      ]
-    },
-    {
-      "id": 8275366,
-      "packageCount": 1,
-      "name": "NH Gelato 33 Live Badder-Concentrate-1g",
-      "brand": "NH",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Gelato",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 72.14,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.72,
-        "CBN": 0.0,
-        "THCA": 79.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.76,
-        "myrcene": 0.16,
-        "alpha-pinene": 0.23,
-        "caryophyllene": 2.32,
-        "beta-pinene": 0.22,
-        "ocimene": 0.18,
-        "limonene": 1.91,
-        "linalool": 0.91,
-        "terpinolene": 0.04
-      },
-      "totalTerps": 7.61,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8275366,
-          "label": "1A4030300003522000179061",
-          "quantity": 1.0,
-          "packagedDate": "2026-04-02",
-          "expirationDate": "2027-03-17"
         }
       ]
     },
@@ -25109,55 +24951,6 @@
       ]
     },
     {
-      "id": 8874093,
-      "packageCount": 1,
-      "name": "(the) Essence Flower - Animal Fuel - Usable - 3.5g",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 31.5,
-      "unit": "Grams",
-      "strainName": "Animal Fuel",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 25.54,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.99,
-        "CBN": 0.0,
-        "THCA": 29.0,
-        "THCV": 0.12
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.16,
-        "humulene": 0.2,
-        "myrcene": 0.04,
-        "alpha-pinene": 0.1,
-        "caryophyllene": 0.74,
-        "beta-pinene": 0.09,
-        "limonene": 0.58,
-        "linalool": 0.21
-      },
-      "totalTerps": 2.33,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8874093,
-          "label": "1A4030300003A3C000089549",
-          "quantity": 31.5,
-          "packagedDate": "2026-08-06",
-          "expirationDate": "2027-08-06"
-        }
-      ]
-    },
-    {
       "id": 8874094,
       "packageCount": 1,
       "name": "(the) Essence Flower - Forum Cut Cookies - Usable - 3.5g",
@@ -26825,55 +26618,6 @@
           "quantity": 101.5,
           "packagedDate": "2026-06-01",
           "expirationDate": "2027-06-01"
-        }
-      ]
-    },
-    {
-      "id": 8881945,
-      "packageCount": 1,
-      "name": "Fade Co Packaged Smalls (White Wedding) - Usable - 14g",
-      "brand": "Fade Co",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 140.0,
-      "unit": "Grams",
-      "strainName": "White Wedding",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 28.26,
-        "totalCBD": 0.06,
-        "CBC": 0.0,
-        "CBDA": 0.07,
-        "CBDV": 0.0,
-        "CBG": 0.06,
-        "CBGA": 0.76,
-        "CBN": 0.0,
-        "THCA": 31.99,
-        "THCV": 0.1
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.15,
-        "myrcene": 0.18,
-        "alpha-pinene": 0.07,
-        "caryophyllene": 0.28,
-        "beta-pinene": 0.09,
-        "limonene": 0.5,
-        "linalool": 0.09
-      },
-      "totalTerps": 1.47,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8881945,
-          "label": "1A4030300004845000039299",
-          "quantity": 140.0,
-          "packagedDate": "2026-08-06",
-          "expirationDate": null
         }
       ]
     },
@@ -32045,6 +31789,56 @@
       ]
     },
     {
+      "id": 8966449,
+      "packageCount": 1,
+      "name": "Atomic Grapefruit Strane - Pre-rolls - 1 g",
+      "brand": "Strane",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Grams",
+      "strainName": "Atomic Grapefruit",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.19,
+        "totalCBD": 0.08,
+        "CBC": 0.0,
+        "CBDA": 0.09,
+        "CBDV": 0.0,
+        "CBG": 0.18,
+        "CBGA": 1.13,
+        "CBN": 0.0,
+        "THCA": 28.14,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.1,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.43,
+        "beta-pinene": 0.02,
+        "limonene": 0.12,
+        "linalool": 0.45,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 1.27,
+      "dominantTerpene": "linalool",
+      "packages": [
+        {
+          "id": 8966449,
+          "label": "1A403030000012E000192643",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-08-24"
+        }
+      ]
+    },
+    {
       "id": 7868767,
       "packageCount": 1,
       "name": "Baby Turtle Preroll 1g",
@@ -32334,6 +32128,57 @@
           "quantity": 15.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8966431,
+      "packageCount": 1,
+      "name": "Blueberry Dream Hellavated Juicy Stickz - Infused Pre-roll - 0.75 g",
+      "brand": "Hellavated",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Each",
+      "strainName": "Blueberry Dream Juicy Stickz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 36.43,
+        "totalCBD": 0.18,
+        "CBC": 0.1,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.56,
+        "CBGA": 0.73,
+        "CBN": 0.26,
+        "THCA": 19.91,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.09,
+        "alpha-pinene": 0.38,
+        "caryophyllene": 0.32,
+        "eudesmol": 0.02,
+        "beta-pinene": 0.07,
+        "limonene": 0.23,
+        "linalool": 0.47,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 1.85,
+      "dominantTerpene": "linalool",
+      "packages": [
+        {
+          "id": 8966431,
+          "label": "1A403030000012E000192650",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-05-08"
         }
       ]
     },
@@ -33753,6 +33598,109 @@
       ]
     },
     {
+      "id": 8966443,
+      "packageCount": 1,
+      "name": "Finger Lime Haze Garcia Hand Picked - Pre-rolls - 1 g",
+      "brand": "Garcia Hand Picked",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Grams",
+      "strainName": "Finger Lime Haze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.32,
+        "totalCBD": 0.08,
+        "CBC": 0.07,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.32,
+        "CBGA": 1.86,
+        "CBN": 0.0,
+        "THCA": 24.49,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.01,
+        "humulene": 0.04,
+        "myrcene": 0.17,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.15,
+        "beta-pinene": 0.06,
+        "ocimene": 0.1,
+        "limonene": 0.12,
+        "linalool": 0.04,
+        "terpinolene": 0.58
+      },
+      "totalTerps": 1.56,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8966443,
+          "label": "1A403030000012E000192646",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-08-06"
+        }
+      ]
+    },
+    {
+      "id": 8966450,
+      "packageCount": 1,
+      "name": "Frosted Jungle Strane - Pre-rolls - 1 g",
+      "brand": "Strane",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Grams",
+      "strainName": "Frosted Jungle",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.94,
+        "totalCBD": 0.07,
+        "CBC": 0.0,
+        "CBDA": 0.08,
+        "CBDV": 0.0,
+        "CBG": 0.12,
+        "CBGA": 1.48,
+        "CBN": 0.0,
+        "THCA": 27.57,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.17,
+        "myrcene": 0.12,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.41,
+        "eudesmol": 0.02,
+        "beta-pinene": 0.04,
+        "limonene": 0.24,
+        "linalool": 0.25,
+        "terpinolene": 0.03
+      },
+      "totalTerps": 1.42,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8966450,
+          "label": "1A403030000012E000192641",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-06-11"
+        }
+      ]
+    },
+    {
       "id": 8588009,
       "packageCount": 1,
       "name": "Fruit Gushers Preroll 1g (.5g 2pk)",
@@ -34353,7 +34301,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Jack's Delight",
       "strainType": null,
@@ -34388,7 +34336,7 @@
         {
           "id": 8809460,
           "label": "1A40303000003EA000194165",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-03",
           "expirationDate": "2027-07-09"
         }
@@ -34439,6 +34387,59 @@
           "quantity": 24.5,
           "packagedDate": "2026-07-08",
           "expirationDate": "2027-06-09"
+        }
+      ]
+    },
+    {
+      "id": 8966517,
+      "packageCount": 1,
+      "name": "Juicee J Strane - Pre-rolls - 1 g",
+      "brand": "Strane",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Grams",
+      "strainName": "Juicee J",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.97,
+        "totalCBD": 0.06,
+        "CBC": 0.0,
+        "CBDA": 0.07,
+        "CBDV": 0.0,
+        "CBG": 0.07,
+        "CBGA": 1.25,
+        "CBN": 0.0,
+        "THCA": 29.47,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.25,
+        "myrcene": 0.03,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.79,
+        "eudesmol": 0.04,
+        "beta-pinene": 0.06,
+        "ocimene": 0.03,
+        "limonene": 0.42,
+        "linalool": 0.28,
+        "nerolidol": 0.02
+      },
+      "totalTerps": 2.22,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8966517,
+          "label": "1A403030000012E000192640",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-07-29"
         }
       ]
     },
@@ -36092,6 +36093,58 @@
       ]
     },
     {
+      "id": 8966447,
+      "packageCount": 1,
+      "name": "Mule Fuel Garcia Hand Picked - Pre-rolls - 1 g",
+      "brand": "Garcia Hand Picked",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Grams",
+      "strainName": "Mule Fuel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.24,
+        "totalCBD": 0.08,
+        "CBC": 0.0,
+        "CBDA": 0.09,
+        "CBDV": 0.0,
+        "CBG": 0.08,
+        "CBGA": 0.67,
+        "CBN": 0.0,
+        "THCA": 30.23,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.03,
+        "humulene": 0.11,
+        "myrcene": 0.03,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.42,
+        "beta-pinene": 0.07,
+        "caryophyllene-oxide": 0.02,
+        "ocimene": 0.02,
+        "limonene": 0.36,
+        "linalool": 0.19
+      },
+      "totalTerps": 1.49,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8966447,
+          "label": "1A403030000012E000192644",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-08-21"
+        }
+      ]
+    },
+    {
       "id": 8947059,
       "packageCount": 1,
       "name": "Multi Pack- Deadband 12 Pre-Rolls (x7 0.5g Joints) 3.5g",
@@ -36730,57 +36783,6 @@
       ]
     },
     {
-      "id": 8828758,
-      "packageCount": 1,
-      "name": "NH Lemon Margy Infused Preroll-Concentrate-.5g 5pk",
-      "brand": "NH",
-      "category": "Pre-Roll",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 22.0,
-      "unit": "Each",
-      "strainName": "Lemon Margy",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 29.08,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.25,
-        "CBN": 0.0,
-        "THCA": 31.16,
-        "THCV": 0.3
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.08,
-        "humulene": 0.12,
-        "myrcene": 0.04,
-        "alpha-pinene": 0.01,
-        "caryophyllene": 0.29,
-        "beta-pinene": 0.02,
-        "ocimene": 0.1,
-        "limonene": 0.14,
-        "linalool": 0.08,
-        "terpinolene": 0.31
-      },
-      "totalTerps": 1.35,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8828758,
-          "label": "1A4030300003522000195386",
-          "quantity": 22.0,
-          "packagedDate": "2026-08-06",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8882298,
       "packageCount": 1,
       "name": "NH Lemon Margy Preroll-Usable-.5g 2pk",
@@ -37098,7 +37100,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 7.5,
       "unit": "Grams",
       "strainName": "Peach Crescendo TC",
       "strainType": null,
@@ -37130,7 +37132,7 @@
         {
           "id": 8890372,
           "label": "1A40303000001F5000420178",
-          "quantity": 10.0,
+          "quantity": 7.5,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -37973,6 +37975,106 @@
           "quantity": 4.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-04-02"
+        }
+      ]
+    },
+    {
+      "id": 8966514,
+      "packageCount": 1,
+      "name": "Strawberry Haze Hellavated Juicy Stickz - Infused Pre-roll - 0.75 g",
+      "brand": "Hellavated",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Each",
+      "strainName": "Strawberry Haze Juicy Stickz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 34.27,
+        "totalCBD": 0.1,
+        "CBC": 0.1,
+        "CBDA": 0.05,
+        "CBDV": 0.0,
+        "CBG": 0.47,
+        "CBGA": 0.78,
+        "CBN": 0.21,
+        "THCA": 18.49,
+        "THCV": 0.09
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.15,
+        "myrcene": 0.04,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 0.54,
+        "beta-pinene": 0.03,
+        "limonene": 0.12,
+        "linalool": 0.36,
+        "terpinolene": 0.03
+      },
+      "totalTerps": 1.39,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8966514,
+          "label": "1A403030000012E000192647",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-03-18"
+        }
+      ]
+    },
+    {
+      "id": 8966427,
+      "packageCount": 1,
+      "name": "Strawberry Haze Hellavated Juicy Stickz - Infused Pre-rolls - 2.5 g",
+      "brand": "Hellavated",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Each",
+      "strainName": "Strawberry Haze Juicy Stickz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 35.8,
+        "totalCBD": 0.15,
+        "CBC": 0.09,
+        "CBDA": 0.05,
+        "CBDV": 0.0,
+        "CBG": 0.53,
+        "CBGA": 0.68,
+        "CBN": 0.22,
+        "THCA": 22.61,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.11,
+        "myrcene": 0.05,
+        "alpha-pinene": 0.12,
+        "caryophyllene": 0.47,
+        "beta-pinene": 0.03,
+        "limonene": 0.13,
+        "linalool": 0.4,
+        "terpinolene": 0.03
+      },
+      "totalTerps": 1.37,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8966427,
+          "label": "1A403030000012E000192651",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-05-13"
         }
       ]
     },
@@ -39523,7 +39625,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Lemon Blueberry",
       "strainType": null,
@@ -39556,7 +39658,7 @@
         {
           "id": 8739604,
           "label": "1A40303000017D5000100458",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-07-01"
         }
@@ -45770,57 +45872,6 @@
           "label": "1A4030300004845000037837",
           "quantity": 15.0,
           "packagedDate": "2026-07-30",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8881943,
-      "packageCount": 1,
-      "name": "Fade Co | Vape | Live Resin | Golden Lemons - Vape Cart - 1g",
-      "brand": "Fade Co",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 11.0,
-      "unit": "Each",
-      "strainName": "Golden Lemons",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 76.82,
-        "totalCBD": 0.16,
-        "CBC": 0.62,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.91,
-        "CBGA": 0.0,
-        "CBN": 0.14,
-        "THCA": 0.0,
-        "THCV": 0.53
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.44,
-        "myrcene": 2.81,
-        "alpha-pinene": 1.82,
-        "caryophyllene": 1.3,
-        "beta-pinene": 0.65,
-        "ocimene": 0.03,
-        "limonene": 1.41,
-        "linalool": 0.4,
-        "terpinolene": 0.11
-      },
-      "totalTerps": 9.28,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8881943,
-          "label": "1A4030300004845000039296",
-          "quantity": 11.0,
-          "packagedDate": "2026-08-06",
           "expirationDate": null
         }
       ]
@@ -53347,55 +53398,6 @@
       ]
     },
     {
-      "id": 8828808,
-      "packageCount": 1,
-      "name": "NH Guava IX Live Resin-Vape Cart-1g",
-      "brand": "NH",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 20.0,
-      "unit": "Each",
-      "strainName": "Guava IX",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 73.9,
-        "CBC": 0.63,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.9,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.62,
-        "humulene": 0.94,
-        "myrcene": 2.24,
-        "alpha-pinene": 0.26,
-        "caryophyllene": 2.74,
-        "beta-pinene": 0.06,
-        "limonene": 1.5,
-        "linalool": 0.4
-      },
-      "totalTerps": 9.21,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8828808,
-          "label": "1A4030300003522000195390",
-          "quantity": 20.0,
-          "packagedDate": "2026-08-06",
-          "expirationDate": "2027-07-19"
-        }
-      ]
-    },
-    {
       "id": 8689725,
       "packageCount": 1,
       "name": "NH Lamb's Bread Live Resin-Vape Cart-.5g",
@@ -53643,57 +53645,6 @@
           "quantity": 10.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-16"
-        }
-      ]
-    },
-    {
-      "id": 8828809,
-      "packageCount": 1,
-      "name": "NH Strawberry Jelly Live Rosin Disp-Vape Cart-.5g",
-      "brand": "NH",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 19.0,
-      "unit": "Each",
-      "strainName": "Strawberry Jelly Disp",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 71.65,
-        "CBC": 0.85,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.77,
-        "CBGA": 1.58,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.41,
-        "humulene": 0.52,
-        "myrcene": 2.68,
-        "alpha-pinene": 0.46,
-        "caryophyllene": 1.68,
-        "eudesmol": 0.84,
-        "beta-pinene": 0.06,
-        "limonene": 2.45,
-        "linalool": 0.23,
-        "terpinolene": 0.06
-      },
-      "totalTerps": 10.74,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8828809,
-          "label": "1A4030300003522000195391",
-          "quantity": 19.0,
-          "packagedDate": "2026-08-06",
-          "expirationDate": null
         }
       ]
     },
