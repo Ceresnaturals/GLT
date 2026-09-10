@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T15:40:26.782971+00:00",
+  "generated_at": "2026-09-10T15:50:27.288877+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7984,56 +7984,6 @@
           "quantity": 3.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-06-17"
-        }
-      ]
-    },
-    {
-      "id": 8944069,
-      "packageCount": 1,
-      "name": "Rythm 5 Pack (Infused) - Strawberry Shortcake (Indica Dominant) - Concentrate - 2.5g",
-      "brand": "Rythm",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Strawberry Shortcake",
-      "strainType": "Indica",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 44.96,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.63,
-        "CBN": 0.0,
-        "THCA": 49.61,
-        "THCV": 0.21
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.11,
-        "humulene": 0.11,
-        "myrcene": 0.18,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 0.62,
-        "beta-pinene": 0.04,
-        "limonene": 0.33,
-        "linalool": 0.25,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 1.97,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8944069,
-          "label": "1A40303000003EA000264677",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-02",
-          "expirationDate": "2027-08-14"
         }
       ]
     },
@@ -26066,7 +26016,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "OGKB",
       "strainType": null,
@@ -26100,7 +26050,7 @@
         {
           "id": 8926775,
           "label": "1A40303000000CD000079030",
-          "quantity": 24.5,
+          "quantity": 21.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         }
@@ -31902,47 +31852,56 @@
       ]
     },
     {
-      "id": 8923144,
-      "packageCount": 1,
+      "id": 8966516,
+      "packageCount": 2,
       "name": "Alien Mints Strane - Pre-rolls - 1g",
       "brand": "Strane",
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 17.0,
       "unit": "Grams",
       "strainName": "Alien Mints",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 29.41,
-        "totalCBD": 0.1,
+        "totalTHC": 27.74,
+        "totalCBD": 0.09,
         "CBC": 0.0,
-        "CBDA": 0.11,
+        "CBDA": 0.1,
         "CBDV": 0.0,
-        "CBG": 0.08,
-        "CBGA": 0.91,
+        "CBG": 0.06,
+        "CBGA": 0.84,
         "CBN": 0.0,
-        "THCA": 32.29,
-        "THCV": 0.18
+        "THCA": 29.89,
+        "THCV": 0.17
       },
       "dose": null,
       "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.09,
-        "myrcene": 0.05,
-        "alpha-pinene": 0.02,
-        "caryophyllene": 0.28,
-        "eudesmol": 0.03,
-        "beta-pinene": 0.03,
-        "limonene": 0.13,
-        "linalool": 0.39
+        "bisabolol": 0.06,
+        "humulene": 0.14,
+        "myrcene": 0.1,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.49,
+        "eudesmol": 0.04,
+        "beta-pinene": 0.04,
+        "caryophyllene-oxide": 0.02,
+        "limonene": 0.28,
+        "linalool": 0.48
       },
-      "totalTerps": 1.22,
-      "dominantTerpene": "linalool",
+      "totalTerps": 1.9,
+      "dominantTerpene": "caryophyllene",
       "packages": [
+        {
+          "id": 8966516,
+          "label": "1A403030000012E000192642",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-08-04"
+        },
         {
           "id": 8923144,
           "label": "1A403030000012E000187008",
