@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T16:40:27.258277+00:00",
+  "generated_at": "2026-09-10T16:50:27.175146+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -25627,7 +25627,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.5,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "BTY OG",
       "strainType": null,
@@ -25660,7 +25660,7 @@
         {
           "id": 8923148,
           "label": "1A403030000012E000187017",
-          "quantity": 31.5,
+          "quantity": 28.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-07-22"
         }
@@ -29859,7 +29859,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 84.0,
+      "quantity": 80.5,
       "unit": "Grams",
       "strainName": "OPBO",
       "strainType": null,
@@ -29893,7 +29893,7 @@
         {
           "id": 8954761,
           "label": "1A40303000000CD000079350",
-          "quantity": 84.0,
+          "quantity": 80.5,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -35764,47 +35764,55 @@
       ]
     },
     {
-      "id": 8922971,
-      "packageCount": 1,
+      "id": 8966446,
+      "packageCount": 2,
       "name": "LA Baker Garcia Hand Picked - Pre-rolls - 1 g",
       "brand": "Garcia Hand Picked",
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "LA Baker",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 27.7,
-        "totalCBD": 0.06,
+        "totalTHC": 26.67,
+        "totalCBD": 0.05,
         "CBC": 0.0,
-        "CBDA": 0.07,
+        "CBDA": 0.05,
         "CBDV": 0.0,
-        "CBG": 0.26,
-        "CBGA": 1.54,
+        "CBG": 0.27,
+        "CBGA": 1.62,
         "CBN": 0.0,
-        "THCA": 29.32,
+        "THCA": 27.66,
         "THCV": 0.11
       },
       "dose": null,
       "terpenes": {
-        "bisabolol": 0.02,
-        "humulene": 0.07,
-        "myrcene": 0.14,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 0.28,
-        "eudesmol": 0.02,
-        "beta-pinene": 0.04,
-        "limonene": 0.26,
-        "linalool": 0.43
+        "humulene": 0.09,
+        "myrcene": 0.06,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.34,
+        "eudesmol": 0.03,
+        "beta-pinene": 0.02,
+        "caryophyllene-oxide": 0.02,
+        "limonene": 0.14,
+        "linalool": 0.4
       },
-      "totalTerps": 1.45,
+      "totalTerps": 1.33,
       "dominantTerpene": "linalool",
       "packages": [
+        {
+          "id": 8966446,
+          "label": "1A403030000012E000192645",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-08-12"
+        },
         {
           "id": 8922971,
           "label": "1A403030000012E000187007",
@@ -36179,7 +36187,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 17.5,
       "unit": "Grams",
       "strainName": "Deadband x GC5 #12",
       "strainType": null,
@@ -36213,7 +36221,7 @@
         {
           "id": 8947059,
           "label": "1A40303000000CB000051191",
-          "quantity": 21.0,
+          "quantity": 17.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         }
@@ -37419,7 +37427,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Grams",
       "strainName": "Rainbow Push Pop #4",
       "strainType": null,
@@ -37452,7 +37460,7 @@
         {
           "id": 8947325,
           "label": "1A40303000000CB000051195",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         }
@@ -38520,7 +38528,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 210.0,
+      "quantity": 195.0,
       "unit": "Grams",
       "strainName": "Just Packaged Ready to Roll",
       "strainType": null,
@@ -38555,7 +38563,7 @@
         {
           "id": 8946809,
           "label": "1A4030300004845000041487",
-          "quantity": 210.0,
+          "quantity": 195.0,
           "packagedDate": "2026-08-25",
           "expirationDate": null
         }
