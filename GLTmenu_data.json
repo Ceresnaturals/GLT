@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T15:00:31.436064+00:00",
+  "generated_at": "2026-09-10T15:10:26.930538+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -14166,7 +14166,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14212,7 +14212,7 @@
         {
           "id": 8893987,
           "label": "1A403030000012D000261768",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -14558,8 +14558,7 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 26.0,
       "unit": "Each",
@@ -17259,6 +17258,63 @@
           "quantity": 8.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-03-09"
+        }
+      ]
+    },
+    {
+      "id": 8966411,
+      "packageCount": 1,
+      "name": "Do Drop Starfruit Gummies-Edible Product-10mg-10",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.355,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8966411,
+          "label": "1A403030000012E000192654",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-04-09"
         }
       ]
     },
@@ -21902,8 +21958,7 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 13.0,
       "unit": "Each",
@@ -26651,7 +26706,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 254.77,
+      "quantity": 251.27,
       "unit": "Grams",
       "strainName": "Earthquake #25",
       "strainType": null,
@@ -26684,7 +26739,7 @@
         {
           "id": 8000715,
           "label": "1A40303000000C9000082241",
-          "quantity": 254.77,
+          "quantity": 251.27,
           "packagedDate": "2026-01-28",
           "expirationDate": "2026-11-23"
         }
@@ -37111,7 +37166,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 33.0,
       "unit": "Grams",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -37146,7 +37201,7 @@
         {
           "id": 8947062,
           "label": "1A40303000000CB000051194",
-          "quantity": 34.0,
+          "quantity": 32.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         },
@@ -38712,7 +38767,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 125.68,
+      "quantity": 118.68,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -38744,7 +38799,7 @@
         {
           "id": 8858186,
           "label": "1A40303000001F5000416988",
-          "quantity": 125.68,
+          "quantity": 118.68,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -38760,7 +38815,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 120.0,
+      "quantity": 115.0,
       "unit": "Grams",
       "strainName": "Tear Gas -BLVK MRKT",
       "strainType": null,
@@ -38794,7 +38849,7 @@
         {
           "id": 8942954,
           "label": "1A40303000040D9000005968",
-          "quantity": 120.0,
+          "quantity": 115.0,
           "packagedDate": "2026-09-01",
           "expirationDate": null
         }
@@ -44889,56 +44944,6 @@
       ]
     },
     {
-      "id": 8462429,
-      "packageCount": 1,
-      "name": "Curio Wellness Captain's Cake Vape-Vape Cart-0.5g",
-      "brand": "Curio Wellness",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Captain's Cake",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 75.06,
-        "CBC": 1.33,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.67,
-        "CBGA": 0.0,
-        "CBN": 2.35,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.3,
-        "humulene": 0.33,
-        "myrcene": 1.45,
-        "alpha-pinene": 0.28,
-        "caryophyllene": 1.7,
-        "beta-pinene": 0.3,
-        "limonene": 2.24,
-        "linalool": 0.7,
-        "terpinolene": 0.2
-      },
-      "totalTerps": 8.4,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8462429,
-          "label": "1A403030000012D000233651",
-          "quantity": 1.0,
-          "packagedDate": "2026-05-14",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8738110,
       "packageCount": 1,
       "name": "Curio Wellness Captain's Cake Vape-Vape Cart-1.0g",
@@ -45146,7 +45151,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Mango Kush",
       "strainType": null,
@@ -45179,7 +45184,7 @@
         {
           "id": 8864065,
           "label": "1A403030000012D000260501",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
