@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:50:27.375966+00:00",
+  "generated_at": "2026-09-10T15:00:31.436064+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -16898,23 +16898,24 @@
       ]
     },
     {
-      "id": 8755737,
-      "packageCount": 1,
+      "id": 8966199,
+      "packageCount": 2,
       "name": "Do Drop 1:1 CBD:THC Peach Gummies-Edible Product-10mg-10",
       "brand": null,
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.35,
-        "totalCBD": 0.35,
+        "totalTHC": 0.31,
+        "totalCBD": 0.31,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
@@ -16929,7 +16930,7 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 10.5,
+          "totalCBD": 9.3,
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
@@ -16945,6 +16946,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8966199,
+          "label": "1A403030000012E000192655",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-04-02"
+        },
         {
           "id": 8755737,
           "label": "1A403030000012E000176838",
@@ -17134,8 +17142,8 @@
       ]
     },
     {
-      "id": 8755819,
-      "packageCount": 1,
+      "id": 8966197,
+      "packageCount": 2,
       "name": "Do Drop 2:2:1 CBD:CBG:THC Lemon Citrus Gummies-Edible Product-10mg-10",
       "brand": null,
       "category": "Edible",
@@ -17143,18 +17151,18 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.32,
-        "totalCBD": 0.65,
+        "totalTHC": 0.34,
+        "totalCBD": 0.68,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.66,
+        "CBG": 0.7,
         "CBGA": 0.0,
         "CBN": 0.0,
         "THCA": 0.0,
@@ -17165,11 +17173,11 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 19.5,
+          "totalCBD": 20.4,
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 19.8,
+          "CBG": 21.0,
           "CBGA": 0.0,
           "CBN": 0.0,
           "THCA": 0.0,
@@ -17181,6 +17189,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8966197,
+          "label": "1A403030000012E000192656",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-04-23"
+        },
         {
           "id": 8755819,
           "label": "1A403030000012E000176841",
@@ -17982,7 +17997,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18021,7 +18036,7 @@
         {
           "id": 8777801,
           "label": "1A40303000017D5000101323",
-          "quantity": 19.0,
+          "quantity": 17.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-07-02"
         }
@@ -34858,7 +34873,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 28.0,
       "unit": "Each",
@@ -47653,6 +47668,56 @@
       ]
     },
     {
+      "id": 8490580,
+      "packageCount": 1,
+      "name": "HiAF|Disposable Live Terpenes|GDP|Vape Cart|1000mg",
+      "brand": "HiAF",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 8.0,
+      "unit": "Each",
+      "strainName": "GDP",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.5,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.24,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.29,
+        "myrcene": 1.8,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 0.97,
+        "beta-pinene": 0.2,
+        "ocimene": 0.97,
+        "limonene": 1.0,
+        "linalool": 0.22,
+        "terpinolene": 2.63
+      },
+      "totalTerps": 8.72,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8490580,
+          "label": "1A4030300002009000102671",
+          "quantity": 8.0,
+          "packagedDate": "2026-05-21",
+          "expirationDate": "2027-02-18"
+        }
+      ]
+    },
+    {
       "id": 8490581,
       "packageCount": 1,
       "name": "HiAF|Disposable Live Terpenes|Lemon Meringue|Vape Cart|1000mg",
@@ -56182,7 +56247,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Watermelon Z",
       "strainType": "Indica",
@@ -56216,7 +56281,7 @@
         {
           "id": 8944071,
           "label": "1A40303000003EA000264681",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         }
