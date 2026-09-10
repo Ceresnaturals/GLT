@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T19:10:27.873390+00:00",
+  "generated_at": "2026-09-10T19:20:28.297690+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7946,6 +7946,58 @@
       ]
     },
     {
+      "id": 8970468,
+      "packageCount": 1,
+      "name": "Rythm 5 Pack (Infused) - Mai Tai (Sativa Dominant) - Concentrate - 2.5g",
+      "brand": "Rythm",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Mai Tai",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 41.25,
+        "totalCBD": 0.03,
+        "CBC": 0.0,
+        "CBDA": 0.03,
+        "CBDV": 0.0,
+        "CBG": 0.08,
+        "CBGA": 0.44,
+        "CBN": 0.0,
+        "THCA": 45.53,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.05,
+        "myrcene": 0.09,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.62,
+        "beta-pinene": 0.03,
+        "caryophyllene-oxide": 0.02,
+        "limonene": 0.18,
+        "linalool": 0.25,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 1.51,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8970468,
+          "label": "1A40303000003EA000263660",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-07-14"
+        }
+      ]
+    },
+    {
       "id": 8970469,
       "packageCount": 1,
       "name": "Rythm 5 Pack (Infused) - Pineapple Express (Hybrid) - Concentrate - 2.5g",
@@ -8156,7 +8208,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Strawberry Shortcake",
       "strainType": "Indica",
@@ -8191,7 +8243,7 @@
         {
           "id": 8919842,
           "label": "1A40303000003EA000206310",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-08-05"
         }
@@ -9601,6 +9653,53 @@
       ]
     },
     {
+      "id": 8970470,
+      "packageCount": 1,
+      "name": "Dr. Solomons Tincture 50mg - Doze (1:1 CBN:THC)-Exempt-1.67mg-30",
+      "brand": null,
+      "category": "Drink",
+      "metrcCategory": "Exempt Liquid Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.36,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.36,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": ".5mL",
+        "totalThcMg": 50.0,
+        "thcMgPerServing": 1.67,
+        "minorsMgPerServing": {},
+        "minorsEstimated": false
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8970470,
+          "label": "1A40303000003EA000263663",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-04-28"
+        }
+      ]
+    },
+    {
       "id": 8947753,
       "packageCount": 1,
       "name": "Keef - Blue Razz - Liquid Edible - 10mg - 1",
@@ -9667,7 +9766,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9708,7 +9807,7 @@
         {
           "id": 8920317,
           "label": "1A40303000001F5000423547",
-          "quantity": 16.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -11931,7 +12030,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11972,7 +12071,7 @@
         {
           "id": 8939218,
           "label": "1A4030300003522000210559",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-06"
         }
@@ -17560,7 +17659,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17599,7 +17698,7 @@
         {
           "id": 8902252,
           "label": "1A40303000017D5000104294",
-          "quantity": 13.0,
+          "quantity": 11.0,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-07-20"
         }
@@ -19599,44 +19698,46 @@
       ]
     },
     {
-      "id": 8518559,
+      "id": 8939232,
       "packageCount": 1,
-      "name": "In House Sour Apple Gummies-Exempt-40mg-10",
+      "name": "In House Sour Apple Gummies-Edible Product-10mg-10",
       "brand": "In House",
       "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.753,
-        "CBC": 0.007,
+        "totalTHC": 0.22,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.024,
+        "CBG": 0.0,
         "CBGA": 0.0,
-        "CBN": 0.009,
+        "CBN": 0.0,
         "THCA": 0.0,
-        "THCV": 0.007
+        "THCV": 0.0
       },
       "dose": {
         "servingSize": "1",
-        "totalThcMg": 400.0,
-        "thcMgPerServing": 40.0,
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "CBC": 0.35,
+          "totalCBD": 0.0,
+          "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 1.2,
+          "CBG": 0.0,
           "CBGA": 0.0,
-          "CBN": 0.45,
+          "CBN": 0.0,
           "THCA": 0.0,
-          "THCV": 0.35
+          "THCV": 0.0
         },
         "minorsEstimated": true
       },
@@ -19644,6 +19745,70 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8939232,
+          "label": "1A4030300003522000210570",
+          "quantity": 19.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-08-07"
+        }
+      ]
+    },
+    {
+      "id": 8939234,
+      "packageCount": 2,
+      "name": "In House Sour Apple Gummies-Exempt-40mg-10",
+      "brand": "In House",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 28.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.8,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.03,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.5,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8939234,
+          "label": "1A4030300003522000210571",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-05-21"
+        },
         {
           "id": 8518559,
           "label": "1A4030300003522000192417",
@@ -20924,6 +21089,63 @@
           "quantity": 14.0,
           "packagedDate": "2026-06-17",
           "expirationDate": "2027-04-22"
+        }
+      ]
+    },
+    {
+      "id": 8970466,
+      "packageCount": 1,
+      "name": "Incredibles Gummy 100mg - Watermelon Smash-Edible Product-10mg-10 Pieces",
+      "brand": "Incredibles",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.34,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.03,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.9,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8970466,
+          "label": "1A40303000003EA000263654",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-06-24"
         }
       ]
     },
@@ -25367,7 +25589,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 199.43,
+      "quantity": 195.93,
       "unit": "Grams",
       "strainName": "GP II",
       "strainType": null,
@@ -25400,7 +25622,7 @@
         {
           "id": 8751943,
           "label": "1A4030300002009000109419",
-          "quantity": 199.43,
+          "quantity": 195.93,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-05-12"
         }
@@ -26735,7 +26957,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 56.0,
+      "quantity": 52.5,
       "unit": "Grams",
       "strainName": "Grape Gas",
       "strainType": null,
@@ -26770,7 +26992,7 @@
         {
           "id": 8881941,
           "label": "1A4030300004845000039295",
-          "quantity": 56.0,
+          "quantity": 52.5,
           "packagedDate": "2026-06-08",
           "expirationDate": null
         }
@@ -29801,7 +30023,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 63.0,
+      "quantity": 59.5,
       "unit": "Grams",
       "strainName": "OPBO",
       "strainType": null,
@@ -29835,7 +30057,7 @@
         {
           "id": 8954761,
           "label": "1A40303000000CD000079350",
-          "quantity": 63.0,
+          "quantity": 59.5,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -31994,6 +32216,55 @@
       ]
     },
     {
+      "id": 8970729,
+      "packageCount": 1,
+      "name": "Animal Scout 5 pack (Infused) Dogwalkers (Sit) - Concentrate - 2.25g",
+      "brand": "Dogwalkers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Animal Scout",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 43.3,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.02,
+        "CBN": 0.0,
+        "THCA": 48.09,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.05,
+        "myrcene": 0.13,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.19,
+        "beta-pinene": 0.05,
+        "limonene": 0.37,
+        "linalool": 0.11
+      },
+      "totalTerps": 1.09,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8970729,
+          "label": "1A40303000003EA000263659",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-07-29"
+        }
+      ]
+    },
+    {
       "id": 8351547,
       "packageCount": 1,
       "name": "Apple Tarts Pre-Roll - Usable - 1g",
@@ -33102,7 +33373,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Grams",
       "strainName": "Carolina",
       "strainType": null,
@@ -33136,7 +33407,7 @@
         {
           "id": 8952600,
           "label": "1A403030000012D000265623",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -33205,7 +33476,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Grams",
       "strainName": "Dark Star Tangie",
       "strainType": null,
@@ -33240,7 +33511,7 @@
         {
           "id": 8863977,
           "label": "1A403030000012D000260509",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -34554,7 +34825,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -37649,7 +37920,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Grams",
       "strainName": "Rainbow Push Pop #4",
       "strainType": null,
@@ -37682,7 +37953,7 @@
         {
           "id": 8947325,
           "label": "1A40303000000CB000051195",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         }
