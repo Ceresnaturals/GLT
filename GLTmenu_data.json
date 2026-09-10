@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T18:50:27.620946+00:00",
+  "generated_at": "2026-09-10T19:00:30.442576+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7946,6 +7946,56 @@
       ]
     },
     {
+      "id": 8970469,
+      "packageCount": 1,
+      "name": "Rythm 5 Pack (Infused) - Pineapple Express (Hybrid) - Concentrate - 2.5g",
+      "brand": "Rythm",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Pineapple Express",
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 39.41,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.81,
+        "CBN": 0.0,
+        "THCA": 43.6,
+        "THCV": 0.25
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.18,
+        "myrcene": 0.17,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.51,
+        "beta-pinene": 0.08,
+        "limonene": 0.25,
+        "linalool": 0.15,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 1.57,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8970469,
+          "label": "1A40303000003EA000263661",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-08-18"
+        }
+      ]
+    },
+    {
       "id": 8944070,
       "packageCount": 1,
       "name": "Rythm 5 Pack (Infused) - Watermelon Z (Indica Dominant) - Concentrate - 2.5g",
@@ -10522,63 +10572,6 @@
           "quantity": 2.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-06-24"
-        }
-      ]
-    },
-    {
-      "id": 8946522,
-      "packageCount": 1,
-      "name": "Tall- (XO) Juicy Peach - Liquid Edible - 10mg - 1",
-      "brand": null,
-      "category": "Drink",
-      "metrcCategory": "Infused Liquid Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.003,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 can, 12 fl. oz.",
-        "totalThcMg": 10.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8946522,
-          "label": "1A4030300000C83000081470",
-          "quantity": 2.0,
-          "packagedDate": "2026-09-02",
-          "expirationDate": "2027-08-17"
         }
       ]
     },
@@ -14623,63 +14616,6 @@
           "quantity": 13.0,
           "packagedDate": "2026-08-04",
           "expirationDate": "2027-07-09"
-        }
-      ]
-    },
-    {
-      "id": 8946619,
-      "packageCount": 1,
-      "name": "Disco Milk Chocolate (Fel) - edible product - 10mg - 10",
-      "brand": "Disco",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 21.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.22,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 each, 10 servings per package",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8946619,
-          "label": "1A4030300000C83000081471",
-          "quantity": 21.0,
-          "packagedDate": "2026-09-02",
-          "expirationDate": "2027-06-11"
         }
       ]
     },
@@ -25420,6 +25356,56 @@
           "quantity": 199.43,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-05-12"
+        }
+      ]
+    },
+    {
+      "id": 8970733,
+      "packageCount": 1,
+      "name": "Afternoon Delight #4 Pre-Pack (Mixed Buds) - Rythm (Hybrid) - Usable - 28g",
+      "brand": "Rythm",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 560.0,
+      "unit": "Grams",
+      "strainName": "Afternoon Delight #4",
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.18,
+        "CBN": 0.0,
+        "THCA": 34.83,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.15,
+        "humulene": 0.34,
+        "myrcene": 0.39,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 1.43,
+        "beta-pinene": 0.07,
+        "limonene": 0.58,
+        "linalool": 0.29,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.47,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8970733,
+          "label": "1A40303000003EA000263658",
+          "quantity": 560.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-08-10"
         }
       ]
     },
@@ -46468,6 +46454,56 @@
       ]
     },
     {
+      "id": 8970731,
+      "packageCount": 1,
+      "name": "Fire OG Cartridge (NCD) - &Shine (Indica) - Vape Cart - 1000mg",
+      "brand": "&Shine",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Fire OG",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.16,
+        "CBC": 0.74,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.65,
+        "CBGA": 0.0,
+        "CBN": 0.33,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.18,
+        "humulene": 0.12,
+        "myrcene": 0.59,
+        "alpha-pinene": 0.18,
+        "caryophyllene": 1.61,
+        "beta-pinene": 0.29,
+        "caryophyllene-oxide": 0.24,
+        "limonene": 2.01,
+        "linalool": 0.39
+      },
+      "totalTerps": 6.06,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8970731,
+          "label": "1A40303000003EA000263665",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-07-21"
+        }
+      ]
+    },
+    {
       "id": 8908839,
       "packageCount": 1,
       "name": "Flavor Series Baja Smash- Vape Cart- 1g",
@@ -47419,6 +47455,56 @@
           "quantity": 1.0,
           "packagedDate": "2026-05-27",
           "expirationDate": "2027-02-06"
+        }
+      ]
+    },
+    {
+      "id": 8970471,
+      "packageCount": 1,
+      "name": "Gazzurple (Live Resin) - Rythm (Sativa Dominant) - Vape Cart - 1000mg",
+      "brand": "Rythm",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Gazzurple",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 79.47,
+        "CBC": 0.77,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.61,
+        "CBGA": 0.0,
+        "CBN": 0.13,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.2,
+        "humulene": 0.79,
+        "myrcene": 1.01,
+        "alpha-pinene": 0.42,
+        "caryophyllene": 2.1,
+        "beta-pinene": 0.17,
+        "limonene": 2.69,
+        "linalool": 2.17,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 10.85,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8970471,
+          "label": "1A40303000003EA000263664",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-07-29"
         }
       ]
     },
