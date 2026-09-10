@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T17:40:26.122469+00:00",
+  "generated_at": "2026-09-10T17:50:28.332556+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -32338,46 +32338,58 @@
       ]
     },
     {
-      "id": 8923142,
-      "packageCount": 1,
+      "id": 8966513,
+      "packageCount": 2,
       "name": "Bomb Popz Hellavated Juicy Stickz - Infused Pre-roll - 0.75 g",
       "brand": "Hellavated",
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Bomb Popz Juicy Stickz",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 36.32,
-        "totalCBD": 0.06,
-        "CBC": 0.14,
-        "CBDA": 0.0,
+        "totalTHC": 33.63,
+        "totalCBD": 0.1,
+        "CBC": 0.12,
+        "CBDA": 0.03,
         "CBDV": 0.0,
-        "CBG": 0.66,
-        "CBGA": 0.63,
-        "CBN": 0.26,
-        "THCA": 17.32,
-        "THCV": 0.15
+        "CBG": 0.7,
+        "CBGA": 0.58,
+        "CBN": 0.62,
+        "THCA": 13.31,
+        "THCV": 0.14
       },
       "dose": null,
       "terpenes": {
+        "bisabolol": 0.02,
         "humulene": 0.06,
-        "myrcene": 0.18,
-        "alpha-pinene": 0.15,
-        "caryophyllene": 0.25,
-        "beta-pinene": 0.05,
-        "limonene": 0.54,
-        "linalool": 0.32,
-        "terpinolene": 0.01
+        "myrcene": 0.13,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 0.31,
+        "eudesmol": 0.02,
+        "beta-pinene": 0.03,
+        "caryophyllene-oxide": 0.01,
+        "ocimene": 0.03,
+        "limonene": 0.39,
+        "linalool": 0.35,
+        "terpinolene": 0.08
       },
-      "totalTerps": 1.73,
+      "totalTerps": 1.65,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 8966513,
+          "label": "1A403030000012E000192649",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-02-09"
+        },
         {
           "id": 8923142,
           "label": "1A403030000012E000187004",
