@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T19:50:29.680876+00:00",
+  "generated_at": "2026-09-10T20:00:32.944827+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -39320,7 +39320,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 87.18,
+      "quantity": 83.68,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -39352,7 +39352,7 @@
         {
           "id": 8858186,
           "label": "1A40303000001F5000416988",
-          "quantity": 87.18,
+          "quantity": 83.68,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -40985,6 +40985,58 @@
       ]
     },
     {
+      "id": 8974570,
+      "packageCount": 1,
+      "name": "Airo Pod Berry Bliss 1.0g/1000mg",
+      "brand": "Airo",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Berry Bliss",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.78,
+        "totalCBD": 0.19,
+        "CBC": 1.27,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.57,
+        "CBGA": 0.0,
+        "CBN": 0.21,
+        "THCA": 0.0,
+        "THCV": 0.92
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.59,
+        "myrcene": 0.86,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 1.42,
+        "beta-pinene": 0.17,
+        "caryophyllene-oxide": 0.04,
+        "limonene": 1.95,
+        "linalool": 0.46,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 5.99,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8974570,
+          "label": "1A40303000001F5000428937",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-07-24"
+        }
+      ]
+    },
+    {
       "id": 8731181,
       "packageCount": 2,
       "name": "Airo Pod Black Mamba 0.5g/500mg",
@@ -41936,6 +41988,58 @@
           "quantity": 8.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-05-26"
+        }
+      ]
+    },
+    {
+      "id": 8974642,
+      "packageCount": 1,
+      "name": "Airo Pod SDG OG LLR 0.5g/500mg",
+      "brand": "Airo",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "SDG OG LLR",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 71.0,
+        "totalCBD": 0.18,
+        "CBC": 0.68,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.69,
+        "CBGA": 0.0,
+        "CBN": 0.09,
+        "THCA": 0.0,
+        "THCV": 0.58
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.82,
+        "myrcene": 2.39,
+        "alpha-pinene": 0.4,
+        "caryophyllene": 1.57,
+        "beta-pinene": 0.21,
+        "ocimene": 0.02,
+        "limonene": 1.91,
+        "linalool": 0.74,
+        "terpinolene": 0.07
+      },
+      "totalTerps": 8.92,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8974642,
+          "label": "1A40303000001F5000428938",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-04-08"
         }
       ]
     },
@@ -50454,6 +50558,57 @@
       ]
     },
     {
+      "id": 8974646,
+      "packageCount": 1,
+      "name": "Jack Herer Distillate Vape 0.5g/500mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Jack Herer",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.73,
+        "totalCBD": 0.13,
+        "CBC": 0.57,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.02,
+        "CBGA": 0.0,
+        "CBN": 0.29,
+        "THCA": 0.0,
+        "THCV": 0.26
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.14,
+        "myrcene": 1.03,
+        "alpha-pinene": 0.39,
+        "caryophyllene": 0.32,
+        "beta-pinene": 0.27,
+        "ocimene": 0.64,
+        "limonene": 0.67,
+        "linalool": 0.02,
+        "terpinolene": 1.96
+      },
+      "totalTerps": 6.61,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8974646,
+          "label": "1A40303000001F5000428942",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-03-26"
+        }
+      ]
+    },
+    {
       "id": 8676411,
       "packageCount": 1,
       "name": "Jack's Delight Pen (Live Resin) - Rythm (Sativa Dominant) - Vape Pen - 1000mg",
@@ -52626,6 +52781,56 @@
           "quantity": 8.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2026-12-15"
+        }
+      ]
+    },
+    {
+      "id": 8974643,
+      "packageCount": 1,
+      "name": "London Pound Cake DV 2.0g/2000mg Disposable",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "London Pound Cake DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 80.53,
+        "totalCBD": 0.14,
+        "CBC": 0.56,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.85,
+        "CBGA": 0.0,
+        "CBN": 0.32,
+        "THCA": 0.0,
+        "THCV": 0.23
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.18,
+        "myrcene": 3.4,
+        "alpha-pinene": 1.26,
+        "caryophyllene": 1.27,
+        "beta-pinene": 0.59,
+        "limonene": 3.39,
+        "linalool": 1.49,
+        "terpinolene": 0.12
+      },
+      "totalTerps": 12.5,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8974643,
+          "label": "1A40303000001F5000428939",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-07-14"
         }
       ]
     },
