@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T18:10:33.702252+00:00",
+  "generated_at": "2026-09-10T18:20:32.225215+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2494,16 +2494,17 @@
       ]
     },
     {
-      "id": 8891364,
-      "packageCount": 1,
+      "id": 8970730,
+      "packageCount": 2,
       "name": "Dr. Solomon's RSO - THC Rich (Hybrid) - Jet Fuel OG - Concentrate - 1000mg",
       "brand": "Dr. Solomon's",
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Jet Fuel OG",
       "strainType": "Hybrid",
@@ -2534,6 +2535,13 @@
       "totalTerps": 11.0,
       "dominantTerpene": "caryophyllene",
       "packages": [
+        {
+          "id": 8970730,
+          "label": "1A40303000003EA000263662",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-07-23"
+        },
         {
           "id": 8891364,
           "label": "1A40303000003EA000205089",
@@ -19551,7 +19559,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19592,7 +19600,7 @@
         {
           "id": 8939232,
           "label": "1A4030300003522000210570",
-          "quantity": 21.0,
+          "quantity": 19.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-07"
         }
@@ -20077,7 +20085,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20118,7 +20126,7 @@
         {
           "id": 8939354,
           "label": "1A4030300003522000210573",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-24"
         }
@@ -20758,16 +20766,17 @@
       ]
     },
     {
-      "id": 8746342,
-      "packageCount": 1,
+      "id": 8970726,
+      "packageCount": 2,
       "name": "Incredibles Gummy 100mg - Snoozzzierberry (2:1:1 THC:CBN:CBG)-Edible Product-10mg-10 Pieces",
       "brand": "Incredibles",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20805,6 +20814,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8970726,
+          "label": "1A40303000003EA000263655",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-04-24"
+        },
         {
           "id": 8746342,
           "label": "1A40303000003EA000201207",
@@ -22373,7 +22389,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -22412,7 +22428,7 @@
         {
           "id": 8864067,
           "label": "1A403030000012D000260503",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -24028,7 +24044,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -24069,7 +24085,7 @@
         {
           "id": 8857836,
           "label": "1A403030000390D000066138",
-          "quantity": 8.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-08-02"
         }
@@ -25520,7 +25536,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 196.0,
+      "quantity": 189.0,
       "unit": "Grams",
       "strainName": "Apple Z",
       "strainType": null,
@@ -25553,7 +25569,7 @@
         {
           "id": 7831886,
           "label": "1A4030300000192000020610",
-          "quantity": 196.0,
+          "quantity": 189.0,
           "packagedDate": "2025-12-12",
           "expirationDate": "2026-10-20"
         }
@@ -28371,7 +28387,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 112.0,
+      "quantity": 108.5,
       "unit": "Grams",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -28405,7 +28421,7 @@
         {
           "id": 8947053,
           "label": "1A40303000000CB000051186",
-          "quantity": 112.0,
+          "quantity": 108.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-18"
         }
@@ -38801,7 +38817,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 195.0,
+      "quantity": 180.0,
       "unit": "Grams",
       "strainName": "Just Packaged Ready to Roll",
       "strainType": null,
@@ -38836,7 +38852,7 @@
         {
           "id": 8946809,
           "label": "1A4030300004845000041487",
-          "quantity": 195.0,
+          "quantity": 180.0,
           "packagedDate": "2026-08-25",
           "expirationDate": null
         }
@@ -45030,7 +45046,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Blissful Wizard",
       "strainType": null,
@@ -45066,7 +45082,7 @@
         {
           "id": 8953001,
           "label": "1A403030000012D000265624",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -47056,7 +47072,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Frosted Passionfruit DV",
       "strainType": null,
@@ -47091,7 +47107,7 @@
         {
           "id": 8545208,
           "label": "1A40303000001F5000386256",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-06-03",
           "expirationDate": "2026-12-15"
         }
@@ -49921,16 +49937,17 @@
       ]
     },
     {
-      "id": 8873576,
-      "packageCount": 1,
+      "id": 8966588,
+      "packageCount": 2,
       "name": "Jack Herer Distillate Cartridge Strane - Vape Cart - 1 g",
       "brand": "Strane",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Jack Herer",
       "strainType": null,
@@ -49959,6 +49976,13 @@
       "totalTerps": 6.12,
       "dominantTerpene": "terpinolene",
       "packages": [
+        {
+          "id": 8966588,
+          "label": "1A403030000012E000190895",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-04-03"
+        },
         {
           "id": 8873576,
           "label": "1A403030000012E000183007",
@@ -50120,16 +50144,17 @@
       ]
     },
     {
-      "id": 8922976,
-      "packageCount": 1,
+      "id": 8966589,
+      "packageCount": 2,
       "name": "Juicee J Distillate Cartridge Strane - Vape Cart - 1 g",
       "brand": "Strane",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Juicee J",
       "strainType": null,
@@ -50160,6 +50185,13 @@
       "totalTerps": 6.5,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 8966589,
+          "label": "1A403030000012E000190896",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-05-31"
+        },
         {
           "id": 8922976,
           "label": "1A403030000012E000187015",
