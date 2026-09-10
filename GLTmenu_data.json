@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T20:00:32.944827+00:00",
+  "generated_at": "2026-09-10T20:10:27.999016+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2932,7 +2932,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Froot Loot Cake",
       "strainType": null,
@@ -2966,7 +2966,7 @@
         {
           "id": 8794843,
           "label": "1A4030300000C83000078734",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-07-10"
         }
@@ -5786,7 +5786,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Mfused FIRE Fattys",
       "strainType": null,
@@ -5821,7 +5821,7 @@
         {
           "id": 8828895,
           "label": "1A403030000012D000259359",
-          "quantity": 12.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -9215,7 +9215,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Zushi BOP Cake",
       "strainType": null,
@@ -9250,7 +9250,7 @@
         {
           "id": 8641756,
           "label": "1A4030300000C83000075110",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-06-24",
           "expirationDate": "2027-05-22"
         }
@@ -18492,7 +18492,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18533,7 +18533,7 @@
         {
           "id": 8914782,
           "label": "1A4030300002009000112788",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-05-20"
         }
@@ -25589,7 +25589,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 195.93,
+      "quantity": 192.43,
       "unit": "Grams",
       "strainName": "GP II",
       "strainType": null,
@@ -25622,7 +25622,7 @@
         {
           "id": 8751943,
           "label": "1A4030300002009000109419",
-          "quantity": 195.93,
+          "quantity": 192.43,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-05-12"
         }
@@ -26322,7 +26322,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 364.0,
+      "quantity": 336.0,
       "unit": "Grams",
       "strainName": "Chem de la Chem TC",
       "strainType": null,
@@ -26354,7 +26354,7 @@
         {
           "id": 8947223,
           "label": "1A40303000001F5000425607",
-          "quantity": 364.0,
+          "quantity": 336.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -27748,7 +27748,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 77.0,
+      "quantity": 73.5,
       "unit": "Grams",
       "strainName": "Gelato 33",
       "strainType": null,
@@ -27781,7 +27781,7 @@
         {
           "id": 8939181,
           "label": "1A4030300003521000056673",
-          "quantity": 77.0,
+          "quantity": 73.5,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-08"
         }
@@ -34475,6 +34475,55 @@
       ]
     },
     {
+      "id": 8974569,
+      "packageCount": 1,
+      "name": "Golden Pineapple - Pre Roll Joints - 0.5 gram - 2 Pack",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Grams",
+      "strainName": "Golden Pineapple",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 23.59,
+        "totalCBD": 0.25,
+        "CBDA": 0.03,
+        "CBG": 0.19,
+        "CBN": 0.01,
+        "THCA": 26.38
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.01,
+        "humulene": 0.05,
+        "myrcene": 0.36,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 0.16,
+        "beta-pinene": 0.14,
+        "ocimene": 0.33,
+        "limonene": 0.25,
+        "linalool": 0.02,
+        "terpinolene": 1.6,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 3.26,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8974569,
+          "label": "1A40303000001F5000428936",
+          "quantity": 50.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8858490,
       "packageCount": 1,
       "name": "Grape Lime Ricky - Pre Roll Joints - 0.5 gram - 2 Pack",
@@ -35365,7 +35414,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -35399,7 +35448,7 @@
         {
           "id": 8678608,
           "label": "1A403030000012D000253353",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-02",
           "expirationDate": null
         }
@@ -37716,6 +37765,55 @@
       ]
     },
     {
+      "id": 8974568,
+      "packageCount": 1,
+      "name": "Permanent Marker - Pre Roll Joints - 0.5 gram - 2 Pack",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Grams",
+      "strainName": "Permanent Marker",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.22,
+        "totalCBD": 0.15,
+        "CBDA": 0.03,
+        "CBG": 0.83,
+        "CBN": 0.02,
+        "THCA": 28.03
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.03,
+        "humulene": 0.14,
+        "myrcene": 0.06,
+        "alpha-pinene": 0.14,
+        "caryophyllene": 0.45,
+        "beta-pinene": 0.1,
+        "ocimene": 0.07,
+        "limonene": 0.58,
+        "linalool": 0.27,
+        "terpinolene": 0.01,
+        "nerolidol": 0.02
+      },
+      "totalTerps": 2.06,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8974568,
+          "label": "1A40303000001F5000428935",
+          "quantity": 50.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8596193,
       "packageCount": 1,
       "name": "Pillow Mints - Preroll - Usable - 1.0g",
@@ -38258,6 +38356,55 @@
           "quantity": 13.0,
           "packagedDate": "2026-07-08",
           "expirationDate": "2027-06-05"
+        }
+      ]
+    },
+    {
+      "id": 8974567,
+      "packageCount": 1,
+      "name": "SDG OG - Pre Roll Joints - 0.5 gram - 2 Pack",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Grams",
+      "strainName": "SDG OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.4,
+        "totalCBD": 0.25,
+        "CBDA": 0.03,
+        "CBG": 0.57,
+        "CBN": 0.03,
+        "THCA": 31.64
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.04,
+        "humulene": 0.2,
+        "myrcene": 0.45,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.6,
+        "beta-pinene": 0.06,
+        "ocimene": 0.01,
+        "limonene": 0.42,
+        "linalool": 0.13,
+        "terpinolene": 0.01,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.04,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8974567,
+          "label": "1A40303000001F5000428934",
+          "quantity": 50.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": null
         }
       ]
     },
@@ -39320,7 +39467,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 83.68,
+      "quantity": 80.18,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -39352,7 +39499,7 @@
         {
           "id": 8858186,
           "label": "1A40303000001F5000416988",
-          "quantity": 83.68,
+          "quantity": 80.18,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -41245,7 +41392,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Durban Poison",
       "strainType": null,
@@ -41280,7 +41427,7 @@
         {
           "id": 8794515,
           "label": "1A40303000001F5000410802",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2026-11-19"
         }
@@ -41901,7 +42048,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Pink Palmer",
       "strainType": null,
@@ -41935,7 +42082,7 @@
         {
           "id": 8731182,
           "label": "1A40303000001F5000404826",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-06-01"
         }
@@ -43657,7 +43804,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Wedding Cake",
       "strainType": null,
@@ -43692,7 +43839,7 @@
         {
           "id": 8911344,
           "label": "1A403030000283D000060418",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-25",
           "expirationDate": null
         }
@@ -45568,7 +45715,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Captain's Cake",
       "strainType": null,
@@ -45602,7 +45749,7 @@
         {
           "id": 8738110,
           "label": "1A403030000012D000255825",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-16",
           "expirationDate": null
         }
@@ -53755,7 +53902,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "White Widow",
       "strainType": null,
@@ -53790,7 +53937,7 @@
         {
           "id": 8945081,
           "label": "1A403030000283D000060838",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-26"
         }
@@ -54051,7 +54198,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Mfused LOUD Super Fog Jefe Stoopid Gas",
       "strainType": null,
@@ -54086,7 +54233,7 @@
         {
           "id": 8828986,
           "label": "1A403030000012D000259345",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -56369,7 +56516,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Raspberry Daydream DV",
       "strainType": null,
@@ -56405,7 +56552,7 @@
         {
           "id": 8858498,
           "label": "1A40303000001F5000416986",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-03-26"
         }
