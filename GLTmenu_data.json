@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T18:20:33.756608+00:00",
+  "generated_at": "2026-09-11T18:30:35.713740+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -28342,7 +28342,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.5,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Khalifa Mints",
       "strainType": null,
@@ -28375,7 +28375,7 @@
         {
           "id": 8483523,
           "label": "1A40303000000C9000157042",
-          "quantity": 45.5,
+          "quantity": 42.0,
           "packagedDate": "2026-05-20",
           "expirationDate": "2027-05-10"
         }
@@ -28589,7 +28589,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 91.0,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Ice Cream Banger",
       "strainType": null,
@@ -28622,7 +28622,7 @@
         {
           "id": 8954086,
           "label": "1A403030000025B000086986",
-          "quantity": 91.0,
+          "quantity": 84.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-07-22"
         }
@@ -28989,7 +28989,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.5,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -29023,7 +29023,7 @@
         {
           "id": 8947053,
           "label": "1A40303000000CB000051186",
-          "quantity": 45.5,
+          "quantity": 42.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-18"
         }
@@ -29270,6 +29270,55 @@
           "label": "1A40303000007D1000090209",
           "quantity": 57.0,
           "packagedDate": "2026-07-20",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 7945826,
+      "packageCount": 1,
+      "name": "MDCLCK-PR-05-2PK",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 4.0,
+      "unit": "Grams",
+      "strainName": "Cherry Limeade Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 20.26,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.29,
+        "CBN": 0.0,
+        "THCA": 21.09,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.14,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 0.53,
+        "beta-pinene": 0.1,
+        "caryophyllene-oxide": 0.04,
+        "limonene": 0.61,
+        "linalool": 0.29,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 2.29,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 7945826,
+          "label": "1A40303000007D1000058449",
+          "quantity": 4.0,
+          "packagedDate": "2026-01-13",
           "expirationDate": null
         }
       ]
@@ -30852,7 +30901,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 87.5,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -30886,7 +30935,7 @@
         {
           "id": 8974565,
           "label": "1A40303000001F5000428931",
-          "quantity": 87.5,
+          "quantity": 84.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -31193,7 +31242,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 87.5,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -31225,7 +31274,7 @@
         {
           "id": 8974639,
           "label": "1A40303000001F5000428933",
-          "quantity": 87.5,
+          "quantity": 84.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -31489,7 +31538,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 157.5,
+      "quantity": 154.0,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -31522,7 +31571,7 @@
         {
           "id": 8947055,
           "label": "1A40303000000CB000051188",
-          "quantity": 157.5,
+          "quantity": 154.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         }
@@ -32816,7 +32865,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Baby Turtle",
       "strainType": null,
@@ -32848,7 +32897,7 @@
         {
           "id": 7868767,
           "label": "1A40303000000C9000127618",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2025-12-20",
           "expirationDate": "2026-12-09"
         }
@@ -54075,7 +54124,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Banana Berry Smoothie",
       "strainType": null,
@@ -54107,7 +54156,7 @@
         {
           "id": 8885895,
           "label": "1A403030000283D000057729",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-06-24"
         }
