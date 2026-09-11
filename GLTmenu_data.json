@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T18:00:31.777324+00:00",
+  "generated_at": "2026-09-11T18:10:33.625620+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8207,56 +8207,6 @@
           "quantity": 24.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-18"
-        }
-      ]
-    },
-    {
-      "id": 8944070,
-      "packageCount": 1,
-      "name": "Rythm 5 Pack (Infused) - Watermelon Z (Indica Dominant) - Concentrate - 2.5g",
-      "brand": "Rythm",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 20.0,
-      "unit": "Each",
-      "strainName": "Watermelon Z",
-      "strainType": "Indica",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 36.59,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.52,
-        "CBN": 0.0,
-        "THCA": 39.19,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.12,
-        "humulene": 0.26,
-        "myrcene": 0.07,
-        "alpha-pinene": 0.02,
-        "caryophyllene": 1.04,
-        "beta-pinene": 0.02,
-        "limonene": 0.14,
-        "linalool": 0.34,
-        "nerolidol": 0.12
-      },
-      "totalTerps": 2.25,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8944070,
-          "label": "1A40303000003EA000264678",
-          "quantity": 20.0,
-          "packagedDate": "2026-09-02",
-          "expirationDate": "2027-07-21"
         }
       ]
     },
@@ -25732,6 +25682,55 @@
       ]
     },
     {
+      "id": 8751943,
+      "packageCount": 1,
+      "name": "1937|Trim|GP II|Usable|Bulk|454g",
+      "brand": "1937",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 73.43,
+      "unit": "Grams",
+      "strainName": "GP II",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 19.27,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.53,
+        "CBN": 0.0,
+        "THCA": 21.37,
+        "THCV": 0.09
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.18,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.51,
+        "beta-pinene": 0.06,
+        "limonene": 0.4,
+        "linalool": 0.23
+      },
+      "totalTerps": 1.71,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8751943,
+          "label": "1A4030300002009000109419",
+          "quantity": 73.43,
+          "packagedDate": "2026-07-21",
+          "expirationDate": "2027-05-12"
+        }
+      ]
+    },
+    {
       "id": 8970733,
       "packageCount": 1,
       "name": "Afternoon Delight #4 Pre-Pack (Mixed Buds) - Rythm (Hybrid) - Usable - 28g",
@@ -28186,6 +28185,55 @@
       ]
     },
     {
+      "id": 8946491,
+      "packageCount": 1,
+      "name": "Just Flower Packaged Flower (Head Hunter) - Usable - 4g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 100.0,
+      "unit": "Grams",
+      "strainName": "Head Hunter",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 23.94,
+        "totalCBD": 0.05,
+        "CBC": 0.0,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.13,
+        "CBGA": 0.8,
+        "CBN": 0.0,
+        "THCA": 26.06,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.26,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.93,
+        "beta-pinene": 0.05,
+        "limonene": 0.34,
+        "linalool": 0.43
+      },
+      "totalTerps": 2.17,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8946491,
+          "label": "1A4030300004845000041484",
+          "quantity": 100.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-08-25"
+        }
+      ]
+    },
+    {
       "id": 8625106,
       "packageCount": 1,
       "name": "Khalifa Kush Flower 3.5g",
@@ -28379,56 +28427,6 @@
           "quantity": 14.0,
           "packagedDate": "2026-04-27",
           "expirationDate": "2027-04-18"
-        }
-      ]
-    },
-    {
-      "id": 8954085,
-      "packageCount": 1,
-      "name": "Kind Tree | Flower | Buds | Georgia Mintz - Usable - 3.5g",
-      "brand": "Kind Tree",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Vault"
-      ],
-      "quantity": 91.0,
-      "unit": "Grams",
-      "strainName": "Georgia Mintz",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 26.87,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.47,
-        "CBN": 0.0,
-        "THCA": 30.08,
-        "THCV": 0.14
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.19,
-        "humulene": 0.33,
-        "myrcene": 0.08,
-        "alpha-pinene": 0.17,
-        "caryophyllene": 1.46,
-        "beta-pinene": 0.15,
-        "limonene": 0.93,
-        "linalool": 0.3,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 3.97,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8954085,
-          "label": "1A403030000025B000086985",
-          "quantity": 91.0,
-          "packagedDate": "2026-08-19",
-          "expirationDate": "2027-08-19"
         }
       ]
     },
@@ -31440,7 +31438,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 161.0,
+      "quantity": 157.5,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -31473,7 +31471,7 @@
         {
           "id": 8947055,
           "label": "1A40303000000CB000051188",
-          "quantity": 161.0,
+          "quantity": 157.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         }
@@ -33552,56 +33550,6 @@
           "label": "1A4030300000709000038319",
           "quantity": 5.0,
           "packagedDate": "2026-04-24",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8952843,
-      "packageCount": 1,
-      "name": "Curio Wellness Alien Burger Pre-rolls-usable-2x0.5g",
-      "brand": "Curio Wellness",
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 27.0,
-      "unit": "Grams",
-      "strainName": "Alien Burger",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 23.25,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.6,
-        "CBN": 0.0,
-        "THCA": 26.23,
-        "THCV": 0.15
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.1,
-        "myrcene": 0.1,
-        "alpha-pinene": 0.32,
-        "caryophyllene": 0.25,
-        "beta-pinene": 0.15,
-        "ocimene": 0.04,
-        "limonene": 0.79,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 2.01,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8952843,
-          "label": "1A403030000012D000265626",
-          "quantity": 27.0,
-          "packagedDate": "2026-09-03",
           "expirationDate": null
         }
       ]
@@ -38010,7 +37958,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -38045,7 +37993,7 @@
         {
           "id": 8947062,
           "label": "1A40303000000CB000051194",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         },
@@ -51465,7 +51413,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Grape Ape",
       "strainType": null,
@@ -51500,7 +51448,7 @@
         {
           "id": 8842350,
           "label": "1A4030300003201000001524",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-10",
           "expirationDate": null
         }
@@ -51516,7 +51464,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -51549,7 +51497,7 @@
         {
           "id": 8689166,
           "label": "1A4030300003201000001353",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-07-07",
           "expirationDate": null
         }
