@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T20:30:26.947065+00:00",
+  "generated_at": "2026-09-11T20:40:33.434835+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -13736,7 +13736,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13777,7 +13777,7 @@
         {
           "id": 8583752,
           "label": "1A403030000012D000244635",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-06-11",
           "expirationDate": null
         }
@@ -15195,7 +15195,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15236,7 +15236,7 @@
         {
           "id": 8793246,
           "label": "1A4030300000C83000080429",
-          "quantity": 9.0,
+          "quantity": 7.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-01-29"
         }
@@ -17950,7 +17950,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17989,7 +17989,7 @@
         {
           "id": 8870788,
           "label": "1A40303000017D5000103606",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-06-30",
           "expirationDate": "2027-06-30"
         }
@@ -29218,7 +29218,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -29252,7 +29252,7 @@
         {
           "id": 8947053,
           "label": "1A40303000000CB000051186",
-          "quantity": 38.5,
+          "quantity": 31.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-18"
         }
@@ -30786,7 +30786,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 50.0,
+      "quantity": 40.0,
       "unit": "Grams",
       "strainName": "Permanent Marker",
       "strainType": null,
@@ -30819,7 +30819,7 @@
         {
           "id": 8858487,
           "label": "1A40303000001F5000416970",
-          "quantity": 50.0,
+          "quantity": 40.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -38940,7 +38940,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 50.0,
+      "quantity": 49.0,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -38973,7 +38973,7 @@
         {
           "id": 8974567,
           "label": "1A40303000001F5000428934",
-          "quantity": 50.0,
+          "quantity": 49.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -41057,6 +41057,51 @@
           "quantity": 8.0,
           "packagedDate": "2026-04-10",
           "expirationDate": "2027-04-07"
+        }
+      ]
+    },
+    {
+      "id": 8238835,
+      "packageCount": 1,
+      "name": "1g_Co2lors_AIO_Blueberry (260317MED092778)-Vape Cart",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Blueberry",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 81.77,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.05,
+        "CBGA": 0.0,
+        "CBN": 0.25,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "alpha-pinene": 5.73,
+        "caryophyllene": 0.25,
+        "beta-pinene": 0.62,
+        "linalool": 0.4
+      },
+      "totalTerps": 7.22,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 8238835,
+          "label": "1A403030000238D000094214",
+          "quantity": 12.0,
+          "packagedDate": "2026-03-24",
+          "expirationDate": "2027-03-22"
         }
       ]
     },
@@ -44932,7 +44977,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Blue Hawaiian Slyde Rechargeable",
       "strainType": null,
@@ -44967,7 +45012,7 @@
         {
           "id": 8508535,
           "label": "1A4030300000C83000071958",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-05-26",
           "expirationDate": "2027-05-05"
         }
@@ -45259,6 +45304,57 @@
           "quantity": 1.0,
           "packagedDate": "2026-05-20",
           "expirationDate": "2027-03-10"
+        }
+      ]
+    },
+    {
+      "id": 8606098,
+      "packageCount": 1,
+      "name": "COL-BDTAIO-1g-CherryLime-H-MD (260608MED102061)-Vape",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "COL BDTAIO CherryLime H MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.33,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.37,
+        "CBGA": 0.0,
+        "CBN": 0.17,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.18,
+        "humulene": 0.06,
+        "myrcene": 0.33,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 0.15,
+        "beta-pinene": 0.58,
+        "limonene": 1.27,
+        "linalool": 0.28,
+        "terpinolene": 0.04,
+        "nerolidol": 0.38
+      },
+      "totalTerps": 4.2,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8606098,
+          "label": "1A403030000238D000102966",
+          "quantity": 12.0,
+          "packagedDate": "2026-06-17",
+          "expirationDate": "2027-06-14"
         }
       ]
     },
@@ -50015,7 +50111,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Acapulco Gold",
       "strainType": null,
@@ -50047,7 +50143,7 @@
         {
           "id": 8632157,
           "label": "1A4030300003522000194078",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-04-21"
         }
@@ -54603,7 +54699,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": null,
@@ -54637,7 +54733,7 @@
         {
           "id": 8945348,
           "label": "1A403030000283D000060835",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -57068,6 +57164,155 @@
       ]
     },
     {
+      "id": 8548525,
+      "packageCount": 1,
+      "name": "RO-BDTCart-.5g-BubbaKush-I-MD (260526MED100880)-Vape",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "RO BDTCart . BubbaKush I MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.5,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.91,
+        "CBGA": 0.0,
+        "CBN": 0.54,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.2,
+        "myrcene": 0.72,
+        "alpha-pinene": 0.14,
+        "caryophyllene": 1.05,
+        "beta-pinene": 0.17,
+        "ocimene": 0.13,
+        "limonene": 0.29,
+        "linalool": 0.2,
+        "terpinolene": 1.47,
+        "nerolidol": 0.26
+      },
+      "totalTerps": 4.63,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8548525,
+          "label": "1A403030000238D000101481",
+          "quantity": 12.0,
+          "packagedDate": "2026-06-04",
+          "expirationDate": "2027-05-31"
+        }
+      ]
+    },
+    {
+      "id": 8968486,
+      "packageCount": 1,
+      "name": "RO-BDTCart-.5g-GG#4-H-MD (260622MED103390)-Vape",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "RO BDTCart . GG H MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.19,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.89,
+        "CBGA": 0.0,
+        "CBN": 0.74,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.26,
+        "humulene": 0.31,
+        "myrcene": 0.6,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 1.77,
+        "beta-pinene": 0.12,
+        "limonene": 0.89,
+        "linalool": 0.19,
+        "nerolidol": 0.17
+      },
+      "totalTerps": 4.65,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8968486,
+          "label": "1A403030000238D000107261",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-06-28"
+        }
+      ]
+    },
+    {
+      "id": 8586455,
+      "packageCount": 1,
+      "name": "RO-BDTCart-.5g-GranddaddyPurpl-I-MD (260601MED101350)-Vape",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "RO BDTCart . GranddaddyPurpl I MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.8,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.53,
+        "CBGA": 0.0,
+        "CBN": 0.73,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.3,
+        "myrcene": 0.9,
+        "alpha-pinene": 0.58,
+        "caryophyllene": 0.83,
+        "beta-pinene": 0.36,
+        "limonene": 0.4,
+        "linalool": 0.31
+      },
+      "totalTerps": 3.68,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8586455,
+          "label": "1A403030000238D000102312",
+          "quantity": 12.0,
+          "packagedDate": "2026-06-12",
+          "expirationDate": "2027-06-04"
+        }
+      ]
+    },
+    {
       "id": 8587006,
       "packageCount": 1,
       "name": "RO-BDTCart-.5g-OGKush-H-MD (260601MED101353)-Vape",
@@ -57162,6 +57407,55 @@
           "quantity": 8.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-06-28"
+        }
+      ]
+    },
+    {
+      "id": 8636497,
+      "packageCount": 1,
+      "name": "RO-BDTCart-1g-9lbHammer-I-MD (260615MED102736)-Vape",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "RO BDTCart 9lbHammer I MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.35,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.6,
+        "CBGA": 0.0,
+        "CBN": 0.28,
+        "THCA": 0.0,
+        "THCV": 0.69
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.32,
+        "humulene": 0.18,
+        "myrcene": 0.64,
+        "alpha-pinene": 1.15,
+        "caryophyllene": 0.59,
+        "beta-pinene": 0.38,
+        "limonene": 0.26,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 3.57,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 8636497,
+          "label": "1A403030000238D000103473",
+          "quantity": 12.0,
+          "packagedDate": "2026-06-24",
+          "expirationDate": "2027-06-21"
         }
       ]
     },
