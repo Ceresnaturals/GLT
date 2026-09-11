@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T16:30:32.591487+00:00",
+  "generated_at": "2026-09-11T16:40:42.959787+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2346,6 +2346,58 @@
           "quantity": 10.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-20"
+        }
+      ]
+    },
+    {
+      "id": 8725275,
+      "packageCount": 1,
+      "name": "Culta Packaged Live Resin - 1g - Toxic Tangerine",
+      "brand": "Culta",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Each",
+      "strainName": "Toxic Tangerine",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 76.93,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.82,
+        "CBN": 0.0,
+        "THCA": 80.18,
+        "THCV": 0.98
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.16,
+        "humulene": 0.2,
+        "myrcene": 0.33,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.6,
+        "eudesmol": 0.16,
+        "beta-pinene": 0.12,
+        "ocimene": 0.53,
+        "limonene": 0.23,
+        "linalool": 0.39,
+        "terpinolene": 1.9
+      },
+      "totalTerps": 5.0,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8725275,
+          "label": "1A4030300000709000035849",
+          "quantity": 16.0,
+          "packagedDate": "2026-07-14",
+          "expirationDate": "2027-05-06"
         }
       ]
     },
@@ -8260,57 +8312,6 @@
       ]
     },
     {
-      "id": 8919842,
-      "packageCount": 1,
-      "name": "Rythm Single (Infused) - Strawberry Shortcake (Indica Dominant) - Concentrate - 1g",
-      "brand": "Rythm",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 12.0,
-      "unit": "Each",
-      "strainName": "Strawberry Shortcake",
-      "strainType": "Indica",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 42.17,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.93,
-        "CBN": 0.0,
-        "THCA": 46.11,
-        "THCV": 0.21
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.12,
-        "humulene": 0.17,
-        "myrcene": 0.37,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 1.09,
-        "beta-pinene": 0.07,
-        "caryophyllene-oxide": 0.09,
-        "limonene": 0.5,
-        "linalool": 0.45,
-        "terpinolene": 0.03
-      },
-      "totalTerps": 3.35,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8919842,
-          "label": "1A40303000003EA000206310",
-          "quantity": 12.0,
-          "packagedDate": "2026-08-26",
-          "expirationDate": "2027-08-05"
-        }
-      ]
-    },
-    {
       "id": 8826452,
       "packageCount": 1,
       "name": "Rythm Single (Infused) - Strawberry Sour Diesel (Sativa Dominant) - Concentrate - 1g",
@@ -10046,6 +10047,63 @@
       ]
     },
     {
+      "id": 8973208,
+      "packageCount": 1,
+      "name": "Keef - Pineapple X-Press - Liquid Edible - 10mg - 1",
+      "brand": null,
+      "category": "Drink",
+      "metrcCategory": "Infused Liquid Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.003,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Can",
+        "totalThcMg": 10.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8973208,
+          "label": "1A40303000001F5000428806",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-07-15"
+        }
+      ]
+    },
+    {
       "id": 8920318,
       "packageCount": 1,
       "name": "Keef - Purple Passion - Liquid Edible - 10mg - 1",
@@ -10158,16 +10216,17 @@
       ]
     },
     {
-      "id": 8947756,
-      "packageCount": 1,
+      "id": 8972981,
+      "packageCount": 2,
       "name": "Sunnies Mocktail No. 1 Sweet Orange - Liquid Edible -10mg -1",
       "brand": "Sunnies",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 7.0,
+      "quantity": 31.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10205,6 +10264,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8972981,
+          "label": "1A40303000001F5000428807",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": null
+        },
         {
           "id": 8947756,
           "label": "1A40303000001F5000425699",
@@ -10329,16 +10395,17 @@
       ]
     },
     {
-      "id": 8920197,
-      "packageCount": 1,
+      "id": 8972983,
+      "packageCount": 2,
       "name": "Sunnies Socials - Peach Sparkling Water - Liquid Edible -10mg -1",
       "brand": "Sunnies",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10376,6 +10443,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8972983,
+          "label": "1A40303000001F5000428808",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-07-23"
+        },
         {
           "id": 8920197,
           "label": "1A40303000001F5000423552",
@@ -20337,7 +20411,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20378,7 +20452,7 @@
         {
           "id": 8826445,
           "label": "1A40303000003EA000195250",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-02"
         }
@@ -21086,16 +21160,15 @@
     },
     {
       "id": 8891521,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Incredibles Gummy 100mg-Sour Blue Razzberry (1:1 THC:CBG)-Edible Product-10mg-10 Pieces",
       "brand": "Incredibles",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21139,13 +21212,6 @@
           "quantity": 25.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-09"
-        },
-        {
-          "id": 8698037,
-          "label": "1A40303000003EA000198675",
-          "quantity": 2.0,
-          "packagedDate": "2026-07-08",
-          "expirationDate": "2027-04-30"
         }
       ]
     },
@@ -25914,6 +25980,53 @@
       ]
     },
     {
+      "id": 8974566,
+      "packageCount": 1,
+      "name": "Banana Puddintain-Pre Pack Bud-3.5 gram-Plastic Container",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 87.5,
+      "unit": "Grams",
+      "strainName": "Banana Puddintain",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.94,
+        "totalCBD": 0.39,
+        "CBDA": 0.07,
+        "CBG": 0.38,
+        "CBN": 0.01,
+        "THCA": 35.86
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.03,
+        "humulene": 0.18,
+        "myrcene": 0.87,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 0.43,
+        "beta-pinene": 0.11,
+        "limonene": 0.69,
+        "terpinolene": 0.02,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.53,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8974566,
+          "label": "1A40303000001F5000428932",
+          "quantity": 87.5,
+          "packagedDate": "2026-09-09",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8674620,
       "packageCount": 1,
       "name": "Berry Trix 8ths",
@@ -26639,6 +26752,55 @@
           "quantity": 34.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-03"
+        }
+      ]
+    },
+    {
+      "id": 8725292,
+      "packageCount": 1,
+      "name": "Culta Packaged Flower - 14g - Sugar Rush",
+      "brand": "Culta",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 196.0,
+      "unit": "Grams",
+      "strainName": "Blue Nerds",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.37,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.11,
+        "CBN": 0.0,
+        "THCA": 23.83,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.08,
+        "myrcene": 0.27,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.29,
+        "beta-pinene": 0.06,
+        "limonene": 0.38,
+        "linalool": 0.35,
+        "nerolidol": 0.12
+      },
+      "totalTerps": 1.78,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8725292,
+          "label": "1A4030300000709000035850",
+          "quantity": 196.0,
+          "packagedDate": "2026-07-14",
+          "expirationDate": null
         }
       ]
     },
@@ -27391,7 +27553,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 24.5,
       "unit": "Grams",
       "strainName": "Gumbo Limbo #35",
       "strainType": null,
@@ -27427,7 +27589,7 @@
         {
           "id": 8922981,
           "label": "1A403030000012E000187019",
-          "quantity": 28.0,
+          "quantity": 24.5,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-08-19"
         }
@@ -30630,6 +30792,56 @@
       ]
     },
     {
+      "id": 8974565,
+      "packageCount": 1,
+      "name": "SDG OG - Pre Pack Bud - 3.5 gram - Plastic Container",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 87.5,
+      "unit": "Grams",
+      "strainName": "SDG OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.59,
+        "totalCBD": 0.29,
+        "CBDA": 0.05,
+        "CBG": 0.58,
+        "CBN": 0.01,
+        "THCA": 33.2
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.35,
+        "myrcene": 0.52,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 0.85,
+        "eudesmol": 0.01,
+        "beta-pinene": 0.09,
+        "ocimene": 0.01,
+        "limonene": 0.53,
+        "linalool": 0.25,
+        "terpinolene": 0.01,
+        "nerolidol": 0.02
+      },
+      "totalTerps": 2.88,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8974565,
+          "label": "1A40303000001F5000428931",
+          "quantity": 87.5,
+          "packagedDate": "2026-09-09",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8774602,
       "packageCount": 1,
       "name": "Savvy Flower - Alien Breath - Usable - 3.5g",
@@ -30921,6 +31133,54 @@
       ]
     },
     {
+      "id": 8974639,
+      "packageCount": 1,
+      "name": "Sour Diesel-Pre Pack Bud-3.5 gram-Plastic Container",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 87.5,
+      "unit": "Grams",
+      "strainName": "Sour Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.55,
+        "totalCBD": 0.29,
+        "CBDA": 0.08,
+        "CBG": 0.51,
+        "CBN": 0.06,
+        "THCA": 33.01
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.03,
+        "humulene": 0.17,
+        "myrcene": 0.87,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.55,
+        "beta-pinene": 0.05,
+        "limonene": 0.26,
+        "linalool": 0.03,
+        "terpinolene": 0.01,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.11,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8974639,
+          "label": "1A40303000001F5000428933",
+          "quantity": 87.5,
+          "packagedDate": "2026-09-09",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8507794,
       "packageCount": 1,
       "name": "Southwest Stomper x William's Wonder | Georgies | 2.5g",
@@ -31080,7 +31340,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Sunshine #4",
       "strainType": null,
@@ -31113,7 +31373,7 @@
         {
           "id": 8947222,
           "label": "1A40303000001F5000425605",
-          "quantity": 38.5,
+          "quantity": 35.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -37698,7 +37958,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.0,
+      "quantity": 30.0,
       "unit": "Grams",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -37733,7 +37993,7 @@
         {
           "id": 8947062,
           "label": "1A40303000000CB000051194",
-          "quantity": 30.0,
+          "quantity": 29.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         },
@@ -42279,57 +42539,6 @@
       ]
     },
     {
-      "id": 8919181,
-      "packageCount": 1,
-      "name": "Airo X Golden Pineapple - Liquid Diamonds Disposable Vape 2.0g/2000mg",
-      "brand": "Airo",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 4.0,
-      "unit": "Each",
-      "strainName": "X Golden Pineapple",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 87.02,
-        "totalCBD": 0.183,
-        "CBC": 0.23,
-        "CBDA": 0.06,
-        "CBDV": 0.0,
-        "CBG": 3.2,
-        "CBGA": 0.98,
-        "CBN": 0.46,
-        "THCA": 5.68,
-        "THCV": 0.55
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.03,
-        "myrcene": 0.51,
-        "alpha-pinene": 0.18,
-        "caryophyllene": 0.1,
-        "beta-pinene": 0.07,
-        "ocimene": 0.25,
-        "limonene": 0.23,
-        "linalool": 0.03,
-        "terpinolene": 2.1
-      },
-      "totalTerps": 3.9,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8919181,
-          "label": "1A40303000001F5000423335",
-          "quantity": 4.0,
-          "packagedDate": "2026-08-26",
-          "expirationDate": "2027-07-20"
-        }
-      ]
-    },
-    {
       "id": 8890375,
       "packageCount": 1,
       "name": "Airo X SDG OG - Liquid Diamonds Disposable Vape 2.0g/2000mg",
@@ -43831,55 +44040,6 @@
           "quantity": 17.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-05-22"
-        }
-      ]
-    },
-    {
-      "id": 8920049,
-      "packageCount": 1,
-      "name": "Biscotti (NCD) - &Shine (Hybrid) - Vape Cart - 1000mg",
-      "brand": "&Shine",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 22.0,
-      "unit": "Each",
-      "strainName": "Biscotti",
-      "strainType": "Hybrid",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 82.98,
-        "CBC": 0.91,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 4.19,
-        "CBGA": 0.0,
-        "CBN": 0.21,
-        "THCA": 0.0,
-        "THCV": 0.59
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.4,
-        "humulene": 0.55,
-        "myrcene": 0.32,
-        "alpha-pinene": 0.15,
-        "caryophyllene": 2.29,
-        "beta-pinene": 0.17,
-        "limonene": 0.68,
-        "linalool": 0.43
-      },
-      "totalTerps": 5.59,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8920049,
-          "label": "1A40303000003EA000206311",
-          "quantity": 22.0,
-          "packagedDate": "2026-08-26",
-          "expirationDate": "2027-07-23"
         }
       ]
     },
@@ -56173,6 +56333,57 @@
       ]
     },
     {
+      "id": 8974644,
+      "packageCount": 1,
+      "name": "Purple Martian DV 1.0g/1000mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Purple Martian DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.24,
+        "totalCBD": 0.15,
+        "CBC": 0.59,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.92,
+        "CBGA": 0.0,
+        "CBN": 0.31,
+        "THCA": 0.0,
+        "THCV": 0.25
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.32,
+        "myrcene": 3.82,
+        "alpha-pinene": 1.43,
+        "caryophyllene": 1.71,
+        "beta-pinene": 0.47,
+        "caryophyllene-oxide": 0.03,
+        "limonene": 1.33,
+        "linalool": 0.21,
+        "terpinolene": 0.03
+      },
+      "totalTerps": 10.05,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8974644,
+          "label": "1A40303000001F5000428940",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-06-02"
+        }
+      ]
+    },
+    {
       "id": 8587006,
       "packageCount": 1,
       "name": "RO-BDTCart-.5g-OGKush-H-MD (260601MED101353)-Vape",
@@ -56419,6 +56630,58 @@
           "quantity": 7.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-03-26"
+        }
+      ]
+    },
+    {
+      "id": 8974645,
+      "packageCount": 1,
+      "name": "Raspberry Daydream DV 1.0g/1000mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Raspberry Daydream DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.47,
+        "totalCBD": 0.15,
+        "CBC": 0.57,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.04,
+        "CBGA": 0.0,
+        "CBN": 0.3,
+        "THCA": 0.0,
+        "THCV": 0.24
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.13,
+        "myrcene": 2.34,
+        "alpha-pinene": 1.85,
+        "caryophyllene": 1.61,
+        "beta-pinene": 1.06,
+        "caryophyllene-oxide": 0.02,
+        "limonene": 2.05,
+        "linalool": 0.82,
+        "terpinolene": 0.07
+      },
+      "totalTerps": 10.85,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8974645,
+          "label": "1A40303000001F5000428941",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-06-03"
         }
       ]
     },
