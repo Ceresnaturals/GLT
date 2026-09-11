@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T23:10:26.601512+00:00",
+  "generated_at": "2026-09-11T23:20:26.578399+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9895,7 +9895,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9925,7 +9925,7 @@
         {
           "id": 8678607,
           "label": "1A403030000012D000253352",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-07-02",
           "expirationDate": null
         }
@@ -10079,7 +10079,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10110,7 +10110,7 @@
         {
           "id": 8034647,
           "label": "1A40303000003EA000149000",
-          "quantity": 7.0,
+          "quantity": 5.0,
           "packagedDate": "2026-02-04",
           "expirationDate": "2026-12-30"
         }
@@ -21951,7 +21951,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21992,7 +21992,7 @@
         {
           "id": 8765358,
           "label": "1A40303000001F5000408112",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-04-29"
         }
@@ -25954,7 +25954,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 364.0,
+      "quantity": 336.0,
       "unit": "Grams",
       "strainName": "Afternoon Delight #4",
       "strainType": "Hybrid",
@@ -25988,7 +25988,7 @@
         {
           "id": 8970733,
           "label": "1A40303000003EA000263658",
-          "quantity": 364.0,
+          "quantity": 336.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-10"
         }
@@ -26585,7 +26585,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 101.5,
+      "quantity": 98.0,
       "unit": "Grams",
       "strainName": "Cheddar Cheeze",
       "strainType": null,
@@ -26618,7 +26618,7 @@
         {
           "id": 8596191,
           "label": "1A4030300000192000033995",
-          "quantity": 101.5,
+          "quantity": 98.0,
           "packagedDate": "2026-06-15",
           "expirationDate": "2027-03-31"
         }
@@ -27469,7 +27469,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 94.5,
+      "quantity": 91.0,
       "unit": "Grams",
       "strainName": "Velvet Pie",
       "strainType": null,
@@ -27504,7 +27504,7 @@
         {
           "id": 8946384,
           "label": "1A4030300004845000041483",
-          "quantity": 94.5,
+          "quantity": 91.0,
           "packagedDate": "2026-06-01",
           "expirationDate": "2027-06-01"
         }
@@ -27619,7 +27619,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 56.0,
+      "quantity": 52.5,
       "unit": "Grams",
       "strainName": "Gas Smack",
       "strainType": null,
@@ -27653,7 +27653,7 @@
         {
           "id": 8966592,
           "label": "1A403030000012E000190899",
-          "quantity": 56.0,
+          "quantity": 52.5,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-26"
         }
@@ -27817,7 +27817,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "Gumbo Limbo #35",
       "strainType": null,
@@ -27853,7 +27853,7 @@
         {
           "id": 8922981,
           "label": "1A403030000012E000187019",
-          "quantity": 24.5,
+          "quantity": 21.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-08-19"
         }
@@ -30523,56 +30523,6 @@
           "quantity": 59.5,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-17"
-        }
-      ]
-    },
-    {
-      "id": 8954761,
-      "packageCount": 1,
-      "name": "OPBO-EX-35",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "OPBO",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 31.75,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.14,
-        "CBGA": 1.67,
-        "CBN": 0.0,
-        "THCA": 35.07,
-        "THCV": 0.14
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.12,
-        "myrcene": 2.04,
-        "alpha-pinene": 0.54,
-        "caryophyllene": 0.51,
-        "beta-pinene": 0.11,
-        "ocimene": 0.32,
-        "limonene": 0.14,
-        "linalool": 0.21
-      },
-      "totalTerps": 4.05,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8954761,
-          "label": "1A40303000000CD000079350",
-          "quantity": 3.5,
-          "packagedDate": "2026-09-03",
-          "expirationDate": null
         }
       ]
     },
@@ -40384,7 +40334,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -40430,7 +40380,7 @@
         {
           "id": 8707442,
           "label": "1A403030000012D000254647",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-07-09",
           "expirationDate": null
         }
