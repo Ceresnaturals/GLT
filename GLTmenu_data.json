@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T23:30:25.741716+00:00",
+  "generated_at": "2026-09-11T23:40:25.994685+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1510,7 +1510,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Fruit Gushers",
       "strainType": null,
@@ -1545,7 +1545,7 @@
         {
           "id": 8690396,
           "label": "1A403030000283D000052773",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-05-04"
         }
@@ -1993,57 +1993,6 @@
           "quantity": 10.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2026-11-03"
-        }
-      ]
-    },
-    {
-      "id": 8605788,
-      "packageCount": 1,
-      "name": "Cap Junky Live Resin Cake Badder 1.0g",
-      "brand": null,
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": "Cap Junky Cake",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 70.97,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 3.73,
-        "CBN": 0.0,
-        "THCA": 80.92,
-        "THCV": 0.49
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.34,
-        "humulene": 0.31,
-        "myrcene": 0.46,
-        "alpha-pinene": 0.15,
-        "caryophyllene": 1.24,
-        "eudesmol": 0.43,
-        "beta-pinene": 0.23,
-        "limonene": 2.2,
-        "linalool": 1.09,
-        "terpinolene": 0.04
-      },
-      "totalTerps": 7.41,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8605788,
-          "label": "1A4030300000C83000074352",
-          "quantity": 2.0,
-          "packagedDate": "2026-06-17",
-          "expirationDate": "2027-05-08"
         }
       ]
     },
@@ -10846,74 +10795,16 @@
       ]
     },
     {
-      "id": 8886711,
-      "packageCount": 1,
-      "name": "Tall - Fuji Apple Pear 1:1 (THC:CBD) - Liquid Edible - 10mg - 1",
-      "brand": null,
-      "category": "Drink",
-      "metrcCategory": "Infused Liquid Edible",
-      "locations": [
-        "Vault"
-      ],
-      "quantity": 15.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.003,
-        "totalCBD": 0.003,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 can, 12 fl. oz.",
-        "totalThcMg": 10.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 10.206,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8886711,
-          "label": "1A4030300000C83000081041",
-          "quantity": 15.0,
-          "packagedDate": "2026-08-19",
-          "expirationDate": "2027-07-15"
-        }
-      ]
-    },
-    {
       "id": 8909901,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Tall - Hibiscus Cherry Lime - Liquid Edible - 10mg - 1",
       "brand": null,
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10956,13 +10847,6 @@
           "label": "1A4030300000C83000081191",
           "quantity": 24.0,
           "packagedDate": "2026-08-25",
-          "expirationDate": "2027-07-15"
-        },
-        {
-          "id": 8793245,
-          "label": "1A4030300000C83000080427",
-          "quantity": 3.0,
-          "packagedDate": "2026-07-29",
           "expirationDate": "2027-07-15"
         }
       ]
@@ -25854,7 +25738,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 84.0,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Russian Assassin",
       "strainType": null,
@@ -25889,7 +25773,7 @@
         {
           "id": 8914803,
           "label": "1A4030300002009000112804",
-          "quantity": 84.0,
+          "quantity": 56.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-30"
         }
@@ -27670,7 +27554,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 170.0,
+      "quantity": 160.0,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -27703,7 +27587,7 @@
         {
           "id": 8947153,
           "label": "1A40303000001F5000425606",
-          "quantity": 170.0,
+          "quantity": 160.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -27903,55 +27787,6 @@
           "quantity": 196.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-06-29"
-        }
-      ]
-    },
-    {
-      "id": 8870114,
-      "packageCount": 1,
-      "name": "Han Solo Burger 8ths",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "Han Solo HashBurger",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 26.4,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.2,
-        "CBN": 0.0,
-        "THCA": 29.59,
-        "THCV": 0.18
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.1,
-        "humulene": 0.16,
-        "myrcene": 2.06,
-        "alpha-pinene": 0.09,
-        "caryophyllene": 0.4,
-        "beta-pinene": 0.13,
-        "limonene": 0.99,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 4.22,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8870114,
-          "label": "1A40303000040D9000005721",
-          "quantity": 3.5,
-          "packagedDate": "2026-08-16",
-          "expirationDate": "2027-08-15"
         }
       ]
     },
@@ -28593,56 +28428,6 @@
           "quantity": 14.0,
           "packagedDate": "2026-04-27",
           "expirationDate": "2027-04-18"
-        }
-      ]
-    },
-    {
-      "id": 8954085,
-      "packageCount": 1,
-      "name": "Kind Tree | Flower | Buds | Georgia Mintz - Usable - 3.5g",
-      "brand": "Kind Tree",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Vault"
-      ],
-      "quantity": 73.5,
-      "unit": "Grams",
-      "strainName": "Georgia Mintz",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 26.87,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.47,
-        "CBN": 0.0,
-        "THCA": 30.08,
-        "THCV": 0.14
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.19,
-        "humulene": 0.33,
-        "myrcene": 0.08,
-        "alpha-pinene": 0.17,
-        "caryophyllene": 1.46,
-        "beta-pinene": 0.15,
-        "limonene": 0.93,
-        "linalool": 0.3,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 3.97,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8954085,
-          "label": "1A403030000025B000086985",
-          "quantity": 73.5,
-          "packagedDate": "2026-08-19",
-          "expirationDate": "2027-08-19"
         }
       ]
     },
@@ -34032,7 +33817,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Thrive",
       "strainType": null,
@@ -34069,7 +33854,7 @@
         {
           "id": 8926323,
           "label": "1A403030000012D000262978",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         },
@@ -57803,55 +57588,6 @@
           "quantity": 2.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-13"
-        }
-      ]
-    },
-    {
-      "id": 8883698,
-      "packageCount": 1,
-      "name": "Rove | Live Resin Diamonds Vape Reload | Fruit Punch - S | 1.0g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 5.0,
-      "unit": "Each",
-      "strainName": "Fruit Punch",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 90.73,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.672,
-        "CBGA": 0.0,
-        "CBN": 0.365,
-        "THCA": 0.0,
-        "THCV": 0.948
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.215,
-        "humulene": 0.0291,
-        "myrcene": 0.0218,
-        "caryophyllene": 0.0621,
-        "caryophyllene-oxide": 0.0299,
-        "limonene": 0.123,
-        "linalool": 0.0513,
-        "nerolidol": 0.0344
-      },
-      "totalTerps": 0.593,
-      "dominantTerpene": "bisabolol",
-      "packages": [
-        {
-          "id": 8883698,
-          "label": "1A4030300000C83000085448",
-          "quantity": 5.0,
-          "packagedDate": "2026-08-19",
-          "expirationDate": "2027-06-17"
         }
       ]
     },
