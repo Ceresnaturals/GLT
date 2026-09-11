@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T16:40:42.959787+00:00",
+  "generated_at": "2026-09-11T16:50:36.496539+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8308,6 +8308,57 @@
           "quantity": 9.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-05-05"
+        }
+      ]
+    },
+    {
+      "id": 8919842,
+      "packageCount": 1,
+      "name": "Rythm Single (Infused) - Strawberry Shortcake (Indica Dominant) - Concentrate - 1g",
+      "brand": "Rythm",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Strawberry Shortcake",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 42.17,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.93,
+        "CBN": 0.0,
+        "THCA": 46.11,
+        "THCV": 0.21
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.12,
+        "humulene": 0.17,
+        "myrcene": 0.37,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 1.09,
+        "beta-pinene": 0.07,
+        "caryophyllene-oxide": 0.09,
+        "limonene": 0.5,
+        "linalool": 0.45,
+        "terpinolene": 0.03
+      },
+      "totalTerps": 3.35,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8919842,
+          "label": "1A40303000003EA000206310",
+          "quantity": 12.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-08-05"
         }
       ]
     },
@@ -26756,55 +26807,6 @@
       ]
     },
     {
-      "id": 8725292,
-      "packageCount": 1,
-      "name": "Culta Packaged Flower - 14g - Sugar Rush",
-      "brand": "Culta",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Vault"
-      ],
-      "quantity": 196.0,
-      "unit": "Grams",
-      "strainName": "Blue Nerds",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 22.37,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.11,
-        "CBN": 0.0,
-        "THCA": 23.83,
-        "THCV": 0.08
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.08,
-        "myrcene": 0.27,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.29,
-        "beta-pinene": 0.06,
-        "limonene": 0.38,
-        "linalool": 0.35,
-        "nerolidol": 0.12
-      },
-      "totalTerps": 1.78,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8725292,
-          "label": "1A4030300000709000035850",
-          "quantity": 196.0,
-          "packagedDate": "2026-07-14",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8725294,
       "packageCount": 1,
       "name": "Culta Packaged Flower - 3.5g - Sundae Glaze",
@@ -26898,55 +26900,6 @@
           "quantity": 77.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-06-20"
-        }
-      ]
-    },
-    {
-      "id": 8433791,
-      "packageCount": 1,
-      "name": "Disco Diesel Flower 3.5g",
-      "brand": "Disco",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 157.5,
-      "unit": "Grams",
-      "strainName": "Disco Diesel",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 25.68,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.83,
-        "CBN": 0.0,
-        "THCA": 28.87,
-        "THCV": 0.16
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.07,
-        "humulene": 0.18,
-        "myrcene": 0.25,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 0.72,
-        "beta-pinene": 0.07,
-        "limonene": 0.55,
-        "linalool": 0.26
-      },
-      "totalTerps": 2.28,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8433791,
-          "label": "1A40303000000C9000149733",
-          "quantity": 157.5,
-          "packagedDate": "2026-05-08",
-          "expirationDate": "2027-05-03"
         }
       ]
     },
@@ -35217,7 +35170,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.0,
+      "quantity": 30.0,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -35249,7 +35202,7 @@
         {
           "id": 8947058,
           "label": "1A40303000000CB000051189",
-          "quantity": 31.0,
+          "quantity": 30.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-01"
         }
@@ -39460,7 +39413,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 180.0,
+      "quantity": 165.0,
       "unit": "Grams",
       "strainName": "Just Packaged Ready to Roll",
       "strainType": null,
@@ -39495,7 +39448,7 @@
         {
           "id": 8946809,
           "label": "1A4030300004845000041487",
-          "quantity": 180.0,
+          "quantity": 165.0,
           "packagedDate": "2026-08-25",
           "expirationDate": null
         }
@@ -42539,6 +42492,57 @@
       ]
     },
     {
+      "id": 8919181,
+      "packageCount": 1,
+      "name": "Airo X Golden Pineapple - Liquid Diamonds Disposable Vape 2.0g/2000mg",
+      "brand": "Airo",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 4.0,
+      "unit": "Each",
+      "strainName": "X Golden Pineapple",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.02,
+        "totalCBD": 0.183,
+        "CBC": 0.23,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 3.2,
+        "CBGA": 0.98,
+        "CBN": 0.46,
+        "THCA": 5.68,
+        "THCV": 0.55
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.03,
+        "myrcene": 0.51,
+        "alpha-pinene": 0.18,
+        "caryophyllene": 0.1,
+        "beta-pinene": 0.07,
+        "ocimene": 0.25,
+        "limonene": 0.23,
+        "linalool": 0.03,
+        "terpinolene": 2.1
+      },
+      "totalTerps": 3.9,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8919181,
+          "label": "1A40303000001F5000423335",
+          "quantity": 4.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-07-20"
+        }
+      ]
+    },
+    {
       "id": 8890375,
       "packageCount": 1,
       "name": "Airo X SDG OG - Liquid Diamonds Disposable Vape 2.0g/2000mg",
@@ -44040,6 +44044,55 @@
           "quantity": 17.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-05-22"
+        }
+      ]
+    },
+    {
+      "id": 8920049,
+      "packageCount": 1,
+      "name": "Biscotti (NCD) - &Shine (Hybrid) - Vape Cart - 1000mg",
+      "brand": "&Shine",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 22.0,
+      "unit": "Each",
+      "strainName": "Biscotti",
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 82.98,
+        "CBC": 0.91,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.19,
+        "CBGA": 0.0,
+        "CBN": 0.21,
+        "THCA": 0.0,
+        "THCV": 0.59
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.4,
+        "humulene": 0.55,
+        "myrcene": 0.32,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 2.29,
+        "beta-pinene": 0.17,
+        "limonene": 0.68,
+        "linalool": 0.43
+      },
+      "totalTerps": 5.59,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8920049,
+          "label": "1A40303000003EA000206311",
+          "quantity": 22.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-07-23"
         }
       ]
     },
@@ -51018,7 +51071,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Juicy Melonz Melted AIO Helly Meltz",
       "strainType": null,
@@ -51050,7 +51103,7 @@
         {
           "id": 8966482,
           "label": "1A403030000012E000192631",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-07-31"
         }
@@ -51314,7 +51367,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -51347,7 +51400,7 @@
         {
           "id": 8689166,
           "label": "1A4030300003201000001353",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-07",
           "expirationDate": null
         }
