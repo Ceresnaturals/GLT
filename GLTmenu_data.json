@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T21:40:29.216248+00:00",
+  "generated_at": "2026-09-11T21:50:27.699680+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -13280,7 +13280,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13321,7 +13321,7 @@
         {
           "id": 8801743,
           "label": "1A4030300000579000043670",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-07-30",
           "expirationDate": null
         }
@@ -15178,6 +15178,63 @@
       ]
     },
     {
+      "id": 8539246,
+      "packageCount": 1,
+      "name": "Discos - Blackberry Pomegranate - Edible Product - 10mg - 10",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 23.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.17,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 each, 10 servings per package",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8539246,
+          "label": "1A4030300000C83000063546",
+          "quantity": 23.0,
+          "packagedDate": "2026-06-02",
+          "expirationDate": "2027-04-06"
+        }
+      ]
+    },
+    {
       "id": 8151238,
       "packageCount": 1,
       "name": "Discos - Blackberry Pomegranate - Exempt - 40mg - 10",
@@ -15231,6 +15288,63 @@
           "quantity": 13.0,
           "packagedDate": "2026-03-04",
           "expirationDate": "2026-10-29"
+        }
+      ]
+    },
+    {
+      "id": 8539325,
+      "packageCount": 1,
+      "name": "Discos - Fruit Punch 1:1 (THC:CBG) - Edible product - 10mg - 10",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 3.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.15,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.15,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 each, 10 servings per package",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 9.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8539325,
+          "label": "1A4030300000C83000063547",
+          "quantity": 3.0,
+          "packagedDate": "2026-06-02",
+          "expirationDate": "2027-04-23"
         }
       ]
     },
@@ -17074,7 +17188,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -17113,7 +17227,7 @@
         {
           "id": 8894084,
           "label": "1A403030000012D000261770",
-          "quantity": 13.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -17771,7 +17885,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17810,7 +17924,7 @@
         {
           "id": 8870788,
           "label": "1A40303000017D5000103606",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-06-30",
           "expirationDate": "2027-06-30"
         }
@@ -25890,7 +26004,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 49.0,
+      "quantity": 45.5,
       "unit": "Grams",
       "strainName": "Animal Face",
       "strainType": "Indica",
@@ -25926,7 +26040,7 @@
         {
           "id": 8944209,
           "label": "1A40303000003EA000264674",
-          "quantity": 49.0,
+          "quantity": 45.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         }
@@ -29039,7 +29153,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -29073,7 +29187,7 @@
         {
           "id": 8947053,
           "label": "1A40303000000CB000051186",
-          "quantity": 24.5,
+          "quantity": 21.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-18"
         }
@@ -30951,7 +31065,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 77.0,
+      "quantity": 73.5,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -30985,7 +31099,7 @@
         {
           "id": 8974565,
           "label": "1A40303000001F5000428931",
-          "quantity": 77.0,
+          "quantity": 73.5,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -34826,7 +34940,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 40.25,
       "unit": "Grams",
       "strainName": "GMO",
       "strainType": null,
@@ -34860,7 +34974,7 @@
         {
           "id": 8891365,
           "label": "1A40303000003EA000205086",
-          "quantity": 42.0,
+          "quantity": 40.25,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-06"
         }
@@ -42642,7 +42756,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Sumatran Sunrise",
       "strainType": null,
@@ -42677,7 +42791,7 @@
         {
           "id": 8669867,
           "label": "1A40303000001F5000398258",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2026-11-14"
         }
@@ -44532,6 +44646,57 @@
           "label": "1A4030300000579000044425",
           "quantity": 6.0,
           "packagedDate": "2026-06-23",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8781125,
+      "packageCount": 1,
+      "name": "Bloom | Live Surf | 1g | Indica | Rainbow Z",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 3.0,
+      "unit": "Each",
+      "strainName": "Rainbow Z",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.21,
+        "totalCBD": 0.39,
+        "CBC": 0.58,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.87,
+        "CBGA": 0.0,
+        "CBN": 0.72,
+        "THCA": 0.0,
+        "THCV": 0.62
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.06,
+        "myrcene": 1.02,
+        "alpha-pinene": 0.23,
+        "caryophyllene": 0.31,
+        "beta-pinene": 0.24,
+        "ocimene": 0.55,
+        "limonene": 0.92,
+        "linalool": 0.1,
+        "terpinolene": 2.04
+      },
+      "totalTerps": 5.85,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8781125,
+          "label": "1A4030300000579000044429",
+          "quantity": 3.0,
+          "packagedDate": "2026-06-02",
           "expirationDate": null
         }
       ]
@@ -56793,7 +56958,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Purple Martian DV",
       "strainType": null,
@@ -56828,7 +56993,7 @@
         {
           "id": 8974644,
           "label": "1A40303000001F5000428940",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-06-02"
         }
