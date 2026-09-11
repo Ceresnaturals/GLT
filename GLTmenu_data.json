@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T23:40:25.994685+00:00",
+  "generated_at": "2026-09-11T23:50:28.307353+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1993,6 +1993,57 @@
           "quantity": 10.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": 8605788,
+      "packageCount": 1,
+      "name": "Cap Junky Live Resin Cake Badder 1.0g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 1.0,
+      "unit": "Each",
+      "strainName": "Cap Junky Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 70.97,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 3.73,
+        "CBN": 0.0,
+        "THCA": 80.92,
+        "THCV": 0.49
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.34,
+        "humulene": 0.31,
+        "myrcene": 0.46,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 1.24,
+        "eudesmol": 0.43,
+        "beta-pinene": 0.23,
+        "limonene": 2.2,
+        "linalool": 1.09,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 7.41,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8605788,
+          "label": "1A4030300000C83000074352",
+          "quantity": 1.0,
+          "packagedDate": "2026-06-17",
+          "expirationDate": "2027-05-08"
         }
       ]
     },
@@ -10795,16 +10846,74 @@
       ]
     },
     {
-      "id": 8909901,
+      "id": 8886711,
       "packageCount": 1,
-      "name": "Tall - Hibiscus Cherry Lime - Liquid Edible - 10mg - 1",
+      "name": "Tall - Fuji Apple Pear 1:1 (THC:CBD) - Liquid Edible - 10mg - 1",
       "brand": null,
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 15.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.003,
+        "totalCBD": 0.003,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 can, 12 fl. oz.",
+        "totalThcMg": 10.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 10.206,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8886711,
+          "label": "1A4030300000C83000081041",
+          "quantity": 15.0,
+          "packagedDate": "2026-08-19",
+          "expirationDate": "2027-07-15"
+        }
+      ]
+    },
+    {
+      "id": 8909901,
+      "packageCount": 2,
+      "name": "Tall - Hibiscus Cherry Lime - Liquid Edible - 10mg - 1",
+      "brand": null,
+      "category": "Drink",
+      "metrcCategory": "Infused Liquid Edible",
+      "locations": [
+        "Sales Floor",
+        "Vault"
+      ],
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10847,6 +10956,13 @@
           "label": "1A4030300000C83000081191",
           "quantity": 24.0,
           "packagedDate": "2026-08-25",
+          "expirationDate": "2027-07-15"
+        },
+        {
+          "id": 8793245,
+          "label": "1A4030300000C83000080427",
+          "quantity": 2.0,
+          "packagedDate": "2026-07-29",
           "expirationDate": "2027-07-15"
         }
       ]
@@ -10905,63 +11021,6 @@
           "quantity": 1.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-06-24"
-        }
-      ]
-    },
-    {
-      "id": 8946522,
-      "packageCount": 1,
-      "name": "Tall- (XO) Juicy Peach - Liquid Edible - 10mg - 1",
-      "brand": null,
-      "category": "Drink",
-      "metrcCategory": "Infused Liquid Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.003,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 can, 12 fl. oz.",
-        "totalThcMg": 10.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8946522,
-          "label": "1A4030300000C83000081470",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-02",
-          "expirationDate": "2027-08-17"
         }
       ]
     },
@@ -19644,7 +19703,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19685,7 +19744,7 @@
         {
           "id": 8939348,
           "label": "1A4030300003522000210569",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-11"
         }
@@ -25789,7 +25848,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.43,
+      "quantity": 41.93,
       "unit": "Grams",
       "strainName": "GP II",
       "strainType": null,
@@ -25822,7 +25881,7 @@
         {
           "id": 8751943,
           "label": "1A4030300002009000109419",
-          "quantity": 45.43,
+          "quantity": 41.93,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-05-12"
         }
@@ -28432,6 +28491,56 @@
       ]
     },
     {
+      "id": 8954085,
+      "packageCount": 1,
+      "name": "Kind Tree | Flower | Buds | Georgia Mintz - Usable - 3.5g",
+      "brand": "Kind Tree",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 70.0,
+      "unit": "Grams",
+      "strainName": "Georgia Mintz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.87,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.47,
+        "CBN": 0.0,
+        "THCA": 30.08,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.19,
+        "humulene": 0.33,
+        "myrcene": 0.08,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 1.46,
+        "beta-pinene": 0.15,
+        "limonene": 0.93,
+        "linalool": 0.3,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.97,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8954085,
+          "label": "1A403030000025B000086985",
+          "quantity": 70.0,
+          "packagedDate": "2026-08-19",
+          "expirationDate": "2027-08-19"
+        }
+      ]
+    },
+    {
       "id": 8603908,
       "packageCount": 1,
       "name": "Kind Tree | Flower | Buds | Grape Sitter - Usable - 3.5g",
@@ -28539,7 +28648,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "LA Baker",
       "strainType": null,
@@ -28575,7 +28684,7 @@
         {
           "id": 8923151,
           "label": "1A403030000012E000187018",
-          "quantity": 35.0,
+          "quantity": 31.5,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-08-19"
         }
@@ -28890,7 +28999,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 10.5,
       "unit": "Grams",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -28924,7 +29033,7 @@
         {
           "id": 8947053,
           "label": "1A40303000000CB000051186",
-          "quantity": 17.5,
+          "quantity": 10.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-18"
         }
@@ -36972,7 +37081,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.5,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Peach Runtz",
       "strainType": null,
@@ -37007,7 +37116,7 @@
         {
           "id": 8947324,
           "label": "1A40303000000CB000051192",
-          "quantity": 45.5,
+          "quantity": 42.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-16"
         }
@@ -39363,7 +39472,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 56.0,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Fruit Gushers",
       "strainType": null,
@@ -39397,7 +39506,7 @@
         {
           "id": 8824524,
           "label": "1A40303000000C9000166235",
-          "quantity": 56.0,
+          "quantity": 28.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -41635,7 +41744,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "GSC",
       "strainType": null,
@@ -41670,7 +41779,7 @@
         {
           "id": 8609604,
           "label": "1A40303000001F5000393053",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-06-17",
           "expirationDate": "2026-10-15"
         }
@@ -49827,7 +49936,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Blue Raspberry",
       "strainType": null,
@@ -49862,7 +49971,7 @@
         {
           "id": 8939224,
           "label": "1A4030300003522000210564",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-28"
         }
@@ -57588,6 +57697,55 @@
           "quantity": 2.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-13"
+        }
+      ]
+    },
+    {
+      "id": 8883698,
+      "packageCount": 1,
+      "name": "Rove | Live Resin Diamonds Vape Reload | Fruit Punch - S | 1.0g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": "Fruit Punch",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.73,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.672,
+        "CBGA": 0.0,
+        "CBN": 0.365,
+        "THCA": 0.0,
+        "THCV": 0.948
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.215,
+        "humulene": 0.0291,
+        "myrcene": 0.0218,
+        "caryophyllene": 0.0621,
+        "caryophyllene-oxide": 0.0299,
+        "limonene": 0.123,
+        "linalool": 0.0513,
+        "nerolidol": 0.0344
+      },
+      "totalTerps": 0.593,
+      "dominantTerpene": "bisabolol",
+      "packages": [
+        {
+          "id": 8883698,
+          "label": "1A4030300000C83000085448",
+          "quantity": 5.0,
+          "packagedDate": "2026-08-19",
+          "expirationDate": "2027-06-17"
         }
       ]
     },
