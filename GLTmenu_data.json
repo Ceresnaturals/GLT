@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T14:00:35.927774+00:00",
+  "generated_at": "2026-09-11T14:10:32.100975+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -25618,7 +25618,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 210.0,
+      "quantity": 203.0,
       "unit": "Grams",
       "strainName": "Russian Assassin",
       "strainType": null,
@@ -25653,7 +25653,7 @@
         {
           "id": 8914803,
           "label": "1A4030300002009000112804",
-          "quantity": 210.0,
+          "quantity": 203.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-30"
         }
@@ -25871,7 +25871,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 182.0,
+      "quantity": 175.0,
       "unit": "Grams",
       "strainName": "Apple Z",
       "strainType": null,
@@ -25904,7 +25904,7 @@
         {
           "id": 7831886,
           "label": "1A4030300000192000020610",
-          "quantity": 182.0,
+          "quantity": 175.0,
           "packagedDate": "2025-12-12",
           "expirationDate": "2026-10-20"
         }
@@ -28025,7 +28025,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 63.0,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Guava IX",
       "strainType": null,
@@ -28058,7 +28058,7 @@
         {
           "id": 8882266,
           "label": "1A4030300003521000056046",
-          "quantity": 63.0,
+          "quantity": 56.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-30"
         }
@@ -31321,7 +31321,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 168.0,
+      "quantity": 164.5,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -31354,7 +31354,7 @@
         {
           "id": 8947055,
           "label": "1A40303000000CB000051188",
-          "quantity": 168.0,
+          "quantity": 164.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         }
@@ -36952,7 +36952,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 70.0,
+      "quantity": 66.5,
       "unit": "Grams",
       "strainName": "Peach Runtz",
       "strainType": null,
@@ -36987,7 +36987,7 @@
         {
           "id": 8947324,
           "label": "1A40303000000CB000051192",
-          "quantity": 70.0,
+          "quantity": 66.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-16"
         }
@@ -43716,16 +43716,17 @@
       ]
     },
     {
-      "id": 8767876,
-      "packageCount": 1,
+      "id": 8849834,
+      "packageCount": 2,
       "name": "Beezle - Buzz Vape - Madd Fruit - 1g",
       "brand": "Beezle",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Madd Fruit",
       "strainType": null,
@@ -43757,6 +43758,13 @@
       "totalTerps": 4.08,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 8849834,
+          "label": "1A403030000283D000057287",
+          "quantity": 10.0,
+          "packagedDate": "2026-08-11",
+          "expirationDate": "2027-05-14"
+        },
         {
           "id": 8767876,
           "label": "1A403030000283D000056948",
@@ -51041,7 +51049,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Juicy Melonz Melted AIO Helly Meltz",
       "strainType": null,
@@ -51073,7 +51081,7 @@
         {
           "id": 8966482,
           "label": "1A403030000012E000192631",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-07-31"
         }
@@ -51663,43 +51671,54 @@
       ]
     },
     {
-      "id": 8351553,
-      "packageCount": 1,
+      "id": 8787119,
+      "packageCount": 2,
       "name": "Legacy Series GG4- Vape Cart- 1g",
       "brand": null,
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": "Legacy Series GG4",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 86.81,
-        "CBC": 0.99,
+        "totalTHC": 85.99,
+        "CBC": 0.58,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 2.02,
+        "CBG": 2.79,
         "CBGA": 0.0,
-        "CBN": 0.27,
+        "CBN": 0.23,
         "THCA": 0.0,
-        "THCV": 0.0
+        "THCV": 0.76
       },
       "dose": null,
       "terpenes": {
-        "humulene": 0.52,
+        "bisabolol": 0.17,
+        "humulene": 0.59,
         "myrcene": 0.17,
-        "alpha-pinene": 0.08,
-        "caryophyllene": 2.75,
-        "beta-pinene": 0.04,
-        "limonene": 0.65
+        "alpha-pinene": 0.1,
+        "caryophyllene": 2.73,
+        "beta-pinene": 0.06,
+        "limonene": 0.73,
+        "linalool": 0.17,
+        "terpinolene": 0.05
       },
-      "totalTerps": 4.53,
+      "totalTerps": 5.25,
       "dominantTerpene": "caryophyllene",
       "packages": [
+        {
+          "id": 8787119,
+          "label": "1A4030300000193000102924",
+          "quantity": 20.0,
+          "packagedDate": "2026-07-28",
+          "expirationDate": "2027-06-07"
+        },
         {
           "id": 8351553,
           "label": "1A4030300000193000092325",
@@ -52360,15 +52379,16 @@
     },
     {
       "id": 8578985,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Live Liquid Diamonds: AK47- 1g",
       "brand": null,
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 48.0,
       "unit": "Each",
       "strainName": "Liquid",
       "strainType": null,
@@ -52403,6 +52423,13 @@
           "id": 8578985,
           "label": "1A4030300003D55000006177",
           "quantity": 8.0,
+          "packagedDate": "2026-06-11",
+          "expirationDate": "2027-02-21"
+        },
+        {
+          "id": 8584497,
+          "label": "1A4030300003D55000006256",
+          "quantity": 40.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-02-21"
         }
