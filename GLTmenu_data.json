@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T13:00:27.256308+00:00",
+  "generated_at": "2026-09-11T13:10:28.231078+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7599,6 +7599,58 @@
           "quantity": 9.0,
           "packagedDate": "2026-03-23",
           "expirationDate": "2026-10-24"
+        }
+      ]
+    },
+    {
+      "id": 8966508,
+      "packageCount": 1,
+      "name": "Pineapple Express Infused Preground Flower - Usable - 7 g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Each",
+      "strainName": "Pineapple Express Preground",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 34.92,
+        "totalCBD": 0.09,
+        "CBC": 0.07,
+        "CBDA": 0.05,
+        "CBDV": 0.0,
+        "CBG": 1.0,
+        "CBGA": 0.68,
+        "CBN": 0.12,
+        "THCA": 18.77,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.15,
+        "myrcene": 0.03,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.44,
+        "beta-pinene": 0.03,
+        "caryophyllene-oxide": 0.02,
+        "ocimene": 0.04,
+        "limonene": 0.14,
+        "linalool": 0.25,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 1.36,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8966508,
+          "label": "1A403030000012E000192653",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-05-07"
         }
       ]
     },
@@ -25557,6 +25609,57 @@
       ]
     },
     {
+      "id": 8914803,
+      "packageCount": 1,
+      "name": "1937|Shake|Russian Assassin|Usable|7.0g",
+      "brand": "1937",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 210.0,
+      "unit": "Grams",
+      "strainName": "Russian Assassin",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 23.73,
+        "totalCBD": 0.14,
+        "CBC": 0.0,
+        "CBDA": 0.16,
+        "CBDV": 0.0,
+        "CBG": 0.11,
+        "CBGA": 0.4,
+        "CBN": 0.0,
+        "THCA": 26.32,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.15,
+        "myrcene": 0.16,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.59,
+        "eudesmol": 0.24,
+        "beta-pinene": 0.07,
+        "limonene": 0.43,
+        "linalool": 0.14
+      },
+      "totalTerps": 2.29,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8914803,
+          "label": "1A4030300002009000112804",
+          "quantity": 210.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-07-30"
+        }
+      ]
+    },
+    {
       "id": 8751943,
       "packageCount": 1,
       "name": "1937|Trim|GP II|Usable|Bulk|454g",
@@ -26190,6 +26293,55 @@
       ]
     },
     {
+      "id": 8596191,
+      "packageCount": 1,
+      "name": "Cheddar Cheeze - Usable - 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 105.0,
+      "unit": "Grams",
+      "strainName": "Cheddar Cheeze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.39,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.19,
+        "CBGA": 1.44,
+        "CBN": 0.0,
+        "THCA": 35.56,
+        "THCV": 0.23
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.05,
+        "myrcene": 0.44,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.13,
+        "eudesmol": 0.12,
+        "beta-pinene": 0.05,
+        "limonene": 0.33,
+        "linalool": 0.19
+      },
+      "totalTerps": 1.52,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8596191,
+          "label": "1A4030300000192000033995",
+          "quantity": 105.0,
+          "packagedDate": "2026-06-15",
+          "expirationDate": "2027-03-31"
+        }
+      ]
+    },
+    {
       "id": 8908833,
       "packageCount": 1,
       "name": "Chem De La Chem - Shorties Five Pack - Usable - 2g",
@@ -26628,6 +26780,55 @@
           "id": 8725292,
           "label": "1A4030300000709000035850",
           "quantity": 196.0,
+          "packagedDate": "2026-07-14",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8725294,
+      "packageCount": 1,
+      "name": "Culta Packaged Flower - 3.5g - Sundae Glaze",
+      "brand": "Culta",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 112.0,
+      "unit": "Grams",
+      "strainName": "Sundae Glaze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.09,
+        "totalCBD": 0.1,
+        "CBC": 0.0,
+        "CBDA": 0.11,
+        "CBDV": 0.0,
+        "CBG": 0.06,
+        "CBGA": 1.16,
+        "CBN": 0.0,
+        "THCA": 29.42,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.24,
+        "myrcene": 0.3,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.84,
+        "beta-pinene": 0.08,
+        "limonene": 0.45,
+        "linalool": 0.34
+      },
+      "totalTerps": 2.5,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8725294,
+          "label": "1A4030300000709000035851",
+          "quantity": 112.0,
           "packagedDate": "2026-07-14",
           "expirationDate": null
         }
@@ -27122,6 +27323,56 @@
           "quantity": 70.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-07-19"
+        }
+      ]
+    },
+    {
+      "id": 8966592,
+      "packageCount": 1,
+      "name": "Gas Smack Strane - Usable - 3.5 g",
+      "brand": "Strane",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 56.0,
+      "unit": "Grams",
+      "strainName": "Gas Smack",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.97,
+        "totalCBD": 0.06,
+        "CBC": 0.0,
+        "CBDA": 0.07,
+        "CBDV": 0.0,
+        "CBG": 0.07,
+        "CBGA": 0.95,
+        "CBN": 0.0,
+        "THCA": 31.28,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.02,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.36,
+        "beta-pinene": 0.08,
+        "ocimene": 0.01,
+        "limonene": 0.42,
+        "linalool": 0.22
+      },
+      "totalTerps": 1.51,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8966592,
+          "label": "1A403030000012E000190899",
+          "quantity": 56.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-08-26"
         }
       ]
     },
@@ -29643,6 +29894,57 @@
       ]
     },
     {
+      "id": 8751006,
+      "packageCount": 1,
+      "name": "Member Berry | Gold | 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 224.0,
+      "unit": "Grams",
+      "strainName": "127 MEMBER BERRY",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 20.77,
+        "totalCBD": 0.06,
+        "CBC": 0.0,
+        "CBDA": 0.07,
+        "CBDV": 0.0,
+        "CBG": 0.08,
+        "CBGA": 1.42,
+        "CBN": 0.0,
+        "THCA": 22.79,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.08,
+        "myrcene": 0.47,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 0.33,
+        "beta-pinene": 0.15,
+        "ocimene": 0.02,
+        "limonene": 1.0,
+        "linalool": 0.25,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.72,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8751006,
+          "label": "1A40303000039D1000084241",
+          "quantity": 224.0,
+          "packagedDate": "2026-07-21",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8266361,
       "packageCount": 1,
       "name": "Midnight Circus Pre-Pack 3.5g",
@@ -31344,6 +31646,56 @@
           "quantity": 31.5,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-06-04"
+        }
+      ]
+    },
+    {
+      "id": 8966591,
+      "packageCount": 1,
+      "name": "Wingsuit Garcia Hand Picked - Usable - 3.5 g",
+      "brand": "Garcia Hand Picked",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 56.0,
+      "unit": "Grams",
+      "strainName": "Wingsuit",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.79,
+        "totalCBD": 0.06,
+        "CBC": 0.0,
+        "CBDA": 0.07,
+        "CBDV": 0.0,
+        "CBG": 0.13,
+        "CBGA": 0.41,
+        "CBN": 0.0,
+        "THCA": 26.75,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.08,
+        "myrcene": 0.92,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.33,
+        "beta-pinene": 0.05,
+        "ocimene": 0.28,
+        "limonene": 0.24,
+        "linalool": 0.37
+      },
+      "totalTerps": 2.39,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8966591,
+          "label": "1A403030000012E000190898",
+          "quantity": 56.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-06-25"
         }
       ]
     },
