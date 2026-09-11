@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T13:50:30.995621+00:00",
+  "generated_at": "2026-09-11T14:00:35.927774+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -34599,6 +34599,55 @@
       ]
     },
     {
+      "id": 8919183,
+      "packageCount": 1,
+      "name": "GMO Skywalker OG x SDGOG - Diamond Duster 0.5g Infused Pre-Roll 5-Pack Tin",
+      "brand": "Diamond Duster",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "GMO Skywalker OG x SDGOG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 43.37,
+        "totalCBD": 0.04,
+        "CBC": 0.0,
+        "CBDA": 0.04,
+        "CBDV": 0.0,
+        "CBG": 0.07,
+        "CBGA": 1.31,
+        "CBN": 0.0,
+        "THCA": 49.0,
+        "THCV": 0.58
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.07,
+        "myrcene": 0.12,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.17,
+        "beta-pinene": 0.04,
+        "limonene": 0.22,
+        "linalool": 0.12
+      },
+      "totalTerps": 0.82,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8919183,
+          "label": "1A40303000001F5000423337",
+          "quantity": 10.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-04-30"
+        }
+      ]
+    },
+    {
       "id": 8947154,
       "packageCount": 1,
       "name": "GMO x Skywalker OG - Pre Roll Joints - 0.5 gram - 2 Pack",
@@ -35628,46 +35677,55 @@
       ]
     },
     {
-      "id": 8678608,
-      "packageCount": 1,
+      "id": 8952597,
+      "packageCount": 2,
       "name": "Kaviar Mini Pre-rolls (Hybrid)-Concentrate-5x0.6g",
       "brand": "Kaviar",
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 35.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 35.7,
-        "CBC": 0.33,
+        "totalTHC": 38.94,
+        "CBC": 0.43,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 1.19,
-        "CBGA": 0.49,
-        "CBN": 0.33,
-        "THCA": 13.37,
-        "THCV": 0.18
+        "CBG": 0.0,
+        "CBGA": 0.51,
+        "CBN": 0.36,
+        "THCA": 13.29,
+        "THCV": 0.21
       },
       "dose": null,
       "terpenes": {
-        "bisabolol": 0.07,
-        "humulene": 0.09,
-        "myrcene": 0.14,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.26,
-        "eudesmol": 0.07,
-        "beta-pinene": 0.03,
-        "limonene": 0.25,
+        "bisabolol": 0.1,
+        "humulene": 0.08,
+        "myrcene": 0.33,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.28,
+        "eudesmol": 0.12,
+        "beta-pinene": 0.02,
+        "ocimene": 0.04,
+        "limonene": 0.22,
         "linalool": 0.14
       },
-      "totalTerps": 1.29,
-      "dominantTerpene": "caryophyllene",
+      "totalTerps": 1.54,
+      "dominantTerpene": "myrcene",
       "packages": [
+        {
+          "id": 8952597,
+          "label": "1A403030000012D000265618",
+          "quantity": 30.0,
+          "packagedDate": "2026-09-03",
+          "expirationDate": null
+        },
         {
           "id": 8678608,
           "label": "1A403030000012D000253353",
