@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T15:50:31.312862+00:00",
+  "generated_at": "2026-09-11T16:00:32.892972+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2504,7 +2504,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Jet Fuel OG",
       "strainType": "Hybrid",
@@ -2545,7 +2545,7 @@
         {
           "id": 8891364,
           "label": "1A40303000003EA000205089",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-23"
         }
@@ -8210,7 +8210,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 20.0,
       "unit": "Each",
@@ -25618,7 +25618,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 196.0,
+      "quantity": 175.0,
       "unit": "Grams",
       "strainName": "Russian Assassin",
       "strainType": null,
@@ -25653,7 +25653,7 @@
         {
           "id": 8914803,
           "label": "1A4030300002009000112804",
-          "quantity": 196.0,
+          "quantity": 175.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-30"
         }
@@ -25669,7 +25669,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 94.43,
+      "quantity": 83.93,
       "unit": "Grams",
       "strainName": "GP II",
       "strainType": null,
@@ -25702,7 +25702,7 @@
         {
           "id": 8751943,
           "label": "1A4030300002009000109419",
-          "quantity": 94.43,
+          "quantity": 83.93,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-05-12"
         }
@@ -32249,7 +32249,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 16.0,
       "unit": "Grams",
@@ -36584,6 +36584,56 @@
       ]
     },
     {
+      "id": 8413004,
+      "packageCount": 1,
+      "name": "LILAC DIESEL, .5GR PRE-ROLL x 2",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Pre-Roll",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Grams",
+      "strainName": "130 LILAC DIESEL",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 16.99,
+        "totalCBD": 0.05,
+        "CBC": 0.0,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.6,
+        "CBN": 0.0,
+        "THCA": 19.18,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.02,
+        "myrcene": 0.14,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.07,
+        "beta-pinene": 0.04,
+        "ocimene": 0.04,
+        "limonene": 0.07,
+        "terpinolene": 0.57
+      },
+      "totalTerps": 1.06,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8413004,
+          "label": "1A40303000039D1000075543",
+          "quantity": 5.0,
+          "packagedDate": "2026-05-05",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8842351,
       "packageCount": 1,
       "name": "LORE Ritual - 2g Blunt - Strawberry Blizzard",
@@ -36902,7 +36952,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 66.5,
+      "quantity": 63.0,
       "unit": "Grams",
       "strainName": "Peach Runtz",
       "strainType": null,
@@ -36937,7 +36987,7 @@
         {
           "id": 8947324,
           "label": "1A40303000000CB000051192",
-          "quantity": 66.5,
+          "quantity": 63.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-16"
         }
@@ -38639,7 +38689,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Grams",
       "strainName": "Sour Peel",
       "strainType": null,
@@ -38672,7 +38722,7 @@
         {
           "id": 8884210,
           "label": "1A40303000000CB000050198",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-07-18"
         }
@@ -39492,7 +39542,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 34.68,
+      "quantity": 27.68,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -39524,7 +39574,7 @@
         {
           "id": 8858186,
           "label": "1A40303000001F5000416988",
-          "quantity": 34.68,
+          "quantity": 27.68,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -52697,7 +52747,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": "Grapefruit Maui",
       "strainType": null,
@@ -52731,7 +52781,7 @@
         {
           "id": 8077934,
           "label": "1A4030300003D55000004743",
-          "quantity": 29.0,
+          "quantity": 28.0,
           "packagedDate": "2026-02-13",
           "expirationDate": "2026-10-19"
         }
@@ -54850,7 +54900,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "RS",
       "strainType": null,
@@ -54884,7 +54934,7 @@
         {
           "id": 8882189,
           "label": "1A4030300003522000202241",
-          "quantity": 20.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-09"
         }
