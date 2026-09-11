@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T22:10:27.807713+00:00",
+  "generated_at": "2026-09-11T22:20:27.763119+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11993,7 +11993,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12032,7 +12032,7 @@
         {
           "id": 8882284,
           "label": "1A4030300003522000202243",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-23"
         }
@@ -26585,7 +26585,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 105.0,
+      "quantity": 101.5,
       "unit": "Grams",
       "strainName": "Cheddar Cheeze",
       "strainType": null,
@@ -26618,7 +26618,7 @@
         {
           "id": 8596191,
           "label": "1A4030300000192000033995",
-          "quantity": 105.0,
+          "quantity": 101.5,
           "packagedDate": "2026-06-15",
           "expirationDate": "2027-03-31"
         }
@@ -26684,7 +26684,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 308.0,
+      "quantity": 280.0,
       "unit": "Grams",
       "strainName": "Chem de la Chem TC",
       "strainType": null,
@@ -26716,7 +26716,7 @@
         {
           "id": 8947223,
           "label": "1A40303000001F5000425607",
-          "quantity": 308.0,
+          "quantity": 280.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -28753,7 +28753,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 77.0,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "Ice Cream Banger",
       "strainType": null,
@@ -28786,7 +28786,7 @@
         {
           "id": 8954086,
           "label": "1A403030000025B000086986",
-          "quantity": 77.0,
+          "quantity": 70.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-07-22"
         }
@@ -31702,7 +31702,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 150.5,
+      "quantity": 147.0,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -31735,7 +31735,7 @@
         {
           "id": 8947055,
           "label": "1A40303000000CB000051188",
-          "quantity": 150.5,
+          "quantity": 147.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         }
@@ -37334,7 +37334,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 56.0,
+      "quantity": 52.5,
       "unit": "Grams",
       "strainName": "Peach Runtz",
       "strainType": null,
@@ -37369,7 +37369,7 @@
         {
           "id": 8947324,
           "label": "1A40303000000CB000051192",
-          "quantity": 56.0,
+          "quantity": 52.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-16"
         }
@@ -40893,6 +40893,56 @@
           "quantity": 7.0,
           "packagedDate": "2026-05-22",
           "expirationDate": "2027-05-22"
+        }
+      ]
+    },
+    {
+      "id": 8312806,
+      "packageCount": 1,
+      "name": "1000mg_Roll One_GG #4_Hybrid (260401MED095017)-Vape Cart",
+      "brand": "Roll One",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 7.0,
+      "unit": "Each",
+      "strainName": "GG",
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.44,
+        "CBC": 0.49,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.32,
+        "CBGA": 0.0,
+        "CBN": 0.13,
+        "THCA": 0.0,
+        "THCV": 0.92
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.31,
+        "humulene": 0.3,
+        "myrcene": 0.54,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 1.82,
+        "beta-pinene": 0.1,
+        "limonene": 0.81,
+        "linalool": 0.15,
+        "nerolidol": 0.2
+      },
+      "totalTerps": 4.59,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8312806,
+          "label": "1A403030000238D000096098",
+          "quantity": 7.0,
+          "packagedDate": "2026-04-10",
+          "expirationDate": "2027-04-07"
         }
       ]
     },
@@ -51329,7 +51379,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Jack's Delight",
       "strainType": "Sativa",
@@ -51363,7 +51413,7 @@
         {
           "id": 8826358,
           "label": "1A40303000003EA000195261",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-12"
         }
@@ -57814,7 +57864,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Classics",
       "strainType": null,
@@ -57849,7 +57899,7 @@
         {
           "id": 8811770,
           "label": "1A4030300000C83000079098",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-03",
           "expirationDate": "2027-06-23"
         }
@@ -58654,7 +58704,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": "Hybrid",
@@ -58686,7 +58736,7 @@
         {
           "id": 8854457,
           "label": "1A40303000003EA000202547",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-05-20"
         }
