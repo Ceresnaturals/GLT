@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T19:10:33.278343+00:00",
+  "generated_at": "2026-09-11T19:20:33.015029+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -262,7 +262,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -303,7 +303,7 @@
         {
           "id": 8939253,
           "label": "1A4030300003522000210586",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-04-09"
         }
@@ -5838,6 +5838,55 @@
       ]
     },
     {
+      "id": 8805553,
+      "packageCount": 1,
+      "name": "MF-DmdInfPrrl-1g-ColonialKush-I-MD (260714MED104703)-Concentrate",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": "MF DmdInfPrrl ColonialKush I MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 42.11,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.7,
+        "CBN": 0.0,
+        "THCA": 46.88,
+        "THCV": 0.15
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.08,
+        "myrcene": 0.09,
+        "alpha-pinene": 0.18,
+        "caryophyllene": 0.3,
+        "beta-pinene": 0.13,
+        "limonene": 0.71,
+        "linalool": 0.22
+      },
+      "totalTerps": 2.1,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8805553,
+          "label": "1A403030000238D000105875",
+          "quantity": 50.0,
+          "packagedDate": "2026-07-31",
+          "expirationDate": "2027-07-19"
+        }
+      ]
+    },
+    {
       "id": 8828895,
       "packageCount": 1,
       "name": "Mfused FIRE Fattys (Granddaddy Purple)-Usable-2x0.5g",
@@ -7707,6 +7756,258 @@
       ]
     },
     {
+      "id": 8968830,
+      "packageCount": 1,
+      "name": "RO-CrdBudder-1g-PungentSmile-S-MD (260805MED106000)-Concentrate",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "RO CrdBudder PungentSmile S MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 78.09,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.73,
+        "CBGA": 3.34,
+        "CBN": 0.0,
+        "THCA": 78.85,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.19,
+        "humulene": 0.51,
+        "myrcene": 0.29,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 1.42,
+        "beta-pinene": 0.07,
+        "ocimene": 0.39,
+        "limonene": 0.46,
+        "linalool": 0.59,
+        "terpinolene": 1.51
+      },
+      "totalTerps": 6.51,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8968830,
+          "label": "1A403030000238D000107263",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-08-09"
+        }
+      ]
+    },
+    {
+      "id": 8968489,
+      "packageCount": 1,
+      "name": "RO-CrdBudder-1g-SourOGChem-H-MD (260812MED106339)-Concentrate",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "RO CrdBudder SourOGChem H MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 72.18,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.49,
+        "CBN": 0.0,
+        "THCA": 80.29,
+        "THCV": 0.47
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.34,
+        "humulene": 0.5,
+        "myrcene": 1.97,
+        "alpha-pinene": 0.16,
+        "caryophyllene": 1.83,
+        "beta-pinene": 0.22,
+        "limonene": 1.66,
+        "linalool": 0.49,
+        "terpinolene": 0.07
+      },
+      "totalTerps": 7.92,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8968489,
+          "label": "1A403030000238D000107264",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-08-16"
+        }
+      ]
+    },
+    {
+      "id": 8968847,
+      "packageCount": 1,
+      "name": "RO-CrdBudder-1g-ThunderPunch-S-MD (260806MED106144)-Concentrate",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "RO CrdBudder ThunderPunch S MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 76.67,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.67,
+        "CBN": 0.0,
+        "THCA": 84.55,
+        "THCV": 0.55
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.45,
+        "humulene": 0.41,
+        "myrcene": 1.08,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 1.69,
+        "eudesmol": 0.34,
+        "beta-pinene": 0.07,
+        "limonene": 0.43,
+        "linalool": 0.65,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 5.78,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8968847,
+          "label": "1A403030000238D000107265",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-08-11"
+        }
+      ]
+    },
+    {
+      "id": 8968852,
+      "packageCount": 1,
+      "name": "RO-CrdShatter-1g-PinkCertz-I-MD (260819MED106681)-Concentrate",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "RO CrdShatter PinkCertz I MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 76.76,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.27,
+        "CBN": 0.0,
+        "THCA": 87.53,
+        "THCV": 0.43
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.22,
+        "humulene": 0.66,
+        "myrcene": 0.49,
+        "alpha-pinene": 0.16,
+        "caryophyllene": 2.75,
+        "beta-pinene": 0.21,
+        "limonene": 1.34,
+        "linalool": 0.93,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 7.23,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8968852,
+          "label": "1A403030000238D000107266",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-08-23"
+        }
+      ]
+    },
+    {
+      "id": 8968491,
+      "packageCount": 1,
+      "name": "RO-CrdShatter-1g-ThunderPunch-S-MD (260806MED106153)-Concentrate",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "RO CrdShatter ThunderPunch S MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 79.71,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.9,
+        "CBN": 0.0,
+        "THCA": 88.61,
+        "THCV": 0.53
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.3,
+        "humulene": 0.5,
+        "myrcene": 1.17,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 2.09,
+        "beta-pinene": 0.08,
+        "limonene": 0.49,
+        "linalool": 0.38,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 5.38,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8968491,
+          "label": "1A403030000238D000107267",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-08-11"
+        }
+      ]
+    },
+    {
       "id": 8947230,
       "packageCount": 1,
       "name": "Rainbow Belts-Strain Specific Live Resin Batter 2.0g/2000mg",
@@ -9429,7 +9730,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9468,7 +9769,7 @@
         {
           "id": 7987789,
           "label": "1A403030000012D000203969",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-01-22",
           "expirationDate": null
         }
@@ -9484,7 +9785,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9523,7 +9824,7 @@
         {
           "id": 8217232,
           "label": "1A403030000012D000220942",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-03-19",
           "expirationDate": null
         }
@@ -10327,7 +10628,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 31.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10375,7 +10676,7 @@
         {
           "id": 8947756,
           "label": "1A40303000001F5000425699",
-          "quantity": 7.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-29"
         }
@@ -10497,7 +10798,7 @@
     },
     {
       "id": 8972983,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Sunnies Socials - Peach Sparkling Water - Liquid Edible -10mg -1",
       "brand": "Sunnies",
       "category": "Drink",
@@ -10505,7 +10806,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10546,16 +10847,9 @@
         {
           "id": 8972983,
           "label": "1A40303000001F5000428808",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-23"
-        },
-        {
-          "id": 8920197,
-          "label": "1A40303000001F5000423552",
-          "quantity": 4.0,
-          "packagedDate": "2026-08-26",
-          "expirationDate": "2027-06-17"
         }
       ]
     },
@@ -10569,7 +10863,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10610,7 +10904,7 @@
         {
           "id": 8947815,
           "label": "1A40303000001F5000425702",
-          "quantity": 5.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-31"
         }
@@ -11031,7 +11325,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11072,7 +11366,7 @@
         {
           "id": 8648874,
           "label": "1A40303000017D5000097874",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-06-04",
           "expirationDate": "2027-06-04"
         }
@@ -11764,7 +12058,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11803,7 +12097,7 @@
         {
           "id": 8882284,
           "label": "1A4030300003522000202243",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-23"
         }
@@ -11984,7 +12278,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12023,7 +12317,7 @@
         {
           "id": 8828732,
           "label": "1A4030300003522000195375",
-          "quantity": 9.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-30"
         }
@@ -12151,7 +12445,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12192,7 +12486,7 @@
         {
           "id": 8939218,
           "label": "1A4030300003522000210559",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-06"
         }
@@ -26032,7 +26326,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 87.5,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Banana Puddintain",
       "strainType": null,
@@ -26063,7 +26357,7 @@
         {
           "id": 8974566,
           "label": "1A40303000001F5000428932",
-          "quantity": 87.5,
+          "quantity": 84.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -26710,7 +27004,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Collie Man Kush",
       "strainType": null,
@@ -26742,7 +27036,7 @@
         {
           "id": 8351548,
           "label": "1A4030300000192000030571",
-          "quantity": 14.0,
+          "quantity": 7.0,
           "packagedDate": "2026-04-20",
           "expirationDate": "2027-02-23"
         }
@@ -28532,7 +28826,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 84.0,
+      "quantity": 77.0,
       "unit": "Grams",
       "strainName": "Ice Cream Banger",
       "strainType": null,
@@ -28565,7 +28859,7 @@
         {
           "id": 8954086,
           "label": "1A403030000025B000086986",
-          "quantity": 84.0,
+          "quantity": 77.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-07-22"
         }
@@ -31185,7 +31479,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 84.0,
+      "quantity": 77.0,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -31217,7 +31511,7 @@
         {
           "id": 8974639,
           "label": "1A40303000001F5000428933",
-          "quantity": 84.0,
+          "quantity": 77.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -31432,7 +31726,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -31465,7 +31759,7 @@
         {
           "id": 8873614,
           "label": "1A403030000012E000183004",
-          "quantity": 42.0,
+          "quantity": 35.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-08-04"
         }
@@ -33607,7 +33901,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Grams",
       "strainName": "Alien Burger",
       "strainType": null,
@@ -33641,7 +33935,7 @@
         {
           "id": 8952843,
           "label": "1A403030000012D000265626",
-          "quantity": 27.0,
+          "quantity": 26.0,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -38051,7 +38345,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Grams",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -38086,7 +38380,7 @@
         {
           "id": 8947062,
           "label": "1A40303000000CB000051194",
-          "quantity": 26.0,
+          "quantity": 25.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         },
@@ -51656,7 +51950,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Watermelon Burst",
       "strainType": null,
@@ -51687,7 +51981,7 @@
         {
           "id": 8689167,
           "label": "1A4030300003201000001354",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-07-07",
           "expirationDate": null
         }
@@ -53974,7 +54268,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Maui Berry",
       "strainType": null,
@@ -54009,7 +54303,7 @@
         {
           "id": 8858185,
           "label": "1A40303000001F5000416985",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-03-12"
         }
@@ -56924,6 +57218,104 @@
           "id": 8639731,
           "label": "1A403030000238D000103651",
           "quantity": 6.0,
+          "packagedDate": "2026-06-24",
+          "expirationDate": "2027-06-21"
+        }
+      ]
+    },
+    {
+      "id": 8968487,
+      "packageCount": 1,
+      "name": "RO-BDTCart-1g-OGKush-H-MD (260713MED104700)-Vape",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "RO BDTCart OGKush H MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.34,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.14,
+        "CBGA": 0.0,
+        "CBN": 0.37,
+        "THCA": 0.0,
+        "THCV": 0.54
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.24,
+        "humulene": 0.35,
+        "myrcene": 0.59,
+        "alpha-pinene": 0.27,
+        "caryophyllene": 0.89,
+        "beta-pinene": 0.32,
+        "limonene": 0.52,
+        "linalool": 0.46,
+        "terpinolene": 0.15
+      },
+      "totalTerps": 4.53,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8968487,
+          "label": "1A403030000238D000107262",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-07-19"
+        }
+      ]
+    },
+    {
+      "id": 8637117,
+      "packageCount": 1,
+      "name": "RO-BDTCart-1g-SuperLemonHaze-S-MD (260615MED102739)-Vape",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "RO BDTCart SuperLemonHaze S MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.34,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.71,
+        "CBGA": 0.0,
+        "CBN": 0.28,
+        "THCA": 0.0,
+        "THCV": 0.91
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.19,
+        "humulene": 0.49,
+        "myrcene": 0.18,
+        "caryophyllene": 1.52,
+        "ocimene": 0.44,
+        "limonene": 0.1,
+        "terpinolene": 1.22
+      },
+      "totalTerps": 4.14,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8637117,
+          "label": "1A403030000238D000103508",
+          "quantity": 12.0,
           "packagedDate": "2026-06-24",
           "expirationDate": "2027-06-21"
         }
