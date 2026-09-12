@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T16:40:25.492232+00:00",
+  "generated_at": "2026-09-12T16:50:28.776193+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -17608,7 +17608,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17647,7 +17647,7 @@
         {
           "id": 8902250,
           "label": "1A40303000017D5000104292",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-06-18",
           "expirationDate": "2027-06-18"
         }
@@ -17773,7 +17773,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -17812,7 +17812,7 @@
         {
           "id": 8556509,
           "label": "1A40303000017D5000093311",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-05-08",
           "expirationDate": "2027-05-08"
         }
@@ -18538,6 +18538,61 @@
       ]
     },
     {
+      "id": 8914614,
+      "packageCount": 1,
+      "name": "HiColor Dream Gummies Blackberry 1:1|Edible Product|10mg|10ct",
+      "brand": "HiColor",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.203,
+        "CBC": 0.008,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.033,
+        "CBGA": 0.0,
+        "CBN": 0.203,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1pc",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.34,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.403,
+          "CBGA": 0.0,
+          "CBN": 8.632,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8914614,
+          "label": "1A4030300002009000112787",
+          "quantity": 16.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-05-18"
+        }
+      ]
+    },
+    {
       "id": 8606293,
       "packageCount": 1,
       "name": "HiColor Gummies Alfonso Mango 1:1|Edible Product|10mg|10ct",
@@ -18652,6 +18707,63 @@
       ]
     },
     {
+      "id": 8914782,
+      "packageCount": 1,
+      "name": "HiColor Gummies Fruit Punch Power-Up 1:4|Edible Product|10mg|10ct",
+      "brand": "HiColor",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 15.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.21,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.05
+      },
+      "dose": {
+        "servingSize": "1pc",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 2.126
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8914782,
+          "label": "1A4030300002009000112788",
+          "quantity": 15.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-05-20"
+        }
+      ]
+    },
+    {
       "id": 8490547,
       "packageCount": 1,
       "name": "HiColor Gummies Hawaiian Pineapple|Edible Product|10mg|10ct",
@@ -18758,6 +18870,63 @@
           "quantity": 10.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-03-30"
+        }
+      ]
+    },
+    {
+      "id": 8914783,
+      "packageCount": 1,
+      "name": "HiColor Gummies Raspberry Lemonade 1:1:1|Edible Product|10mg|10ct",
+      "brand": "HiColor",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.235,
+        "totalCBD": 0.203,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.267,
+        "CBGA": 0.0,
+        "CBN": 0.03,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1pc",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.002,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.003,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8914783,
+          "label": "1A4030300002009000112789",
+          "quantity": 10.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-05-13"
         }
       ]
     },
@@ -24750,7 +24919,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -24791,7 +24960,7 @@
         {
           "id": 8747178,
           "label": "1A4030300002199000057209",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-05-26",
           "expirationDate": "2027-05-26"
         }
@@ -26204,7 +26373,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 157.5,
+      "quantity": 154.0,
       "unit": "Grams",
       "strainName": "Charm Biscuitz",
       "strainType": null,
@@ -26237,7 +26406,7 @@
         {
           "id": 8943242,
           "label": "1A40303000040D9000005971",
-          "quantity": 157.5,
+          "quantity": 154.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-31"
         }
@@ -27437,7 +27606,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 17.5,
       "unit": "Grams",
       "strainName": "Gumbo Limbo #35",
       "strainType": null,
@@ -27473,7 +27642,7 @@
         {
           "id": 8922981,
           "label": "1A403030000012E000187019",
-          "quantity": 21.0,
+          "quantity": 17.5,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-08-19"
         }
@@ -30340,7 +30509,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 63.0,
+      "quantity": 59.5,
       "unit": "Grams",
       "strainName": "Rainbow Walker",
       "strainType": null,
@@ -30373,7 +30542,7 @@
         {
           "id": 8849580,
           "label": "1A40303000040D9000005598",
-          "quantity": 63.0,
+          "quantity": 59.5,
           "packagedDate": "2026-08-11",
           "expirationDate": "2027-08-10"
         }
@@ -30878,7 +31047,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 73.5,
+      "quantity": 59.5,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -30910,7 +31079,7 @@
         {
           "id": 8974639,
           "label": "1A40303000001F5000428933",
-          "quantity": 73.5,
+          "quantity": 59.5,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -31076,7 +31245,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "Sunshine #4",
       "strainType": null,
@@ -31109,7 +31278,7 @@
         {
           "id": 8947222,
           "label": "1A40303000001F5000425605",
-          "quantity": 24.5,
+          "quantity": 21.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -34259,7 +34428,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Grams",
       "strainName": "Finger Lime Haze",
       "strainType": null,
@@ -34295,7 +34464,7 @@
         {
           "id": 8966443,
           "label": "1A403030000012E000192646",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-06"
         }
@@ -34954,7 +35123,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -34986,7 +35155,7 @@
         {
           "id": 8947058,
           "label": "1A40303000000CB000051189",
-          "quantity": 29.0,
+          "quantity": 28.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-01"
         }
@@ -35249,7 +35418,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Rain Drops",
       "strainType": null,
@@ -35282,7 +35451,7 @@
         {
           "id": 8752069,
           "label": "1A4030300002009000109425",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-03-04"
         }
@@ -36288,7 +36457,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Grams",
       "strainName": "LA Baker",
       "strainType": null,
@@ -36330,7 +36499,7 @@
         {
           "id": 8922971,
           "label": "1A403030000012E000187007",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-06-09"
         }
@@ -36694,7 +36863,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Grams",
       "strainName": "Mule Fuel",
       "strainType": null,
@@ -36730,7 +36899,7 @@
         {
           "id": 8966447,
           "label": "1A403030000012E000192644",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-21"
         }
@@ -37635,7 +37804,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Grams",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -37670,7 +37839,7 @@
         {
           "id": 8947062,
           "label": "1A40303000000CB000051194",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         },
@@ -46165,57 +46334,6 @@
       ]
     },
     {
-      "id": 8828888,
-      "packageCount": 1,
-      "name": "Edie Parker Maui Mango Sativa Disposable Vape-Vape Cart-1.0g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 16.0,
-      "unit": "Each",
-      "strainName": "Edie Parker Maui Mango",
-      "strainType": "Sativa",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 77.23,
-        "CBC": 1.5,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.35,
-        "CBGA": 0.0,
-        "CBN": 2.66,
-        "THCA": 0.0,
-        "THCV": 0.68
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.25,
-        "humulene": 0.07,
-        "myrcene": 1.01,
-        "alpha-pinene": 0.6,
-        "caryophyllene": 1.22,
-        "beta-pinene": 0.31,
-        "ocimene": 0.14,
-        "limonene": 0.74,
-        "linalool": 0.26,
-        "terpinolene": 0.04
-      },
-      "totalTerps": 5.04,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8828888,
-          "label": "1A403030000012D000259349",
-          "quantity": 16.0,
-          "packagedDate": "2026-08-06",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 7913954,
       "packageCount": 1,
       "name": "Electric Green Apple Essentials - Vape Cart - 1.0g",
@@ -51107,53 +51225,6 @@
           "label": "1A4030300003201000001524",
           "quantity": 4.0,
           "packagedDate": "2026-08-10",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8689167,
-      "packageCount": 1,
-      "name": "LORE 1g Vape - Watermelon Burst",
-      "brand": "LORE",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Vault"
-      ],
-      "quantity": 13.0,
-      "unit": "Each",
-      "strainName": "Watermelon Burst",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 80.76,
-        "CBC": 0.57,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.89,
-        "CBGA": 0.0,
-        "CBN": 1.27,
-        "THCA": 0.0,
-        "THCV": 0.87
-      },
-      "dose": null,
-      "terpenes": {
-        "myrcene": 0.23,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.39,
-        "beta-pinene": 0.08,
-        "limonene": 0.75,
-        "linalool": 0.17
-      },
-      "totalTerps": 1.75,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8689167,
-          "label": "1A4030300003201000001354",
-          "quantity": 13.0,
-          "packagedDate": "2026-07-07",
           "expirationDate": null
         }
       ]
