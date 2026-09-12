@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T20:40:25.494258+00:00",
+  "generated_at": "2026-09-12T20:50:25.564355+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4589,6 +4589,57 @@
           "label": "1A40303000037DD000025223",
           "quantity": 38.0,
           "packagedDate": "2026-08-13",
+          "expirationDate": "2027-06-29"
+        }
+      ]
+    },
+    {
+      "id": 8785081,
+      "packageCount": 1,
+      "name": "Lemon Funk - Cured Sugar - 3.5g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": "Lemon Funk",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 73.51,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.07,
+        "CBN": 0.0,
+        "THCA": 78.44,
+        "THCV": 0.45
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.4,
+        "humulene": 0.57,
+        "myrcene": 2.23,
+        "alpha-pinene": 0.37,
+        "caryophyllene": 2.06,
+        "eudesmol": 0.2,
+        "beta-pinene": 0.28,
+        "limonene": 1.95,
+        "linalool": 0.77,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 9.72,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8785081,
+          "label": "ABC0303000037DD000024830",
+          "quantity": 5.0,
+          "packagedDate": "2026-07-28",
           "expirationDate": "2027-06-29"
         }
       ]
@@ -26387,7 +26438,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 154.0,
+      "quantity": 126.0,
       "unit": "Grams",
       "strainName": "Bodega Gas",
       "strainType": null,
@@ -26421,7 +26472,7 @@
         {
           "id": 8923154,
           "label": "1A403030000012E000187020",
-          "quantity": 154.0,
+          "quantity": 126.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-08-07"
         }
@@ -35485,7 +35536,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Blueberry Cruffin",
       "strainType": null,
@@ -35515,7 +35566,7 @@
         {
           "id": 8914807,
           "label": "1A4030300002009000112808",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-08-11"
         }
@@ -37018,7 +37069,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 136.5,
+      "quantity": 129.5,
       "unit": "Grams",
       "strainName": "Lemon Cherry Gelato",
       "strainType": null,
@@ -37052,7 +37103,7 @@
         {
           "id": 8974466,
           "label": "1A40303000000CB000051665",
-          "quantity": 136.5,
+          "quantity": 129.5,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-02"
         }
@@ -39855,7 +39906,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.68,
+      "quantity": 3.18,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -39887,7 +39938,7 @@
         {
           "id": 8858186,
           "label": "1A40303000001F5000416988",
-          "quantity": 6.68,
+          "quantity": 3.18,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -50634,7 +50685,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Purple Haze",
       "strainType": null,
@@ -50668,7 +50719,7 @@
         {
           "id": 8882187,
           "label": "1A4030300003522000202240",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-05-01"
         }
