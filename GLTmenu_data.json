@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T18:10:26.137347+00:00",
+  "generated_at": "2026-09-12T18:20:28.216217+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10968,16 +10968,17 @@
       ]
     },
     {
-      "id": 8851619,
-      "packageCount": 1,
+      "id": 8974480,
+      "packageCount": 2,
       "name": "Tall- (XO) Dragon Fruit - Liquid Edible - 10mg - 1",
       "brand": null,
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11015,6 +11016,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8974480,
+          "label": "1A4030300000C83000081722",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-08-17"
+        },
         {
           "id": 8851619,
           "label": "1A4030300000C83000080820",
@@ -31301,7 +31309,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 129.5,
+      "quantity": 122.5,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -31334,7 +31342,7 @@
         {
           "id": 8947055,
           "label": "1A40303000000CB000051188",
-          "quantity": 129.5,
+          "quantity": 122.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         }
@@ -35553,57 +35561,6 @@
           "quantity": 7.0,
           "packagedDate": "2026-04-06",
           "expirationDate": "2026-12-15"
-        }
-      ]
-    },
-    {
-      "id": 8894077,
-      "packageCount": 1,
-      "name": "Kaviar Hybrid Infused Pre-Roll - Concentrate - 1.5g",
-      "brand": "Kaviar",
-      "category": "Pre-Roll",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": "Hybrid",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 38.78,
-        "CBC": 0.4,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.67,
-        "CBGA": 0.55,
-        "CBN": 0.32,
-        "THCA": 14.14,
-        "THCV": 0.21
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.09,
-        "myrcene": 0.17,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 0.27,
-        "eudesmol": 0.07,
-        "beta-pinene": 0.04,
-        "limonene": 0.28,
-        "linalool": 0.16,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 1.39,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8894077,
-          "label": "1A403030000012D000261762",
-          "quantity": 2.0,
-          "packagedDate": "2026-08-20",
-          "expirationDate": null
         }
       ]
     },
@@ -43492,7 +43449,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Fab Fuel",
       "strainType": null,
@@ -43528,7 +43485,7 @@
         {
           "id": 8849829,
           "label": "1A403030000283D000057286",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-11",
           "expirationDate": "2027-05-13"
         }
@@ -48023,7 +47980,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Gazzurple",
       "strainType": "Sativa",
@@ -48057,7 +48014,7 @@
         {
           "id": 8970471,
           "label": "1A40303000003EA000263664",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-29"
         }
@@ -48528,7 +48485,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Herbal Gummiez FSE",
       "strainType": null,
@@ -48563,7 +48520,7 @@
         {
           "id": 8115303,
           "label": "ABC0303000037DD000021007",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-02-24",
           "expirationDate": "2027-02-09"
         }
@@ -57339,7 +57296,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Fruit Punch",
       "strainType": null,
@@ -57372,7 +57329,7 @@
         {
           "id": 8883698,
           "label": "1A4030300000C83000085448",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-06-17"
         }
@@ -59139,7 +59096,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 29.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -59173,7 +59130,7 @@
         {
           "id": 8858442,
           "label": "1A40303000039D1000091583",
-          "quantity": 29.0,
+          "quantity": 27.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-05-18"
         }
