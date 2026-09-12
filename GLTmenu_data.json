@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T14:20:26.973076+00:00",
+  "generated_at": "2026-09-12T14:30:27.814718+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2310,7 +2310,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Happy er J Sunset Octane x House Blends",
       "strainType": null,
@@ -2343,7 +2343,7 @@
         {
           "id": 8947063,
           "label": "1A4030300000C83000086908",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-20"
         }
@@ -4198,6 +4198,49 @@
           "quantity": 20.0,
           "packagedDate": "2025-10-23",
           "expirationDate": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "id": 8689162,
+      "packageCount": 1,
+      "name": "LORE Double Diamonds 1g - Zelato",
+      "brand": "LORE",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Weight)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 7.0,
+      "unit": "Grams",
+      "strainName": "Zelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 38.79,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.27,
+        "CBN": 0.07,
+        "THCA": 40.43,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.05,
+        "caryophyllene": 0.12
+      },
+      "totalTerps": 0.21,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8689162,
+          "label": "1A4030300003201000001350",
+          "quantity": 7.0,
+          "packagedDate": "2026-07-07",
+          "expirationDate": null
         }
       ]
     },
@@ -18273,6 +18316,61 @@
       ]
     },
     {
+      "id": 8777801,
+      "packageCount": 1,
+      "name": "Encore RSO Gummies (Macro Dose) - Concord Grape - Exempt - 40mg - 10pc*",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.951,
+        "CBC": 0.004,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.031,
+        "CBGA": 0.0,
+        "CBN": 0.005,
+        "THCA": 0.0,
+        "THCV": 0.006
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "CBC": 0.16,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.24,
+          "CBGA": 0.0,
+          "CBN": 0.2,
+          "THCA": 0.0,
+          "THCV": 0.24
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8777801,
+          "label": "1A40303000017D5000101323",
+          "quantity": 16.0,
+          "packagedDate": "2026-07-02",
+          "expirationDate": "2027-07-02"
+        }
+      ]
+    },
+    {
       "id": 8139544,
       "packageCount": 1,
       "name": "Encore RSO Gummies (Macro Dose) - Tropical Mango - Exempt - 40mg - 10pc",
@@ -22356,7 +22454,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -22395,7 +22493,7 @@
         {
           "id": 8678606,
           "label": "1A403030000012D000253351",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-02",
           "expirationDate": null
         }
@@ -24125,7 +24223,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -24166,7 +24264,7 @@
         {
           "id": 8882383,
           "label": "1A4030300003522000202267",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-08"
         }
@@ -31838,7 +31936,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 34.0,
+      "quantity": 33.0,
       "unit": "Grams",
       "strainName": "Lemon Berry Cookies",
       "strainType": null,
@@ -31871,7 +31969,7 @@
         {
           "id": 7857567,
           "label": "1A4030300002009000082987",
-          "quantity": 34.0,
+          "quantity": 33.0,
           "packagedDate": "2025-12-18",
           "expirationDate": "2026-11-12"
         }
@@ -33329,7 +33427,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Sunset Octane x Isolate",
       "strainType": null,
@@ -33361,7 +33459,7 @@
         {
           "id": 8886159,
           "label": "1A4030300000C83000085455",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-07-25"
         }
@@ -35227,7 +35325,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 16.0,
       "unit": "Grams",
@@ -37120,6 +37218,55 @@
       ]
     },
     {
+      "id": 8882304,
+      "packageCount": 1,
+      "name": "NH Cherimoya Preroll-Usable-.5g 2pk",
+      "brand": "NH",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 17.0,
+      "unit": "Grams",
+      "strainName": "Cherimoya",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.92,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.14,
+        "CBGA": 1.03,
+        "CBN": 0.0,
+        "THCA": 25.17,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.09,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.22,
+        "eudesmol": 0.13,
+        "beta-pinene": 0.04,
+        "limonene": 0.39,
+        "linalool": 0.39
+      },
+      "totalTerps": 1.68,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8882304,
+          "label": "1A4030300003521000056056",
+          "quantity": 17.0,
+          "packagedDate": "2026-08-18",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8882306,
       "packageCount": 1,
       "name": "NH Chestah The Cheetah Preroll-Usable-.5g 5pk",
@@ -37510,6 +37657,54 @@
           "label": "1A4030300003522000195386",
           "quantity": 22.0,
           "packagedDate": "2026-08-06",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8882298,
+      "packageCount": 1,
+      "name": "NH Lemon Margy Preroll-Usable-.5g 2pk",
+      "brand": "NH",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 19.0,
+      "unit": "Grams",
+      "strainName": "Lemon Margy",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 21.49,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.32,
+        "CBGA": 0.96,
+        "CBN": 0.0,
+        "THCA": 23.39,
+        "THCV": 0.25
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.04,
+        "myrcene": 0.03,
+        "caryophyllene": 0.1,
+        "beta-pinene": 0.02,
+        "ocimene": 0.07,
+        "limonene": 0.05,
+        "terpinolene": 0.1
+      },
+      "totalTerps": 0.47,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8882298,
+          "label": "1A4030300003521000056057",
+          "quantity": 19.0,
+          "packagedDate": "2026-08-18",
           "expirationDate": null
         }
       ]
@@ -38076,7 +38271,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 41.0,
+      "quantity": 39.0,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
@@ -38111,7 +38306,7 @@
         {
           "id": 8911103,
           "label": "1A40303000000CB000050580",
-          "quantity": 8.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         },
@@ -43707,6 +43902,58 @@
       ]
     },
     {
+      "id": 8768206,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Orange Apricot - 1g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": "Orange Apricot",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 81.68,
+        "CBC": 1.54,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.94,
+        "CBGA": 0.0,
+        "CBN": 0.62,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.49,
+        "humulene": 0.15,
+        "myrcene": 0.75,
+        "alpha-pinene": 0.12,
+        "caryophyllene": 0.77,
+        "eudesmol": 0.3,
+        "beta-pinene": 0.14,
+        "caryophyllene-oxide": 0.27,
+        "limonene": 1.2,
+        "linalool": 0.4,
+        "nerolidol": 0.15
+      },
+      "totalTerps": 4.94,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8768206,
+          "label": "1A403030000283D000056947",
+          "quantity": 5.0,
+          "packagedDate": "2026-07-23",
+          "expirationDate": "2027-06-19"
+        }
+      ]
+    },
+    {
       "id": 8911341,
       "packageCount": 1,
       "name": "Beezle - Buzz Vape - Sourene - 0.5g",
@@ -44805,7 +45052,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": "Cherry Chem . Liquid and",
       "strainType": null,
@@ -44845,7 +45092,7 @@
         {
           "id": 8599199,
           "label": "1A40303000007D1000080938",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-06-16",
           "expirationDate": null
         }
@@ -48351,7 +48598,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Grape Stomper",
       "strainType": null,
@@ -48384,7 +48631,7 @@
         {
           "id": 8966484,
           "label": "1A403030000012E000192147",
-          "quantity": 12.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-07-31"
         }
@@ -52068,7 +52315,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Tropicana Cookies",
       "strainType": null,
@@ -52103,7 +52350,7 @@
         {
           "id": 8954300,
           "label": "1A4030300002199000062284",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-06-23"
         }
@@ -53937,7 +54184,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": null,
@@ -53971,7 +54218,7 @@
         {
           "id": 8945348,
           "label": "1A403030000283D000060835",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -54037,7 +54284,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Northern Lights",
       "strainType": null,
@@ -54070,7 +54317,7 @@
         {
           "id": 8945079,
           "label": "1A403030000283D000060836",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -56551,6 +56798,56 @@
       ]
     },
     {
+      "id": 8587006,
+      "packageCount": 1,
+      "name": "RO-BDTCart-.5g-OGKush-H-MD (260601MED101353)-Vape",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 1.0,
+      "unit": "Each",
+      "strainName": "RO BDTCart . OGKush H MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 88.2,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.12,
+        "CBGA": 0.0,
+        "CBN": 0.63,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.22,
+        "humulene": 0.32,
+        "myrcene": 0.48,
+        "alpha-pinene": 0.27,
+        "caryophyllene": 0.71,
+        "beta-pinene": 0.32,
+        "limonene": 0.53,
+        "linalool": 0.46,
+        "terpinolene": 0.16
+      },
+      "totalTerps": 4.17,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8587006,
+          "label": "1A403030000238D000102514",
+          "quantity": 1.0,
+          "packagedDate": "2026-06-12",
+          "expirationDate": "2027-06-04"
+        }
+      ]
+    },
+    {
       "id": 8859983,
       "packageCount": 1,
       "name": "RO-BDTCart-.5g-SuperLemonHaze-S-MD (260622MED103393)-Vape",
@@ -57057,53 +57354,6 @@
       ]
     },
     {
-      "id": 8873607,
-      "packageCount": 1,
-      "name": "Razberry Blitz Distillate Cartridge Hellavated - Vape Cart - 1.0 g",
-      "brand": "Hellavated",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": "Razberry Blitz",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 87.99,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.22,
-        "CBGA": 0.0,
-        "CBN": 0.42,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "myrcene": 0.18,
-        "alpha-pinene": 1.74,
-        "caryophyllene": 0.04,
-        "beta-pinene": 0.24,
-        "limonene": 0.54,
-        "linalool": 0.25
-      },
-      "totalTerps": 3.04,
-      "dominantTerpene": "alpha-pinene",
-      "packages": [
-        {
-          "id": 8873607,
-          "label": "1A403030000012E000183010",
-          "quantity": 2.0,
-          "packagedDate": "2026-08-17",
-          "expirationDate": "2027-07-03"
-        }
-      ]
-    },
-    {
       "id": 8947228,
       "packageCount": 1,
       "name": "Rocket Pop Disposable DV 2.0g/2000mg",
@@ -57152,6 +57402,57 @@
           "quantity": 9.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-13"
+        }
+      ]
+    },
+    {
+      "id": 8811769,
+      "packageCount": 1,
+      "name": "Rove | Classics | Gelato - I | 1.0g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": "Classics",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 93.16,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.312,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.108,
+        "humulene": 0.158,
+        "myrcene": 0.039,
+        "caryophyllene": 0.858,
+        "eudesmol": 0.0404,
+        "caryophyllene-oxide": 0.069,
+        "limonene": 0.563,
+        "linalool": 0.143,
+        "terpinolene": 0.0229,
+        "nerolidol": 0.0247
+      },
+      "totalTerps": 2.16,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8811769,
+          "label": "1A4030300000C83000079097",
+          "quantity": 5.0,
+          "packagedDate": "2026-08-03",
+          "expirationDate": "2027-07-06"
         }
       ]
     },
@@ -57216,7 +57517,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Sour Jack",
       "strainType": null,
@@ -57249,7 +57550,7 @@
         {
           "id": 8812103,
           "label": "1A4030300000C83000079099",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-03",
           "expirationDate": "2027-06-23"
         }
@@ -58728,7 +59029,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Strawberry Cough",
       "strainType": null,
@@ -58763,7 +59064,7 @@
         {
           "id": 8750532,
           "label": "1A40303000039D1000084245",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-05-22"
         }
