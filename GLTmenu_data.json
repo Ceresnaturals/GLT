@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T16:50:28.776193+00:00",
+  "generated_at": "2026-09-12T17:00:27.378716+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -24919,7 +24919,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -24960,7 +24960,7 @@
         {
           "id": 8747178,
           "label": "1A4030300002199000057209",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-05-26",
           "expirationDate": "2027-05-26"
         }
@@ -38008,7 +38008,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 32.0,
+      "quantity": 31.0,
       "unit": "Grams",
       "strainName": "Puro Loco",
       "strainType": null,
@@ -38041,7 +38041,7 @@
         {
           "id": 8890369,
           "label": "1A40303000001F5000420175",
-          "quantity": 32.0,
+          "quantity": 31.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -42930,7 +42930,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Baja Blue DV",
       "strainType": null,
@@ -42964,7 +42964,7 @@
         {
           "id": 8731186,
           "label": "1A40303000001F5000404834",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-01-22"
         }
@@ -45891,7 +45891,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Mango Kush",
       "strainType": null,
@@ -45924,7 +45924,7 @@
         {
           "id": 8864065,
           "label": "1A403030000012D000260501",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -46328,6 +46328,57 @@
           "id": 8828989,
           "label": "1A403030000012D000259351",
           "quantity": 21.0,
+          "packagedDate": "2026-08-06",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8828888,
+      "packageCount": 1,
+      "name": "Edie Parker Maui Mango Sativa Disposable Vape-Vape Cart-1.0g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 15.0,
+      "unit": "Each",
+      "strainName": "Edie Parker Maui Mango",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 77.23,
+        "CBC": 1.5,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.35,
+        "CBGA": 0.0,
+        "CBN": 2.66,
+        "THCA": 0.0,
+        "THCV": 0.68
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.25,
+        "humulene": 0.07,
+        "myrcene": 1.01,
+        "alpha-pinene": 0.6,
+        "caryophyllene": 1.22,
+        "beta-pinene": 0.31,
+        "ocimene": 0.14,
+        "limonene": 0.74,
+        "linalool": 0.26,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 5.04,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8828888,
+          "label": "1A403030000012D000259349",
+          "quantity": 15.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -51230,6 +51281,53 @@
       ]
     },
     {
+      "id": 8689167,
+      "packageCount": 1,
+      "name": "LORE 1g Vape - Watermelon Burst",
+      "brand": "LORE",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Watermelon Burst",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 80.76,
+        "CBC": 0.57,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.89,
+        "CBGA": 0.0,
+        "CBN": 1.27,
+        "THCA": 0.0,
+        "THCV": 0.87
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.23,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.39,
+        "beta-pinene": 0.08,
+        "limonene": 0.75,
+        "linalool": 0.17
+      },
+      "totalTerps": 1.75,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8689167,
+          "label": "1A4030300003201000001354",
+          "quantity": 12.0,
+          "packagedDate": "2026-07-07",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8689168,
       "packageCount": 1,
       "name": "LORE 2g Vape - Lemon Berry Gelato",
@@ -54547,7 +54645,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Guava IX",
       "strainType": null,
@@ -54580,7 +54678,7 @@
         {
           "id": 8828808,
           "label": "1A4030300003522000195390",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-19"
         }
@@ -56428,7 +56526,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "RO BDTCart . GranddaddyPurpl I MD",
       "strainType": null,
@@ -56460,7 +56558,7 @@
         {
           "id": 8586455,
           "label": "1A403030000238D000102312",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-06-12",
           "expirationDate": "2027-06-04"
         }
@@ -59282,7 +59380,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Super Sour Peach DV",
       "strainType": null,
@@ -59317,7 +59415,7 @@
         {
           "id": 8890380,
           "label": "1A40303000001F5000420187",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-03-26"
         }
