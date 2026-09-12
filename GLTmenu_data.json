@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T21:00:27.957856+00:00",
+  "generated_at": "2026-09-12T21:10:24.591512+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -17667,7 +17667,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17708,7 +17708,7 @@
         {
           "id": 8923138,
           "label": "1A403030000012E000187001",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-03-09"
         }
@@ -24740,7 +24740,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -24779,7 +24779,7 @@
         {
           "id": 8846254,
           "label": "1A403030000390D000066075",
-          "quantity": 20.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-11",
           "expirationDate": "2027-07-21"
         }
@@ -27178,7 +27178,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 202.27,
+      "quantity": 198.77,
       "unit": "Grams",
       "strainName": "Earthquake #25",
       "strainType": null,
@@ -27211,7 +27211,7 @@
         {
           "id": 8000715,
           "label": "1A40303000000C9000082241",
-          "quantity": 202.27,
+          "quantity": 198.77,
           "packagedDate": "2026-01-28",
           "expirationDate": "2026-11-23"
         }
@@ -44478,57 +44478,6 @@
           "label": "1A4030300000579000044425",
           "quantity": 6.0,
           "packagedDate": "2026-06-23",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8781125,
-      "packageCount": 1,
-      "name": "Bloom | Live Surf | 1g | Indica | Rainbow Z",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": "Rainbow Z",
-      "strainType": "Indica",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 86.21,
-        "totalCBD": 0.39,
-        "CBC": 0.58,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.87,
-        "CBGA": 0.0,
-        "CBN": 0.72,
-        "THCA": 0.0,
-        "THCV": 0.62
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.06,
-        "myrcene": 1.02,
-        "alpha-pinene": 0.23,
-        "caryophyllene": 0.31,
-        "beta-pinene": 0.24,
-        "ocimene": 0.55,
-        "limonene": 0.92,
-        "linalool": 0.1,
-        "terpinolene": 2.04
-      },
-      "totalTerps": 5.85,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8781125,
-          "label": "1A4030300000579000044429",
-          "quantity": 2.0,
-          "packagedDate": "2026-06-02",
           "expirationDate": null
         }
       ]
