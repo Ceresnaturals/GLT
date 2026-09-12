@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T23:20:24.509741+00:00",
+  "generated_at": "2026-09-12T23:30:24.820299+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3344,7 +3344,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -3380,7 +3380,7 @@
         {
           "id": 8765366,
           "label": "1A40303000001F5000408130",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-01"
         }
@@ -5449,7 +5449,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "MD EXT MDGFGE 1LB",
       "strainType": null,
@@ -5484,7 +5484,7 @@
         {
           "id": 8182750,
           "label": "1A40303000007D1000060513",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-03-11",
           "expirationDate": null
         }
@@ -5997,7 +5997,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Mfused FIRE Fattys",
       "strainType": null,
@@ -6032,7 +6032,7 @@
         {
           "id": 8828895,
           "label": "1A403030000012D000259359",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -8420,7 +8420,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": "Sativa",
@@ -8455,7 +8455,7 @@
         {
           "id": 8919841,
           "label": "1A40303000003EA000206309",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-09"
         }
@@ -25991,7 +25991,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "BTY OG",
       "strainType": null,
@@ -26024,7 +26024,7 @@
         {
           "id": 8923148,
           "label": "1A403030000012E000187017",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-07-22"
         }
@@ -27898,7 +27898,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 73.5,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "Black Cherry Punch",
       "strainType": null,
@@ -27933,7 +27933,7 @@
         {
           "id": 8939178,
           "label": "1A4030300003521000056671",
-          "quantity": 73.5,
+          "quantity": 70.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-14"
         }
@@ -30071,7 +30071,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 91.0,
+      "quantity": 87.5,
       "unit": "Grams",
       "strainName": "ONYCD 3.0",
       "strainType": null,
@@ -30105,7 +30105,7 @@
         {
           "id": 8939203,
           "label": "1A4030300003521000056676",
-          "quantity": 91.0,
+          "quantity": 87.5,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-12"
         }
@@ -44460,51 +44460,6 @@
           "quantity": 6.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-05-16"
-        }
-      ]
-    },
-    {
-      "id": 8873611,
-      "packageCount": 1,
-      "name": "Blueberry Dream Distillate Cartridge Hellavated - Vape Cart - 1.0 g",
-      "brand": "Hellavated",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Blueberry Dream",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 86.27,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.92,
-        "CBGA": 0.0,
-        "CBN": 0.47,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "alpha-pinene": 2.43,
-        "caryophyllene": 0.14,
-        "beta-pinene": 0.29,
-        "linalool": 0.21
-      },
-      "totalTerps": 3.14,
-      "dominantTerpene": "alpha-pinene",
-      "packages": [
-        {
-          "id": 8873611,
-          "label": "1A403030000012E000183584",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-17",
-          "expirationDate": "2027-06-13"
         }
       ]
     },
