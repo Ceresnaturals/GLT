@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T16:20:25.306212+00:00",
+  "generated_at": "2026-09-12T16:30:25.799611+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8571,7 +8571,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Blue Z",
       "strainType": "Indica",
@@ -8605,7 +8605,7 @@
         {
           "id": 8854455,
           "label": "1A40303000003EA000202545",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-06-17"
         }
@@ -25841,7 +25841,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Animal Face",
       "strainType": "Indica",
@@ -25877,7 +25877,7 @@
         {
           "id": 8944209,
           "label": "1A40303000003EA000264674",
-          "quantity": 38.5,
+          "quantity": 28.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         }
@@ -28893,7 +28893,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 3.5,
       "unit": "Grams",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -28927,7 +28927,7 @@
         {
           "id": 8947053,
           "label": "1A40303000000CB000051186",
-          "quantity": 7.0,
+          "quantity": 3.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-18"
         }
@@ -32174,7 +32174,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Afternoon Delight Big Dogs",
       "strainType": null,
@@ -32207,7 +32207,7 @@
         {
           "id": 8518003,
           "label": "1A40303000003EA000187073",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-01-29"
         }
@@ -38504,7 +38504,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Sherbanger Big Dogs",
       "strainType": null,
@@ -38538,7 +38538,7 @@
         {
           "id": 7688695,
           "label": "1A40303000003EA000122385",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2025-11-05",
           "expirationDate": "2026-10-17"
         }
@@ -42739,7 +42739,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Bacio Gelato",
       "strainType": null,
@@ -42773,7 +42773,7 @@
         {
           "id": 8919189,
           "label": "1A40303000001F5000423341",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-02-20"
         }
@@ -43331,7 +43331,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Chem Cookies",
       "strainType": null,
@@ -43366,7 +43366,7 @@
         {
           "id": 8911260,
           "label": "1A403030000283D000060415",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-06-24"
         }
@@ -43573,56 +43573,6 @@
           "quantity": 8.0,
           "packagedDate": "2026-08-11",
           "expirationDate": "2027-05-13"
-        }
-      ]
-    },
-    {
-      "id": 8849721,
-      "packageCount": 1,
-      "name": "Beezle - Buzz Vape - Grapefruit Diesel - 0.5g",
-      "brand": "Beezle",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Grapefruit Diesel",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 80.46,
-        "CBC": 1.03,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.93,
-        "CBGA": 0.0,
-        "CBN": 0.41,
-        "THCA": 0.0,
-        "THCV": 0.66
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.4,
-        "humulene": 0.16,
-        "myrcene": 0.9,
-        "alpha-pinene": 0.2,
-        "caryophyllene": 1.4,
-        "beta-pinene": 0.17,
-        "limonene": 1.27,
-        "linalool": 0.46,
-        "nerolidol": 0.11
-      },
-      "totalTerps": 5.2,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8849721,
-          "label": "1A403030000283D000057282",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-11",
-          "expirationDate": null
         }
       ]
     },
@@ -50792,7 +50742,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Jack Herer",
       "strainType": null,
@@ -50827,7 +50777,7 @@
         {
           "id": 8974646,
           "label": "1A40303000001F5000428942",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-03-26"
         }
