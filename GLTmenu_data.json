@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:00:27.378716+00:00",
+  "generated_at": "2026-09-12T17:10:26.584723+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9081,7 +9081,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Sunshine",
       "strainType": null,
@@ -9118,7 +9118,7 @@
         {
           "id": 8696829,
           "label": "1A40303000001F5000401548",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-07-08",
           "expirationDate": "2027-05-26"
         }
@@ -12773,7 +12773,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12812,7 +12812,7 @@
         {
           "id": 8766853,
           "label": "1A4030300003522000207387",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-01-04"
         }
@@ -16049,16 +16049,17 @@
       ]
     },
     {
-      "id": 8512207,
-      "packageCount": 1,
+      "id": 8974908,
+      "packageCount": 2,
       "name": "Discos - Sour Watermelon - Exempt - 40mg - 10",
       "brand": null,
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16096,6 +16097,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8974908,
+          "label": "1A4030300000C83000081724",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-04-01"
+        },
         {
           "id": 8512207,
           "label": "1A4030300000C83000063201",
@@ -27013,7 +27021,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 212.77,
+      "quantity": 209.27,
       "unit": "Grams",
       "strainName": "Earthquake #25",
       "strainType": null,
@@ -27046,7 +27054,7 @@
         {
           "id": 8000715,
           "label": "1A40303000000C9000082241",
-          "quantity": 212.77,
+          "quantity": 209.27,
           "packagedDate": "2026-01-28",
           "expirationDate": "2026-11-23"
         }
@@ -31681,7 +31689,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 52.5,
+      "quantity": 49.0,
       "unit": "Grams",
       "strainName": "Wingsuit",
       "strainType": null,
@@ -31715,7 +31723,7 @@
         {
           "id": 8966591,
           "label": "1A403030000012E000190898",
-          "quantity": 52.5,
+          "quantity": 49.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-06-25"
         }
@@ -34428,7 +34436,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Grams",
       "strainName": "Finger Lime Haze",
       "strainType": null,
@@ -34464,7 +34472,7 @@
         {
           "id": 8966443,
           "label": "1A403030000012E000192646",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-06"
         }
@@ -35270,7 +35278,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Grams",
       "strainName": "Juicee J",
       "strainType": null,
@@ -35307,7 +35315,7 @@
         {
           "id": 8966517,
           "label": "1A403030000012E000192640",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-07-29"
         }
@@ -39457,7 +39465,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.0,
+      "quantity": 40.0,
       "unit": "Grams",
       "strainName": "Pank Lemonade",
       "strainType": null,
@@ -39490,7 +39498,7 @@
         {
           "id": 8943241,
           "label": "1A40303000040D9000005969",
-          "quantity": 45.0,
+          "quantity": 40.0,
           "packagedDate": "2026-09-01",
           "expirationDate": null
         }
