@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T16:20:24.805925+00:00",
+  "generated_at": "2026-09-13T16:30:25.662550+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4401,7 +4401,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Cosmic Balance Blend",
       "strainType": "Hybrid",
@@ -4436,7 +4436,7 @@
         {
           "id": 8890310,
           "label": "1A4030300002199000061272",
-          "quantity": 6.0,
+          "quantity": 4.0,
           "packagedDate": "2026-06-03",
           "expirationDate": null
         }
@@ -10331,7 +10331,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10372,7 +10372,7 @@
         {
           "id": 8920317,
           "label": "1A40303000001F5000423547",
-          "quantity": 12.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -43982,7 +43982,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Forbidden Fruit",
       "strainType": "Indica",
@@ -44014,7 +44014,7 @@
         {
           "id": 8781211,
           "label": "1A4030300000579000044425",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-06-23",
           "expirationDate": null
         }
@@ -44865,44 +44865,52 @@
       ]
     },
     {
-      "id": 8397929,
-      "packageCount": 1,
+      "id": 8756345,
+      "packageCount": 2,
       "name": "Clementine Cloud Bar Hellavated - Vape Cart - 1 g",
       "brand": "Hellavated",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Clementine",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 83.01,
-        "CBC": 0.63,
+        "totalTHC": 86.16,
+        "CBC": 0.72,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 2.12,
+        "CBG": 3.67,
         "CBGA": 0.0,
-        "CBN": 0.34,
+        "CBN": 0.66,
         "THCA": 0.0,
-        "THCV": 1.33
+        "THCV": 1.01
       },
       "dose": null,
       "terpenes": {
-        "myrcene": 0.43,
-        "alpha-pinene": 0.07,
-        "caryophyllene": 0.63,
+        "myrcene": 0.35,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.6,
         "beta-pinene": 0.08,
-        "limonene": 1.17,
-        "linalool": 0.22,
+        "limonene": 1.12,
+        "linalool": 0.24,
         "nerolidol": 0.17
       },
-      "totalTerps": 3.03,
+      "totalTerps": 2.9,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 8756345,
+          "label": "1A403030000012E000176846",
+          "quantity": 12.0,
+          "packagedDate": "2026-07-21",
+          "expirationDate": "2027-03-28"
+        },
         {
           "id": 8397929,
           "label": "1A403030000012E000155174",
