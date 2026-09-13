@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T18:20:26.676259+00:00",
+  "generated_at": "2026-09-13T18:30:26.929298+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -14396,7 +14396,7 @@
     },
     {
       "id": 8894078,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Curio Wellness Pink Cotton 10mg Chews-Edible Product-10mg-10",
       "brand": "Curio Wellness",
       "category": "Edible",
@@ -14404,7 +14404,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14445,6 +14445,13 @@
           "label": "1A403030000012D000261763",
           "quantity": 3.0,
           "packagedDate": "2026-08-20",
+          "expirationDate": null
+        },
+        {
+          "id": 8738018,
+          "label": "1A403030000012D000255830",
+          "quantity": 19.0,
+          "packagedDate": "2026-07-16",
           "expirationDate": null
         }
       ]
@@ -18711,8 +18718,8 @@
       ]
     },
     {
-      "id": 8490545,
-      "packageCount": 1,
+      "id": 8490544,
+      "packageCount": 2,
       "name": "HiColor Gummies Alfonso Mango 1:1|Edible Product|5mg|20ct",
       "brand": "HiColor",
       "category": "Edible",
@@ -18720,7 +18727,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18758,6 +18765,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8490544,
+          "label": "1A4030300002009000102652",
+          "quantity": 1.0,
+          "packagedDate": "2026-05-21",
+          "expirationDate": "2027-03-06"
+        },
         {
           "id": 8490545,
           "label": "1A4030300002009000102653",
@@ -26171,6 +26185,55 @@
       ]
     },
     {
+      "id": 8695957,
+      "packageCount": 1,
+      "name": "Blue Zangria 9 Pre-Pack 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 7.0,
+      "unit": "Grams",
+      "strainName": "Blue Zangria 9",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 19.9,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.2,
+        "CBGA": 1.22,
+        "CBN": 0.0,
+        "THCA": 22.69,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.08,
+        "myrcene": 0.05,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.26,
+        "beta-pinene": 0.08,
+        "ocimene": 0.03,
+        "limonene": 0.42,
+        "linalool": 0.15
+      },
+      "totalTerps": 1.29,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8695957,
+          "label": "1A40303000000CB000046434",
+          "quantity": 7.0,
+          "packagedDate": "2026-07-08",
+          "expirationDate": "2027-06-13"
+        }
+      ]
+    },
+    {
       "id": 8923154,
       "packageCount": 1,
       "name": "Bodega Gas Stash - Usable - 14 g",
@@ -30457,9 +30520,9 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 49.0,
+      "quantity": 45.5,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -30493,7 +30556,7 @@
         {
           "id": 8974565,
           "label": "1A40303000001F5000428931",
-          "quantity": 49.0,
+          "quantity": 45.5,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -30798,7 +30861,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 45.5,
       "unit": "Grams",
@@ -36445,6 +36508,59 @@
       ]
     },
     {
+      "id": 8520796,
+      "packageCount": 1,
+      "name": "Legend | Pre-Rolls | THCa and Terpene Infused Multipack | Citrus Berry Marmalade - Usable - 5pk/2.5g",
+      "brand": "Legend",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 7.0,
+      "unit": "Each",
+      "strainName": "Citrus Berry Marmalade",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 39.07,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.33,
+        "CBN": 0.0,
+        "THCA": 43.04,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.49,
+        "myrcene": 0.37,
+        "alpha-pinene": 0.3,
+        "caryophyllene": 1.39,
+        "beta-pinene": 0.18,
+        "caryophyllene-oxide": 0.13,
+        "ocimene": 0.21,
+        "limonene": 1.61,
+        "linalool": 0.36,
+        "terpinolene": 0.04,
+        "nerolidol": 0.08
+      },
+      "totalTerps": 5.6,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8520796,
+          "label": "1A4030300002199000051908",
+          "quantity": 7.0,
+          "packagedDate": "2026-03-26",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8947323,
       "packageCount": 1,
       "name": "Lemon Blanc J Walker (.35g Joints) 1.75g",
@@ -36843,6 +36959,55 @@
           "quantity": 21.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-16"
+        }
+      ]
+    },
+    {
+      "id": 8794918,
+      "packageCount": 1,
+      "name": "Multi Pack- Pineapple Bang 5 (x7 0.5g Joints) 3.5g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 45.5,
+      "unit": "Grams",
+      "strainName": "Pineapple Bang 5",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.14,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.98,
+        "CBN": 0.0,
+        "THCA": 28.31,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.11,
+        "myrcene": 0.16,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.36,
+        "beta-pinene": 0.08,
+        "limonene": 0.62,
+        "linalool": 0.33
+      },
+      "totalTerps": 1.93,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8794918,
+          "label": "1A40303000000CB000048690",
+          "quantity": 45.5,
+          "packagedDate": "2026-07-29",
+          "expirationDate": "2027-06-13"
         }
       ]
     },
@@ -42581,7 +42746,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Bacio Gelato",
       "strainType": null,
@@ -42615,7 +42780,7 @@
         {
           "id": 8919189,
           "label": "1A40303000001F5000423341",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-02-20"
         }
@@ -48655,7 +48820,7 @@
     },
     {
       "id": 8752071,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "HiAF|Disposable|Mango Sunrise|Vape Cart|1000mg",
       "brand": "HiAF",
       "category": "Vape",
@@ -48663,7 +48828,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Mango Sunrise",
       "strainType": null,
@@ -48696,6 +48861,13 @@
           "label": "1A4030300002009000109428",
           "quantity": 7.0,
           "packagedDate": "2026-07-21",
+          "expirationDate": "2027-04-20"
+        },
+        {
+          "id": 8490803,
+          "label": "1A4030300002009000102674",
+          "quantity": 1.0,
+          "packagedDate": "2026-05-21",
           "expirationDate": "2027-04-20"
         }
       ]
@@ -49350,7 +49522,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": "Durban Poison",
       "strainType": null,
@@ -49382,7 +49554,7 @@
         {
           "id": 8939337,
           "label": "1A4030300003522000210565",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-31"
         }
