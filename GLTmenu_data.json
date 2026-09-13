@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T16:10:25.223056+00:00",
+  "generated_at": "2026-09-13T16:20:24.805925+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2618,7 +2618,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Dulce Destroyer",
       "strainType": null,
@@ -2656,7 +2656,7 @@
         {
           "id": 8919192,
           "label": "1A40303000001F5000423344",
-          "quantity": 13.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-02"
         }
@@ -5652,7 +5652,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "MD EXT MDOGKU 35LB",
       "strainType": null,
@@ -5686,7 +5686,7 @@
         {
           "id": 8959173,
           "label": "1A40303000007D1000102091",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-04",
           "expirationDate": null
         }
@@ -5900,7 +5900,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "MDSSVD IIPR",
       "strainType": null,
@@ -5932,7 +5932,7 @@
         {
           "id": 8300427,
           "label": "1A40303000007D1000070078",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-04-08",
           "expirationDate": null
         }
@@ -8068,7 +8068,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "RO CrdShatter ThunderPunch S MD",
       "strainType": null,
@@ -8102,7 +8102,7 @@
         {
           "id": 8968491,
           "label": "1A403030000238D000107267",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-11"
         }
@@ -9628,7 +9628,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Yellow Mermaid",
       "strainType": null,
@@ -9664,7 +9664,7 @@
         {
           "id": 8765365,
           "label": "1A40303000001F5000408129",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-05-27"
         }
@@ -14459,7 +14459,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14498,7 +14498,7 @@
         {
           "id": 8926296,
           "label": "1A403030000012D000262976",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         }
@@ -18054,7 +18054,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18093,7 +18093,7 @@
         {
           "id": 8902326,
           "label": "1A40303000017D5000104295",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-07-02"
         }
@@ -35460,7 +35460,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Motor Cake",
       "strainType": null,
@@ -35492,7 +35492,7 @@
         {
           "id": 8289224,
           "label": "1A4030300002009000096916",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-04-06",
           "expirationDate": "2026-12-15"
         }
@@ -39397,7 +39397,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 5.0,
       "unit": "Grams",
       "strainName": "Pank Lemonade",
       "strainType": null,
@@ -39430,7 +39430,7 @@
         {
           "id": 8943241,
           "label": "1A40303000040D9000005969",
-          "quantity": 10.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-01",
           "expirationDate": null
         }
@@ -44865,52 +44865,44 @@
       ]
     },
     {
-      "id": 8756345,
-      "packageCount": 2,
+      "id": 8397929,
+      "packageCount": 1,
       "name": "Clementine Cloud Bar Hellavated - Vape Cart - 1 g",
       "brand": "Hellavated",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Clementine",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 86.16,
-        "CBC": 0.72,
+        "totalTHC": 83.01,
+        "CBC": 0.63,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 3.67,
+        "CBG": 2.12,
         "CBGA": 0.0,
-        "CBN": 0.66,
+        "CBN": 0.34,
         "THCA": 0.0,
-        "THCV": 1.01
+        "THCV": 1.33
       },
       "dose": null,
       "terpenes": {
-        "myrcene": 0.35,
-        "alpha-pinene": 0.08,
-        "caryophyllene": 0.6,
+        "myrcene": 0.43,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.63,
         "beta-pinene": 0.08,
-        "limonene": 1.12,
-        "linalool": 0.24,
+        "limonene": 1.17,
+        "linalool": 0.22,
         "nerolidol": 0.17
       },
-      "totalTerps": 2.9,
+      "totalTerps": 3.03,
       "dominantTerpene": "limonene",
       "packages": [
-        {
-          "id": 8756345,
-          "label": "1A403030000012E000176846",
-          "quantity": 12.0,
-          "packagedDate": "2026-07-21",
-          "expirationDate": "2027-03-28"
-        },
         {
           "id": 8397929,
           "label": "1A403030000012E000155174",
