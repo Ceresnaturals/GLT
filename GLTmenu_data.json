@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T15:50:24.559079+00:00",
+  "generated_at": "2026-09-13T16:00:27.512968+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8672,7 +8672,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Blue Z",
       "strainType": "Indica",
@@ -8706,7 +8706,7 @@
         {
           "id": 8854455,
           "label": "1A40303000003EA000202545",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-06-17"
         }
@@ -8773,7 +8773,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Strawberry Shortcake",
       "strainType": "Indica",
@@ -8808,7 +8808,7 @@
         {
           "id": 8919842,
           "label": "1A40303000003EA000206310",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-08-05"
         }
@@ -8824,7 +8824,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Strawberry Sour Diesel",
       "strainType": "Sativa",
@@ -8859,7 +8859,7 @@
         {
           "id": 8826452,
           "label": "1A40303000003EA000195258",
-          "quantity": 5.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-05-04"
         }
@@ -15637,22 +15637,23 @@
       ]
     },
     {
-      "id": 8631018,
-      "packageCount": 1,
+      "id": 8814887,
+      "packageCount": 2,
       "name": "Discos - Radzberry (v2) - Edible product - 10mg - 10",
       "brand": null,
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 31.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.16,
+        "totalTHC": 0.17,
         "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
@@ -15684,6 +15685,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8814887,
+          "label": "1A4030300000C83000080556",
+          "quantity": 25.0,
+          "packagedDate": "2026-08-04",
+          "expirationDate": "2027-06-09"
+        },
         {
           "id": 8631018,
           "label": "1A4030300000C83000064232",
@@ -15747,6 +15755,63 @@
           "quantity": 23.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-14"
+        }
+      ]
+    },
+    {
+      "id": 8814670,
+      "packageCount": 1,
+      "name": "Discos - Sour Blueberry - Edible product - 10mg - 10",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.18,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 each, 10 servings per package",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8814670,
+          "label": "1A4030300000C83000080557",
+          "quantity": 16.0,
+          "packagedDate": "2026-08-04",
+          "expirationDate": "2027-05-14"
         }
       ]
     },
@@ -16438,6 +16503,63 @@
           "quantity": 4.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-07-20"
+        }
+      ]
+    },
+    {
+      "id": 8814673,
+      "packageCount": 1,
+      "name": "Discos - Wild Cherriezzz 5:4:1 (CBD:THC:CBN) - Exempt - 40mg - 10",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 14.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.7,
+        "totalCBD": 0.89,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.18,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 each, 10 servings per package",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 53.4,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 10.8,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8814673,
+          "label": "1A4030300000C83000080558",
+          "quantity": 14.0,
+          "packagedDate": "2026-08-04",
+          "expirationDate": "2027-07-01"
         }
       ]
     },
@@ -20609,6 +20731,63 @@
           "quantity": 4.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-02"
+        }
+      ]
+    },
+    {
+      "id": 8809458,
+      "packageCount": 1,
+      "name": "Incredibles Bites 100mg - Monkey Bar - Edible Product - 10mg - 10",
+      "brand": "Incredibles",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 19.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.11,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8809458,
+          "label": "1A40303000003EA000194161",
+          "quantity": 19.0,
+          "packagedDate": "2026-08-03",
+          "expirationDate": "2027-03-10"
         }
       ]
     },
@@ -30132,7 +30311,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 59.5,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Rainbow Walker",
       "strainType": null,
@@ -30165,7 +30344,7 @@
         {
           "id": 8849580,
           "label": "1A40303000040D9000005598",
-          "quantity": 59.5,
+          "quantity": 56.0,
           "packagedDate": "2026-08-11",
           "expirationDate": "2027-08-10"
         }
@@ -30230,7 +30409,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 119.0,
+      "quantity": 115.5,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
@@ -30265,7 +30444,7 @@
         {
           "id": 8911109,
           "label": "1A40303000000CB000050585",
-          "quantity": 119.0,
+          "quantity": 115.5,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         }
@@ -30966,7 +31145,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 112.0,
+      "quantity": 108.5,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -30999,7 +31178,7 @@
         {
           "id": 8947055,
           "label": "1A40303000000CB000051188",
-          "quantity": 112.0,
+          "quantity": 108.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         }
@@ -32848,7 +33027,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Grams",
       "strainName": "Chem de la Chem TC",
       "strainType": null,
@@ -32880,7 +33059,7 @@
         {
           "id": 8890514,
           "label": "1A40303000001F5000420174",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -34500,7 +34679,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 44.0,
+      "quantity": 43.0,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -34533,7 +34712,7 @@
         {
           "id": 8974569,
           "label": "1A40303000001F5000428936",
-          "quantity": 44.0,
+          "quantity": 43.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -34549,7 +34728,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Grams",
       "strainName": "Grape Lime Ricky",
       "strainType": null,
@@ -34583,7 +34762,7 @@
         {
           "id": 8858490,
           "label": "1A40303000001F5000416973",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -34879,6 +35058,57 @@
           "quantity": 20.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-01"
+        }
+      ]
+    },
+    {
+      "id": 8809460,
+      "packageCount": 1,
+      "name": "Jack's Delight 5 Pack (Infused) Dogwalkers (Play ) - Concentrate - 2.25g",
+      "brand": "Dogwalkers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Jack's Delight",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 38.28,
+        "totalCBD": 0.04,
+        "CBC": 0.0,
+        "CBDA": 0.05,
+        "CBDV": 0.0,
+        "CBG": 0.11,
+        "CBGA": 1.38,
+        "CBN": 0.0,
+        "THCA": 41.77,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.2,
+        "myrcene": 0.24,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.64,
+        "beta-pinene": 0.07,
+        "ocimene": 0.21,
+        "limonene": 0.12,
+        "linalool": 0.06,
+        "terpinolene": 1.01
+      },
+      "totalTerps": 2.75,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8809460,
+          "label": "1A40303000003EA000194165",
+          "quantity": 10.0,
+          "packagedDate": "2026-08-03",
+          "expirationDate": "2027-07-09"
         }
       ]
     },
@@ -35387,7 +35617,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 30.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -35422,7 +35652,7 @@
         {
           "id": 8952841,
           "label": "1A403030000012D000265619",
-          "quantity": 30.0,
+          "quantity": 28.0,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -36624,7 +36854,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "Peach Runtz",
       "strainType": null,
@@ -36659,7 +36889,7 @@
         {
           "id": 8947324,
           "label": "1A40303000000CB000051192",
-          "quantity": 24.5,
+          "quantity": 21.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-16"
         }
@@ -36675,7 +36905,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 136.5,
+      "quantity": 133.0,
       "unit": "Grams",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -36709,7 +36939,7 @@
         {
           "id": 8974365,
           "label": "1A40303000000CB000051667",
-          "quantity": 136.5,
+          "quantity": 133.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-28"
         }
@@ -39167,7 +39397,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 10.0,
       "unit": "Grams",
       "strainName": "Pank Lemonade",
       "strainType": null,
@@ -39200,7 +39430,7 @@
         {
           "id": 8943241,
           "label": "1A40303000040D9000005969",
-          "quantity": 15.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-01",
           "expirationDate": null
         }
@@ -39216,7 +39446,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 135.0,
+      "quantity": 125.0,
       "unit": "Grams",
       "strainName": "Rainbow Walker",
       "strainType": null,
@@ -39249,7 +39479,7 @@
         {
           "id": 8942955,
           "label": "1A40303000040D9000005970",
-          "quantity": 135.0,
+          "quantity": 125.0,
           "packagedDate": "2026-09-01",
           "expirationDate": null
         }
@@ -50507,7 +50737,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Juicy Melonz Melted AIO Helly Meltz",
       "strainType": null,
@@ -50539,7 +50769,7 @@
         {
           "id": 8966482,
           "label": "1A403030000012E000192631",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-07-31"
         }
@@ -53363,7 +53593,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Green Crack",
       "strainType": null,
@@ -53397,7 +53627,7 @@
         {
           "id": 8945349,
           "label": "1A403030000283D000060837",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -55379,6 +55609,57 @@
       ]
     },
     {
+      "id": 8809509,
+      "packageCount": 1,
+      "name": "Pineapple Delight Cartridge (Live Resin) - Rythm (Sativa Dominant) - Vape Cart - 1000mg",
+      "brand": "Rythm",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Pineapple Delight",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 74.68,
+        "CBC": 0.86,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.57,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.2,
+        "humulene": 0.65,
+        "myrcene": 1.58,
+        "alpha-pinene": 0.34,
+        "caryophyllene": 1.93,
+        "beta-pinene": 0.07,
+        "ocimene": 1.23,
+        "limonene": 0.82,
+        "linalool": 0.35,
+        "terpinolene": 3.8
+      },
+      "totalTerps": 11.66,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8809509,
+          "label": "1A40303000003EA000194168",
+          "quantity": 20.0,
+          "packagedDate": "2026-08-03",
+          "expirationDate": "2027-07-10"
+        }
+      ]
+    },
+    {
       "id": 8270338,
       "packageCount": 1,
       "name": "Pineapple Express (NCD) - &Shine (Sativa) - Vape Pen - 1000mg",
@@ -56433,7 +56714,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Raspberry Daydream DV",
       "strainType": null,
@@ -56469,7 +56750,7 @@
         {
           "id": 8974645,
           "label": "1A40303000001F5000428941",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-06-03"
         }
@@ -57535,7 +57816,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Watermelon Z",
       "strainType": "Indica",
@@ -57569,7 +57850,7 @@
         {
           "id": 8944071,
           "label": "1A40303000003EA000264681",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         }
