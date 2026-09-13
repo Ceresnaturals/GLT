@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T14:50:26.884303+00:00",
+  "generated_at": "2026-09-13T15:00:26.393851+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -19059,7 +19059,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19107,7 +19107,7 @@
         {
           "id": 8386145,
           "label": "1A4030300002009000099172",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-04-28",
           "expirationDate": "2027-03-04"
         }
@@ -19187,7 +19187,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19235,7 +19235,7 @@
         {
           "id": 8288951,
           "label": "1A4030300002009000096909",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-04-06",
           "expirationDate": "2026-12-30"
         }
@@ -20850,15 +20850,16 @@
     },
     {
       "id": 8854448,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Incredibles Bites 100mg - Snoozzzeberry (5:1 THC:CBN) - Edible Product - 10mg - 10",
       "brand": "Incredibles",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
+        "Sales Floor",
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20902,6 +20903,13 @@
           "quantity": 25.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-05-19"
+        },
+        {
+          "id": 8247964,
+          "label": "1A40303000003EA000160568",
+          "quantity": 1.0,
+          "packagedDate": "2026-03-26",
+          "expirationDate": "2027-03-09"
         }
       ]
     },
@@ -36796,7 +36804,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 122.5,
       "unit": "Grams",
@@ -53933,7 +53941,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Melon Sherbert",
       "strainType": null,
@@ -53965,7 +53973,7 @@
         {
           "id": 8966487,
           "label": "1A403030000012E000192144",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-07-25"
         }
@@ -58727,7 +58735,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Strawberry Haze",
       "strainType": null,
@@ -58757,7 +58765,7 @@
         {
           "id": 8966582,
           "label": "1A403030000012E000190891",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-07-31"
         }
