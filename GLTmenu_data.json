@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T15:40:25.148825+00:00",
+  "generated_at": "2026-09-13T15:50:24.559079+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -14404,7 +14404,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14443,7 +14443,7 @@
         {
           "id": 8894078,
           "label": "1A403030000012D000261763",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -15637,23 +15637,22 @@
       ]
     },
     {
-      "id": 8814887,
-      "packageCount": 2,
+      "id": 8631018,
+      "packageCount": 1,
       "name": "Discos - Radzberry (v2) - Edible product - 10mg - 10",
       "brand": null,
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 31.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.17,
+        "totalTHC": 0.16,
         "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
@@ -15685,13 +15684,6 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
-        {
-          "id": 8814887,
-          "label": "1A4030300000C83000080556",
-          "quantity": 25.0,
-          "packagedDate": "2026-08-04",
-          "expirationDate": "2027-06-09"
-        },
         {
           "id": 8631018,
           "label": "1A4030300000C83000064232",
@@ -15755,63 +15747,6 @@
           "quantity": 23.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-14"
-        }
-      ]
-    },
-    {
-      "id": 8814670,
-      "packageCount": 1,
-      "name": "Discos - Sour Blueberry - Edible product - 10mg - 10",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 16.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.18,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 each, 10 servings per package",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8814670,
-          "label": "1A4030300000C83000080557",
-          "quantity": 16.0,
-          "packagedDate": "2026-08-04",
-          "expirationDate": "2027-05-14"
         }
       ]
     },
@@ -16503,63 +16438,6 @@
           "quantity": 4.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-07-20"
-        }
-      ]
-    },
-    {
-      "id": 8814673,
-      "packageCount": 1,
-      "name": "Discos - Wild Cherriezzz 5:4:1 (CBD:THC:CBN) - Exempt - 40mg - 10",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 14.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.7,
-        "totalCBD": 0.89,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.18,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 each, 10 servings per package",
-        "totalThcMg": 400.0,
-        "thcMgPerServing": 40.0,
-        "minorsMgPerServing": {
-          "totalCBD": 53.4,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 10.8,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8814673,
-          "label": "1A4030300000C83000080558",
-          "quantity": 14.0,
-          "packagedDate": "2026-08-04",
-          "expirationDate": "2027-07-01"
         }
       ]
     },
@@ -20735,63 +20613,6 @@
       ]
     },
     {
-      "id": 8809458,
-      "packageCount": 1,
-      "name": "Incredibles Bites 100mg - Monkey Bar - Edible Product - 10mg - 10",
-      "brand": "Incredibles",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 19.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.11,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8809458,
-          "label": "1A40303000003EA000194161",
-          "quantity": 19.0,
-          "packagedDate": "2026-08-03",
-          "expirationDate": "2027-03-10"
-        }
-      ]
-    },
-    {
       "id": 8639430,
       "packageCount": 1,
       "name": "Incredibles Bites 100mg - Peanut Budda Buddha - Edible Product - 10mg - 10",
@@ -20923,7 +20744,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20964,7 +20785,7 @@
         {
           "id": 8854449,
           "label": "1A40303000003EA000202538",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-06-10"
         }
@@ -21841,7 +21662,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -21882,7 +21703,7 @@
         {
           "id": 8919089,
           "label": "1A40303000001F5000423336",
-          "quantity": 7.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-17"
         }
@@ -35062,57 +34883,6 @@
       ]
     },
     {
-      "id": 8809460,
-      "packageCount": 1,
-      "name": "Jack's Delight 5 Pack (Infused) Dogwalkers (Play ) - Concentrate - 2.25g",
-      "brand": "Dogwalkers",
-      "category": "Pre-Roll",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 10.0,
-      "unit": "Each",
-      "strainName": "Jack's Delight",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 38.28,
-        "totalCBD": 0.05,
-        "CBC": 0.0,
-        "CBDA": 0.05,
-        "CBDV": 0.0,
-        "CBG": 0.11,
-        "CBGA": 1.27,
-        "CBN": 0.0,
-        "THCA": 49.29,
-        "THCV": 0.2
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.2,
-        "myrcene": 0.24,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.64,
-        "beta-pinene": 0.07,
-        "ocimene": 0.21,
-        "limonene": 0.07,
-        "linalool": 0.06,
-        "terpinolene": 1.01
-      },
-      "totalTerps": 1.89,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8809460,
-          "label": "1A40303000003EA000194165",
-          "quantity": 10.0,
-          "packagedDate": "2026-08-03",
-          "expirationDate": "2027-07-09"
-        }
-      ]
-    },
-    {
       "id": 8698042,
       "packageCount": 1,
       "name": "Josh D OG Kush 5 Pack - Dogwalkers (Sit) - Usable - 1.75g",
@@ -38395,7 +38165,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 48.0,
+      "quantity": 45.0,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -38428,7 +38198,7 @@
         {
           "id": 8974567,
           "label": "1A40303000001F5000428934",
-          "quantity": 48.0,
+          "quantity": 45.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -55605,57 +55375,6 @@
           "quantity": 12.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-07"
-        }
-      ]
-    },
-    {
-      "id": 8809509,
-      "packageCount": 1,
-      "name": "Pineapple Delight Cartridge (Live Resin) - Rythm (Sativa Dominant) - Vape Cart - 1000mg",
-      "brand": "Rythm",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 20.0,
-      "unit": "Each",
-      "strainName": "Pineapple Delight",
-      "strainType": "Sativa",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 74.68,
-        "CBC": 0.86,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 4.57,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.2,
-        "humulene": 0.65,
-        "myrcene": 1.58,
-        "alpha-pinene": 0.34,
-        "caryophyllene": 1.93,
-        "beta-pinene": 0.07,
-        "ocimene": 1.23,
-        "limonene": 0.82,
-        "linalool": 0.35,
-        "terpinolene": 3.8
-      },
-      "totalTerps": 11.66,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8809509,
-          "label": "1A40303000003EA000194168",
-          "quantity": 20.0,
-          "packagedDate": "2026-08-03",
-          "expirationDate": "2027-07-10"
         }
       ]
     },
