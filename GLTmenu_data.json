@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T15:10:33.200855+00:00",
+  "generated_at": "2026-09-14T15:20:34.162817+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -13153,7 +13153,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13194,7 +13194,7 @@
         {
           "id": 7969737,
           "label": "1A4030300000579000034294",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-01-19",
           "expirationDate": null
         }
@@ -25631,7 +25631,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Animal Face",
       "strainType": "Indica",
@@ -25667,7 +25667,7 @@
         {
           "id": 8944209,
           "label": "1A40303000003EA000264674",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         }
@@ -28726,55 +28726,6 @@
       ]
     },
     {
-      "id": 8182843,
-      "packageCount": 1,
-      "name": "MDBRPT-PR-05-6PK",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 18.0,
-      "unit": "Grams",
-      "strainName": "Berry Payton",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 17.43,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.45,
-        "CBN": 0.0,
-        "THCA": 19.88,
-        "THCV": 0.25
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.05,
-        "myrcene": 0.12,
-        "alpha-pinene": 0.02,
-        "caryophyllene": 0.2,
-        "beta-pinene": 0.03,
-        "limonene": 0.27,
-        "linalool": 0.1
-      },
-      "totalTerps": 0.87,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8182843,
-          "label": "1A40303000007D1000060518",
-          "quantity": 18.0,
-          "packagedDate": "2026-03-11",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8368831,
       "packageCount": 1,
       "name": "MDCHCM-PR-05-2PK",
@@ -29320,7 +29271,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 105.0,
+      "quantity": 101.5,
       "unit": "Grams",
       "strainName": "Ice Wookie",
       "strainType": null,
@@ -29354,7 +29305,7 @@
         {
           "id": 8888586,
           "label": "1A403030000477D000002582",
-          "quantity": 105.0,
+          "quantity": 101.5,
           "packagedDate": "2026-08-10",
           "expirationDate": "2027-07-16"
         }
@@ -31175,6 +31126,45 @@
           "quantity": 98.0,
           "packagedDate": "2026-03-10",
           "expirationDate": "2027-02-18"
+        }
+      ]
+    },
+    {
+      "id": 8321428,
+      "packageCount": 1,
+      "name": "Topanga OG-3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 73.5,
+      "unit": "Grams",
+      "strainName": "Topanga OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {},
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.23,
+        "myrcene": 0.3,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.5,
+        "beta-pinene": 0.07,
+        "ocimene": 0.09,
+        "limonene": 0.47,
+        "linalool": 0.25
+      },
+      "totalTerps": 2.05,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8321428,
+          "label": "1A40303000046B5000000332",
+          "quantity": 73.5,
+          "packagedDate": "2026-04-13",
+          "expirationDate": null
         }
       ]
     },
@@ -33730,7 +33720,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 39.0,
+      "quantity": 38.0,
       "unit": "Grams",
       "strainName": "Deadband x GC5 #12",
       "strainType": null,
@@ -33764,7 +33754,7 @@
         {
           "id": 8974465,
           "label": "1A40303000000CB000051663",
-          "quantity": 39.0,
+          "quantity": 38.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-28"
         }
@@ -34629,7 +34619,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 27.0,
+      "quantity": 25.0,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -34662,7 +34652,7 @@
         {
           "id": 8974569,
           "label": "1A40303000001F5000428936",
-          "quantity": 27.0,
+          "quantity": 25.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -36955,9 +36945,9 @@
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 126.0,
+      "quantity": 119.0,
       "unit": "Grams",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -36991,7 +36981,7 @@
         {
           "id": 8974365,
           "label": "1A40303000000CB000051667",
-          "quantity": 126.0,
+          "quantity": 119.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-28"
         }
@@ -44082,7 +44072,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Forbidden Fruit",
       "strainType": "Indica",
@@ -44114,7 +44104,7 @@
         {
           "id": 8781211,
           "label": "1A4030300000579000044425",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-06-23",
           "expirationDate": null
         }
@@ -44181,7 +44171,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Blue Cheese",
       "strainType": null,
@@ -44217,7 +44207,7 @@
         {
           "id": 8091389,
           "label": "1A403030000070A000031927",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-02-17",
           "expirationDate": null
         }
