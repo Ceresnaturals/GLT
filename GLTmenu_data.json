@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T17:40:26.687190+00:00",
+  "generated_at": "2026-09-14T17:50:27.658070+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -22965,6 +22965,61 @@
       ]
     },
     {
+      "id": 8959240,
+      "packageCount": 1,
+      "name": "Sour Watermelon-Edible Product-10mg THC-10 Pack",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 11.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.233,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.009,
+        "CBGA": 0.0,
+        "CBN": 0.016,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Gummy",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.008,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.036,
+          "CBGA": 0.0,
+          "CBN": 0.064,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8959240,
+          "label": "1A40303000007D1000102088",
+          "quantity": 11.0,
+          "packagedDate": "2026-09-04",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8631524,
       "packageCount": 1,
       "name": "Suckers | Edibles | Hard Lozenges | Cloudberry - Edible Product - 10mg - 10 pk",
@@ -27048,7 +27103,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 70.0,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "White Wedding",
       "strainType": null,
@@ -27081,7 +27136,7 @@
         {
           "id": 8881945,
           "label": "1A4030300004845000039299",
-          "quantity": 70.0,
+          "quantity": 56.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -34613,7 +34668,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 23.0,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -34646,7 +34701,7 @@
         {
           "id": 8974569,
           "label": "1A40303000001F5000428936",
-          "quantity": 25.0,
+          "quantity": 23.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -44753,7 +44808,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Cherry Maui Wowie",
       "strainType": "Sativa",
@@ -44787,7 +44842,7 @@
         {
           "id": 7890139,
           "label": "1A40303000003EA000137329",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2025-12-29",
           "expirationDate": "2026-11-24"
         }
@@ -57108,7 +57163,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Orange Crush",
       "strainType": null,
@@ -57139,7 +57194,7 @@
         {
           "id": 8940646,
           "label": "1A4030300000C83000086773",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-06-22"
         }
