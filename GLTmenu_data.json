@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T18:40:26.412197+00:00",
+  "generated_at": "2026-09-14T18:50:30.402834+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -5997,7 +5997,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Mfused FIRE Fattys",
       "strainType": null,
@@ -6032,7 +6032,7 @@
         {
           "id": 8828895,
           "label": "1A403030000012D000259359",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -6048,7 +6048,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Mfused TWISTED Fattys",
       "strainType": null,
@@ -6082,7 +6082,7 @@
         {
           "id": 8894082,
           "label": "1A403030000012D000261767",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -25581,7 +25581,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 308.0,
+      "quantity": 280.0,
       "unit": "Grams",
       "strainName": "Afternoon Delight #4",
       "strainType": "Hybrid",
@@ -25615,7 +25615,7 @@
         {
           "id": 8970733,
           "label": "1A40303000003EA000263658",
-          "quantity": 308.0,
+          "quantity": 280.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-10"
         }
@@ -28726,6 +28726,55 @@
       ]
     },
     {
+      "id": 8182843,
+      "packageCount": 1,
+      "name": "MDBRPT-PR-05-6PK",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 18.0,
+      "unit": "Grams",
+      "strainName": "Berry Payton",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 17.43,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.45,
+        "CBN": 0.0,
+        "THCA": 19.88,
+        "THCV": 0.25
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.05,
+        "myrcene": 0.12,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.2,
+        "beta-pinene": 0.03,
+        "limonene": 0.27,
+        "linalool": 0.1
+      },
+      "totalTerps": 0.87,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8182843,
+          "label": "1A40303000007D1000060518",
+          "quantity": 18.0,
+          "packagedDate": "2026-03-11",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8368831,
       "packageCount": 1,
       "name": "MDCHCM-PR-05-2PK",
@@ -29864,6 +29913,44 @@
       ]
     },
     {
+      "id": 8321426,
+      "packageCount": 1,
+      "name": "Ocean Fruit- 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 84.0,
+      "unit": "Grams",
+      "strainName": "Ocean Fruit",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {},
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.06,
+        "myrcene": 0.19,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.23,
+        "eudesmol": 0.11,
+        "beta-pinene": 0.05,
+        "limonene": 0.27
+      },
+      "totalTerps": 1.1,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8321426,
+          "label": "1A40303000046B5000000331",
+          "quantity": 84.0,
+          "packagedDate": "2026-04-13",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8974470,
       "packageCount": 1,
       "name": "Orange Drizzle Pre-Pack 3.5g",
@@ -30855,7 +30942,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 84.0,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -30889,7 +30976,7 @@
         {
           "id": 8974471,
           "label": "1A40303000000CB000051675",
-          "quantity": 84.0,
+          "quantity": 56.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-14"
         }
@@ -33682,7 +33769,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 34.0,
+      "quantity": 33.0,
       "unit": "Grams",
       "strainName": "Deadband x GC5 #12",
       "strainType": null,
@@ -33716,7 +33803,7 @@
         {
           "id": 8974465,
           "label": "1A40303000000CB000051663",
-          "quantity": 34.0,
+          "quantity": 33.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-28"
         }
@@ -34335,7 +34422,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 40.0,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -34367,7 +34454,7 @@
         {
           "id": 8974364,
           "label": "1A40303000000CB000051664",
-          "quantity": 42.0,
+          "quantity": 40.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-21"
         }
@@ -38793,7 +38880,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.0,
+      "quantity": 44.0,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -38827,7 +38914,7 @@
         {
           "id": 8974468,
           "label": "1A40303000000CB000051669",
-          "quantity": 45.0,
+          "quantity": 44.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-01"
         }
@@ -39199,7 +39286,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 196.0,
+      "quantity": 182.0,
       "unit": "Grams",
       "strainName": "Disco Diesel",
       "strainType": null,
@@ -39232,7 +39319,7 @@
         {
           "id": 8928782,
           "label": "1A40303000000C9000168541",
-          "quantity": 196.0,
+          "quantity": 182.0,
           "packagedDate": "2026-08-28",
           "expirationDate": null
         }
@@ -52380,7 +52467,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Grapefruit Maui",
       "strainType": null,
@@ -52414,7 +52501,7 @@
         {
           "id": 8077934,
           "label": "1A4030300003D55000004743",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-02-13",
           "expirationDate": "2026-10-19"
         }
@@ -56617,7 +56704,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Raspberry Daydream DV",
       "strainType": null,
@@ -56653,7 +56740,7 @@
         {
           "id": 8974645,
           "label": "1A40303000001F5000428941",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-06-03"
         }
@@ -56927,7 +57014,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Birthday Cake",
       "strainType": null,
@@ -56959,7 +57046,7 @@
         {
           "id": 8940639,
           "label": "1A4030300000C83000086770",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-13"
         }
@@ -57122,7 +57209,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Strawberry Cough",
       "strainType": null,
@@ -57157,7 +57244,7 @@
         {
           "id": 8940836,
           "label": "1A4030300000C83000086774",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-28"
         }
@@ -58290,7 +58377,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Stocking Stuffer FSE",
       "strainType": null,
@@ -58326,7 +58413,7 @@
         {
           "id": 7653650,
           "label": "1A40303000037DD000018249",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2025-10-27",
           "expirationDate": "2026-09-20"
         }
