@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T19:00:30.559420+00:00",
+  "generated_at": "2026-09-14T19:10:26.720302+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4312,7 +4312,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Grams",
       "strainName": "Zelato",
       "strainType": null,
@@ -4339,7 +4339,7 @@
         {
           "id": 8689162,
           "label": "1A4030300003201000001350",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-07-07",
           "expirationDate": null
         }
@@ -4355,7 +4355,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Grams",
       "strainName": "Goji Overdrive",
       "strainType": null,
@@ -4385,7 +4385,7 @@
         {
           "id": 8688991,
           "label": "1A4030300003201000001362",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-02-24"
         }
@@ -8219,7 +8219,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 9.0,
       "unit": "Each",
@@ -17831,7 +17831,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17870,7 +17870,7 @@
         {
           "id": 8870788,
           "label": "1A40303000017D5000103606",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-06-30",
           "expirationDate": "2027-06-30"
         }
@@ -19303,7 +19303,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -19342,7 +19342,7 @@
         {
           "id": 8914797,
           "label": "1A4030300002009000112798",
-          "quantity": 13.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-05-07"
         }
@@ -20865,7 +20865,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20906,7 +20906,7 @@
         {
           "id": 8854449,
           "label": "1A40303000003EA000202538",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-06-10"
         }
@@ -25783,7 +25783,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.5,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "BTY OG",
       "strainType": null,
@@ -25816,7 +25816,7 @@
         {
           "id": 8923148,
           "label": "1A403030000012E000187017",
-          "quantity": 10.5,
+          "quantity": 7.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-07-22"
         }
@@ -35307,7 +35307,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Rain Drops",
       "strainType": null,
@@ -35340,7 +35340,7 @@
         {
           "id": 8752069,
           "label": "1A4030300002009000109425",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-03-04"
         }
@@ -39237,7 +39237,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 429.89,
+      "quantity": 426.39,
       "unit": "Grams",
       "strainName": "Sour Jack",
       "strainType": null,
@@ -39270,7 +39270,7 @@
         {
           "id": 8752053,
           "label": "1A4030300002009000109420",
-          "quantity": 429.89,
+          "quantity": 426.39,
           "packagedDate": "2026-07-21",
           "expirationDate": null
         }
@@ -39633,7 +39633,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 426.6,
+      "quantity": 419.6,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -39666,7 +39666,7 @@
         {
           "id": 8858500,
           "label": "1A40303000001F5000416989",
-          "quantity": 426.6,
+          "quantity": 419.6,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -58759,6 +58759,52 @@
       ]
     },
     {
+      "id": 8583736,
+      "packageCount": 1,
+      "name": "Super Boof Rip Sticks Strane - Vape Cart - 1 g",
+      "brand": "Strane",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 9.0,
+      "unit": "Each",
+      "strainName": "Super Boof Rip Sticks",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.19,
+        "CBC": 0.69,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.74,
+        "CBGA": 0.0,
+        "CBN": 0.39,
+        "THCA": 0.0,
+        "THCV": 1.37
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.08,
+        "myrcene": 0.99,
+        "caryophyllene": 1.93,
+        "limonene": 1.68,
+        "linalool": 0.45
+      },
+      "totalTerps": 5.43,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8583736,
+          "label": "1A403030000012E000166353",
+          "quantity": 9.0,
+          "packagedDate": "2026-06-11",
+          "expirationDate": "2027-05-02"
+        }
+      ]
+    },
+    {
       "id": 8858442,
       "packageCount": 1,
       "name": "Super Lemon Haze - Spirits Distillate Cart - 1g",
@@ -59509,7 +59555,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Tropicana Cookies",
       "strainType": null,
@@ -59545,7 +59591,7 @@
         {
           "id": 7786375,
           "label": "1A403030000070A000029891",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2025-12-01",
           "expirationDate": null
         }
