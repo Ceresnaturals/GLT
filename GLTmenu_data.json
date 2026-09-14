@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T18:50:30.402834+00:00",
+  "generated_at": "2026-09-14T19:00:30.559420+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1954,7 +1954,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -3089,7 +3089,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 16.0,
       "unit": "Each",
@@ -10557,9 +10557,9 @@
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10600,7 +10600,7 @@
         {
           "id": 8973208,
           "label": "1A40303000001F5000428806",
-          "quantity": 24.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-15"
         }
@@ -10616,7 +10616,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10657,7 +10657,7 @@
         {
           "id": 8920318,
           "label": "1A40303000001F5000423550",
-          "quantity": 19.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-13"
         }
@@ -17996,7 +17996,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18035,7 +18035,7 @@
         {
           "id": 8902326,
           "label": "1A40303000017D5000104295",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-07-02"
         }
@@ -29960,7 +29960,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 175.0,
+      "quantity": 168.0,
       "unit": "Grams",
       "strainName": "Mimosa Cake",
       "strainType": null,
@@ -29994,7 +29994,7 @@
         {
           "id": 8974470,
           "label": "1A40303000000CB000051673",
-          "quantity": 175.0,
+          "quantity": 168.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-30"
         }
@@ -30157,7 +30157,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 224.0,
+      "quantity": 196.0,
       "unit": "Grams",
       "strainName": "Rainbow Push Pop #4",
       "strainType": null,
@@ -30190,7 +30190,7 @@
         {
           "id": 8947054,
           "label": "1A40303000000CB000051187",
-          "quantity": 224.0,
+          "quantity": 196.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-30"
         }
@@ -31090,7 +31090,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 101.5,
+      "quantity": 94.5,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -31123,7 +31123,7 @@
         {
           "id": 8947055,
           "label": "1A40303000000CB000051188",
-          "quantity": 101.5,
+          "quantity": 94.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         }
@@ -34668,7 +34668,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -34701,7 +34701,7 @@
         {
           "id": 8974569,
           "label": "1A40303000001F5000428936",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -58755,52 +58755,6 @@
           "quantity": 15.0,
           "packagedDate": "2026-01-13",
           "expirationDate": "2026-11-18"
-        }
-      ]
-    },
-    {
-      "id": 8583736,
-      "packageCount": 1,
-      "name": "Super Boof Rip Sticks Strane - Vape Cart - 1 g",
-      "brand": "Strane",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 9.0,
-      "unit": "Each",
-      "strainName": "Super Boof Rip Sticks",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 86.19,
-        "CBC": 0.69,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.74,
-        "CBGA": 0.0,
-        "CBN": 0.39,
-        "THCA": 0.0,
-        "THCV": 1.37
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.08,
-        "myrcene": 0.99,
-        "caryophyllene": 1.93,
-        "limonene": 1.68,
-        "linalool": 0.45
-      },
-      "totalTerps": 5.43,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8583736,
-          "label": "1A403030000012E000166353",
-          "quantity": 9.0,
-          "packagedDate": "2026-06-11",
-          "expirationDate": "2027-05-02"
         }
       ]
     },
