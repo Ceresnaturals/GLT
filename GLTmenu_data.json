@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T01:50:29.737879+00:00",
+  "generated_at": "2026-09-14T13:00:33.555390+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -39236,6 +39236,55 @@
       ]
     },
     {
+      "id": 8752053,
+      "packageCount": 1,
+      "name": "1937|Trim|Sour Jack|Usable|Bulk|454g",
+      "brand": "1937",
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 450.89,
+      "unit": "Grams",
+      "strainName": "Sour Jack",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 21.66,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.62,
+        "CBN": 0.0,
+        "THCA": 24.4,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.24,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.92,
+        "beta-pinene": 0.05,
+        "limonene": 0.34,
+        "linalool": 0.24
+      },
+      "totalTerps": 2.09,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8752053,
+          "label": "1A4030300002009000109420",
+          "quantity": 450.89,
+          "packagedDate": "2026-07-21",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8928782,
       "packageCount": 1,
       "name": "Disco Diesel Shake/Trim 14g",
@@ -39577,6 +39626,55 @@
           "id": 8858186,
           "label": "1A40303000001F5000416988",
           "quantity": 3.18,
+          "packagedDate": "2026-08-13",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8858500,
+      "packageCount": 1,
+      "name": "Shake/Trim - Sour Diesel",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 451.1,
+      "unit": "Grams",
+      "strainName": "Sour Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.29,
+        "totalCBD": 0.16,
+        "CBDA": 0.02,
+        "CBG": 0.68,
+        "CBN": 0.03,
+        "THCA": 28.2
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.04,
+        "humulene": 0.32,
+        "myrcene": 0.62,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 1.02,
+        "eudesmol": 0.01,
+        "beta-pinene": 0.05,
+        "limonene": 0.33,
+        "linalool": 0.03,
+        "terpinolene": 0.01,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.5,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8858500,
+          "label": "1A40303000001F5000416989",
+          "quantity": 451.1,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
