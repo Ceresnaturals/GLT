@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T21:00:31.226479+00:00",
+  "generated_at": "2026-09-14T21:10:27.903853+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8118,7 +8118,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Rainbow Belts Strain Specific",
       "strainType": null,
@@ -8154,7 +8154,7 @@
         {
           "id": 8947230,
           "label": "1A40303000001F5000425617",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-05-18"
         }
@@ -23698,6 +23698,63 @@
       ]
     },
     {
+      "id": 8974573,
+      "packageCount": 1,
+      "name": "Sunnies - Sunset Grape Gummies - 5mg THC/25mg CBN/25mg CBD - Edible Product - 5mg - 20Pcs",
+      "brand": "Sunnies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.12,
+        "totalCBD": 0.59,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.61,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 5.0,
+        "minorsMgPerServing": {
+          "totalCBD": 23.6,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 24.4,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8974573,
+          "label": "1A40303000001F5000428945",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-08-05"
+        }
+      ]
+    },
+    {
       "id": 8604953,
       "packageCount": 1,
       "name": "Valhalla | Edibles | Soft Lozenges | Fast Acting Passionfruit Plum - Edible Product - 10mg -10pk",
@@ -27526,6 +27583,54 @@
       ]
     },
     {
+      "id": 8938795,
+      "packageCount": 1,
+      "name": "In House Animal Mint Cookies Ground Flower-Usable-14g",
+      "brand": "In House",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 140.0,
+      "unit": "Grams",
+      "strainName": "Animal Mint Cookies",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.57,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.92,
+        "CBN": 0.0,
+        "THCA": 24.96,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.05,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 0.4,
+        "beta-pinene": 0.1,
+        "limonene": 0.61,
+        "linalool": 0.25
+      },
+      "totalTerps": 1.85,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8938795,
+          "label": "1A4030300003521000056669",
+          "quantity": 140.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-08-14"
+        }
+      ]
+    },
+    {
       "id": 8083908,
       "packageCount": 1,
       "name": "In House Bapple Fritz Flower-Usable-1 Pound",
@@ -30979,7 +31084,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 94.5,
+      "quantity": 91.0,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -31012,7 +31117,7 @@
         {
           "id": 8947055,
           "label": "1A40303000000CB000051188",
-          "quantity": 94.5,
+          "quantity": 91.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         }
@@ -39078,7 +39183,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 394.89,
+      "quantity": 359.89,
       "unit": "Grams",
       "strainName": "Sour Jack",
       "strainType": null,
@@ -39111,7 +39216,7 @@
         {
           "id": 8752053,
           "label": "1A4030300002009000109420",
-          "quantity": 394.89,
+          "quantity": 359.89,
           "packagedDate": "2026-07-21",
           "expirationDate": null
         }
