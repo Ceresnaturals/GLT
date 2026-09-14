@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T15:20:34.162817+00:00",
+  "generated_at": "2026-09-14T15:30:31.337029+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8520,7 +8520,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": "Mai Tai",
       "strainType": "Sativa",
@@ -8556,7 +8556,7 @@
         {
           "id": 8970468,
           "label": "1A40303000003EA000263660",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-14"
         }
@@ -16401,7 +16401,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16442,7 +16442,7 @@
         {
           "id": 8851621,
           "label": "1A4030300000C83000080822",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-07-20"
         }
@@ -16847,7 +16847,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16886,7 +16886,7 @@
         {
           "id": 8864068,
           "label": "1A403030000012D000260504",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -19480,7 +19480,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -19519,7 +19519,7 @@
         {
           "id": 8914800,
           "label": "1A4030300002009000112801",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-05-15"
         }
@@ -21557,7 +21557,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21598,7 +21598,7 @@
         {
           "id": 8854382,
           "label": "1A40303000003EA000202540",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-06-16"
         }
@@ -21614,7 +21614,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21655,7 +21655,7 @@
         {
           "id": 8778174,
           "label": "1A40303000003EA000192814",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-06-08"
         }
@@ -26212,7 +26212,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 143.5,
+      "quantity": 136.5,
       "unit": "Grams",
       "strainName": "Charm Biscuitz",
       "strainType": null,
@@ -26245,7 +26245,7 @@
         {
           "id": 8943242,
           "label": "1A40303000040D9000005971",
-          "quantity": 143.5,
+          "quantity": 136.5,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-31"
         }
@@ -28726,6 +28726,55 @@
       ]
     },
     {
+      "id": 8182843,
+      "packageCount": 1,
+      "name": "MDBRPT-PR-05-6PK",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 18.0,
+      "unit": "Grams",
+      "strainName": "Berry Payton",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 17.43,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.45,
+        "CBN": 0.0,
+        "THCA": 19.88,
+        "THCV": 0.25
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.05,
+        "myrcene": 0.12,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.2,
+        "beta-pinene": 0.03,
+        "limonene": 0.27,
+        "linalool": 0.1
+      },
+      "totalTerps": 0.87,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8182843,
+          "label": "1A40303000007D1000060518",
+          "quantity": 18.0,
+          "packagedDate": "2026-03-11",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8368831,
       "packageCount": 1,
       "name": "MDCHCM-PR-05-2PK",
@@ -29911,7 +29960,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 217.0,
+      "quantity": 192.5,
       "unit": "Grams",
       "strainName": "Mimosa Cake",
       "strainType": null,
@@ -29945,7 +29994,7 @@
         {
           "id": 8974470,
           "label": "1A40303000000CB000051673",
-          "quantity": 217.0,
+          "quantity": 192.5,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-30"
         }
@@ -30108,7 +30157,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 448.0,
+      "quantity": 364.0,
       "unit": "Grams",
       "strainName": "Rainbow Push Pop #4",
       "strainType": null,
@@ -30141,7 +30190,7 @@
         {
           "id": 8947054,
           "label": "1A40303000000CB000051187",
-          "quantity": 448.0,
+          "quantity": 364.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-30"
         }
@@ -30893,7 +30942,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 140.0,
+      "quantity": 112.0,
       "unit": "Grams",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -30927,7 +30976,7 @@
         {
           "id": 8974471,
           "label": "1A40303000000CB000051675",
-          "quantity": 140.0,
+          "quantity": 112.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-14"
         }
@@ -39633,7 +39682,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "Tear Gas -BLVK MRKT",
       "strainType": null,
@@ -39667,7 +39716,7 @@
         {
           "id": 8942954,
           "label": "1A40303000040D9000005968",
-          "quantity": 25.0,
+          "quantity": 20.0,
           "packagedDate": "2026-09-01",
           "expirationDate": null
         }
