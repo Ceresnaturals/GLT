@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T19:30:27.293914+00:00",
+  "generated_at": "2026-09-14T19:40:26.591045+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4401,7 +4401,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Cosmic Balance Blend",
       "strainType": "Hybrid",
@@ -4436,7 +4436,7 @@
         {
           "id": 8890310,
           "label": "1A4030300002199000061272",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-06-03",
           "expirationDate": null
         }
@@ -6048,7 +6048,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Mfused TWISTED Fattys",
       "strainType": null,
@@ -6082,7 +6082,7 @@
         {
           "id": 8894082,
           "label": "1A403030000012D000261767",
-          "quantity": 17.0,
+          "quantity": 15.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -9872,6 +9872,61 @@
           "label": "1A403030000012D000203969",
           "quantity": 13.0,
           "packagedDate": "2026-01-22",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8217232,
+      "packageCount": 1,
+      "name": "Dixie Elixir Single 10mg Cherry Limeade-Liquid Edible-10mg-1",
+      "brand": "Dixie",
+      "category": "Drink",
+      "metrcCategory": "Infused Liquid Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 8.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.018,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Bottle",
+        "totalThcMg": 10.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8217232,
+          "label": "1A403030000012D000220942",
+          "quantity": 8.0,
+          "packagedDate": "2026-03-19",
           "expirationDate": null
         }
       ]
@@ -17666,7 +17721,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -17705,7 +17760,7 @@
         {
           "id": 8704637,
           "label": "1A40303000017D5000099616",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-06-04",
           "expirationDate": "2027-06-04"
         }
@@ -18315,61 +18370,6 @@
           "quantity": 16.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-07-02"
-        }
-      ]
-    },
-    {
-      "id": 8139544,
-      "packageCount": 1,
-      "name": "Encore RSO Gummies (Macro Dose) - Tropical Mango - Exempt - 40mg - 10pc",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.935,
-        "CBC": 0.01,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.032,
-        "CBGA": 0.0,
-        "CBN": 0.004,
-        "THCA": 0.0,
-        "THCV": 0.009
-      },
-      "dose": {
-        "servingSize": "1 Piece",
-        "totalThcMg": 400.0,
-        "thcMgPerServing": 40.0,
-        "minorsMgPerServing": {
-          "CBC": 0.4,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 1.28,
-          "CBGA": 0.0,
-          "CBN": 0.16,
-          "THCA": 0.0,
-          "THCV": 0.36
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8139544,
-          "label": "1A40303000017D5000080528",
-          "quantity": 1.0,
-          "packagedDate": "2026-01-20",
-          "expirationDate": "2027-01-20"
         }
       ]
     },
@@ -20519,7 +20519,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20558,7 +20558,7 @@
         {
           "id": 8828687,
           "label": "1A4030300003522000195384",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-05-16"
         }
@@ -21323,7 +21323,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21364,7 +21364,7 @@
         {
           "id": 8891522,
           "label": "1A40303000003EA000205084",
-          "quantity": 18.0,
+          "quantity": 16.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-06-15"
         }
@@ -29449,6 +29449,56 @@
       ]
     },
     {
+      "id": 8208833,
+      "packageCount": 1,
+      "name": "Melonade Flower 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 150.5,
+      "unit": "Grams",
+      "strainName": "Melonade",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.52,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.39,
+        "CBN": 0.0,
+        "THCA": 28.89,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.1,
+        "myrcene": 0.23,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.35,
+        "beta-pinene": 0.08,
+        "limonene": 0.73,
+        "linalool": 0.1,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 1.97,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8208833,
+          "label": "1A40303000000C9000140846",
+          "quantity": 150.5,
+          "packagedDate": "2026-03-18",
+          "expirationDate": "2027-02-03"
+        }
+      ]
+    },
+    {
       "id": 8751006,
       "packageCount": 1,
       "name": "Member Berry | Gold | 3.5g",
@@ -33055,7 +33105,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Sunset Octane x Isolate",
       "strainType": null,
@@ -33087,7 +33137,7 @@
         {
           "id": 8886159,
           "label": "1A4030300000C83000085455",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-07-25"
         }
@@ -41743,7 +41793,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Melon Mist .0gX",
       "strainType": null,
@@ -41777,7 +41827,7 @@
         {
           "id": 8947225,
           "label": "1A40303000001F5000425610",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-06"
         }
@@ -42648,7 +42698,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Bacio Gelato",
       "strainType": null,
@@ -42682,7 +42732,7 @@
         {
           "id": 8919189,
           "label": "1A40303000001F5000423341",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-02-20"
         }
@@ -47728,7 +47778,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Gazzurple",
       "strainType": "Sativa",
@@ -47762,7 +47812,7 @@
         {
           "id": 8970471,
           "label": "1A40303000003EA000263664",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-29"
         }
@@ -59240,6 +59290,53 @@
           "quantity": 1.0,
           "packagedDate": "2026-05-06",
           "expirationDate": "2027-03-20"
+        }
+      ]
+    },
+    {
+      "id": 8211761,
+      "packageCount": 1,
+      "name": "Tropic Thunder (NCD) - &Shine (Sativa) - Vape Pen - 1000mg",
+      "brand": "&Shine",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Tropic Thunder",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.53,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.82,
+        "CBGA": 0.0,
+        "CBN": 1.2,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.15,
+        "myrcene": 0.71,
+        "alpha-pinene": 0.47,
+        "caryophyllene": 0.96,
+        "beta-pinene": 0.23,
+        "limonene": 0.24
+      },
+      "totalTerps": 2.76,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8211761,
+          "label": "1A40303000003EA000158872",
+          "quantity": 20.0,
+          "packagedDate": "2026-03-18",
+          "expirationDate": "2027-01-29"
         }
       ]
     },
