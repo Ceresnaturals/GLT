@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T20:10:26.541651+00:00",
+  "generated_at": "2026-09-14T20:20:27.692330+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7967,7 +7967,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "RO CrdBudder ThunderPunch S MD",
       "strainType": null,
@@ -8002,7 +8002,7 @@
         {
           "id": 8968847,
           "label": "1A403030000238D000107265",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-11"
         }
@@ -14607,6 +14607,61 @@
           "label": "1A403030000012D000265625",
           "quantity": 23.0,
           "packagedDate": "2026-09-03",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8863975,
+      "packageCount": 1,
+      "name": "Curio Wellness Thrive 25mg Plus Terpenes Orange Spark Chews-Exempt-25mg-10",
+      "brand": "Curio Wellness",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.557,
+        "CBC": 0.004,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.032,
+        "CBGA": 0.0,
+        "CBN": 0.024,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 250.0,
+        "thcMgPerServing": 25.0,
+        "minorsMgPerServing": {
+          "CBC": 0.16,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.28,
+          "CBGA": 0.0,
+          "CBN": 0.96,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8863975,
+          "label": "1A403030000012D000260507",
+          "quantity": 10.0,
+          "packagedDate": "2026-08-13",
           "expirationDate": null
         }
       ]
@@ -31310,7 +31365,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 84.0,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "Velcroz",
       "strainType": "Hybrid",
@@ -31345,7 +31400,7 @@
         {
           "id": 8970472,
           "label": "1A40303000003EA000263657",
-          "quantity": 84.0,
+          "quantity": 70.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-07"
         }
@@ -34304,7 +34359,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.0,
+      "quantity": 37.0,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -34336,7 +34391,7 @@
         {
           "id": 8974364,
           "label": "1A40303000000CB000051664",
-          "quantity": 38.0,
+          "quantity": 37.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-21"
         }
@@ -39119,7 +39174,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 422.89,
+      "quantity": 419.39,
       "unit": "Grams",
       "strainName": "Sour Jack",
       "strainType": null,
@@ -39152,7 +39207,7 @@
         {
           "id": 8752053,
           "label": "1A4030300002009000109420",
-          "quantity": 422.89,
+          "quantity": 419.39,
           "packagedDate": "2026-07-21",
           "expirationDate": null
         }
@@ -52140,6 +52195,56 @@
       ]
     },
     {
+      "id": 8301787,
+      "packageCount": 1,
+      "name": "Live Liquid Diamonds: Cherry Wreck -.5g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 27.0,
+      "unit": "Each",
+      "strainName": "Cherry Wreck",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 78.53,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 17.3,
+        "THCV": 1.38
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.21,
+        "myrcene": 7.02,
+        "alpha-pinene": 0.8,
+        "caryophyllene": 1.07,
+        "beta-pinene": 0.53,
+        "ocimene": 0.31,
+        "limonene": 3.16,
+        "linalool": 0.44,
+        "terpinolene": 0.2
+      },
+      "totalTerps": 14.18,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8301787,
+          "label": "1A4030300003D55000005319",
+          "quantity": 27.0,
+          "packagedDate": "2026-04-08",
+          "expirationDate": "2026-12-20"
+        }
+      ]
+    },
+    {
       "id": 8305496,
       "packageCount": 1,
       "name": "Live Liquid Diamonds: Cookies n Chem -.5g",
@@ -56484,7 +56589,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Raspberry Daydream DV",
       "strainType": null,
@@ -56520,7 +56625,7 @@
         {
           "id": 8858498,
           "label": "1A40303000001F5000416986",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-03-26"
         }
