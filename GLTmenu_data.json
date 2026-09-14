@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T23:10:25.208529+00:00",
+  "generated_at": "2026-09-14T23:20:25.551777+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -26107,7 +26107,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "LESH",
       "strainType": null,
@@ -26141,7 +26141,7 @@
         {
           "id": 8926929,
           "label": "1A40303000000CD000079031",
-          "quantity": 42.0,
+          "quantity": 28.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         }
@@ -26735,6 +26735,55 @@
           "quantity": 73.5,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-06-20"
+        }
+      ]
+    },
+    {
+      "id": 8433791,
+      "packageCount": 1,
+      "name": "Disco Diesel Flower 3.5g",
+      "brand": "Disco",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 157.5,
+      "unit": "Grams",
+      "strainName": "Disco Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.68,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.83,
+        "CBN": 0.0,
+        "THCA": 28.87,
+        "THCV": 0.16
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.18,
+        "myrcene": 0.25,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.72,
+        "beta-pinene": 0.07,
+        "limonene": 0.55,
+        "linalool": 0.26
+      },
+      "totalTerps": 2.28,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8433791,
+          "label": "1A40303000000C9000149733",
+          "quantity": 157.5,
+          "packagedDate": "2026-05-08",
+          "expirationDate": "2027-05-03"
         }
       ]
     },
@@ -33665,7 +33714,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Grams",
       "strainName": "Deadband x GC5 #12",
       "strainType": null,
@@ -33699,7 +33748,7 @@
         {
           "id": 8974465,
           "label": "1A40303000000CB000051663",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-28"
         }
@@ -34318,7 +34367,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 32.0,
+      "quantity": 31.0,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -34350,7 +34399,7 @@
         {
           "id": 8974364,
           "label": "1A40303000000CB000051664",
-          "quantity": 32.0,
+          "quantity": 31.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-21"
         }
@@ -38382,7 +38431,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 41.0,
+      "quantity": 39.0,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -38415,7 +38464,7 @@
         {
           "id": 8974567,
           "label": "1A40303000001F5000428934",
-          "quantity": 41.0,
+          "quantity": 39.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -39085,7 +39134,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 296.89,
+      "quantity": 289.89,
       "unit": "Grams",
       "strainName": "Sour Jack",
       "strainType": null,
@@ -39118,7 +39167,7 @@
         {
           "id": 8752053,
           "label": "1A4030300002009000109420",
-          "quantity": 296.89,
+          "quantity": 289.89,
           "packagedDate": "2026-07-21",
           "expirationDate": null
         }
@@ -39183,7 +39232,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 140.0,
+      "quantity": 130.0,
       "unit": "Grams",
       "strainName": "Dulce de Fresca",
       "strainType": null,
@@ -39218,7 +39267,7 @@
         {
           "id": 8968079,
           "label": "1A40303000040D9000006042",
-          "quantity": 140.0,
+          "quantity": 130.0,
           "packagedDate": "2026-09-08",
           "expirationDate": null
         }
@@ -42693,52 +42742,6 @@
           "quantity": 4.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-06-13"
-        }
-      ]
-    },
-    {
-      "id": 8671182,
-      "packageCount": 1,
-      "name": "Baja Blastoff Distillate Cartridge Hellavated - Vape Cart - 1.0 g",
-      "brand": "Hellavated",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Baja Blastoff",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 85.51,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.95,
-        "CBGA": 0.0,
-        "CBN": 0.31,
-        "THCA": 0.0,
-        "THCV": 0.62
-      },
-      "dose": null,
-      "terpenes": {
-        "myrcene": 0.33,
-        "beta-pinene": 0.57,
-        "limonene": 1.01,
-        "terpinolene": 0.09,
-        "nerolidol": 0.27
-      },
-      "totalTerps": 3.2,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8671182,
-          "label": "1A403030000012E000172686",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-01",
-          "expirationDate": "2027-05-02"
         }
       ]
     },
