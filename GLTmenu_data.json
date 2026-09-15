@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T23:30:26.353759+00:00",
+  "generated_at": "2026-09-15T23:40:25.936177+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8827,7 +8827,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Mai Tai",
       "strainType": "Sativa",
@@ -8863,7 +8863,7 @@
         {
           "id": 8970468,
           "label": "1A40303000003EA000263660",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-14"
         }
@@ -37006,6 +37006,55 @@
       ]
     },
     {
+      "id": 8707381,
+      "packageCount": 1,
+      "name": "Curio Wellness Pineapple OG Pre-rolls-usable-2x0.5g",
+      "brand": "Curio Wellness",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Grams",
+      "strainName": "Pineapple OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.72,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.07,
+        "CBN": 0.0,
+        "THCA": 35.03,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.09,
+        "myrcene": 0.5,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.3,
+        "beta-pinene": 0.1,
+        "limonene": 0.85,
+        "linalool": 0.31,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.43,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8707381,
+          "label": "1A403030000012D000254645",
+          "quantity": 24.0,
+          "packagedDate": "2026-07-09",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8926323,
       "packageCount": 1,
       "name": "Curio Wellness Thrive Infused Pre-rolls-Concentrate-2x0.5g",
@@ -40611,7 +40660,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 49.0,
+      "quantity": 45.5,
       "unit": "Grams",
       "strainName": "Lemon Cherry Gelato",
       "strainType": null,
@@ -40645,7 +40694,7 @@
         {
           "id": 8974466,
           "label": "1A40303000000CB000051665",
-          "quantity": 49.0,
+          "quantity": 45.5,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-02"
         }
@@ -40661,7 +40710,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 126.0,
+      "quantity": 122.5,
       "unit": "Grams",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -40693,7 +40742,7 @@
         {
           "id": 8974467,
           "label": "1A40303000000CB000051666",
-          "quantity": 126.0,
+          "quantity": 122.5,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-03"
         }
@@ -43308,7 +43357,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 154.0,
+      "quantity": 140.0,
       "unit": "Grams",
       "strainName": "Disco Diesel",
       "strainType": null,
@@ -43341,7 +43390,7 @@
         {
           "id": 8928782,
           "label": "1A40303000000C9000168541",
-          "quantity": 154.0,
+          "quantity": 140.0,
           "packagedDate": "2026-08-28",
           "expirationDate": null
         }
@@ -43560,7 +43609,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 145.0,
+      "quantity": 140.0,
       "unit": "Grams",
       "strainName": "Pank Lemonade",
       "strainType": null,
@@ -43593,7 +43642,7 @@
         {
           "id": 8968080,
           "label": "1A40303000040D9000006043",
-          "quantity": 145.0,
+          "quantity": 140.0,
           "packagedDate": "2026-09-08",
           "expirationDate": null
         }
@@ -43658,7 +43707,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 346.1,
+      "quantity": 342.6,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -43691,7 +43740,7 @@
         {
           "id": 8858500,
           "label": "1A40303000001F5000416989",
-          "quantity": 346.1,
+          "quantity": 342.6,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
