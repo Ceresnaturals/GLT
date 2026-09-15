@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T20:01:19.580882+00:00",
+  "generated_at": "2026-09-15T20:10:26.827365+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12835,7 +12835,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12876,7 +12876,7 @@
         {
           "id": 8939218,
           "label": "1A4030300003522000210559",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-06"
         }
@@ -14693,16 +14693,17 @@
       ]
     },
     {
-      "id": 8894078,
-      "packageCount": 2,
+      "id": 8981908,
+      "packageCount": 3,
       "name": "Curio Wellness Pink Cotton 10mg Chews-Edible Product-10mg-10",
       "brand": "Curio Wellness",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 21.0,
+      "quantity": 44.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14738,6 +14739,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8981908,
+          "label": "1A403030000012D000266237",
+          "quantity": 23.0,
+          "packagedDate": "2026-09-10",
+          "expirationDate": null
+        },
         {
           "id": 8894078,
           "label": "1A403030000012D000261763",
@@ -30219,7 +30227,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 59.5,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Black Cherry Punch",
       "strainType": null,
@@ -30254,7 +30262,7 @@
         {
           "id": 8939178,
           "label": "1A4030300003521000056671",
-          "quantity": 59.5,
+          "quantity": 56.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-14"
         }
@@ -30270,7 +30278,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 94.5,
+      "quantity": 91.0,
       "unit": "Grams",
       "strainName": "Blueberry",
       "strainType": null,
@@ -30302,7 +30310,7 @@
         {
           "id": 8938799,
           "label": "1A4030300003521000056672",
-          "quantity": 94.5,
+          "quantity": 91.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-20"
         }
@@ -30318,7 +30326,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 175.0,
+      "quantity": 168.0,
       "unit": "Grams",
       "strainName": "Blueberry",
       "strainType": null,
@@ -30350,7 +30358,7 @@
         {
           "id": 8882277,
           "label": "1A4030300003521000056050",
-          "quantity": 175.0,
+          "quantity": 168.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-04"
         }
@@ -31009,7 +31017,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 168.0,
+      "quantity": 140.0,
       "unit": "Grams",
       "strainName": "Lemon Bananas",
       "strainType": null,
@@ -31042,7 +31050,7 @@
         {
           "id": 8873615,
           "label": "1A403030000012E000183001",
-          "quantity": 168.0,
+          "quantity": 140.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-07-12"
         }
@@ -37473,7 +37481,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Grams",
       "strainName": "Deadband x GC5 #12",
       "strainType": null,
@@ -37507,7 +37515,7 @@
         {
           "id": 8974465,
           "label": "1A40303000000CB000051663",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-28"
         }
@@ -38174,7 +38182,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 58.0,
+      "quantity": 57.0,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -38208,7 +38216,7 @@
         {
           "id": 8974364,
           "label": "1A40303000000CB000051664",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-21"
         },
@@ -44059,7 +44067,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 395.1,
+      "quantity": 384.6,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -44092,7 +44100,7 @@
         {
           "id": 8858500,
           "label": "1A40303000001F5000416989",
-          "quantity": 395.1,
+          "quantity": 384.6,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -52140,7 +52148,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Frosted Passionfruit DV",
       "strainType": null,
@@ -52175,7 +52183,7 @@
         {
           "id": 8545208,
           "label": "1A40303000001F5000386256",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-06-03",
           "expirationDate": "2026-12-15"
         }
