@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T18:40:25.233304+00:00",
+  "generated_at": "2026-09-15T18:50:26.270333+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2191,7 +2191,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Happy er J Gumi x House Blends",
       "strainType": null,
@@ -2224,7 +2224,7 @@
         {
           "id": 8947316,
           "label": "1A4030300000C83000086906",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-05-27"
         }
@@ -9966,16 +9966,17 @@
       ]
     },
     {
-      "id": 8863973,
-      "packageCount": 1,
+      "id": 8981914,
+      "packageCount": 2,
       "name": "Dixie Signature Fruit Punch Elixir 200mg-Exempt-12mg-17",
       "brand": "Dixie",
       "category": "Drink",
       "metrcCategory": "Exempt Liquid Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10002,6 +10003,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8981914,
+          "label": "1A403030000012D000266244",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-10",
+          "expirationDate": null
+        },
         {
           "id": 8863973,
           "label": "1A403030000012D000260499",
@@ -27957,7 +27965,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 56.0,
+      "quantity": 52.5,
       "unit": "Grams",
       "strainName": "Gelato 33",
       "strainType": null,
@@ -27990,7 +27998,7 @@
         {
           "id": 8939181,
           "label": "1A4030300003521000056673",
-          "quantity": 56.0,
+          "quantity": 52.5,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-08"
         }
@@ -28352,7 +28360,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 70.0,
+      "quantity": 66.5,
       "unit": "Grams",
       "strainName": "Georgia Mintz",
       "strainType": null,
@@ -28386,7 +28394,7 @@
         {
           "id": 8954085,
           "label": "1A403030000025B000086985",
-          "quantity": 70.0,
+          "quantity": 66.5,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-08-19"
         }
@@ -30172,7 +30180,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 98.0,
+      "quantity": 94.5,
       "unit": "Grams",
       "strainName": "Mimosa Cake",
       "strainType": null,
@@ -30206,7 +30214,7 @@
         {
           "id": 8974470,
           "label": "1A40303000000CB000051673",
-          "quantity": 98.0,
+          "quantity": 94.5,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-30"
         }
@@ -30418,7 +30426,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 3.5,
       "unit": "Grams",
       "strainName": "Rainbow Walker",
       "strainType": null,
@@ -30451,7 +30459,7 @@
         {
           "id": 8849580,
           "label": "1A40303000040D9000005598",
-          "quantity": 7.0,
+          "quantity": 3.5,
           "packagedDate": "2026-08-11",
           "expirationDate": "2027-08-10"
         }
@@ -35032,7 +35040,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 32.0,
+      "quantity": 31.0,
       "unit": "Grams",
       "strainName": "Groovy Diesel",
       "strainType": null,
@@ -35066,7 +35074,7 @@
         {
           "id": 8746996,
           "label": "1A40303000000C9000164501",
-          "quantity": 32.0,
+          "quantity": 31.0,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-07-06"
         }
@@ -37063,7 +37071,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 59.5,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Lemon Cherry Gelato",
       "strainType": null,
@@ -37097,7 +37105,7 @@
         {
           "id": 8974466,
           "label": "1A40303000000CB000051665",
-          "quantity": 59.5,
+          "quantity": 56.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-02"
         }
@@ -37161,7 +37169,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 3.5,
       "unit": "Grams",
       "strainName": "Peach Runtz",
       "strainType": null,
@@ -37196,7 +37204,7 @@
         {
           "id": 8947324,
           "label": "1A40303000000CB000051192",
-          "quantity": 7.0,
+          "quantity": 3.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-16"
         }
@@ -37261,7 +37269,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 98.0,
+      "quantity": 94.5,
       "unit": "Grams",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -37295,7 +37303,7 @@
         {
           "id": 8974365,
           "label": "1A40303000000CB000051667",
-          "quantity": 98.0,
+          "quantity": 94.5,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-28"
         }
@@ -39454,7 +39462,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 202.39,
+      "quantity": 198.89,
       "unit": "Grams",
       "strainName": "Sour Jack",
       "strainType": null,
@@ -39487,7 +39495,7 @@
         {
           "id": 8752053,
           "label": "1A4030300002009000109420",
-          "quantity": 202.39,
+          "quantity": 198.89,
           "packagedDate": "2026-07-21",
           "expirationDate": null
         }
@@ -39552,7 +39560,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 120.0,
+      "quantity": 110.0,
       "unit": "Grams",
       "strainName": "Dulce de Fresca",
       "strainType": null,
@@ -39587,7 +39595,7 @@
         {
           "id": 8968079,
           "label": "1A40303000040D9000006042",
-          "quantity": 120.0,
+          "quantity": 110.0,
           "packagedDate": "2026-09-08",
           "expirationDate": null
         }
