@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T17:50:29.377875+00:00",
+  "generated_at": "2026-09-15T18:00:31.610512+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -13712,7 +13712,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13751,7 +13751,7 @@
         {
           "id": 8926295,
           "label": "1A403030000012D000262975",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         }
@@ -13822,7 +13822,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13861,7 +13861,7 @@
         {
           "id": 8926324,
           "label": "1A403030000012D000262979",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         }
@@ -17939,29 +17939,30 @@
       ]
     },
     {
-      "id": 8648987,
-      "packageCount": 1,
+      "id": 8959113,
+      "packageCount": 2,
       "name": "Encore Milk Chocolate - Indica RSO - Edible Product - 10mg - 10pc*",
       "brand": null,
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.184,
+        "totalTHC": 0.186,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.004,
+        "CBG": 0.008,
         "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
+        "CBN": 0.001,
+        "THCA": 0.004,
         "THCV": 0.0
       },
       "dose": {
@@ -17972,10 +17973,10 @@
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.224,
+          "CBG": 0.448,
           "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
+          "CBN": 0.056,
+          "THCA": 0.224,
           "THCV": 0.0
         },
         "minorsEstimated": true
@@ -17984,6 +17985,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8959113,
+          "label": "1A40303000017D5000105512",
+          "quantity": 12.0,
+          "packagedDate": "2026-07-23",
+          "expirationDate": "2027-07-23"
+        },
         {
           "id": 8648987,
           "label": "1A40303000017D5000097881",
@@ -27517,7 +27525,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 182.0,
+      "quantity": 175.0,
       "unit": "Grams",
       "strainName": "Blueberry",
       "strainType": null,
@@ -27549,7 +27557,7 @@
         {
           "id": 8882277,
           "label": "1A4030300003521000056050",
-          "quantity": 182.0,
+          "quantity": 175.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-04"
         }
@@ -33488,7 +33496,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Grams",
       "strainName": "Deadband x GC5 #12",
       "strainType": null,
@@ -33522,7 +33530,7 @@
         {
           "id": 8974465,
           "label": "1A40303000000CB000051663",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-28"
         }
@@ -48705,54 +48713,6 @@
       ]
     },
     {
-      "id": 8632157,
-      "packageCount": 1,
-      "name": "In House Acapulco Gold Disposable-Vape Cart-.5g",
-      "brand": "In House",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Acapulco Gold",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 84.84,
-        "CBC": 0.7,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.15,
-        "CBGA": 0.0,
-        "CBN": 0.33,
-        "THCA": 0.0,
-        "THCV": 0.48
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.51,
-        "myrcene": 0.19,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 1.55,
-        "beta-pinene": 0.05,
-        "limonene": 0.49,
-        "linalool": 0.2
-      },
-      "totalTerps": 3.11,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8632157,
-          "label": "1A4030300003522000194078",
-          "quantity": 1.0,
-          "packagedDate": "2026-06-23",
-          "expirationDate": "2027-04-21"
-        }
-      ]
-    },
-    {
       "id": 8766954,
       "packageCount": 1,
       "name": "In House Acapulco Gold Disposable-Vape Cart-2g",
@@ -49686,7 +49646,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Super Glue",
       "strainType": null,
@@ -49720,7 +49680,7 @@
         {
           "id": 8518541,
           "label": "1A4030300003522000192405",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-03-12"
         }
@@ -53856,7 +53816,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Governmint Oasis",
       "strainType": null,
@@ -53888,7 +53848,7 @@
         {
           "id": 8632151,
           "label": "1A4030300003522000194075",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-04-06"
         }
@@ -54001,7 +53961,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Lemon Margy",
       "strainType": null,
@@ -54036,7 +53996,7 @@
         {
           "id": 8632206,
           "label": "1A4030300003522000194074",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-01-18"
         }
@@ -54090,6 +54050,56 @@
           "quantity": 24.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-12"
+        }
+      ]
+    },
+    {
+      "id": 8882189,
+      "packageCount": 1,
+      "name": "NH RS #11 Live Rosin-Vape Cart-.5g",
+      "brand": "NH",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 15.0,
+      "unit": "Each",
+      "strainName": "RS",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 70.43,
+        "CBC": 1.4,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.51,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.39
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.25,
+        "humulene": 0.63,
+        "myrcene": 0.21,
+        "alpha-pinene": 0.76,
+        "caryophyllene": 2.52,
+        "beta-pinene": 0.3,
+        "limonene": 3.56,
+        "linalool": 1.34,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 10.85,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8882189,
+          "label": "1A4030300003522000202241",
+          "quantity": 15.0,
+          "packagedDate": "2026-08-18",
+          "expirationDate": "2027-08-09"
         }
       ]
     },
