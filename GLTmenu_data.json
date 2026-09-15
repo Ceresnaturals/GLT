@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T15:00:27.978557+00:00",
+  "generated_at": "2026-09-15T15:10:25.373881+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12375,7 +12375,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12416,7 +12416,7 @@
         {
           "id": 8939218,
           "label": "1A4030300003522000210559",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-06"
         }
@@ -24870,7 +24870,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -24918,7 +24918,7 @@
         {
           "id": 8601449,
           "label": "1A4030300002199000053119",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-04-07",
           "expirationDate": "2027-04-07"
         }
@@ -25162,7 +25162,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -25203,7 +25203,7 @@
         {
           "id": 8686399,
           "label": "1A4030300002199000056244",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-04-22",
           "expirationDate": "2027-04-22"
         }
@@ -27692,7 +27692,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 105.0,
+      "quantity": 98.0,
       "unit": "Grams",
       "strainName": "Blueberry",
       "strainType": null,
@@ -27724,7 +27724,7 @@
         {
           "id": 8938799,
           "label": "1A4030300003521000056672",
-          "quantity": 105.0,
+          "quantity": 98.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-20"
         }
@@ -29665,7 +29665,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 56.0,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Double Krush",
       "strainType": null,
@@ -29699,7 +29699,7 @@
         {
           "id": 8882192,
           "label": "1A4030300003521000056053",
-          "quantity": 56.0,
+          "quantity": 28.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-06"
         }
@@ -29715,7 +29715,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 112.0,
+      "quantity": 108.5,
       "unit": "Grams",
       "strainName": "Double Krush",
       "strainType": null,
@@ -29749,7 +29749,7 @@
         {
           "id": 8939185,
           "label": "1A4030300003521000056675",
-          "quantity": 112.0,
+          "quantity": 108.5,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-12"
         }
@@ -39580,7 +39580,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 409.1,
+      "quantity": 405.6,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -39613,7 +39613,7 @@
         {
           "id": 8858500,
           "label": "1A40303000001F5000416989",
-          "quantity": 409.1,
+          "quantity": 405.6,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -51759,7 +51759,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Tropicana Cookies",
       "strainType": null,
@@ -51794,7 +51794,7 @@
         {
           "id": 8954300,
           "label": "1A4030300002199000062284",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-06-23"
         }
@@ -54181,7 +54181,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Double Krush",
       "strainType": null,
@@ -54215,7 +54215,7 @@
         {
           "id": 8939368,
           "label": "1A4030300003522000210585",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-25"
         }
@@ -57445,6 +57445,54 @@
           "quantity": 9.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-12"
+        }
+      ]
+    },
+    {
+      "id": 8884036,
+      "packageCount": 1,
+      "name": "Rove | Ready-To-Use Live Resin Diamond Vaporizer | Strawberry Cough - S | 1.0g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 4.0,
+      "unit": "Each",
+      "strainName": "Ready To Use Vaporizer",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 92.98,
+        "CBC": 0.845,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.614,
+        "CBGA": 0.0,
+        "CBN": 1.528,
+        "THCA": 0.0,
+        "THCV": 0.606
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.0614,
+        "humulene": 0.036,
+        "myrcene": 0.0384,
+        "caryophyllene": 0.0912,
+        "limonene": 0.105,
+        "linalool": 0.183,
+        "terpinolene": 0.033
+      },
+      "totalTerps": 0.617,
+      "dominantTerpene": "linalool",
+      "packages": [
+        {
+          "id": 8884036,
+          "label": "1A4030300000C83000085451",
+          "quantity": 4.0,
+          "packagedDate": "2026-08-19",
+          "expirationDate": "2027-06-25"
         }
       ]
     },
