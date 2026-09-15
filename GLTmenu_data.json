@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T14:50:25.451265+00:00",
+  "generated_at": "2026-09-15T15:00:27.978557+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7203,6 +7203,51 @@
           "quantity": 4.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-04-06"
+        }
+      ]
+    },
+    {
+      "id": 8518827,
+      "packageCount": 1,
+      "name": "NH Romulan Kief-Concentrate-1g",
+      "brand": "NH",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 2.0,
+      "unit": "Each",
+      "strainName": "Romulan",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.55,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.62,
+        "CBN": 0.0,
+        "THCA": 32.03,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.05,
+        "myrcene": 0.06,
+        "caryophyllene": 0.12,
+        "nerolidol": 0.12
+      },
+      "totalTerps": 0.35,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8518827,
+          "label": "1A4030300003522000192514",
+          "quantity": 2.0,
+          "packagedDate": "2026-05-28",
+          "expirationDate": "2027-04-19"
         }
       ]
     },
@@ -22703,7 +22748,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22744,7 +22789,7 @@
         {
           "id": 8908968,
           "label": "1A4030300000193000106240",
-          "quantity": 16.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-04"
         }
@@ -27647,7 +27692,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 108.5,
+      "quantity": 105.0,
       "unit": "Grams",
       "strainName": "Blueberry",
       "strainType": null,
@@ -27679,7 +27724,7 @@
         {
           "id": 8938799,
           "label": "1A4030300003521000056672",
-          "quantity": 108.5,
+          "quantity": 105.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-20"
         }
@@ -36343,7 +36388,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 46.0,
+      "quantity": 45.0,
       "unit": "Grams",
       "strainName": "La Kush Cake",
       "strainType": null,
@@ -36376,7 +36421,7 @@
         {
           "id": 8748372,
           "label": "1A40303000000C9000164545",
-          "quantity": 46.0,
+          "quantity": 45.0,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-07-12"
         }
@@ -36796,7 +36841,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 70.0,
+      "quantity": 66.5,
       "unit": "Grams",
       "strainName": "Lemon Cherry Gelato",
       "strainType": null,
@@ -36830,7 +36875,7 @@
         {
           "id": 8974466,
           "label": "1A40303000000CB000051665",
-          "quantity": 70.0,
+          "quantity": 66.5,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-02"
         }
@@ -36846,7 +36891,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 129.5,
+      "quantity": 126.0,
       "unit": "Grams",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -36878,7 +36923,7 @@
         {
           "id": 8974467,
           "label": "1A40303000000CB000051666",
-          "quantity": 129.5,
+          "quantity": 126.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-03"
         }
@@ -36894,7 +36939,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 10.5,
       "unit": "Grams",
       "strainName": "Peach Runtz",
       "strainType": null,
@@ -36929,7 +36974,7 @@
         {
           "id": 8947324,
           "label": "1A40303000000CB000051192",
-          "quantity": 14.0,
+          "quantity": 10.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-16"
         }
@@ -36994,7 +37039,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 112.0,
+      "quantity": 105.0,
       "unit": "Grams",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -37028,7 +37073,7 @@
         {
           "id": 8974365,
           "label": "1A40303000000CB000051667",
-          "quantity": 112.0,
+          "quantity": 105.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-28"
         }
@@ -37424,6 +37469,52 @@
           "quantity": 25.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-05-14"
+        }
+      ]
+    },
+    {
+      "id": 8518176,
+      "packageCount": 1,
+      "name": "NH Larry Bird Mints Infused Preroll-Concentrate-.5g 2pk",
+      "brand": "NH",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Larry Bird Mints",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.29,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.16,
+        "CBGA": 1.44,
+        "CBN": 0.0,
+        "THCA": 33.17,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.14,
+        "myrcene": 0.03,
+        "caryophyllene": 0.54,
+        "limonene": 0.13,
+        "linalool": 0.13
+      },
+      "totalTerps": 1.13,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8518176,
+          "label": "1A4030300003522000192435",
+          "quantity": 12.0,
+          "packagedDate": "2026-05-28",
+          "expirationDate": null
         }
       ]
     },
@@ -38185,7 +38276,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Grams",
       "strainName": "Ray Charles",
       "strainType": null,
@@ -38218,7 +38309,7 @@
         {
           "id": 8787114,
           "label": "1A4030300000192000038833",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-06-29"
         }
@@ -57354,54 +57445,6 @@
           "quantity": 9.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-12"
-        }
-      ]
-    },
-    {
-      "id": 8884036,
-      "packageCount": 1,
-      "name": "Rove | Ready-To-Use Live Resin Diamond Vaporizer | Strawberry Cough - S | 1.0g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 4.0,
-      "unit": "Each",
-      "strainName": "Ready To Use Vaporizer",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 92.98,
-        "CBC": 0.845,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.614,
-        "CBGA": 0.0,
-        "CBN": 1.528,
-        "THCA": 0.0,
-        "THCV": 0.606
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.0614,
-        "humulene": 0.036,
-        "myrcene": 0.0384,
-        "caryophyllene": 0.0912,
-        "limonene": 0.105,
-        "linalool": 0.183,
-        "terpinolene": 0.033
-      },
-      "totalTerps": 0.617,
-      "dominantTerpene": "linalool",
-      "packages": [
-        {
-          "id": 8884036,
-          "label": "1A4030300000C83000085451",
-          "quantity": 4.0,
-          "packagedDate": "2026-08-19",
-          "expirationDate": "2027-06-25"
         }
       ]
     },
