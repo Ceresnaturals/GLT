@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T17:00:28.447980+00:00",
+  "generated_at": "2026-09-15T17:10:26.487772+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -190,7 +190,7 @@
     },
     {
       "id": 8939364,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "NH RSO V1-Capsule-10mg-10",
       "brand": "NH",
       "category": "Capsule",
@@ -198,7 +198,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -241,13 +241,6 @@
           "label": "1A4030300003522000210582",
           "quantity": 10.0,
           "packagedDate": "2026-09-01",
-          "expirationDate": "2027-06-10"
-        },
-        {
-          "id": 8828775,
-          "label": "1A4030300003522000195389",
-          "quantity": 2.0,
-          "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-10"
         }
       ]
@@ -10269,63 +10262,6 @@
           "quantity": 22.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-14"
-        }
-      ]
-    },
-    {
-      "id": 8920317,
-      "packageCount": 1,
-      "name": "Keef - Bubba Kush Root Beer - Liquid Edible - 10mg - 1",
-      "brand": null,
-      "category": "Drink",
-      "metrcCategory": "Infused Liquid Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 4.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.003,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Can",
-        "totalThcMg": 10.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8920317,
-          "label": "1A40303000001F5000423547",
-          "quantity": 4.0,
-          "packagedDate": "2026-08-26",
-          "expirationDate": null
         }
       ]
     },
@@ -29503,7 +29439,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 196.0,
+      "quantity": 182.0,
       "unit": "Grams",
       "strainName": "Mixed Strains",
       "strainType": null,
@@ -29537,7 +29473,7 @@
         {
           "id": 8939206,
           "label": "1A4030300003521000056678",
-          "quantity": 196.0,
+          "quantity": 182.0,
           "packagedDate": "2026-09-01",
           "expirationDate": null
         }
@@ -29802,7 +29738,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 52.5,
+      "quantity": 49.0,
       "unit": "Grams",
       "strainName": "Strawberry Jelly",
       "strainType": null,
@@ -29837,7 +29773,7 @@
         {
           "id": 8828648,
           "label": "1A4030300003521000054645",
-          "quantity": 52.5,
+          "quantity": 49.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-17"
         }
@@ -34842,7 +34778,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -34874,7 +34810,7 @@
         {
           "id": 8947058,
           "label": "1A40303000000CB000051189",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-01"
         }
@@ -38112,7 +38048,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 34.0,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
@@ -38147,7 +38083,7 @@
         {
           "id": 8911103,
           "label": "1A40303000000CB000050580",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         },
@@ -41321,57 +41257,6 @@
           "quantity": 3.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-05-27"
-        }
-      ]
-    },
-    {
-      "id": 8609604,
-      "packageCount": 1,
-      "name": "Airo Pod GSC Disposable 1.0g/1000mg",
-      "brand": "Airo",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "GSC",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 82.29,
-        "totalCBD": 0.21,
-        "CBC": 0.94,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.67,
-        "CBGA": 0.0,
-        "CBN": 0.7,
-        "THCA": 0.0,
-        "THCV": 0.79
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.85,
-        "myrcene": 0.77,
-        "alpha-pinene": 0.17,
-        "caryophyllene": 2.14,
-        "beta-pinene": 0.14,
-        "caryophyllene-oxide": 0.03,
-        "limonene": 1.06,
-        "linalool": 0.48,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 5.83,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8609604,
-          "label": "1A40303000001F5000393053",
-          "quantity": 1.0,
-          "packagedDate": "2026-06-17",
-          "expirationDate": "2026-10-15"
         }
       ]
     },
@@ -44749,7 +44634,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Berniehana Butter + Tequila Sunrise",
       "strainType": null,
@@ -44784,7 +44669,7 @@
         {
           "id": 8499354,
           "label": "1A4030300002199000051394",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2025-09-25",
           "expirationDate": "2026-09-25"
         }
@@ -47529,7 +47414,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Gazzurple",
       "strainType": "Sativa",
@@ -47563,7 +47448,7 @@
         {
           "id": 8970471,
           "label": "1A40303000003EA000263664",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-29"
         }
@@ -48924,7 +48809,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Acapulco Gold",
       "strainType": null,
@@ -48954,7 +48839,7 @@
         {
           "id": 8766954,
           "label": "1A4030300003522000207394",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-04"
         }
@@ -48970,7 +48855,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Afgoo",
       "strainType": null,
@@ -49003,7 +48888,7 @@
         {
           "id": 8766961,
           "label": "1A4030300003522000207395",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-05"
         }
@@ -53562,7 +53447,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Melon Sherbert",
       "strainType": null,
@@ -53594,7 +53479,7 @@
         {
           "id": 8966487,
           "label": "1A403030000012E000192144",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-07-25"
         }
@@ -54908,7 +54793,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Papayahuasca",
       "strainType": null,
@@ -54941,7 +54826,7 @@
         {
           "id": 8858443,
           "label": "1A40303000039D1000091567",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-05-15"
         }
@@ -56451,7 +56336,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Classics",
       "strainType": null,
@@ -56486,7 +56371,7 @@
         {
           "id": 8811769,
           "label": "1A4030300000C83000079097",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-03",
           "expirationDate": "2027-07-06"
         }
