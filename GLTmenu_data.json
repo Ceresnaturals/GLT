@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T21:30:25.190683+00:00",
+  "generated_at": "2026-09-15T21:40:25.586750+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -893,7 +893,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "FECO Applicator",
       "strainType": null,
@@ -929,7 +929,7 @@
         {
           "id": 7728820,
           "label": "1A403030000283D000043585",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2025-11-14",
           "expirationDate": "2026-10-01"
         }
@@ -2244,7 +2244,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 95.0,
+      "quantity": 94.0,
       "unit": "Each",
       "strainName": "Happy er J Deadband x House Blends",
       "strainType": null,
@@ -2284,7 +2284,7 @@
         {
           "id": 8814011,
           "label": "1A4030300000C83000079113",
-          "quantity": 45.0,
+          "quantity": 44.0,
           "packagedDate": "2026-08-04",
           "expirationDate": "2027-07-19"
         }
@@ -3696,7 +3696,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -3731,7 +3731,7 @@
         {
           "id": 8096095,
           "label": "1A40303000001F5000334965",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-02-18",
           "expirationDate": null
         }
@@ -6865,55 +6865,6 @@
       ]
     },
     {
-      "id": 8882387,
-      "packageCount": 1,
-      "name": "NH Chocolatina Bubble Hash-Concentrate-1g",
-      "brand": "NH",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Chocolatina",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 66.22,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.8,
-        "CBN": 0.0,
-        "THCA": 71.88,
-        "THCV": 0.43
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.26,
-        "humulene": 0.3,
-        "myrcene": 0.57,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.86,
-        "beta-pinene": 0.09,
-        "limonene": 0.76,
-        "linalool": 0.68
-      },
-      "totalTerps": 3.9,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8882387,
-          "label": "1A4030300003522000202268",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-18",
-          "expirationDate": "2027-07-31"
-        }
-      ]
-    },
-    {
       "id": 8211388,
       "packageCount": 1,
       "name": "NH Chocolatina Live Budder-Concentrate-1g",
@@ -6973,7 +6924,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Chocolatina",
       "strainType": null,
@@ -7014,7 +6965,7 @@
         {
           "id": 8939374,
           "label": "1A4030300003522000210588",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-07"
         }
@@ -7030,7 +6981,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Double Krush",
       "strainType": null,
@@ -7064,7 +7015,7 @@
         {
           "id": 8882511,
           "label": "1A4030300003522000202277",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-02"
         }
@@ -7231,7 +7182,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Larry Bird Mints",
       "strainType": null,
@@ -7260,7 +7211,7 @@
         {
           "id": 8632234,
           "label": "1A4030300003522000194090",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-05-05"
         }
@@ -7466,57 +7417,6 @@
       ]
     },
     {
-      "id": 8882400,
-      "packageCount": 1,
-      "name": "NH Orange Chemeleon Live Rosin-Concentrate-1g",
-      "brand": "NH",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Orange Chemeleon",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 77.45,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.48,
-        "CBN": 0.0,
-        "THCA": 74.0,
-        "THCV": 0.86
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.39,
-        "humulene": 0.34,
-        "myrcene": 2.65,
-        "alpha-pinene": 0.26,
-        "caryophyllene": 1.25,
-        "eudesmol": 0.47,
-        "beta-pinene": 0.33,
-        "limonene": 2.62,
-        "linalool": 0.61,
-        "terpinolene": 0.08
-      },
-      "totalTerps": 10.09,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8882400,
-          "label": "1A4030300003522000202274",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-18",
-          "expirationDate": "2027-08-11"
-        }
-      ]
-    },
-    {
       "id": 8882504,
       "packageCount": 1,
       "name": "NH RS #11 Live Rosin-Concentrate-1g",
@@ -7575,7 +7475,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Romulan",
       "strainType": null,
@@ -7604,7 +7504,7 @@
         {
           "id": 8690032,
           "label": "1A4030300003522000201340",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-04-06"
         }
@@ -7919,7 +7819,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Guava IX",
       "strainType": null,
@@ -7952,7 +7852,7 @@
         {
           "id": 8462886,
           "label": "1A4030300003522000191145",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-05-14",
           "expirationDate": "2027-05-03"
         }
@@ -18451,7 +18351,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 67.0,
+      "quantity": 66.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18497,7 +18397,7 @@
         {
           "id": 8978152,
           "label": "1A40303000017D5000105969",
-          "quantity": 43.0,
+          "quantity": 42.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-07-28"
         }
@@ -18733,7 +18633,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18779,7 +18679,7 @@
         {
           "id": 8110065,
           "label": "1A40303000017D5000079302",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2025-12-09",
           "expirationDate": "2026-12-09"
         }
@@ -19145,7 +19045,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 48.0,
+      "quantity": 47.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -19191,7 +19091,7 @@
         {
           "id": 8977888,
           "label": "1A40303000017D5000105970",
-          "quantity": 43.0,
+          "quantity": 42.0,
           "packagedDate": "2026-06-22",
           "expirationDate": "2027-06-22"
         }
@@ -20266,7 +20166,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20312,7 +20212,7 @@
         {
           "id": 8678367,
           "label": "1A4030300002009000107923",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-04-06"
         }
@@ -20808,7 +20708,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -20847,7 +20747,7 @@
         {
           "id": 8914800,
           "label": "1A4030300002009000112801",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-05-15"
         }
@@ -21517,7 +21417,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21558,7 +21458,7 @@
         {
           "id": 8828744,
           "label": "1A4030300003522000195382",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-22"
         }
@@ -28949,7 +28849,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Deadband x GC5 #12",
       "strainType": null,
@@ -28983,7 +28883,7 @@
         {
           "id": 8974367,
           "label": "1A40303000000CB000051671",
-          "quantity": 14.0,
+          "quantity": 10.5,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-25"
         },
@@ -29103,7 +29003,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 98.0,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Donut Trip",
       "strainType": "Hybrid",
@@ -29136,7 +29036,7 @@
         {
           "id": 8485365,
           "label": "1A40303000003EA000181128",
-          "quantity": 98.0,
+          "quantity": 84.0,
           "packagedDate": "2026-05-20",
           "expirationDate": "2027-04-17"
         }
@@ -29601,7 +29501,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 17.5,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -29635,7 +29535,7 @@
         {
           "id": 8947321,
           "label": "1A40303000000CB000051185",
-          "quantity": 21.0,
+          "quantity": 17.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-22"
         }
@@ -30493,7 +30393,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 42.0,
+      "quantity": 38.5,
       "unit": "Grams",
       "strainName": "Gelato 33",
       "strainType": null,
@@ -30526,7 +30426,7 @@
         {
           "id": 8939181,
           "label": "1A4030300003521000056673",
-          "quantity": 42.0,
+          "quantity": 38.5,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-08"
         }
@@ -30593,7 +30493,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 8.0,
       "unit": "Grams",
       "strainName": "Hash Burger",
       "strainType": null,
@@ -30626,7 +30526,7 @@
         {
           "id": 7998131,
           "label": "1A4030300004845000005614",
-          "quantity": 12.0,
+          "quantity": 8.0,
           "packagedDate": "2025-12-02",
           "expirationDate": null
         }
@@ -32320,7 +32220,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 168.0,
+      "quantity": 164.5,
       "unit": "Grams",
       "strainName": "Ice Wookie",
       "strainType": null,
@@ -32361,7 +32261,7 @@
         {
           "id": 8888587,
           "label": "1A403030000477D000002583",
-          "quantity": 66.5,
+          "quantity": 63.0,
           "packagedDate": "2026-08-10",
           "expirationDate": "2027-07-16"
         }
@@ -32680,7 +32580,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 175.0,
+      "quantity": 168.0,
       "unit": "Grams",
       "strainName": "Mixed Strains",
       "strainType": null,
@@ -32714,7 +32614,7 @@
         {
           "id": 8939206,
           "label": "1A4030300003521000056678",
-          "quantity": 175.0,
+          "quantity": 168.0,
           "packagedDate": "2026-09-01",
           "expirationDate": null
         }
@@ -33118,7 +33018,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "Patapeake Shortbread",
       "strainType": null,
@@ -33150,7 +33050,7 @@
         {
           "id": 8731344,
           "label": "1A40303000000CB000046964",
-          "quantity": 35.0,
+          "quantity": 31.5,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-06-16"
         }
@@ -34263,7 +34163,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -34295,7 +34195,7 @@
         {
           "id": 8974639,
           "label": "1A40303000001F5000428933",
-          "quantity": 38.5,
+          "quantity": 35.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -37393,7 +37293,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Grams",
       "strainName": "Pineapple OG",
       "strainType": null,
@@ -37426,7 +37326,7 @@
         {
           "id": 8707381,
           "label": "1A403030000012D000254645",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-07-09",
           "expirationDate": null
         }
@@ -38301,7 +38201,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 46.0,
+      "quantity": 44.0,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -38342,7 +38242,7 @@
         {
           "id": 7873712,
           "label": "1A40303000000CB000031526",
-          "quantity": 20.0,
+          "quantity": 18.0,
           "packagedDate": "2025-12-22",
           "expirationDate": "2026-10-01"
         }
@@ -41975,7 +41875,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Lemon Margy",
       "strainType": null,
@@ -42007,7 +41907,7 @@
         {
           "id": 8882298,
           "label": "1A4030300003521000056057",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-18",
           "expirationDate": null
         }
@@ -43331,7 +43231,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Strawberry Haze Juicy Stickz",
       "strainType": null,
@@ -43365,7 +43265,7 @@
         {
           "id": 8966427,
           "label": "1A403030000012E000192651",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-05-13"
         }
@@ -45169,7 +45069,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Purple Urkle",
       "strainType": null,
@@ -45204,7 +45104,7 @@
         {
           "id": 7782648,
           "label": "1A4030300002009000081079",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2025-12-01",
           "expirationDate": "2026-10-05"
         }
@@ -48496,7 +48396,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Nectarz",
       "strainType": null,
@@ -48529,7 +48429,7 @@
         {
           "id": 8673145,
           "label": "1A403030000283D000052569",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-05-22"
         }
@@ -49681,57 +49581,6 @@
       ]
     },
     {
-      "id": 8499354,
-      "packageCount": 1,
-      "name": "Cookies | Vapes | CDT 3-in-1 Disposables | Berniehana Butter + Tequila Sunrise - Vape Cart - 1g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Berniehana Butter + Tequila Sunrise",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 86.3,
-        "CBC": 0.73,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.8,
-        "CBGA": 0.0,
-        "CBN": 0.4,
-        "THCA": 0.0,
-        "THCV": 0.51
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.2,
-        "humulene": 0.15,
-        "myrcene": 0.16,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 0.62,
-        "beta-pinene": 0.05,
-        "caryophyllene-oxide": 0.18,
-        "limonene": 1.04,
-        "linalool": 0.15,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 2.92,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8499354,
-          "label": "1A4030300002199000051394",
-          "quantity": 1.0,
-          "packagedDate": "2025-09-25",
-          "expirationDate": "2026-09-25"
-        }
-      ]
-    },
-    {
       "id": 8039529,
       "packageCount": 1,
       "name": "Cookies | Vapes | CDT 3-in-1 Disposables | Gary Payton + Pomegranate Shake - Vape Cart - 1g",
@@ -50698,7 +50547,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Durban Poison",
       "strainType": "Sativa",
@@ -50730,7 +50579,7 @@
         {
           "id": 7853477,
           "label": "1A40303000003EA000134496",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2025-12-17",
           "expirationDate": "2026-11-21"
         }
@@ -50945,7 +50794,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Velvet Pie",
       "strainType": null,
@@ -50982,7 +50831,7 @@
         {
           "id": 8069033,
           "label": "1A4030300004845000009800",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-01-02",
           "expirationDate": "2027-01-02"
         }
@@ -53195,7 +53044,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 41.0,
+      "quantity": 40.0,
       "unit": "Each",
       "strainName": "Gummiez Slyde Rechargeable",
       "strainType": null,
@@ -53238,7 +53087,7 @@
         {
           "id": 8089398,
           "label": "1A4030300000C83000058192",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-02-17",
           "expirationDate": "2027-01-13"
         }
@@ -58832,7 +58681,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Maui Wowie Essentials",
       "strainType": null,
@@ -58865,7 +58714,7 @@
         {
           "id": 8026081,
           "label": "1A4030300000193000083147",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-02-03",
           "expirationDate": "2026-12-21"
         }
@@ -58929,7 +58778,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Grape Ice OG",
       "strainType": null,
@@ -58964,7 +58813,7 @@
         {
           "id": 8885946,
           "label": "1A403030000283D000057730",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-05-21"
         }
@@ -59377,7 +59226,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Mfused LOUD Super Fog Jefe Golden Glove",
       "strainType": null,
@@ -59413,7 +59262,7 @@
         {
           "id": 8550501,
           "label": "1A403030000012D000236489",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-06-04",
           "expirationDate": null
         }
@@ -65792,7 +65641,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Banana OG",
       "strainType": null,
@@ -65824,7 +65673,7 @@
         {
           "id": 8777736,
           "label": "1A4030300003D55000006653",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-03-22"
         }
