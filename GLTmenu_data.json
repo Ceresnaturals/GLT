@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T22:40:25.378081+00:00",
+  "generated_at": "2026-09-15T22:50:25.369036+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -13407,7 +13407,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 16.0,
       "unit": "Each",
@@ -16802,7 +16802,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -16841,7 +16841,7 @@
         {
           "id": 8828992,
           "label": "1A403030000012D000259360",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -20824,7 +20824,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 34.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20865,7 +20865,7 @@
         {
           "id": 8939228,
           "label": "1A4030300003522000210567",
-          "quantity": 34.0,
+          "quantity": 30.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-19"
         }
@@ -20938,7 +20938,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20979,7 +20979,7 @@
         {
           "id": 8939348,
           "label": "1A4030300003522000210569",
-          "quantity": 17.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-11"
         }
@@ -21288,7 +21288,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 29.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21336,7 +21336,7 @@
         {
           "id": 8766856,
           "label": "1A4030300003522000207397",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-17"
         }
@@ -25397,63 +25397,6 @@
       ]
     },
     {
-      "id": 8689787,
-      "packageCount": 1,
-      "name": "Vibations Lemon Lime Drink Mix V1-Edible Product-10mg-10",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.27,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.15
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 5.1
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8689787,
-          "label": "1A4030300003522000201326",
-          "quantity": 3.0,
-          "packagedDate": "2026-07-07",
-          "expirationDate": "2027-06-24"
-        }
-      ]
-    },
-    {
       "id": 8882372,
       "packageCount": 1,
       "name": "Vibations Lemon Lime Drink Mix V1-Exempt-40mg-10",
@@ -28420,55 +28363,6 @@
       ]
     },
     {
-      "id": 8858129,
-      "packageCount": 1,
-      "name": "Cloudberry OG | Georgies | 2.5g",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Vault"
-      ],
-      "quantity": 37.5,
-      "unit": "Grams",
-      "strainName": "132 CLOUDBERRY OG",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 31.04,
-        "totalCBD": 0.06,
-        "CBC": 0.0,
-        "CBDA": 0.07,
-        "CBDV": 0.0,
-        "CBG": 0.2,
-        "CBGA": 2.6,
-        "CBN": 0.0,
-        "THCA": 35.09,
-        "THCV": 0.32
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.19,
-        "myrcene": 0.07,
-        "alpha-pinene": 0.02,
-        "caryophyllene": 0.78,
-        "beta-pinene": 0.02,
-        "limonene": 0.12,
-        "linalool": 0.38
-      },
-      "totalTerps": 1.57,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8858129,
-          "label": "1A40303000039D1000091580",
-          "quantity": 37.5,
-          "packagedDate": "2026-08-13",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8034637,
       "packageCount": 1,
       "name": "Couch Crasher Pre-Pack (Mixed Buds) - Good Green (Indica) - Usable - 14g",
@@ -30074,7 +29968,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 91.5,
+      "quantity": 88.0,
       "unit": "Grams",
       "strainName": "Bapple Fritz",
       "strainType": null,
@@ -30108,7 +30002,7 @@
         {
           "id": 8083908,
           "label": "1A4030300003521000045578",
-          "quantity": 91.5,
+          "quantity": 88.0,
           "packagedDate": "2026-02-16",
           "expirationDate": "2027-01-01"
         }
@@ -30666,7 +30560,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 66.5,
+      "quantity": 63.0,
       "unit": "Grams",
       "strainName": "Georgia Mintz",
       "strainType": null,
@@ -30700,7 +30594,7 @@
         {
           "id": 8954085,
           "label": "1A403030000025B000086985",
-          "quantity": 66.5,
+          "quantity": 63.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-08-19"
         }
@@ -32506,7 +32400,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 84.0,
       "unit": "Grams",
@@ -32657,7 +32551,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.5,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "ONYCD 3.0",
       "strainType": null,
@@ -32691,7 +32585,7 @@
         {
           "id": 8939203,
           "label": "1A4030300003521000056676",
-          "quantity": 45.5,
+          "quantity": 42.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-12"
         }
@@ -34287,7 +34181,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 119.0,
+      "quantity": 115.5,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -34320,7 +34214,7 @@
         {
           "id": 8947055,
           "label": "1A40303000000CB000051188",
-          "quantity": 77.0,
+          "quantity": 73.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         },
@@ -43450,55 +43344,6 @@
           "label": "1A40303000000CB000040524",
           "quantity": 4.0,
           "packagedDate": "2026-04-28",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8752053,
-      "packageCount": 1,
-      "name": "1937|Trim|Sour Jack|Usable|Bulk|454g",
-      "brand": "1937",
-      "category": "Shake/Trim",
-      "metrcCategory": "Shake/Trim",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 156.89,
-      "unit": "Grams",
-      "strainName": "Sour Jack",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 21.66,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.62,
-        "CBN": 0.0,
-        "THCA": 24.4,
-        "THCV": 0.12
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.1,
-        "humulene": 0.24,
-        "myrcene": 0.07,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 0.92,
-        "beta-pinene": 0.05,
-        "limonene": 0.34,
-        "linalool": 0.24
-      },
-      "totalTerps": 2.09,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8752053,
-          "label": "1A4030300002009000109420",
-          "quantity": 156.89,
-          "packagedDate": "2026-07-21",
           "expirationDate": null
         }
       ]
@@ -56744,7 +56589,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 39.0,
+      "quantity": 38.0,
       "unit": "Each",
       "strainName": "Straight Chem",
       "strainType": null,
@@ -56777,7 +56622,7 @@
         {
           "id": 8309136,
           "label": "1A4030300003D55000005405",
-          "quantity": 39.0,
+          "quantity": 38.0,
           "packagedDate": "2026-04-09",
           "expirationDate": "2026-12-20"
         }
@@ -58458,7 +58303,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Green Crack",
       "strainType": null,
@@ -58492,7 +58337,7 @@
         {
           "id": 8945349,
           "label": "1A403030000283D000060837",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
