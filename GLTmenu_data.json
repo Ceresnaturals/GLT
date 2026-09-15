@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T20:10:26.827365+00:00",
+  "generated_at": "2026-09-15T20:20:29.423742+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10598,7 +10598,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10628,7 +10628,7 @@
         {
           "id": 8828890,
           "label": "1A403030000012D000259352",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -11599,7 +11599,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11640,7 +11640,7 @@
         {
           "id": 8974482,
           "label": "1A4030300000C83000081723",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-17"
         }
@@ -12503,7 +12503,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12542,7 +12542,7 @@
         {
           "id": 8882411,
           "label": "1A4030300003522000202254",
-          "quantity": 16.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-06-25"
         }
@@ -12556,7 +12556,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 20.0,
       "unit": "Each",
@@ -13728,16 +13728,17 @@
       ]
     },
     {
-      "id": 8981910,
-      "packageCount": 2,
+      "id": 8981879,
+      "packageCount": 3,
       "name": "Curio Wellness Black Cherry Vanilla 10mg Chews-Edible Product-10mg-10",
       "brand": "Curio Wellness",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 29.0,
+      "quantity": 53.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13773,6 +13774,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8981879,
+          "label": "1A403030000012D000266238",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-10",
+          "expirationDate": null
+        },
         {
           "id": 8981910,
           "label": "1A403030000012D000266239",
@@ -14179,28 +14187,29 @@
       ]
     },
     {
-      "id": 8707444,
-      "packageCount": 1,
+      "id": 8981916,
+      "packageCount": 2,
       "name": "Curio Wellness Elderberry Hibiscus 10mg Chews-Edible Product-10mg-10",
       "brand": "Curio Wellness",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.233,
-        "CBC": 0.0,
+        "totalTHC": 0.225,
+        "CBC": 0.002,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.007,
+        "CBG": 0.012,
         "CBGA": 0.0,
-        "CBN": 0.004,
+        "CBN": 0.006,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -14209,12 +14218,12 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "CBC": 0.0,
+          "CBC": 0.08,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.28,
+          "CBG": 0.48,
           "CBGA": 0.0,
-          "CBN": 0.16,
+          "CBN": 0.24,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -14224,6 +14233,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8981916,
+          "label": "1A403030000012D000266246",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-10",
+          "expirationDate": null
+        },
         {
           "id": 8707444,
           "label": "1A403030000012D000254650",
@@ -14463,7 +14479,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14502,7 +14518,7 @@
         {
           "id": 8828990,
           "label": "1A403030000012D000259354",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -16423,7 +16439,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16464,7 +16480,7 @@
         {
           "id": 8764130,
           "label": "1A4030300000C83000080156",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-07-22",
           "expirationDate": "2027-04-15"
         }
@@ -17437,46 +17453,47 @@
       ]
     },
     {
-      "id": 8583745,
-      "packageCount": 1,
+      "id": 8981911,
+      "packageCount": 2,
       "name": "Dixie Synergy 1:1 Berry Tablets-Edible Product-5mg-20",
       "brand": "Dixie",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 1.385,
-        "totalCBD": 1.415,
-        "CBC": 0.016,
+        "totalTHC": 1.458,
+        "totalCBD": 1.528,
+        "CBC": 0.02,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.088,
+        "CBG": 0.061,
         "CBGA": 0.0,
-        "CBN": 0.059,
+        "CBN": 0.05,
         "THCA": 0.0,
-        "THCV": 0.0
+        "THCV": 0.009
       },
       "dose": {
         "servingSize": "1 tablet",
         "totalThcMg": 100.0,
         "thcMgPerServing": 5.0,
         "minorsMgPerServing": {
-          "totalCBD": 4.953,
-          "CBC": 0.056,
+          "totalCBD": 5.348,
+          "CBC": 0.07,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.308,
+          "CBG": 0.213,
           "CBGA": 0.0,
-          "CBN": 0.206,
+          "CBN": 0.175,
           "THCA": 0.0,
-          "THCV": 0.0
+          "THCV": 0.032
         },
         "minorsEstimated": true
       },
@@ -17484,6 +17501,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8981911,
+          "label": "1A403030000012D000266241",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-10",
+          "expirationDate": null
+        },
         {
           "id": 8583745,
           "label": "1A403030000012D000244626",
@@ -22580,7 +22604,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22621,7 +22645,7 @@
         {
           "id": 8891520,
           "label": "1A40303000003EA000205080",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-05-18"
         }
@@ -28172,6 +28196,108 @@
           "label": "1A40303000000CD000079031",
           "quantity": 14.0,
           "packagedDate": "2026-08-27",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8982673,
+      "packageCount": 1,
+      "name": "CUR-CW-JAR-RING-3.5-MD",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 84.0,
+      "unit": "Grams",
+      "strainName": "RING",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.71,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.87,
+        "CBN": 0.0,
+        "THCA": 30.06,
+        "THCV": 1.03
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.12,
+        "humulene": 0.3,
+        "myrcene": 0.44,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 1.12,
+        "beta-pinene": 0.05,
+        "ocimene": 0.1,
+        "limonene": 0.37,
+        "linalool": 0.12,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 2.8,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8982673,
+          "label": "1A40303000000CD000079812",
+          "quantity": 84.0,
+          "packagedDate": "2026-09-10",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8982674,
+      "packageCount": 1,
+      "name": "CUR-CW-JAR-YAHE-3.5-MD",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 84.0,
+      "unit": "Grams",
+      "strainName": "YAHE",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.14,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.22,
+        "CBGA": 1.5,
+        "CBN": 0.0,
+        "THCA": 32.45,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.33,
+        "myrcene": 0.29,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 1.4,
+        "eudesmol": 0.23,
+        "beta-pinene": 0.11,
+        "ocimene": 0.05,
+        "limonene": 0.92,
+        "linalool": 0.3
+      },
+      "totalTerps": 4.24,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8982674,
+          "label": "1A40303000000CD000079813",
+          "quantity": 84.0,
+          "packagedDate": "2026-09-10",
           "expirationDate": null
         }
       ]
