@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T18:00:31.610512+00:00",
+  "generated_at": "2026-09-15T18:10:28.562302+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -242,63 +242,6 @@
           "quantity": 10.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-06-10"
-        }
-      ]
-    },
-    {
-      "id": 8939253,
-      "packageCount": 1,
-      "name": "NH RSO V1-Capsule-50mg-20",
-      "brand": "NH",
-      "category": "Capsule",
-      "metrcCategory": "Infused Edible (Capsule Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 10.25,
-        "totalCBD": 0.0,
-        "CBC": 0.15,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.42,
-        "CBGA": 0.0,
-        "CBN": 0.17,
-        "THCA": 0.0,
-        "THCV": 0.07
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 1000.0,
-        "thcMgPerServing": 50.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.75,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 2.1,
-          "CBGA": 0.0,
-          "CBN": 0.85,
-          "THCA": 0.0,
-          "THCV": 0.35
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8939253,
-          "label": "1A4030300003522000210586",
-          "quantity": 2.0,
-          "packagedDate": "2026-09-01",
-          "expirationDate": "2027-04-09"
         }
       ]
     },
@@ -11239,6 +11182,63 @@
       ]
     },
     {
+      "id": 8958670,
+      "packageCount": 1,
+      "name": "Avexia Microdose Tablets - 4:1 CBD:THC - Edible Product - 2.5mg - 40pc",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.792,
+        "totalCBD": 2.94,
+        "CBC": 0.014,
+        "CBDA": 0.0,
+        "CBDV": 0.018,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.008,
+        "THCA": 0.0,
+        "THCV": 0.006
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 2.5,
+        "minorsMgPerServing": {
+          "totalCBD": 8.82,
+          "CBC": 0.042,
+          "CBDA": 0.0,
+          "CBDV": 0.054,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.024,
+          "THCA": 0.0,
+          "THCV": 0.018
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8958670,
+          "label": "1A40303000017D5000105505",
+          "quantity": 12.0,
+          "packagedDate": "2026-07-16",
+          "expirationDate": "2027-07-16"
+        }
+      ]
+    },
+    {
       "id": 8944207,
       "packageCount": 1,
       "name": "Beboe Gummy 100mg-Cloud 9 (Sparkling Pear) (1:1 THC:CBG)(Thick)-Edible Product-5mg-20 Pieces",
@@ -11702,7 +11702,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11743,7 +11743,7 @@
         {
           "id": 8882300,
           "label": "1A4030300003522000202250",
-          "quantity": 22.0,
+          "quantity": 20.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-05-14"
         }
@@ -17489,6 +17489,63 @@
       ]
     },
     {
+      "id": 8958672,
+      "packageCount": 1,
+      "name": "Encore Caramel - Sea Salt - Edible Product - 10mg - 10pc",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.271,
+        "totalCBD": 0.002,
+        "CBC": 0.003,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.012,
+        "CBGA": 0.0,
+        "CBN": 0.003,
+        "THCA": 0.0,
+        "THCV": 0.002
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.072,
+          "CBC": 0.108,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.432,
+          "CBGA": 0.0,
+          "CBN": 0.108,
+          "THCA": 0.0,
+          "THCV": 0.072
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8958672,
+          "label": "1A40303000017D5000105506",
+          "quantity": 12.0,
+          "packagedDate": "2026-07-07",
+          "expirationDate": "2027-07-07"
+        }
+      ]
+    },
+    {
       "id": 8704637,
       "packageCount": 1,
       "name": "Encore Dark Chocolate (Macro Dose) - Hybrid - Exempt - 40mg - 10pc",
@@ -17599,6 +17656,171 @@
       ]
     },
     {
+      "id": 8959009,
+      "packageCount": 1,
+      "name": "Encore Dark Chocolate - Indica RSO - Edible Product - 10mg - 10pc*",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.184,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.006,
+        "CBGA": 0.0,
+        "CBN": 0.001,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.336,
+          "CBGA": 0.0,
+          "CBN": 0.056,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8959009,
+          "label": "1A40303000017D5000105510",
+          "quantity": 12.0,
+          "packagedDate": "2026-07-06",
+          "expirationDate": "2027-07-06"
+        }
+      ]
+    },
+    {
+      "id": 8959111,
+      "packageCount": 1,
+      "name": "Encore Dark Chocolate - Sativa RSO - Edible Product - 10mg - 10pc*",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.183,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.004,
+        "CBGA": 0.0,
+        "CBN": 0.001,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.224,
+          "CBGA": 0.0,
+          "CBN": 0.056,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8959111,
+          "label": "1A40303000017D5000105511",
+          "quantity": 12.0,
+          "packagedDate": "2026-06-18",
+          "expirationDate": "2027-06-18"
+        }
+      ]
+    },
+    {
+      "id": 8958877,
+      "packageCount": 1,
+      "name": "Encore Gummies (RSO) - Concord Grape - Edible Product - 10mg - 10pc*",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.284,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.009,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.315,
+          "CBGA": 0.0,
+          "CBN": 0.07,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8958877,
+          "label": "1A40303000017D5000105507",
+          "quantity": 24.0,
+          "packagedDate": "2026-07-28",
+          "expirationDate": "2027-07-28"
+        }
+      ]
+    },
+    {
       "id": 8870788,
       "packageCount": 1,
       "name": "Encore Gummies (RSO) - Sour Black Cherry - Edible Product - 10mg - 10pc*",
@@ -17650,6 +17872,116 @@
           "quantity": 4.0,
           "packagedDate": "2026-06-30",
           "expirationDate": "2027-06-30"
+        }
+      ]
+    },
+    {
+      "id": 8958683,
+      "packageCount": 1,
+      "name": "Encore Gummies (RSO) - Tropical Mango - Edible Product - 10mg - 10pc*",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.297,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.009,
+        "CBGA": 0.0,
+        "CBN": 0.001,
+        "THCA": 0.003,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.315,
+          "CBGA": 0.0,
+          "CBN": 0.035,
+          "THCA": 0.105,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8958683,
+          "label": "1A40303000017D5000105508",
+          "quantity": 24.0,
+          "packagedDate": "2026-07-10",
+          "expirationDate": "2027-07-10"
+        }
+      ]
+    },
+    {
+      "id": 8978143,
+      "packageCount": 1,
+      "name": "Encore Gummies - Berry Burst - Edible Product - 10mg - 10pc*",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.273,
+        "CBC": 0.003,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.011,
+        "CBGA": 0.0,
+        "CBN": 0.003,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.105,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.385,
+          "CBGA": 0.0,
+          "CBN": 0.105,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8978143,
+          "label": "1A40303000017D5000105966",
+          "quantity": 24.0,
+          "packagedDate": "2026-07-13",
+          "expirationDate": "2027-07-13"
         }
       ]
     },
@@ -17823,6 +18155,118 @@
           "quantity": 24.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-07-02"
+        }
+      ]
+    },
+    {
+      "id": 8959110,
+      "packageCount": 1,
+      "name": "Encore Gummies - Strawberry Peach 2:1 CBD:THC - Edible Product - 10mg - 10pc*",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.295,
+        "totalCBD": 0.597,
+        "CBC": 0.003,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.011,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 20.895,
+          "CBC": 0.105,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.385,
+          "CBGA": 0.0,
+          "CBN": 0.07,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8959110,
+          "label": "1A40303000017D5000105509",
+          "quantity": 24.0,
+          "packagedDate": "2026-07-27",
+          "expirationDate": "2027-07-27"
+        }
+      ]
+    },
+    {
+      "id": 8978146,
+      "packageCount": 1,
+      "name": "Encore Gummies - Watermelon - Edible Product - 10mg - 10pc*",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.258,
+        "CBC": 0.003,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.011,
+        "CBGA": 0.0,
+        "CBN": 0.003,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.105,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.385,
+          "CBGA": 0.0,
+          "CBN": 0.105,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8978146,
+          "label": "1A40303000017D5000105967",
+          "quantity": 24.0,
+          "packagedDate": "2026-07-01",
+          "expirationDate": "2027-07-01"
         }
       ]
     },
@@ -20312,7 +20756,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20351,7 +20795,7 @@
         {
           "id": 8828687,
           "label": "1A4030300003522000195384",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-05-16"
         }
@@ -25101,6 +25545,56 @@
       ]
     },
     {
+      "id": 8954209,
+      "packageCount": 1,
+      "name": "(the) Essence Flower - Glitter Bomb - Usable - 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 42.0,
+      "unit": "Grams",
+      "strainName": "Glitter Bomb",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.3,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.03,
+        "CBN": 0.0,
+        "THCA": 28.34,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.1,
+        "myrcene": 0.85,
+        "alpha-pinene": 0.01,
+        "caryophyllene": 0.44,
+        "beta-pinene": 0.02,
+        "ocimene": 0.07,
+        "limonene": 0.09,
+        "linalool": 0.17
+      },
+      "totalTerps": 1.8,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8954209,
+          "label": "1A4030300003A3C000090435",
+          "quantity": 42.0,
+          "packagedDate": "2026-07-28",
+          "expirationDate": "2027-07-28"
+        }
+      ]
+    },
+    {
       "id": 8739582,
       "packageCount": 1,
       "name": "(the) Essence Flower - Guava Jam - Usable - 3.5g",
@@ -29649,7 +30143,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 87.5,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "ONYCD 3.0",
       "strainType": null,
@@ -29683,7 +30177,7 @@
         {
           "id": 8939203,
           "label": "1A4030300003521000056676",
-          "quantity": 87.5,
+          "quantity": 84.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-12"
         }
@@ -29788,7 +30282,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 101.5,
+      "quantity": 98.0,
       "unit": "Grams",
       "strainName": "Mimosa Cake",
       "strainType": null,
@@ -29822,7 +30316,7 @@
         {
           "id": 8974470,
           "label": "1A40303000000CB000051673",
-          "quantity": 101.5,
+          "quantity": 98.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-30"
         }
@@ -30418,6 +30912,108 @@
       ]
     },
     {
+      "id": 8954211,
+      "packageCount": 1,
+      "name": "Savvy Flower - Grape Bubblegum - Usable - 14g",
+      "brand": "Savvy",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 168.0,
+      "unit": "Grams",
+      "strainName": "Grape Bubblegum",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.4,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.84,
+        "CBN": 0.0,
+        "THCA": 32.41,
+        "THCV": 0.09
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.19,
+        "myrcene": 0.57,
+        "alpha-pinene": 0.2,
+        "caryophyllene": 0.58,
+        "eudesmol": 0.16,
+        "beta-pinene": 0.14,
+        "ocimene": 0.06,
+        "limonene": 0.79,
+        "linalool": 0.09,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.31,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8954211,
+          "label": "1A4030300003A3C000090436",
+          "quantity": 168.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-08-26"
+        }
+      ]
+    },
+    {
+      "id": 8977232,
+      "packageCount": 1,
+      "name": "Savvy Flower - Guerilla Grape - Usable - 7g",
+      "brand": "Savvy",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 84.0,
+      "unit": "Grams",
+      "strainName": "Guerilla Grape",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.36,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.03,
+        "CBN": 0.0,
+        "THCA": 34.7,
+        "THCV": 0.2
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.12,
+        "humulene": 0.19,
+        "myrcene": 0.44,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.73,
+        "beta-pinene": 0.08,
+        "limonene": 0.58,
+        "linalool": 0.13,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 2.59,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8977232,
+          "label": "1A4030300003A3C000090731",
+          "quantity": 84.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-09-01"
+        }
+      ]
+    },
+    {
       "id": 8944067,
       "packageCount": 1,
       "name": "Scotch & Soda Pre-Pack (Buds) - Rythm (Hybrid) - Usable - 3.5g",
@@ -30868,7 +31464,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 80.5,
+      "quantity": 77.0,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -30901,9 +31497,61 @@
         {
           "id": 8947055,
           "label": "1A40303000000CB000051188",
-          "quantity": 80.5,
+          "quantity": 77.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
+        }
+      ]
+    },
+    {
+      "id": 8954212,
+      "packageCount": 1,
+      "name": "Swift Lifts - Blueberry Muffins - Usable - 2.5g 5pk",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Grams",
+      "strainName": "Blueberry Muffins",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.45,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.56,
+        "CBN": 0.0,
+        "THCA": 25.2,
+        "THCV": 0.05
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.29,
+        "humulene": 0.28,
+        "myrcene": 0.27,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 1.07,
+        "eudesmol": 0.15,
+        "beta-pinene": 0.03,
+        "limonene": 0.2,
+        "linalool": 0.17,
+        "terpinolene": 0.01,
+        "nerolidol": 0.06
+      },
+      "totalTerps": 2.76,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8954212,
+          "label": "1A4030300003A3C000090437",
+          "quantity": 30.0,
+          "packagedDate": "2026-08-14",
+          "expirationDate": "2027-08-14"
         }
       ]
     },
@@ -33496,7 +34144,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 13.0,
       "unit": "Grams",
       "strainName": "Deadband x GC5 #12",
       "strainType": null,
@@ -33530,7 +34178,7 @@
         {
           "id": 8974465,
           "label": "1A40303000000CB000051663",
-          "quantity": 15.0,
+          "quantity": 13.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-28"
         }
@@ -34739,7 +35387,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 11.0,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -34771,7 +35419,7 @@
         {
           "id": 8947058,
           "label": "1A40303000000CB000051189",
-          "quantity": 13.0,
+          "quantity": 11.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-01"
         }
@@ -37669,7 +38317,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 33.25,
+      "quantity": 29.75,
       "unit": "Grams",
       "strainName": "Patapeake Shortbread",
       "strainType": null,
@@ -37701,7 +38349,7 @@
         {
           "id": 8974366,
           "label": "1A40303000000CB000051668",
-          "quantity": 33.25,
+          "quantity": 29.75,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-06-03"
         }
@@ -38559,7 +39207,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.0,
+      "quantity": 36.0,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -38593,7 +39241,7 @@
         {
           "id": 8974468,
           "label": "1A40303000000CB000051669",
-          "quantity": 38.0,
+          "quantity": 36.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-01"
         }
@@ -38916,7 +39564,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 258.39,
+      "quantity": 247.89,
       "unit": "Grams",
       "strainName": "Sour Jack",
       "strainType": null,
@@ -38949,7 +39597,7 @@
         {
           "id": 8752053,
           "label": "1A4030300002009000109420",
-          "quantity": 258.39,
+          "quantity": 247.89,
           "packagedDate": "2026-07-21",
           "expirationDate": null
         }
@@ -41835,7 +42483,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "SDG OG LLR",
       "strainType": null,
@@ -41871,7 +42519,7 @@
         {
           "id": 8974642,
           "label": "1A40303000001F5000428938",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-04-08"
         }
@@ -56188,6 +56836,55 @@
       ]
     },
     {
+      "id": 8959011,
+      "packageCount": 1,
+      "name": "Reserve Live Resin Cartridge - Gastro Pop - Vape Cart - 0.5g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Gastro Pop",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 81.81,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 7.98,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.17,
+        "humulene": 0.47,
+        "myrcene": 2.34,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 1.67,
+        "ocimene": 0.2,
+        "limonene": 0.4,
+        "linalool": 0.43
+      },
+      "totalTerps": 5.82,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8959011,
+          "label": "1A40303000017D5000105513",
+          "quantity": 12.0,
+          "packagedDate": "2026-08-19",
+          "expirationDate": "2027-08-19"
+        }
+      ]
+    },
+    {
       "id": 8947228,
       "packageCount": 1,
       "name": "Rocket Pop Disposable DV 2.0g/2000mg",
@@ -57320,6 +58017,53 @@
           "quantity": 6.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-08-12"
+        }
+      ]
+    },
+    {
+      "id": 8959015,
+      "packageCount": 1,
+      "name": "Savvy Disposable - Fresh Berry - Vape Cart - 0.3g",
+      "brand": "Savvy",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Fresh Berry",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.28,
+        "CBC": 1.01,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.7,
+        "CBGA": 0.0,
+        "CBN": 0.46,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.33,
+        "beta-pinene": 0.06,
+        "limonene": 0.47,
+        "linalool": 0.13
+      },
+      "totalTerps": 1.14,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8959015,
+          "label": "1A40303000017D5000105514",
+          "quantity": 12.0,
+          "packagedDate": "2026-08-14",
+          "expirationDate": "2027-08-14"
         }
       ]
     },
