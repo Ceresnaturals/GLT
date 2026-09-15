@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T18:20:33.405263+00:00",
+  "generated_at": "2026-09-15T18:30:27.979493+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12370,7 +12370,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12409,7 +12409,7 @@
         {
           "id": 8882418,
           "label": "1A4030300003522000202256",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-05"
         }
@@ -27615,7 +27615,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 196.0,
+      "quantity": 182.0,
       "unit": "Grams",
       "strainName": "Half Moonana",
       "strainType": null,
@@ -27647,7 +27647,7 @@
         {
           "id": 8786921,
           "label": "1A4030300000192000038832",
-          "quantity": 196.0,
+          "quantity": 182.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-06-29"
         }
@@ -32286,7 +32286,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.25,
+      "quantity": 10.5,
       "unit": "Grams",
       "strainName": "Afternoon Delight #4",
       "strainType": null,
@@ -32320,7 +32320,7 @@
         {
           "id": 8826361,
           "label": "1A40303000003EA000195257",
-          "quantity": 11.25,
+          "quantity": 10.5,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-23"
         }
@@ -33288,7 +33288,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Grams",
       "strainName": "Chem de la Chem TC",
       "strainType": null,
@@ -33320,7 +33320,7 @@
         {
           "id": 8890514,
           "label": "1A40303000001F5000420174",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -39440,6 +39440,55 @@
           "label": "1A40303000000CB000040524",
           "quantity": 4.0,
           "packagedDate": "2026-04-28",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8752053,
+      "packageCount": 1,
+      "name": "1937|Trim|Sour Jack|Usable|Bulk|454g",
+      "brand": "1937",
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 230.39,
+      "unit": "Grams",
+      "strainName": "Sour Jack",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 21.66,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.62,
+        "CBN": 0.0,
+        "THCA": 24.4,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.24,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.92,
+        "beta-pinene": 0.05,
+        "limonene": 0.34,
+        "linalool": 0.24
+      },
+      "totalTerps": 2.09,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8752053,
+          "label": "1A4030300002009000109420",
+          "quantity": 230.39,
+          "packagedDate": "2026-07-21",
           "expirationDate": null
         }
       ]
@@ -49652,7 +49701,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": "Green Crack",
       "strainType": null,
@@ -49683,7 +49732,7 @@
         {
           "id": 8939357,
           "label": "1A4030300003522000210575",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-21"
         }
