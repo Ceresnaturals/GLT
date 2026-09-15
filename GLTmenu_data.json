@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T17:30:25.099855+00:00",
+  "generated_at": "2026-09-15T17:40:25.489834+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9179,7 +9179,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Swift Lifts",
       "strainType": null,
@@ -9211,7 +9211,7 @@
         {
           "id": 8704640,
           "label": "1A40303000017D5000099621",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-05-14",
           "expirationDate": "2027-05-14"
         }
@@ -11588,7 +11588,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11629,7 +11629,7 @@
         {
           "id": 8882291,
           "label": "1A4030300003522000202246",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-02"
         }
@@ -19824,16 +19824,15 @@
     },
     {
       "id": 8939349,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "In House Sour Grape Gummies-Edible Product-10mg-10",
       "brand": "In House",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 29.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19877,13 +19876,6 @@
           "quantity": 25.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-11"
-        },
-        {
-          "id": 8766856,
-          "label": "1A4030300003522000207397",
-          "quantity": 4.0,
-          "packagedDate": "2026-07-23",
-          "expirationDate": "2027-06-17"
         }
       ]
     },
@@ -25298,7 +25290,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 5.0,
       "unit": "Grams",
       "strainName": "B52 Bomber",
       "strainType": null,
@@ -25334,7 +25326,7 @@
         {
           "id": 8894097,
           "label": "1A4030300003A3C000089887",
-          "quantity": 10.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-07-02"
         }
@@ -27612,7 +27604,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 59.5,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Gelato 33",
       "strainType": null,
@@ -27645,7 +27637,7 @@
         {
           "id": 8939181,
           "label": "1A4030300003521000056673",
-          "quantity": 59.5,
+          "quantity": 56.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-08"
         }
@@ -31639,7 +31631,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 26.25,
+      "quantity": 24.5,
       "unit": "Grams",
       "strainName": "Afternoon Delight #4",
       "strainType": null,
@@ -31673,7 +31665,7 @@
         {
           "id": 8944068,
           "label": "1A40303000003EA000264676",
-          "quantity": 26.25,
+          "quantity": 24.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-23"
         }
@@ -31837,7 +31829,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Grams",
       "strainName": "Alien Mints",
       "strainType": null,
@@ -31873,7 +31865,7 @@
         {
           "id": 8966516,
           "label": "1A403030000012E000192642",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-04"
         }
@@ -35620,7 +35612,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.5,
+      "quantity": 8.75,
       "unit": "Grams",
       "strainName": "Chunky Monkey",
       "strainType": null,
@@ -35652,7 +35644,7 @@
         {
           "id": 8745272,
           "label": "1A403030000025B000080881",
-          "quantity": 10.5,
+          "quantity": 8.75,
           "packagedDate": "2026-07-09",
           "expirationDate": "2027-06-25"
         }
@@ -48800,101 +48792,6 @@
       ]
     },
     {
-      "id": 8766954,
-      "packageCount": 1,
-      "name": "In House Acapulco Gold Disposable-Vape Cart-2g",
-      "brand": "In House",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 15.0,
-      "unit": "Each",
-      "strainName": "Acapulco Gold",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 85.36,
-        "CBC": 0.96,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.87,
-        "CBGA": 0.0,
-        "CBN": 0.44,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.65,
-        "caryophyllene": 1.82,
-        "limonene": 0.21,
-        "linalool": 0.23,
-        "nerolidol": 0.11
-      },
-      "totalTerps": 3.24,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8766954,
-          "label": "1A4030300003522000207394",
-          "quantity": 15.0,
-          "packagedDate": "2026-07-23",
-          "expirationDate": "2027-06-04"
-        }
-      ]
-    },
-    {
-      "id": 8766961,
-      "packageCount": 1,
-      "name": "In House Afgoo Disposable-Vape Cart-2g",
-      "brand": "In House",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 9.0,
-      "unit": "Each",
-      "strainName": "Afgoo",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 83.08,
-        "CBC": 1.05,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.03,
-        "CBGA": 0.0,
-        "CBN": 0.51,
-        "THCA": 0.0,
-        "THCV": 0.64
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.5,
-        "myrcene": 0.21,
-        "alpha-pinene": 0.13,
-        "caryophyllene": 1.32,
-        "beta-pinene": 0.11,
-        "limonene": 1.21,
-        "linalool": 0.27,
-        "terpinolene": 0.04
-      },
-      "totalTerps": 3.86,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8766961,
-          "label": "1A4030300003522000207395",
-          "quantity": 9.0,
-          "packagedDate": "2026-07-23",
-          "expirationDate": "2027-06-05"
-        }
-      ]
-    },
-    {
       "id": 8579711,
       "packageCount": 1,
       "name": "In House Baja Blastoff Disposable-Vape Cart-.5g",
@@ -53050,7 +52947,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Banana Berry Smoothie",
       "strainType": null,
@@ -53082,7 +52979,7 @@
         {
           "id": 8885895,
           "label": "1A403030000283D000057729",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-06-24"
         }
@@ -53199,7 +53096,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "White Widow",
       "strainType": null,
@@ -53234,7 +53131,7 @@
         {
           "id": 8945081,
           "label": "1A403030000283D000060838",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-26"
         }
@@ -58188,7 +58085,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -58222,7 +58119,7 @@
         {
           "id": 8858442,
           "label": "1A40303000039D1000091583",
-          "quantity": 27.0,
+          "quantity": 26.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-05-18"
         }
