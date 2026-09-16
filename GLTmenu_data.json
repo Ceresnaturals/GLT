@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T19:50:28.036886+00:00",
+  "generated_at": "2026-09-16T20:00:28.229433+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1649,7 +1649,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Belushi's Farm Oreoz",
       "strainType": null,
@@ -1685,7 +1685,7 @@
         {
           "id": 8177887,
           "label": "1A40303000001F5000342137",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-03-10",
           "expirationDate": null
         }
@@ -4729,7 +4729,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Lemon Funk",
       "strainType": null,
@@ -4764,7 +4764,7 @@
         {
           "id": 8785081,
           "label": "ABC0303000037DD000024830",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-06-29"
         }
@@ -8472,7 +8472,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Rambutan Uprising Cake",
       "strainType": null,
@@ -8508,7 +8508,7 @@
         {
           "id": 8911017,
           "label": "1A4030300000C83000086191",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-07"
         }
@@ -9131,7 +9131,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Space Monkey",
       "strainType": null,
@@ -9165,7 +9165,7 @@
         {
           "id": 8819352,
           "label": "1A40303000001F5000412899",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-05-07"
         }
@@ -9781,7 +9781,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Yellow Mermaid",
       "strainType": null,
@@ -9817,7 +9817,7 @@
         {
           "id": 8765365,
           "label": "1A40303000001F5000408129",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-05-27"
         }
@@ -34025,7 +34025,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 73.5,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "Topanga OG",
       "strainType": null,
@@ -34048,7 +34048,7 @@
         {
           "id": 8321428,
           "label": "1A40303000046B5000000332",
-          "quantity": 73.5,
+          "quantity": 70.0,
           "packagedDate": "2026-04-13",
           "expirationDate": null
         }
@@ -49943,6 +49943,58 @@
       ]
     },
     {
+      "id": 8758176,
+      "packageCount": 1,
+      "name": "Fade Co | Vape | Live Resin | El Chivo - Vape Cart - 1g",
+      "brand": "Fade Co",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 3.0,
+      "unit": "Each",
+      "strainName": "El Chivo",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 65.9,
+        "totalCBD": 0.16,
+        "CBC": 0.49,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.34,
+        "CBGA": 0.0,
+        "CBN": 0.16,
+        "THCA": 0.0,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.62,
+        "myrcene": 1.18,
+        "alpha-pinene": 0.8,
+        "caryophyllene": 1.27,
+        "beta-pinene": 0.64,
+        "caryophyllene-oxide": 0.04,
+        "ocimene": 0.14,
+        "limonene": 3.46,
+        "linalool": 1.92,
+        "terpinolene": 0.13
+      },
+      "totalTerps": 11.72,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8758176,
+          "label": "1A4030300004845000034914",
+          "quantity": 3.0,
+          "packagedDate": "2026-05-18",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8840302,
       "packageCount": 1,
       "name": "Fade Co | Vape | Live Resin | Glitter Bomb - Vape Cart - 1g",
@@ -50042,6 +50094,57 @@
           "quantity": 11.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8946801,
+      "packageCount": 1,
+      "name": "Fade Co | Vape | Live Resin | Gummiez - Vape Cart - 1g",
+      "brand": "Fade Co",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Gummiez",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 71.83,
+        "totalCBD": 0.17,
+        "CBC": 0.65,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.68,
+        "CBGA": 0.0,
+        "CBN": 0.13,
+        "THCA": 0.0,
+        "THCV": 0.27
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.67,
+        "myrcene": 1.97,
+        "alpha-pinene": 0.83,
+        "caryophyllene": 1.96,
+        "beta-pinene": 0.58,
+        "ocimene": 0.25,
+        "limonene": 3.24,
+        "linalool": 1.56,
+        "terpinolene": 0.37
+      },
+      "totalTerps": 13.0,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8946801,
+          "label": "1A4030300004845000041485",
+          "quantity": 20.0,
+          "packagedDate": "2026-04-23",
+          "expirationDate": "2027-04-23"
         }
       ]
     },
