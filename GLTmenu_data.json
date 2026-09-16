@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T22:10:26.321486+00:00",
+  "generated_at": "2026-09-16T22:20:26.822565+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10834,7 +10834,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10873,7 +10873,7 @@
         {
           "id": 8115307,
           "label": "ABC0303000037DD000021011",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-02-24",
           "expirationDate": "2027-01-07"
         }
@@ -26967,6 +26967,55 @@
       ]
     },
     {
+      "id": 7831886,
+      "packageCount": 1,
+      "name": "Apple Z - Usable - 7g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 154.0,
+      "unit": "Grams",
+      "strainName": "Apple Z",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 20.06,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.58,
+        "CBN": 0.0,
+        "THCA": 22.7,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.21,
+        "myrcene": 0.18,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.68,
+        "beta-pinene": 0.03,
+        "caryophyllene-oxide": 0.05,
+        "limonene": 0.21,
+        "linalool": 0.26
+      },
+      "totalTerps": 1.66,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 7831886,
+          "label": "1A4030300000192000020610",
+          "quantity": 154.0,
+          "packagedDate": "2025-12-12",
+          "expirationDate": "2026-10-20"
+        }
+      ]
+    },
+    {
       "id": 8923148,
       "packageCount": 1,
       "name": "BTY OG Garcia Hand Picked - Usable - 3.5 g",
@@ -28563,7 +28612,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 142.77,
+      "quantity": 135.77,
       "unit": "Grams",
       "strainName": "Earthquake #25",
       "strainType": null,
@@ -28596,7 +28645,7 @@
         {
           "id": 8000715,
           "label": "1A40303000000C9000082241",
-          "quantity": 142.77,
+          "quantity": 135.77,
           "packagedDate": "2026-01-28",
           "expirationDate": "2026-11-23"
         }
@@ -30347,7 +30396,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "Ice Cream Banger",
       "strainType": null,
@@ -30380,7 +30429,7 @@
         {
           "id": 8954086,
           "label": "1A403030000025B000086986",
-          "quantity": 35.0,
+          "quantity": 21.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-07-22"
         }
@@ -36654,7 +36703,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 49.0,
+      "quantity": 48.0,
       "unit": "Grams",
       "strainName": "Tropicana Cherry",
       "strainType": null,
@@ -36687,7 +36736,7 @@
         {
           "id": 8926319,
           "label": "1A403030000012D000262971",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         },
@@ -42084,7 +42133,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 34.0,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -42117,7 +42166,7 @@
         {
           "id": 8974567,
           "label": "1A40303000001F5000428934",
-          "quantity": 35.0,
+          "quantity": 34.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -43186,7 +43235,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 265.6,
+      "quantity": 262.1,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -43219,7 +43268,7 @@
         {
           "id": 8858500,
           "label": "1A40303000001F5000416989",
-          "quantity": 265.6,
+          "quantity": 262.1,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -52040,6 +52089,56 @@
       ]
     },
     {
+      "id": 8034200,
+      "packageCount": 1,
+      "name": "HiAF|Disposable Live Terpenes|Dosidos|Vape Cart|1000mg",
+      "brand": "HiAF",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 3.0,
+      "unit": "Each",
+      "strainName": "Dosidos",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.08,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.29,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.52,
+        "myrcene": 0.47,
+        "alpha-pinene": 0.57,
+        "caryophyllene": 1.62,
+        "beta-pinene": 0.26,
+        "ocimene": 0.8,
+        "limonene": 2.42,
+        "linalool": 0.34,
+        "terpinolene": 0.12
+      },
+      "totalTerps": 7.6,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8034200,
+          "label": "1A4030300002009000089127",
+          "quantity": 3.0,
+          "packagedDate": "2026-02-04",
+          "expirationDate": "2026-12-23"
+        }
+      ]
+    },
+    {
       "id": 8490580,
       "packageCount": 1,
       "name": "HiAF|Disposable Live Terpenes|GDP|Vape Cart|1000mg",
@@ -55603,7 +55702,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Tropicana Cookies",
       "strainType": null,
@@ -55638,7 +55737,7 @@
         {
           "id": 8954300,
           "label": "1A4030300002199000062284",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-06-23"
         }
@@ -57029,6 +57128,55 @@
           "label": "1A40303000007D1000102085",
           "quantity": 21.0,
           "packagedDate": "2026-09-04",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8599501,
+      "packageCount": 1,
+      "name": "MD-VP-SOURSTRAWDSL-05DS",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": "MD VP SOURSTRAWDSL 05DS",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.93,
+        "CBC": 0.57,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.55,
+        "CBGA": 0.0,
+        "CBN": 4.31,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.15,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 0.3,
+        "beta-pinene": 0.14,
+        "limonene": 2.14,
+        "linalool": 0.2,
+        "terpinolene": 0.19
+      },
+      "totalTerps": 3.36,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8599501,
+          "label": "1A40303000007D1000080940",
+          "quantity": 5.0,
+          "packagedDate": "2026-06-16",
           "expirationDate": null
         }
       ]
