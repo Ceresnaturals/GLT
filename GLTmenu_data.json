@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T23:40:30.512932+00:00",
+  "generated_at": "2026-09-16T23:50:30.735810+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -16244,6 +16244,63 @@
           "quantity": 16.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-05-18"
+        }
+      ]
+    },
+    {
+      "id": 8793248,
+      "packageCount": 1,
+      "name": "Discos - Strawberry (v2) - Exempt - 40mg - 10",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.67,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 each, 10 servings per package",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8793248,
+          "label": "1A4030300000C83000080431",
+          "quantity": 20.0,
+          "packagedDate": "2026-07-29",
+          "expirationDate": "2027-03-25"
         }
       ]
     },
@@ -33762,7 +33819,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 112.0,
+      "quantity": 108.5,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -33795,7 +33852,7 @@
         {
           "id": 8947055,
           "label": "1A40303000000CB000051188",
-          "quantity": 70.0,
+          "quantity": 66.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         },
@@ -40189,7 +40246,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "Lemon Cherry Gelato",
       "strainType": null,
@@ -40223,7 +40280,7 @@
         {
           "id": 8974466,
           "label": "1A40303000000CB000051665",
-          "quantity": 35.0,
+          "quantity": 31.5,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-02"
         }
@@ -42820,7 +42877,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 112.0,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Disco Diesel",
       "strainType": null,
@@ -42853,7 +42910,7 @@
         {
           "id": 8928782,
           "label": "1A40303000000C9000168541",
-          "quantity": 112.0,
+          "quantity": 84.0,
           "packagedDate": "2026-08-28",
           "expirationDate": null
         }
@@ -60050,7 +60107,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Pink CertZ",
       "strainType": null,
@@ -60084,7 +60141,7 @@
         {
           "id": 8911019,
           "label": "1A4030300000C83000086196",
-          "quantity": 3.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-14"
         }
