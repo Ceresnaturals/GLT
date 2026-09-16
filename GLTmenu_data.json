@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T20:40:26.419625+00:00",
+  "generated_at": "2026-09-16T20:50:26.949500+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -20897,6 +20897,63 @@
       ]
     },
     {
+      "id": 8766944,
+      "packageCount": 1,
+      "name": "In House Peach Mango Fast Acting V2 Gummies-Exempt-40mg-10",
+      "brand": "In House",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.8,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.03,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.5,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8766944,
+          "label": "1A4030300003522000207393",
+          "quantity": 10.0,
+          "packagedDate": "2026-07-23",
+          "expirationDate": "2027-06-15"
+        }
+      ]
+    },
+    {
       "id": 8939232,
       "packageCount": 1,
       "name": "In House Sour Apple Gummies-Edible Product-10mg-10",
@@ -32966,7 +33023,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -33000,7 +33057,7 @@
         {
           "id": 8974565,
           "label": "1A40303000001F5000428931",
-          "quantity": 35.0,
+          "quantity": 31.5,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -41326,7 +41383,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 31.5,
+      "quantity": 29.75,
       "unit": "Grams",
       "strainName": "Patapeake Shortbread",
       "strainType": null,
@@ -41358,7 +41415,7 @@
         {
           "id": 8974366,
           "label": "1A40303000000CB000051668",
-          "quantity": 29.75,
+          "quantity": 28.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-06-03"
         },
@@ -53713,6 +53770,54 @@
           "quantity": 16.0,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-05-12"
+        }
+      ]
+    },
+    {
+      "id": 8766937,
+      "packageCount": 1,
+      "name": "In House Maui Wowie-Vape Cart-.5g",
+      "brand": "In House",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 19.0,
+      "unit": "Each",
+      "strainName": "Maui Wowie",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.81,
+        "CBC": 0.81,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.5,
+        "CBGA": 0.0,
+        "CBN": 0.65,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.2,
+        "myrcene": 0.61,
+        "alpha-pinene": 0.72,
+        "caryophyllene": 0.56,
+        "beta-pinene": 0.18,
+        "limonene": 0.66,
+        "terpinolene": 0.08
+      },
+      "totalTerps": 3.01,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 8766937,
+          "label": "1A4030300003522000207388",
+          "quantity": 19.0,
+          "packagedDate": "2026-07-23",
+          "expirationDate": "2027-03-01"
         }
       ]
     },
