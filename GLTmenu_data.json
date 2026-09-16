@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T19:10:31.830032+00:00",
+  "generated_at": "2026-09-16T19:20:32.107453+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9388,7 +9388,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Swift Lifts",
       "strainType": null,
@@ -9420,7 +9420,7 @@
         {
           "id": 8704640,
           "label": "1A40303000017D5000099621",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-05-14",
           "expirationDate": "2027-05-14"
         }
@@ -20849,7 +20849,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20890,7 +20890,7 @@
         {
           "id": 8939355,
           "label": "1A4030300003522000210574",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-14"
         }
@@ -42894,7 +42894,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 69.39,
+      "quantity": 62.39,
       "unit": "Grams",
       "strainName": "Sour Jack",
       "strainType": null,
@@ -42927,7 +42927,7 @@
         {
           "id": 8752053,
           "label": "1A4030300002009000109420",
-          "quantity": 69.39,
+          "quantity": 62.39,
           "packagedDate": "2026-07-21",
           "expirationDate": null
         }
@@ -51120,7 +51120,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Fruit Gushers",
       "strainType": null,
@@ -51155,7 +51155,7 @@
         {
           "id": 8911022,
           "label": "1A4030300000C83000086195",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-14"
         }
@@ -53830,56 +53830,6 @@
       ]
     },
     {
-      "id": 8462916,
-      "packageCount": 1,
-      "name": "In House Orange Creamsicle-Vape Cart-.5g",
-      "brand": "In House",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 9.0,
-      "unit": "Each",
-      "strainName": "Orange Creamsicle",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 81.47,
-        "CBC": 0.49,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.56,
-        "CBGA": 0.0,
-        "CBN": 0.52,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.24,
-        "humulene": 0.06,
-        "myrcene": 1.04,
-        "alpha-pinene": 0.23,
-        "caryophyllene": 1.58,
-        "beta-pinene": 0.33,
-        "limonene": 2.28,
-        "linalool": 0.57,
-        "terpinolene": 0.05
-      },
-      "totalTerps": 7.0,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8462916,
-          "label": "1A4030300003522000191135",
-          "quantity": 9.0,
-          "packagedDate": "2026-05-14",
-          "expirationDate": "2026-12-18"
-        }
-      ]
-    },
-    {
       "id": 8828742,
       "packageCount": 1,
       "name": "In House Pineapple Express Disposable-Vape Cart-2g",
@@ -55751,56 +55701,6 @@
       ]
     },
     {
-      "id": 8499476,
-      "packageCount": 1,
-      "name": "Legend | Vapes | Live Terpene Cartridges | Permanent Marker - Vape cart - 1g",
-      "brand": "Legend",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Permanent Marker",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 82.48,
-        "CBC": 0.89,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.85,
-        "CBGA": 0.0,
-        "CBN": 0.43,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.38,
-        "myrcene": 0.27,
-        "alpha-pinene": 0.21,
-        "caryophyllene": 1.23,
-        "beta-pinene": 0.12,
-        "caryophyllene-oxide": 0.13,
-        "limonene": 1.18,
-        "linalool": 0.23,
-        "terpinolene": 0.04
-      },
-      "totalTerps": 3.97,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8499476,
-          "label": "1A4030300002199000051396",
-          "quantity": 1.0,
-          "packagedDate": "2025-10-03",
-          "expirationDate": "2026-10-03"
-        }
-      ]
-    },
-    {
       "id": 8954300,
       "packageCount": 1,
       "name": "Legend | Vapes | Live Terpene Cartridges | Tropicana Cookies - Vape cart - 1g",
@@ -56426,7 +56326,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 33.0,
+      "quantity": 32.0,
       "unit": "Each",
       "strainName": "Liquid",
       "strainType": null,
@@ -56460,7 +56360,7 @@
         {
           "id": 8582090,
           "label": "1A4030300003D55000006198",
-          "quantity": 33.0,
+          "quantity": 32.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-02-21"
         }
