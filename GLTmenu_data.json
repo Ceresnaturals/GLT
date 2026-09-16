@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T15:30:25.485151+00:00",
+  "generated_at": "2026-09-16T15:40:27.177025+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1845,7 +1845,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Blue Beach Haze",
       "strainType": null,
@@ -1879,7 +1879,7 @@
         {
           "id": 8755242,
           "label": "ABC0303000037DD000024742",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-04-06"
         }
@@ -9833,7 +9833,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "White Mule",
       "strainType": null,
@@ -9867,7 +9867,7 @@
         {
           "id": 8563268,
           "label": "ABC0303000037DD000023761",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-06-08",
           "expirationDate": "2027-01-12"
         }
@@ -60813,6 +60813,57 @@
       ]
     },
     {
+      "id": 8548525,
+      "packageCount": 1,
+      "name": "RO-BDTCart-.5g-BubbaKush-I-MD (260526MED100880)-Vape",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "RO BDTCart . BubbaKush I MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.5,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.91,
+        "CBGA": 0.0,
+        "CBN": 0.54,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.2,
+        "myrcene": 0.72,
+        "alpha-pinene": 0.14,
+        "caryophyllene": 1.05,
+        "beta-pinene": 0.17,
+        "ocimene": 0.13,
+        "limonene": 0.29,
+        "linalool": 0.2,
+        "terpinolene": 1.47,
+        "nerolidol": 0.26
+      },
+      "totalTerps": 4.63,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8548525,
+          "label": "1A403030000238D000101481",
+          "quantity": 12.0,
+          "packagedDate": "2026-06-04",
+          "expirationDate": "2027-05-31"
+        }
+      ]
+    },
+    {
       "id": 8968486,
       "packageCount": 1,
       "name": "RO-BDTCart-.5g-GG#4-H-MD (260622MED103390)-Vape",
@@ -61669,7 +61720,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Orange Crush",
       "strainType": null,
@@ -61700,7 +61751,7 @@
         {
           "id": 8940646,
           "label": "1A4030300000C83000086773",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-06-22"
         }
