@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T21:00:27.934217+00:00",
+  "generated_at": "2026-09-16T21:10:29.115675+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -30394,7 +30394,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 49.0,
       "unit": "Grams",
@@ -32139,7 +32139,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 80.5,
+      "quantity": 77.0,
       "unit": "Grams",
       "strainName": "Double Krush",
       "strainType": null,
@@ -32173,7 +32173,7 @@
         {
           "id": 8939185,
           "label": "1A4030300003521000056675",
-          "quantity": 80.5,
+          "quantity": 77.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-12"
         }
@@ -42529,7 +42529,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 33.0,
+      "quantity": 31.0,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -42563,7 +42563,7 @@
         {
           "id": 8974468,
           "label": "1A40303000000CB000051669",
-          "quantity": 33.0,
+          "quantity": 31.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-01"
         }
@@ -42886,7 +42886,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 51.89,
+      "quantity": 44.89,
       "unit": "Grams",
       "strainName": "Sour Jack",
       "strainType": null,
@@ -42919,7 +42919,7 @@
         {
           "id": 8752053,
           "label": "1A4030300002009000109420",
-          "quantity": 51.89,
+          "quantity": 44.89,
           "packagedDate": "2026-07-21",
           "expirationDate": null
         }
@@ -43285,7 +43285,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 314.6,
+      "quantity": 300.6,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -43318,7 +43318,7 @@
         {
           "id": 8858500,
           "label": "1A40303000001F5000416989",
-          "quantity": 314.6,
+          "quantity": 300.6,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -51315,6 +51315,56 @@
           "quantity": 15.0,
           "packagedDate": "2026-02-24",
           "expirationDate": "2026-12-26"
+        }
+      ]
+    },
+    {
+      "id": 8091560,
+      "packageCount": 1,
+      "name": "GG # 4-Vape Cart 1g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 21.0,
+      "unit": "Each",
+      "strainName": "GG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.39,
+        "CBC": 0.48,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.5,
+        "CBGA": 0.0,
+        "CBN": 1.54,
+        "THCA": 0.0,
+        "THCV": 0.57
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.15,
+        "humulene": 0.24,
+        "myrcene": 0.45,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.86,
+        "beta-pinene": 0.11,
+        "limonene": 0.83,
+        "linalool": 0.44,
+        "nerolidol": 0.17
+      },
+      "totalTerps": 3.85,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8091560,
+          "label": "1A403030000070A000031929",
+          "quantity": 21.0,
+          "packagedDate": "2026-02-17",
+          "expirationDate": null
         }
       ]
     },
