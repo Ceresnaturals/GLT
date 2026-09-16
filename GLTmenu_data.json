@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T16:10:28.722788+00:00",
+  "generated_at": "2026-09-16T16:20:30.244562+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -6629,7 +6629,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Bapple Fritz",
       "strainType": null,
@@ -6659,7 +6659,7 @@
         {
           "id": 8939362,
           "label": "1A4030300003522000210581",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-05-12"
         }
@@ -16124,7 +16124,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16165,7 +16165,7 @@
         {
           "id": 8235240,
           "label": "1A4030300000C83000061170",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-03-24",
           "expirationDate": "2026-10-27"
         }
@@ -37613,7 +37613,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 40.0,
+      "quantity": 39.0,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -37647,7 +37647,7 @@
         {
           "id": 8974364,
           "label": "1A40303000000CB000051664",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-21"
         },
@@ -41486,7 +41486,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Grams",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -41521,7 +41521,7 @@
         {
           "id": 8947062,
           "label": "1A40303000000CB000051194",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         },
@@ -44422,7 +44422,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 8.0,
       "unit": "Each",
@@ -52958,8 +52958,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 14.0,
       "unit": "Each",
@@ -53940,52 +53939,6 @@
           "quantity": 2.0,
           "packagedDate": "2026-04-02",
           "expirationDate": "2027-02-17"
-        }
-      ]
-    },
-    {
-      "id": 8689762,
-      "packageCount": 1,
-      "name": "In House Mango Sunrise Disposable-Vape Cart-.5g",
-      "brand": "In House",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 14.0,
-      "unit": "Each",
-      "strainName": "Mango Sunrise",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 81.41,
-        "CBC": 0.84,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.95,
-        "CBGA": 0.0,
-        "CBN": 0.74,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "myrcene": 0.58,
-        "alpha-pinene": 0.33,
-        "caryophyllene": 0.29,
-        "beta-pinene": 0.14,
-        "limonene": 0.17
-      },
-      "totalTerps": 1.51,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8689762,
-          "label": "1A4030300003522000201314",
-          "quantity": 14.0,
-          "packagedDate": "2026-07-07",
-          "expirationDate": "2027-05-12"
         }
       ]
     },
@@ -62010,7 +61963,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 5.0,
       "unit": "Each",
