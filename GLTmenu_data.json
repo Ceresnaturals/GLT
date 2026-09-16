@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T23:20:30.896436+00:00",
+  "generated_at": "2026-09-16T23:30:29.605588+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -693,7 +693,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "SuitandTie",
       "strainType": "Hybrid",
@@ -726,7 +726,7 @@
         {
           "id": 8289587,
           "label": "1A403030000238D000095889",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-04-06",
           "expirationDate": "2027-03-29"
         }
@@ -3342,7 +3342,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Grapes & Cream",
       "strainType": null,
@@ -3378,7 +3378,7 @@
         {
           "id": 8890382,
           "label": "1A40303000001F5000420190",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-06-30"
         }
@@ -26925,7 +26925,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 44.0,
+      "quantity": 43.0,
       "unit": "Grams",
       "strainName": "Apollo 22",
       "strainType": null,
@@ -26960,7 +26960,7 @@
         {
           "id": 8091552,
           "label": "1A4030300000709000047807",
-          "quantity": 44.0,
+          "quantity": 43.0,
           "packagedDate": "2026-02-17",
           "expirationDate": null
         }
@@ -37459,7 +37459,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 32.0,
+      "quantity": 31.0,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -37493,7 +37493,7 @@
         {
           "id": 8974364,
           "label": "1A40303000000CB000051664",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-21"
         },
@@ -40786,7 +40786,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Grams",
       "strainName": "Chocolatina",
       "strainType": null,
@@ -40820,7 +40820,7 @@
         {
           "id": 8939204,
           "label": "1A4030300003521000056677",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-20"
         }
@@ -41721,8 +41721,8 @@
       ]
     },
     {
-      "id": 8911103,
-      "packageCount": 2,
+      "id": 8695965,
+      "packageCount": 1,
       "name": "Red Zushi PRJx2 (Two 0.5g Joints) 1.0g",
       "brand": null,
       "category": "Pre-Roll",
@@ -41730,45 +41730,37 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.0,
+      "quantity": 30.0,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 27.25,
+        "totalTHC": 22.21,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.09,
-        "CBGA": 1.53,
+        "CBG": 0.0,
+        "CBGA": 1.37,
         "CBN": 0.0,
-        "THCA": 30.88,
-        "THCV": 0.06
+        "THCA": 25.14,
+        "THCV": 0.05
       },
       "dose": null,
       "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.13,
-        "myrcene": 0.26,
+        "humulene": 0.11,
+        "myrcene": 0.17,
         "alpha-pinene": 0.05,
-        "caryophyllene": 0.51,
+        "caryophyllene": 0.37,
         "eudesmol": 0.09,
-        "beta-pinene": 0.07,
-        "limonene": 0.62,
-        "linalool": 0.15,
-        "nerolidol": 0.05
+        "beta-pinene": 0.08,
+        "limonene": 0.66,
+        "linalool": 0.12,
+        "nerolidol": 0.07
       },
-      "totalTerps": 2.18,
+      "totalTerps": 1.91,
       "dominantTerpene": "limonene",
       "packages": [
-        {
-          "id": 8911103,
-          "label": "1A40303000000CB000050580",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-25",
-          "expirationDate": "2027-07-21"
-        },
         {
           "id": 8695965,
           "label": "1A40303000000CB000046444",
@@ -42479,7 +42471,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.0,
+      "quantity": 30.0,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -42513,7 +42505,7 @@
         {
           "id": 8974468,
           "label": "1A40303000000CB000051669",
-          "quantity": 31.0,
+          "quantity": 30.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-01"
         }
