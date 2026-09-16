@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T17:00:34.627190+00:00",
+  "generated_at": "2026-09-16T17:10:27.526719+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4602,57 +4602,6 @@
           "quantity": 19.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-02-24"
-        }
-      ]
-    },
-    {
-      "id": 8890310,
-      "packageCount": 1,
-      "name": "Legend | Infused Flower | Infused Ground Flower | Cosmic Balance Hybrid Blend - Usable - 7g",
-      "brand": "Legend",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.0,
-      "unit": "Each",
-      "strainName": "Cosmic Balance Blend",
-      "strainType": "Hybrid",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 43.4,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.46,
-        "CBN": 0.0,
-        "THCA": 38.65,
-        "THCV": 0.14
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.08,
-        "humulene": 0.13,
-        "myrcene": 0.14,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.38,
-        "beta-pinene": 0.05,
-        "ocimene": 0.08,
-        "limonene": 0.18,
-        "linalool": 0.1,
-        "terpinolene": 0.21
-      },
-      "totalTerps": 1.51,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8890310,
-          "label": "1A4030300002199000061272",
-          "quantity": 3.0,
-          "packagedDate": "2026-06-03",
-          "expirationDate": null
         }
       ]
     },
@@ -16350,120 +16299,6 @@
       ]
     },
     {
-      "id": 8793248,
-      "packageCount": 1,
-      "name": "Discos - Strawberry (v2) - Exempt - 40mg - 10",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 20.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.67,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 each, 10 servings per package",
-        "totalThcMg": 400.0,
-        "thcMgPerServing": 40.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8793248,
-          "label": "1A4030300000C83000080431",
-          "quantity": 20.0,
-          "packagedDate": "2026-07-29",
-          "expirationDate": "2027-03-25"
-        }
-      ]
-    },
-    {
-      "id": 8793070,
-      "packageCount": 1,
-      "name": "Discos - Tropical Tangerine (v2) - Edible product - 10mg - 10",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 22.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.18,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 each, 10 servings per package",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8793070,
-          "label": "1A4030300000C83000080432",
-          "quantity": 22.0,
-          "packagedDate": "2026-07-29",
-          "expirationDate": "2027-05-26"
-        }
-      ]
-    },
-    {
       "id": 8851374,
       "packageCount": 1,
       "name": "Discos - Tropical Tangerine (v2) - Exempt - 40mg - 10",
@@ -17618,7 +17453,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 16.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17666,7 +17501,7 @@
         {
           "id": 8516272,
           "label": "1A403030000012E000162105",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-05-27",
           "expirationDate": "2026-11-09"
         }
@@ -26763,58 +26598,6 @@
       ]
     },
     {
-      "id": 8894097,
-      "packageCount": 1,
-      "name": "(the) Essence Js - B52 Bomber - Usable - 2.5g 5pk",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 5.0,
-      "unit": "Grams",
-      "strainName": "B52 Bomber",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 23.52,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.01,
-        "CBN": 0.0,
-        "THCA": 24.39,
-        "THCV": 0.67
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.06,
-        "myrcene": 0.71,
-        "alpha-pinene": 0.12,
-        "caryophyllene": 0.16,
-        "eudesmol": 0.09,
-        "beta-pinene": 0.08,
-        "ocimene": 0.23,
-        "limonene": 0.08,
-        "linalool": 0.08,
-        "terpinolene": 0.52
-      },
-      "totalTerps": 2.33,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8894097,
-          "label": "1A4030300003A3C000089887",
-          "quantity": 5.0,
-          "packagedDate": "2026-07-02",
-          "expirationDate": "2027-07-02"
-        }
-      ]
-    },
-    {
       "id": 8490477,
       "packageCount": 1,
       "name": "1937|Shake|Blockberry|Usable|7.0g",
@@ -27066,57 +26849,6 @@
           "quantity": 49.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-12"
-        }
-      ]
-    },
-    {
-      "id": 8091552,
-      "packageCount": 1,
-      "name": "Apollo 22-PR-0.5gx2",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 45.0,
-      "unit": "Grams",
-      "strainName": "Apollo 22",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 21.98,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.68,
-        "CBN": 0.0,
-        "THCA": 24.36,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.11,
-        "myrcene": 0.43,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 0.4,
-        "beta-pinene": 0.07,
-        "caryophyllene-oxide": 0.05,
-        "limonene": 0.48,
-        "linalool": 0.22,
-        "terpinolene": 0.01
-      },
-      "totalTerps": 2.06,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8091552,
-          "label": "1A4030300000709000047807",
-          "quantity": 45.0,
-          "packagedDate": "2026-02-17",
-          "expirationDate": null
         }
       ]
     },
@@ -28163,7 +27895,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 52.5,
+      "quantity": 49.0,
       "unit": "Grams",
       "strainName": "41 CHERRY CHOCOLATE WIDOW",
       "strainType": null,
@@ -28198,7 +27930,7 @@
         {
           "id": 8858125,
           "label": "1A40303000039D1000091576",
-          "quantity": 52.5,
+          "quantity": 49.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -30739,106 +30471,6 @@
       ]
     },
     {
-      "id": 8774413,
-      "packageCount": 1,
-      "name": "Long Lifts - Starkiller - Usable - 1g",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 6.0,
-      "unit": "Grams",
-      "strainName": "Starkiller",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 27.12,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.83,
-        "CBN": 0.0,
-        "THCA": 29.44,
-        "THCV": 0.13
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.11,
-        "humulene": 0.16,
-        "myrcene": 0.47,
-        "alpha-pinene": 0.07,
-        "caryophyllene": 0.55,
-        "beta-pinene": 0.1,
-        "limonene": 0.78,
-        "linalool": 0.14,
-        "terpinolene": 0.03
-      },
-      "totalTerps": 2.67,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8774413,
-          "label": "1A4030300003A3C000087019",
-          "quantity": 6.0,
-          "packagedDate": "2026-06-29",
-          "expirationDate": "2027-06-29"
-        }
-      ]
-    },
-    {
-      "id": 8288022,
-      "packageCount": 1,
-      "name": "Long Lifts - Torrone #2 - Usable - 1g",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 6.0,
-      "unit": "Grams",
-      "strainName": "Torrone #2",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 26.6,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.48,
-        "CBN": 0.0,
-        "THCA": 29.91,
-        "THCV": 0.16
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.15,
-        "humulene": 0.19,
-        "myrcene": 0.24,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 0.58,
-        "beta-pinene": 0.04,
-        "ocimene": 0.03,
-        "limonene": 0.32,
-        "linalool": 0.09
-      },
-      "totalTerps": 1.76,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8288022,
-          "label": "1A4030300003A3C000077505",
-          "quantity": 6.0,
-          "packagedDate": "2026-03-21",
-          "expirationDate": "2027-03-21"
-        }
-      ]
-    },
-    {
       "id": 8874097,
       "packageCount": 1,
       "name": "Long Lifts - Tropical Fusion - Usable - 1g",
@@ -32091,7 +31723,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 143.5,
+      "quantity": 140.0,
       "unit": "Grams",
       "strainName": "Melonade",
       "strainType": null,
@@ -32125,7 +31757,7 @@
         {
           "id": 8208833,
           "label": "1A40303000000C9000140846",
-          "quantity": 143.5,
+          "quantity": 140.0,
           "packagedDate": "2026-03-18",
           "expirationDate": "2027-02-03"
         }
@@ -37462,7 +37094,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 13.0,
       "unit": "Grams",
@@ -38697,7 +38329,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 4.0,
       "unit": "Each",
@@ -38839,7 +38471,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 6.0,
       "unit": "Each",
@@ -40096,7 +39728,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 26.25,
       "unit": "Grams",
@@ -40448,7 +40080,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 122.5,
       "unit": "Grams",
@@ -43048,7 +42680,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 79.89,
+      "quantity": 76.39,
       "unit": "Grams",
       "strainName": "Sour Jack",
       "strainType": null,
@@ -43081,7 +42713,7 @@
         {
           "id": 8752053,
           "label": "1A4030300002009000109420",
-          "quantity": 79.89,
+          "quantity": 76.39,
           "packagedDate": "2026-07-21",
           "expirationDate": null
         }
