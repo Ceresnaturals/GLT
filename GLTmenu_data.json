@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T16:20:30.244562+00:00",
+  "generated_at": "2026-09-16T16:30:26.222934+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2935,7 +2935,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 32.0,
+      "quantity": 31.0,
       "unit": "Each",
       "strainName": "Forbidden Rainbow Guava Cake",
       "strainType": null,
@@ -2971,7 +2971,7 @@
         {
           "id": 8974355,
           "label": "1A4030300000C83000087376",
-          "quantity": 32.0,
+          "quantity": 31.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-07"
         }
@@ -9935,7 +9935,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Z Cream",
       "strainType": null,
@@ -9969,7 +9969,7 @@
         {
           "id": 8947319,
           "label": "1A4030300000C83000086907",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-25"
         }
@@ -20666,7 +20666,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20707,7 +20707,7 @@
         {
           "id": 8882417,
           "label": "1A4030300003522000202261",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-27"
         }
@@ -21477,7 +21477,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21518,7 +21518,7 @@
         {
           "id": 8828747,
           "label": "1A4030300003522000195383",
-          "quantity": 16.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-24"
         }
@@ -21648,7 +21648,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21687,7 +21687,7 @@
         {
           "id": 8828687,
           "label": "1A4030300003522000195384",
-          "quantity": 13.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-05-16"
         }
@@ -30748,7 +30748,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Grams",
       "strainName": "Starkiller",
       "strainType": null,
@@ -30782,7 +30782,7 @@
         {
           "id": 8774413,
           "label": "1A4030300003A3C000087019",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-06-29",
           "expirationDate": "2027-06-29"
         }
@@ -34029,7 +34029,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 30.0,
+      "quantity": 27.5,
       "unit": "Grams",
       "strainName": "Blueberry Muffins",
       "strainType": null,
@@ -34065,7 +34065,7 @@
         {
           "id": 8954212,
           "label": "1A4030300003A3C000090437",
-          "quantity": 30.0,
+          "quantity": 27.5,
           "packagedDate": "2026-08-14",
           "expirationDate": "2027-08-14"
         }
@@ -53943,6 +53943,52 @@
       ]
     },
     {
+      "id": 8689762,
+      "packageCount": 1,
+      "name": "In House Mango Sunrise Disposable-Vape Cart-.5g",
+      "brand": "In House",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 14.0,
+      "unit": "Each",
+      "strainName": "Mango Sunrise",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 81.41,
+        "CBC": 0.84,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.95,
+        "CBGA": 0.0,
+        "CBN": 0.74,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.58,
+        "alpha-pinene": 0.33,
+        "caryophyllene": 0.29,
+        "beta-pinene": 0.14,
+        "limonene": 0.17
+      },
+      "totalTerps": 1.51,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8689762,
+          "label": "1A4030300003522000201314",
+          "quantity": 14.0,
+          "packagedDate": "2026-07-07",
+          "expirationDate": "2027-05-12"
+        }
+      ]
+    },
+    {
       "id": 8518537,
       "packageCount": 1,
       "name": "In House Mango Sunrise-Vape Cart-1g",
@@ -54096,7 +54142,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": null,
@@ -54129,7 +54175,7 @@
         {
           "id": 8828742,
           "label": "1A4030300003522000195381",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-02-22"
         }
