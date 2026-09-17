@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:40:27.483007+00:00",
+  "generated_at": "2026-09-17T23:50:27.110322+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11297,7 +11297,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11338,7 +11338,7 @@
         {
           "id": 8676361,
           "label": "1A40303000003EA000197283",
-          "quantity": 7.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-06-11"
         }
@@ -27196,7 +27196,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 121.77,
+      "quantity": 118.27,
       "unit": "Grams",
       "strainName": "Earthquake #25",
       "strainType": null,
@@ -27229,7 +27229,7 @@
         {
           "id": 8000715,
           "label": "1A40303000000C9000082241",
-          "quantity": 121.77,
+          "quantity": 118.27,
           "packagedDate": "2026-01-28",
           "expirationDate": "2026-11-23"
         }
@@ -36013,7 +36013,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 28.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -36049,7 +36049,7 @@
         {
           "id": 8981915,
           "label": "1A403030000012D000266245",
-          "quantity": 28.0,
+          "quantity": 26.0,
           "packagedDate": "2026-09-10",
           "expirationDate": null
         }
@@ -56299,55 +56299,6 @@
           "quantity": 1.0,
           "packagedDate": "2026-08-03",
           "expirationDate": "2027-06-23"
-        }
-      ]
-    },
-    {
-      "id": 8883698,
-      "packageCount": 1,
-      "name": "Rove | Live Resin Diamonds Vape Reload | Fruit Punch - S | 1.0g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Fruit Punch",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 90.73,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.672,
-        "CBGA": 0.0,
-        "CBN": 0.365,
-        "THCA": 0.0,
-        "THCV": 0.948
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.215,
-        "humulene": 0.0291,
-        "myrcene": 0.0218,
-        "caryophyllene": 0.0621,
-        "caryophyllene-oxide": 0.0299,
-        "limonene": 0.123,
-        "linalool": 0.0513,
-        "nerolidol": 0.0344
-      },
-      "totalTerps": 0.593,
-      "dominantTerpene": "bisabolol",
-      "packages": [
-        {
-          "id": 8883698,
-          "label": "1A4030300000C83000085448",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-19",
-          "expirationDate": "2027-06-17"
         }
       ]
     },
