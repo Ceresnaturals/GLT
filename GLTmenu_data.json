@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T19:40:31.862706+00:00",
+  "generated_at": "2026-09-17T19:50:31.765607+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10300,7 +10300,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10341,7 +10341,7 @@
         {
           "id": 8947753,
           "label": "1A40303000001F5000425697",
-          "quantity": 18.0,
+          "quantity": 15.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-14"
         }
@@ -10401,63 +10401,6 @@
           "quantity": 17.0,
           "packagedDate": "2026-07-08",
           "expirationDate": "2027-05-05"
-        }
-      ]
-    },
-    {
-      "id": 8920193,
-      "packageCount": 1,
-      "name": "Keef - Orange Kush - Liquid Edible - 10mg - 1",
-      "brand": null,
-      "category": "Drink",
-      "metrcCategory": "Infused Liquid Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.003,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Can",
-        "totalThcMg": 10.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8920193,
-          "label": "1A40303000001F5000423548",
-          "quantity": 3.0,
-          "packagedDate": "2026-08-26",
-          "expirationDate": null
         }
       ]
     },
@@ -11729,7 +11672,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11770,7 +11713,7 @@
         {
           "id": 8939323,
           "label": "1A4030300003522000210558",
-          "quantity": 7.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-02"
         }
@@ -15575,7 +15518,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 31.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15623,7 +15566,7 @@
         {
           "id": 8631018,
           "label": "1A4030300000C83000064232",
-          "quantity": 6.0,
+          "quantity": 1.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-05-01"
         }
@@ -20618,28 +20561,29 @@
       ]
     },
     {
-      "id": 8341769,
-      "packageCount": 1,
+      "id": 8996311,
+      "packageCount": 2,
       "name": "In House Sour Pineapple Gummies-Exempt-40mg-10",
       "brand": "In House",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.749,
-        "CBC": 0.005,
+        "totalTHC": 0.764,
+        "CBC": 0.006,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.036,
+        "CBG": 0.029,
         "CBGA": 0.0,
-        "CBN": 0.008,
+        "CBN": 0.011,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -20648,12 +20592,12 @@
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "CBC": 0.25,
+          "CBC": 0.3,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 1.8,
+          "CBG": 1.45,
           "CBGA": 0.0,
-          "CBN": 0.4,
+          "CBN": 0.55,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -20663,6 +20607,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8996311,
+          "label": "1A4030300003522000211323",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-04-09"
+        },
         {
           "id": 8341769,
           "label": "1A4030300003522000181363",
@@ -26646,7 +26597,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 140.0,
       "unit": "Grams",
@@ -30395,9 +30346,9 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 70.0,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Grape Bubblegum",
       "strainType": null,
@@ -30433,7 +30384,7 @@
         {
           "id": 8954211,
           "label": "1A4030300003A3C000090436",
-          "quantity": 70.0,
+          "quantity": 56.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-08-26"
         }
@@ -30449,7 +30400,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 77.0,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "Guerilla Grape",
       "strainType": null,
@@ -30483,7 +30434,7 @@
         {
           "id": 8977232,
           "label": "1A4030300003A3C000090731",
-          "quantity": 77.0,
+          "quantity": 70.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-09-01"
         }
@@ -31773,7 +31724,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Afternoon Delight Big Dogs",
       "strainType": null,
@@ -31806,7 +31757,7 @@
         {
           "id": 8518003,
           "label": "1A40303000003EA000187073",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-01-29"
         }
@@ -31872,7 +31823,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Animal Face",
       "strainType": null,
@@ -31905,7 +31856,7 @@
         {
           "id": 8746343,
           "label": "1A40303000003EA000201210",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-06-12"
         }
@@ -31956,6 +31907,55 @@
           "quantity": 12.0,
           "packagedDate": "2026-06-24",
           "expirationDate": "2027-05-11"
+        }
+      ]
+    },
+    {
+      "id": 8369450,
+      "packageCount": 1,
+      "name": "Animal Face Big Dogs - Dogwalkers (Sit) - Usable - 0.75g",
+      "brand": "Dogwalkers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 3.75,
+      "unit": "Grams",
+      "strainName": "Animal Face",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.04,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.13,
+        "CBGA": 1.37,
+        "CBN": 0.0,
+        "THCA": 29.95,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.24,
+        "myrcene": 0.41,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.91,
+        "beta-pinene": 0.07,
+        "limonene": 0.49,
+        "linalool": 0.43
+      },
+      "totalTerps": 2.89,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8369450,
+          "label": "1A40303000003EA000168465",
+          "quantity": 3.75,
+          "packagedDate": "2026-04-23",
+          "expirationDate": "2027-03-05"
         }
       ]
     },
@@ -47182,7 +47182,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Grape Stomper",
       "strainType": null,
@@ -47215,7 +47215,7 @@
         {
           "id": 8966484,
           "label": "1A403030000012E000192147",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-07-31"
         }
@@ -52531,7 +52531,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "White Widow",
       "strainType": null,
@@ -52566,7 +52566,7 @@
         {
           "id": 8945081,
           "label": "1A403030000283D000060838",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-26"
         }
@@ -54212,7 +54212,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Passion Fruit",
       "strainType": null,
@@ -54249,7 +54249,7 @@
         {
           "id": 8923146,
           "label": "1A403030000012E000187014",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-05-08"
         }
@@ -55057,7 +55057,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "RO BDTCart . GranddaddyPurpl I MD",
       "strainType": null,
@@ -55089,7 +55089,7 @@
         {
           "id": 8586455,
           "label": "1A403030000238D000102312",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-06-12",
           "expirationDate": "2027-06-04"
         }
@@ -55608,7 +55608,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Classics",
       "strainType": null,
@@ -55643,7 +55643,7 @@
         {
           "id": 8811769,
           "label": "1A4030300000C83000079097",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-03",
           "expirationDate": "2027-07-06"
         }
