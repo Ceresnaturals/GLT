@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T17:30:27.671243+00:00",
+  "generated_at": "2026-09-17T17:40:29.221273+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7746,7 +7746,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "RO CrdShatter ThunderPunch S MD",
       "strainType": null,
@@ -7780,7 +7780,7 @@
         {
           "id": 8968491,
           "label": "1A403030000238D000107267",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-11"
         }
@@ -10998,7 +10998,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11039,7 +11039,7 @@
         {
           "id": 8944207,
           "label": "1A40303000003EA000264672",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-08"
         }
@@ -13699,7 +13699,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13754,7 +13754,7 @@
         {
           "id": 8550399,
           "label": "1A403030000012D000236508",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-06-04",
           "expirationDate": null
         }
@@ -16976,8 +16976,8 @@
       ]
     },
     {
-      "id": 8966197,
-      "packageCount": 2,
+      "id": 8755819,
+      "packageCount": 1,
       "name": "Do Drop 2:2:1 CBD:CBG:THC Lemon Citrus Gummies-Edible Product-10mg-10",
       "brand": null,
       "category": "Edible",
@@ -16985,18 +16985,18 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 14.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.34,
-        "totalCBD": 0.68,
+        "totalTHC": 0.32,
+        "totalCBD": 0.65,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.7,
+        "CBG": 0.66,
         "CBGA": 0.0,
         "CBN": 0.0,
         "THCA": 0.0,
@@ -17007,11 +17007,11 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 20.4,
+          "totalCBD": 19.5,
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 21.0,
+          "CBG": 19.8,
           "CBGA": 0.0,
           "CBN": 0.0,
           "THCA": 0.0,
@@ -17023,13 +17023,6 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
-        {
-          "id": 8966197,
-          "label": "1A403030000012E000192656",
-          "quantity": 12.0,
-          "packagedDate": "2026-09-08",
-          "expirationDate": "2027-04-23"
-        },
         {
           "id": 8755819,
           "label": "1A403030000012E000176841",
@@ -25710,7 +25703,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 73.5,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "YAHE",
       "strainType": null,
@@ -25745,7 +25738,7 @@
         {
           "id": 8982674,
           "label": "1A40303000000CD000079813",
-          "quantity": 73.5,
+          "quantity": 70.0,
           "packagedDate": "2026-09-10",
           "expirationDate": null
         }
@@ -51843,7 +51836,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Grape Ice OG",
       "strainType": null,
@@ -51878,7 +51871,7 @@
         {
           "id": 8885946,
           "label": "1A403030000283D000057730",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-05-21"
         }
@@ -51944,7 +51937,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "White Widow",
       "strainType": null,
@@ -51979,7 +51972,7 @@
         {
           "id": 8945081,
           "label": "1A403030000283D000060838",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-26"
         }
@@ -52529,55 +52522,6 @@
           "quantity": 1.0,
           "packagedDate": "2026-01-06",
           "expirationDate": "2026-10-20"
-        }
-      ]
-    },
-    {
-      "id": 8040161,
-      "packageCount": 1,
-      "name": "NH Double Krush Live Resin Disp-Vape Cart-.5g",
-      "brand": "NH",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.0,
-      "unit": "Each",
-      "strainName": "Double Krush Disp",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 79.32,
-        "CBC": 0.53,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.38,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.41,
-        "humulene": 0.45,
-        "myrcene": 2.35,
-        "alpha-pinene": 0.28,
-        "caryophyllene": 1.59,
-        "limonene": 1.57,
-        "linalool": 0.94,
-        "terpinolene": 0.05
-      },
-      "totalTerps": 8.21,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8040161,
-          "label": "1A4030300003522000169434",
-          "quantity": 3.0,
-          "packagedDate": "2026-02-05",
-          "expirationDate": "2027-01-10"
         }
       ]
     },
