@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:40:27.741155+00:00",
+  "generated_at": "2026-09-17T21:50:28.149251+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4381,7 +4381,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Lemon Funk",
       "strainType": null,
@@ -4416,7 +4416,7 @@
         {
           "id": 8785081,
           "label": "ABC0303000037DD000024830",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-06-29"
         }
@@ -14104,6 +14104,61 @@
       ]
     },
     {
+      "id": 8926324,
+      "packageCount": 1,
+      "name": "Curio Wellness Mango Ginger 10mg Chews-Edible Product-10mg-10",
+      "brand": "Curio Wellness",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.244,
+        "CBC": 0.004,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.008,
+        "CBGA": 0.0,
+        "CBN": 0.009,
+        "THCA": 0.0,
+        "THCV": 0.003
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.16,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.32,
+          "CBGA": 0.0,
+          "CBN": 0.36,
+          "THCA": 0.0,
+          "THCV": 0.12
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8926324,
+          "label": "1A403030000012D000262979",
+          "quantity": 20.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8828990,
       "packageCount": 1,
       "name": "Curio Wellness Mango Ginger 40mg Chews-Exempt-40mg-10",
@@ -18070,7 +18125,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18109,7 +18164,7 @@
         {
           "id": 8958877,
           "label": "1A40303000017D5000105507",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-07-28"
         }
@@ -28635,6 +28690,56 @@
       ]
     },
     {
+      "id": 8890135,
+      "packageCount": 1,
+      "name": "Legend | Flower | Buds | Lemon Splash - Usable - 3.5g",
+      "brand": "Legend",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 42.0,
+      "unit": "Grams",
+      "strainName": "Lemon Splash",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 20.32,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.23,
+        "CBGA": 0.69,
+        "CBN": 0.0,
+        "THCA": 22.62,
+        "THCV": 0.05
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.12,
+        "myrcene": 0.36,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.45,
+        "eudesmol": 0.16,
+        "beta-pinene": 0.06,
+        "limonene": 0.49,
+        "linalool": 0.19
+      },
+      "totalTerps": 2.19,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8890135,
+          "label": "1A403030000025B000084392",
+          "quantity": 42.0,
+          "packagedDate": "2026-06-16",
+          "expirationDate": "2027-06-11"
+        }
+      ]
+    },
+    {
       "id": 8820132,
       "packageCount": 1,
       "name": "Legend | Flower | Buds | White Truffle - Usable - 14g",
@@ -31445,7 +31550,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.5,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Wingsuit",
       "strainType": null,
@@ -31479,7 +31584,7 @@
         {
           "id": 8966591,
           "label": "1A403030000012E000190898",
-          "quantity": 45.5,
+          "quantity": 42.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-06-25"
         }
@@ -33181,7 +33286,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Grams",
       "strainName": "Alien Burger",
       "strainType": null,
@@ -33215,7 +33320,7 @@
         {
           "id": 8952843,
           "label": "1A403030000012D000265626",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -33330,7 +33435,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Grams",
       "strainName": "Carolina",
       "strainType": null,
@@ -33364,7 +33469,7 @@
         {
           "id": 8952600,
           "label": "1A403030000012D000265623",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -38831,7 +38936,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 44.89,
+      "quantity": 9.89,
       "unit": "Grams",
       "strainName": "Sour Jack",
       "strainType": null,
@@ -38864,7 +38969,7 @@
         {
           "id": 8752053,
           "label": "1A4030300002009000109420",
-          "quantity": 44.89,
+          "quantity": 9.89,
           "packagedDate": "2026-07-21",
           "expirationDate": null
         }
@@ -39165,6 +39270,55 @@
           "label": "1A40303000040D9000005970",
           "quantity": 75.0,
           "packagedDate": "2026-09-01",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8858500,
+      "packageCount": 1,
+      "name": "Shake/Trim - Sour Diesel",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 167.6,
+      "unit": "Grams",
+      "strainName": "Sour Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.29,
+        "totalCBD": 0.16,
+        "CBDA": 0.02,
+        "CBG": 0.68,
+        "CBN": 0.03,
+        "THCA": 28.2
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.04,
+        "humulene": 0.32,
+        "myrcene": 0.62,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 1.02,
+        "eudesmol": 0.01,
+        "beta-pinene": 0.05,
+        "limonene": 0.33,
+        "linalool": 0.03,
+        "terpinolene": 0.01,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.5,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8858500,
+          "label": "1A40303000001F5000416989",
+          "quantity": 167.6,
+          "packagedDate": "2026-08-13",
           "expirationDate": null
         }
       ]
@@ -47206,7 +47360,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Grape Stomper",
       "strainType": null,
@@ -47239,7 +47393,7 @@
         {
           "id": 8756246,
           "label": "1A403030000012E000176845",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-04-25"
         }
@@ -47255,7 +47409,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Grape Stomper",
       "strainType": null,
@@ -47288,7 +47442,7 @@
         {
           "id": 8966484,
           "label": "1A403030000012E000192147",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-07-31"
         }
@@ -47611,7 +47765,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Lemon Meringue",
       "strainType": null,
@@ -47645,7 +47799,7 @@
         {
           "id": 8490581,
           "label": "1A4030300002009000102672",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-05-21",
           "expirationDate": "2027-03-24"
         }
@@ -52409,7 +52563,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Maui Sunrise",
       "strainType": null,
@@ -52439,7 +52593,7 @@
         {
           "id": 8923145,
           "label": "1A403030000012E000187013",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-05-22"
         }
