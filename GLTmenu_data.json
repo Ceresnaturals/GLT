@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T20:10:28.247882+00:00",
+  "generated_at": "2026-09-17T20:20:28.030353+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12119,7 +12119,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 29.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12165,7 +12165,7 @@
         {
           "id": 8828732,
           "label": "1A4030300003522000195375",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-30"
         }
@@ -12341,26 +12341,27 @@
       ]
     },
     {
-      "id": 8882418,
-      "packageCount": 1,
+      "id": 8996304,
+      "packageCount": 2,
       "name": "Betty's Eddies Strawberry V3 Fruit Chews-Edible Product-10mg-10",
       "brand": "Betty's Eddies",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.139,
+        "totalTHC": 0.143,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.006,
+        "CBG": 0.005,
         "CBGA": 0.0,
         "CBN": 0.0,
         "THCA": 0.0,
@@ -12374,7 +12375,7 @@
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.043,
+          "CBG": 0.036,
           "CBGA": 0.0,
           "CBN": 0.0,
           "THCA": 0.0,
@@ -12386,69 +12387,19 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8996304,
+          "label": "1A4030300003522000211319",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-09-01"
+        },
         {
           "id": 8882418,
           "label": "1A4030300003522000202256",
           "quantity": 3.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-05"
-        }
-      ]
-    },
-    {
-      "id": 8939327,
-      "packageCount": 1,
-      "name": "Betty's Eddies Tropical Smoothie Fruit Chews-Edible Product-10mg-10",
-      "brand": "Betty's Eddies",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.139,
-        "totalCBD": 0.41,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.009,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 29.11,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.639,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8939327,
-          "label": "1A4030300003522000210560",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-01",
-          "expirationDate": "2027-07-07"
         }
       ]
     },
@@ -14223,7 +14174,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14269,7 +14220,7 @@
         {
           "id": 8894078,
           "label": "1A403030000012D000261763",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -16456,7 +16407,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -16495,7 +16446,7 @@
         {
           "id": 8828992,
           "label": "1A403030000012D000259360",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -17608,7 +17559,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17647,7 +17598,7 @@
         {
           "id": 8902250,
           "label": "1A40303000017D5000104292",
-          "quantity": 3.0,
+          "quantity": 1.0,
           "packagedDate": "2026-06-18",
           "expirationDate": "2027-06-18"
         }
@@ -17885,7 +17836,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -17924,7 +17875,7 @@
         {
           "id": 8959111,
           "label": "1A40303000017D5000105511",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-06-18",
           "expirationDate": "2027-06-18"
         }
@@ -18334,7 +18285,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18373,7 +18324,7 @@
         {
           "id": 8978146,
           "label": "1A40303000017D5000105967",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-07-01"
         }
@@ -19771,7 +19722,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -19810,7 +19761,7 @@
         {
           "id": 8914800,
           "label": "1A4030300002009000112801",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-05-15"
         }
@@ -22467,7 +22418,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -22506,7 +22457,7 @@
         {
           "id": 8926291,
           "label": "1A403030000012D000262968",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         }
@@ -24706,7 +24657,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -24747,7 +24698,7 @@
         {
           "id": 8747178,
           "label": "1A4030300002199000057209",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-05-26",
           "expirationDate": "2027-05-26"
         }
@@ -25056,7 +25007,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -25097,7 +25048,7 @@
         {
           "id": 8820337,
           "label": "1A4030300002199000058517",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-05-20",
           "expirationDate": "2027-05-20"
         }
@@ -26058,7 +26009,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 70.0,
+      "quantity": 66.5,
       "unit": "Grams",
       "strainName": "YAHE",
       "strainType": null,
@@ -26093,7 +26044,7 @@
         {
           "id": 8982674,
           "label": "1A40303000000CD000079813",
-          "quantity": 70.0,
+          "quantity": 66.5,
           "packagedDate": "2026-09-10",
           "expirationDate": null
         }
@@ -29471,7 +29422,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 196.0,
+      "quantity": 192.5,
       "unit": "Grams",
       "strainName": "127 MEMBER BERRY",
       "strainType": null,
@@ -29506,7 +29457,7 @@
         {
           "id": 8751006,
           "label": "1A40303000039D1000084241",
-          "quantity": 196.0,
+          "quantity": 192.5,
           "packagedDate": "2026-07-21",
           "expirationDate": null
         }
@@ -29771,7 +29722,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 38.5,
       "unit": "Grams",
       "strainName": "Strawberry Jelly",
       "strainType": null,
@@ -29806,7 +29757,7 @@
         {
           "id": 8828648,
           "label": "1A4030300003521000054645",
-          "quantity": 42.0,
+          "quantity": 38.5,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-17"
         }
@@ -47086,7 +47037,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Grape Stomper",
       "strainType": null,
@@ -47119,7 +47070,7 @@
         {
           "id": 8966484,
           "label": "1A403030000012E000192147",
-          "quantity": 5.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-07-31"
         }
