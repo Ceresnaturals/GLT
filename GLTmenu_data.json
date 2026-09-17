@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:00:35.187581+00:00",
+  "generated_at": "2026-09-17T16:10:29.132466+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -14538,7 +14538,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14577,7 +14577,7 @@
         {
           "id": 8953004,
           "label": "1A403030000012D000265628",
-          "quantity": 19.0,
+          "quantity": 17.0,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -20621,7 +20621,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 29.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20662,7 +20662,7 @@
         {
           "id": 8939228,
           "label": "1A4030300003522000210567",
-          "quantity": 29.0,
+          "quantity": 26.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-19"
         }
@@ -20735,7 +20735,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20776,7 +20776,7 @@
         {
           "id": 8939348,
           "label": "1A4030300003522000210569",
-          "quantity": 8.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-11"
         }
@@ -21318,7 +21318,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21359,7 +21359,7 @@
         {
           "id": 8882360,
           "label": "1A4030300003522000202264",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-03"
         }
@@ -31987,7 +31987,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 199.5,
+      "quantity": 196.0,
       "unit": "Grams",
       "strainName": "127 MEMBER BERRY",
       "strainType": null,
@@ -32022,7 +32022,7 @@
         {
           "id": 8751006,
           "label": "1A40303000039D1000084241",
-          "quantity": 199.5,
+          "quantity": 196.0,
           "packagedDate": "2026-07-21",
           "expirationDate": null
         }
@@ -47627,7 +47627,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Blue Cheese",
       "strainType": null,
@@ -47663,7 +47663,7 @@
         {
           "id": 8091389,
           "label": "1A403030000070A000031927",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-02-17",
           "expirationDate": null
         }
@@ -56097,6 +56097,56 @@
           "quantity": 37.0,
           "packagedDate": "2026-07-13",
           "expirationDate": "2027-03-28"
+        }
+      ]
+    },
+    {
+      "id": 8301787,
+      "packageCount": 1,
+      "name": "Live Liquid Diamonds: Cherry Wreck -.5g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 27.0,
+      "unit": "Each",
+      "strainName": "Cherry Wreck",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 78.53,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 17.3,
+        "THCV": 1.38
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.21,
+        "myrcene": 7.02,
+        "alpha-pinene": 0.8,
+        "caryophyllene": 1.07,
+        "beta-pinene": 0.53,
+        "ocimene": 0.31,
+        "limonene": 3.16,
+        "linalool": 0.44,
+        "terpinolene": 0.2
+      },
+      "totalTerps": 14.18,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8301787,
+          "label": "1A4030300003D55000005319",
+          "quantity": 27.0,
+          "packagedDate": "2026-04-08",
+          "expirationDate": "2026-12-20"
         }
       ]
     },
