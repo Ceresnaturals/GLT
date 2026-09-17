@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T15:30:32.598364+00:00",
+  "generated_at": "2026-09-17T15:40:33.920392+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -6211,6 +6211,57 @@
           "quantity": 15.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 7831893,
+      "packageCount": 1,
+      "name": "Moonbeam Gelato Live Sugar - Concentrate - 1.0g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 2.0,
+      "unit": "Each",
+      "strainName": "Moonbeam Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 71.41,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.39,
+        "CBN": 0.0,
+        "THCA": 80.37,
+        "THCV": 0.34
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.512,
+        "myrcene": 2.993,
+        "alpha-pinene": 0.34,
+        "caryophyllene": 2.072,
+        "beta-pinene": 0.476,
+        "ocimene": 0.194,
+        "limonene": 4.369,
+        "linalool": 0.457,
+        "terpinolene": 0.062,
+        "nerolidol": 0.249
+      },
+      "totalTerps": 13.08,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 7831893,
+          "label": "1A4030300000193000076207",
+          "quantity": 2.0,
+          "packagedDate": "2025-12-12",
+          "expirationDate": "2026-11-10"
         }
       ]
     },
@@ -18102,7 +18153,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18141,7 +18192,7 @@
         {
           "id": 8870788,
           "label": "1A40303000017D5000103606",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-06-30",
           "expirationDate": "2027-06-30"
         }
@@ -18953,7 +19004,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18994,7 +19045,7 @@
         {
           "id": 8838282,
           "label": "1A40303000017D5000103036",
-          "quantity": 6.0,
+          "quantity": 4.0,
           "packagedDate": "2026-06-16",
           "expirationDate": "2027-06-16"
         }
@@ -26916,6 +26967,55 @@
       ]
     },
     {
+      "id": 7831886,
+      "packageCount": 1,
+      "name": "Apple Z - Usable - 7g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 154.0,
+      "unit": "Grams",
+      "strainName": "Apple Z",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 20.06,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.58,
+        "CBN": 0.0,
+        "THCA": 22.7,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.21,
+        "myrcene": 0.18,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.68,
+        "beta-pinene": 0.03,
+        "caryophyllene-oxide": 0.05,
+        "limonene": 0.21,
+        "linalool": 0.26
+      },
+      "totalTerps": 1.66,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 7831886,
+          "label": "1A4030300000192000020610",
+          "quantity": 154.0,
+          "packagedDate": "2025-12-12",
+          "expirationDate": "2026-10-20"
+        }
+      ]
+    },
+    {
       "id": 8923148,
       "packageCount": 1,
       "name": "BTY OG Garcia Hand Picked - Usable - 3.5 g",
@@ -31887,7 +31987,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 203.0,
+      "quantity": 199.5,
       "unit": "Grams",
       "strainName": "127 MEMBER BERRY",
       "strainType": null,
@@ -31922,7 +32022,7 @@
         {
           "id": 8751006,
           "label": "1A40303000039D1000084241",
-          "quantity": 203.0,
+          "quantity": 199.5,
           "packagedDate": "2026-07-21",
           "expirationDate": null
         }
@@ -35003,7 +35103,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.25,
+      "quantity": 10.5,
       "unit": "Grams",
       "strainName": "Animal Scout",
       "strainType": null,
@@ -35037,7 +35137,7 @@
         {
           "id": 8826456,
           "label": "1A40303000003EA000195253",
-          "quantity": 12.25,
+          "quantity": 10.5,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-15"
         }
@@ -38793,7 +38893,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 26.0,
       "unit": "Each",
@@ -41280,8 +41380,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 29.75,
       "unit": "Grams",
@@ -46417,7 +46516,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Baja Blue DV",
       "strainType": null,
@@ -46451,7 +46550,7 @@
         {
           "id": 8731186,
           "label": "1A40303000001F5000404834",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-01-22"
         }
@@ -54531,7 +54630,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Do Si Do",
       "strainType": null,
@@ -54565,7 +54664,7 @@
         {
           "id": 8420302,
           "label": "1A4030300004845000021350",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-03-02",
           "expirationDate": null
         }
