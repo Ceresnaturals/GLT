@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:10:28.039294+00:00",
+  "generated_at": "2026-09-17T23:20:27.784393+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -26454,7 +26454,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 56.0,
       "unit": "Grams",
@@ -39706,6 +39706,55 @@
           "label": "1A40303000040D9000005970",
           "quantity": 75.0,
           "packagedDate": "2026-09-01",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8858500,
+      "packageCount": 1,
+      "name": "Shake/Trim - Sour Diesel",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 146.6,
+      "unit": "Grams",
+      "strainName": "Sour Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.29,
+        "totalCBD": 0.16,
+        "CBDA": 0.02,
+        "CBG": 0.68,
+        "CBN": 0.03,
+        "THCA": 28.2
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.04,
+        "humulene": 0.32,
+        "myrcene": 0.62,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 1.02,
+        "eudesmol": 0.01,
+        "beta-pinene": 0.05,
+        "limonene": 0.33,
+        "linalool": 0.03,
+        "terpinolene": 0.01,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.5,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8858500,
+          "label": "1A40303000001F5000416989",
+          "quantity": 146.6,
+          "packagedDate": "2026-08-13",
           "expirationDate": null
         }
       ]
