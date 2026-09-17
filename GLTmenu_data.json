@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T20:40:28.720418+00:00",
+  "generated_at": "2026-09-17T20:50:28.629525+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -19768,27 +19768,28 @@
       ]
     },
     {
-      "id": 8882417,
-      "packageCount": 1,
+      "id": 8996308,
+      "packageCount": 2,
       "name": "In House Blood Orange Fast Acting V2 Gummies-Exempt-40mg-10",
       "brand": "In House",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.74,
-        "totalCBD": 0.655,
+        "totalTHC": 0.69,
+        "totalCBD": 0.828,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.03,
+        "CBG": 0.0,
         "CBGA": 0.0,
         "CBN": 0.0,
         "THCA": 0.0,
@@ -19799,11 +19800,11 @@
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "totalCBD": 32.75,
+          "totalCBD": 41.4,
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 1.5,
+          "CBG": 0.0,
           "CBGA": 0.0,
           "CBN": 0.0,
           "THCA": 0.0,
@@ -19815,6 +19816,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8996308,
+          "label": "1A4030300003522000211321",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-08-26"
+        },
         {
           "id": 8882417,
           "label": "1A4030300003522000202261",
@@ -32873,7 +32881,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "Alien Burger",
       "strainType": null,
@@ -32907,7 +32915,7 @@
         {
           "id": 8952843,
           "label": "1A403030000012D000265626",
-          "quantity": 23.0,
+          "quantity": 21.0,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -33022,7 +33030,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Grams",
       "strainName": "Carolina",
       "strainType": null,
@@ -33056,7 +33064,7 @@
         {
           "id": 8952600,
           "label": "1A403030000012D000265623",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -34664,7 +34672,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Grams",
       "strainName": "Juicee J",
       "strainType": null,
@@ -34701,7 +34709,7 @@
         {
           "id": 8966517,
           "label": "1A403030000012E000192640",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-07-29"
         }
@@ -38871,7 +38879,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 195.6,
+      "quantity": 192.1,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -38904,7 +38912,7 @@
         {
           "id": 8858500,
           "label": "1A40303000001F5000416989",
-          "quantity": 195.6,
+          "quantity": 192.1,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -42900,55 +42908,6 @@
           "id": 8673144,
           "label": "1A403030000283D000052568",
           "quantity": 12.0,
-          "packagedDate": "2026-07-01",
-          "expirationDate": "2027-05-22"
-        }
-      ]
-    },
-    {
-      "id": 8673145,
-      "packageCount": 1,
-      "name": "Beezle - Nectarz Disposable Vape - Melonz - 1g",
-      "brand": "Beezle",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 16.0,
-      "unit": "Each",
-      "strainName": "Nectarz",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 78.68,
-        "CBC": 1.42,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.91,
-        "CBGA": 0.0,
-        "CBN": 0.49,
-        "THCA": 0.0,
-        "THCV": 0.89
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.42,
-        "myrcene": 0.23,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 0.39,
-        "eudesmol": 0.23,
-        "beta-pinene": 0.08,
-        "limonene": 0.44,
-        "linalool": 0.17
-      },
-      "totalTerps": 2.16,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8673145,
-          "label": "1A403030000283D000052569",
-          "quantity": 16.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-05-22"
         }
@@ -49768,7 +49727,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "OG Kush",
       "strainType": null,
@@ -49802,7 +49761,7 @@
         {
           "id": 8118780,
           "label": "1A4030300004845000007645",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-02-13",
           "expirationDate": null
         }
@@ -52437,7 +52396,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Durban Poison",
       "strainType": null,
@@ -52471,7 +52430,7 @@
         {
           "id": 8885893,
           "label": "1A403030000283D000057727",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-19",
           "expirationDate": null
         }
