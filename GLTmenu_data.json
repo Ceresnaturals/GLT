@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T14:20:34.806242+00:00",
+  "generated_at": "2026-09-17T14:30:32.679928+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -52177,6 +52177,56 @@
           "quantity": 8.0,
           "packagedDate": "2026-05-21",
           "expirationDate": "2027-02-18"
+        }
+      ]
+    },
+    {
+      "id": 8490581,
+      "packageCount": 1,
+      "name": "HiAF|Disposable Live Terpenes|Lemon Meringue|Vape Cart|1000mg",
+      "brand": "HiAF",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 6.0,
+      "unit": "Each",
+      "strainName": "Lemon Meringue",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 89.71,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.39,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.5,
+        "myrcene": 0.71,
+        "alpha-pinene": 0.25,
+        "caryophyllene": 1.5,
+        "beta-pinene": 0.16,
+        "ocimene": 0.63,
+        "limonene": 0.85,
+        "linalool": 0.3,
+        "terpinolene": 1.94
+      },
+      "totalTerps": 7.21,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8490581,
+          "label": "1A4030300002009000102672",
+          "quantity": 6.0,
+          "packagedDate": "2026-05-21",
+          "expirationDate": "2027-03-24"
         }
       ]
     },
