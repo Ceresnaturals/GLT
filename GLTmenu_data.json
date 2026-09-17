@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:10:28.335503+00:00",
+  "generated_at": "2026-09-17T21:20:30.482281+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11610,29 +11610,30 @@
       ]
     },
     {
-      "id": 8939323,
-      "packageCount": 1,
+      "id": 8996188,
+      "packageCount": 2,
       "name": "Betty's Eddies Cherry V3 Fruit Chews-Edible Product-10mg-10",
       "brand": "Betty's Eddies",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.145,
-        "totalCBD": 0.61,
+        "totalTHC": 0.141,
+        "totalCBD": 0.585,
         "CBC": 0.071,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.007,
+        "CBG": 0.005,
         "CBGA": 0.0,
-        "CBN": 0.001,
+        "CBN": 0.0,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -11641,13 +11642,13 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 4.331,
+          "totalCBD": 4.153,
           "CBC": 0.504,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.05,
+          "CBG": 0.036,
           "CBGA": 0.0,
-          "CBN": 0.007,
+          "CBN": 0.0,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -11657,6 +11658,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8996188,
+          "label": "1A4030300003522000211307",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-08-29"
+        },
         {
           "id": 8939323,
           "label": "1A4030300003522000210558",
@@ -11830,6 +11838,61 @@
           "quantity": 11.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-05"
+        }
+      ]
+    },
+    {
+      "id": 8996190,
+      "packageCount": 1,
+      "name": "Betty's Eddies Orange Creme V3 Fruit Chews-Edible Product-10mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.139,
+        "CBC": 0.07,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.005,
+        "CBGA": 0.0,
+        "CBN": 0.067,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.497,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.036,
+          "CBGA": 0.0,
+          "CBN": 0.476,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8996190,
+          "label": "1A4030300003522000211308",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-08-25"
         }
       ]
     },
@@ -12284,6 +12347,63 @@
       ]
     },
     {
+      "id": 8996192,
+      "packageCount": 1,
+      "name": "Betty's Eddies Raspberry Creme V3 Fruit Chews-Edible Product-10mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.14,
+        "totalCBD": 0.291,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.006,
+        "CBGA": 0.0,
+        "CBN": 0.068,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 2.066,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.043,
+          "CBGA": 0.0,
+          "CBN": 0.483,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8996192,
+          "label": "1A4030300003522000211309",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-08-27"
+        }
+      ]
+    },
+    {
       "id": 8689778,
       "packageCount": 1,
       "name": "Betty's Eddies Raspberry Creme V3 Fruit Chews-Exempt-40mg-10",
@@ -12400,6 +12520,63 @@
           "quantity": 3.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-05"
+        }
+      ]
+    },
+    {
+      "id": 8996195,
+      "packageCount": 1,
+      "name": "Betty's Eddies Tropical Smoothie Fruit Chews-Edible Product-10mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.141,
+        "totalCBD": 0.444,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.004,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 31.524,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.284,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8996195,
+          "label": "1A4030300003522000211310",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-08-19"
         }
       ]
     },
@@ -12789,6 +12966,63 @@
           "quantity": 9.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-01-18"
+        }
+      ]
+    },
+    {
+      "id": 8996077,
+      "packageCount": 1,
+      "name": "Bubby's Baked Pumpkin Bites V4-Edible Product-10mg-10",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.12,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8996077,
+          "label": "1A4030300003522000211317",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-02-26"
         }
       ]
     },
@@ -20061,6 +20295,63 @@
       ]
     },
     {
+      "id": 8996310,
+      "packageCount": 1,
+      "name": "In House Cherry Lemonade Fast Acting V3 Gummies-Edible Product-10mg-10",
+      "brand": "In House",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.22,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8996310,
+          "label": "1A4030300003522000211322",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-08-19"
+        }
+      ]
+    },
+    {
       "id": 8939355,
       "packageCount": 1,
       "name": "In House Peach Mango Fast Acting V2 Gummies-Edible Product-10mg-10",
@@ -20538,6 +20829,63 @@
       ]
     },
     {
+      "id": 8996073,
+      "packageCount": 1,
+      "name": "In House Strawberry Fast Acting V2 Gummies-Edible Product-10mg-10",
+      "brand": "In House",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.22,
+        "totalCBD": 0.22,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 11.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8996073,
+          "label": "1A4030300003522000211313",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-08-28"
+        }
+      ]
+    },
+    {
       "id": 8828747,
       "packageCount": 1,
       "name": "In House Strawberry Fast Acting V2 Gummies-Exempt-40mg-10",
@@ -20705,6 +21053,63 @@
           "quantity": 7.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-24"
+        }
+      ]
+    },
+    {
+      "id": 8996079,
+      "packageCount": 1,
+      "name": "In House Wild Berry Fast Acting V2 Gummies-Edible Product-10mg-10",
+      "brand": "In House",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.21,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.05
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 2.5
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8996079,
+          "label": "1A4030300003522000211324",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-07-31"
         }
       ]
     },
@@ -23952,6 +24357,63 @@
           "quantity": 25.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-09-01"
+        }
+      ]
+    },
+    {
+      "id": 8996081,
+      "packageCount": 1,
+      "name": "Vibations Lemon Lime Drink Mix V1-Edible Product-10mg-10",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.32,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8996081,
+          "label": "1A4030300003522000211327",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-07-10"
         }
       ]
     },
@@ -31490,7 +31952,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Grams",
       "strainName": "Sour Jack",
       "strainType": null,
@@ -31523,7 +31985,7 @@
         {
           "id": 8490482,
           "label": "1A4030300002009000102667",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-05-21",
           "expirationDate": "2027-04-17"
         }
@@ -33935,7 +34397,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -33967,7 +34429,7 @@
         {
           "id": 8974364,
           "label": "1A40303000000CB000051664",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-21"
         }
@@ -36750,7 +37212,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Grams",
       "strainName": "Chocolatina",
       "strainType": null,
@@ -36784,7 +37246,7 @@
         {
           "id": 8939204,
           "label": "1A4030300003521000056677",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-20"
         }
@@ -37585,7 +38047,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 36.0,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Purple Punch TC",
       "strainType": null,
@@ -37617,7 +38079,7 @@
         {
           "id": 8919171,
           "label": "1A40303000001F5000423329",
-          "quantity": 36.0,
+          "quantity": 35.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -37633,7 +38095,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Grams",
       "strainName": "Ray Charles",
       "strainType": null,
@@ -37666,7 +38128,7 @@
         {
           "id": 8787114,
           "label": "1A4030300000192000038833",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-06-29"
         }
@@ -39144,27 +39606,28 @@
       ]
     },
     {
-      "id": 8383019,
-      "packageCount": 1,
+      "id": 8996322,
+      "packageCount": 2,
       "name": "Cosmec HeadZen Gold Stick Transdermal-Infused Product-125mg",
       "brand": null,
       "category": "Topical",
       "metrcCategory": "Infused Non-Edibles",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.436,
-        "totalCBD": 2.361,
-        "CBC": 0.327,
+        "totalTHC": 0.39,
+        "totalCBD": 2.44,
+        "CBC": 0.31,
         "CBDA": 0.0,
-        "CBDV": 0.013,
-        "CBG": 0.009,
+        "CBDV": 0.0,
+        "CBG": 0.0,
         "CBGA": 0.0,
         "CBN": 0.0,
         "THCA": 0.0
@@ -39174,11 +39637,11 @@
         "totalThcMg": 125.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 59.025,
-          "CBC": 8.175,
+          "totalCBD": 61.0,
+          "CBC": 7.75,
           "CBDA": 0.0,
-          "CBDV": 0.325,
-          "CBG": 0.225,
+          "CBDV": 0.0,
+          "CBG": 0.0,
           "CBGA": 0.0,
           "CBN": 0.0,
           "THCA": 0.0
@@ -39186,18 +39649,26 @@
         "minorsEstimated": true
       },
       "terpenes": {
-        "myrcene": 0.08,
-        "alpha-pinene": 0.05,
+        "myrcene": 0.13,
+        "alpha-pinene": 0.14,
         "caryophyllene": 0.03,
-        "beta-pinene": 0.08,
-        "limonene": 0.07,
-        "linalool": 1.74,
-        "terpinolene": 1.26,
-        "nerolidol": 0.81
+        "beta-pinene": 0.21,
+        "caryophyllene-oxide": 0.02,
+        "limonene": 0.18,
+        "linalool": 2.84,
+        "terpinolene": 1.76,
+        "nerolidol": 0.35
       },
-      "totalTerps": 5.36,
+      "totalTerps": 6.67,
       "dominantTerpene": "linalool",
       "packages": [
+        {
+          "id": 8996322,
+          "label": "1A4030300003522000211336",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-08-21"
+        },
         {
           "id": 8383019,
           "label": "1A4030300003522000185621",
@@ -52195,7 +52666,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Banana Berry Smoothie",
       "strainType": null,
@@ -52227,7 +52698,7 @@
         {
           "id": 8885895,
           "label": "1A403030000283D000057729",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-06-24"
         }
@@ -52344,7 +52815,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "White Widow",
       "strainType": null,
@@ -52379,7 +52850,7 @@
         {
           "id": 8945081,
           "label": "1A403030000283D000060838",
-          "quantity": 8.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-26"
         }
