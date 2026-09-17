@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T17:40:29.221273+00:00",
+  "generated_at": "2026-09-17T17:50:29.029493+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10025,7 +10025,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10066,7 +10066,7 @@
         {
           "id": 8920193,
           "label": "1A40303000001F5000423548",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -10082,7 +10082,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10123,7 +10123,7 @@
         {
           "id": 8731140,
           "label": "1A40303000001F5000404803",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-05-12"
         }
@@ -16976,27 +16976,27 @@
       ]
     },
     {
-      "id": 8755819,
+      "id": 8966197,
       "packageCount": 1,
       "name": "Do Drop 2:2:1 CBD:CBG:THC Lemon Citrus Gummies-Edible Product-10mg-10",
       "brand": null,
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.32,
-        "totalCBD": 0.65,
+        "totalTHC": 0.34,
+        "totalCBD": 0.68,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.66,
+        "CBG": 0.7,
         "CBGA": 0.0,
         "CBN": 0.0,
         "THCA": 0.0,
@@ -17007,11 +17007,11 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 19.5,
+          "totalCBD": 20.4,
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 19.8,
+          "CBG": 21.0,
           "CBGA": 0.0,
           "CBN": 0.0,
           "THCA": 0.0,
@@ -17024,11 +17024,11 @@
       "dominantTerpene": null,
       "packages": [
         {
-          "id": 8755819,
-          "label": "1A403030000012E000176841",
-          "quantity": 2.0,
-          "packagedDate": "2026-07-21",
-          "expirationDate": "2027-02-13"
+          "id": 8966197,
+          "label": "1A403030000012E000192656",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-04-23"
         }
       ]
     },
@@ -19600,7 +19600,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19641,7 +19641,7 @@
         {
           "id": 8939348,
           "label": "1A4030300003522000210569",
-          "quantity": 6.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-11"
         }
@@ -24187,7 +24187,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -24228,7 +24228,7 @@
         {
           "id": 8686615,
           "label": "1A4030300002199000056241",
-          "quantity": 11.0,
+          "quantity": 9.0,
           "packagedDate": "2026-04-24",
           "expirationDate": "2027-04-24"
         }
@@ -33370,7 +33370,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.5,
+      "quantity": 40.0,
       "unit": "Grams",
       "strainName": "Super Boof",
       "strainType": null,
@@ -33403,7 +33403,7 @@
         {
           "id": 8882006,
           "label": "1A4030300004845000039298",
-          "quantity": 42.5,
+          "quantity": 40.0,
           "packagedDate": "2026-08-11",
           "expirationDate": null
         }
@@ -38571,7 +38571,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 248.1,
+      "quantity": 234.1,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -38604,7 +38604,7 @@
         {
           "id": 8858500,
           "label": "1A40303000001F5000416989",
-          "quantity": 248.1,
+          "quantity": 234.1,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -38620,7 +38620,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 448.13,
+      "quantity": 434.13,
       "unit": "Grams",
       "strainName": "Strawberry Candy #4 TC",
       "strainType": null,
@@ -38653,7 +38653,7 @@
         {
           "id": 8919194,
           "label": "1A40303000001F5000423349",
-          "quantity": 448.13,
+          "quantity": 434.13,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -47931,7 +47931,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": "Blue Raspberry",
       "strainType": null,
@@ -47966,7 +47966,7 @@
         {
           "id": 8939224,
           "label": "1A4030300003522000210564",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-28"
         }
@@ -49319,7 +49319,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Do Si Do",
       "strainType": null,
@@ -49353,7 +49353,7 @@
         {
           "id": 8420302,
           "label": "1A4030300004845000021350",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-03-02",
           "expirationDate": null
         }
@@ -52522,6 +52522,55 @@
           "quantity": 1.0,
           "packagedDate": "2026-01-06",
           "expirationDate": "2026-10-20"
+        }
+      ]
+    },
+    {
+      "id": 8040161,
+      "packageCount": 1,
+      "name": "NH Double Krush Live Resin Disp-Vape Cart-.5g",
+      "brand": "NH",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 3.0,
+      "unit": "Each",
+      "strainName": "Double Krush Disp",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 79.32,
+        "CBC": 0.53,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.38,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.41,
+        "humulene": 0.45,
+        "myrcene": 2.35,
+        "alpha-pinene": 0.28,
+        "caryophyllene": 1.59,
+        "limonene": 1.57,
+        "linalool": 0.94,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 8.21,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8040161,
+          "label": "1A4030300003522000169434",
+          "quantity": 3.0,
+          "packagedDate": "2026-02-05",
+          "expirationDate": "2027-01-10"
         }
       ]
     },
