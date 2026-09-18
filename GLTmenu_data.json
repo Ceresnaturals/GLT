@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T20:00:31.311499+00:00",
+  "generated_at": "2026-09-18T20:10:29.670194+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9791,16 +9791,17 @@
       ]
     },
     {
-      "id": 8947319,
-      "packageCount": 1,
+      "id": 8974356,
+      "packageCount": 2,
       "name": "Z Cream Live Rosin Cold Cure 1.0g",
       "brand": null,
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": "Z Cream",
       "strainType": null,
@@ -9831,6 +9832,13 @@
       "totalTerps": 6.86,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 8974356,
+          "label": "1A4030300000C83000087377",
+          "quantity": 18.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-08-25"
+        },
         {
           "id": 8947319,
           "label": "1A4030300000C83000086907",
@@ -11941,7 +11949,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -25105,22 +25113,23 @@
       ]
     },
     {
-      "id": 8689831,
-      "packageCount": 1,
+      "id": 8939379,
+      "packageCount": 2,
       "name": "Vibations Tropical Punch Drink Mix V1-Edible Product-10mg-10",
       "brand": null,
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.07,
+        "totalTHC": 0.08,
         "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
@@ -25152,6 +25161,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8939379,
+          "label": "1A4030300003522000210591",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-08-07"
+        },
         {
           "id": 8689831,
           "label": "1A4030300003522000201329",
@@ -28623,7 +28639,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 42.0,
+      "quantity": 38.5,
       "unit": "Grams",
       "strainName": "Black Cherry Punch",
       "strainType": null,
@@ -28658,7 +28674,7 @@
         {
           "id": 8939178,
           "label": "1A4030300003521000056671",
-          "quantity": 42.0,
+          "quantity": 38.5,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-14"
         }
@@ -40297,7 +40313,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 416.63,
+      "quantity": 413.13,
       "unit": "Grams",
       "strainName": "Strawberry Candy #4 TC",
       "strainType": null,
@@ -40330,7 +40346,7 @@
         {
           "id": 8919194,
           "label": "1A40303000001F5000423349",
-          "quantity": 416.63,
+          "quantity": 413.13,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -40397,7 +40413,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 154.0,
+      "quantity": 140.0,
       "unit": "Grams",
       "strainName": "Thunder Punch",
       "strainType": null,
@@ -40431,7 +40447,7 @@
         {
           "id": 8890047,
           "label": "1A40303000000C9000167813",
-          "quantity": 154.0,
+          "quantity": 140.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -44743,41 +44759,50 @@
       ]
     },
     {
-      "id": 8671235,
-      "packageCount": 1,
+      "id": 8966529,
+      "packageCount": 2,
       "name": "Blueberry Dream Cloud Bar Hellavated - Vape Cart - 1 g",
       "brand": "Hellavated",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Blueberry Dream",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 86.22,
+        "totalTHC": 88.24,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 2.96,
+        "CBG": 6.27,
         "CBGA": 0.0,
-        "CBN": 0.38,
+        "CBN": 0.46,
         "THCA": 0.0,
         "THCV": 0.0
       },
       "dose": null,
       "terpenes": {
-        "alpha-pinene": 2.83,
-        "caryophyllene": 0.17,
-        "beta-pinene": 0.34,
-        "linalool": 0.26
+        "bisabolol": 0.12,
+        "alpha-pinene": 3.43,
+        "caryophyllene": 0.25,
+        "beta-pinene": 0.4,
+        "linalool": 0.33
       },
-      "totalTerps": 3.69,
+      "totalTerps": 4.67,
       "dominantTerpene": "alpha-pinene",
       "packages": [
+        {
+          "id": 8966529,
+          "label": "1A403030000012E000192639",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-08-07"
+        },
         {
           "id": 8671235,
           "label": "1A403030000012E000172675",
@@ -53537,43 +53562,51 @@
       ]
     },
     {
-      "id": 8756343,
-      "packageCount": 1,
+      "id": 8966531,
+      "packageCount": 2,
       "name": "Mango Dragon Cloud Bar Hellavated - Vape Cart - 1 g",
       "brand": "Hellavated",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Mango Dragon",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 87.85,
-        "CBC": 0.64,
+        "totalTHC": 90.71,
+        "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 3.87,
+        "CBG": 5.03,
         "CBGA": 0.0,
-        "CBN": 0.54,
+        "CBN": 0.46,
         "THCA": 0.0,
-        "THCV": 0.49
+        "THCV": 0.0
       },
       "dose": null,
       "terpenes": {
-        "myrcene": 0.11,
-        "alpha-pinene": 1.33,
-        "caryophyllene": 0.18,
-        "beta-pinene": 0.16,
-        "limonene": 0.41,
-        "linalool": 0.48
+        "myrcene": 0.18,
+        "alpha-pinene": 1.42,
+        "caryophyllene": 0.28,
+        "beta-pinene": 0.19,
+        "limonene": 0.61,
+        "linalool": 0.59
       },
-      "totalTerps": 2.67,
+      "totalTerps": 3.27,
       "dominantTerpene": "alpha-pinene",
       "packages": [
+        {
+          "id": 8966531,
+          "label": "1A403030000012E000192637",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-08-07"
+        },
         {
           "id": 8756343,
           "label": "1A403030000012E000176844",
@@ -56048,16 +56081,17 @@
       ]
     },
     {
-      "id": 8756259,
-      "packageCount": 1,
+      "id": 8966479,
+      "packageCount": 2,
       "name": "Pineapple Krush Cloud Bar Hellavated - Vape Cart - 1 g",
       "brand": "Hellavated",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Pineapple Krush",
       "strainType": null,
@@ -56083,6 +56117,13 @@
       "totalTerps": 3.53,
       "dominantTerpene": "alpha-pinene",
       "packages": [
+        {
+          "id": 8966479,
+          "label": "1A403030000012E000192635",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-06-20"
+        },
         {
           "id": 8756259,
           "label": "1A403030000012E000176851",
