@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T19:00:32.333687+00:00",
+  "generated_at": "2026-09-18T19:10:29.958762+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8498,6 +8498,56 @@
       ]
     },
     {
+      "id": 9003340,
+      "packageCount": 1,
+      "name": "Rythm 5 Pack (Infused) - Blueberry Kush (Indica Dominant) - Concentrate - 2.5g",
+      "brand": "Rythm",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Blueberry Kush",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 40.44,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.51,
+        "CBN": 0.0,
+        "THCA": 45.13,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.11,
+        "myrcene": 0.14,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.56,
+        "beta-pinene": 0.06,
+        "limonene": 0.33,
+        "linalool": 0.2,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 1.83,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9003340,
+          "label": "1A40303000003EA000266190",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-08-19"
+        }
+      ]
+    },
+    {
       "id": 8970468,
       "packageCount": 1,
       "name": "Rythm 5 Pack (Infused) - Mai Tai (Sativa Dominant) - Concentrate - 2.5g",
@@ -8596,6 +8646,56 @@
           "quantity": 13.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-18"
+        }
+      ]
+    },
+    {
+      "id": 9003341,
+      "packageCount": 1,
+      "name": "Rythm 5 Pack (Infused) - Strawberry Shortcake (Indica Dominant) - Concentrate - 2.5g",
+      "brand": "Rythm",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Strawberry Shortcake",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 44.96,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.63,
+        "CBN": 0.0,
+        "THCA": 49.61,
+        "THCV": 0.21
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.11,
+        "myrcene": 0.18,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.62,
+        "beta-pinene": 0.04,
+        "limonene": 0.33,
+        "linalool": 0.25,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 1.97,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9003341,
+          "label": "1A40303000003EA000266191",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-08-14"
         }
       ]
     },
@@ -8747,6 +8847,57 @@
           "quantity": 8.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-05-05"
+        }
+      ]
+    },
+    {
+      "id": 9003342,
+      "packageCount": 1,
+      "name": "Rythm Single (Infused) - Maui Wowie (Sativa Dominant) - Concentrate - 1g",
+      "brand": "Rythm",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Maui Wowie",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 41.24,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.69,
+        "CBN": 0.0,
+        "THCA": 45.29,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.16,
+        "myrcene": 0.26,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.61,
+        "beta-pinene": 0.06,
+        "caryophyllene-oxide": 0.07,
+        "limonene": 0.17,
+        "linalool": 0.17,
+        "terpinolene": 0.03
+      },
+      "totalTerps": 1.93,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9003342,
+          "label": "1A40303000003EA000266192",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-08-07"
         }
       ]
     },
@@ -10160,6 +10311,53 @@
           "quantity": 8.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9003343,
+      "packageCount": 1,
+      "name": "Dr. Solomons Tincture 200mg - Restore (1:1 CBD:THC)-Exempt-6.67mg-30",
+      "brand": null,
+      "category": "Drink",
+      "metrcCategory": "Exempt Liquid Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 1.511,
+        "totalCBD": 1.428,
+        "CBC": 0.011,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.088,
+        "CBGA": 0.0,
+        "CBN": 0.011,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": ".5mL",
+        "totalThcMg": 200.0,
+        "thcMgPerServing": 6.67,
+        "minorsMgPerServing": {},
+        "minorsEstimated": false
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9003343,
+          "label": "1A40303000003EA000266194",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-07-22"
         }
       ]
     },
@@ -21262,6 +21460,63 @@
       ]
     },
     {
+      "id": 9003337,
+      "packageCount": 1,
+      "name": "Incredibles Bites 100mg - Mile High Mint - Edible Product - 10mg - 10",
+      "brand": "Incredibles",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.11,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9003337,
+          "label": "1A40303000003EA000266186",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-07-22"
+        }
+      ]
+    },
+    {
       "id": 8809458,
       "packageCount": 1,
       "name": "Incredibles Bites 100mg - Monkey Bar - Edible Product - 10mg - 10",
@@ -25811,7 +26066,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -25852,7 +26107,7 @@
         {
           "id": 8820519,
           "label": "1A4030300002199000058562",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-05-19",
           "expirationDate": "2027-05-19"
         }
@@ -29125,7 +29380,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Lemon Splash",
       "strainType": null,
@@ -29159,7 +29414,7 @@
         {
           "id": 8890135,
           "label": "1A403030000025B000084392",
-          "quantity": 42.0,
+          "quantity": 35.0,
           "packagedDate": "2026-06-16",
           "expirationDate": "2027-06-11"
         }
@@ -31431,7 +31686,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 17.5,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -31463,7 +31718,7 @@
         {
           "id": 8974639,
           "label": "1A40303000001F5000428933",
-          "quantity": 21.0,
+          "quantity": 17.5,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -31678,7 +31933,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -31711,7 +31966,7 @@
         {
           "id": 8947055,
           "label": "1A40303000000CB000051188",
-          "quantity": 38.5,
+          "quantity": 35.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         }
@@ -32017,7 +32272,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 70.0,
+      "quantity": 63.0,
       "unit": "Grams",
       "strainName": "Velcroz",
       "strainType": "Hybrid",
@@ -32052,7 +32307,7 @@
         {
           "id": 8970472,
           "label": "1A40303000003EA000263657",
-          "quantity": 70.0,
+          "quantity": 63.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-07"
         }
@@ -38745,55 +39000,6 @@
           "quantity": 35.0,
           "packagedDate": "2026-08-26",
           "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8787114,
-      "packageCount": 1,
-      "name": "Ray Charles Pre-Roll - Usable - 1g",
-      "brand": null,
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Grams",
-      "strainName": "Ray Charles",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 23.51,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.45,
-        "CBN": 0.0,
-        "THCA": 26.0,
-        "THCV": 0.15
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.05,
-        "myrcene": 1.56,
-        "alpha-pinene": 0.24,
-        "caryophyllene": 0.13,
-        "beta-pinene": 0.1,
-        "ocimene": 0.08,
-        "limonene": 0.07,
-        "linalool": 0.12
-      },
-      "totalTerps": 2.35,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8787114,
-          "label": "1A4030300000192000038833",
-          "quantity": 2.0,
-          "packagedDate": "2026-07-28",
-          "expirationDate": "2027-06-29"
         }
       ]
     },
@@ -54081,7 +54287,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Melon Sherbert",
       "strainType": null,
@@ -54113,7 +54319,7 @@
         {
           "id": 8966487,
           "label": "1A403030000012E000192144",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-07-25"
         }
