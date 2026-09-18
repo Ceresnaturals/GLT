@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:10:31.767229+00:00",
+  "generated_at": "2026-09-18T16:20:29.764621+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3234,7 +3234,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Grapes & Cream",
       "strainType": null,
@@ -3270,7 +3270,7 @@
         {
           "id": 8890382,
           "label": "1A40303000001F5000420190",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-06-30"
         }
@@ -4176,57 +4176,6 @@
           "quantity": 19.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-02-24"
-        }
-      ]
-    },
-    {
-      "id": 8890310,
-      "packageCount": 1,
-      "name": "Legend | Infused Flower | Infused Ground Flower | Cosmic Balance Hybrid Blend - Usable - 7g",
-      "brand": "Legend",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Cosmic Balance Blend",
-      "strainType": "Hybrid",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 43.4,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.46,
-        "CBN": 0.0,
-        "THCA": 38.65,
-        "THCV": 0.14
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.08,
-        "humulene": 0.13,
-        "myrcene": 0.14,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.38,
-        "beta-pinene": 0.05,
-        "ocimene": 0.08,
-        "limonene": 0.18,
-        "linalool": 0.1,
-        "terpinolene": 0.21
-      },
-      "totalTerps": 1.51,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8890310,
-          "label": "1A4030300002199000061272",
-          "quantity": 1.0,
-          "packagedDate": "2026-06-03",
-          "expirationDate": null
         }
       ]
     },
@@ -9210,7 +9159,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Super Gremlin Preground",
       "strainType": null,
@@ -9245,7 +9194,7 @@
         {
           "id": 8966424,
           "label": "1A403030000012E000192652",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-07-20"
         }
@@ -26033,7 +25982,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 56.0,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Afternoon Delight #4",
       "strainType": "Hybrid",
@@ -26067,7 +26016,7 @@
         {
           "id": 8970733,
           "label": "1A40303000003EA000263658",
-          "quantity": 56.0,
+          "quantity": 28.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-10"
         }
@@ -27747,6 +27696,56 @@
       ]
     },
     {
+      "id": 8768959,
+      "packageCount": 1,
+      "name": "Garlic Breath Flower 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 42.0,
+      "unit": "Grams",
+      "strainName": "Garlic Breath",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.19,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.19,
+        "CBGA": 0.86,
+        "CBN": 0.0,
+        "THCA": 29.65,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.11,
+        "myrcene": 0.13,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.45,
+        "eudesmol": 0.14,
+        "beta-pinene": 0.05,
+        "limonene": 0.42,
+        "linalool": 0.12
+      },
+      "totalTerps": 1.75,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8768959,
+          "label": "1A40303000000C9000164871",
+          "quantity": 42.0,
+          "packagedDate": "2026-07-23",
+          "expirationDate": "2027-07-19"
+        }
+      ]
+    },
+    {
       "id": 8966592,
       "packageCount": 1,
       "name": "Gas Smack Strane - Usable - 3.5 g",
@@ -28942,7 +28941,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 448.0,
+      "quantity": 420.0,
       "unit": "Grams",
       "strainName": "Kush Breath",
       "strainType": null,
@@ -28977,7 +28976,7 @@
         {
           "id": 8966594,
           "label": "1A403030000012E000190903",
-          "quantity": 448.0,
+          "quantity": 420.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-19"
         }
@@ -30558,56 +30557,6 @@
       ]
     },
     {
-      "id": 8974470,
-      "packageCount": 1,
-      "name": "Orange Drizzle Pre-Pack 3.5g",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 24.5,
-      "unit": "Grams",
-      "strainName": "Mimosa Cake",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 36.26,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.31,
-        "CBGA": 3.39,
-        "CBN": 0.0,
-        "THCA": 40.99,
-        "THCV": 0.1
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.24,
-        "myrcene": 0.18,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 1.04,
-        "beta-pinene": 0.06,
-        "limonene": 0.52,
-        "linalool": 0.31,
-        "nerolidol": 0.08
-      },
-      "totalTerps": 2.66,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8974470,
-          "label": "1A40303000000CB000051673",
-          "quantity": 24.5,
-          "packagedDate": "2026-09-09",
-          "expirationDate": "2027-08-30"
-        }
-      ]
-    },
-    {
       "id": 8731344,
       "packageCount": 1,
       "name": "Patapeake Shortbread Pre-Pack 3.5g",
@@ -31650,7 +31599,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 56.0,
+      "quantity": 52.5,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -31683,7 +31632,7 @@
         {
           "id": 8947055,
           "label": "1A40303000000CB000051188",
-          "quantity": 56.0,
+          "quantity": 52.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         }
@@ -51153,7 +51102,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Grape Ape",
       "strainType": null,
@@ -51188,7 +51137,7 @@
         {
           "id": 8842350,
           "label": "1A4030300003201000001524",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-10",
           "expirationDate": null
         }
@@ -53033,7 +52982,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "MD VP MDLYCK 05CR",
       "strainType": null,
@@ -53066,7 +53015,7 @@
         {
           "id": 8872245,
           "label": "1A40303000007D1000093660",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-08-17",
           "expirationDate": null
         }
@@ -53132,7 +53081,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "MD VP MDPAVE 05CR",
       "strainType": null,
@@ -53165,7 +53114,7 @@
         {
           "id": 8959235,
           "label": "1A40303000007D1000102083",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-09-04",
           "expirationDate": null
         }
