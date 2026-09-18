@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:20:29.924512+00:00",
+  "generated_at": "2026-09-18T15:30:27.197980+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -26716,7 +26716,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 112.0,
+      "quantity": 108.5,
       "unit": "Grams",
       "strainName": "Charm Biscuitz",
       "strainType": null,
@@ -26749,7 +26749,7 @@
         {
           "id": 8943242,
           "label": "1A40303000040D9000005971",
-          "quantity": 112.0,
+          "quantity": 108.5,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-31"
         }
@@ -27161,7 +27161,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 140.0,
+      "quantity": 126.0,
       "unit": "Grams",
       "strainName": "Blue Nerds",
       "strainType": null,
@@ -27194,7 +27194,7 @@
         {
           "id": 8725292,
           "label": "1A4030300000709000035850",
-          "quantity": 140.0,
+          "quantity": 126.0,
           "packagedDate": "2026-07-14",
           "expirationDate": null
         }
@@ -34986,7 +34986,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 36.75,
       "unit": "Grams",
       "strainName": "GMO",
       "strainType": null,
@@ -35020,7 +35020,7 @@
         {
           "id": 8891365,
           "label": "1A40303000003EA000205086",
-          "quantity": 38.5,
+          "quantity": 36.75,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-06"
         }
@@ -37414,7 +37414,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 115.5,
+      "quantity": 112.0,
       "unit": "Grams",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -37446,7 +37446,7 @@
         {
           "id": 8974467,
           "label": "1A40303000000CB000051666",
-          "quantity": 115.5,
+          "quantity": 112.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-03"
         }
@@ -39275,7 +39275,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -39309,7 +39309,7 @@
         {
           "id": 8974468,
           "label": "1A40303000000CB000051669",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-01"
         }
@@ -39672,55 +39672,6 @@
       ]
     },
     {
-      "id": 8928782,
-      "packageCount": 1,
-      "name": "Disco Diesel Shake/Trim 14g",
-      "brand": "Disco",
-      "category": "Shake/Trim",
-      "metrcCategory": "Shake/Trim (by strain)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 28.0,
-      "unit": "Grams",
-      "strainName": "Disco Diesel",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 20.39,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.67,
-        "CBN": 0.0,
-        "THCA": 22.98,
-        "THCV": 0.14
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.1,
-        "myrcene": 0.14,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 0.42,
-        "beta-pinene": 0.06,
-        "limonene": 0.37,
-        "linalool": 0.2
-      },
-      "totalTerps": 1.52,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8928782,
-          "label": "1A40303000000C9000168541",
-          "quantity": 28.0,
-          "packagedDate": "2026-08-28",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8968079,
       "packageCount": 1,
       "name": "Dulce de Fresca - 5g Shake/Trim",
@@ -40022,55 +39973,6 @@
       ]
     },
     {
-      "id": 8858500,
-      "packageCount": 1,
-      "name": "Shake/Trim - Sour Diesel",
-      "brand": null,
-      "category": "Shake/Trim",
-      "metrcCategory": "Shake/Trim (by strain)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 132.6,
-      "unit": "Grams",
-      "strainName": "Sour Diesel",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 25.29,
-        "totalCBD": 0.16,
-        "CBDA": 0.02,
-        "CBG": 0.68,
-        "CBN": 0.03,
-        "THCA": 28.2
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.04,
-        "humulene": 0.32,
-        "myrcene": 0.62,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 1.02,
-        "eudesmol": 0.01,
-        "beta-pinene": 0.05,
-        "limonene": 0.33,
-        "linalool": 0.03,
-        "terpinolene": 0.01,
-        "nerolidol": 0.01
-      },
-      "totalTerps": 2.5,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8858500,
-          "label": "1A40303000001F5000416989",
-          "quantity": 132.6,
-          "packagedDate": "2026-08-13",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8919194,
       "packageCount": 1,
       "name": "Shake/Trim - Strawberry Candy #4",
@@ -40180,7 +40082,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 252.0,
+      "quantity": 238.0,
       "unit": "Grams",
       "strainName": "Thunder Punch",
       "strainType": null,
@@ -40214,7 +40116,7 @@
         {
           "id": 8890047,
           "label": "1A40303000000C9000167813",
-          "quantity": 252.0,
+          "quantity": 238.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
