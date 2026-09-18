@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T21:30:29.596809+00:00",
+  "generated_at": "2026-09-18T21:40:30.264721+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -5581,7 +5581,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "MDSPTZ IIPR",
       "strainType": null,
@@ -5615,7 +5615,7 @@
         {
           "id": 8182752,
           "label": "1A40303000007D1000060517",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-03-11",
           "expirationDate": null
         }
@@ -8491,7 +8491,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Blueberry Kush",
       "strainType": "Indica",
@@ -8525,7 +8525,7 @@
         {
           "id": 9003340,
           "label": "1A40303000003EA000266190",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-08-19"
         }
@@ -8541,7 +8541,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Mai Tai",
       "strainType": "Sativa",
@@ -8577,7 +8577,7 @@
         {
           "id": 8970468,
           "label": "1A40303000003EA000263660",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-14"
         }
@@ -26511,7 +26511,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 250.0,
+      "quantity": 240.0,
       "unit": "Grams",
       "strainName": "Banana Puddintain",
       "strainType": null,
@@ -26544,7 +26544,7 @@
         {
           "id": 8998446,
           "label": "1A40303000001F5000431274",
-          "quantity": 250.0,
+          "quantity": 240.0,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -26893,7 +26893,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.5,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "YAHE",
       "strainType": null,
@@ -26928,7 +26928,7 @@
         {
           "id": 8982674,
           "label": "1A40303000000CD000079813",
-          "quantity": 31.5,
+          "quantity": 28.0,
           "packagedDate": "2026-09-10",
           "expirationDate": null
         }
@@ -27732,7 +27732,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 63.0,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Candy Lemon Cherry Gelato",
       "strainType": null,
@@ -27766,7 +27766,7 @@
         {
           "id": 8881936,
           "label": "1A4030300004845000039294",
-          "quantity": 63.0,
+          "quantity": 56.0,
           "packagedDate": "2026-07-31",
           "expirationDate": null
         }
@@ -28182,7 +28182,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 80.5,
+      "quantity": 77.0,
       "unit": "Grams",
       "strainName": "Golden Pineapple OG",
       "strainType": "Sativa",
@@ -28220,7 +28220,7 @@
         {
           "id": 8970732,
           "label": "1A40303000003EA000263656",
-          "quantity": 80.5,
+          "quantity": 77.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-30"
         }
@@ -28669,54 +28669,6 @@
       ]
     },
     {
-      "id": 8882277,
-      "packageCount": 1,
-      "name": "In House Blueberry Buds-Usable-7g",
-      "brand": "In House",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Vault"
-      ],
-      "quantity": 161.0,
-      "unit": "Grams",
-      "strainName": "Blueberry",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 19.55,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.12,
-        "CBGA": 0.45,
-        "CBN": 0.0,
-        "THCA": 21.9,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.08,
-        "myrcene": 0.23,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.29,
-        "beta-pinene": 0.06,
-        "limonene": 0.44,
-        "linalool": 0.28
-      },
-      "totalTerps": 1.55,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8882277,
-          "label": "1A4030300003521000056050",
-          "quantity": 161.0,
-          "packagedDate": "2026-08-18",
-          "expirationDate": "2027-07-04"
-        }
-      ]
-    },
-    {
       "id": 8939181,
       "packageCount": 1,
       "name": "In House Gelato 33 Buds-Usable-3.5g",
@@ -28726,7 +28678,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Gelato 33",
       "strainType": null,
@@ -28759,7 +28711,7 @@
         {
           "id": 8939181,
           "label": "1A4030300003521000056673",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-08"
         }
@@ -29570,7 +29522,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 10.0,
       "unit": "Grams",
       "strainName": "Berry Payton",
       "strainType": null,
@@ -29603,7 +29555,7 @@
         {
           "id": 8872253,
           "label": "1A40303000007D1000093668",
-          "quantity": 20.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-17",
           "expirationDate": null
         }
@@ -31333,7 +31285,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 70.0,
+      "quantity": 63.0,
       "unit": "Grams",
       "strainName": "Guerilla Grape",
       "strainType": null,
@@ -31367,7 +31319,7 @@
         {
           "id": 8977232,
           "label": "1A4030300003A3C000090731",
-          "quantity": 70.0,
+          "quantity": 63.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-09-01"
         }
@@ -37678,52 +37630,6 @@
       ]
     },
     {
-      "id": 8882285,
-      "packageCount": 1,
-      "name": "NH Blueberry Preroll-Usable-.5g 2pk",
-      "brand": "NH",
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 12.0,
-      "unit": "Grams",
-      "strainName": "Blueberry",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 18.25,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.45,
-        "CBN": 0.0,
-        "THCA": 20.22,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.08,
-        "myrcene": 0.05,
-        "caryophyllene": 0.27,
-        "limonene": 0.1,
-        "linalool": 0.18
-      },
-      "totalTerps": 0.76,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8882285,
-          "label": "1A4030300003521000056054",
-          "quantity": 12.0,
-          "packagedDate": "2026-08-18",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8040613,
       "packageCount": 1,
       "name": "NH Cheese Infused Preroll-Concentrate-1g",
@@ -38716,7 +38622,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Grams",
       "strainName": "Pillow Mints",
       "strainType": null,
@@ -38749,7 +38655,7 @@
         {
           "id": 8596193,
           "label": "1A4030300000192000033998",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-06-15",
           "expirationDate": "2027-04-13"
         }
@@ -40106,7 +40012,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 55.0,
+      "quantity": 50.0,
       "unit": "Grams",
       "strainName": "Pank Lemonade",
       "strainType": null,
@@ -40139,7 +40045,7 @@
         {
           "id": 8968080,
           "label": "1A40303000040D9000006043",
-          "quantity": 55.0,
+          "quantity": 50.0,
           "packagedDate": "2026-09-08",
           "expirationDate": null
         }
@@ -51671,7 +51577,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Grape Ape",
       "strainType": null,
@@ -51706,7 +51612,7 @@
         {
           "id": 8842350,
           "label": "1A4030300003201000001524",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-10",
           "expirationDate": null
         }
