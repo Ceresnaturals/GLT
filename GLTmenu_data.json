@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T22:10:57.226411+00:00",
+  "generated_at": "2026-09-18T22:20:59.458180+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8580,6 +8580,56 @@
           "quantity": 17.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-14"
+        }
+      ]
+    },
+    {
+      "id": 8970469,
+      "packageCount": 1,
+      "name": "Rythm 5 Pack (Infused) - Pineapple Express (Hybrid) - Concentrate - 2.5g",
+      "brand": "Rythm",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 13.0,
+      "unit": "Each",
+      "strainName": "Pineapple Express",
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 39.41,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.81,
+        "CBN": 0.0,
+        "THCA": 43.6,
+        "THCV": 0.25
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.18,
+        "myrcene": 0.17,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.51,
+        "beta-pinene": 0.08,
+        "limonene": 0.25,
+        "linalool": 0.15,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 1.57,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8970469,
+          "label": "1A40303000003EA000263661",
+          "quantity": 13.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-08-18"
         }
       ]
     },
@@ -24086,6 +24136,63 @@
       ]
     },
     {
+      "id": 8794437,
+      "packageCount": 1,
+      "name": "Sunnies - Fruit Burst Nano Gummies - Edible Product - 10mg - 10Pcs",
+      "brand": "Sunnies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.24,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8794437,
+          "label": "1A40303000001F5000410813",
+          "quantity": 10.0,
+          "packagedDate": "2026-07-29",
+          "expirationDate": "2027-07-14"
+        }
+      ]
+    },
+    {
       "id": 8515754,
       "packageCount": 1,
       "name": "Sunnies - High Dose Cosmic Apple Nano Gummies - Exempt - 40mg - 10Pcs",
@@ -35159,7 +35266,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -35192,7 +35299,7 @@
         {
           "id": 8974569,
           "label": "1A40303000001F5000428936",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -40195,7 +40302,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 504.0,
+      "quantity": 476.0,
       "unit": "Grams",
       "strainName": "Stay Puft #7",
       "strainType": null,
@@ -40230,7 +40337,7 @@
         {
           "id": 8887717,
           "label": "1A40303000000C9000167732",
-          "quantity": 504.0,
+          "quantity": 476.0,
           "packagedDate": "2026-08-19",
           "expirationDate": null
         }
@@ -40246,7 +40353,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 140.0,
+      "quantity": 112.0,
       "unit": "Grams",
       "strainName": "Thunder Punch",
       "strainType": null,
@@ -40280,7 +40387,7 @@
         {
           "id": 8890047,
           "label": "1A40303000000C9000167813",
-          "quantity": 140.0,
+          "quantity": 112.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
