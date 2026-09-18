@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T17:00:30.976045+00:00",
+  "generated_at": "2026-09-18T17:10:28.972179+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -26060,55 +26060,6 @@
       ]
     },
     {
-      "id": 8923148,
-      "packageCount": 1,
-      "name": "BTY OG Garcia Hand Picked - Usable - 3.5 g",
-      "brand": "Garcia Hand Picked",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "BTY OG",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 22.52,
-        "totalCBD": 0.04,
-        "CBC": 0.0,
-        "CBDA": 0.05,
-        "CBDV": 0.0,
-        "CBG": 0.09,
-        "CBGA": 0.86,
-        "CBN": 0.0,
-        "THCA": 24.21,
-        "THCV": 0.14
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.2,
-        "myrcene": 1.02,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.75,
-        "beta-pinene": 0.09,
-        "limonene": 0.47,
-        "linalool": 0.27
-      },
-      "totalTerps": 3.0,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8923148,
-          "label": "1A403030000012E000187017",
-          "quantity": 3.5,
-          "packagedDate": "2026-08-27",
-          "expirationDate": "2027-07-22"
-        }
-      ]
-    },
-    {
       "id": 8091375,
       "packageCount": 1,
       "name": "Banana Bubbles-PR-0.5gx2",
@@ -26300,7 +26251,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 206.5,
+      "quantity": 203.0,
       "unit": "Grams",
       "strainName": "Blue Garlic",
       "strainType": null,
@@ -26333,7 +26284,7 @@
         {
           "id": 8968081,
           "label": "1A40303000040D9000006044",
-          "quantity": 206.5,
+          "quantity": 203.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-09-07"
         }
@@ -26499,7 +26450,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "YAHE",
       "strainType": null,
@@ -26534,7 +26485,7 @@
         {
           "id": 8982674,
           "label": "1A40303000000CD000079813",
-          "quantity": 38.5,
+          "quantity": 35.0,
           "packagedDate": "2026-09-10",
           "expirationDate": null
         }
@@ -26550,7 +26501,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 101.5,
+      "quantity": 98.0,
       "unit": "Grams",
       "strainName": "Charm Biscuitz",
       "strainType": null,
@@ -26583,7 +26534,7 @@
         {
           "id": 8943242,
           "label": "1A40303000040D9000005971",
-          "quantity": 101.5,
+          "quantity": 98.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-31"
         }
@@ -30312,7 +30263,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 38.5,
       "unit": "Grams",
       "strainName": "ONYCD 3.0",
       "strainType": null,
@@ -30346,7 +30297,7 @@
         {
           "id": 8939203,
           "label": "1A4030300003521000056676",
-          "quantity": 42.0,
+          "quantity": 38.5,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-12"
         }
@@ -30732,6 +30683,54 @@
           "quantity": 5.0,
           "packagedDate": "2026-06-16",
           "expirationDate": "2027-06-16"
+        }
+      ]
+    },
+    {
+      "id": 8998447,
+      "packageCount": 1,
+      "name": "SDG OG - Pre Pack Bud - 28 gram - Bag",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 448.0,
+      "unit": "Grams",
+      "strainName": "SDG OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.8,
+        "totalCBD": 0.22,
+        "CBDA": 0.02,
+        "CBG": 0.47,
+        "CBN": 0.02,
+        "THCA": 30.88
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.04,
+        "humulene": 0.24,
+        "myrcene": 0.63,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.84,
+        "beta-pinene": 0.06,
+        "ocimene": 0.01,
+        "limonene": 0.45,
+        "linalool": 0.14,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.51,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8998447,
+          "label": "1A40303000001F5000431275",
+          "quantity": 448.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": null
         }
       ]
     },
@@ -53352,7 +53351,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "White Widow",
       "strainType": null,
@@ -53387,7 +53386,7 @@
         {
           "id": 8945081,
           "label": "1A403030000283D000060838",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-26"
         }
