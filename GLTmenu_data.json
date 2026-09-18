@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T17:50:33.413424+00:00",
+  "generated_at": "2026-09-18T18:00:41.635176+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2027,6 +2027,59 @@
           "quantity": 28.0,
           "packagedDate": "2026-08-04",
           "expirationDate": "2027-07-07"
+        }
+      ]
+    },
+    {
+      "id": 8998455,
+      "packageCount": 1,
+      "name": "Cinnamon Rolls LR Batter 1.0g/1000mg",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Cinnamon Rolls LR",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 72.23,
+        "totalCBD": 0.16,
+        "CBC": 0.0,
+        "CBDA": 0.18,
+        "CBDV": 0.0,
+        "CBG": 0.41,
+        "CBGA": 1.76,
+        "CBN": 0.0,
+        "THCA": 78.93,
+        "THCV": 0.35
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.57,
+        "myrcene": 0.95,
+        "alpha-pinene": 0.74,
+        "caryophyllene": 1.28,
+        "eudesmol": 0.08,
+        "beta-pinene": 0.56,
+        "ocimene": 0.63,
+        "limonene": 2.32,
+        "linalool": 1.31,
+        "terpinolene": 0.09
+      },
+      "totalTerps": 9.86,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8998455,
+          "label": "1A40303000001F5000431283",
+          "quantity": 20.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-03-19"
         }
       ]
     },
@@ -19060,7 +19113,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19099,7 +19152,7 @@
         {
           "id": 8914614,
           "label": "1A4030300002009000112787",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-05-18"
         }
@@ -22458,6 +22511,63 @@
           "quantity": 2.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-04-29"
+        }
+      ]
+    },
+    {
+      "id": 8998452,
+      "packageCount": 1,
+      "name": "Oria - High Dose Berry Bliss Gummies - Exempt - 40mg - 10Pcs",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.88,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.03,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.236,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8998452,
+          "label": "1A40303000001F5000431280",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-06-12"
         }
       ]
     },
@@ -26240,6 +26350,55 @@
       ]
     },
     {
+      "id": 8998446,
+      "packageCount": 1,
+      "name": "Banana Puddintain - Pre Ground Bud - 10 gram - Pouch",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 250.0,
+      "unit": "Grams",
+      "strainName": "Banana Puddintain",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.99,
+        "totalCBD": 0.34,
+        "CBDA": 0.05,
+        "CBG": 0.17,
+        "CBN": 0.01,
+        "THCA": 30.43
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.16,
+        "myrcene": 0.68,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.41,
+        "beta-pinene": 0.09,
+        "ocimene": 0.01,
+        "limonene": 0.53,
+        "linalool": 0.01,
+        "terpinolene": 0.02,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.06,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8998446,
+          "label": "1A40303000001F5000431274",
+          "quantity": 250.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8974566,
       "packageCount": 1,
       "name": "Banana Puddintain-Pre Pack Bud-3.5 gram-Plastic Container",
@@ -27862,6 +28021,55 @@
       ]
     },
     {
+      "id": 8998444,
+      "packageCount": 1,
+      "name": "Golden Pineapple - Pre Pack Bud - 3.5 gram- Plastic Container",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 87.5,
+      "unit": "Grams",
+      "strainName": "Golden Pineapple",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.62,
+        "totalCBD": 0.32,
+        "CBDA": 0.09,
+        "CBG": 0.14,
+        "CBN": 0.0,
+        "THCA": 31.89
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.01,
+        "humulene": 0.04,
+        "myrcene": 0.26,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.14,
+        "beta-pinene": 0.09,
+        "ocimene": 0.24,
+        "limonene": 0.17,
+        "linalool": 0.02,
+        "terpinolene": 1.13,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.35,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8998444,
+          "label": "1A40303000001F5000431272",
+          "quantity": 87.5,
+          "packagedDate": "2026-09-15",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8970732,
       "packageCount": 1,
       "name": "Golden Pineapple OG Pre-Pack (Buds) - Rythm (Sativa Dominant) - Usable - 3.5g",
@@ -28909,7 +29117,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 420.0,
+      "quantity": 392.0,
       "unit": "Grams",
       "strainName": "Kush Breath",
       "strainType": null,
@@ -28944,7 +29152,7 @@
         {
           "id": 8966594,
           "label": "1A403030000012E000190903",
-          "quantity": 420.0,
+          "quantity": 392.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-19"
         }
@@ -30573,6 +30781,55 @@
       ]
     },
     {
+      "id": 8998445,
+      "packageCount": 1,
+      "name": "Permanent Marker - Pre Pack Bud - 3.5 gram - Plastic Container",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 87.5,
+      "unit": "Grams",
+      "strainName": "Permanent Marker",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.55,
+        "totalCBD": 0.19,
+        "CBDA": 0.06,
+        "CBG": 0.15,
+        "CBN": 0.01,
+        "THCA": 27.09
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.04,
+        "humulene": 0.17,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.18,
+        "caryophyllene": 0.55,
+        "beta-pinene": 0.08,
+        "ocimene": 0.08,
+        "limonene": 0.61,
+        "linalool": 0.28,
+        "terpinolene": 0.02,
+        "nerolidol": 0.02
+      },
+      "totalTerps": 2.27,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8998445,
+          "label": "1A40303000001F5000431273",
+          "quantity": 87.5,
+          "packagedDate": "2026-09-15",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8751019,
       "packageCount": 1,
       "name": "Pie Crust | Georgies | 2.5g",
@@ -31563,7 +31820,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.5,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -31596,7 +31853,7 @@
         {
           "id": 8947055,
           "label": "1A40303000000CB000051188",
-          "quantity": 45.5,
+          "quantity": 42.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         }
@@ -35285,6 +35542,52 @@
       ]
     },
     {
+      "id": 8998457,
+      "packageCount": 1,
+      "name": "Gush Mints Diamond Dust IPRJ 1.0g/1000mg - 1 Single",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Gush Mints Dust",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 44.92,
+        "totalCBD": 0.22,
+        "CBDA": 0.03,
+        "CBG": 0.24,
+        "CBN": 0.01,
+        "THCA": 49.94
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.16,
+        "myrcene": 0.03,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.51,
+        "beta-pinene": 0.03,
+        "limonene": 0.21,
+        "linalool": 0.14,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 1.23,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8998457,
+          "label": "1A40303000001F5000431285",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-07-17"
+        }
+      ]
+    },
+    {
       "id": 8919840,
       "packageCount": 1,
       "name": "Hash Burger #7 5 Pack - Dogwalkers (Sit) - Usable - 1.75g",
@@ -37468,7 +37771,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Cheese",
       "strainType": null,
@@ -37502,7 +37805,7 @@
         {
           "id": 8040613,
           "label": "1A4030300003522000169462",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-02-05",
           "expirationDate": null
         }
@@ -38980,6 +39283,55 @@
       ]
     },
     {
+      "id": 8998456,
+      "packageCount": 1,
+      "name": "Strawberry Candy #4 - Diamond Duster 0.5g Infused Pre-Roll 5-Pack Tin",
+      "brand": "Diamond Duster",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Strawberry Candy",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 43.55,
+        "totalCBD": 0.03,
+        "CBC": 0.0,
+        "CBDA": 0.03,
+        "CBDV": 0.0,
+        "CBG": 0.2,
+        "CBGA": 0.42,
+        "CBN": 0.0,
+        "THCA": 48.01,
+        "THCV": 0.35
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.05,
+        "myrcene": 0.17,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.17,
+        "beta-pinene": 0.02,
+        "limonene": 0.11,
+        "linalool": 0.07
+      },
+      "totalTerps": 0.64,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8998456,
+          "label": "1A40303000001F5000431284",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-04-02"
+        }
+      ]
+    },
+    {
       "id": 8966514,
       "packageCount": 1,
       "name": "Strawberry Haze Hellavated Juicy Stickz - Infused Pre-roll - 0.75 g",
@@ -39125,6 +39477,55 @@
           "quantity": 32.5,
           "packagedDate": "2025-12-11",
           "expirationDate": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "id": 8998448,
+      "packageCount": 1,
+      "name": "Sunshine #4 - Pre Roll Joints - 0.5 gram - 5 Pack Tin",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Grams",
+      "strainName": "Sunshine #4",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.06,
+        "totalCBD": 0.42,
+        "CBDA": 0.07,
+        "CBG": 1.02,
+        "CBN": 0.01,
+        "THCA": 33.96
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.17,
+        "myrcene": 0.65,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 0.41,
+        "beta-pinene": 0.06,
+        "ocimene": 0.08,
+        "limonene": 0.63,
+        "linalool": 0.15,
+        "terpinolene": 0.02,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.48,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8998448,
+          "label": "1A40303000001F5000431276",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": null
         }
       ]
     },
@@ -39377,6 +39778,102 @@
       ]
     },
     {
+      "id": 8998449,
+      "packageCount": 1,
+      "name": "Voyager - Pre Roll Joints - 0.5 gram - 2 Pack",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Grams",
+      "strainName": "Voyager",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.82,
+        "totalCBD": 0.27,
+        "CBDA": 0.05,
+        "CBG": 0.16,
+        "CBN": 0.01,
+        "THCA": 27.73
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.01,
+        "humulene": 0.05,
+        "myrcene": 0.2,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.11,
+        "beta-pinene": 0.08,
+        "ocimene": 0.09,
+        "limonene": 0.11,
+        "linalool": 0.04,
+        "terpinolene": 0.32
+      },
+      "totalTerps": 1.17,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8998449,
+          "label": "1A40303000001F5000431277",
+          "quantity": 50.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8998450,
+      "packageCount": 1,
+      "name": "Watermelon Gelato - Pre Roll Joints - 0.5 gram - 2 Pack",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Grams",
+      "strainName": "Watermelon Gelato TC",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.75,
+        "totalCBD": 0.17,
+        "CBDA": 0.03,
+        "CBG": 0.59,
+        "CBN": 0.02,
+        "THCA": 27.74
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.03,
+        "humulene": 0.18,
+        "myrcene": 0.44,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.44,
+        "beta-pinene": 0.08,
+        "limonene": 0.46,
+        "linalool": 0.23,
+        "terpinolene": 0.02,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.02,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8998450,
+          "label": "1A40303000001F5000431278",
+          "quantity": 50.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8746344,
       "packageCount": 1,
       "name": "White OG 5 pack (Infused) Dogwalkers (Sit) - Concentrate - 2.25g",
@@ -39581,57 +40078,6 @@
           "label": "1A40303000040D9000006042",
           "quantity": 60.0,
           "packagedDate": "2026-09-08",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8946809,
-      "packageCount": 1,
-      "name": "Just Flower Packaged Ready to Roll (Cherry Pie) - Usable - 15g",
-      "brand": null,
-      "category": "Shake/Trim",
-      "metrcCategory": "Shake/Trim",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 30.0,
-      "unit": "Grams",
-      "strainName": "Just Packaged Ready to Roll",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 22.86,
-        "totalCBD": 0.06,
-        "CBC": 0.0,
-        "CBDA": 0.07,
-        "CBDV": 0.0,
-        "CBG": 0.11,
-        "CBGA": 1.63,
-        "CBN": 0.0,
-        "THCA": 25.3,
-        "THCV": 0.18
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.13,
-        "myrcene": 0.26,
-        "alpha-pinene": 0.12,
-        "caryophyllene": 0.43,
-        "beta-pinene": 0.15,
-        "ocimene": 0.27,
-        "limonene": 0.14,
-        "linalool": 0.01,
-        "terpinolene": 1.2
-      },
-      "totalTerps": 2.9,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8946809,
-          "label": "1A4030300004845000041487",
-          "quantity": 30.0,
-          "packagedDate": "2026-08-25",
           "expirationDate": null
         }
       ]
@@ -42275,6 +42721,54 @@
       ]
     },
     {
+      "id": 8998533,
+      "packageCount": 1,
+      "name": "Airo Pod Northern Lights 1.0g/1000mg",
+      "brand": "Airo",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Northern Lights",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.43,
+        "totalCBD": 0.15,
+        "CBC": 0.62,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.84,
+        "CBGA": 0.0,
+        "CBN": 0.3,
+        "THCA": 0.0,
+        "THCV": 0.26
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 1.02,
+        "alpha-pinene": 0.59,
+        "caryophyllene": 0.93,
+        "beta-pinene": 0.59,
+        "linalool": 0.22,
+        "terpinolene": 2.33
+      },
+      "totalTerps": 6.45,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8998533,
+          "label": "1A40303000001F5000431279",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-06-01"
+        }
+      ]
+    },
+    {
       "id": 8303027,
       "packageCount": 1,
       "name": "Airo Pod Pineapple Express 1.0g/1000mg",
@@ -43193,7 +43687,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Banana Munson",
       "strainType": null,
@@ -43229,7 +43723,7 @@
         {
           "id": 8947157,
           "label": "1A40303000001F5000425616",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-01"
         }
@@ -52609,6 +53103,56 @@
       ]
     },
     {
+      "id": 8998453,
+      "packageCount": 1,
+      "name": "London Pound Cake DV 1.0g/1000mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "London Pound Cake DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.58,
+        "totalCBD": 0.17,
+        "CBC": 0.57,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.09,
+        "CBGA": 0.0,
+        "CBN": 0.35,
+        "THCA": 0.0,
+        "THCV": 0.23
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.15,
+        "myrcene": 2.61,
+        "alpha-pinene": 1.07,
+        "caryophyllene": 1.06,
+        "beta-pinene": 0.58,
+        "limonene": 2.69,
+        "linalool": 1.15,
+        "terpinolene": 0.11
+      },
+      "totalTerps": 10.45,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8998453,
+          "label": "1A40303000001F5000431281",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-06-10"
+        }
+      ]
+    },
+    {
       "id": 8974643,
       "packageCount": 1,
       "name": "London Pound Cake DV 2.0g/2000mg Disposable",
@@ -56490,6 +57034,56 @@
           "quantity": 12.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-08-19"
+        }
+      ]
+    },
+    {
+      "id": 8998454,
+      "packageCount": 1,
+      "name": "Rocket Pop DV 0.5g/500mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Rocket Pop DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.2,
+        "totalCBD": 0.15,
+        "CBC": 0.55,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.07,
+        "CBGA": 0.0,
+        "CBN": 0.36,
+        "THCA": 0.0,
+        "THCV": 0.23
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.03,
+        "myrcene": 1.55,
+        "alpha-pinene": 0.52,
+        "caryophyllene": 1.04,
+        "beta-pinene": 0.88,
+        "limonene": 2.03,
+        "linalool": 0.75,
+        "terpinolene": 0.39
+      },
+      "totalTerps": 8.79,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8998454,
+          "label": "1A40303000001F5000431282",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-07-14"
         }
       ]
     },
