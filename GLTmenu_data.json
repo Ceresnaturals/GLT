@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T22:30:27.750779+00:00",
+  "generated_at": "2026-09-18T22:40:28.602745+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10919,7 +10919,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10960,7 +10960,7 @@
         {
           "id": 8998027,
           "label": "1A40303000001F5000431210",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-07-30"
         }
@@ -13083,7 +13083,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13122,7 +13122,7 @@
         {
           "id": 8996301,
           "label": "1A4030300003522000211316",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-09-02"
         }
@@ -31031,57 +31031,6 @@
       ]
     },
     {
-      "id": 8911109,
-      "packageCount": 1,
-      "name": "Red Zushi Pre-Pack 3.5g",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 63.0,
-      "unit": "Grams",
-      "strainName": "Red Zushi 1",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 30.28,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.65,
-        "CBN": 0.0,
-        "THCA": 34.26,
-        "THCV": 0.07
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.18,
-        "myrcene": 0.37,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 0.73,
-        "eudesmol": 0.12,
-        "beta-pinene": 0.07,
-        "limonene": 0.55,
-        "linalool": 0.13,
-        "nerolidol": 0.05
-      },
-      "totalTerps": 2.49,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8911109,
-          "label": "1A40303000000CB000050585",
-          "quantity": 63.0,
-          "packagedDate": "2026-08-25",
-          "expirationDate": "2027-07-21"
-        }
-      ]
-    },
-    {
       "id": 8894099,
       "packageCount": 1,
       "name": "Reserve Stix - Forum Cut Cookies - Usable - 1g",
@@ -40204,7 +40153,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 76.6,
+      "quantity": 59.1,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -40237,7 +40186,7 @@
         {
           "id": 8858500,
           "label": "1A40303000001F5000416989",
-          "quantity": 76.6,
+          "quantity": 59.1,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -51363,56 +51312,6 @@
           "quantity": 17.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-05-27"
-        }
-      ]
-    },
-    {
-      "id": 8922976,
-      "packageCount": 1,
-      "name": "Juicee J Distillate Cartridge Strane - Vape Cart - 1 g",
-      "brand": "Strane",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Vault"
-      ],
-      "quantity": 7.0,
-      "unit": "Each",
-      "strainName": "Juicee J",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 82.03,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.43,
-        "CBGA": 0.0,
-        "CBN": 0.64,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.46,
-        "myrcene": 0.34,
-        "alpha-pinene": 0.73,
-        "caryophyllene": 1.54,
-        "beta-pinene": 0.29,
-        "ocimene": 0.19,
-        "limonene": 2.29,
-        "linalool": 0.3,
-        "terpinolene": 0.15
-      },
-      "totalTerps": 6.5,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8922976,
-          "label": "1A403030000012E000187015",
-          "quantity": 7.0,
-          "packagedDate": "2026-08-27",
-          "expirationDate": "2027-05-31"
         }
       ]
     },
