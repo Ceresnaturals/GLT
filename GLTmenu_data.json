@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T19:30:31.609310+00:00",
+  "generated_at": "2026-09-18T19:40:29.498776+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2290,16 +2290,15 @@
     },
     {
       "id": 8970730,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Dr. Solomon's RSO - THC Rich (Hybrid) - Jet Fuel OG - Concentrate - 1000mg",
       "brand": "Dr. Solomon's",
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Jet Fuel OG",
       "strainType": "Hybrid",
@@ -2336,28 +2335,20 @@
           "quantity": 10.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-23"
-        },
-        {
-          "id": 8891364,
-          "label": "1A40303000003EA000205089",
-          "quantity": 2.0,
-          "packagedDate": "2026-08-20",
-          "expirationDate": "2027-07-23"
         }
       ]
     },
     {
       "id": 9003282,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Dr. Solomon's RSO - THC Rich (Indica) - Wedding Cake Bx1 - Concentrate - 1000mg",
       "brand": "Dr. Solomon's",
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Wedding Cake Bx1",
       "strainType": "Indica",
@@ -2393,13 +2384,6 @@
           "label": "1A40303000003EA000266193",
           "quantity": 10.0,
           "packagedDate": "2026-09-16",
-          "expirationDate": "2027-07-01"
-        },
-        {
-          "id": 8944210,
-          "label": "1A40303000003EA000264679",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-01"
         }
       ]
@@ -8045,6 +8029,56 @@
       ]
     },
     {
+      "id": 8968852,
+      "packageCount": 1,
+      "name": "RO-CrdShatter-1g-PinkCertz-I-MD (260819MED106681)-Concentrate",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "RO CrdShatter PinkCertz I MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 76.76,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.27,
+        "CBN": 0.0,
+        "THCA": 87.53,
+        "THCV": 0.43
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.22,
+        "humulene": 0.66,
+        "myrcene": 0.49,
+        "alpha-pinene": 0.16,
+        "caryophyllene": 2.75,
+        "beta-pinene": 0.21,
+        "limonene": 1.34,
+        "linalool": 0.93,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 7.23,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8968852,
+          "label": "1A403030000238D000107266",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-08-23"
+        }
+      ]
+    },
+    {
       "id": 8968491,
       "packageCount": 1,
       "name": "RO-CrdShatter-1g-ThunderPunch-S-MD (260806MED106153)-Concentrate",
@@ -11398,7 +11432,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11437,7 +11471,7 @@
         {
           "id": 8838272,
           "label": "1A40303000017D5000103032",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-05-29",
           "expirationDate": "2027-05-29"
         }
@@ -25257,7 +25291,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -25296,7 +25330,7 @@
         {
           "id": 8762410,
           "label": "1A403030000390D000065058",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-07-22",
           "expirationDate": "2027-04-09"
         }
@@ -25313,7 +25347,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -25359,7 +25393,7 @@
         {
           "id": 8743702,
           "label": "1A403030000390D000065938",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-07-17",
           "expirationDate": "2027-07-07"
         }
@@ -27945,7 +27979,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "Garlic Breath",
       "strainType": null,
@@ -27979,7 +28013,7 @@
         {
           "id": 8768959,
           "label": "1A40303000000C9000164871",
-          "quantity": 35.0,
+          "quantity": 31.5,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-07-19"
         }
@@ -35516,7 +35550,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Gush Mints Dust",
       "strainType": null,
@@ -35546,7 +35580,7 @@
         {
           "id": 8998457,
           "label": "1A40303000001F5000431285",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-07-17"
         }
