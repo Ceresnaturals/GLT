@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T17:10:28.972179+00:00",
+  "generated_at": "2026-09-18T17:20:30.599558+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10702,16 +10702,17 @@
       ]
     },
     {
-      "id": 8947815,
-      "packageCount": 1,
+      "id": 8998119,
+      "packageCount": 2,
       "name": "Sunnies Socials -Watermelon Sparkling Water - Liquid Edible -10mg -1",
       "brand": "Sunnies",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10749,6 +10750,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8998119,
+          "label": "1A40303000001F5000431211",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-07-31"
+        },
         {
           "id": 8947815,
           "label": "1A40303000001F5000425702",
@@ -10947,7 +10955,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10988,7 +10996,7 @@
         {
           "id": 8974482,
           "label": "1A4030300000C83000081723",
-          "quantity": 14.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-17"
         }
@@ -18073,61 +18081,6 @@
       ]
     },
     {
-      "id": 8870788,
-      "packageCount": 1,
-      "name": "Encore Gummies (RSO) - Sour Black Cherry - Edible Product - 10mg - 10pc*",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.278,
-        "CBC": 0.003,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.012,
-        "CBGA": 0.0,
-        "CBN": 0.002,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.105,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.42,
-          "CBGA": 0.0,
-          "CBN": 0.07,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8870788,
-          "label": "1A40303000017D5000103606",
-          "quantity": 1.0,
-          "packagedDate": "2026-06-30",
-          "expirationDate": "2027-06-30"
-        }
-      ]
-    },
-    {
       "id": 8958683,
       "packageCount": 1,
       "name": "Encore Gummies (RSO) - Tropical Mango - Edible Product - 10mg - 10pc*",
@@ -24334,7 +24287,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -24375,7 +24328,7 @@
         {
           "id": 8939256,
           "label": "1A4030300003522000210589",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-07"
         }
@@ -24562,7 +24515,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -24603,7 +24556,7 @@
         {
           "id": 8939378,
           "label": "1A4030300003522000210590",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-14"
         }
