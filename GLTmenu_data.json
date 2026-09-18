@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T18:40:29.091073+00:00",
+  "generated_at": "2026-09-18T18:50:28.886039+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2398,16 +2398,17 @@
       ]
     },
     {
-      "id": 8944210,
-      "packageCount": 1,
+      "id": 9003282,
+      "packageCount": 2,
       "name": "Dr. Solomon's RSO - THC Rich (Indica) - Wedding Cake Bx1 - Concentrate - 1000mg",
       "brand": "Dr. Solomon's",
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Wedding Cake Bx1",
       "strainType": "Indica",
@@ -2438,6 +2439,13 @@
       "totalTerps": 14.28,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 9003282,
+          "label": "1A40303000003EA000266193",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-07-01"
+        },
         {
           "id": 8944210,
           "label": "1A40303000003EA000264679",
@@ -10310,7 +10318,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10351,7 +10359,7 @@
         {
           "id": 8947753,
           "label": "1A40303000001F5000425697",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-14"
         }
@@ -10538,7 +10546,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10579,7 +10587,7 @@
         {
           "id": 8731140,
           "label": "1A40303000001F5000404803",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-05-12"
         }
@@ -10595,7 +10603,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10636,7 +10644,7 @@
         {
           "id": 8920318,
           "label": "1A40303000001F5000423550",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-13"
         }
@@ -10708,7 +10716,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 28.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10756,7 +10764,7 @@
         {
           "id": 8972981,
           "label": "1A40303000001F5000428807",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -10829,7 +10837,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10870,7 +10878,7 @@
         {
           "id": 8947814,
           "label": "1A40303000001F5000425701",
-          "quantity": 21.0,
+          "quantity": 19.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-21"
         }
@@ -10886,7 +10894,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10927,7 +10935,7 @@
         {
           "id": 8972983,
           "label": "1A40303000001F5000428808",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-23"
         }
@@ -10935,16 +10943,15 @@
     },
     {
       "id": 8998119,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Sunnies Socials -Watermelon Sparkling Water - Liquid Edible -10mg -1",
       "brand": "Sunnies",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10988,13 +10995,6 @@
           "quantity": 24.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-07-31"
-        },
-        {
-          "id": 8947815,
-          "label": "1A40303000001F5000425702",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-02",
-          "expirationDate": "2027-07-31"
         }
       ]
     },
@@ -11008,7 +11008,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11049,7 +11049,7 @@
         {
           "id": 8886711,
           "label": "1A4030300000C83000081041",
-          "quantity": 6.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-07-15"
         }
@@ -11130,7 +11130,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11171,7 +11171,7 @@
         {
           "id": 8974480,
           "label": "1A4030300000C83000081722",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-17"
         }
@@ -11187,7 +11187,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11228,7 +11228,7 @@
         {
           "id": 8974482,
           "label": "1A4030300000C83000081723",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-17"
         }
@@ -21248,16 +21248,17 @@
       ]
     },
     {
-      "id": 8826445,
-      "packageCount": 1,
+      "id": 9003338,
+      "packageCount": 2,
       "name": "IncrEdibles Sour Tangahhhrine Gummy 100mg - (2:1 CBD:THC)-Edible Product-10mg-10 Pieces",
       "brand": "Incredibles",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21296,6 +21297,13 @@
       "dominantTerpene": null,
       "packages": [
         {
+          "id": 9003338,
+          "label": "1A40303000003EA000266187",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-07-02"
+        },
+        {
           "id": 8826445,
           "label": "1A40303000003EA000195250",
           "quantity": 4.0,
@@ -21314,7 +21322,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21355,7 +21363,7 @@
         {
           "id": 8809458,
           "label": "1A40303000003EA000194161",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-03",
           "expirationDate": "2027-03-10"
         }
@@ -21778,7 +21786,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21819,7 +21827,7 @@
         {
           "id": 8891520,
           "label": "1A40303000003EA000205080",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-05-18"
         }
@@ -21835,7 +21843,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21876,7 +21884,7 @@
         {
           "id": 8607699,
           "label": "1A40303000003EA000191722",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-06-17",
           "expirationDate": "2027-04-22"
         }
@@ -24804,7 +24812,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -24845,7 +24853,7 @@
         {
           "id": 8939378,
           "label": "1A4030300003522000210590",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-14"
         }
@@ -28969,7 +28977,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 24.5,
       "unit": "Grams",
       "strainName": "Georgia Mintz",
       "strainType": null,
@@ -29003,7 +29011,7 @@
         {
           "id": 8954085,
           "label": "1A403030000025B000086985",
-          "quantity": 28.0,
+          "quantity": 24.5,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-08-19"
         }
@@ -37530,7 +37538,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 112.0,
+      "quantity": 108.5,
       "unit": "Grams",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -37562,7 +37570,7 @@
         {
           "id": 8974467,
           "label": "1A40303000000CB000051666",
-          "quantity": 112.0,
+          "quantity": 108.5,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-03"
         }
