@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T01:50:26.359071+00:00",
+  "generated_at": "2026-09-18T13:00:35.042408+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9150,6 +9150,57 @@
           "quantity": 1.0,
           "packagedDate": "2026-04-24",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8966424,
+      "packageCount": 1,
+      "name": "Super Gremlin Infused Preground Flower - Usable - 7 g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Each",
+      "strainName": "Super Gremlin Preground",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 36.33,
+        "totalCBD": 0.1,
+        "CBC": 0.08,
+        "CBDA": 0.05,
+        "CBDV": 0.0,
+        "CBG": 0.62,
+        "CBGA": 0.88,
+        "CBN": 0.13,
+        "THCA": 20.2,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.13,
+        "myrcene": 0.1,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.41,
+        "beta-pinene": 0.04,
+        "ocimene": 0.04,
+        "limonene": 0.21,
+        "linalool": 0.41,
+        "terpinolene": 0.21
+      },
+      "totalTerps": 1.68,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8966424,
+          "label": "1A403030000012E000192652",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-07-20"
         }
       ]
     },
@@ -27935,6 +27986,57 @@
       ]
     },
     {
+      "id": 8966593,
+      "packageCount": 1,
+      "name": "Highaleah Strane - Usable - 3.5 g",
+      "brand": "Strane",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 56.0,
+      "unit": "Grams",
+      "strainName": "Highaleah",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.22,
+        "totalCBD": 0.05,
+        "CBC": 0.0,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.14,
+        "CBGA": 1.25,
+        "CBN": 0.0,
+        "THCA": 29.85,
+        "THCV": 0.16
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.02,
+        "myrcene": 0.54,
+        "alpha-pinene": 0.12,
+        "caryophyllene": 0.08,
+        "beta-pinene": 0.14,
+        "ocimene": 0.27,
+        "limonene": 0.28,
+        "linalool": 0.07,
+        "terpinolene": 1.42
+      },
+      "totalTerps": 3.2,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8966593,
+          "label": "1A403030000012E000190900",
+          "quantity": 56.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-08-26"
+        }
+      ]
+    },
+    {
       "id": 8642206,
       "packageCount": 1,
       "name": "Huckleberry Soda 5 PrePack 3.5g",
@@ -28719,6 +28821,57 @@
           "quantity": 21.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-07-22"
+        }
+      ]
+    },
+    {
+      "id": 8966594,
+      "packageCount": 1,
+      "name": "Kush Breath Smalls Stash - Usable - 28 g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 448.0,
+      "unit": "Grams",
+      "strainName": "Kush Breath",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.41,
+        "totalCBD": 0.05,
+        "CBC": 0.0,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.09,
+        "CBGA": 1.85,
+        "CBN": 0.0,
+        "THCA": 28.41,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.21,
+        "myrcene": 0.03,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.53,
+        "beta-pinene": 0.06,
+        "caryophyllene-oxide": 0.01,
+        "limonene": 0.4,
+        "linalool": 0.55
+      },
+      "totalTerps": 1.94,
+      "dominantTerpene": "linalool",
+      "packages": [
+        {
+          "id": 8966594,
+          "label": "1A403030000012E000190903",
+          "quantity": 448.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-08-19"
         }
       ]
     },
@@ -39804,6 +39957,107 @@
           "label": "1A40303000001F5000423349",
           "quantity": 430.63,
           "packagedDate": "2026-08-26",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8887717,
+      "packageCount": 1,
+      "name": "Stay Puft Shake/Trim 28g",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 504.0,
+      "unit": "Grams",
+      "strainName": "Stay Puft #7",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 18.29,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.72,
+        "CBN": 0.0,
+        "THCA": 20.56,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.08,
+        "myrcene": 0.17,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.28,
+        "beta-pinene": 0.07,
+        "ocimene": 0.03,
+        "limonene": 0.47,
+        "linalool": 0.17,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 1.6,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8887717,
+          "label": "1A40303000000C9000167732",
+          "quantity": 504.0,
+          "packagedDate": "2026-08-19",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8890047,
+      "packageCount": 1,
+      "name": "Thunder Punch Shake/Trim 14g",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 252.0,
+      "unit": "Grams",
+      "strainName": "Thunder Punch",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 20.23,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.75,
+        "CBN": 0.0,
+        "THCA": 22.7,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.1,
+        "myrcene": 0.37,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.39,
+        "eudesmol": 0.11,
+        "beta-pinene": 0.03,
+        "limonene": 0.13,
+        "linalool": 0.17
+      },
+      "totalTerps": 1.61,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8890047,
+          "label": "1A40303000000C9000167813",
+          "quantity": 252.0,
+          "packagedDate": "2026-08-20",
           "expirationDate": null
         }
       ]
