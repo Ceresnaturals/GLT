@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:50:28.892448+00:00",
+  "generated_at": "2026-09-18T17:00:30.976045+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -30892,7 +30892,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Grape Bubblegum",
       "strainType": null,
@@ -30928,7 +30928,7 @@
         {
           "id": 8954211,
           "label": "1A4030300003A3C000090436",
-          "quantity": 28.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-08-26"
         }
@@ -31484,7 +31484,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 52.5,
+      "quantity": 45.5,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -31517,7 +31517,7 @@
         {
           "id": 8947055,
           "label": "1A40303000000CB000051188",
-          "quantity": 52.5,
+          "quantity": 45.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-11"
         }
@@ -34012,7 +34012,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Grams",
       "strainName": "Tropicana Cherry",
       "strainType": null,
@@ -34045,7 +34045,7 @@
         {
           "id": 8926319,
           "label": "1A403030000012D000262971",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         }
@@ -35396,6 +35396,57 @@
           "quantity": 4.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-01"
+        }
+      ]
+    },
+    {
+      "id": 8809460,
+      "packageCount": 1,
+      "name": "Jack's Delight 5 Pack (Infused) Dogwalkers (Play ) - Concentrate - 2.25g",
+      "brand": "Dogwalkers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Jack's Delight",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 38.28,
+        "totalCBD": 0.04,
+        "CBC": 0.0,
+        "CBDA": 0.05,
+        "CBDV": 0.0,
+        "CBG": 0.11,
+        "CBGA": 1.38,
+        "CBN": 0.0,
+        "THCA": 41.77,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.2,
+        "myrcene": 0.24,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.64,
+        "beta-pinene": 0.07,
+        "ocimene": 0.21,
+        "limonene": 0.12,
+        "linalool": 0.06,
+        "terpinolene": 1.01
+      },
+      "totalTerps": 2.75,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8809460,
+          "label": "1A40303000003EA000194165",
+          "quantity": 10.0,
+          "packagedDate": "2026-08-03",
+          "expirationDate": "2027-07-09"
         }
       ]
     },
