@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T23:00:37.992041+00:00",
+  "generated_at": "2026-09-19T23:10:32.559760+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3298,7 +3298,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Golden Valley Glaze",
       "strainType": null,
@@ -3334,7 +3334,7 @@
         {
           "id": 8974571,
           "label": "1A40303000001F5000428943",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-23"
         }
@@ -14846,7 +14846,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14885,7 +14885,7 @@
         {
           "id": 8678611,
           "label": "1A403030000012D000253356",
-          "quantity": 15.0,
+          "quantity": 12.0,
           "packagedDate": "2026-07-02",
           "expirationDate": null
         }
@@ -31524,7 +31524,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 49.0,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Velcroz",
       "strainType": "Hybrid",
@@ -31559,7 +31559,7 @@
         {
           "id": 8970472,
           "label": "1A40303000003EA000263657",
-          "quantity": 49.0,
+          "quantity": 42.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-07"
         }
@@ -44492,7 +44492,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Blue Hawaiian Slyde Rechargeable",
       "strainType": null,
@@ -44527,7 +44527,7 @@
         {
           "id": 8508535,
           "label": "1A4030300000C83000071958",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-05-26",
           "expirationDate": "2027-05-05"
         }
@@ -58774,6 +58774,52 @@
           "quantity": 15.0,
           "packagedDate": "2026-01-13",
           "expirationDate": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "id": 8583736,
+      "packageCount": 1,
+      "name": "Super Boof Rip Sticks Strane - Vape Cart - 1 g",
+      "brand": "Strane",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 9.0,
+      "unit": "Each",
+      "strainName": "Super Boof Rip Sticks",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.19,
+        "CBC": 0.69,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.74,
+        "CBGA": 0.0,
+        "CBN": 0.39,
+        "THCA": 0.0,
+        "THCV": 1.37
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.08,
+        "myrcene": 0.99,
+        "caryophyllene": 1.93,
+        "limonene": 1.68,
+        "linalool": 0.45
+      },
+      "totalTerps": 5.43,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8583736,
+          "label": "1A403030000012E000166353",
+          "quantity": 9.0,
+          "packagedDate": "2026-06-11",
+          "expirationDate": "2027-05-02"
         }
       ]
     },
