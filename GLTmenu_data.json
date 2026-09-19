@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:10:33.475505+00:00",
+  "generated_at": "2026-09-19T18:20:33.663868+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -5181,7 +5181,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "MD EXT MDHZFC 1LB",
       "strainType": null,
@@ -5216,7 +5216,7 @@
         {
           "id": 8959172,
           "label": "1A40303000007D1000102090",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-09-04",
           "expirationDate": null
         }
@@ -9701,7 +9701,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 26.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Z Cream",
       "strainType": null,
@@ -9742,7 +9742,7 @@
         {
           "id": 8947319,
           "label": "1A4030300000C83000086907",
-          "quantity": 8.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-25"
         }
@@ -15399,27 +15399,28 @@
       ]
     },
     {
-      "id": 8793246,
-      "packageCount": 1,
+      "id": 9004507,
+      "packageCount": 2,
       "name": "Disco Milk Chocolate (Fel) - exempt - 40mg - 10",
       "brand": "Disco",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 31.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.89,
+        "totalTHC": 0.91,
         "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.03,
+        "CBG": 0.04,
         "CBGA": 0.0,
         "CBN": 0.0,
         "THCA": 0.0,
@@ -15434,7 +15435,7 @@
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 1.44,
+          "CBG": 1.92,
           "CBGA": 0.0,
           "CBN": 0.0,
           "THCA": 0.0,
@@ -15446,6 +15447,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9004507,
+          "label": "1A4030300000C83000081996",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-08-06"
+        },
         {
           "id": 8793246,
           "label": "1A4030300000C83000080429",
@@ -22831,7 +22839,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -22870,7 +22878,7 @@
         {
           "id": 8952598,
           "label": "1A403030000012D000265620",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -27237,7 +27245,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 107.77,
+      "quantity": 104.27,
       "unit": "Grams",
       "strainName": "Earthquake #25",
       "strainType": null,
@@ -27270,7 +27278,7 @@
         {
           "id": 8000715,
           "label": "1A40303000000C9000082241",
-          "quantity": 107.77,
+          "quantity": 104.27,
           "packagedDate": "2026-01-28",
           "expirationDate": "2026-11-23"
         }
@@ -35108,7 +35116,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Cherry Paloma",
       "strainType": null,
@@ -35140,7 +35148,7 @@
         {
           "id": 8678454,
           "label": "1A4030300002009000107933",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-05-08"
         }
@@ -53594,7 +53602,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "White Widow",
       "strainType": null,
@@ -53629,7 +53637,7 @@
         {
           "id": 8945081,
           "label": "1A403030000283D000060838",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-26"
         }
