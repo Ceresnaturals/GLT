@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T20:30:33.786020+00:00",
+  "generated_at": "2026-09-19T20:40:34.291654+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11264,6 +11264,63 @@
       ]
     },
     {
+      "id": 8739606,
+      "packageCount": 1,
+      "name": "Avexia Microdose Tablets - 1:1 CBD:THC - Edible Product - 2.5mg - 40pc",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 8.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.807,
+        "totalCBD": 0.846,
+        "CBC": 0.01,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.023,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 2.5,
+        "minorsMgPerServing": {
+          "totalCBD": 2.538,
+          "CBC": 0.03,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.069,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8739606,
+          "label": "1A40303000017D5000100459",
+          "quantity": 8.0,
+          "packagedDate": "2026-06-01",
+          "expirationDate": "2027-06-01"
+        }
+      ]
+    },
+    {
       "id": 8838272,
       "packageCount": 1,
       "name": "Avexia Microdose Tablets - 1:1 CBG:THC - Edible Product - 2.5mg - 40pc",
@@ -13979,7 +14036,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14018,7 +14075,7 @@
         {
           "id": 8828887,
           "label": "1A403030000012D000259347",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -15398,6 +15455,63 @@
       ]
     },
     {
+      "id": 8539246,
+      "packageCount": 1,
+      "name": "Discos - Blackberry Pomegranate - Edible Product - 10mg - 10",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.17,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 each, 10 servings per package",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8539246,
+          "label": "1A4030300000C83000063546",
+          "quantity": 20.0,
+          "packagedDate": "2026-06-02",
+          "expirationDate": "2027-04-06"
+        }
+      ]
+    },
+    {
       "id": 8151238,
       "packageCount": 1,
       "name": "Discos - Blackberry Pomegranate - Exempt - 40mg - 10",
@@ -15456,15 +15570,16 @@
     },
     {
       "id": 8999082,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Discos - Fruit Punch 1:1 (THC:CBG) - Edible product - 10mg - 10",
       "brand": null,
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
+        "Sales Floor",
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15508,6 +15623,13 @@
           "quantity": 25.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-04"
+        },
+        {
+          "id": 8539325,
+          "label": "1A4030300000C83000063547",
+          "quantity": 2.0,
+          "packagedDate": "2026-06-02",
+          "expirationDate": "2027-04-23"
         }
       ]
     },
@@ -43280,7 +43402,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Citrus Sap",
       "strainType": null,
@@ -43315,7 +43437,7 @@
         {
           "id": 8911340,
           "label": "1A403030000283D000060413",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-25",
           "expirationDate": null
         }
@@ -43484,7 +43606,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Kush Mints",
       "strainType": null,
@@ -43517,7 +43639,7 @@
         {
           "id": 8849723,
           "label": "1A403030000283D000057285",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-11",
           "expirationDate": null
         }
@@ -48118,7 +48240,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Grape Stomper",
       "strainType": null,
@@ -48151,7 +48273,7 @@
         {
           "id": 8756246,
           "label": "1A403030000012E000176845",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-04-25"
         }
@@ -49416,7 +49538,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Gelato",
       "strainType": null,
@@ -49450,7 +49572,7 @@
         {
           "id": 8996186,
           "label": "1A4030300003522000211305",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-07-21"
         }
@@ -51101,7 +51223,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Lemon Berry Gelato",
       "strainType": null,
@@ -51135,7 +51257,7 @@
         {
           "id": 8689168,
           "label": "1A4030300003201000001355",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-07-07",
           "expirationDate": null
         }
@@ -53623,7 +53745,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": null,
@@ -53656,7 +53778,7 @@
         {
           "id": 8999575,
           "label": "1A403030000283D000061462",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -54124,7 +54246,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Black Cherry Punch Disp",
       "strainType": null,
@@ -54160,7 +54282,7 @@
         {
           "id": 8342757,
           "label": "1A4030300003522000181546",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-04-16",
           "expirationDate": "2027-04-04"
         }
@@ -57060,7 +57182,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Maui Waui",
       "strainType": null,
@@ -57097,7 +57219,7 @@
         {
           "id": 9013320,
           "label": "1A4030300000C83000088162",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-17",
           "expirationDate": "2027-08-12"
         }
@@ -57472,7 +57594,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Ready To Use Vaporizer",
       "strainType": null,
@@ -57509,7 +57631,7 @@
         {
           "id": 8940649,
           "label": "1A4030300000C83000086777",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-12"
         }
@@ -57863,7 +57985,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Rainbow Sherbet",
       "strainType": null,
@@ -57897,7 +58019,7 @@
         {
           "id": 8902254,
           "label": "1A40303000017D5000104297",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-08-12"
         }
