@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T14:30:27.809311+00:00",
+  "generated_at": "2026-09-19T14:40:27.649812+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -13749,7 +13749,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13795,7 +13795,7 @@
         {
           "id": 8828894,
           "label": "1A403030000012D000259358",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -14318,7 +14318,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14357,7 +14357,7 @@
         {
           "id": 8926295,
           "label": "1A403030000012D000262975",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         }
@@ -15234,7 +15234,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15273,7 +15273,7 @@
         {
           "id": 8926297,
           "label": "1A403030000012D000262977",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         }
@@ -26963,7 +26963,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 252.0,
+      "quantity": 224.0,
       "unit": "Grams",
       "strainName": "Chem de la Chem TC",
       "strainType": null,
@@ -26995,7 +26995,7 @@
         {
           "id": 8947223,
           "label": "1A40303000001F5000425607",
-          "quantity": 252.0,
+          "quantity": 224.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -28004,7 +28004,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 80.5,
+      "quantity": 66.5,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -28037,7 +28037,7 @@
         {
           "id": 8998444,
           "label": "1A40303000001F5000431272",
-          "quantity": 80.5,
+          "quantity": 66.5,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -53943,56 +53943,6 @@
       ]
     },
     {
-      "id": 8945349,
-      "packageCount": 1,
-      "name": "Mellow Fellow - Disposable Vape - Green Crack - 1g",
-      "brand": "Mellow Fellow",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 4.0,
-      "unit": "Each",
-      "strainName": "Green Crack",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 88.91,
-        "CBC": 0.81,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.74,
-        "CBGA": 0.0,
-        "CBN": 0.79,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.2,
-        "myrcene": 0.44,
-        "alpha-pinene": 0.15,
-        "caryophyllene": 0.74,
-        "beta-pinene": 0.13,
-        "ocimene": 0.91,
-        "limonene": 0.63,
-        "linalool": 0.44,
-        "terpinolene": 0.7
-      },
-      "totalTerps": 4.71,
-      "dominantTerpene": "ocimene",
-      "packages": [
-        {
-          "id": 8945349,
-          "label": "1A403030000283D000060837",
-          "quantity": 4.0,
-          "packagedDate": "2026-09-02",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8999575,
       "packageCount": 1,
       "name": "Mellow Fellow - Disposable Vape - Pineapple Express - 1g",
@@ -54089,155 +54039,6 @@
           "quantity": 4.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-26"
-        }
-      ]
-    },
-    {
-      "id": 8945348,
-      "packageCount": 1,
-      "name": "Mellow Fellow - Infused Distillate 510 Vape - Blue Dream - 1g",
-      "brand": "Mellow Fellow",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 19.0,
-      "unit": "Each",
-      "strainName": "Blue Dream",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 87.82,
-        "CBC": 0.84,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.78,
-        "CBGA": 0.0,
-        "CBN": 0.88,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.19,
-        "humulene": 0.2,
-        "myrcene": 0.44,
-        "alpha-pinene": 0.23,
-        "caryophyllene": 1.29,
-        "beta-pinene": 0.12,
-        "limonene": 0.61,
-        "linalool": 0.46,
-        "terpinolene": 0.06
-      },
-      "totalTerps": 3.83,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8945348,
-          "label": "1A403030000283D000060835",
-          "quantity": 19.0,
-          "packagedDate": "2026-09-02",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8885893,
-      "packageCount": 1,
-      "name": "Mellow Fellow - Infused Distillate 510 Vape - Durban Poison - 1g",
-      "brand": "Mellow Fellow",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 14.0,
-      "unit": "Each",
-      "strainName": "Durban Poison",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 88.39,
-        "CBC": 0.67,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.46,
-        "CBGA": 0.0,
-        "CBN": 0.81,
-        "THCA": 0.0,
-        "THCV": 0.57
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.16,
-        "myrcene": 0.78,
-        "alpha-pinene": 0.28,
-        "caryophyllene": 0.57,
-        "beta-pinene": 0.21,
-        "ocimene": 1.27,
-        "limonene": 0.76,
-        "linalool": 0.31,
-        "terpinolene": 0.83
-      },
-      "totalTerps": 5.39,
-      "dominantTerpene": "ocimene",
-      "packages": [
-        {
-          "id": 8885893,
-          "label": "1A403030000283D000057727",
-          "quantity": 14.0,
-          "packagedDate": "2026-08-19",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8945079,
-      "packageCount": 1,
-      "name": "Mellow Fellow - Infused Distillate 510 Vape - Northern Lights - 1g",
-      "brand": "Mellow Fellow",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 7.0,
-      "unit": "Each",
-      "strainName": "Northern Lights",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 87.82,
-        "CBC": 0.83,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.94,
-        "CBGA": 0.0,
-        "CBN": 0.86,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.11,
-        "myrcene": 0.48,
-        "alpha-pinene": 0.21,
-        "caryophyllene": 1.06,
-        "beta-pinene": 0.24,
-        "limonene": 0.65,
-        "linalool": 0.32,
-        "terpinolene": 1.03
-      },
-      "totalTerps": 4.38,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8945079,
-          "label": "1A403030000283D000060836",
-          "quantity": 7.0,
-          "packagedDate": "2026-09-02",
-          "expirationDate": null
         }
       ]
     },
