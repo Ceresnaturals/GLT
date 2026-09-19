@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T17:50:27.954726+00:00",
+  "generated_at": "2026-09-19T18:00:30.634881+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -693,7 +693,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Animal Scout",
       "strainType": "Indica",
@@ -728,7 +728,7 @@
         {
           "id": 8778172,
           "label": "1A40303000003EA000192812",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-04-17"
         }
@@ -9000,7 +9000,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Space Monkey",
       "strainType": null,
@@ -9034,7 +9034,7 @@
         {
           "id": 8819352,
           "label": "1A40303000001F5000412899",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-05-07"
         }
@@ -11488,120 +11488,6 @@
           "quantity": 12.0,
           "packagedDate": "2026-07-16",
           "expirationDate": "2027-07-16"
-        }
-      ]
-    },
-    {
-      "id": 8944207,
-      "packageCount": 1,
-      "name": "Beboe Gummy 100mg-Cloud 9 (Sparkling Pear) (1:1 THC:CBG)(Thick)-Edible Product-5mg-20 Pieces",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 17.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.083,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.088,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 5.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 5.104,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8944207,
-          "label": "1A40303000003EA000264672",
-          "quantity": 17.0,
-          "packagedDate": "2026-09-02",
-          "expirationDate": "2027-07-08"
-        }
-      ]
-    },
-    {
-      "id": 8676361,
-      "packageCount": 1,
-      "name": "Beboe Gummy 100mg-Sour Remedy (Sour Golden Peach)(2:1 CBD:THC)(Thick)-Edible Product-5mg-20 Pieces",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.08,
-        "totalCBD": 0.17,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 5.0,
-        "minorsMgPerServing": {
-          "totalCBD": 9.86,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8676361,
-          "label": "1A40303000003EA000197283",
-          "quantity": 3.0,
-          "packagedDate": "2026-07-02",
-          "expirationDate": "2027-06-11"
         }
       ]
     },
@@ -15684,6 +15570,63 @@
       ]
     },
     {
+      "id": 8606868,
+      "packageCount": 1,
+      "name": "Discos - Peach Passion 2:1 (THC:THCv)- Exempt - 40mg - 10",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 15.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.69,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.36
+      },
+      "dose": {
+        "servingSize": "1 each, 10 servings per package",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 21.6
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8606868,
+          "label": "1A4030300000C83000064023",
+          "quantity": 15.0,
+          "packagedDate": "2026-06-17",
+          "expirationDate": "2027-02-12"
+        }
+      ]
+    },
+    {
       "id": 8723652,
       "packageCount": 2,
       "name": "Discos - Pineapple Passion Fruit 1:1 (CBD:THC) - Edible Product - 10mg - 10",
@@ -17865,61 +17808,6 @@
           "quantity": 12.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-04-09"
-        }
-      ]
-    },
-    {
-      "id": 8902250,
-      "packageCount": 1,
-      "name": "Encore Caramel - Espresso - Edible Product - 10mg - 10pc",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.283,
-        "CBC": 0.003,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.009,
-        "CBGA": 0.0,
-        "CBN": 0.003,
-        "THCA": 0.0,
-        "THCV": 0.003
-      },
-      "dose": {
-        "servingSize": "1 Piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.108,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.324,
-          "CBGA": 0.0,
-          "CBN": 0.108,
-          "THCA": 0.0,
-          "THCV": 0.108
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8902250,
-          "label": "1A40303000017D5000104292",
-          "quantity": 1.0,
-          "packagedDate": "2026-06-18",
-          "expirationDate": "2027-06-18"
         }
       ]
     },
@@ -24241,9 +24129,9 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -24284,7 +24172,7 @@
         {
           "id": 8974573,
           "label": "1A40303000001F5000428945",
-          "quantity": 6.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-05"
         }
@@ -27220,7 +27108,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 114.77,
+      "quantity": 111.27,
       "unit": "Grams",
       "strainName": "Earthquake #25",
       "strainType": null,
@@ -27253,7 +27141,7 @@
         {
           "id": 8000715,
           "label": "1A40303000000C9000082241",
-          "quantity": 114.77,
+          "quantity": 111.27,
           "packagedDate": "2026-01-28",
           "expirationDate": "2026-11-23"
         }
@@ -31307,55 +31195,6 @@
           "quantity": 3.5,
           "packagedDate": "2026-06-03",
           "expirationDate": "2027-04-07"
-        }
-      ]
-    },
-    {
-      "id": 8873614,
-      "packageCount": 1,
-      "name": "Swampwater Fumez Garcia Hand Picked - Usable - 3.5 g",
-      "brand": "Garcia Hand Picked",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "Swampwater Fumez",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 26.23,
-        "totalCBD": 0.06,
-        "CBC": 0.0,
-        "CBDA": 0.07,
-        "CBDV": 0.0,
-        "CBG": 0.05,
-        "CBGA": 1.25,
-        "CBN": 0.0,
-        "THCA": 29.64,
-        "THCV": 0.08
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.2,
-        "myrcene": 0.04,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.53,
-        "beta-pinene": 0.07,
-        "limonene": 0.61,
-        "linalool": 0.61
-      },
-      "totalTerps": 2.27,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8873614,
-          "label": "1A403030000012E000183004",
-          "quantity": 3.5,
-          "packagedDate": "2026-08-17",
-          "expirationDate": "2027-08-04"
         }
       ]
     },
@@ -39745,7 +39584,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 70.0,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Thunder Punch",
       "strainType": null,
@@ -39779,7 +39618,7 @@
         {
           "id": 8890047,
           "label": "1A40303000000C9000167813",
-          "quantity": 70.0,
+          "quantity": 56.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -41119,7 +40958,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Afternoon Delight",
       "strainType": "Hybrid",
@@ -41151,7 +40990,7 @@
         {
           "id": 8778314,
           "label": "1A40303000003EA000192821",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-05-04"
         }
@@ -53577,7 +53416,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 30.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": null,
@@ -53610,7 +53449,7 @@
         {
           "id": 8999575,
           "label": "1A403030000283D000061462",
-          "quantity": 30.0,
+          "quantity": 29.0,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
