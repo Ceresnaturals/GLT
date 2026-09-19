@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T20:40:34.291654+00:00",
+  "generated_at": "2026-09-19T20:50:34.199914+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -934,6 +934,57 @@
       ]
     },
     {
+      "id": 8992259,
+      "packageCount": 1,
+      "name": "Beezle - Cured Resin Shatter - Z-Pie - 1g",
+      "brand": "Beezle",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Z Pie",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 76.41,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.2,
+        "CBN": 0.0,
+        "THCA": 82.42,
+        "THCV": 0.32
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.18,
+        "humulene": 0.67,
+        "myrcene": 0.64,
+        "alpha-pinene": 0.22,
+        "caryophyllene": 2.85,
+        "beta-pinene": 0.3,
+        "ocimene": 0.08,
+        "limonene": 2.09,
+        "linalool": 1.24,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 9.29,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8992259,
+          "label": "1A403030000283D000061322",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-14",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8911264,
       "packageCount": 1,
       "name": "Beezle - Live Resin Budder - Black Triangle - 1g",
@@ -1289,6 +1340,134 @@
       ]
     },
     {
+      "id": 8992319,
+      "packageCount": 1,
+      "name": "Beezle - Live Resin THCa Diamonds - Lilac Diesel - 1g",
+      "brand": "Beezle",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Lilac Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.89,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 99.08,
+        "THCV": 0.63
+      },
+      "dose": null,
+      "terpenes": {
+        "caryophyllene": 0.08,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 0.14,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8992319,
+          "label": "1A403030000283D000061331",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-14",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8992318,
+      "packageCount": 1,
+      "name": "Beezle - Live Resin THCa Diamonds - Sergeant Strawberry - 1g",
+      "brand": "Beezle",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Sergeant Strawberry",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.07,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.23,
+        "CBN": 0.0,
+        "THCA": 99.28,
+        "THCV": 0.36
+      },
+      "dose": null,
+      "terpenes": {
+        "caryophyllene": 0.05,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 0.11,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8992318,
+          "label": "1A403030000283D000061330",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-14",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8992264,
+      "packageCount": 1,
+      "name": "Beezle - Live Resin THCa Diamonds - Singapore Strawberry - 1g",
+      "brand": "Beezle",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Singapore Strawberry",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.29,
+        "CBN": 0.0,
+        "THCA": 99.2,
+        "THCV": 0.36
+      },
+      "dose": null,
+      "terpenes": {
+        "caryophyllene": 0.13
+      },
+      "totalTerps": 0.13,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8992264,
+          "label": "1A403030000283D000061329",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-14",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8690397,
       "packageCount": 1,
       "name": "Beezle - Live Rosin - Disco Diesel - 1g",
@@ -1534,6 +1713,48 @@
           "label": "1A403030000283D000056949",
           "quantity": 1.0,
           "packagedDate": "2026-07-23",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8992263,
+      "packageCount": 1,
+      "name": "Beezle - THCa Diamonds - Blueberry Guava - 1g",
+      "brand": "Beezle",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Blueberry Guava",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.26,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 99.5,
+        "THCV": 0.41
+      },
+      "dose": null,
+      "terpenes": {
+        "caryophyllene": 0.08
+      },
+      "totalTerps": 0.08,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8992263,
+          "label": "1A403030000283D000061328",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-14",
           "expirationDate": null
         }
       ]
@@ -1938,7 +2159,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 18.0,
       "unit": "Each",
@@ -2246,7 +2467,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -2296,7 +2517,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -7884,7 +8105,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 9.0,
       "unit": "Each",
@@ -22256,63 +22477,6 @@
       ]
     },
     {
-      "id": 8794428,
-      "packageCount": 1,
-      "name": "ORIA - Berry Bliss - Indica Gummies - Edible Product - 10mg - 10 pcs",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 7.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": "Indica",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.22,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8794428,
-          "label": "1A40303000001F5000410800",
-          "quantity": 7.0,
-          "packagedDate": "2026-07-29",
-          "expirationDate": "2027-06-03"
-        }
-      ]
-    },
-    {
       "id": 8919089,
       "packageCount": 1,
       "name": "ORIA - Black Mamba - Sativa Gummies - Edible Product - 10mg - 10 pcs",
@@ -26018,7 +26182,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 112.0,
+      "quantity": 91.0,
       "unit": "Grams",
       "strainName": "Apple Z",
       "strainType": null,
@@ -26051,7 +26215,7 @@
         {
           "id": 7831886,
           "label": "1A4030300000192000020610",
-          "quantity": 112.0,
+          "quantity": 91.0,
           "packagedDate": "2025-12-12",
           "expirationDate": "2026-10-20"
         }
@@ -27985,7 +28149,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 38.5,
       "unit": "Grams",
       "strainName": "Highaleah",
       "strainType": null,
@@ -28020,7 +28184,7 @@
         {
           "id": 8966593,
           "label": "1A403030000012E000190900",
-          "quantity": 42.0,
+          "quantity": 38.5,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-26"
         }
@@ -33916,7 +34080,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 50.0,
+      "quantity": 48.0,
       "unit": "Grams",
       "strainName": "Deadband x GC5 #12",
       "strainType": null,
@@ -33950,7 +34114,7 @@
         {
           "id": 9005746,
           "label": "1A40303000000CB000052511",
-          "quantity": 50.0,
+          "quantity": 48.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-07-28"
         }
@@ -39912,7 +40076,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 304.63,
+      "quantity": 301.13,
       "unit": "Grams",
       "strainName": "Strawberry Candy #4 TC",
       "strainType": null,
@@ -39945,7 +40109,7 @@
         {
           "id": 8919194,
           "label": "1A40303000001F5000423349",
-          "quantity": 304.63,
+          "quantity": 301.13,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -41773,57 +41937,6 @@
       ]
     },
     {
-      "id": 8794515,
-      "packageCount": 1,
-      "name": "Airo Pod Durban Poison 0.5g/500mg",
-      "brand": "Airo",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 5.0,
-      "unit": "Each",
-      "strainName": "Durban Poison",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 84.41,
-        "totalCBD": 0.18,
-        "CBC": 0.66,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.59,
-        "CBGA": 0.0,
-        "CBN": 0.37,
-        "THCA": 0.0,
-        "THCV": 0.25
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.28,
-        "myrcene": 0.45,
-        "alpha-pinene": 0.21,
-        "caryophyllene": 0.58,
-        "beta-pinene": 0.05,
-        "caryophyllene-oxide": 0.03,
-        "limonene": 0.23,
-        "linalool": 0.45,
-        "terpinolene": 5.93
-      },
-      "totalTerps": 8.29,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8794515,
-          "label": "1A40303000001F5000410802",
-          "quantity": 5.0,
-          "packagedDate": "2026-07-29",
-          "expirationDate": "2026-11-19"
-        }
-      ]
-    },
-    {
       "id": 8858493,
       "packageCount": 1,
       "name": "Airo Pod Frosted Dream 2.0gX Disposable",
@@ -43103,7 +43216,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Banana Munson",
       "strainType": null,
@@ -43139,7 +43252,7 @@
         {
           "id": 8947157,
           "label": "1A40303000001F5000425616",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-01"
         }
@@ -43393,6 +43506,106 @@
       ]
     },
     {
+      "id": 8992260,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Banana Belts - 1g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Banana Belts",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.57,
+        "CBC": 0.89,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.49,
+        "CBGA": 0.0,
+        "CBN": 0.77,
+        "THCA": 0.0,
+        "THCV": 0.4
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.12,
+        "myrcene": 0.31,
+        "alpha-pinene": 0.29,
+        "caryophyllene": 0.82,
+        "beta-pinene": 0.18,
+        "ocimene": 0.09,
+        "limonene": 1.35,
+        "linalool": 0.29,
+        "nerolidol": 0.08
+      },
+      "totalTerps": 3.76,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8992260,
+          "label": "1A403030000283D000061323",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-14",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8992314,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Banana Piepaya - 0.5g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Banana Piepaya",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.9,
+        "CBC": 1.08,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.48,
+        "CBGA": 0.0,
+        "CBN": 0.72,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.11,
+        "myrcene": 0.47,
+        "alpha-pinene": 0.35,
+        "caryophyllene": 0.5,
+        "beta-pinene": 0.26,
+        "limonene": 1.99,
+        "linalool": 0.35,
+        "terpinolene": 0.05,
+        "nerolidol": 0.14
+      },
+      "totalTerps": 4.59,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8992314,
+          "label": "1A403030000283D000061324",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-14",
+          "expirationDate": "2027-06-18"
+        }
+      ]
+    },
+    {
       "id": 8911340,
       "packageCount": 1,
       "name": "Beezle - Buzz Vape - Citrus Sap - 0.5g",
@@ -43597,6 +43810,56 @@
       ]
     },
     {
+      "id": 8992315,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Jelly Donut - 0.5g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Jelly Donut",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.81,
+        "CBC": 1.2,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.43,
+        "CBGA": 0.0,
+        "CBN": 0.77,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.45,
+        "alpha-pinene": 0.24,
+        "caryophyllene": 0.58,
+        "beta-pinene": 0.13,
+        "ocimene": 1.07,
+        "limonene": 1.13,
+        "linalool": 0.32,
+        "nerolidol": 0.11
+      },
+      "totalTerps": 4.2,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8992315,
+          "label": "1A403030000283D000061326",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-14",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8849723,
       "packageCount": 1,
       "name": "Beezle - Buzz Vape - Kush Mints - 1g",
@@ -43705,6 +43968,58 @@
       ]
     },
     {
+      "id": 8992262,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Orange Apricot - 0.5g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Orange Apricot",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 82.27,
+        "CBC": 1.47,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.73,
+        "CBGA": 0.0,
+        "CBN": 0.54,
+        "THCA": 0.0,
+        "THCV": 1.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.44,
+        "humulene": 0.15,
+        "myrcene": 0.75,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 0.78,
+        "eudesmol": 0.23,
+        "beta-pinene": 0.14,
+        "caryophyllene-oxide": 0.27,
+        "limonene": 1.2,
+        "linalool": 0.4,
+        "nerolidol": 0.15
+      },
+      "totalTerps": 4.81,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8992262,
+          "label": "1A403030000283D000061325",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-14",
+          "expirationDate": "2027-06-23"
+        }
+      ]
+    },
+    {
       "id": 8768206,
       "packageCount": 1,
       "name": "Beezle - Buzz Vape - Orange Apricot - 1g",
@@ -43753,6 +44068,57 @@
           "quantity": 3.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-19"
+        }
+      ]
+    },
+    {
+      "id": 8992316,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Snoop OG - 0.5g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Snoop OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 82.91,
+        "CBC": 0.72,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.72,
+        "CBGA": 0.0,
+        "CBN": 0.55,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.15,
+        "humulene": 0.07,
+        "myrcene": 0.75,
+        "alpha-pinene": 0.26,
+        "caryophyllene": 1.09,
+        "beta-pinene": 0.2,
+        "ocimene": 0.98,
+        "limonene": 1.27,
+        "linalool": 0.34,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 5.49,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8992316,
+          "label": "1A403030000283D000061327",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-14",
+          "expirationDate": null
         }
       ]
     },
@@ -43865,7 +44231,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Nectarz",
       "strainType": null,
@@ -43898,7 +44264,7 @@
         {
           "id": 8673145,
           "label": "1A403030000283D000052569",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-05-22"
         }
@@ -44744,16 +45110,15 @@
     },
     {
       "id": 8872243,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Cherry Chem .5g Liquid Diamonds and Sauce Vape Cart",
       "brand": null,
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Cherry Chem . Liquid and",
       "strainType": null,
@@ -44788,13 +45153,6 @@
           "label": "1A40303000007D1000093658",
           "quantity": 24.0,
           "packagedDate": "2026-08-17",
-          "expirationDate": null
-        },
-        {
-          "id": 8599199,
-          "label": "1A40303000007D1000080938",
-          "quantity": 1.0,
-          "packagedDate": "2026-06-16",
           "expirationDate": null
         }
       ]
@@ -45160,7 +45518,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Couch Kush DV",
       "strainType": null,
@@ -45194,7 +45552,7 @@
         {
           "id": 8890516,
           "label": "1A40303000001F5000420189",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-01-22"
         }
@@ -49687,7 +50045,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Green Crack",
       "strainType": null,
@@ -49718,7 +50076,7 @@
         {
           "id": 8939357,
           "label": "1A4030300003522000210575",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-21"
         }
@@ -59307,7 +59665,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Tropical Z DV",
       "strainType": null,
@@ -59341,7 +59699,7 @@
         {
           "id": 8794435,
           "label": "1A40303000001F5000410810",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-01-15"
         }
