@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T20:50:34.199914+00:00",
+  "generated_at": "2026-09-19T21:00:37.965524+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2161,7 +2161,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Cinnamon Rolls LR",
       "strainType": null,
@@ -2198,7 +2198,7 @@
         {
           "id": 8998455,
           "label": "1A40303000001F5000431283",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-03-19"
         }
@@ -14257,7 +14257,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14296,7 +14296,7 @@
         {
           "id": 8828887,
           "label": "1A403030000012D000259347",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -22477,6 +22477,63 @@
       ]
     },
     {
+      "id": 8794428,
+      "packageCount": 1,
+      "name": "ORIA - Berry Bliss - Indica Gummies - Edible Product - 10mg - 10 pcs",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 7.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.22,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8794428,
+          "label": "1A40303000001F5000410800",
+          "quantity": 7.0,
+          "packagedDate": "2026-07-29",
+          "expirationDate": "2027-06-03"
+        }
+      ]
+    },
+    {
       "id": 8919089,
       "packageCount": 1,
       "name": "ORIA - Black Mamba - Sativa Gummies - Edible Product - 10mg - 10 pcs",
@@ -26712,7 +26769,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 73.5,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "Charm Biscuitz",
       "strainType": null,
@@ -26745,7 +26802,7 @@
         {
           "id": 8943242,
           "label": "1A40303000040D9000005971",
-          "quantity": 73.5,
+          "quantity": 70.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-31"
         }
@@ -36855,7 +36912,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 15.75,
       "unit": "Grams",
       "strainName": "Lemon Blanc",
       "strainType": null,
@@ -36889,7 +36946,7 @@
         {
           "id": 8947323,
           "label": "1A40303000000CB000051190",
-          "quantity": 24.5,
+          "quantity": 15.75,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-18"
         }
@@ -40076,7 +40133,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 301.13,
+      "quantity": 297.63,
       "unit": "Grams",
       "strainName": "Strawberry Candy #4 TC",
       "strainType": null,
@@ -40109,7 +40166,7 @@
         {
           "id": 8919194,
           "label": "1A40303000001F5000423349",
-          "quantity": 301.13,
+          "quantity": 297.63,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -41937,6 +41994,57 @@
       ]
     },
     {
+      "id": 8794515,
+      "packageCount": 1,
+      "name": "Airo Pod Durban Poison 0.5g/500mg",
+      "brand": "Airo",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": "Durban Poison",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.41,
+        "totalCBD": 0.18,
+        "CBC": 0.66,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.59,
+        "CBGA": 0.0,
+        "CBN": 0.37,
+        "THCA": 0.0,
+        "THCV": 0.25
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.28,
+        "myrcene": 0.45,
+        "alpha-pinene": 0.21,
+        "caryophyllene": 0.58,
+        "beta-pinene": 0.05,
+        "caryophyllene-oxide": 0.03,
+        "limonene": 0.23,
+        "linalool": 0.45,
+        "terpinolene": 5.93
+      },
+      "totalTerps": 8.29,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8794515,
+          "label": "1A40303000001F5000410802",
+          "quantity": 5.0,
+          "packagedDate": "2026-07-29",
+          "expirationDate": "2026-11-19"
+        }
+      ]
+    },
+    {
       "id": 8858493,
       "packageCount": 1,
       "name": "Airo Pod Frosted Dream 2.0gX Disposable",
@@ -42915,7 +43023,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Animal Face",
       "strainType": "Indica",
@@ -42949,7 +43057,7 @@
         {
           "id": 8891525,
           "label": "1A40303000003EA000205090",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-05-22"
         }
