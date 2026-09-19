@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T19:30:32.149610+00:00",
+  "generated_at": "2026-09-19T19:40:32.452688+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -15471,7 +15471,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15512,7 +15512,7 @@
         {
           "id": 8539246,
           "label": "1A4030300000C83000063546",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-06-02",
           "expirationDate": "2027-04-06"
         }
@@ -16350,7 +16350,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16391,7 +16391,7 @@
         {
           "id": 8764130,
           "label": "1A4030300000C83000080156",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-07-22",
           "expirationDate": "2027-04-15"
         }
@@ -37047,7 +37047,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 50.0,
+      "quantity": 48.0,
       "unit": "Grams",
       "strainName": "Midnight Circus",
       "strainType": null,
@@ -37082,7 +37082,7 @@
         {
           "id": 9005652,
           "label": "1A40303000000CB000052500",
-          "quantity": 50.0,
+          "quantity": 48.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-08-04"
         }
@@ -37247,7 +37247,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 140.0,
+      "quantity": 136.5,
       "unit": "Grams",
       "strainName": "Midnight Circus",
       "strainType": null,
@@ -37282,7 +37282,7 @@
         {
           "id": 9005665,
           "label": "1A40303000000CB000052512",
-          "quantity": 140.0,
+          "quantity": 136.5,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-08-04"
         }
@@ -37298,7 +37298,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 140.0,
+      "quantity": 136.5,
       "unit": "Grams",
       "strainName": "Sour Peel",
       "strainType": null,
@@ -37333,7 +37333,7 @@
         {
           "id": 9005729,
           "label": "1A40303000000CB000052502",
-          "quantity": 140.0,
+          "quantity": 136.5,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-08-04"
         }
@@ -47690,7 +47690,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Frosted Jungle",
       "strainType": null,
@@ -47724,7 +47724,7 @@
         {
           "id": 8966587,
           "label": "1A403030000012E000190894",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-06-05"
         }
@@ -49543,7 +49543,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Blue Raspberry",
       "strainType": null,
@@ -49578,7 +49578,7 @@
         {
           "id": 8939224,
           "label": "1A4030300003522000210564",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-28"
         }
@@ -51922,7 +51922,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "GMO",
       "strainType": null,
@@ -51956,7 +51956,7 @@
         {
           "id": 8954360,
           "label": "1A4030300002199000062283",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-06-25",
           "expirationDate": "2027-06-25"
         }
@@ -56620,6 +56620,54 @@
           "quantity": 9.0,
           "packagedDate": "2026-06-12",
           "expirationDate": "2027-06-04"
+        }
+      ]
+    },
+    {
+      "id": 8859983,
+      "packageCount": 1,
+      "name": "RO-BDTCart-.5g-SuperLemonHaze-S-MD (260622MED103393)-Vape",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 6.0,
+      "unit": "Each",
+      "strainName": "RO BDTCart . SuperLemonHaze S MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.62,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.59,
+        "CBGA": 0.0,
+        "CBN": 0.68,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.57,
+        "myrcene": 0.21,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 1.78,
+        "ocimene": 0.48,
+        "limonene": 0.12,
+        "terpinolene": 1.46
+      },
+      "totalTerps": 4.65,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8859983,
+          "label": "1A403030000238D000106516",
+          "quantity": 6.0,
+          "packagedDate": "2026-08-13",
+          "expirationDate": "2027-06-28"
         }
       ]
     },
