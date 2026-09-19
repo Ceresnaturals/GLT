@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T16:20:29.863705+00:00",
+  "generated_at": "2026-09-19T16:30:36.744593+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -255,7 +255,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -301,7 +301,7 @@
         {
           "id": 8484003,
           "label": "1A4030300000193000095467",
-          "quantity": 6.0,
+          "quantity": 4.0,
           "packagedDate": "2026-05-20",
           "expirationDate": "2027-04-26"
         }
@@ -3783,7 +3783,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Znow Flakes",
       "strainType": null,
@@ -3812,7 +3812,7 @@
         {
           "id": 8752046,
           "label": "1A4030300002009000109412",
-          "quantity": 4.0,
+          "quantity": 1.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-07-01"
         }
@@ -4333,7 +4333,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Lemon Funk",
       "strainType": null,
@@ -4368,7 +4368,7 @@
         {
           "id": 8785081,
           "label": "ABC0303000037DD000024830",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-06-29"
         }
@@ -7534,7 +7534,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Guava IX",
       "strainType": null,
@@ -7567,7 +7567,7 @@
         {
           "id": 8462886,
           "label": "1A4030300003522000191145",
-          "quantity": 3.0,
+          "quantity": 1.0,
           "packagedDate": "2026-05-14",
           "expirationDate": "2027-05-03"
         }
@@ -10207,15 +10207,16 @@
     },
     {
       "id": 8981914,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Dixie Signature Fruit Punch Elixir 200mg-Exempt-12mg-17",
       "brand": "Dixie",
       "category": "Drink",
       "metrcCategory": "Exempt Liquid Edible Product (Medical Only)",
       "locations": [
+        "Sales Floor",
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10247,6 +10248,13 @@
           "label": "1A403030000012D000266244",
           "quantity": 12.0,
           "packagedDate": "2026-09-10",
+          "expirationDate": null
+        },
+        {
+          "id": 8863973,
+          "label": "1A403030000012D000260499",
+          "quantity": 2.0,
+          "packagedDate": "2026-08-13",
           "expirationDate": null
         }
       ]
@@ -12213,7 +12221,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12252,7 +12260,7 @@
         {
           "id": 8882296,
           "label": "1A4030300003522000202248",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-15"
         }
@@ -14255,7 +14263,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14294,7 +14302,7 @@
         {
           "id": 8707383,
           "label": "1A403030000012D000254651",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-07-09",
           "expirationDate": null
         }
@@ -14365,7 +14373,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14404,7 +14412,7 @@
         {
           "id": 8790229,
           "label": "1A403030000012D000257808",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-28",
           "expirationDate": null
         }
@@ -15281,7 +15289,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15320,7 +15328,7 @@
         {
           "id": 8953003,
           "label": "1A403030000012D000265627",
-          "quantity": 16.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -15450,7 +15458,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15491,7 +15499,7 @@
         {
           "id": 8946619,
           "label": "1A4030300000C83000081471",
-          "quantity": 16.0,
+          "quantity": 13.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-11"
         }
@@ -16898,7 +16906,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -16937,7 +16945,7 @@
         {
           "id": 8828992,
           "label": "1A403030000012D000259360",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -20497,7 +20505,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20538,7 +20546,7 @@
         {
           "id": 8996310,
           "label": "1A4030300003522000211322",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-19"
         }
@@ -23022,6 +23030,61 @@
           "quantity": 17.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-06-03"
+        }
+      ]
+    },
+    {
+      "id": 8864063,
+      "packageCount": 1,
+      "name": "Smokiez Blue Raspberry Indica 30mg Medicated Chews-Exempt-30mg-10",
+      "brand": "Smokiez",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 11.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.458,
+        "CBC": 0.004,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.022,
+        "CBGA": 0.0,
+        "CBN": 0.015,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 300.0,
+        "thcMgPerServing": 30.0,
+        "minorsMgPerServing": {
+          "CBC": 0.24,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.32,
+          "CBGA": 0.0,
+          "CBN": 0.9,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8864063,
+          "label": "1A403030000012D000260498",
+          "quantity": 11.0,
+          "packagedDate": "2026-08-13",
+          "expirationDate": null
         }
       ]
     },
@@ -27645,7 +27708,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Grape Gas",
       "strainType": null,
@@ -27680,7 +27743,7 @@
         {
           "id": 8881941,
           "label": "1A4030300004845000039295",
-          "quantity": 38.5,
+          "quantity": 35.0,
           "packagedDate": "2026-06-08",
           "expirationDate": null
         }
@@ -28836,7 +28899,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 56.0,
+      "quantity": 52.5,
       "unit": "Grams",
       "strainName": "Banana Tree",
       "strainType": null,
@@ -28870,7 +28933,7 @@
         {
           "id": 8890221,
           "label": "1A403030000025B000083873",
-          "quantity": 56.0,
+          "quantity": 52.5,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-07-10"
         }
@@ -31596,7 +31659,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.5,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -31629,7 +31692,7 @@
         {
           "id": 8873614,
           "label": "1A403030000012E000183004",
-          "quantity": 10.5,
+          "quantity": 7.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-08-04"
         }
@@ -35416,7 +35479,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Cherry Paloma",
       "strainType": null,
@@ -35448,7 +35511,7 @@
         {
           "id": 8678454,
           "label": "1A4030300002009000107933",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-05-08"
         }
@@ -35611,7 +35674,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 1.0,
       "unit": "Grams",
       "strainName": "Juicee J",
       "strainType": null,
@@ -35648,7 +35711,7 @@
         {
           "id": 8966517,
           "label": "1A403030000012E000192640",
-          "quantity": 3.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-07-29"
         }
@@ -42451,6 +42514,106 @@
       ]
     },
     {
+      "id": 8731182,
+      "packageCount": 1,
+      "name": "Airo Pod Pink Palmer 1.0g/1000mg",
+      "brand": "Airo",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 4.0,
+      "unit": "Each",
+      "strainName": "Pink Palmer",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.43,
+        "totalCBD": 0.15,
+        "CBC": 0.68,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.9,
+        "CBGA": 0.0,
+        "CBN": 0.3,
+        "THCA": 0.0,
+        "THCV": 0.28
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.15,
+        "myrcene": 0.53,
+        "alpha-pinene": 0.32,
+        "caryophyllene": 0.81,
+        "beta-pinene": 0.47,
+        "limonene": 1.19,
+        "linalool": 0.09,
+        "terpinolene": 1.49
+      },
+      "totalTerps": 5.44,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8731182,
+          "label": "1A40303000001F5000404826",
+          "quantity": 4.0,
+          "packagedDate": "2026-07-15",
+          "expirationDate": "2027-06-01"
+        }
+      ]
+    },
+    {
+      "id": 8765563,
+      "packageCount": 1,
+      "name": "Airo Pod Pink Palmer 1.0g/1000mg Disposable",
+      "brand": "Airo",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 7.0,
+      "unit": "Each",
+      "strainName": "Pink Palmer",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.84,
+        "totalCBD": 0.2,
+        "CBC": 0.68,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.04,
+        "CBGA": 0.0,
+        "CBN": 0.3,
+        "THCA": 0.0,
+        "THCV": 0.28
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.11,
+        "myrcene": 0.42,
+        "alpha-pinene": 0.25,
+        "caryophyllene": 0.64,
+        "beta-pinene": 0.37,
+        "limonene": 1.0,
+        "linalool": 0.07,
+        "terpinolene": 1.25
+      },
+      "totalTerps": 4.42,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8765563,
+          "label": "1A40303000001F5000408117",
+          "quantity": 7.0,
+          "packagedDate": "2026-07-23",
+          "expirationDate": "2027-05-26"
+        }
+      ]
+    },
+    {
       "id": 8974642,
       "packageCount": 1,
       "name": "Airo Pod SDG OG LLR 0.5g/500mg",
@@ -42460,7 +42623,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "SDG OG LLR",
       "strainType": null,
@@ -42496,7 +42659,7 @@
         {
           "id": 8974642,
           "label": "1A40303000001F5000428938",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-04-08"
         }
@@ -44128,7 +44291,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Apricot Punch",
       "strainType": "Indica",
@@ -44159,7 +44322,7 @@
         {
           "id": 8868996,
           "label": "1A4030300000579000042351",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-06-23",
           "expirationDate": null
         }
@@ -44175,7 +44338,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Forbidden Fruit",
       "strainType": "Indica",
@@ -44207,7 +44370,7 @@
         {
           "id": 8781211,
           "label": "1A4030300000579000044425",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-06-23",
           "expirationDate": null
         }
@@ -44614,7 +44777,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Bomb Popz",
       "strainType": null,
@@ -44644,7 +44807,7 @@
         {
           "id": 8922974,
           "label": "1A403030000012E000187011",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-07-31"
         }
@@ -46732,7 +46895,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Maui Wowie",
       "strainType": null,
@@ -46768,7 +46931,7 @@
         {
           "id": 8946716,
           "label": "1A4030300004845000041486",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-08-26"
         }
@@ -54554,7 +54717,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": "Double Krush",
       "strainType": null,
@@ -54588,7 +54751,7 @@
         {
           "id": 8939368,
           "label": "1A4030300003522000210585",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-25"
         }
@@ -58501,7 +58664,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Strawberry Haze",
       "strainType": null,
@@ -58531,7 +58694,7 @@
         {
           "id": 8966582,
           "label": "1A403030000012E000190891",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-07-31"
         }
@@ -59335,7 +59498,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Tropicalez Punch",
       "strainType": null,
@@ -59367,7 +59530,7 @@
         {
           "id": 8966580,
           "label": "1A403030000012E000190893",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-07"
         }
