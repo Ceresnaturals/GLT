@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:40:33.661002+00:00",
+  "generated_at": "2026-09-19T18:50:37.289503+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2669,7 +2669,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Forbidden Rainbow Guava Cake",
       "strainType": null,
@@ -2705,7 +2705,7 @@
         {
           "id": 8974355,
           "label": "1A4030300000C83000087376",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-07"
         }
@@ -8883,6 +8883,56 @@
           "quantity": 19.0,
           "packagedDate": "2026-04-28",
           "expirationDate": "2027-01-22"
+        }
+      ]
+    },
+    {
+      "id": 9005739,
+      "packageCount": 1,
+      "name": "Sour Fumez Live Resin Cake Badder 1.0g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 40.0,
+      "unit": "Each",
+      "strainName": "Sour Fumez Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 71.14,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 3.57,
+        "CBN": 0.0,
+        "THCA": 81.12,
+        "THCV": 0.35
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.27,
+        "humulene": 0.3,
+        "myrcene": 0.39,
+        "alpha-pinene": 0.38,
+        "caryophyllene": 0.87,
+        "beta-pinene": 0.42,
+        "limonene": 3.41,
+        "linalool": 1.19,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 8.3,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9005739,
+          "label": "1A4030300000C83000088088",
+          "quantity": 40.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-09-08"
         }
       ]
     },
@@ -15844,7 +15894,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15885,7 +15935,7 @@
         {
           "id": 8814887,
           "label": "1A4030300000C83000080556",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-08-04",
           "expirationDate": "2027-06-09"
         }
@@ -16300,7 +16350,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16341,7 +16391,7 @@
         {
           "id": 8764130,
           "label": "1A4030300000C83000080156",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-07-22",
           "expirationDate": "2027-04-15"
         }
@@ -18523,7 +18573,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18562,7 +18612,7 @@
         {
           "id": 8978146,
           "label": "1A40303000017D5000105967",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-07-01"
         }
@@ -19665,61 +19715,6 @@
           "quantity": 6.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-04-06"
-        }
-      ]
-    },
-    {
-      "id": 8914797,
-      "packageCount": 1,
-      "name": "HiColor RSO Hybrid Gummies Passionfruit|Edible Product|10mg|10ct",
-      "brand": "HiColor",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 8.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": "Hybrid",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.228,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.002,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1pc",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.085,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8914797,
-          "label": "1A4030300002009000112798",
-          "quantity": 8.0,
-          "packagedDate": "2026-08-26",
-          "expirationDate": "2027-05-07"
         }
       ]
     },
@@ -20843,7 +20838,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20884,7 +20879,7 @@
         {
           "id": 8882287,
           "label": "1A4030300003522000202244",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-13"
         }
@@ -28191,7 +28186,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 80.5,
+      "quantity": 77.0,
       "unit": "Grams",
       "strainName": "Blueberry",
       "strainType": null,
@@ -28223,7 +28218,7 @@
         {
           "id": 8938799,
           "label": "1A4030300003521000056672",
-          "quantity": 80.5,
+          "quantity": 77.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-20"
         }
@@ -30894,7 +30889,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 56.0,
+      "quantity": 49.0,
       "unit": "Grams",
       "strainName": "Guerilla Grape",
       "strainType": null,
@@ -30928,7 +30923,7 @@
         {
           "id": 8977232,
           "label": "1A4030300003A3C000090731",
-          "quantity": 56.0,
+          "quantity": 49.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-09-01"
         }
@@ -32572,7 +32567,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 11.0,
       "unit": "Grams",
       "strainName": "Baby Turtle",
       "strainType": null,
@@ -32604,7 +32599,7 @@
         {
           "id": 7868767,
           "label": "1A40303000000C9000127618",
-          "quantity": 13.0,
+          "quantity": 11.0,
           "packagedDate": "2025-12-20",
           "expirationDate": "2026-12-09"
         }
@@ -32852,6 +32847,57 @@
           "quantity": 5.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9005743,
+      "packageCount": 1,
+      "name": "Blue Zangria 2 PRJx2 (Two 0.5g Joints) 1.0g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Grams",
+      "strainName": "Blue zangria 2",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.36,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.48,
+        "CBN": 0.0,
+        "THCA": 29.42,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.05,
+        "myrcene": 0.12,
+        "alpha-pinene": 0.14,
+        "caryophyllene": 0.18,
+        "beta-pinene": 0.18,
+        "ocimene": 0.12,
+        "limonene": 1.26,
+        "linalool": 0.48,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.06,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9005743,
+          "label": "1A40303000000CB000052510",
+          "quantity": 50.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-08-07"
         }
       ]
     },
@@ -33259,6 +33305,54 @@
           "quantity": 7.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-08-11"
+        }
+      ]
+    },
+    {
+      "id": 9005664,
+      "packageCount": 1,
+      "name": "Concentrate- Sunset Octane x THCa Isolate Infused (.35g Joints) 5 Pack 1.75g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Sunset Octane x Isolate",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 38.13,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.13,
+        "CBGA": 0.67,
+        "CBN": 0.0,
+        "THCA": 41.46,
+        "THCV": 0.66
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.14,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.01,
+        "caryophyllene": 0.57,
+        "beta-pinene": 0.02,
+        "limonene": 0.2,
+        "linalool": 0.22
+      },
+      "totalTerps": 1.4,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9005664,
+          "label": "1A4030300000C83000088089",
+          "quantity": 20.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-07-25"
         }
       ]
     },
@@ -33810,6 +33904,56 @@
           "quantity": 12.5,
           "packagedDate": "2026-07-08",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9005746,
+      "packageCount": 1,
+      "name": "Deadband 12 PRJx2 (Two 0.5g Joints) 1g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Grams",
+      "strainName": "Deadband x GC5 #12",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 32.88,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.18,
+        "CBGA": 1.72,
+        "CBN": 0.0,
+        "THCA": 36.27,
+        "THCV": 0.15
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.16,
+        "myrcene": 2.32,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.5,
+        "beta-pinene": 0.06,
+        "ocimene": 0.1,
+        "limonene": 0.4,
+        "linalool": 0.16
+      },
+      "totalTerps": 3.88,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9005746,
+          "label": "1A40303000000CB000052511",
+          "quantity": 50.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-07-28"
         }
       ]
     },
@@ -35864,7 +36008,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 17.0,
       "unit": "Grams",
       "strainName": "Khalifa Kush",
       "strainType": null,
@@ -35897,7 +36041,7 @@
         {
           "id": 7937278,
           "label": "1A40303000000C9000128834",
-          "quantity": 19.0,
+          "quantity": 17.0,
           "packagedDate": "2026-01-12",
           "expirationDate": "2026-12-22"
         }
@@ -36692,6 +36836,56 @@
       ]
     },
     {
+      "id": 9005651,
+      "packageCount": 1,
+      "name": "Lemon Cherry Gelato PRJx2 (Two 0.5g Joints) 1g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Grams",
+      "strainName": "Lemon Cherry Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.97,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.26,
+        "CBN": 0.0,
+        "THCA": 33.31,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.95,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 0.45,
+        "beta-pinene": 0.16,
+        "limonene": 1.3,
+        "linalool": 0.71,
+        "terpinolene": 0.02,
+        "nerolidol": 0.13
+      },
+      "totalTerps": 4.32,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9005651,
+          "label": "1A40303000000CB000052499",
+          "quantity": 50.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-08-02"
+        }
+      ]
+    },
+    {
       "id": 8966439,
       "packageCount": 1,
       "name": "Mango Dragon Hellavated Juicy Stickz - Infused Pre-roll - 0.75 g",
@@ -36841,6 +37035,57 @@
       ]
     },
     {
+      "id": 9005652,
+      "packageCount": 1,
+      "name": "Midnight Circus PRJx2 (Two 0.5g Joints) 1g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Grams",
+      "strainName": "Midnight Circus",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.02,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.6,
+        "CBN": 0.0,
+        "THCA": 28.44,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.52,
+        "myrcene": 0.08,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 1.67,
+        "beta-pinene": 0.17,
+        "ocimene": 0.03,
+        "limonene": 1.02,
+        "linalool": 0.45,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 4.66,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9005652,
+          "label": "1A40303000000CB000052500",
+          "quantity": 50.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-08-04"
+        }
+      ]
+    },
+    {
       "id": 8966447,
       "packageCount": 1,
       "name": "Mule Fuel Garcia Hand Picked - Pre-rolls - 1 g",
@@ -36893,6 +37138,55 @@
       ]
     },
     {
+      "id": 9005653,
+      "packageCount": 1,
+      "name": "Multi Pack- Fruit Loot 3 Pre-Rolls (x7 0.5g Joints) 3.5g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 140.0,
+      "unit": "Grams",
+      "strainName": "Fruit Loot 3",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.1,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.16,
+        "CBGA": 0.51,
+        "CBN": 0.0,
+        "THCA": 29.31,
+        "THCV": 0.06
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.09,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 0.28,
+        "beta-pinene": 0.14,
+        "ocimene": 0.03,
+        "limonene": 0.99,
+        "linalool": 0.36
+      },
+      "totalTerps": 2.41,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9005653,
+          "label": "1A40303000000CB000052501",
+          "quantity": 140.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-07-25"
+        }
+      ]
+    },
+    {
       "id": 8974467,
       "packageCount": 1,
       "name": "Multi Pack- Lucky Orchard Pre-Rolls (x7 0.5g Joints) 3.5g",
@@ -36937,6 +37231,108 @@
           "quantity": 70.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-03"
+        }
+      ]
+    },
+    {
+      "id": 9005665,
+      "packageCount": 1,
+      "name": "Multi Pack- Midnight Circus Pre-Rolls (x7 0.5g Joints) 3.5g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 140.0,
+      "unit": "Grams",
+      "strainName": "Midnight Circus",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.02,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.6,
+        "CBN": 0.0,
+        "THCA": 28.44,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.52,
+        "myrcene": 0.08,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 1.67,
+        "beta-pinene": 0.17,
+        "ocimene": 0.03,
+        "limonene": 1.02,
+        "linalool": 0.45,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 4.66,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9005665,
+          "label": "1A40303000000CB000052512",
+          "quantity": 140.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-08-04"
+        }
+      ]
+    },
+    {
+      "id": 9005729,
+      "packageCount": 1,
+      "name": "Multi Pack- Sour Peel Pre-Rolls (x7 0.5g Joints) 3.5g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 140.0,
+      "unit": "Grams",
+      "strainName": "Sour Peel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.33,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.32,
+        "CBGA": 0.36,
+        "CBN": 0.0,
+        "THCA": 28.11,
+        "THCV": 0.09
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.13,
+        "myrcene": 1.41,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.53,
+        "beta-pinene": 0.06,
+        "ocimene": 0.03,
+        "limonene": 0.27,
+        "linalool": 0.31,
+        "nerolidol": 0.11
+      },
+      "totalTerps": 3.08,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9005729,
+          "label": "1A40303000000CB000052502",
+          "quantity": 140.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-08-04"
         }
       ]
     },
@@ -38761,6 +39157,56 @@
       ]
     },
     {
+      "id": 9005731,
+      "packageCount": 1,
+      "name": "Sunset Octane PRJx2 (Two 0.5g Joints) 1g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Grams",
+      "strainName": "Sunset Octane",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.31,
+        "totalCBD": 0.046,
+        "CBC": 0.0,
+        "CBDA": 0.052,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.98,
+        "CBN": 0.0,
+        "THCA": 34.07,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.0307,
+        "humulene": 0.0887,
+        "myrcene": 0.188,
+        "alpha-pinene": 0.0729,
+        "caryophyllene": 0.354,
+        "beta-pinene": 0.0838,
+        "limonene": 0.628,
+        "linalool": 0.171
+      },
+      "totalTerps": 1.84,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9005731,
+          "label": "1A40303000000CB000052503",
+          "quantity": 50.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-07-28"
+        }
+      ]
+    },
+    {
       "id": 8998448,
       "packageCount": 1,
       "name": "Sunshine #4 - Pre Roll Joints - 0.5 gram - 5 Pack Tin",
@@ -39888,16 +40334,15 @@
     },
     {
       "id": 8996322,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Cosmec HeadZen Gold Stick Transdermal-Infused Product-125mg",
       "brand": null,
       "category": "Topical",
       "metrcCategory": "Infused Non-Edibles",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -39949,13 +40394,6 @@
           "quantity": 25.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-21"
-        },
-        {
-          "id": 8383019,
-          "label": "1A4030300003522000185621",
-          "quantity": 1.0,
-          "packagedDate": "2026-04-27",
-          "expirationDate": "2027-04-19"
         }
       ]
     },
@@ -44114,7 +44552,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": null,
@@ -44148,7 +44586,7 @@
         {
           "id": 8890381,
           "label": "1A40303000001F5000420188",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-05-27"
         }
@@ -44206,17 +44644,66 @@
       ]
     },
     {
+      "id": 9005751,
+      "packageCount": 1,
+      "name": "Blue Hawaiian Distillate Vape Cart 1.0mL",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Blue Hawaiian",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.45,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.94,
+        "CBGA": 0.0,
+        "CBN": 0.26,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.27,
+        "humulene": 0.18,
+        "myrcene": 0.26,
+        "alpha-pinene": 0.18,
+        "caryophyllene": 0.77,
+        "beta-pinene": 0.16,
+        "limonene": 2.0,
+        "linalool": 0.43,
+        "terpinolene": 0.58
+      },
+      "totalTerps": 5.4,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9005751,
+          "label": "1A4030300000C83000088091",
+          "quantity": 20.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-09-09"
+        }
+      ]
+    },
+    {
       "id": 8966529,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Blueberry Dream Cloud Bar Hellavated - Vape Cart - 1 g",
       "brand": "Hellavated",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 17.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Blueberry Dream",
       "strainType": null,
@@ -44249,13 +44736,6 @@
           "quantity": 12.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-07"
-        },
-        {
-          "id": 8671235,
-          "label": "1A403030000012E000172675",
-          "quantity": 5.0,
-          "packagedDate": "2026-07-01",
-          "expirationDate": "2027-05-16"
         }
       ]
     },
@@ -45912,6 +46392,57 @@
           "quantity": 3.0,
           "packagedDate": "2025-12-17",
           "expirationDate": "2026-11-21"
+        }
+      ]
+    },
+    {
+      "id": 9005732,
+      "packageCount": 1,
+      "name": "Earthquake Live Resin Vape Cart 1.0mL",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Earthquake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 69.98,
+        "CBC": 1.09,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.48,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 3.75
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.33,
+        "humulene": 0.7,
+        "myrcene": 4.57,
+        "alpha-pinene": 0.21,
+        "caryophyllene": 2.82,
+        "eudesmol": 0.23,
+        "beta-pinene": 0.06,
+        "limonene": 1.35,
+        "linalool": 1.45,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 12.27,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9005732,
+          "label": "1A4030300000C83000088087",
+          "quantity": 20.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-08-14"
         }
       ]
     },
@@ -48550,54 +49081,6 @@
       ]
     },
     {
-      "id": 8914808,
-      "packageCount": 1,
-      "name": "HiAF|Disposable|Cotton Candy|Vape Cart|1000mg",
-      "brand": "HiAF",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Vault"
-      ],
-      "quantity": 5.0,
-      "unit": "Each",
-      "strainName": "Cotton Candy",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 88.81,
-        "CBC": 0.44,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.12,
-        "CBGA": 0.0,
-        "CBN": 0.38,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.16,
-        "humulene": 0.12,
-        "myrcene": 0.84,
-        "caryophyllene": 0.37,
-        "limonene": 1.8,
-        "linalool": 0.24,
-        "terpinolene": 0.06
-      },
-      "totalTerps": 3.84,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8914808,
-          "label": "1A4030300002009000112809",
-          "quantity": 5.0,
-          "packagedDate": "2026-08-26",
-          "expirationDate": "2027-04-20"
-        }
-      ]
-    },
-    {
       "id": 8752071,
       "packageCount": 1,
       "name": "HiAF|Disposable|Mango Sunrise|Vape Cart|1000mg",
@@ -50919,103 +51402,6 @@
           "label": "1A4030300003201000001524",
           "quantity": 1.0,
           "packagedDate": "2026-08-10",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8689167,
-      "packageCount": 1,
-      "name": "LORE 1g Vape - Watermelon Burst",
-      "brand": "LORE",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Vault"
-      ],
-      "quantity": 11.0,
-      "unit": "Each",
-      "strainName": "Watermelon Burst",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 80.76,
-        "CBC": 0.57,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.89,
-        "CBGA": 0.0,
-        "CBN": 1.27,
-        "THCA": 0.0,
-        "THCV": 0.87
-      },
-      "dose": null,
-      "terpenes": {
-        "myrcene": 0.23,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.39,
-        "beta-pinene": 0.08,
-        "limonene": 0.75,
-        "linalool": 0.17
-      },
-      "totalTerps": 1.75,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8689167,
-          "label": "1A4030300003201000001354",
-          "quantity": 11.0,
-          "packagedDate": "2026-07-07",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8689168,
-      "packageCount": 1,
-      "name": "LORE 2g Vape - Lemon Berry Gelato",
-      "brand": "LORE",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 11.0,
-      "unit": "Each",
-      "strainName": "Lemon Berry Gelato",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 78.53,
-        "CBC": 0.6,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.77,
-        "CBGA": 0.0,
-        "CBN": 2.18,
-        "THCA": 0.0,
-        "THCV": 0.59
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.24,
-        "humulene": 0.11,
-        "myrcene": 0.47,
-        "alpha-pinene": 0.2,
-        "caryophyllene": 1.11,
-        "beta-pinene": 0.34,
-        "limonene": 1.31,
-        "linalool": 0.28,
-        "terpinolene": 1.01
-      },
-      "totalTerps": 5.39,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8689168,
-          "label": "1A4030300003201000001355",
-          "quantity": 11.0,
-          "packagedDate": "2026-07-07",
           "expirationDate": null
         }
       ]
@@ -54894,51 +55280,6 @@
       ]
     },
     {
-      "id": 8633756,
-      "packageCount": 1,
-      "name": "OG Mint Cloud Bar Hellavated - Vape Cart - 1 g",
-      "brand": "Hellavated",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 5.0,
-      "unit": "Each",
-      "strainName": "OG Mint",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 85.97,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.15,
-        "CBGA": 0.0,
-        "CBN": 0.39,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "caryophyllene": 0.07,
-        "beta-pinene": 0.08,
-        "limonene": 0.63,
-        "terpinolene": 0.05
-      },
-      "totalTerps": 1.88,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8633756,
-          "label": "1A403030000012E000169242",
-          "quantity": 5.0,
-          "packagedDate": "2026-06-23",
-          "expirationDate": "2027-02-15"
-        }
-      ]
-    },
-    {
       "id": 8966579,
       "packageCount": 1,
       "name": "OG Mint Distillate Cartridge Hellavated - Vape Cart - 1.0 g",
@@ -55279,52 +55620,6 @@
           "quantity": 3.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-05-08"
-        }
-      ]
-    },
-    {
-      "id": 8756356,
-      "packageCount": 1,
-      "name": "Peach Cobbler Cloud Bar Hellavated - Vape Cart - 1 g",
-      "brand": "Hellavated",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 5.0,
-      "unit": "Each",
-      "strainName": "Peach Cobbler",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 86.39,
-        "CBC": 0.71,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.66,
-        "CBGA": 0.0,
-        "CBN": 0.66,
-        "THCA": 0.0,
-        "THCV": 0.98
-      },
-      "dose": null,
-      "terpenes": {
-        "alpha-pinene": 0.43,
-        "caryophyllene": 0.22,
-        "beta-pinene": 0.24,
-        "limonene": 0.3,
-        "linalool": 1.02
-      },
-      "totalTerps": 2.27,
-      "dominantTerpene": "linalool",
-      "packages": [
-        {
-          "id": 8756356,
-          "label": "1A403030000012E000176852",
-          "quantity": 5.0,
-          "packagedDate": "2026-07-21",
-          "expirationDate": "2027-03-28"
         }
       ]
     },
@@ -55774,6 +56069,56 @@
           "quantity": 17.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-05-28"
+        }
+      ]
+    },
+    {
+      "id": 9005753,
+      "packageCount": 1,
+      "name": "Pink CertZ Live Resin Vape Cart 1.0mL",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Pink CertZ",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 74.82,
+        "CBC": 0.51,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.11,
+        "CBGA": 1.49,
+        "CBN": 0.0,
+        "THCA": 3.16,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.23,
+        "humulene": 0.59,
+        "myrcene": 0.93,
+        "alpha-pinene": 0.41,
+        "caryophyllene": 2.34,
+        "beta-pinene": 0.07,
+        "limonene": 2.5,
+        "linalool": 1.87,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 9.78,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9005753,
+          "label": "1A4030300000C83000088092",
+          "quantity": 20.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-08-14"
         }
       ]
     },
@@ -56831,6 +57176,265 @@
       ]
     },
     {
+      "id": 9013319,
+      "packageCount": 1,
+      "name": "Rove | Live Resin Diamonds Vape Reload | Cherry Gelato - H | 1.0g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Cherry Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.16,
+        "totalCBD": 0.009,
+        "CBC": 0.358,
+        "CBDA": 0.01,
+        "CBDV": 0.0,
+        "CBG": 2.956,
+        "CBGA": 0.0,
+        "CBN": 0.374,
+        "THCA": 0.266,
+        "THCV": 1.237
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.212,
+        "humulene": 0.0494,
+        "myrcene": 0.0653,
+        "alpha-pinene": 0.0299,
+        "caryophyllene": 0.104,
+        "caryophyllene-oxide": 0.039,
+        "limonene": 0.123
+      },
+      "totalTerps": 0.82,
+      "dominantTerpene": "bisabolol",
+      "packages": [
+        {
+          "id": 9013319,
+          "label": "1A4030300000C83000088161",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-17",
+          "expirationDate": "2027-07-28"
+        }
+      ]
+    },
+    {
+      "id": 9013320,
+      "packageCount": 1,
+      "name": "Rove | Live Resin Diamonds Vape Reload | Maui Waui - S | 1.0g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Maui Waui",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.3,
+        "totalCBD": 0.194,
+        "CBC": 0.291,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.98,
+        "CBGA": 0.0,
+        "CBN": 0.253,
+        "THCA": 0.037,
+        "THCV": 1.55
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.161,
+        "humulene": 0.0472,
+        "myrcene": 0.0494,
+        "alpha-pinene": 0.0347,
+        "caryophyllene": 0.0823,
+        "beta-pinene": 0.0335,
+        "caryophyllene-oxide": 0.0658,
+        "limonene": 0.103,
+        "linalool": 0.051,
+        "terpinolene": 0.0668,
+        "nerolidol": 0.0251
+      },
+      "totalTerps": 0.962,
+      "dominantTerpene": "bisabolol",
+      "packages": [
+        {
+          "id": 9013320,
+          "label": "1A4030300000C83000088162",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-17",
+          "expirationDate": "2027-08-12"
+        }
+      ]
+    },
+    {
+      "id": 9013323,
+      "packageCount": 1,
+      "name": "Rove | Live Resin Diamonds Vape Reload | Skywalker OG - I | 1.0g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Skywalker OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.31,
+        "totalCBD": 0.216,
+        "CBC": 0.285,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.905,
+        "CBGA": 0.0,
+        "CBN": 0.461,
+        "THCA": 0.0,
+        "THCV": 1.093
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.192,
+        "humulene": 0.0306,
+        "myrcene": 0.0462,
+        "caryophyllene": 0.187,
+        "beta-pinene": 0.0393,
+        "caryophyllene-oxide": 0.0366,
+        "limonene": 0.0702,
+        "linalool": 0.0736,
+        "nerolidol": 0.0469
+      },
+      "totalTerps": 0.805,
+      "dominantTerpene": "bisabolol",
+      "packages": [
+        {
+          "id": 9013323,
+          "label": "1A4030300000C83000088163",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-17",
+          "expirationDate": "2027-07-14"
+        }
+      ]
+    },
+    {
+      "id": 9013221,
+      "packageCount": 1,
+      "name": "Rove | Live Resin Diamonds Vape Reload | Watermelon Burst - I | 1.0g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Watermelon Burst",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.7,
+        "totalCBD": 0.242,
+        "CBC": 0.385,
+        "CBDA": 0.018,
+        "CBDV": 0.0,
+        "CBG": 3.4,
+        "CBGA": 0.0,
+        "CBN": 0.448,
+        "THCA": 0.057,
+        "THCV": 0.76
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.107,
+        "humulene": 0.0778,
+        "myrcene": 0.0613,
+        "alpha-pinene": 0.0377,
+        "caryophyllene": 0.1,
+        "beta-pinene": 0.041,
+        "caryophyllene-oxide": 0.0699,
+        "limonene": 0.306,
+        "linalool": 0.0423,
+        "terpinolene": 0.0334,
+        "nerolidol": 0.047
+      },
+      "totalTerps": 1.33,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9013221,
+          "label": "1A4030300000C83000088164",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-17",
+          "expirationDate": "2027-08-11"
+        }
+      ]
+    },
+    {
+      "id": 9013325,
+      "packageCount": 1,
+      "name": "Rove | Ready-To-Use Live Resin Diamond Vaporizer | Blue Dream - H | 1.0g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Ready To Use Vaporizer",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 91.4,
+        "totalCBD": 0.242,
+        "CBC": 0.322,
+        "CBDA": 0.013,
+        "CBDV": 0.0,
+        "CBG": 3.44,
+        "CBGA": 0.0,
+        "CBN": 0.472,
+        "THCA": 0.052,
+        "THCV": 0.537
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.118,
+        "humulene": 0.0657,
+        "myrcene": 0.0853,
+        "alpha-pinene": 0.0335,
+        "caryophyllene": 0.0667,
+        "beta-pinene": 0.0265,
+        "caryophyllene-oxide": 0.063,
+        "limonene": 0.0966,
+        "linalool": 0.0294,
+        "terpinolene": 0.0346,
+        "nerolidol": 0.0478
+      },
+      "totalTerps": 0.933,
+      "dominantTerpene": "bisabolol",
+      "packages": [
+        {
+          "id": 9013325,
+          "label": "1A4030300000C83000088165",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-17",
+          "expirationDate": "2027-08-11"
+        }
+      ]
+    },
+    {
       "id": 8698947,
       "packageCount": 1,
       "name": "Rove | Ready-To-Use Live Resin Diamond Vaporizer | Fruit Punch - S | 1.0g",
@@ -56880,6 +57484,59 @@
       ]
     },
     {
+      "id": 9013326,
+      "packageCount": 1,
+      "name": "Rove | Ready-To-Use Live Resin Diamond Vaporizer | Granddaddy Purp - I | 1.0g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Ready To Use Vaporizer",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 91.5,
+        "totalCBD": 0.22,
+        "CBC": 0.32,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.2,
+        "CBGA": 0.0,
+        "CBN": 0.422,
+        "THCA": 0.05,
+        "THCV": 0.518
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.121,
+        "humulene": 0.0856,
+        "myrcene": 0.0713,
+        "alpha-pinene": 0.0586,
+        "caryophyllene": 0.187,
+        "beta-pinene": 0.0517,
+        "caryophyllene-oxide": 0.0764,
+        "limonene": 0.237,
+        "linalool": 0.0652,
+        "terpinolene": 0.0205,
+        "nerolidol": 0.044
+      },
+      "totalTerps": 1.31,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9013326,
+          "label": "1A4030300000C83000088166",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-17",
+          "expirationDate": "2027-08-11"
+        }
+      ]
+    },
+    {
       "id": 8667047,
       "packageCount": 1,
       "name": "Rove | Ready-To-Use Live Resin Diamond Vaporizer | Magic Melon - H | 1.0g",
@@ -56889,7 +57546,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Ready To Use Vaporizer",
       "strainType": null,
@@ -56918,7 +57575,7 @@
         {
           "id": 8667047,
           "label": "1A4030300000C83000075870",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-06-30",
           "expirationDate": "2027-03-25"
         }
@@ -56976,55 +57633,6 @@
       ]
     },
     {
-      "id": 8545068,
-      "packageCount": 1,
-      "name": "Rove | Ready-To-Use Live Resin Diamond Vaporizer | Orange Crush - S | 1.0g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Ready To Use Vaporizer",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 87.66,
-        "totalCBD": 0.21,
-        "CBC": 0.22,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.94,
-        "CBGA": 0.0,
-        "CBN": 0.31,
-        "THCA": 0.0,
-        "THCV": 1.41
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.03,
-        "humulene": 0.02,
-        "myrcene": 0.04,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 0.04,
-        "limonene": 0.61,
-        "linalool": 0.02
-      },
-      "totalTerps": 0.79,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8545068,
-          "label": "1A4030300000C83000072911",
-          "quantity": 1.0,
-          "packagedDate": "2026-06-03",
-          "expirationDate": "2027-04-16"
-        }
-      ]
-    },
-    {
       "id": 8940648,
       "packageCount": 1,
       "name": "Rove | Ready-To-Use Live Resin Diamond Vaporizer | Pineapple Express - H | 1.0g",
@@ -57034,7 +57642,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Ready To Use Vaporizer",
       "strainType": null,
@@ -57067,7 +57675,7 @@
         {
           "id": 8940648,
           "label": "1A4030300000C83000086776",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-14"
         }
@@ -57083,7 +57691,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Ready To Use Vaporizer",
       "strainType": null,
@@ -57120,7 +57728,7 @@
         {
           "id": 8940649,
           "label": "1A4030300000C83000086777",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-12"
         }
@@ -59646,6 +60254,50 @@
           "quantity": 11.0,
           "packagedDate": "2026-06-17",
           "expirationDate": "2027-05-08"
+        }
+      ]
+    },
+    {
+      "id": 9005755,
+      "packageCount": 1,
+      "name": "White Gummy Starburst Distillate Vape Cart 1.0mL",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "White Starburst",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.24,
+        "CBC": 0.58,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 5.1,
+        "CBGA": 0.0,
+        "CBN": 0.3,
+        "THCA": 0.0,
+        "THCV": 0.36
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.17,
+        "myrcene": 0.06,
+        "limonene": 4.05
+      },
+      "totalTerps": 4.35,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9005755,
+          "label": "1A4030300000C83000088093",
+          "quantity": 20.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-09-09"
         }
       ]
     }
