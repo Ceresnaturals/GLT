@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T14:40:27.649812+00:00",
+  "generated_at": "2026-09-19T14:50:31.692111+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -23716,6 +23716,61 @@
       ]
     },
     {
+      "id": 8385133,
+      "packageCount": 1,
+      "name": "Sour Watermelon Chews - Vegan Gummies - Edible Product - 10mg/serving - 10pk",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 1.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.229,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.004,
+        "CBGA": 0.0,
+        "CBN": 0.006,
+        "THCA": 0.0,
+        "THCV": 0.001
+      },
+      "dose": {
+        "servingSize": "1 gummy (~4 grams)",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.08,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.16,
+          "CBGA": 0.0,
+          "CBN": 0.24,
+          "THCA": 0.0,
+          "THCV": 0.04
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8385133,
+          "label": "ABC0303000037DD000022432",
+          "quantity": 1.0,
+          "packagedDate": "2026-04-28",
+          "expirationDate": "2026-11-23"
+        }
+      ]
+    },
+    {
       "id": 8787118,
       "packageCount": 1,
       "name": "Sour Watermelon Lime Jams - Edible Product - 5mg - 20",
@@ -37358,7 +37413,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 105.0,
+      "quantity": 101.5,
       "unit": "Grams",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -37390,7 +37445,7 @@
         {
           "id": 8974467,
           "label": "1A40303000000CB000051666",
-          "quantity": 105.0,
+          "quantity": 101.5,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-03"
         }
@@ -38379,7 +38434,7 @@
     },
     {
       "id": 8974366,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Patapeake Shortbread J walker (.35g joints) 5 Pack 1.75g",
       "brand": null,
       "category": "Pre-Roll",
@@ -38387,7 +38442,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 29.75,
       "unit": "Grams",
       "strainName": "Patapeake Shortbread",
       "strainType": null,
@@ -38422,6 +38477,13 @@
           "quantity": 28.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-06-03"
+        },
+        {
+          "id": 8240392,
+          "label": "1A40303000000CB000037641",
+          "quantity": 1.75,
+          "packagedDate": "2026-03-25",
+          "expirationDate": "2027-02-27"
         }
       ]
     },
@@ -41642,7 +41704,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Bermuda Triangle",
       "strainType": null,
@@ -41676,7 +41738,7 @@
         {
           "id": 8609587,
           "label": "1A40303000001F5000393054",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-06-17",
           "expirationDate": "2026-10-14"
         }
@@ -41897,7 +41959,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": null,
@@ -41931,7 +41993,7 @@
         {
           "id": 8947227,
           "label": "1A40303000001F5000425612",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-03-12"
         }
@@ -45011,7 +45073,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Full Spectrum",
       "strainType": "Hybrid",
@@ -45044,7 +45106,7 @@
         {
           "id": 8485461,
           "label": "1A40303000003EA000181122",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-05-20",
           "expirationDate": "2027-03-18"
         }
@@ -53745,6 +53807,55 @@
       ]
     },
     {
+      "id": 8026081,
+      "packageCount": 1,
+      "name": "Maui Wowie Essentials - Vape Cart - 0.5g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Each",
+      "strainName": "Maui Wowie Essentials",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 80.74,
+        "CBDA": 0.0,
+        "CBG": 3.42,
+        "CBN": 0.32,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.28,
+        "myrcene": 1.01,
+        "alpha-pinene": 0.4,
+        "caryophyllene": 1.48,
+        "eudesmol": 0.02,
+        "beta-pinene": 0.25,
+        "caryophyllene-oxide": 0.05,
+        "ocimene": 0.22,
+        "limonene": 0.74,
+        "linalool": 0.22,
+        "terpinolene": 0.03
+      },
+      "totalTerps": 4.7,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8026081,
+          "label": "1A4030300000193000083147",
+          "quantity": 16.0,
+          "packagedDate": "2026-02-03",
+          "expirationDate": "2026-12-21"
+        }
+      ]
+    },
+    {
       "id": 8885895,
       "packageCount": 1,
       "name": "Mellow Fellow - Disposable Vape - Banana Berry Smoothie - 1g",
@@ -53943,6 +54054,56 @@
       ]
     },
     {
+      "id": 8945349,
+      "packageCount": 1,
+      "name": "Mellow Fellow - Disposable Vape - Green Crack - 1g",
+      "brand": "Mellow Fellow",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 3.0,
+      "unit": "Each",
+      "strainName": "Green Crack",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 88.91,
+        "CBC": 0.81,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.74,
+        "CBGA": 0.0,
+        "CBN": 0.79,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.2,
+        "myrcene": 0.44,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 0.74,
+        "beta-pinene": 0.13,
+        "ocimene": 0.91,
+        "limonene": 0.63,
+        "linalool": 0.44,
+        "terpinolene": 0.7
+      },
+      "totalTerps": 4.71,
+      "dominantTerpene": "ocimene",
+      "packages": [
+        {
+          "id": 8945349,
+          "label": "1A403030000283D000060837",
+          "quantity": 3.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8999575,
       "packageCount": 1,
       "name": "Mellow Fellow - Disposable Vape - Pineapple Express - 1g",
@@ -54039,6 +54200,155 @@
           "quantity": 4.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-26"
+        }
+      ]
+    },
+    {
+      "id": 8945348,
+      "packageCount": 1,
+      "name": "Mellow Fellow - Infused Distillate 510 Vape - Blue Dream - 1g",
+      "brand": "Mellow Fellow",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 18.0,
+      "unit": "Each",
+      "strainName": "Blue Dream",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.82,
+        "CBC": 0.84,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.78,
+        "CBGA": 0.0,
+        "CBN": 0.88,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.19,
+        "humulene": 0.2,
+        "myrcene": 0.44,
+        "alpha-pinene": 0.23,
+        "caryophyllene": 1.29,
+        "beta-pinene": 0.12,
+        "limonene": 0.61,
+        "linalool": 0.46,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 3.83,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8945348,
+          "label": "1A403030000283D000060835",
+          "quantity": 18.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8885893,
+      "packageCount": 1,
+      "name": "Mellow Fellow - Infused Distillate 510 Vape - Durban Poison - 1g",
+      "brand": "Mellow Fellow",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 13.0,
+      "unit": "Each",
+      "strainName": "Durban Poison",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 88.39,
+        "CBC": 0.67,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.46,
+        "CBGA": 0.0,
+        "CBN": 0.81,
+        "THCA": 0.0,
+        "THCV": 0.57
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.16,
+        "myrcene": 0.78,
+        "alpha-pinene": 0.28,
+        "caryophyllene": 0.57,
+        "beta-pinene": 0.21,
+        "ocimene": 1.27,
+        "limonene": 0.76,
+        "linalool": 0.31,
+        "terpinolene": 0.83
+      },
+      "totalTerps": 5.39,
+      "dominantTerpene": "ocimene",
+      "packages": [
+        {
+          "id": 8885893,
+          "label": "1A403030000283D000057727",
+          "quantity": 13.0,
+          "packagedDate": "2026-08-19",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8945079,
+      "packageCount": 1,
+      "name": "Mellow Fellow - Infused Distillate 510 Vape - Northern Lights - 1g",
+      "brand": "Mellow Fellow",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 6.0,
+      "unit": "Each",
+      "strainName": "Northern Lights",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.82,
+        "CBC": 0.83,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.94,
+        "CBGA": 0.0,
+        "CBN": 0.86,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.11,
+        "myrcene": 0.48,
+        "alpha-pinene": 0.21,
+        "caryophyllene": 1.06,
+        "beta-pinene": 0.24,
+        "limonene": 0.65,
+        "linalool": 0.32,
+        "terpinolene": 1.03
+      },
+      "totalTerps": 4.38,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8945079,
+          "label": "1A403030000283D000060836",
+          "quantity": 6.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": null
         }
       ]
     },
@@ -54191,7 +54501,7 @@
     },
     {
       "id": 8769855,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Mfused TWISTED Super Fog Jefe Plus-Baja Blazed 1g Disposable-Vape Cart-1g",
       "brand": null,
       "category": "Vape",
@@ -54199,7 +54509,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Mfused TWISTED Super Fog Jefe Baja Blazed",
       "strainType": null,
@@ -54233,6 +54543,13 @@
           "id": 8769855,
           "label": "1A403030000012D000257038",
           "quantity": 2.0,
+          "packagedDate": "2026-07-23",
+          "expirationDate": null
+        },
+        {
+          "id": 8769856,
+          "label": "1A403030000012D000257039",
+          "quantity": 1.0,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
@@ -59695,6 +60012,56 @@
           "quantity": 20.0,
           "packagedDate": "2026-02-20",
           "expirationDate": "2027-06-19"
+        }
+      ]
+    },
+    {
+      "id": 8664211,
+      "packageCount": 1,
+      "name": "Vape Cart: SunKissed -1g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 2.0,
+      "unit": "Each",
+      "strainName": "SunKissed",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 68.17,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 6.24,
+        "CBGA": 0.0,
+        "CBN": 0.4,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.23,
+        "myrcene": 2.95,
+        "alpha-pinene": 0.46,
+        "caryophyllene": 0.97,
+        "beta-pinene": 0.46,
+        "ocimene": 0.1,
+        "limonene": 3.81,
+        "linalool": 0.44,
+        "terpinolene": 0.07
+      },
+      "totalTerps": 10.19,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8664211,
+          "label": "1A4030300003D55000006360",
+          "quantity": 2.0,
+          "packagedDate": "2026-06-30",
+          "expirationDate": "2027-02-23"
         }
       ]
     },
