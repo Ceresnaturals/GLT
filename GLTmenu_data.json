@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T23:40:33.358051+00:00",
+  "generated_at": "2026-09-19T23:50:31.846594+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8613,7 +8613,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": "Hybrid",
@@ -8647,7 +8647,7 @@
         {
           "id": 8970469,
           "label": "1A40303000003EA000263661",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-18"
         }
@@ -8661,9 +8661,9 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Strawberry Shortcake",
       "strainType": "Indica",
@@ -8697,7 +8697,7 @@
         {
           "id": 9003341,
           "label": "1A40303000003EA000266191",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-08-14"
         }
@@ -10924,7 +10924,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10965,7 +10965,7 @@
         {
           "id": 8998118,
           "label": "1A40303000001F5000431209",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -19943,61 +19943,6 @@
           "quantity": 14.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-05-20"
-        }
-      ]
-    },
-    {
-      "id": 8914800,
-      "packageCount": 1,
-      "name": "HiColor RSO Sativa Gummies Sour Lemon Drop|Edible Product|10mg|10ct",
-      "brand": "HiColor",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 7.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": "Sativa",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.229,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.001,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1pc",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.043,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8914800,
-          "label": "1A4030300002009000112801",
-          "quantity": 7.0,
-          "packagedDate": "2026-08-26",
-          "expirationDate": "2027-05-15"
         }
       ]
     },
