@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T20:30:02.767859+00:00",
+  "generated_at": "2026-09-21T20:40:02.765876+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -5736,7 +5736,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Mfused FIRE Fattys",
       "strainType": null,
@@ -5771,7 +5771,7 @@
         {
           "id": 8828895,
           "label": "1A403030000012D000259359",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -25728,7 +25728,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 45.5,
       "unit": "Grams",
@@ -26066,7 +26066,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 45.5,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Charm Biscuitz",
       "strainType": null,
@@ -26099,7 +26099,7 @@
         {
           "id": 8943242,
           "label": "1A40303000040D9000005971",
-          "quantity": 45.5,
+          "quantity": 42.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-31"
         }
@@ -26706,7 +26706,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 62.27,
+      "quantity": 58.77,
       "unit": "Grams",
       "strainName": "Earthquake #25",
       "strainType": null,
@@ -26739,7 +26739,7 @@
         {
           "id": 8000715,
           "label": "1A40303000000C9000082241",
-          "quantity": 62.27,
+          "quantity": 58.77,
           "packagedDate": "2026-01-28",
           "expirationDate": "2026-11-23"
         }
@@ -38473,57 +38473,6 @@
       ]
     },
     {
-      "id": 8968079,
-      "packageCount": 1,
-      "name": "Dulce de Fresca - 5g Shake/Trim",
-      "brand": null,
-      "category": "Shake/Trim",
-      "metrcCategory": "Shake/Trim (by strain)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 10.0,
-      "unit": "Grams",
-      "strainName": "Dulce de Fresca",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 22.49,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.64,
-        "CBN": 0.0,
-        "THCA": 25.5,
-        "THCV": 0.14
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.08,
-        "humulene": 0.1,
-        "myrcene": 0.53,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 0.27,
-        "eudesmol": 0.1,
-        "beta-pinene": 0.04,
-        "limonene": 0.34,
-        "linalool": 0.09,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 1.73,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8968079,
-          "label": "1A40303000040D9000006042",
-          "quantity": 10.0,
-          "packagedDate": "2026-09-08",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8942955,
       "packageCount": 1,
       "name": "Rainbow Walker 5g Shake/Trim",
@@ -49056,7 +49005,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "White Widow",
       "strainType": null,
@@ -49091,7 +49040,7 @@
         {
           "id": 8882184,
           "label": "1A4030300003522000202238",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-28"
         }
