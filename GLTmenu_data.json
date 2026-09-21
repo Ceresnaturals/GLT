@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T20:40:02.765876+00:00",
+  "generated_at": "2026-09-21T20:50:03.471137+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -26064,7 +26064,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 42.0,
       "unit": "Grams",
@@ -27053,7 +27053,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 59.5,
       "unit": "Grams",
@@ -27850,7 +27850,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 92.0,
       "unit": "Grams",
@@ -28498,7 +28498,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 84.0,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -28532,7 +28532,7 @@
         {
           "id": 9005737,
           "label": "1A40303000000CB000052506",
-          "quantity": 84.0,
+          "quantity": 56.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-09-05"
         }
@@ -29736,7 +29736,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 87.5,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "OG Kush",
       "strainType": "Indica",
@@ -29770,7 +29770,7 @@
         {
           "id": 9003339,
           "label": "1A40303000003EA000266188",
-          "quantity": 87.5,
+          "quantity": 84.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-08-06"
         }
@@ -30449,6 +30449,56 @@
           "quantity": 3.5,
           "packagedDate": "2026-06-17",
           "expirationDate": "2027-05-20"
+        }
+      ]
+    },
+    {
+      "id": 8919839,
+      "packageCount": 1,
+      "name": "Sneak Attack OG Pre-Pack (Popcorn) - Rythm (Hybrid) - Usable - 7g",
+      "brand": "Rythm",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 140.0,
+      "unit": "Grams",
+      "strainName": "Sneak Attack OG",
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.64,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.99,
+        "CBN": 0.0,
+        "THCA": 31.1,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.03,
+        "myrcene": 0.12,
+        "alpha-pinene": 0.16,
+        "caryophyllene": 0.12,
+        "eudesmol": 0.09,
+        "beta-pinene": 0.16,
+        "ocimene": 0.12,
+        "limonene": 1.15,
+        "linalool": 0.35
+      },
+      "totalTerps": 2.69,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8919839,
+          "label": "1A40303000003EA000206307",
+          "quantity": 140.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-07-29"
         }
       ]
     },
@@ -36016,7 +36066,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 87.5,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Midnight Circus",
       "strainType": null,
@@ -36051,7 +36101,7 @@
         {
           "id": 9005665,
           "label": "1A40303000000CB000052512",
-          "quantity": 87.5,
+          "quantity": 84.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-08-04"
         }
@@ -38531,7 +38581,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 397.71,
+      "quantity": 387.21,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -38562,7 +38612,7 @@
         {
           "id": 8765367,
           "label": "1A40303000001F5000408134",
-          "quantity": 397.71,
+          "quantity": 387.21,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
@@ -38627,7 +38677,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 143.63,
+      "quantity": 140.13,
       "unit": "Grams",
       "strainName": "Strawberry Candy #4 TC",
       "strainType": null,
@@ -38660,7 +38710,7 @@
         {
           "id": 8919194,
           "label": "1A40303000001F5000423349",
-          "quantity": 143.63,
+          "quantity": 140.13,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
