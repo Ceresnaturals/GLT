@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T18:00:06.025471+00:00",
+  "generated_at": "2026-09-22T18:10:03.056991+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -20006,7 +20006,7 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 23.0,
       "unit": "Each",
@@ -29565,7 +29565,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 217.0,
+      "quantity": 203.0,
       "unit": "Grams",
       "strainName": "Cherimoya",
       "strainType": null,
@@ -29600,7 +29600,7 @@
         {
           "id": 8996163,
           "label": "1A4030300003521000058083",
-          "quantity": 217.0,
+          "quantity": 203.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-07-22"
         }
@@ -29666,7 +29666,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.5,
+      "quantity": 3.5,
       "unit": "Grams",
       "strainName": "Double Krush",
       "strainType": null,
@@ -29700,7 +29700,7 @@
         {
           "id": 8939185,
           "label": "1A4030300003521000056675",
-          "quantity": 10.5,
+          "quantity": 3.5,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-12"
         }
@@ -51082,7 +51082,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 48.0,
+      "quantity": 47.0,
       "unit": "Each",
       "strainName": "Liquid",
       "strainType": null,
@@ -51116,7 +51116,7 @@
         {
           "id": 8578985,
           "label": "1A4030300003D55000006177",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-02-21"
         },
@@ -52066,7 +52066,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "MD VP MDLYCK 05CR",
       "strainType": null,
@@ -52099,7 +52099,7 @@
         {
           "id": 8872245,
           "label": "1A40303000007D1000093660",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-17",
           "expirationDate": null
         }
@@ -52269,7 +52269,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Mango Dragon",
       "strainType": null,
@@ -52300,7 +52300,7 @@
         {
           "id": 8966583,
           "label": "1A403030000012E000190892",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-14"
         }
@@ -52791,54 +52791,6 @@
           "quantity": 10.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-05-07"
-        }
-      ]
-    },
-    {
-      "id": 8966487,
-      "packageCount": 1,
-      "name": "Melon Sherbert Distillate Cartridge Hellavated - 1.0 g",
-      "brand": "Hellavated",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Melon Sherbert",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 88.83,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.04,
-        "CBGA": 0.0,
-        "CBN": 0.55,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "myrcene": 0.14,
-        "alpha-pinene": 0.15,
-        "caryophyllene": 0.2,
-        "beta-pinene": 0.11,
-        "limonene": 0.48,
-        "linalool": 0.26,
-        "nerolidol": 0.22
-      },
-      "totalTerps": 1.56,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8966487,
-          "label": "1A403030000012E000192144",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-08",
-          "expirationDate": "2027-07-25"
         }
       ]
     },
