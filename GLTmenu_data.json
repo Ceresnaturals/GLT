@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T21:20:02.697567+00:00",
+  "generated_at": "2026-09-22T21:30:05.414021+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -18244,6 +18244,61 @@
       ]
     },
     {
+      "id": 9018114,
+      "packageCount": 1,
+      "name": "Encore Gummies (RSO) - Sour Black Cherry - 10mg - 10pc*",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 48.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.278,
+        "CBC": 0.003,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.012,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.105,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.42,
+          "CBGA": 0.0,
+          "CBN": 0.07,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9018114,
+          "label": "1A40303000017D5000107152",
+          "quantity": 48.0,
+          "packagedDate": "2026-06-30",
+          "expirationDate": "2027-06-30"
+        }
+      ]
+    },
+    {
       "id": 8958683,
       "packageCount": 1,
       "name": "Encore Gummies (RSO) - Tropical Mango - 10mg - 10pc*",
@@ -18857,6 +18912,61 @@
           "quantity": 2.0,
           "packagedDate": "2026-06-22",
           "expirationDate": "2027-06-22"
+        }
+      ]
+    },
+    {
+      "id": 9022664,
+      "packageCount": 1,
+      "name": "Encore RSO Gummies (Macro Dose) - Black Cherry - 40mg - 10pc*",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.971,
+        "CBC": 0.004,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.039,
+        "CBGA": 0.0,
+        "CBN": 0.006,
+        "THCA": 0.0,
+        "THCV": 0.007
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "CBC": 0.16,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.56,
+          "CBGA": 0.0,
+          "CBN": 0.24,
+          "THCA": 0.0,
+          "THCV": 0.28
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9022664,
+          "label": "1A40303000017D5000107309",
+          "quantity": 24.0,
+          "packagedDate": "2026-06-29",
+          "expirationDate": "2027-06-29"
         }
       ]
     },
@@ -27845,7 +27955,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Black Cherry Punch",
       "strainType": null,
@@ -27880,7 +27990,7 @@
         {
           "id": 8939178,
           "label": "1A4030300003521000056671",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-14"
         }
@@ -29577,7 +29687,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 203.0,
+      "quantity": 196.0,
       "unit": "Grams",
       "strainName": "Cherimoya",
       "strainType": null,
@@ -29612,7 +29722,7 @@
         {
           "id": 8996163,
           "label": "1A4030300003521000058083",
-          "quantity": 203.0,
+          "quantity": 196.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-07-22"
         }
@@ -30450,6 +30560,55 @@
       ]
     },
     {
+      "id": 9020086,
+      "packageCount": 1,
+      "name": "Savvy Flower - Grape Junky - Usable - 3.5g",
+      "brand": "Savvy",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 84.0,
+      "unit": "Grams",
+      "strainName": "Grape Junky",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.87,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.57,
+        "CBN": 0.0,
+        "THCA": 34.59,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.15,
+        "myrcene": 0.2,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.69,
+        "beta-pinene": 0.04,
+        "limonene": 0.32,
+        "linalool": 0.31
+      },
+      "totalTerps": 1.95,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9020086,
+          "label": "1A4030300003A3C000091320",
+          "quantity": 84.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-09-09"
+        }
+      ]
+    },
+    {
       "id": 8977232,
       "packageCount": 1,
       "name": "Savvy Flower - Guerilla Grape - Usable - 7g",
@@ -30496,6 +30655,55 @@
           "quantity": 14.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-09-01"
+        }
+      ]
+    },
+    {
+      "id": 9020085,
+      "packageCount": 1,
+      "name": "Savvy Flower - Honeydew - Usable - 14g",
+      "brand": "Savvy",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 168.0,
+      "unit": "Grams",
+      "strainName": "Honey Dew",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.81,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.39,
+        "CBN": 0.0,
+        "THCA": 33.26,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.05,
+        "myrcene": 0.36,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.16,
+        "beta-pinene": 0.07,
+        "limonene": 0.51,
+        "linalool": 0.1
+      },
+      "totalTerps": 1.5,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9020085,
+          "label": "1A4030300003A3C000091319",
+          "quantity": 168.0,
+          "packagedDate": "2026-09-10",
+          "expirationDate": "2027-09-10"
         }
       ]
     },
@@ -33383,7 +33591,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 1.0,
       "unit": "Grams",
       "strainName": "Deadband x GC5 #12",
       "strainType": null,
@@ -33417,7 +33625,7 @@
         {
           "id": 9005746,
           "label": "1A40303000000CB000052511",
-          "quantity": 3.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-07-28"
         }
@@ -34083,7 +34291,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 37.0,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "GMO x Skywalker OG",
       "strainType": null,
@@ -34115,7 +34323,7 @@
         {
           "id": 8947154,
           "label": "1A40303000001F5000425609",
-          "quantity": 37.0,
+          "quantity": 35.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -38172,7 +38380,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 44.0,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -38206,7 +38414,7 @@
         {
           "id": 9005731,
           "label": "1A40303000000CB000052503",
-          "quantity": 44.0,
+          "quantity": 42.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-07-28"
         }
@@ -38519,7 +38727,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 17.0,
       "unit": "Grams",
       "strainName": "Voyager",
       "strainType": null,
@@ -38551,7 +38759,7 @@
         {
           "id": 8998449,
           "label": "1A40303000001F5000431277",
-          "quantity": 20.0,
+          "quantity": 17.0,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -38567,7 +38775,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 49.0,
+      "quantity": 47.0,
       "unit": "Grams",
       "strainName": "Watermelon Gelato TC",
       "strainType": null,
@@ -38599,7 +38807,7 @@
         {
           "id": 8998450,
           "label": "1A40303000001F5000431278",
-          "quantity": 49.0,
+          "quantity": 47.0,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -38822,7 +39030,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 306.71,
+      "quantity": 303.21,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -38853,7 +39061,7 @@
         {
           "id": 8765367,
           "label": "1A40303000001F5000408134",
-          "quantity": 306.71,
+          "quantity": 303.21,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
@@ -38918,7 +39126,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 77.13,
+      "quantity": 70.13,
       "unit": "Grams",
       "strainName": "Strawberry Candy #4 TC",
       "strainType": null,
@@ -38951,7 +39159,7 @@
         {
           "id": 8919194,
           "label": "1A40303000001F5000423349",
-          "quantity": 77.13,
+          "quantity": 70.13,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -39539,6 +39747,54 @@
       ]
     },
     {
+      "id": 9018103,
+      "packageCount": 1,
+      "name": "(the) Essence Cartridge - Bombsicle - 0.5g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Bombsicle",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.15,
+        "CBC": 0.56,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.15,
+        "CBGA": 0.0,
+        "CBN": 0.52,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.12,
+        "myrcene": 0.47,
+        "alpha-pinene": 1.47,
+        "caryophyllene": 1.32,
+        "beta-pinene": 0.52,
+        "caryophyllene-oxide": 0.47,
+        "limonene": 0.55
+      },
+      "totalTerps": 5.51,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9018103,
+          "label": "1A40303000017D5000107144",
+          "quantity": 12.0,
+          "packagedDate": "2026-07-31",
+          "expirationDate": "2027-07-31"
+        }
+      ]
+    },
+    {
       "id": 8838265,
       "packageCount": 1,
       "name": "(the) Essence Cartridge - Cantaloupe Haze - 0.5g",
@@ -39627,6 +39883,55 @@
           "quantity": 10.0,
           "packagedDate": "2026-06-29",
           "expirationDate": "2027-06-29"
+        }
+      ]
+    },
+    {
+      "id": 9018105,
+      "packageCount": 1,
+      "name": "(the) Essence Cartridge - Strawberry Cheesecake - 0.5g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Strawberry Cheesecake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.54,
+        "CBC": 0.81,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.37,
+        "CBGA": 0.0,
+        "CBN": 0.4,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.25,
+        "myrcene": 0.98,
+        "alpha-pinene": 0.2,
+        "caryophyllene": 1.43,
+        "beta-pinene": 0.28,
+        "limonene": 1.95,
+        "linalool": 0.49,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 6.19,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9018105,
+          "label": "1A40303000017D5000107145",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-09-08"
         }
       ]
     },
@@ -56605,6 +56910,56 @@
       ]
     },
     {
+      "id": 9018210,
+      "packageCount": 1,
+      "name": "Savvy Cartridge - Grape Kush - 1g",
+      "brand": "Savvy",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Grape Kush",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.68,
+        "CBC": 0.74,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.56,
+        "CBGA": 0.0,
+        "CBN": 0.23,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.14,
+        "myrcene": 2.54,
+        "alpha-pinene": 0.6,
+        "caryophyllene": 0.84,
+        "beta-pinene": 0.55,
+        "ocimene": 0.24,
+        "limonene": 3.14,
+        "linalool": 0.53,
+        "terpinolene": 0.09
+      },
+      "totalTerps": 8.97,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9018210,
+          "label": "1A40303000017D5000107156",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-09-09"
+        }
+      ]
+    },
+    {
       "id": 8683140,
       "packageCount": 1,
       "name": "Savvy Cartridge - Peaches & Creme - 1g",
@@ -56749,6 +57104,55 @@
           "quantity": 1.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-08-12"
+        }
+      ]
+    },
+    {
+      "id": 9018211,
+      "packageCount": 1,
+      "name": "Savvy Cartridge - Strawberry Jam 1:4 CBN:THC - 1g",
+      "brand": "Savvy",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Strawberry Jam",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 69.47,
+        "CBC": 0.78,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.1,
+        "CBGA": 0.0,
+        "CBN": 17.84,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.19,
+        "myrcene": 0.33,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.7,
+        "beta-pinene": 0.09,
+        "limonene": 0.61,
+        "linalool": 0.24,
+        "nerolidol": 0.11
+      },
+      "totalTerps": 2.56,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9018211,
+          "label": "1A40303000017D5000107157",
+          "quantity": 12.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-08-26"
         }
       ]
     },
@@ -57982,7 +58386,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Tropical Z DV",
       "strainType": null,
@@ -58016,7 +58420,7 @@
         {
           "id": 8794435,
           "label": "1A40303000001F5000410810",
-          "quantity": 17.0,
+          "quantity": 15.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-01-15"
         }
