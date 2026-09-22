@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T17:10:02.715127+00:00",
+  "generated_at": "2026-09-22T17:20:03.040606+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8903,7 +8903,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 36.0,
       "unit": "Each",
@@ -9440,6 +9440,56 @@
           "quantity": 12.0,
           "packagedDate": "2026-04-28",
           "expirationDate": "2027-03-04"
+        }
+      ]
+    },
+    {
+      "id": 8026080,
+      "packageCount": 1,
+      "name": "Triple Stack Live Budder - 1.0g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 13.0,
+      "unit": "Each",
+      "strainName": "Triple Stack",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 69.19,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.67,
+        "CBN": 0.0,
+        "THCA": 78.89,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.25,
+        "humulene": 0.67,
+        "myrcene": 0.9,
+        "alpha-pinene": 0.21,
+        "caryophyllene": 2.98,
+        "beta-pinene": 0.33,
+        "limonene": 2.78,
+        "linalool": 1.14,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 10.03,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8026080,
+          "label": "1A4030300000193000083142",
+          "quantity": 13.0,
+          "packagedDate": "2026-02-03",
+          "expirationDate": "2026-12-08"
         }
       ]
     },
@@ -26593,7 +26643,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 34.27,
+      "quantity": 30.77,
       "unit": "Grams",
       "strainName": "Earthquake #25",
       "strainType": null,
@@ -26626,7 +26676,7 @@
         {
           "id": 8000715,
           "label": "1A40303000000C9000082241",
-          "quantity": 34.27,
+          "quantity": 30.77,
           "packagedDate": "2026-01-28",
           "expirationDate": "2026-11-23"
         }
@@ -29324,7 +29374,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 171.5,
+      "quantity": 168.0,
       "unit": "Grams",
       "strainName": "127 MEMBER BERRY",
       "strainType": null,
@@ -29359,7 +29409,7 @@
         {
           "id": 8751006,
           "label": "1A40303000039D1000084241",
-          "quantity": 171.5,
+          "quantity": 168.0,
           "packagedDate": "2026-07-21",
           "expirationDate": null
         }
@@ -29476,7 +29526,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 10.5,
       "unit": "Grams",
       "strainName": "Double Krush",
       "strainType": null,
@@ -29510,7 +29560,7 @@
         {
           "id": 8939185,
           "label": "1A4030300003521000056675",
-          "quantity": 17.5,
+          "quantity": 10.5,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-12"
         }
@@ -33180,7 +33230,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 17.0,
       "unit": "Each",
@@ -49201,7 +49251,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Jack's Delight",
       "strainType": "Sativa",
@@ -49235,7 +49285,7 @@
         {
           "id": 8826358,
           "label": "1A40303000003EA000195261",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-12"
         }
