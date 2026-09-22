@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T20:10:03.376513+00:00",
+  "generated_at": "2026-09-22T20:20:03.484362+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12489,7 +12489,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12528,7 +12528,7 @@
         {
           "id": 8689793,
           "label": "1A4030300003522000201332",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-05-29"
         }
@@ -16702,7 +16702,7 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -17954,15 +17954,16 @@
     },
     {
       "id": 8704637,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Encore Dark Chocolate (Macro Dose) - Hybrid - 40mg - 10pc",
       "brand": null,
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -18004,20 +18005,28 @@
           "quantity": 2.0,
           "packagedDate": "2026-06-04",
           "expirationDate": "2027-06-04"
+        },
+        {
+          "id": 9018113,
+          "label": "1A40303000017D5000107150",
+          "quantity": 12.0,
+          "packagedDate": "2026-07-15",
+          "expirationDate": "2027-07-15"
         }
       ]
     },
     {
       "id": 8902325,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Encore Dark Chocolate - 1:1 CBN:THC - 10mg - 10pc",
       "brand": null,
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18059,6 +18068,13 @@
           "quantity": 2.0,
           "packagedDate": "2026-05-19",
           "expirationDate": "2027-05-19"
+        },
+        {
+          "id": 9018203,
+          "label": "1A40303000017D5000107149",
+          "quantity": 12.0,
+          "packagedDate": "2026-08-12",
+          "expirationDate": "2027-08-12"
         }
       ]
     },
@@ -26198,7 +26214,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Charm Biscuitz",
       "strainType": null,
@@ -26231,7 +26247,7 @@
         {
           "id": 8943242,
           "label": "1A40303000040D9000005971",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-31"
         }
@@ -32020,7 +32036,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 21.0,
       "unit": "Each",
@@ -36102,7 +36118,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.0,
+      "quantity": 43.0,
       "unit": "Grams",
       "strainName": "A5 Wagyu",
       "strainType": null,
@@ -36135,7 +36151,7 @@
         {
           "id": 8888585,
           "label": "1A403030000477D000002581",
-          "quantity": 45.0,
+          "quantity": 43.0,
           "packagedDate": "2026-08-03",
           "expirationDate": "2027-05-08"
         }
@@ -38557,7 +38573,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 49.0,
       "unit": "Grams",
@@ -38910,7 +38926,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 87.63,
+      "quantity": 80.63,
       "unit": "Grams",
       "strainName": "Strawberry Candy #4 TC",
       "strainType": null,
@@ -38943,7 +38959,7 @@
         {
           "id": 8919194,
           "label": "1A40303000001F5000423349",
-          "quantity": 87.63,
+          "quantity": 80.63,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -41417,7 +41433,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "SDG OG LLR",
       "strainType": null,
@@ -41453,7 +41469,7 @@
         {
           "id": 8974642,
           "label": "1A40303000001F5000428938",
-          "quantity": 8.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-04-08"
         }
