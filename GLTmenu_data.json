@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T17:10:02.528336+00:00",
+  "generated_at": "2026-09-23T17:20:02.940722+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12108,7 +12108,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 20.0,
       "unit": "Each",
@@ -12321,44 +12321,45 @@
       ]
     },
     {
-      "id": 8689793,
-      "packageCount": 1,
+      "id": 8996076,
+      "packageCount": 2,
       "name": "Betty's Eddies Pineapple Orange V3 Fruit Chews-40mg-10",
       "brand": "Betty's Eddies",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
+        "Sales Floor",
         "Vault"
       ],
-      "quantity": 7.0,
+      "quantity": 32.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.595,
-        "CBC": 0.006,
+        "totalTHC": 0.553,
+        "CBC": 0.007,
         "CBDA": 0.0,
-        "CBDV": 0.04,
-        "CBG": 0.068,
+        "CBDV": 0.038,
+        "CBG": 0.064,
         "CBGA": 0.0,
-        "CBN": 0.003,
+        "CBN": 0.002,
         "THCA": 0.0,
-        "THCV": 0.003
+        "THCV": 0.005
       },
       "dose": {
         "servingSize": "1",
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "CBC": 0.043,
+          "CBC": 0.05,
           "CBDA": 0.0,
-          "CBDV": 0.284,
-          "CBG": 0.483,
+          "CBDV": 0.27,
+          "CBG": 0.454,
           "CBGA": 0.0,
-          "CBN": 0.021,
+          "CBN": 0.014,
           "THCA": 0.0,
-          "THCV": 0.021
+          "THCV": 0.036
         },
         "minorsEstimated": true
       },
@@ -12366,6 +12367,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8996076,
+          "label": "1A4030300003522000211315",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-07-03"
+        },
         {
           "id": 8689793,
           "label": "1A4030300003522000201332",
@@ -12558,7 +12566,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 20.0,
       "unit": "Each",
@@ -12953,7 +12961,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 20.0,
       "unit": "Each",
@@ -22821,7 +22829,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -22860,7 +22868,7 @@
         {
           "id": 8616991,
           "label": "1A403030000012D000250793",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-06-18",
           "expirationDate": null
         }
@@ -23059,7 +23067,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -23098,7 +23106,7 @@
         {
           "id": 8981882,
           "label": "1A403030000012D000266247",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-09-10",
           "expirationDate": null
         }
@@ -26627,7 +26635,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 154.0,
+      "quantity": 150.5,
       "unit": "Grams",
       "strainName": "Disco Diesel",
       "strainType": null,
@@ -26660,7 +26668,7 @@
         {
           "id": 8433791,
           "label": "1A40303000000C9000149733",
-          "quantity": 154.0,
+          "quantity": 150.5,
           "packagedDate": "2026-05-08",
           "expirationDate": "2027-05-03"
         }
@@ -27774,7 +27782,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 112.0,
+      "quantity": 98.0,
       "unit": "Grams",
       "strainName": "Blueberry",
       "strainType": null,
@@ -27806,7 +27814,7 @@
         {
           "id": 8882277,
           "label": "1A4030300003521000056050",
-          "quantity": 112.0,
+          "quantity": 98.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-04"
         }
@@ -32662,7 +32670,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Sunset Octane x Isolate",
       "strainType": null,
@@ -32694,7 +32702,7 @@
         {
           "id": 9005664,
           "label": "1A4030300000C83000088089",
-          "quantity": 16.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-07-25"
         }
@@ -35341,7 +35349,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 8.75,
       "unit": "Grams",
       "strainName": "Ice Cream Banger",
       "strainType": null,
@@ -35373,7 +35381,7 @@
         {
           "id": 8499847,
           "label": "1A403030000025B000075393",
-          "quantity": 14.0,
+          "quantity": 8.75,
           "packagedDate": "2026-05-07",
           "expirationDate": "2027-04-15"
         }
@@ -35836,7 +35844,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 32.0,
+      "quantity": 30.0,
       "unit": "Grams",
       "strainName": "Midnight Circus",
       "strainType": null,
@@ -35871,7 +35879,7 @@
         {
           "id": 9005652,
           "label": "1A40303000000CB000052500",
-          "quantity": 32.0,
+          "quantity": 30.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-08-04"
         }
@@ -37948,7 +37956,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -37982,7 +37990,7 @@
         {
           "id": 8974468,
           "label": "1A40303000000CB000051669",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-01"
         }
@@ -52296,7 +52304,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Grandaddy Purp",
       "strainType": null,
@@ -52329,7 +52337,7 @@
         {
           "id": 8999574,
           "label": "1A403030000283D000061461",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
