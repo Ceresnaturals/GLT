@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T18:20:03.910651+00:00",
+  "generated_at": "2026-09-23T18:30:03.365169+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8741,7 +8741,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": "Hybrid",
@@ -8775,7 +8775,7 @@
         {
           "id": 8970469,
           "label": "1A40303000003EA000263661",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-18"
         }
@@ -9030,57 +9030,6 @@
           "quantity": 23.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-08-07"
-        }
-      ]
-    },
-    {
-      "id": 8826452,
-      "packageCount": 1,
-      "name": "Rythm Single (Infused) - Strawberry Sour Diesel (Sativa Dominant) - 1g",
-      "brand": "Rythm",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Strawberry Sour Diesel",
-      "strainType": "Sativa",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 38.07,
-        "totalCBD": 0.03,
-        "CBC": 0.0,
-        "CBDA": 0.03,
-        "CBDV": 0.0,
-        "CBG": 0.04,
-        "CBGA": 0.65,
-        "CBN": 0.0,
-        "THCA": 42.29,
-        "THCV": 0.21
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.03,
-        "humulene": 0.21,
-        "myrcene": 0.11,
-        "alpha-pinene": 0.02,
-        "caryophyllene": 0.4,
-        "beta-pinene": 0.02,
-        "caryophyllene-oxide": 0.02,
-        "limonene": 0.13,
-        "linalool": 0.23
-      },
-      "totalTerps": 1.27,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8826452,
-          "label": "1A40303000003EA000195258",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-06",
-          "expirationDate": "2027-05-04"
         }
       ]
     },
@@ -16472,7 +16421,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16513,7 +16462,7 @@
         {
           "id": 8691535,
           "label": "1A4030300000C83000064688",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-05-18"
         }
@@ -28232,7 +28181,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 45.5,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Banana Tree",
       "strainType": null,
@@ -28266,7 +28215,7 @@
         {
           "id": 8890221,
           "label": "1A403030000025B000083873",
-          "quantity": 45.5,
+          "quantity": 42.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-07-10"
         }
@@ -28731,7 +28680,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Grams",
       "strainName": "Torrone #2",
       "strainType": null,
@@ -28765,7 +28714,7 @@
         {
           "id": 8288022,
           "label": "1A4030300003A3C000077505",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-03-21",
           "expirationDate": "2027-03-21"
         }
@@ -34322,7 +34271,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Grams",
       "strainName": "Gumi 6",
       "strainType": null,
@@ -34355,7 +34304,7 @@
         {
           "id": 8911025,
           "label": "1A40303000000CB000050577",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-18"
         }
@@ -36197,7 +36146,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 30.0,
+      "quantity": 29.0,
       "unit": "Grams",
       "strainName": "Midnight Circus",
       "strainType": null,
@@ -36232,7 +36181,7 @@
         {
           "id": 9005652,
           "label": "1A40303000000CB000052500",
-          "quantity": 30.0,
+          "quantity": 29.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-08-04"
         }
@@ -52504,16 +52453,15 @@
     },
     {
       "id": 8966531,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Mango Dragon Cloud Bar Hellavated - 1 g",
       "brand": "Hellavated",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Mango Dragon",
       "strainType": null,
@@ -52547,13 +52495,6 @@
           "quantity": 12.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-07"
-        },
-        {
-          "id": 8756343,
-          "label": "1A403030000012E000176844",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-21",
-          "expirationDate": "2027-03-21"
         }
       ]
     },
@@ -52567,7 +52508,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Mango Dragon",
       "strainType": null,
@@ -52598,7 +52539,7 @@
         {
           "id": 8966583,
           "label": "1A403030000012E000190892",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-14"
         }
