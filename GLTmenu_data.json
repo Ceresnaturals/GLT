@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T01:50:02.436621+00:00",
+  "generated_at": "2026-09-23T10:00:31.317283+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -17953,7 +17953,7 @@
       ]
     },
     {
-      "id": 8704637,
+      "id": 9018113,
       "packageCount": 2,
       "name": "Encore Dark Chocolate (Macro Dose) - Hybrid - 40mg - 10pc",
       "brand": null,
@@ -17969,13 +17969,13 @@
       "strainType": "Hybrid",
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.655,
-        "CBC": 0.008,
+        "totalTHC": 0.663,
+        "CBC": 0.007,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.029,
+        "CBG": 0.026,
         "CBGA": 0.0,
-        "CBN": 0.015,
+        "CBN": 0.009,
         "THCA": 0.0,
         "THCV": 0.005
       },
@@ -17984,12 +17984,12 @@
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "CBC": 0.448,
+          "CBC": 0.392,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 1.624,
+          "CBG": 1.456,
           "CBGA": 0.0,
-          "CBN": 0.84,
+          "CBN": 0.504,
           "THCA": 0.0,
           "THCV": 0.28
         },
@@ -18000,23 +18000,23 @@
       "dominantTerpene": null,
       "packages": [
         {
-          "id": 8704637,
-          "label": "1A40303000017D5000099616",
-          "quantity": 2.0,
-          "packagedDate": "2026-06-04",
-          "expirationDate": "2027-06-04"
-        },
-        {
           "id": 9018113,
           "label": "1A40303000017D5000107150",
           "quantity": 12.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-07-15"
+        },
+        {
+          "id": 8704637,
+          "label": "1A40303000017D5000099616",
+          "quantity": 2.0,
+          "packagedDate": "2026-06-04",
+          "expirationDate": "2027-06-04"
         }
       ]
     },
     {
-      "id": 8902325,
+      "id": 9018203,
       "packageCount": 2,
       "name": "Encore Dark Chocolate - 1:1 CBN:THC - 10mg - 10pc",
       "brand": null,
@@ -18032,13 +18032,13 @@
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.181,
-        "CBC": 0.0,
+        "totalTHC": 0.183,
+        "CBC": 0.002,
         "CBDA": 0.0,
         "CBDV": 0.0,
         "CBG": 0.006,
         "CBGA": 0.0,
-        "CBN": 0.187,
+        "CBN": 0.185,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -18047,12 +18047,12 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "CBC": 0.0,
+          "CBC": 0.112,
           "CBDA": 0.0,
           "CBDV": 0.0,
           "CBG": 0.336,
           "CBGA": 0.0,
-          "CBN": 10.472,
+          "CBN": 10.36,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -18063,18 +18063,18 @@
       "dominantTerpene": null,
       "packages": [
         {
-          "id": 8902325,
-          "label": "1A40303000017D5000104293",
-          "quantity": 2.0,
-          "packagedDate": "2026-05-19",
-          "expirationDate": "2027-05-19"
-        },
-        {
           "id": 9018203,
           "label": "1A40303000017D5000107149",
           "quantity": 12.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-08-12"
+        },
+        {
+          "id": 8902325,
+          "label": "1A40303000017D5000104293",
+          "quantity": 2.0,
+          "packagedDate": "2026-05-19",
+          "expirationDate": "2027-05-19"
         }
       ]
     },
@@ -19081,7 +19081,7 @@
       ]
     },
     {
-      "id": 8838282,
+      "id": 9018115,
       "packageCount": 2,
       "name": "Encore RSO Gummies - Mandarin 1:1 CBD:THC - 10mg - 10pc",
       "brand": null,
@@ -19097,14 +19097,14 @@
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.296,
-        "totalCBD": 0.301,
+        "totalTHC": 0.252,
+        "totalCBD": 0.249,
         "CBC": 0.002,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.008,
+        "CBG": 0.007,
         "CBGA": 0.0,
-        "CBN": 0.0,
+        "CBN": 0.001,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -19113,13 +19113,13 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 12.04,
+          "totalCBD": 9.96,
           "CBC": 0.08,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.32,
+          "CBG": 0.28,
           "CBGA": 0.0,
-          "CBN": 0.0,
+          "CBN": 0.04,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -19130,18 +19130,18 @@
       "dominantTerpene": null,
       "packages": [
         {
-          "id": 8838282,
-          "label": "1A40303000017D5000103036",
-          "quantity": 2.0,
-          "packagedDate": "2026-06-16",
-          "expirationDate": "2027-06-16"
-        },
-        {
           "id": 9018115,
           "label": "1A40303000017D5000107153",
           "quantity": 24.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-07-21"
+        },
+        {
+          "id": 8838282,
+          "label": "1A40303000017D5000103036",
+          "quantity": 2.0,
+          "packagedDate": "2026-06-16",
+          "expirationDate": "2027-06-16"
         }
       ]
     },
@@ -31919,55 +31919,6 @@
       ]
     },
     {
-      "id": 8746343,
-      "packageCount": 1,
-      "name": "Animal Face 5 pack (Infused) Dogwalkers (Sit) - 2.25g",
-      "brand": "Dogwalkers",
-      "category": "Pre-Roll",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Animal Face",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 39.89,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.79,
-        "CBN": 0.0,
-        "THCA": 44.67,
-        "THCV": 0.15
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.13,
-        "myrcene": 0.2,
-        "alpha-pinene": 0.02,
-        "caryophyllene": 0.44,
-        "beta-pinene": 0.03,
-        "limonene": 0.21,
-        "linalool": 0.23
-      },
-      "totalTerps": 1.41,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8746343,
-          "label": "1A40303000003EA000201210",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-20",
-          "expirationDate": "2027-06-12"
-        }
-      ]
-    },
-    {
       "id": 8639438,
       "packageCount": 1,
       "name": "Animal Face Big Dogs (Infused) - Dogwalkers (Sit) - 1g",
@@ -39001,7 +38952,7 @@
       ]
     },
     {
-      "id": 8838268,
+      "id": 9018111,
       "packageCount": 2,
       "name": "Avexia Balm - Pain Relief 1:1 CBD:THC - Infused Product - 57g",
       "brand": null,
@@ -39053,18 +39004,18 @@
       "dominantTerpene": "linalool",
       "packages": [
         {
-          "id": 8838268,
-          "label": "1A40303000017D5000103030",
-          "quantity": 7.0,
-          "packagedDate": "2026-07-17",
-          "expirationDate": "2027-07-17"
-        },
-        {
           "id": 9018111,
           "label": "1A40303000017D5000107148",
           "quantity": 12.0,
           "packagedDate": "2026-08-07",
           "expirationDate": "2027-08-07"
+        },
+        {
+          "id": 8838268,
+          "label": "1A40303000017D5000103030",
+          "quantity": 7.0,
+          "packagedDate": "2026-07-17",
+          "expirationDate": "2027-07-17"
         }
       ]
     },
