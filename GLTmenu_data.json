@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T21:10:30.693270+00:00",
+  "generated_at": "2026-09-23T21:20:03.835001+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -14092,44 +14092,45 @@
       ]
     },
     {
-      "id": 8790229,
-      "packageCount": 1,
+      "id": 9013416,
+      "packageCount": 2,
       "name": "Curio Wellness Juicy Watermelon 40mg Chews-40mg-10",
       "brand": "Curio Wellness",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 1.044,
-        "CBC": 0.0,
+        "totalTHC": 0.996,
+        "CBC": 0.014,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.055,
+        "CBG": 0.037,
         "CBGA": 0.0,
-        "CBN": 0.027,
+        "CBN": 0.038,
         "THCA": 0.0,
-        "THCV": 0.005
+        "THCV": 0.009
       },
       "dose": {
         "servingSize": "1 piece",
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "CBC": 0.0,
+          "CBC": 0.56,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 2.2,
+          "CBG": 1.48,
           "CBGA": 0.0,
-          "CBN": 1.08,
+          "CBN": 1.52,
           "THCA": 0.0,
-          "THCV": 0.2
+          "THCV": 0.36
         },
         "minorsEstimated": true
       },
@@ -14137,6 +14138,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9013416,
+          "label": "1A403030000012D000267199",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-17",
+          "expirationDate": null
+        },
         {
           "id": 8790229,
           "label": "1A403030000012D000257808",
@@ -14938,44 +14946,45 @@
       ]
     },
     {
-      "id": 8926297,
-      "packageCount": 1,
+      "id": 9013417,
+      "packageCount": 2,
       "name": "Curio Wellness White Peach 10mg Chews-10mg-10",
       "brand": "Curio Wellness",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.231,
-        "CBC": 0.003,
+        "totalTHC": 0.256,
+        "CBC": 0.004,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.01,
+        "CBG": 0.009,
         "CBGA": 0.0,
-        "CBN": 0.01,
+        "CBN": 0.013,
         "THCA": 0.0,
-        "THCV": 0.0
+        "THCV": 0.002
       },
       "dose": {
         "servingSize": "1 piece",
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "CBC": 0.12,
+          "CBC": 0.16,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.4,
+          "CBG": 0.36,
           "CBGA": 0.0,
-          "CBN": 0.4,
+          "CBN": 0.52,
           "THCA": 0.0,
-          "THCV": 0.0
+          "THCV": 0.08
         },
         "minorsEstimated": true
       },
@@ -14983,6 +14992,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9013417,
+          "label": "1A403030000012D000267200",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-17",
+          "expirationDate": null
+        },
         {
           "id": 8926297,
           "label": "1A403030000012D000262977",
@@ -16905,30 +16921,31 @@
       ]
     },
     {
-      "id": 8864068,
-      "packageCount": 1,
+      "id": 9013197,
+      "packageCount": 2,
       "name": "Dixie Orange Awakening Tablets-5mg-20",
       "brand": "Dixie",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 1.404,
+        "totalTHC": 1.362,
         "CBC": 0.021,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.037,
+        "CBG": 0.035,
         "CBGA": 0.0,
-        "CBN": 0.028,
+        "CBN": 0.033,
         "THCA": 0.0,
-        "THCV": 0.01
+        "THCV": 0.011
       },
       "dose": {
         "servingSize": "1 tablet",
@@ -16938,11 +16955,11 @@
           "CBC": 0.147,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.259,
+          "CBG": 0.245,
           "CBGA": 0.0,
-          "CBN": 0.196,
+          "CBN": 0.231,
           "THCA": 0.0,
-          "THCV": 0.07
+          "THCV": 0.077
         },
         "minorsEstimated": true
       },
@@ -16950,6 +16967,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9013197,
+          "label": "1A403030000012D000267201",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-17",
+          "expirationDate": null
+        },
         {
           "id": 8864068,
           "label": "1A403030000012D000260504",
@@ -27015,7 +27039,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 59.5,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Velvet Pie",
       "strainType": null,
@@ -27050,7 +27074,7 @@
         {
           "id": 8946384,
           "label": "1A4030300004845000041483",
-          "quantity": 59.5,
+          "quantity": 56.0,
           "packagedDate": "2026-06-01",
           "expirationDate": "2027-06-01"
         }
