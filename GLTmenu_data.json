@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T21:20:03.835001+00:00",
+  "generated_at": "2026-09-23T21:30:03.918720+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8648,7 +8648,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Strawberry Shortcake",
       "strainType": "Indica",
@@ -8682,7 +8682,7 @@
         {
           "id": 9003341,
           "label": "1A40303000003EA000266191",
-          "quantity": 16.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-08-14"
         }
@@ -18428,7 +18428,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18469,7 +18469,7 @@
         {
           "id": 8959110,
           "label": "1A40303000017D5000105509",
-          "quantity": 23.0,
+          "quantity": 21.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-07-27"
         }
@@ -22541,6 +22541,61 @@
       ]
     },
     {
+      "id": 9013415,
+      "packageCount": 1,
+      "name": "Smokiez Blackberry Indica 10mg Medicated Chews-10mg-10",
+      "brand": "Smokiez",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.161,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.006,
+        "CBGA": 0.0,
+        "CBN": 0.007,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.12,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.36,
+          "CBGA": 0.0,
+          "CBN": 0.42,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9013415,
+          "label": "1A403030000012D000267197",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-17",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8864063,
       "packageCount": 1,
       "name": "Smokiez Blue Raspberry Indica 30mg Medicated Chews-30mg-10",
@@ -26088,6 +26143,55 @@
       ]
     },
     {
+      "id": 9014031,
+      "packageCount": 1,
+      "name": "CUR-EXC-JAR-GOWI-3.5-MD",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 84.0,
+      "unit": "Grams",
+      "strainName": "GOWI",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 35.06,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.21,
+        "CBGA": 3.24,
+        "CBN": 0.0,
+        "THCA": 39.82,
+        "THCV": 0.2
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.17,
+        "myrcene": 0.19,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.69,
+        "beta-pinene": 0.09,
+        "limonene": 0.79,
+        "linalool": 0.14
+      },
+      "totalTerps": 2.5,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9014031,
+          "label": "1A40303000000CD000081200",
+          "quantity": 84.0,
+          "packagedDate": "2026-09-17",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8943242,
       "packageCount": 1,
       "name": "Charm Biscuitz 8ths",
@@ -28575,6 +28679,58 @@
       ]
     },
     {
+      "id": 9014032,
+      "packageCount": 1,
+      "name": "LEMF-EX-35",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 84.0,
+      "unit": "Grams",
+      "strainName": "LEMF",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.71,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.35,
+        "CBN": 0.0,
+        "THCA": 33.95,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.05,
+        "myrcene": 0.68,
+        "alpha-pinene": 0.12,
+        "caryophyllene": 0.15,
+        "eudesmol": 0.09,
+        "beta-pinene": 0.15,
+        "ocimene": 0.55,
+        "limonene": 0.16,
+        "linalool": 0.13,
+        "terpinolene": 0.92
+      },
+      "totalTerps": 3.37,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9014032,
+          "label": "1A40303000000CD000081199",
+          "quantity": 84.0,
+          "packagedDate": "2026-09-17",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8890135,
       "packageCount": 1,
       "name": "Legend | Flower | Buds | Lemon Splash - Usable - 3.5g",
@@ -28584,7 +28740,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Lemon Splash",
       "strainType": null,
@@ -28618,7 +28774,7 @@
         {
           "id": 8890135,
           "label": "1A403030000025B000084392",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-06-16",
           "expirationDate": "2027-06-11"
         }
@@ -33262,6 +33418,55 @@
           "label": "1A403030000012D000257806",
           "quantity": 12.0,
           "packagedDate": "2026-07-28",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9013199,
+      "packageCount": 1,
+      "name": "Curio Wellness Procake Pre-rolls-usable-2x0.5g",
+      "brand": "Curio Wellness",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Grams",
+      "strainName": "Procake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.16,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.63,
+        "CBN": 0.0,
+        "THCA": 34.2,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.22,
+        "myrcene": 0.43,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.86,
+        "beta-pinene": 0.06,
+        "limonene": 0.43,
+        "linalool": 0.27
+      },
+      "totalTerps": 2.5,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9013199,
+          "label": "1A403030000012D000267205",
+          "quantity": 30.0,
+          "packagedDate": "2026-09-17",
           "expirationDate": null
         }
       ]
@@ -41070,7 +41275,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Lemon Jack",
       "strainType": null,
@@ -41106,7 +41311,7 @@
         {
           "id": 8731410,
           "label": "1A40303000001F5000404828",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2026-10-26"
         }
@@ -44932,6 +45137,56 @@
           "label": "1A403030000012D000231115",
           "quantity": 5.0,
           "packagedDate": "2026-04-30",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9013420,
+      "packageCount": 1,
+      "name": "Curio Wellness Lemon Haze Vape - 1.0g",
+      "brand": "Curio Wellness",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "Lemon Haze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 76.97,
+        "CBC": 1.42,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.81,
+        "CBGA": 0.0,
+        "CBN": 3.18,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.13,
+        "humulene": 1.13,
+        "myrcene": 0.91,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 4.85,
+        "beta-pinene": 0.08,
+        "ocimene": 0.65,
+        "limonene": 0.36,
+        "terpinolene": 2.47
+      },
+      "totalTerps": 10.71,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9013420,
+          "label": "1A403030000012D000267206",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-17",
           "expirationDate": null
         }
       ]
@@ -53249,6 +53504,56 @@
       ]
     },
     {
+      "id": 9013419,
+      "packageCount": 1,
+      "name": "Mfused TWISTED Super Fog Jefe Plus- Swirly Temple 1g Disposable-1g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Mfused TWISTED Super Fog Jefe Swirly Temple",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 78.95,
+        "CBC": 0.69,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.23,
+        "CBGA": 0.0,
+        "CBN": 0.94,
+        "THCA": 1.04,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.14,
+        "myrcene": 0.4,
+        "alpha-pinene": 0.26,
+        "caryophyllene": 0.34,
+        "beta-pinene": 0.57,
+        "limonene": 6.7,
+        "linalool": 0.21,
+        "terpinolene": 0.48,
+        "nerolidol": 0.15
+      },
+      "totalTerps": 10.85,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9013419,
+          "label": "1A403030000012D000267203",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-17",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8211337,
       "packageCount": 1,
       "name": "NH Animal Mint Cookies Live Resin Disp-0.5g",
@@ -56894,56 +57199,6 @@
       ]
     },
     {
-      "id": 8902254,
-      "packageCount": 1,
-      "name": "Savvy Cartridge - Rainbow Sherbet - 1g",
-      "brand": "Savvy",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Rainbow Sherbet",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 85.1,
-        "CBC": 0.73,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.32,
-        "CBGA": 0.0,
-        "CBN": 0.38,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.33,
-        "humulene": 0.08,
-        "myrcene": 1.38,
-        "alpha-pinene": 0.3,
-        "caryophyllene": 1.97,
-        "beta-pinene": 0.43,
-        "limonene": 2.87,
-        "linalool": 0.66,
-        "terpinolene": 0.15
-      },
-      "totalTerps": 8.94,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8902254,
-          "label": "1A40303000017D5000104297",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-12",
-          "expirationDate": "2027-08-12"
-        }
-      ]
-    },
-    {
       "id": 9018211,
       "packageCount": 1,
       "name": "Savvy Cartridge - Strawberry Jam 1:4 CBN:THC - 1g",
@@ -58460,7 +58715,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Natural Disposables",
       "strainType": null,
@@ -58493,7 +58748,7 @@
         {
           "id": 8159386,
           "label": "1A4030300002199000042203",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-02-12",
           "expirationDate": null
         }
