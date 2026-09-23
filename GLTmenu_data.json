@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T20:00:03.465039+00:00",
+  "generated_at": "2026-09-23T20:10:03.545862+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -6667,7 +6667,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Lamb's Bread",
       "strainType": null,
@@ -6697,7 +6697,7 @@
         {
           "id": 8996084,
           "label": "1A4030300003522000211329",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-25"
         }
@@ -7433,7 +7433,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Strawberry Jelly",
       "strainType": null,
@@ -7468,7 +7468,7 @@
         {
           "id": 8996083,
           "label": "1A4030300003522000211328",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-09-01"
         }
@@ -7670,55 +7670,6 @@
           "quantity": 2.0,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-03-24"
-        }
-      ]
-    },
-    {
-      "id": 8462886,
-      "packageCount": 1,
-      "name": "NH-Bubble Hash-Guava IX 1g",
-      "brand": "NH",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Guava IX",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 51.89,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.82,
-        "CBN": 0.0,
-        "THCA": 56.5,
-        "THCV": 0.42
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.31,
-        "humulene": 0.58,
-        "myrcene": 0.49,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 1.59,
-        "beta-pinene": 0.06,
-        "limonene": 0.56,
-        "linalool": 0.13
-      },
-      "totalTerps": 3.94,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8462886,
-          "label": "1A4030300003522000191145",
-          "quantity": 1.0,
-          "packagedDate": "2026-05-14",
-          "expirationDate": "2027-05-03"
         }
       ]
     },
@@ -9692,7 +9643,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Voyager",
       "strainType": null,
@@ -9727,7 +9678,7 @@
         {
           "id": 8794436,
           "label": "1A40303000001F5000410811",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-03-19"
         }
@@ -27290,7 +27241,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 192.5,
+      "quantity": 189.0,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -27323,7 +27274,7 @@
         {
           "id": 9005736,
           "label": "1A40303000000CB000052505",
-          "quantity": 192.5,
+          "quantity": 189.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-07-21"
         }
@@ -34019,6 +33970,55 @@
       ]
     },
     {
+      "id": 9002396,
+      "packageCount": 1,
+      "name": "Fade Co | Pre-Roll | Infused Pack | Berry Gelato - 2.5g - 5pk",
+      "brand": "Fade Co",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Berry Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 36.33,
+        "totalCBD": 0.04,
+        "CBC": 0.0,
+        "CBDA": 0.04,
+        "CBDV": 0.0,
+        "CBG": 0.17,
+        "CBGA": 0.79,
+        "CBN": 0.0,
+        "THCA": 38.62,
+        "THCV": 0.63
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.06,
+        "myrcene": 0.14,
+        "caryophyllene": 0.23,
+        "caryophyllene-oxide": 0.02,
+        "ocimene": 0.03,
+        "limonene": 0.03,
+        "linalool": 0.21
+      },
+      "totalTerps": 0.75,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9002396,
+          "label": "1A4030300004845000044235",
+          "quantity": 20.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": "2027-09-02"
+        }
+      ]
+    },
+    {
       "id": 8840301,
       "packageCount": 1,
       "name": "Fade Co | Pre-Roll | Infused Pack | Bomb Popz - 2.5g - 5pk",
@@ -34064,6 +34064,56 @@
           "quantity": 13.0,
           "packagedDate": "2026-07-31",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9002415,
+      "packageCount": 1,
+      "name": "Fade Co | Pre-Roll | Infused Pack | Super Boof - 1g - 2pk",
+      "brand": "Fade Co",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": "Super Boof",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 38.43,
+        "totalCBD": 0.05,
+        "CBC": 0.0,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.15,
+        "CBGA": 0.5,
+        "CBN": 0.0,
+        "THCA": 39.85,
+        "THCV": 0.6
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.11,
+        "myrcene": 0.08,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.29,
+        "beta-pinene": 0.02,
+        "caryophyllene-oxide": 0.02,
+        "limonene": 0.18,
+        "linalool": 0.02
+      },
+      "totalTerps": 0.87,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9002415,
+          "label": "1A4030300004845000044236",
+          "quantity": 50.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-08-26"
         }
       ]
     },
@@ -44230,7 +44280,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Cherry Maui Wowie",
       "strainType": "Sativa",
@@ -44263,7 +44313,7 @@
         {
           "id": 8607696,
           "label": "1A40303000003EA000191500",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-06-17",
           "expirationDate": "2027-05-12"
         }
@@ -45734,6 +45784,56 @@
       ]
     },
     {
+      "id": 9002400,
+      "packageCount": 1,
+      "name": "Fade Co | Vape | Live Resin | Boston Runtz - 1g",
+      "brand": "Fade Co",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "Boston Runtz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 75.25,
+        "totalCBD": 0.22,
+        "CBC": 0.63,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.86,
+        "CBGA": 0.0,
+        "CBN": 0.23,
+        "THCA": 0.0,
+        "THCV": 0.5
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.43,
+        "myrcene": 3.26,
+        "alpha-pinene": 2.5,
+        "caryophyllene": 1.68,
+        "beta-pinene": 0.63,
+        "limonene": 1.83,
+        "linalool": 0.55,
+        "terpinolene": 0.07
+      },
+      "totalTerps": 11.42,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9002400,
+          "label": "1A4030300004845000044237",
+          "quantity": 24.0,
+          "packagedDate": "2026-05-04",
+          "expirationDate": "2027-05-04"
+        }
+      ]
+    },
+    {
       "id": 8758265,
       "packageCount": 1,
       "name": "Fade Co | Vape | Live Resin | Dankarooz - 1g",
@@ -45987,6 +46087,58 @@
           "quantity": 16.0,
           "packagedDate": "2026-04-23",
           "expirationDate": "2027-04-23"
+        }
+      ]
+    },
+    {
+      "id": 9002502,
+      "packageCount": 1,
+      "name": "Fade Co | Vape | Live Resin | Hash Burger - 1g",
+      "brand": "Fade Co",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "Burger",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 79.46,
+        "totalCBD": 0.26,
+        "CBC": 0.67,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 5.34,
+        "CBGA": 0.0,
+        "CBN": 0.08,
+        "THCA": 0.0,
+        "THCV": 0.51
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.33,
+        "myrcene": 1.73,
+        "alpha-pinene": 0.16,
+        "caryophyllene": 1.4,
+        "beta-pinene": 0.09,
+        "caryophyllene-oxide": 0.04,
+        "ocimene": 0.03,
+        "limonene": 1.46,
+        "linalool": 0.92,
+        "terpinolene": 0.03
+      },
+      "totalTerps": 6.56,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9002502,
+          "label": "1A4030300004845000044238",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-04",
+          "expirationDate": "2027-09-04"
         }
       ]
     },
@@ -46911,7 +47063,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Frosted Passionfruit DV",
       "strainType": null,
@@ -46946,7 +47098,7 @@
         {
           "id": 8545208,
           "label": "1A40303000001F5000386256",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-06-03",
           "expirationDate": "2026-12-15"
         }
