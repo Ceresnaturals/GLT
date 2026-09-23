@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T20:50:02.373416+00:00",
+  "generated_at": "2026-09-23T21:00:03.296025+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -13809,28 +13809,29 @@
       ]
     },
     {
-      "id": 8616990,
-      "packageCount": 1,
+      "id": 9013193,
+      "packageCount": 2,
       "name": "Curio Wellness Chill 5mg Plus Terpenes Pineapple Breeze Chews-5mg-20",
       "brand": "Curio Wellness",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.113,
-        "CBC": 0.0,
+        "totalTHC": 0.12,
+        "CBC": 0.002,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.005,
+        "CBG": 0.0,
         "CBGA": 0.0,
-        "CBN": 0.004,
+        "CBN": 0.003,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -13839,12 +13840,12 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 5.0,
         "minorsMgPerServing": {
-          "CBC": 0.0,
+          "CBC": 0.08,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.2,
+          "CBG": 0.0,
           "CBGA": 0.0,
-          "CBN": 0.16,
+          "CBN": 0.12,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -13854,6 +13855,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9013193,
+          "label": "1A403030000012D000267196",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-17",
+          "expirationDate": null
+        },
         {
           "id": 8616990,
           "label": "1A403030000012D000250792",
