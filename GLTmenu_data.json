@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T18:00:02.867200+00:00",
+  "generated_at": "2026-09-23T18:10:04.214702+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -24790,6 +24790,63 @@
       ]
     },
     {
+      "id": 8998852,
+      "packageCount": 1,
+      "name": "Wana | Edibles | Soft Lozenges | Classic Mango Sativa - 10mg - 10pk",
+      "brand": "Wana",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.22,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8998852,
+          "label": "1A4030300002199000062970",
+          "quantity": 20.0,
+          "packagedDate": "2026-06-04",
+          "expirationDate": "2027-06-04"
+        }
+      ]
+    },
+    {
       "id": 8601448,
       "packageCount": 1,
       "name": "Wana | Edibles | Soft Lozenges | Classic Ratio Passionfruit Pineapple 1:1:1 - 10mg - 10pk",
@@ -30346,7 +30403,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 168.0,
+      "quantity": 154.0,
       "unit": "Grams",
       "strainName": "Honey Dew",
       "strainType": null,
@@ -30379,7 +30436,7 @@
         {
           "id": 9020085,
           "label": "1A4030300003A3C000091319",
-          "quantity": 168.0,
+          "quantity": 154.0,
           "packagedDate": "2026-09-10",
           "expirationDate": "2027-09-10"
         }
@@ -34944,6 +35001,55 @@
           "quantity": 17.0,
           "packagedDate": "2026-01-12",
           "expirationDate": "2026-12-22"
+        }
+      ]
+    },
+    {
+      "id": 8998743,
+      "packageCount": 1,
+      "name": "Kind Tree | Diamond Infused Pre-Rolls | Multipack | Apple Crisp - Usable - 2pk/1g",
+      "brand": "Kind Tree",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Apple Crisp",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 41.54,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.34,
+        "CBN": 0.0,
+        "THCA": 47.37,
+        "THCV": 0.2
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.16,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.4,
+        "beta-pinene": 0.04,
+        "limonene": 0.18,
+        "linalool": 0.18,
+        "nerolidol": 0.07
+      },
+      "totalTerps": 1.27,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8998743,
+          "label": "1A4030300002199000062971",
+          "quantity": 20.0,
+          "packagedDate": "2026-05-27",
+          "expirationDate": null
         }
       ]
     },
@@ -50568,6 +50674,55 @@
       ]
     },
     {
+      "id": 8998854,
+      "packageCount": 1,
+      "name": "Legend | Vapes | Live Terpene Cartridges | Afghani Hills - 1g",
+      "brand": "Legend",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Afghani Hills",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.66,
+        "CBC": 0.79,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.43,
+        "CBGA": 0.0,
+        "CBN": 0.23,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.18,
+        "myrcene": 0.92,
+        "alpha-pinene": 1.35,
+        "caryophyllene": 0.53,
+        "beta-pinene": 0.44,
+        "ocimene": 0.13,
+        "limonene": 0.49,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 4.08,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 8998854,
+          "label": "1A4030300002199000062973",
+          "quantity": 20.0,
+          "packagedDate": "2026-07-15",
+          "expirationDate": "2027-07-15"
+        }
+      ]
+    },
+    {
       "id": 8820520,
       "packageCount": 1,
       "name": "Legend | Vapes | Live Terpene Cartridges | Clementine - 1g",
@@ -50713,6 +50868,56 @@
           "quantity": 1.0,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-05-28"
+        }
+      ]
+    },
+    {
+      "id": 8998853,
+      "packageCount": 1,
+      "name": "Legend | Vapes | Live Terpene Cartridges | Mai Tai - 1g",
+      "brand": "Legend",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Mai Tai",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.51,
+        "CBC": 1.05,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.33,
+        "CBGA": 0.0,
+        "CBN": 0.32,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.14,
+        "humulene": 0.27,
+        "myrcene": 0.31,
+        "alpha-pinene": 0.38,
+        "caryophyllene": 0.6,
+        "beta-pinene": 0.17,
+        "ocimene": 0.36,
+        "limonene": 1.37,
+        "terpinolene": 0.1
+      },
+      "totalTerps": 3.8,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8998853,
+          "label": "1A4030300002199000062974",
+          "quantity": 20.0,
+          "packagedDate": "2026-06-23",
+          "expirationDate": "2027-06-23"
         }
       ]
     },
