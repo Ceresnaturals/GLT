@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T18:50:03.283546+00:00",
+  "generated_at": "2026-09-23T19:00:04.012081+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7433,7 +7433,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Strawberry Jelly",
       "strainType": null,
@@ -7468,7 +7468,7 @@
         {
           "id": 8996083,
           "label": "1A4030300003522000211328",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-09-01"
         }
@@ -26977,6 +26977,57 @@
       ]
     },
     {
+      "id": 9002411,
+      "packageCount": 1,
+      "name": "Fade Co Packaged Flower (Garlic Cherry Gelato)^ - Usable - 3.5g",
+      "brand": "Fade Co",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 112.0,
+      "unit": "Grams",
+      "strainName": "Garlic Cherry Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.12,
+        "totalCBD": 0.06,
+        "CBC": 0.0,
+        "CBDA": 0.07,
+        "CBDV": 0.0,
+        "CBG": 0.12,
+        "CBGA": 1.29,
+        "CBN": 0.0,
+        "THCA": 34.08,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.16,
+        "myrcene": 0.34,
+        "alpha-pinene": 0.12,
+        "caryophyllene": 0.34,
+        "beta-pinene": 0.15,
+        "ocimene": 0.07,
+        "limonene": 0.71,
+        "linalool": 0.26,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 2.35,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9002411,
+          "label": "1A4030300004845000044232",
+          "quantity": 112.0,
+          "packagedDate": "2026-07-17",
+          "expirationDate": "2027-07-17"
+        }
+      ]
+    },
+    {
       "id": 8881941,
       "packageCount": 1,
       "name": "Fade Co Packaged Flower (Grape Gas)^ - Usable - 3.5g",
@@ -27028,6 +27079,57 @@
       ]
     },
     {
+      "id": 9002391,
+      "packageCount": 1,
+      "name": "Fade Co Packaged Flower (LA Pop Rocks)^ - Usable - 3.5g",
+      "brand": "Fade Co",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 112.0,
+      "unit": "Grams",
+      "strainName": "LA Pop Rocks",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.29,
+        "totalCBD": 0.06,
+        "CBC": 0.0,
+        "CBDA": 0.07,
+        "CBDV": 0.0,
+        "CBG": 0.09,
+        "CBGA": 0.38,
+        "CBN": 0.0,
+        "THCA": 30.02,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.14,
+        "myrcene": 0.08,
+        "alpha-pinene": 0.21,
+        "caryophyllene": 0.44,
+        "beta-pinene": 0.19,
+        "ocimene": 0.04,
+        "limonene": 0.81,
+        "linalool": 0.51,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 2.76,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9002391,
+          "label": "1A4030300004845000044233",
+          "quantity": 112.0,
+          "packagedDate": "2026-07-02",
+          "expirationDate": "2027-07-02"
+        }
+      ]
+    },
+    {
       "id": 8946384,
       "packageCount": 1,
       "name": "Fade Co Packaged Flower (Velvet Pie)^ - Usable - 3.5g",
@@ -27075,6 +27177,57 @@
           "quantity": 59.5,
           "packagedDate": "2026-06-01",
           "expirationDate": "2027-06-01"
+        }
+      ]
+    },
+    {
+      "id": 9002420,
+      "packageCount": 1,
+      "name": "Fade Co Packaged Smalls (Grape Do-Si) - Usable - 14g",
+      "brand": "Fade Co",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 224.0,
+      "unit": "Grams",
+      "strainName": "Grape Dosi",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.68,
+        "totalCBD": 0.05,
+        "CBC": 0.0,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.06,
+        "CBGA": 1.47,
+        "CBN": 0.0,
+        "THCA": 32.21,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.04,
+        "humulene": 0.21,
+        "myrcene": 0.3,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.58,
+        "beta-pinene": 0.05,
+        "caryophyllene-oxide": 0.02,
+        "limonene": 0.34,
+        "linalool": 0.33
+      },
+      "totalTerps": 1.95,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9002420,
+          "label": "1A4030300004845000044240",
+          "quantity": 224.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-08-25"
         }
       ]
     },
@@ -28021,6 +28174,57 @@
           "quantity": 203.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-06-03"
+        }
+      ]
+    },
+    {
+      "id": 9002412,
+      "packageCount": 1,
+      "name": "Just Flower Packaged Flower (Cherry Pie) - Usable - 4g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 128.0,
+      "unit": "Grams",
+      "strainName": "Cherry Pie",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.4,
+        "totalCBD": 0.07,
+        "CBC": 0.0,
+        "CBDA": 0.08,
+        "CBDV": 0.0,
+        "CBG": 0.1,
+        "CBGA": 1.64,
+        "CBN": 0.0,
+        "THCA": 28.16,
+        "THCV": 0.2
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.27,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 0.29,
+        "beta-pinene": 0.16,
+        "ocimene": 0.32,
+        "limonene": 0.2,
+        "linalool": 0.02,
+        "terpinolene": 1.18
+      },
+      "totalTerps": 2.96,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9002412,
+          "label": "1A4030300004845000044234",
+          "quantity": 128.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-08-25"
         }
       ]
     },
@@ -38746,6 +38950,57 @@
           "label": "1A4030300002009000109420",
           "quantity": 2.89,
           "packagedDate": "2026-07-21",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9002503,
+      "packageCount": 1,
+      "name": "Just Flower Packaged Ready to Roll (Zoak) - Usable - 15g",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 240.0,
+      "unit": "Grams",
+      "strainName": "Just Packaged Ready to Roll",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 21.72,
+        "totalCBD": 0.05,
+        "CBC": 0.0,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.1,
+        "CBGA": 0.51,
+        "CBN": 0.0,
+        "THCA": 23.43,
+        "THCV": 0.09
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.04,
+        "humulene": 0.12,
+        "myrcene": 0.3,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.38,
+        "beta-pinene": 0.07,
+        "caryophyllene-oxide": 0.02,
+        "limonene": 0.43,
+        "linalool": 0.24
+      },
+      "totalTerps": 1.82,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9002503,
+          "label": "1A4030300004845000044239",
+          "quantity": 240.0,
+          "packagedDate": "2026-08-20",
           "expirationDate": null
         }
       ]
@@ -51077,7 +51332,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 20.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Mai Tai",
       "strainType": null,
@@ -51111,7 +51366,7 @@
         {
           "id": 8998853,
           "label": "1A4030300002199000062974",
-          "quantity": 20.0,
+          "quantity": 18.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-06-23"
         }
