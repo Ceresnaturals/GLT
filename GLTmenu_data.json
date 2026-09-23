@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T19:00:04.012081+00:00",
+  "generated_at": "2026-09-23T19:10:03.338388+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7287,7 +7287,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Romulan",
       "strainType": null,
@@ -7316,7 +7316,7 @@
         {
           "id": 8518827,
           "label": "1A4030300003522000192514",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-04-19"
         }
@@ -26984,7 +26984,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 112.0,
       "unit": "Grams",
@@ -27086,7 +27086,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 112.0,
       "unit": "Grams",
@@ -27188,7 +27188,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 224.0,
       "unit": "Grams",
@@ -28185,7 +28185,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 128.0,
       "unit": "Grams",
@@ -28238,7 +28238,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 92.0,
+      "quantity": 88.0,
       "unit": "Grams",
       "strainName": "Head Hunter",
       "strainType": null,
@@ -28271,7 +28271,7 @@
         {
           "id": 8946491,
           "label": "1A4030300004845000041484",
-          "quantity": 92.0,
+          "quantity": 88.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-25"
         }
@@ -30740,56 +30740,6 @@
           "quantity": 77.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-09-09"
-        }
-      ]
-    },
-    {
-      "id": 8977232,
-      "packageCount": 1,
-      "name": "Savvy Flower - Guerilla Grape - Usable - 7g",
-      "brand": "Savvy",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 7.0,
-      "unit": "Grams",
-      "strainName": "Guerilla Grape",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 31.36,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.03,
-        "CBN": 0.0,
-        "THCA": 34.7,
-        "THCV": 0.2
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.12,
-        "humulene": 0.19,
-        "myrcene": 0.44,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.73,
-        "beta-pinene": 0.08,
-        "limonene": 0.58,
-        "linalool": 0.13,
-        "terpinolene": 0.01
-      },
-      "totalTerps": 2.59,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8977232,
-          "label": "1A4030300003A3C000090731",
-          "quantity": 7.0,
-          "packagedDate": "2026-09-01",
-          "expirationDate": "2027-09-01"
         }
       ]
     },
@@ -38962,7 +38912,7 @@
       "category": "Shake/Trim",
       "metrcCategory": "Shake/Trim",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 240.0,
       "unit": "Grams",
@@ -42930,7 +42880,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Jelly Donut",
       "strainType": null,
@@ -42964,7 +42914,7 @@
         {
           "id": 8992315,
           "label": "1A403030000283D000061326",
-          "quantity": 9.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-14",
           "expirationDate": null
         }
@@ -50093,7 +50043,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Jack's Delight",
       "strainType": "Sativa",
@@ -50128,7 +50078,7 @@
         {
           "id": 8676411,
           "label": "1A40303000003EA000197289",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-06-12"
         }
