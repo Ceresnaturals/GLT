@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T13:40:03.212450+00:00",
+  "generated_at": "2026-09-24T13:50:03.536663+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -26083,6 +26083,51 @@
       ]
     },
     {
+      "id": 7693455,
+      "packageCount": 1,
+      "name": "Buds - Ice Cream Cake",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 450.46,
+      "unit": "Grams",
+      "strainName": "Ice Cream Cake TC",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 20.87,
+        "totalCBD": 0.13,
+        "CBDA": 0.04,
+        "CBG": 0.13,
+        "CBN": 0.11,
+        "THCA": 23.46
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.22,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.34,
+        "beta-pinene": 0.04,
+        "limonene": 0.23,
+        "linalool": 0.15
+      },
+      "totalTerps": 1.16,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 7693455,
+          "label": "1A40303000001F5000292354",
+          "quantity": 450.46,
+          "packagedDate": "2025-11-06",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8982673,
       "packageCount": 1,
       "name": "CUR-CW-JAR-RING-3.5-MD",
@@ -39192,6 +39237,55 @@
           "label": "1A40303000000C9000167732",
           "quantity": 392.0,
           "packagedDate": "2026-08-19",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8757256,
+      "packageCount": 1,
+      "name": "Super Lemon Haze Trim Bulk",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 447.3,
+      "unit": "Grams",
+      "strainName": "Super Lemon Haze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 19.88,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.24,
+        "CBN": 0.0,
+        "THCA": 22.15,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.41,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.33,
+        "beta-pinene": 0.07,
+        "ocimene": 0.55,
+        "limonene": 0.06,
+        "terpinolene": 0.7
+      },
+      "totalTerps": 2.3,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8757256,
+          "label": "1A40303000040D9000005384",
+          "quantity": 447.3,
+          "packagedDate": "2026-07-21",
           "expirationDate": null
         }
       ]
