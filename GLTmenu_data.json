@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T22:40:02.944519+00:00",
+  "generated_at": "2026-09-24T22:50:02.430014+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -18203,7 +18203,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18242,7 +18242,7 @@
         {
           "id": 8958683,
           "label": "1A40303000017D5000105508",
-          "quantity": 14.0,
+          "quantity": 12.0,
           "packagedDate": "2026-07-10",
           "expirationDate": "2027-07-10"
         }
@@ -25933,7 +25933,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Glitter Bomb",
       "strainType": null,
@@ -25967,7 +25967,7 @@
         {
           "id": 8954209,
           "label": "1A4030300003A3C000090435",
-          "quantity": 38.5,
+          "quantity": 35.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-07-28"
         }
@@ -26759,7 +26759,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 73.5,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "GOWI",
       "strainType": null,
@@ -26792,7 +26792,7 @@
         {
           "id": 9014031,
           "label": "1A40303000000CD000081200",
-          "quantity": 73.5,
+          "quantity": 70.0,
           "packagedDate": "2026-09-17",
           "expirationDate": null
         }
@@ -27350,7 +27350,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 150.5,
+      "quantity": 147.0,
       "unit": "Grams",
       "strainName": "Disco Diesel",
       "strainType": null,
@@ -27383,7 +27383,7 @@
         {
           "id": 8433791,
           "label": "1A40303000000C9000149733",
-          "quantity": 150.5,
+          "quantity": 147.0,
           "packagedDate": "2026-05-08",
           "expirationDate": "2027-05-03"
         }
@@ -27852,7 +27852,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "GRAP",
       "strainType": null,
@@ -27887,7 +27887,7 @@
         {
           "id": 8982672,
           "label": "1A40303000000CD000079811",
-          "quantity": 38.5,
+          "quantity": 35.0,
           "packagedDate": "2026-09-10",
           "expirationDate": null
         }
@@ -28996,7 +28996,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 112.0,
+      "quantity": 105.0,
       "unit": "Grams",
       "strainName": "Super Gremlin",
       "strainType": null,
@@ -29031,7 +29031,7 @@
         {
           "id": 8998559,
           "label": "1A403030000025B000087299",
-          "quantity": 112.0,
+          "quantity": 105.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-18"
         }
@@ -29147,7 +29147,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 70.0,
+      "quantity": 66.5,
       "unit": "Grams",
       "strainName": "LEMF",
       "strainType": null,
@@ -29183,7 +29183,7 @@
         {
           "id": 9014032,
           "label": "1A40303000000CD000081199",
-          "quantity": 70.0,
+          "quantity": 66.5,
           "packagedDate": "2026-09-17",
           "expirationDate": null
         }
@@ -31119,7 +31119,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 66.5,
+      "quantity": 63.0,
       "unit": "Grams",
       "strainName": "Grape Junky",
       "strainType": null,
@@ -31152,7 +31152,7 @@
         {
           "id": 9020086,
           "label": "1A4030300003A3C000091320",
-          "quantity": 66.5,
+          "quantity": 63.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-09-09"
         }
@@ -40111,61 +40111,6 @@
           "quantity": 7.0,
           "packagedDate": "2026-07-17",
           "expirationDate": "2027-07-17"
-        }
-      ]
-    },
-    {
-      "id": 8838178,
-      "packageCount": 1,
-      "name": "Avexia Lotion - Pain Relief - Infused Product - 60g",
-      "brand": null,
-      "category": "Topical",
-      "metrcCategory": "Infused Non-Edibles",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.179,
-        "totalCBD": 0.182,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.01,
-        "THCA": 0.0
-      },
-      "dose": {
-        "servingSize": "",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 2.0,
-        "minorsMgPerServing": {
-          "totalCBD": 2.184,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.12,
-          "THCA": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": 1.58,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8838178,
-          "label": "1A40303000017D5000103031",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-01",
-          "expirationDate": "2027-07-01"
         }
       ]
     },
@@ -52236,7 +52181,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Legacy Series Ray Charles BRIQ",
       "strainType": null,
@@ -52270,7 +52215,7 @@
         {
           "id": 8787121,
           "label": "1A4030300000193000102926",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-04-26"
         }
@@ -57391,7 +57336,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Skywalker OG",
       "strainType": null,
@@ -57426,7 +57371,7 @@
         {
           "id": 9013323,
           "label": "1A4030300000C83000088163",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-17",
           "expirationDate": "2027-07-14"
         }
