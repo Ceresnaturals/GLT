@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T19:20:04.565567+00:00",
+  "generated_at": "2026-09-24T19:30:06.609777+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -142,7 +142,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -181,7 +181,7 @@
         {
           "id": 8616992,
           "label": "1A403030000012D000250795",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-06-18",
           "expirationDate": null
         }
@@ -10857,15 +10857,16 @@
     },
     {
       "id": 8998118,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Sunnies Mocktail No. 1 Sweet Orange -10mg -1",
       "brand": "Sunnies",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 34.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10909,20 +10910,28 @@
           "quantity": 10.0,
           "packagedDate": "2026-09-15",
           "expirationDate": null
+        },
+        {
+          "id": 9039628,
+          "label": "1A40303000001F5000450421",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": null
         }
       ]
     },
     {
       "id": 8998027,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Sunnies Mocktail No. 2 Bright Grapefruit -10mg -1",
       "brand": "Sunnies",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 32.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10966,6 +10975,13 @@
           "quantity": 8.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-07-30"
+        },
+        {
+          "id": 9041849,
+          "label": "1A40303000001F5000419010",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": null
         }
       ]
     },
@@ -14143,7 +14159,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14182,7 +14198,7 @@
         {
           "id": 9013416,
           "label": "1A403030000012D000267199",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-09-17",
           "expirationDate": null
         }
@@ -43293,7 +43309,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Banana Munson",
       "strainType": null,
@@ -43329,7 +43345,7 @@
         {
           "id": 8947157,
           "label": "1A40303000001F5000425616",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-01"
         }
@@ -59240,7 +59256,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": "Tinselmints FSE",
       "strainType": null,
@@ -59281,7 +59297,7 @@
         {
           "id": 8563610,
           "label": "ABC0303000037DD000023758",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-06-08",
           "expirationDate": "2026-10-28"
         }
