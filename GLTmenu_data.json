@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T19:00:05.721980+00:00",
+  "generated_at": "2026-09-24T19:10:08.436992+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10680,15 +10680,16 @@
     },
     {
       "id": 8920318,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Keef - Purple Passion - 10mg - 1",
       "brand": null,
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 7.0,
+      "quantity": 31.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10732,6 +10733,13 @@
           "quantity": 7.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-13"
+        },
+        {
+          "id": 9039627,
+          "label": "1A40303000001F5000450420",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": null
         }
       ]
     },
@@ -23758,6 +23766,63 @@
       ]
     },
     {
+      "id": 9039282,
+      "packageCount": 1,
+      "name": "Sunnies - Juicy Pear Nano Gummies - 10mg - 10Pcs",
+      "brand": "Sunnies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.27,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9039282,
+          "label": "1A40303000001F5000450412",
+          "quantity": 20.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-08-24"
+        }
+      ]
+    },
+    {
       "id": 8919193,
       "packageCount": 1,
       "name": "Sunnies - Purple Punch - Grape Live Resin Gummies - 10mg - 10Pcs",
@@ -24039,6 +24104,63 @@
           "quantity": 10.0,
           "packagedDate": "2026-07-08",
           "expirationDate": "2027-03-04"
+        }
+      ]
+    },
+    {
+      "id": 9039607,
+      "packageCount": 1,
+      "name": "Sunnies - White Peach Nano Gummies - 10mg - 10Pcs",
+      "brand": "Sunnies",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.27,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9039607,
+          "label": "1A40303000001F5000450413",
+          "quantity": 20.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": null
         }
       ]
     },
@@ -30083,7 +30205,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 161.0,
+      "quantity": 157.5,
       "unit": "Grams",
       "strainName": "127 MEMBER BERRY",
       "strainType": null,
@@ -30118,7 +30240,7 @@
         {
           "id": 8751006,
           "label": "1A40303000039D1000084241",
-          "quantity": 161.0,
+          "quantity": 157.5,
           "packagedDate": "2026-07-21",
           "expirationDate": null
         }
@@ -35554,7 +35676,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -35589,7 +35711,7 @@
         {
           "id": 8981881,
           "label": "1A403030000012D000266240",
-          "quantity": 25.0,
+          "quantity": 20.0,
           "packagedDate": "2026-09-10",
           "expirationDate": null
         }
@@ -35605,7 +35727,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -35639,7 +35761,7 @@
         {
           "id": 8926289,
           "label": "1A403030000012D000262964",
-          "quantity": 19.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-27",
           "expirationDate": null
         }
@@ -39007,7 +39129,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 36.0,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -39041,7 +39163,7 @@
         {
           "id": 9005731,
           "label": "1A40303000000CB000052503",
-          "quantity": 36.0,
+          "quantity": 35.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-07-28"
         }
@@ -54347,7 +54469,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Mfused TWISTED Super Fog Jefe Swirly Temple",
       "strainType": null,
@@ -54381,7 +54503,7 @@
         {
           "id": 9013419,
           "label": "1A403030000012D000267203",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-17",
           "expirationDate": null
         }
