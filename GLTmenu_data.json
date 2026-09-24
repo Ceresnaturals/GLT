@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T18:30:02.801727+00:00",
+  "generated_at": "2026-09-24T18:40:03.916977+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3294,7 +3294,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Gumi",
       "strainType": null,
@@ -3326,7 +3326,7 @@
         {
           "id": 8815681,
           "label": "1A4030300000C83000079140",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-08-04",
           "expirationDate": "2027-07-03"
         }
@@ -33225,6 +33225,52 @@
       ]
     },
     {
+      "id": 9039278,
+      "packageCount": 1,
+      "name": "Chem de la Chem - Diamond Duster 0.5g Infused Pre-Roll 5-Pack Tin",
+      "brand": "Diamond Duster",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Chem de la Chem",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 44.69,
+        "totalCBD": 0.15,
+        "CBDA": 0.04,
+        "CBG": 0.37,
+        "CBN": 0.03,
+        "THCA": 50.69
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.25,
+        "myrcene": 0.06,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.48,
+        "beta-pinene": 0.02,
+        "limonene": 0.1,
+        "linalool": 0.06
+      },
+      "totalTerps": 1.13,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9039278,
+          "label": "1A40303000001F5000450409",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-08-28"
+        }
+      ]
+    },
+    {
       "id": 8854453,
       "packageCount": 1,
       "name": "Chicken n' Wafflez Big Dogs - Dogwalkers (Play) - Usable - 0.75g",
@@ -33430,7 +33476,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Grams",
       "strainName": "Alien Burger",
       "strainType": null,
@@ -33464,7 +33510,7 @@
         {
           "id": 8952843,
           "label": "1A403030000012D000265626",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -33579,7 +33625,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Grams",
       "strainName": "Carolina",
       "strainType": null,
@@ -33613,7 +33659,7 @@
         {
           "id": 8952600,
           "label": "1A403030000012D000265623",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -33730,7 +33776,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Grams",
       "strainName": "Procake",
       "strainType": null,
@@ -33763,7 +33809,7 @@
         {
           "id": 9013199,
           "label": "1A403030000012D000267205",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-09-17",
           "expirationDate": null
         }
@@ -34714,6 +34760,56 @@
           "quantity": 35.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9039279,
+      "packageCount": 1,
+      "name": "Golden PIneapple Diamond Dust IPRJ 1.0g/1000mg - 1 Single",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Golden PIneapple Dust",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 44.48,
+        "totalCBD": 0.18,
+        "CBDA": 0.04,
+        "CBG": 0.19,
+        "CBN": 0.01,
+        "THCA": 49.22
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.05,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.13,
+        "eudesmol": 0.03,
+        "beta-pinene": 0.03,
+        "ocimene": 0.07,
+        "limonene": 0.08,
+        "linalool": 0.02,
+        "terpinolene": 0.43,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 1.09,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9039279,
+          "label": "1A40303000001F5000450410",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-08-24"
         }
       ]
     },
@@ -38402,6 +38498,55 @@
       ]
     },
     {
+      "id": 9039280,
+      "packageCount": 1,
+      "name": "SDG OG - Diamond Duster IPRJ 1.0g/1000mg",
+      "brand": "Diamond Duster",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Duster",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 47.22,
+        "totalCBD": 0.12,
+        "CBDA": 0.02,
+        "CBG": 0.19,
+        "CBN": 0.01,
+        "THCA": 52.48
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.22,
+        "myrcene": 0.02,
+        "alpha-pinene": 0.01,
+        "caryophyllene": 0.61,
+        "eudesmol": 0.01,
+        "beta-pinene": 0.01,
+        "caryophyllene-oxide": 0.01,
+        "limonene": 0.04,
+        "linalool": 0.14,
+        "nerolidol": 0.02
+      },
+      "totalTerps": 1.21,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9039280,
+          "label": "1A40303000001F5000450411",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-08-11"
+        }
+      ]
+    },
+    {
       "id": 8974567,
       "packageCount": 1,
       "name": "SDG OG - Pre Roll Joints - 0.5 gram - 2 Pack",
@@ -39408,7 +39553,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 96.71,
+      "quantity": 65.21,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -39439,7 +39584,7 @@
         {
           "id": 8765367,
           "label": "1A40303000001F5000408134",
-          "quantity": 96.71,
+          "quantity": 65.21,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
@@ -45886,7 +46031,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Mango Kush",
       "strainType": null,
@@ -45919,7 +46064,7 @@
         {
           "id": 8864065,
           "label": "1A403030000012D000260501",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -51783,7 +51928,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Legacy Series Ray Charles",
       "strainType": null,
@@ -51817,7 +51962,7 @@
         {
           "id": 8908841,
           "label": "1A4030300000193000106246",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-03"
         }
