@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T18:10:02.833833+00:00",
+  "generated_at": "2026-09-24T18:20:17.238602+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -679,6 +679,57 @@
           "quantity": 11.0,
           "packagedDate": "2026-01-20",
           "expirationDate": "2027-01-11"
+        }
+      ]
+    },
+    {
+      "id": 9039277,
+      "packageCount": 1,
+      "name": "AK-47 Live Resin Batter 1.0g/1000mg",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "AK",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 68.76,
+        "totalCBD": 0.11,
+        "CBC": 0.0,
+        "CBDA": 0.13,
+        "CBDV": 0.0,
+        "CBG": 0.22,
+        "CBGA": 4.0,
+        "CBN": 0.0,
+        "THCA": 76.98,
+        "THCV": 2.79
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.2,
+        "myrcene": 2.42,
+        "alpha-pinene": 1.06,
+        "caryophyllene": 0.65,
+        "beta-pinene": 0.49,
+        "ocimene": 1.45,
+        "limonene": 0.5,
+        "linalool": 0.2,
+        "terpinolene": 5.11
+      },
+      "totalTerps": 13.51,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9039277,
+          "label": "1A40303000001F5000450408",
+          "quantity": 20.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-02-05"
         }
       ]
     },
@@ -17432,7 +17483,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17473,7 +17524,7 @@
         {
           "id": 8755814,
           "label": "1A403030000012E000176839",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-02-20"
         }
@@ -24520,7 +24571,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 14.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -24561,7 +24612,7 @@
         {
           "id": 9000809,
           "label": "1A403030000390D000067603",
-          "quantity": 14.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-09-02"
         }
@@ -39553,7 +39604,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 405.3,
+      "quantity": 398.3,
       "unit": "Grams",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -39586,7 +39637,7 @@
         {
           "id": 8757256,
           "label": "1A40303000040D9000005384",
-          "quantity": 405.3,
+          "quantity": 398.3,
           "packagedDate": "2026-07-21",
           "expirationDate": null
         }
@@ -41349,6 +41400,99 @@
       ]
     },
     {
+      "id": 9039273,
+      "packageCount": 1,
+      "name": "Airo Pod Black Mamba 2.0gX Disposable",
+      "brand": "Airo",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Black Mamba .0gX",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.14,
+        "totalCBD": 0.21,
+        "CBC": 1.13,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.98,
+        "CBGA": 0.0,
+        "CBN": 0.21,
+        "THCA": 0.0,
+        "THCV": 0.92
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.02,
+        "myrcene": 1.99,
+        "alpha-pinene": 0.07,
+        "limonene": 3.87,
+        "linalool": 0.02
+      },
+      "totalTerps": 6.16,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9039273,
+          "label": "1A40303000001F5000450401",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-08-26"
+        }
+      ]
+    },
+    {
+      "id": 9039274,
+      "packageCount": 1,
+      "name": "Airo Pod Black Mamba Disposable 1.0g/1000mg",
+      "brand": "Airo",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Black Mamba",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.82,
+        "totalCBD": 0.21,
+        "CBC": 1.31,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.72,
+        "CBGA": 0.0,
+        "CBN": 0.22,
+        "THCA": 0.0,
+        "THCV": 0.97
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 1.53,
+        "alpha-pinene": 0.06,
+        "limonene": 3.19,
+        "linalool": 0.02
+      },
+      "totalTerps": 4.99,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9039274,
+          "label": "1A40303000001F5000450403",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-07-22"
+        }
+      ]
+    },
+    {
       "id": 8947227,
       "packageCount": 1,
       "name": "Airo Pod Blue Dream 0.5g/500mg",
@@ -42209,6 +42353,56 @@
       ]
     },
     {
+      "id": 9039603,
+      "packageCount": 1,
+      "name": "Airo X SDG OG - Liquid Diamonds Disposable Vape 2.0g/2000mg",
+      "brand": "Airo",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "X SDG OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.28,
+        "totalCBD": 0.24,
+        "CBC": 1.1,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.95,
+        "CBGA": 0.47,
+        "CBN": 0.21,
+        "THCA": 5.26,
+        "THCV": 0.91
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.15,
+        "myrcene": 1.47,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 0.03,
+        "ocimene": 0.03,
+        "limonene": 1.02,
+        "linalool": 0.04,
+        "terpinolene": 0.07
+      },
+      "totalTerps": 3.11,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9039603,
+          "label": "1A40303000001F5000450402",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-09-01"
+        }
+      ]
+    },
+    {
       "id": 8873574,
       "packageCount": 1,
       "name": "Alien Mints Distillate Cartridge Strane - 1 g",
@@ -42508,6 +42702,57 @@
       ]
     },
     {
+      "id": 9039275,
+      "packageCount": 1,
+      "name": "Bacio Gelato Distillate Vape 0.5g/500mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Bacio Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 79.72,
+        "totalCBD": 0.14,
+        "CBC": 0.64,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.67,
+        "CBGA": 0.0,
+        "CBN": 0.34,
+        "THCA": 0.0,
+        "THCV": 0.25
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.02,
+        "myrcene": 2.85,
+        "alpha-pinene": 1.65,
+        "caryophyllene": 0.16,
+        "beta-pinene": 0.86,
+        "ocimene": 0.02,
+        "limonene": 3.97,
+        "linalool": 0.23,
+        "terpinolene": 0.15
+      },
+      "totalTerps": 10.68,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9039275,
+          "label": "1A40303000001F5000450405",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-07-14"
+        }
+      ]
+    },
+    {
       "id": 8819285,
       "packageCount": 1,
       "name": "Bacio Gelato Distillate Vape 1.0g/1000mg",
@@ -42658,6 +42903,57 @@
           "quantity": 15.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-01"
+        }
+      ]
+    },
+    {
+      "id": 9039276,
+      "packageCount": 1,
+      "name": "Banana Pancakes Vape 0.5g/500mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Banana Pancakes",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 79.62,
+        "totalCBD": 0.15,
+        "CBC": 0.63,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.72,
+        "CBGA": 0.0,
+        "CBN": 0.32,
+        "THCA": 0.0,
+        "THCV": 0.24
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.28,
+        "myrcene": 2.17,
+        "alpha-pinene": 1.0,
+        "caryophyllene": 1.24,
+        "beta-pinene": 0.61,
+        "ocimene": 0.61,
+        "limonene": 2.73,
+        "linalool": 1.16,
+        "terpinolene": 0.14
+      },
+      "totalTerps": 11.04,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9039276,
+          "label": "1A40303000001F5000450406",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-07-14"
         }
       ]
     },
@@ -43222,7 +43518,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Jelly Donut",
       "strainType": null,
@@ -43256,7 +43552,7 @@
         {
           "id": 8992315,
           "label": "1A403030000283D000061326",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-14",
           "expirationDate": null
         }
@@ -44921,6 +45217,56 @@
       ]
     },
     {
+      "id": 9039606,
+      "packageCount": 1,
+      "name": "Couch Kush DV 0.5g/500mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Couch Kush DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 80.53,
+        "totalCBD": 0.21,
+        "CBC": 0.41,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.1,
+        "CBGA": 0.0,
+        "CBN": 0.3,
+        "THCA": 0.0,
+        "THCV": 0.78
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.22,
+        "myrcene": 1.65,
+        "alpha-pinene": 0.16,
+        "caryophyllene": 1.04,
+        "beta-pinene": 0.22,
+        "limonene": 1.64,
+        "linalool": 0.54,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 5.95,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9039606,
+          "label": "1A40303000001F5000450407",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-01-22"
+        }
+      ]
+    },
+    {
       "id": 8890516,
       "packageCount": 1,
       "name": "Couch Kush DV 1.0g/1000mg",
@@ -44967,6 +45313,58 @@
           "quantity": 21.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-01-22"
+        }
+      ]
+    },
+    {
+      "id": 9039605,
+      "packageCount": 1,
+      "name": "Couch Kush DV Disposable 2.0g/2000mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Couch Kush DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 82.28,
+        "totalCBD": 0.22,
+        "CBC": 1.07,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.96,
+        "CBGA": 0.0,
+        "CBN": 0.21,
+        "THCA": 0.0,
+        "THCV": 0.9
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.04,
+        "humulene": 0.31,
+        "myrcene": 2.69,
+        "alpha-pinene": 0.19,
+        "caryophyllene": 1.8,
+        "beta-pinene": 0.26,
+        "caryophyllene-oxide": 0.06,
+        "limonene": 2.43,
+        "linalool": 0.81,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 9.35,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9039605,
+          "label": "1A40303000001F5000450404",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-08-13"
         }
       ]
     },
