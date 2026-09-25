@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T16:20:02.792443+00:00",
+  "generated_at": "2026-09-25T16:30:03.312860+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10460,7 +10460,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10501,7 +10501,7 @@
         {
           "id": 8998025,
           "label": "1A40303000001F5000431207",
-          "quantity": 19.0,
+          "quantity": 17.0,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -10631,7 +10631,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10672,7 +10672,7 @@
         {
           "id": 8731140,
           "label": "1A40303000001F5000404803",
-          "quantity": 6.0,
+          "quantity": 4.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-05-12"
         }
@@ -13186,7 +13186,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13227,7 +13227,7 @@
         {
           "id": 8996077,
           "label": "1A4030300003522000211317",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-02-26"
         }
@@ -18146,7 +18146,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 47.0,
       "unit": "Each",
@@ -18423,7 +18423,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18462,7 +18462,7 @@
         {
           "id": 8977877,
           "label": "1A40303000017D5000105968",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-07-02"
         }
@@ -22025,22 +22025,23 @@
       ]
     },
     {
-      "id": 8778174,
-      "packageCount": 1,
+      "id": 9039054,
+      "packageCount": 2,
       "name": "Incredibles Gummy Watermelon Smash 400mg - 40mg - 10 Pieces",
       "brand": "Incredibles",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.79,
+        "totalTHC": 0.85,
         "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
@@ -22072,6 +22073,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9039054,
+          "label": "1A40303000003EA000258979",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-08-24"
+        },
         {
           "id": 8778174,
           "label": "1A40303000003EA000192814",
@@ -51031,7 +51039,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Jack Herer",
       "strainType": null,
@@ -51066,7 +51074,7 @@
         {
           "id": 8974646,
           "label": "1A40303000001F5000428942",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-03-26"
         }
@@ -56074,7 +56082,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Pink Lemonade",
       "strainType": null,
@@ -56106,7 +56114,7 @@
         {
           "id": 8919190,
           "label": "1A40303000001F5000423342",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-01"
         }
@@ -58700,7 +58708,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Super Sour Diesel DV",
       "strainType": null,
@@ -58733,7 +58741,7 @@
         {
           "id": 8947156,
           "label": "1A40303000001F5000425615",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-14"
         }
@@ -58786,57 +58794,6 @@
           "quantity": 3.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-22"
-        }
-      ]
-    },
-    {
-      "id": 8890380,
-      "packageCount": 1,
-      "name": "Super Sour Peach DV 0.5g/500mg",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Super Sour Peach DV",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 87.0,
-        "totalCBD": 0.12,
-        "CBC": 0.56,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.97,
-        "CBGA": 0.0,
-        "CBN": 0.27,
-        "THCA": 0.0,
-        "THCV": 0.26
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.06,
-        "myrcene": 1.74,
-        "alpha-pinene": 0.54,
-        "caryophyllene": 0.38,
-        "beta-pinene": 0.48,
-        "ocimene": 0.03,
-        "limonene": 1.94,
-        "linalool": 0.41,
-        "terpinolene": 0.11
-      },
-      "totalTerps": 6.43,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8890380,
-          "label": "1A40303000001F5000420187",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-20",
-          "expirationDate": "2027-03-26"
         }
       ]
     },
