@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T23:10:03.136053+00:00",
+  "generated_at": "2026-09-25T23:20:02.574237+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -26682,7 +26682,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 210.0,
+      "quantity": 196.0,
       "unit": "Grams",
       "strainName": "Black Maple #22",
       "strainType": "Indica",
@@ -26718,7 +26718,7 @@
         {
           "id": 9003281,
           "label": "1A40303000003EA000266189",
-          "quantity": 210.0,
+          "quantity": 196.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-08-03"
         }
@@ -40162,55 +40162,6 @@
           "label": "1A4030300004845000044239",
           "quantity": 240.0,
           "packagedDate": "2026-08-20",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8942955,
-      "packageCount": 1,
-      "name": "Rainbow Walker 5g Shake/Trim",
-      "brand": null,
-      "category": "Shake/Trim",
-      "metrcCategory": "Shake/Trim (by strain)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 10.0,
-      "unit": "Grams",
-      "strainName": "Rainbow Walker",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 19.54,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.58,
-        "CBN": 0.0,
-        "THCA": 21.62,
-        "THCV": 0.12
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.07,
-        "myrcene": 0.61,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.26,
-        "beta-pinene": 0.06,
-        "limonene": 0.43,
-        "linalool": 0.24
-      },
-      "totalTerps": 1.87,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8942955,
-          "label": "1A40303000040D9000005970",
-          "quantity": 10.0,
-          "packagedDate": "2026-09-01",
           "expirationDate": null
         }
       ]
