@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T13:10:03.212877+00:00",
+  "generated_at": "2026-09-25T13:20:03.237372+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -29135,6 +29135,58 @@
       ]
     },
     {
+      "id": 8966647,
+      "packageCount": 1,
+      "name": "Landfill Haze #19 Strane \"Growers Series\" - Usable - 3.5 g",
+      "brand": "Strane",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 56.0,
+      "unit": "Grams",
+      "strainName": "Landfill Haze #19",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.05,
+        "totalCBD": 0.05,
+        "CBC": 0.0,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.12,
+        "CBGA": 2.55,
+        "CBN": 0.0,
+        "THCA": 33.75,
+        "THCV": 0.18
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.05,
+        "myrcene": 0.19,
+        "alpha-pinene": 0.11,
+        "caryophyllene": 0.19,
+        "eudesmol": 0.02,
+        "beta-pinene": 0.12,
+        "ocimene": 0.16,
+        "limonene": 0.19,
+        "linalool": 0.21,
+        "terpinolene": 1.23
+      },
+      "totalTerps": 2.79,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 8966647,
+          "label": "1A403030000012E000190901",
+          "quantity": 56.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-08-04"
+        }
+      ]
+    },
+    {
       "id": 8890135,
       "packageCount": 1,
       "name": "Legend | Flower | Buds | Lemon Splash - Usable - 3.5g",
@@ -31882,6 +31934,55 @@
           "quantity": 28.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-07"
+        }
+      ]
+    },
+    {
+      "id": 8821033,
+      "packageCount": 1,
+      "name": "Windu Stash - Usable - 14 g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 224.0,
+      "unit": "Grams",
+      "strainName": "Windu",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.08,
+        "totalCBD": 0.04,
+        "CBC": 0.0,
+        "CBDA": 0.05,
+        "CBDV": 0.0,
+        "CBG": 0.22,
+        "CBGA": 1.97,
+        "CBN": 0.0,
+        "THCA": 24.03,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.05,
+        "myrcene": 0.22,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.18,
+        "beta-pinene": 0.04,
+        "limonene": 0.19,
+        "linalool": 0.18
+      },
+      "totalTerps": 0.93,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8821033,
+          "label": "1A403030000012E000181558",
+          "quantity": 224.0,
+          "packagedDate": "2026-08-05",
+          "expirationDate": "2027-07-02"
         }
       ]
     },
