@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T21:50:02.572050+00:00",
+  "generated_at": "2026-09-25T22:00:06.311055+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3783,7 +3783,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 13.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Loud Cake",
       "strainType": null,
@@ -3816,7 +3816,7 @@
         {
           "id": 8998885,
           "label": "1A4030300002199000062975",
-          "quantity": 13.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-20",
           "expirationDate": null
         }
@@ -25227,7 +25227,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -25266,7 +25266,7 @@
         {
           "id": 8984083,
           "label": "1A403030000390D000067445",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-09-11",
           "expirationDate": "2027-08-24"
         }
@@ -26586,7 +26586,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "Banana Puddintain",
       "strainType": null,
@@ -26617,7 +26617,7 @@
         {
           "id": 8974566,
           "label": "1A40303000001F5000428932",
-          "quantity": 35.0,
+          "quantity": 31.5,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -27705,7 +27705,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 98.0,
+      "quantity": 94.5,
       "unit": "Grams",
       "strainName": "Garlic Cherry Gelato",
       "strainType": null,
@@ -27740,7 +27740,7 @@
         {
           "id": 9002411,
           "label": "1A4030300004845000044232",
-          "quantity": 98.0,
+          "quantity": 94.5,
           "packagedDate": "2026-07-17",
           "expirationDate": "2027-07-17"
         }
@@ -27960,7 +27960,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 91.0,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -27993,7 +27993,7 @@
         {
           "id": 9005736,
           "label": "1A40303000000CB000052505",
-          "quantity": 91.0,
+          "quantity": 84.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-07-21"
         }
@@ -29457,7 +29457,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Grams",
       "strainName": "Tropical Fusion",
       "strainType": null,
@@ -29491,7 +29491,7 @@
         {
           "id": 8874097,
           "label": "1A4030300003A3C000089551",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-07-21"
         }
@@ -30933,7 +30933,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
@@ -30968,7 +30968,7 @@
         {
           "id": 8911109,
           "label": "1A40303000000CB000050585",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-21"
         }
@@ -31909,7 +31909,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 3.5,
       "unit": "Grams",
       "strainName": "Velcroz",
       "strainType": "Hybrid",
@@ -31944,7 +31944,7 @@
         {
           "id": 8970472,
           "label": "1A40303000003EA000263657",
-          "quantity": 7.0,
+          "quantity": 3.5,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-07"
         }
@@ -32453,7 +32453,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Afternoon Delight",
       "strainType": null,
@@ -32486,7 +32486,7 @@
         {
           "id": 8778312,
           "label": "1A40303000003EA000192817",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-06-18"
         }
@@ -32882,6 +32882,57 @@
           "quantity": 6.0,
           "packagedDate": "2025-12-20",
           "expirationDate": "2026-12-09"
+        }
+      ]
+    },
+    {
+      "id": 9044770,
+      "packageCount": 1,
+      "name": "Banana Cream Pop Strane - Pre-rolls - 1 g",
+      "brand": "Strane",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 16.0,
+      "unit": "Grams",
+      "strainName": "Banana Cream Pop",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.34,
+        "totalCBD": 0.08,
+        "CBC": 0.0,
+        "CBDA": 0.09,
+        "CBDV": 0.0,
+        "CBG": 0.2,
+        "CBGA": 1.02,
+        "CBN": 0.0,
+        "THCA": 32.1,
+        "THCV": 0.18
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.03,
+        "myrcene": 0.1,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.11,
+        "beta-pinene": 0.03,
+        "caryophyllene-oxide": 0.02,
+        "ocimene": 0.02,
+        "limonene": 0.2,
+        "linalool": 0.21
+      },
+      "totalTerps": 0.87,
+      "dominantTerpene": "linalool",
+      "packages": [
+        {
+          "id": 9044770,
+          "label": "1A403030000012E000196215",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": "2027-08-14"
         }
       ]
     },
@@ -33443,7 +33494,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Chem de la Chem",
       "strainType": null,
@@ -33473,7 +33524,7 @@
         {
           "id": 9039278,
           "label": "1A40303000001F5000450409",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-28"
         }
@@ -34726,6 +34777,108 @@
       ]
     },
     {
+      "id": 9044760,
+      "packageCount": 1,
+      "name": "Finger Lime Haze Garcia Hand Picked - Pre-rolls - 1 g",
+      "brand": "Garcia Hand Picked",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 16.0,
+      "unit": "Grams",
+      "strainName": "Finger Lime Haze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.32,
+        "totalCBD": 0.08,
+        "CBC": 0.07,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.32,
+        "CBGA": 1.86,
+        "CBN": 0.0,
+        "THCA": 24.49,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.01,
+        "humulene": 0.04,
+        "myrcene": 0.17,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.15,
+        "beta-pinene": 0.06,
+        "ocimene": 0.1,
+        "limonene": 0.12,
+        "linalool": 0.04,
+        "terpinolene": 0.58
+      },
+      "totalTerps": 1.56,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9044760,
+          "label": "1A403030000012E000196210",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": "2027-08-06"
+        }
+      ]
+    },
+    {
+      "id": 9044762,
+      "packageCount": 1,
+      "name": "Florida Kush Garcia Hand Picked - Pre-rolls - 1 g",
+      "brand": "Garcia Hand Picked",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 16.0,
+      "unit": "Grams",
+      "strainName": "Florida Kush",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 23.1,
+        "totalCBD": 0.06,
+        "CBC": 0.0,
+        "CBDA": 0.07,
+        "CBDV": 0.0,
+        "CBG": 0.09,
+        "CBGA": 0.58,
+        "CBN": 0.0,
+        "THCA": 23.24,
+        "THCV": 0.09
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.12,
+        "myrcene": 0.09,
+        "alpha-pinene": 0.01,
+        "caryophyllene": 0.38,
+        "beta-pinene": 0.02,
+        "limonene": 0.14,
+        "linalool": 0.53,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 1.47,
+      "dominantTerpene": "linalool",
+      "packages": [
+        {
+          "id": 9044762,
+          "label": "1A403030000012E000196211",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": "2027-09-03"
+        }
+      ]
+    },
+    {
       "id": 8966450,
       "packageCount": 1,
       "name": "Frosted Jungle Strane - Pre-rolls - 1 g",
@@ -34970,6 +35123,57 @@
           "quantity": 33.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9044918,
+      "packageCount": 1,
+      "name": "Gas Smack Strane - Pre-rolls - 1 g",
+      "brand": "Strane",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 16.0,
+      "unit": "Grams",
+      "strainName": "Gas Smack",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.14,
+        "totalCBD": 0.05,
+        "CBC": 0.0,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.1,
+        "CBGA": 0.76,
+        "CBN": 0.0,
+        "THCA": 26.88,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.14,
+        "myrcene": 0.03,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.48,
+        "beta-pinene": 0.05,
+        "caryophyllene-oxide": 0.04,
+        "ocimene": 0.02,
+        "limonene": 0.42,
+        "linalool": 0.26
+      },
+      "totalTerps": 1.7,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9044918,
+          "label": "1A403030000012E000196216",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": "2027-07-27"
         }
       ]
     },
@@ -35319,6 +35523,57 @@
       ]
     },
     {
+      "id": 9044920,
+      "packageCount": 1,
+      "name": "Highaleah Strane - Pre-rolls - 1 g",
+      "brand": "Strane",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 16.0,
+      "unit": "Grams",
+      "strainName": "Highaleah",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.78,
+        "totalCBD": 0.04,
+        "CBC": 0.08,
+        "CBDA": 0.04,
+        "CBDV": 0.0,
+        "CBG": 0.22,
+        "CBGA": 1.08,
+        "CBN": 0.0,
+        "THCA": 23.49,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.04,
+        "myrcene": 0.24,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.15,
+        "beta-pinene": 0.06,
+        "ocimene": 0.1,
+        "limonene": 0.13,
+        "linalool": 0.08,
+        "terpinolene": 0.73
+      },
+      "totalTerps": 1.82,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9044920,
+          "label": "1A403030000012E000196218",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": "2027-08-28"
+        }
+      ]
+    },
+    {
       "id": 8809460,
       "packageCount": 1,
       "name": "Jack's Delight 5 Pack (Infused) Dogwalkers (Play ) - 2.25g",
@@ -35414,6 +35669,59 @@
           "quantity": 19.25,
           "packagedDate": "2026-07-08",
           "expirationDate": "2027-06-09"
+        }
+      ]
+    },
+    {
+      "id": 9044919,
+      "packageCount": 1,
+      "name": "Juicee J Strane - Pre-rolls - 1 g",
+      "brand": "Strane",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 16.0,
+      "unit": "Grams",
+      "strainName": "Juicee J",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.97,
+        "totalCBD": 0.06,
+        "CBC": 0.0,
+        "CBDA": 0.07,
+        "CBDV": 0.0,
+        "CBG": 0.07,
+        "CBGA": 1.25,
+        "CBN": 0.0,
+        "THCA": 29.47,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.25,
+        "myrcene": 0.03,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.79,
+        "eudesmol": 0.04,
+        "beta-pinene": 0.06,
+        "ocimene": 0.03,
+        "limonene": 0.42,
+        "linalool": 0.28,
+        "nerolidol": 0.02
+      },
+      "totalTerps": 2.22,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9044919,
+          "label": "1A403030000012E000196217",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": "2027-07-29"
         }
       ]
     },
@@ -36124,7 +36432,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Ice Cream Banger",
       "strainType": null,
@@ -36157,7 +36465,7 @@
         {
           "id": 8601355,
           "label": "1A4030300002199000053122",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-02-23",
           "expirationDate": null
         }
@@ -36467,7 +36775,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.75,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Ice Cream Banger",
       "strainType": null,
@@ -36499,7 +36807,7 @@
         {
           "id": 8499847,
           "label": "1A403030000025B000075393",
-          "quantity": 8.75,
+          "quantity": 7.0,
           "packagedDate": "2026-05-07",
           "expirationDate": "2027-04-15"
         }
@@ -36650,6 +36958,57 @@
           "quantity": 13.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-05-26"
+        }
+      ]
+    },
+    {
+      "id": 9044915,
+      "packageCount": 1,
+      "name": "LA Baker Garcia Hand Picked - Pre-rolls - 1 g",
+      "brand": "Garcia Hand Picked",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 16.0,
+      "unit": "Grams",
+      "strainName": "LA Baker",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.67,
+        "totalCBD": 0.05,
+        "CBC": 0.0,
+        "CBDA": 0.05,
+        "CBDV": 0.0,
+        "CBG": 0.27,
+        "CBGA": 1.62,
+        "CBN": 0.0,
+        "THCA": 27.66,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.09,
+        "myrcene": 0.06,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.34,
+        "eudesmol": 0.03,
+        "beta-pinene": 0.02,
+        "caryophyllene-oxide": 0.02,
+        "limonene": 0.14,
+        "linalool": 0.4
+      },
+      "totalTerps": 1.33,
+      "dominantTerpene": "linalool",
+      "packages": [
+        {
+          "id": 9044915,
+          "label": "1A403030000012E000196213",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": "2027-08-12"
         }
       ]
     },
@@ -36807,7 +37166,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 48.0,
+      "quantity": 47.0,
       "unit": "Each",
       "strainName": "Drag Queen",
       "strainType": null,
@@ -36837,7 +37196,7 @@
         {
           "id": 9030314,
           "label": "1A4030300003201000001690",
-          "quantity": 48.0,
+          "quantity": 47.0,
           "packagedDate": "2026-09-22",
           "expirationDate": null
         }
@@ -37091,6 +37450,58 @@
           "quantity": 15.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-08-04"
+        }
+      ]
+    },
+    {
+      "id": 9044765,
+      "packageCount": 1,
+      "name": "Mule Fuel Garcia Hand Picked - Pre-rolls - 1 g",
+      "brand": "Garcia Hand Picked",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 16.0,
+      "unit": "Grams",
+      "strainName": "Mule Fuel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.24,
+        "totalCBD": 0.08,
+        "CBC": 0.0,
+        "CBDA": 0.09,
+        "CBDV": 0.0,
+        "CBG": 0.08,
+        "CBGA": 0.67,
+        "CBN": 0.0,
+        "THCA": 30.23,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.03,
+        "humulene": 0.11,
+        "myrcene": 0.03,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.42,
+        "beta-pinene": 0.07,
+        "caryophyllene-oxide": 0.02,
+        "ocimene": 0.02,
+        "limonene": 0.36,
+        "linalool": 0.19
+      },
+      "totalTerps": 1.49,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9044765,
+          "label": "1A403030000012E000196212",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": "2027-08-21"
         }
       ]
     },
@@ -38273,6 +38684,56 @@
       ]
     },
     {
+      "id": 9044759,
+      "packageCount": 1,
+      "name": "Peach Cobbler Hellavated Juicy Stickz - Infused Pre-roll - 0.75 g",
+      "brand": "Hellavated",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 16.0,
+      "unit": "Each",
+      "strainName": "Peach Cobbler Juicy Stickz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 34.42,
+        "totalCBD": 0.08,
+        "CBC": 0.17,
+        "CBDA": 0.03,
+        "CBDV": 0.0,
+        "CBG": 0.95,
+        "CBGA": 0.69,
+        "CBN": 0.48,
+        "THCA": 15.37,
+        "THCV": 0.18
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.07,
+        "myrcene": 0.03,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.28,
+        "beta-pinene": 0.02,
+        "caryophyllene-oxide": 0.02,
+        "limonene": 0.09,
+        "linalool": 0.44
+      },
+      "totalTerps": 1.06,
+      "dominantTerpene": "linalool",
+      "packages": [
+        {
+          "id": 9044759,
+          "label": "1A403030000012E000196209",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": "2027-04-27"
+        }
+      ]
+    },
+    {
       "id": 8890372,
       "packageCount": 1,
       "name": "Peach Crescendo - Pre Roll Joints - 0.5 gram - 5 Pack Tin",
@@ -39202,6 +39663,54 @@
           "quantity": 25.0,
           "packagedDate": "2026-09-15",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9044768,
+      "packageCount": 1,
+      "name": "Swampwater Fumez Garcia Hand Picked - Pre-rolls - 1 g",
+      "brand": "Garcia Hand Picked",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 16.0,
+      "unit": "Grams",
+      "strainName": "Swampwater Fumez",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.15,
+        "totalCBD": 0.05,
+        "CBC": 0.0,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.15,
+        "CBGA": 1.28,
+        "CBN": 0.0,
+        "THCA": 25.98,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.18,
+        "myrcene": 0.02,
+        "caryophyllene": 0.52,
+        "beta-pinene": 0.02,
+        "limonene": 0.13,
+        "linalool": 0.47
+      },
+      "totalTerps": 1.39,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9044768,
+          "label": "1A403030000012E000196214",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": "2027-04-02"
         }
       ]
     },
@@ -44230,7 +44739,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Classic Surf",
       "strainType": "Sativa",
@@ -44262,7 +44771,7 @@
         {
           "id": 8996972,
           "label": "1A4030300000579000049844",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-18",
           "expirationDate": null
         }
@@ -44371,7 +44880,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Durban Gelato",
       "strainType": "Sativa",
@@ -44404,7 +44913,7 @@
         {
           "id": 8996962,
           "label": "1A4030300000579000049848",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-17",
           "expirationDate": null
         }
@@ -44616,6 +45125,52 @@
       ]
     },
     {
+      "id": 9044786,
+      "packageCount": 1,
+      "name": "Blueberry Dream Cloud Bar Hellavated - 2 g",
+      "brand": "Hellavated",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Blueberry Dream",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 89.58,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 5.16,
+        "CBGA": 0.0,
+        "CBN": 0.53,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.13,
+        "alpha-pinene": 3.1,
+        "caryophyllene": 0.21,
+        "beta-pinene": 0.35,
+        "linalool": 0.28
+      },
+      "totalTerps": 4.19,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9044786,
+          "label": "1A403030000012E000196222",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": "2027-08-07"
+        }
+      ]
+    },
+    {
       "id": 9044789,
       "packageCount": 1,
       "name": "Blueberry Dream Distillate Cartridge Hellavated - 1.0 g",
@@ -44703,6 +45258,52 @@
           "quantity": 8.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-04-25"
+        }
+      ]
+    },
+    {
+      "id": 9044787,
+      "packageCount": 1,
+      "name": "Bomb Popz Cloud Bar Hellavated - 2 g",
+      "brand": "Hellavated",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Bomb Popz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.39,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.46,
+        "CBGA": 0.0,
+        "CBN": 0.32,
+        "THCA": 0.0,
+        "THCV": 1.16
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.44,
+        "alpha-pinene": 0.61,
+        "caryophyllene": 0.48,
+        "beta-pinene": 0.11,
+        "limonene": 1.87
+      },
+      "totalTerps": 3.6,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9044787,
+          "label": "1A403030000012E000196223",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": "2027-08-28"
         }
       ]
     },
@@ -57542,7 +58143,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Ready To Use Vaporizer",
       "strainType": null,
@@ -57579,7 +58180,7 @@
         {
           "id": 9013326,
           "label": "1A4030300000C83000088166",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-17",
           "expirationDate": "2027-08-11"
         }
