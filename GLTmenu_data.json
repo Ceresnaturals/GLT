@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:00:03.382064+00:00",
+  "generated_at": "2026-09-25T17:10:04.834259+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2165,7 +2165,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 36.0,
+      "quantity": 35.0,
       "unit": "Each",
       "strainName": "Happy er J Deadband x House Blends",
       "strainType": null,
@@ -2198,7 +2198,7 @@
         {
           "id": 8974460,
           "label": "1A4030300000C83000087378",
-          "quantity": 36.0,
+          "quantity": 35.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-19"
         }
@@ -5591,7 +5591,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "MDSSVD IIPR",
       "strainType": null,
@@ -5623,7 +5623,7 @@
         {
           "id": 8300427,
           "label": "1A40303000007D1000070078",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-04-08",
           "expirationDate": null
         }
@@ -8480,6 +8480,55 @@
       ]
     },
     {
+      "id": 9039331,
+      "packageCount": 1,
+      "name": "Rythm 5 Pack (Infused) - Blue Z (Indica Dominant) - 2.5g",
+      "brand": "Rythm",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Blue Z",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 44.71,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.55,
+        "CBN": 0.0,
+        "THCA": 49.78,
+        "THCV": 0.2
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.14,
+        "humulene": 0.11,
+        "myrcene": 0.2,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.71,
+        "beta-pinene": 0.05,
+        "limonene": 0.44,
+        "linalool": 0.26
+      },
+      "totalTerps": 2.25,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9039331,
+          "label": "1A40303000003EA000258983",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-08-19"
+        }
+      ]
+    },
+    {
       "id": 9003340,
       "packageCount": 1,
       "name": "Rythm 5 Pack (Infused) - Blueberry Kush (Indica Dominant) - 2.5g",
@@ -8530,6 +8579,56 @@
       ]
     },
     {
+      "id": 9039057,
+      "packageCount": 1,
+      "name": "Rythm 5 Pack (Infused) - Durban Poison (Sativa Dominant) - 2.5g",
+      "brand": "Rythm",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Durban Poison",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 40.68,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.59,
+        "CBN": 0.0,
+        "THCA": 44.59,
+        "THCV": 0.18
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.07,
+        "myrcene": 0.1,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.25,
+        "beta-pinene": 0.04,
+        "ocimene": 0.17,
+        "limonene": 0.2,
+        "linalool": 0.15,
+        "terpinolene": 0.14
+      },
+      "totalTerps": 1.28,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9039057,
+          "label": "1A40303000003EA000258982",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-08-11"
+        }
+      ]
+    },
+    {
       "id": 8970468,
       "packageCount": 1,
       "name": "Rythm 5 Pack (Infused) - Mai Tai (Sativa Dominant) - 2.5g",
@@ -8539,7 +8638,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Mai Tai",
       "strainType": "Sativa",
@@ -8575,7 +8674,7 @@
         {
           "id": 8970468,
           "label": "1A40303000003EA000263660",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-14"
         }
@@ -8591,7 +8690,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": "Hybrid",
@@ -8625,7 +8724,7 @@
         {
           "id": 8970469,
           "label": "1A40303000003EA000263661",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-18"
         }
@@ -8880,6 +8979,56 @@
           "quantity": 22.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-08-07"
+        }
+      ]
+    },
+    {
+      "id": 9039059,
+      "packageCount": 1,
+      "name": "Rythm Single (Infused) - Pineapple Express (Hybrid) - 1g",
+      "brand": "Rythm",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Pineapple Express",
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 39.58,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.62,
+        "CBN": 0.0,
+        "THCA": 43.48,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.22,
+        "myrcene": 0.2,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 0.71,
+        "beta-pinene": 0.11,
+        "limonene": 0.3,
+        "linalool": 0.24,
+        "terpinolene": 0.03
+      },
+      "totalTerps": 2.13,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9039059,
+          "label": "1A40303000003EA000258985",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-08-21"
         }
       ]
     },
@@ -10460,7 +10609,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10501,7 +10650,7 @@
         {
           "id": 8998025,
           "label": "1A40303000001F5000431207",
-          "quantity": 17.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -11561,9 +11710,9 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11604,7 +11753,7 @@
         {
           "id": 8958670,
           "label": "1A40303000017D5000105505",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-07-16",
           "expirationDate": "2027-07-16"
         }
@@ -18148,7 +18297,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 47.0,
+      "quantity": 45.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18187,7 +18336,7 @@
         {
           "id": 9018114,
           "label": "1A40303000017D5000107152",
-          "quantity": 47.0,
+          "quantity": 45.0,
           "packagedDate": "2026-06-30",
           "expirationDate": "2027-06-30"
         }
@@ -18313,7 +18462,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18352,7 +18501,7 @@
         {
           "id": 9018205,
           "label": "1A40303000017D5000107151",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-07-20"
         }
@@ -21391,6 +21540,63 @@
       ]
     },
     {
+      "id": 9039330,
+      "packageCount": 1,
+      "name": "Incredibles Gummy 100mg - Fast Acting Pineapple Express - 10mg - 10 Pieces",
+      "brand": "Incredibles",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.36,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.03,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.9,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9039330,
+          "label": "1A40303000003EA000258978",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-08-25"
+        }
+      ]
+    },
+    {
       "id": 8920048,
       "packageCount": 1,
       "name": "Incredibles Gummy 100mg - Lemon Lime Boost (1:2 THCv:THC) - 10mg - 10 Pieces",
@@ -21786,6 +21992,63 @@
           "quantity": 24.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-09"
+        }
+      ]
+    },
+    {
+      "id": 9039055,
+      "packageCount": 1,
+      "name": "Incredibles Gummy 100mg-Strahhhberry (1:1 THC:CBD)-10mg-10 Pieces",
+      "brand": "Incredibles",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.33,
+        "totalCBD": 0.34,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.03,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 10.2,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.9,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9039055,
+          "label": "1A40303000003EA000258980",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-09-03"
         }
       ]
     },
@@ -29048,7 +29311,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 308.0,
+      "quantity": 280.0,
       "unit": "Grams",
       "strainName": "Kush Breath",
       "strainType": null,
@@ -29083,7 +29346,7 @@
         {
           "id": 8966594,
           "label": "1A403030000012E000190903",
-          "quantity": 308.0,
+          "quantity": 280.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-19"
         }
@@ -33482,6 +33745,57 @@
       ]
     },
     {
+      "id": 9039058,
+      "packageCount": 1,
+      "name": "Cherry Maui Wowie Big Dogs - Dogwalkers (Play) - Usable - 0.75g",
+      "brand": "Dogwalkers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 18.75,
+      "unit": "Grams",
+      "strainName": "Cherry Maui Wowie",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.95,
+        "totalCBD": 0.09,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.28,
+        "CBGA": 1.57,
+        "CBN": 0.0,
+        "THCA": 29.37,
+        "THCV": 1.14
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.06,
+        "myrcene": 0.93,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.22,
+        "eudesmol": 0.12,
+        "beta-pinene": 0.04,
+        "limonene": 0.39,
+        "linalool": 0.07
+      },
+      "totalTerps": 2.07,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9039058,
+          "label": "1A40303000003EA000258984",
+          "quantity": 18.75,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-04-09"
+        }
+      ]
+    },
+    {
       "id": 8854453,
       "packageCount": 1,
       "name": "Chicken n' Wafflez Big Dogs - Dogwalkers (Play) - Usable - 0.75g",
@@ -33588,7 +33902,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Sunset Octane x Isolate",
       "strainType": null,
@@ -33620,7 +33934,7 @@
         {
           "id": 9005664,
           "label": "1A4030300000C83000088089",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-07-25"
         }
@@ -38915,7 +39229,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Strawberry Candy",
       "strainType": null,
@@ -38948,7 +39262,7 @@
         {
           "id": 8998456,
           "label": "1A40303000001F5000431284",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-04-02"
         }
@@ -39764,7 +40078,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.71,
+      "quantity": 16.21,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -39795,7 +40109,7 @@
         {
           "id": 8765367,
           "label": "1A40303000001F5000408134",
-          "quantity": 19.71,
+          "quantity": 16.21,
           "packagedDate": "2026-07-23",
           "expirationDate": null
         }
@@ -39960,7 +40274,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 342.3,
+      "quantity": 321.3,
       "unit": "Grams",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -39993,7 +40307,7 @@
         {
           "id": 8757256,
           "label": "1A40303000040D9000005384",
-          "quantity": 342.3,
+          "quantity": 321.3,
           "packagedDate": "2026-07-21",
           "expirationDate": null
         }
@@ -50631,7 +50945,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Super Glue",
       "strainType": null,
@@ -50665,7 +50979,7 @@
         {
           "id": 8518541,
           "label": "1A4030300003522000192405",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-03-12"
         }
@@ -53658,7 +53972,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Mango Dragon",
       "strainType": null,
@@ -53689,7 +54003,7 @@
         {
           "id": 8966583,
           "label": "1A403030000012E000190892",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-14"
         }
@@ -57533,6 +57847,55 @@
           "quantity": 1.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-06-25"
+        }
+      ]
+    },
+    {
+      "id": 9039332,
+      "packageCount": 1,
+      "name": "Rythm Pen (Liquid Diamonds) - Maui Wowie (Sativa Dominant) - Vape Pen - 1000mg",
+      "brand": "Rythm",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Maui Wowie",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 93.19,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 1.39,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.92,
+        "beta-pinene": 0.29,
+        "ocimene": 2.45,
+        "limonene": 0.63,
+        "linalool": 0.43,
+        "terpinolene": 0.13
+      },
+      "totalTerps": 6.3,
+      "dominantTerpene": "ocimene",
+      "packages": [
+        {
+          "id": 9039332,
+          "label": "1A40303000003EA000258986",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-07-29"
         }
       ]
     },
