@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T20:00:03.081762+00:00",
+  "generated_at": "2026-09-26T20:10:03.862403+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2173,7 +2173,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": "Happy er J Deadband x House Blends",
       "strainType": null,
@@ -2206,7 +2206,7 @@
         {
           "id": 8974460,
           "label": "1A4030300000C83000087378",
-          "quantity": 26.0,
+          "quantity": 25.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-19"
         }
@@ -3931,7 +3931,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Grams",
       "strainName": "Gelato OG",
       "strainType": null,
@@ -3955,7 +3955,7 @@
         {
           "id": 7643607,
           "label": "1A4030300003201000000461",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2025-10-23",
           "expirationDate": "2026-10-14"
         }
@@ -26571,6 +26571,59 @@
       ]
     },
     {
+      "id": 9029662,
+      "packageCount": 1,
+      "name": "Black Maple | Georgies | 1g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Grams",
+      "strainName": "200 BLACK MAPLE",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.47,
+        "totalCBD": 0.05,
+        "CBC": 0.0,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.12,
+        "CBGA": 1.01,
+        "CBN": 0.0,
+        "THCA": 27.35,
+        "THCV": 0.07
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.1,
+        "myrcene": 0.05,
+        "alpha-pinene": 0.43,
+        "caryophyllene": 0.33,
+        "eudesmol": 0.03,
+        "beta-pinene": 0.2,
+        "caryophyllene-oxide": 0.02,
+        "ocimene": 0.04,
+        "limonene": 0.7,
+        "linalool": 0.17
+      },
+      "totalTerps": 2.29,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9029662,
+          "label": "1A40303000039D1000085135",
+          "quantity": 30.0,
+          "packagedDate": "2026-09-22",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8321366,
       "packageCount": 1,
       "name": "Blappin Berries - 3.5g",
@@ -27894,6 +27947,55 @@
           "quantity": 49.0,
           "packagedDate": "2026-04-29",
           "expirationDate": "2027-03-18"
+        }
+      ]
+    },
+    {
+      "id": 9029747,
+      "packageCount": 1,
+      "name": "Goat Piss | Wildflower | 14g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 224.0,
+      "unit": "Grams",
+      "strainName": "59 GOAT PISS",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.36,
+        "totalCBD": 0.09,
+        "CBC": 0.0,
+        "CBDA": 0.1,
+        "CBDV": 0.0,
+        "CBG": 0.16,
+        "CBGA": 2.27,
+        "CBN": 0.0,
+        "THCA": 30.58,
+        "THCV": 0.25
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.07,
+        "myrcene": 1.45,
+        "alpha-pinene": 0.32,
+        "caryophyllene": 0.21,
+        "beta-pinene": 0.12,
+        "limonene": 0.16,
+        "linalool": 0.22
+      },
+      "totalTerps": 2.63,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9029747,
+          "label": "1A40303000039D1000085134",
+          "quantity": 224.0,
+          "packagedDate": "2026-09-22",
+          "expirationDate": null
         }
       ]
     },
@@ -35426,52 +35528,6 @@
       ]
     },
     {
-      "id": 8914807,
-      "packageCount": 1,
-      "name": "K&Q|Diamond Infused Blunts|Blueberry Cruffin|2ct, 1.0g",
-      "brand": null,
-      "category": "Pre-Roll",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Blueberry Cruffin",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 41.57,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.56,
-        "CBN": 0.0,
-        "THCA": 46.79,
-        "THCV": 0.2
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.09,
-        "caryophyllene": 0.24,
-        "beta-pinene": 0.02,
-        "limonene": 0.1,
-        "linalool": 0.08
-      },
-      "totalTerps": 0.62,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8914807,
-          "label": "1A4030300002009000112808",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-26",
-          "expirationDate": "2027-08-11"
-        }
-      ]
-    },
-    {
       "id": 8752069,
       "packageCount": 1,
       "name": "K&Q|Diamond Infused Blunts|Rain Drops|2ct, 1.0g",
@@ -36858,7 +36914,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 46.0,
+      "quantity": 45.0,
       "unit": "Each",
       "strainName": "Drag Queen",
       "strainType": null,
@@ -36888,7 +36944,7 @@
         {
           "id": 9030314,
           "label": "1A4030300003201000001690",
-          "quantity": 46.0,
+          "quantity": 45.0,
           "packagedDate": "2026-09-22",
           "expirationDate": null
         }
@@ -43672,7 +43728,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Jelly Donut",
       "strainType": null,
@@ -43706,7 +43762,7 @@
         {
           "id": 8992315,
           "label": "1A403030000283D000061326",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-14",
           "expirationDate": null
         }
@@ -43830,7 +43886,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Orange Apricot",
       "strainType": null,
@@ -43866,7 +43922,7 @@
         {
           "id": 8992262,
           "label": "1A403030000283D000061325",
-          "quantity": 8.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-14",
           "expirationDate": "2027-06-23"
         }
@@ -46216,7 +46272,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Mango Kush",
       "strainType": null,
@@ -46249,7 +46305,7 @@
         {
           "id": 8864065,
           "label": "1A403030000012D000260501",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-13",
           "expirationDate": null
         }
@@ -48893,6 +48949,57 @@
       ]
     },
     {
+      "id": 9029665,
+      "packageCount": 1,
+      "name": "Grow West OG Sweet Backwood Vape Cart 1g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Each",
+      "strainName": "Grow West OG Sweet Backwood",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 80.33,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.04,
+        "CBGA": 0.0,
+        "CBN": 1.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.24,
+        "humulene": 0.21,
+        "myrcene": 0.9,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 1.37,
+        "beta-pinene": 0.21,
+        "limonene": 1.38,
+        "linalool": 0.61,
+        "terpinolene": 0.09,
+        "nerolidol": 0.16
+      },
+      "totalTerps": 5.72,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9029665,
+          "label": "1A40303000039D1000085139",
+          "quantity": 30.0,
+          "packagedDate": "2026-09-22",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8890379,
       "packageCount": 1,
       "name": "Guava Kush Distillate Vape 0.5g/500mg",
@@ -50289,7 +50396,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Green Crack",
       "strainType": null,
@@ -50322,7 +50429,7 @@
         {
           "id": 8462869,
           "label": "1A4030300003522000191134",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-05-14",
           "expirationDate": "2027-03-08"
         }
@@ -52560,6 +52667,56 @@
           "quantity": 12.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-05-31"
+        }
+      ]
+    },
+    {
+      "id": 9029753,
+      "packageCount": 1,
+      "name": "Lemonade Kush - Spirits Distillate Cart - 1g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Each",
+      "strainName": "Lemonade Kush",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.77,
+        "CBC": 0.9,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.1,
+        "CBGA": 0.0,
+        "CBN": 0.43,
+        "THCA": 0.0,
+        "THCV": 0.68
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.17,
+        "humulene": 0.14,
+        "myrcene": 0.31,
+        "alpha-pinene": 0.14,
+        "caryophyllene": 0.74,
+        "beta-pinene": 0.38,
+        "limonene": 2.49,
+        "linalool": 0.39,
+        "nerolidol": 0.19
+      },
+      "totalTerps": 5.06,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9029753,
+          "label": "1A40303000039D1000085138",
+          "quantity": 30.0,
+          "packagedDate": "2026-09-22",
+          "expirationDate": "2027-06-04"
         }
       ]
     },
@@ -55035,7 +55192,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Strawberry Jelly",
       "strainType": null,
@@ -55070,7 +55227,7 @@
         {
           "id": 8766864,
           "label": "1A4030300003522000207403",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-16"
         }
@@ -55221,6 +55378,56 @@
           "label": "1A40303000039D1000076329",
           "quantity": 12.0,
           "packagedDate": "2026-05-26",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9029751,
+      "packageCount": 1,
+      "name": "Nectar | Vapes | Live Resin Cartridges | Neapolitan Space Cream - 0.5g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Each",
+      "strainName": "Neapolitan Space Cream",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 69.72,
+        "CBC": 0.43,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.91,
+        "CBGA": 0.51,
+        "CBN": 0.0,
+        "THCA": 9.28,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.25,
+        "humulene": 1.74,
+        "myrcene": 0.06,
+        "alpha-pinene": 0.11,
+        "caryophyllene": 4.49,
+        "beta-pinene": 0.13,
+        "limonene": 1.53,
+        "linalool": 0.67,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 9.49,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9029751,
+          "label": "1A40303000039D1000085137",
+          "quantity": 30.0,
+          "packagedDate": "2026-09-22",
           "expirationDate": null
         }
       ]
@@ -58986,7 +59193,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Strawberry Haze",
       "strainType": null,
@@ -59016,7 +59223,7 @@
         {
           "id": 9044798,
           "label": "1A403030000012E000196230",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-07-31"
         }
@@ -59177,7 +59384,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -59211,7 +59418,7 @@
         {
           "id": 8858442,
           "label": "1A40303000039D1000091583",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-05-18"
         }
