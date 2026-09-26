@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T16:10:02.548784+00:00",
+  "generated_at": "2026-09-26T16:20:03.513243+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -19,46 +19,47 @@
   ],
   "products": [
     {
-      "id": 8909468,
-      "packageCount": 1,
+      "id": 9030802,
+      "packageCount": 2,
       "name": "ALLCAPS 100mg - 100mg - 10",
       "brand": null,
       "category": "Capsule",
       "metrcCategory": "Infused Edible (Capsule Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 13.45,
-        "totalCBD": 0.09,
+        "totalTHC": 12.25,
+        "totalCBD": 0.08,
         "CBC": 0.1,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.5,
+        "CBG": 0.37,
         "CBGA": 0.0,
         "CBN": 0.06,
         "THCA": 0.0,
-        "THCV": 0.07
+        "THCV": 0.06
       },
       "dose": {
         "servingSize": "1",
         "totalThcMg": 1000.0,
         "thcMgPerServing": 100.0,
         "minorsMgPerServing": {
-          "totalCBD": 0.07,
+          "totalCBD": 0.062,
           "CBC": 0.078,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.39,
+          "CBG": 0.289,
           "CBGA": 0.0,
           "CBN": 0.047,
           "THCA": 0.0,
-          "THCV": 0.055
+          "THCV": 0.047
         },
         "minorsEstimated": true
       },
@@ -66,6 +67,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9030802,
+          "label": "1A4030300000C83000082168",
+          "quantity": 20.0,
+          "packagedDate": "2026-09-22",
+          "expirationDate": "2027-08-12"
+        },
         {
           "id": 8909468,
           "label": "1A4030300000C83000081192",
@@ -3181,58 +3189,6 @@
       ]
     },
     {
-      "id": 8765366,
-      "packageCount": 1,
-      "name": "Golden Pineapple Live Resin Batter 2.0g/2000mg",
-      "brand": null,
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Golden Pineapple",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 67.43,
-        "totalCBD": 0.11,
-        "CBC": 0.0,
-        "CBDA": 0.12,
-        "CBDV": 0.0,
-        "CBG": 0.12,
-        "CBGA": 4.62,
-        "CBN": 0.0,
-        "THCA": 76.03,
-        "THCV": 4.54
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.06,
-        "myrcene": 1.81,
-        "alpha-pinene": 0.38,
-        "caryophyllene": 0.18,
-        "eudesmol": 0.02,
-        "beta-pinene": 0.05,
-        "ocimene": 1.06,
-        "limonene": 0.88,
-        "linalool": 0.04,
-        "terpinolene": 3.97
-      },
-      "totalTerps": 9.96,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8765366,
-          "label": "1A40303000001F5000408130",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-23",
-          "expirationDate": "2027-06-01"
-        }
-      ]
-    },
-    {
       "id": 8974571,
       "packageCount": 1,
       "name": "Golden Valley Glaze Live Resin Batter 1.0g/1000mg",
@@ -3445,7 +3401,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -3480,7 +3436,7 @@
         {
           "id": 8974572,
           "label": "1A40303000001F5000428944",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-06-08"
         }
@@ -13174,7 +13130,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13213,7 +13169,7 @@
         {
           "id": 8766853,
           "label": "1A4030300003522000207387",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-01-04"
         }
@@ -18191,7 +18147,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18230,7 +18186,7 @@
         {
           "id": 8958877,
           "label": "1A40303000017D5000105507",
-          "quantity": 13.0,
+          "quantity": 11.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-07-28"
         }
@@ -19148,7 +19104,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19187,7 +19143,7 @@
         {
           "id": 8914614,
           "label": "1A4030300002009000112787",
-          "quantity": 7.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-05-18"
         }
@@ -26820,7 +26776,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 376.96,
+      "quantity": 362.96,
       "unit": "Grams",
       "strainName": "Ice Cream Cake TC",
       "strainType": null,
@@ -26849,7 +26805,7 @@
         {
           "id": 7693455,
           "label": "1A40303000001F5000292354",
-          "quantity": 376.96,
+          "quantity": 362.96,
           "packagedDate": "2025-11-06",
           "expirationDate": null
         }
@@ -32254,7 +32210,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 23.0,
       "unit": "Grams",
       "strainName": "Sour Jack",
       "strainType": null,
@@ -32287,7 +32243,7 @@
         {
           "id": 8490482,
           "label": "1A4030300002009000102667",
-          "quantity": 25.0,
+          "quantity": 23.0,
           "packagedDate": "2026-05-21",
           "expirationDate": "2027-04-17"
         }
@@ -32353,7 +32309,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Afternoon Delight",
       "strainType": null,
@@ -32386,7 +32342,7 @@
         {
           "id": 8778312,
           "label": "1A40303000003EA000192817",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-06-18"
         }
@@ -34838,7 +34794,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 33.25,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "GMO",
       "strainType": null,
@@ -34872,7 +34828,7 @@
         {
           "id": 8891365,
           "label": "1A40303000003EA000205086",
-          "quantity": 33.25,
+          "quantity": 31.5,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-06"
         }
@@ -34985,7 +34941,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 16.0,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Gas Smack",
       "strainType": null,
@@ -35020,7 +34976,7 @@
         {
           "id": 9044918,
           "label": "1A403030000012E000196216",
-          "quantity": 16.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-07-27"
         }
@@ -39079,7 +39035,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -39113,7 +39069,7 @@
         {
           "id": 9039601,
           "label": "1A40303000001F5000450400",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-09-23",
           "expirationDate": null
         }
@@ -40933,7 +40889,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 11.0,
       "unit": "Each",
@@ -44485,7 +44441,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 5.0,
       "unit": "Each",
@@ -45313,7 +45269,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Cheetah Lilac Breath LR DG",
       "strainType": null,
@@ -45348,7 +45304,7 @@
         {
           "id": 8760179,
           "label": "1A4030300001771000040025",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-07-22",
           "expirationDate": "2027-07-14"
         }
@@ -55234,7 +55190,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "RS",
       "strainType": null,
@@ -55268,7 +55224,7 @@
         {
           "id": 8882189,
           "label": "1A4030300003522000202241",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-09"
         }
