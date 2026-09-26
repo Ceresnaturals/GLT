@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T16:20:03.513243+00:00",
+  "generated_at": "2026-09-26T16:30:03.694774+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -17095,8 +17095,7 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 13.0,
       "unit": "Each",
@@ -18365,7 +18364,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 23.0,
       "unit": "Each",
@@ -26046,7 +26045,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.5,
+      "quantity": 24.5,
       "unit": "Grams",
       "strainName": "Glitter Bomb",
       "strainType": null,
@@ -26080,7 +26079,7 @@
         {
           "id": 8954209,
           "label": "1A4030300003A3C000090435",
-          "quantity": 31.5,
+          "quantity": 24.5,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-07-28"
         }
@@ -28065,7 +28064,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -28098,7 +28097,7 @@
         {
           "id": 8998444,
           "label": "1A40303000001F5000431272",
-          "quantity": 42.0,
+          "quantity": 35.0,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -30201,7 +30200,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 122.5,
+      "quantity": 119.0,
       "unit": "Grams",
       "strainName": "127 MEMBER BERRY",
       "strainType": null,
@@ -30236,7 +30235,7 @@
         {
           "id": 8751006,
           "label": "1A40303000039D1000084241",
-          "quantity": 122.5,
+          "quantity": 119.0,
           "packagedDate": "2026-07-21",
           "expirationDate": null
         }
@@ -30353,7 +30352,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "Governmint Oasis",
       "strainType": null,
@@ -30385,7 +30384,7 @@
         {
           "id": 8882181,
           "label": "1A4030300003521000056049",
-          "quantity": 28.0,
+          "quantity": 21.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-18"
         }
@@ -32751,7 +32750,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Banana Cream Pop",
       "strainType": null,
@@ -32786,7 +32785,7 @@
         {
           "id": 9044770,
           "label": "1A403030000012E000196215",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-08-14"
         }
@@ -34941,7 +34940,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Grams",
       "strainName": "Gas Smack",
       "strainType": null,
@@ -34976,7 +34975,7 @@
         {
           "id": 9044918,
           "label": "1A403030000012E000196216",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-07-27"
         }
@@ -43581,7 +43580,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Banana Belts",
       "strainType": null,
@@ -43615,7 +43614,7 @@
         {
           "id": 8992260,
           "label": "1A403030000283D000061323",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-14",
           "expirationDate": null
         }
@@ -44395,7 +44394,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": "Hybrid",
@@ -44427,7 +44426,7 @@
         {
           "id": 8997131,
           "label": "1A4030300000579000049843",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-18",
           "expirationDate": null
         }
@@ -47809,7 +47808,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Flavor Series Clementine",
       "strainType": null,
@@ -47841,7 +47840,7 @@
         {
           "id": 8908969,
           "label": "1A4030300000193000106242",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-05-04"
         }
@@ -48292,16 +48291,17 @@
       ]
     },
     {
-      "id": 8911022,
-      "packageCount": 1,
+      "id": 9041146,
+      "packageCount": 2,
       "name": "Fruit Gushers Live Resin Vape Cart 1.0mL",
       "brand": null,
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Fruit Gushers",
       "strainType": null,
@@ -48333,6 +48333,13 @@
       "totalTerps": 7.87,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 9041146,
+          "label": "1A4030300000C83000088745",
+          "quantity": 20.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-08-14"
+        },
         {
           "id": 8911022,
           "label": "1A4030300000C83000086195",
@@ -51030,7 +51037,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Tangie",
       "strainType": null,
@@ -51063,7 +51070,7 @@
         {
           "id": 8689758,
           "label": "1A4030300003522000201313",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-05-16"
         }
@@ -52279,7 +52286,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Legacy Series Ray Charles",
       "strainType": null,
@@ -52313,7 +52320,7 @@
         {
           "id": 8908841,
           "label": "1A4030300000193000106246",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-03"
         }
@@ -56433,7 +56440,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Pink Sunrise FSE",
       "strainType": null,
@@ -56468,7 +56475,7 @@
         {
           "id": 8229633,
           "label": "ABC0303000037DD000021640",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-03-23",
           "expirationDate": "2027-02-26"
         }
@@ -56785,7 +56792,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "RO BDTCart . SuperLemonHaze S MD",
       "strainType": null,
@@ -56817,7 +56824,7 @@
         {
           "id": 8859983,
           "label": "1A403030000238D000106516",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-06-28"
         }
@@ -57643,7 +57650,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 7.0,
       "unit": "Each",
