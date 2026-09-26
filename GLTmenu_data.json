@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T19:20:03.142052+00:00",
+  "generated_at": "2026-09-26T19:30:02.665163+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12686,7 +12686,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 17.0,
       "unit": "Each",
@@ -21325,7 +21325,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21366,7 +21366,7 @@
         {
           "id": 8854449,
           "label": "1A40303000003EA000202538",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-06-10"
         }
@@ -32546,7 +32546,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Grams",
       "strainName": "Atomic Grapefruit",
       "strainType": null,
@@ -32580,7 +32580,7 @@
         {
           "id": 8966449,
           "label": "1A403030000012E000192643",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-24"
         }
@@ -34535,7 +34535,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Grams",
       "strainName": "Finger Lime Haze",
       "strainType": null,
@@ -34571,7 +34571,7 @@
         {
           "id": 9044760,
           "label": "1A403030000012E000196210",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-08-06"
         }
@@ -34834,7 +34834,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Grams",
       "strainName": "Gas Smack",
       "strainType": null,
@@ -34869,7 +34869,7 @@
         {
           "id": 9044918,
           "label": "1A403030000012E000196216",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-07-27"
         }
@@ -35230,7 +35230,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Grams",
       "strainName": "Highaleah",
       "strainType": null,
@@ -35265,7 +35265,7 @@
         {
           "id": 9044920,
           "label": "1A403030000012E000196218",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-08-28"
         }
@@ -36709,7 +36709,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "LA Baker",
       "strainType": null,
@@ -36744,7 +36744,7 @@
         {
           "id": 9044915,
           "label": "1A403030000012E000196213",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-08-12"
         }
@@ -37151,7 +37151,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Grams",
       "strainName": "Mule Fuel",
       "strainType": null,
@@ -37187,7 +37187,7 @@
         {
           "id": 9044765,
           "label": "1A403030000012E000196212",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-08-21"
         }
@@ -39304,55 +39304,6 @@
           "quantity": 14.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-05-13"
-        }
-      ]
-    },
-    {
-      "id": 7827968,
-      "packageCount": 1,
-      "name": "Suit &Tie Preroll 2.5g (.5g 5Pk )",
-      "brand": null,
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.5,
-      "unit": "Grams",
-      "strainName": "Suit & Tie",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 21.2,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.58,
-        "CBN": 0.0,
-        "THCA": 23.57,
-        "THCV": 0.14
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.13,
-        "humulene": 0.25,
-        "myrcene": 0.15,
-        "alpha-pinene": 0.08,
-        "caryophyllene": 0.98,
-        "beta-pinene": 0.08,
-        "limonene": 0.57,
-        "linalool": 0.11
-      },
-      "totalTerps": 2.55,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 7827968,
-          "label": "1A40303000000C9000125758",
-          "quantity": 2.5,
-          "packagedDate": "2025-12-11",
-          "expirationDate": "2026-10-28"
         }
       ]
     },
@@ -59076,7 +59027,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Strawberry Cough",
       "strainType": null,
@@ -59111,7 +59062,7 @@
         {
           "id": 8750532,
           "label": "1A40303000039D1000084245",
-          "quantity": 3.0,
+          "quantity": 1.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-05-22"
         }
@@ -59423,7 +59374,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -59457,7 +59408,7 @@
         {
           "id": 8858442,
           "label": "1A40303000039D1000091583",
-          "quantity": 16.0,
+          "quantity": 13.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-05-18"
         }
