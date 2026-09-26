@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T14:40:03.024115+00:00",
+  "generated_at": "2026-09-26T14:50:02.897920+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12551,7 +12551,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -15807,7 +15807,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -18185,7 +18185,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 9.0,
       "unit": "Each",
@@ -21029,7 +21029,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 20.0,
       "unit": "Each",
@@ -22465,7 +22465,7 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 6.0,
       "unit": "Each",
@@ -26633,7 +26633,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 140.0,
+      "quantity": 136.5,
       "unit": "Grams",
       "strainName": "Berry Trix",
       "strainType": null,
@@ -26666,7 +26666,7 @@
         {
           "id": 8674620,
           "label": "1A40303000040D9000005118",
-          "quantity": 140.0,
+          "quantity": 136.5,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-06-30"
         }
@@ -28561,7 +28561,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 17.5,
       "unit": "Grams",
       "strainName": "Blueberry",
       "strainType": null,
@@ -28593,7 +28593,7 @@
         {
           "id": 8938799,
           "label": "1A4030300003521000056672",
-          "quantity": 21.0,
+          "quantity": 17.5,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-20"
         }
@@ -30534,6 +30534,56 @@
           "quantity": 154.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-30"
+        }
+      ]
+    },
+    {
+      "id": 8939203,
+      "packageCount": 1,
+      "name": "NH ONYCD 3.0 Flower-Usable-3.5g",
+      "brand": "NH",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 3.5,
+      "unit": "Grams",
+      "strainName": "ONYCD 3.0",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.63,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.8,
+        "CBN": 0.0,
+        "THCA": 26.12,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.35,
+        "myrcene": 0.98,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 1.28,
+        "beta-pinene": 0.07,
+        "limonene": 0.56,
+        "terpinolene": 0.02,
+        "nerolidol": 0.12
+      },
+      "totalTerps": 3.71,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8939203,
+          "label": "1A4030300003521000056676",
+          "quantity": 3.5,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-08-12"
         }
       ]
     },
@@ -44633,7 +44683,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "GMO Cookies",
       "strainType": "Indica",
@@ -44664,7 +44714,7 @@
         {
           "id": 8997129,
           "label": "1A4030300000579000049846",
-          "quantity": 6.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-17",
           "expirationDate": null
         }
@@ -52379,7 +52429,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Legacy Series King Louis XIII BRIQ",
       "strainType": null,
@@ -52412,7 +52462,7 @@
         {
           "id": 8908970,
           "label": "1A4030300000193000106244",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-03-16"
         }
@@ -52465,56 +52515,6 @@
           "quantity": 13.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-03"
-        }
-      ]
-    },
-    {
-      "id": 8787121,
-      "packageCount": 1,
-      "name": "Legacy Series Ray Charles- BRIQ 2g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Legacy Series Ray Charles BRIQ",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 80.54,
-        "CBC": 1.09,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.23,
-        "CBGA": 0.0,
-        "CBN": 0.21,
-        "THCA": 0.0,
-        "THCV": 1.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.22,
-        "humulene": 0.07,
-        "myrcene": 2.66,
-        "alpha-pinene": 0.21,
-        "caryophyllene": 0.24,
-        "beta-pinene": 0.1,
-        "ocimene": 0.29,
-        "limonene": 0.24,
-        "linalool": 0.15
-      },
-      "totalTerps": 4.25,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8787121,
-          "label": "1A4030300000193000102926",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-28",
-          "expirationDate": "2027-04-26"
         }
       ]
     },
@@ -59219,7 +59219,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Super Boof Rip Sticks",
       "strainType": null,
@@ -59249,7 +59249,7 @@
         {
           "id": 8583736,
           "label": "1A403030000012E000166353",
-          "quantity": 9.0,
+          "quantity": 7.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-05-02"
         }
