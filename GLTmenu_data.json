@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T19:30:03.410455+00:00",
+  "generated_at": "2026-09-27T19:40:09.146437+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -16453,7 +16453,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16494,7 +16494,7 @@
         {
           "id": 8814673,
           "label": "1A4030300000C83000080558",
-          "quantity": 8.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-04",
           "expirationDate": "2027-07-01"
         }
@@ -18907,7 +18907,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18948,7 +18948,7 @@
         {
           "id": 8606293,
           "label": "1A4030300002009000105187",
-          "quantity": 5.0,
+          "quantity": 3.0,
           "packagedDate": "2026-06-17",
           "expirationDate": "2027-03-09"
         }
@@ -22063,7 +22063,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -22104,7 +22104,7 @@
         {
           "id": 8794428,
           "label": "1A40303000001F5000410800",
-          "quantity": 5.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-06-03"
         }
@@ -22234,7 +22234,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22275,7 +22275,7 @@
         {
           "id": 8794514,
           "label": "1A40303000001F5000410798",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-02-25"
         }
@@ -24634,7 +24634,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -24675,7 +24675,7 @@
         {
           "id": 9000809,
           "label": "1A403030000390D000067603",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-09-02"
         }
@@ -26613,7 +26613,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 52.5,
       "unit": "Grams",
@@ -26948,6 +26948,56 @@
           "quantity": 30.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-03"
+        }
+      ]
+    },
+    {
+      "id": 9027467,
+      "packageCount": 1,
+      "name": "Crazy Lady 14g Smalls",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 280.0,
+      "unit": "Grams",
+      "strainName": "the crazy lady- BLVCK MRKT",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.24,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.26,
+        "CBN": 0.0,
+        "THCA": 25.04,
+        "THCV": 0.05
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.05,
+        "myrcene": 0.62,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.15,
+        "eudesmol": 0.07,
+        "beta-pinene": 0.05,
+        "limonene": 0.42,
+        "linalool": 0.13
+      },
+      "totalTerps": 1.72,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9027467,
+          "label": "1A40303000040D9000006252",
+          "quantity": 280.0,
+          "packagedDate": "2026-09-21",
+          "expirationDate": "2027-09-20"
         }
       ]
     },
@@ -27795,6 +27845,54 @@
           "quantity": 224.0,
           "packagedDate": "2026-09-22",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9039056,
+      "packageCount": 1,
+      "name": "Gogurtz Pre-Pack (Buds) - Rythm (Hybrid) - Usable - 3.5g",
+      "brand": "Rythm",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 87.5,
+      "unit": "Grams",
+      "strainName": "Gogurtz",
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.84,
+        "totalCBD": 0.07,
+        "CBC": 0.0,
+        "CBDA": 0.08,
+        "CBDV": 0.0,
+        "CBG": 0.13,
+        "CBGA": 0.33,
+        "CBN": 0.0,
+        "THCA": 34.78,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.11,
+        "alpha-pinene": 0.11,
+        "caryophyllene": 0.42,
+        "beta-pinene": 0.13,
+        "limonene": 0.81,
+        "linalool": 0.59
+      },
+      "totalTerps": 2.42,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9039056,
+          "label": "1A40303000003EA000258981",
+          "quantity": 87.5,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-08-21"
         }
       ]
     },
@@ -29046,6 +29144,56 @@
           "quantity": 11.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-07-21"
+        }
+      ]
+    },
+    {
+      "id": 9041122,
+      "packageCount": 1,
+      "name": "Lucky Orchard Pre-Pack 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 224.0,
+      "unit": "Grams",
+      "strainName": "Lucky Orchard",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.37,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.1,
+        "CBGA": 0.19,
+        "CBN": 0.0,
+        "THCA": 33.88,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.18,
+        "myrcene": 0.59,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 0.97,
+        "beta-pinene": 0.15,
+        "limonene": 1.06,
+        "linalool": 0.79,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 4.27,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9041122,
+          "label": "1A40303000000CB000053175",
+          "quantity": 224.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-09-05"
         }
       ]
     },
@@ -30529,6 +30677,55 @@
       ]
     },
     {
+      "id": 9041124,
+      "packageCount": 1,
+      "name": "Rainbow Push Pop 4 Buds Pre-Pack 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 224.0,
+      "unit": "Grams",
+      "strainName": "Rainbow Push Pop #4",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 36.03,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.28,
+        "CBGA": 2.34,
+        "CBN": 0.0,
+        "THCA": 40.43,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.12,
+        "humulene": 0.38,
+        "myrcene": 0.08,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 1.32,
+        "beta-pinene": 0.08,
+        "limonene": 0.57,
+        "linalool": 0.43
+      },
+      "totalTerps": 3.2,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9041124,
+          "label": "1A40303000000CB000053177",
+          "quantity": 224.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-09-16"
+        }
+      ]
+    },
+    {
       "id": 8911109,
       "packageCount": 1,
       "name": "Red Zushi Pre-Pack 3.5g",
@@ -31118,6 +31315,55 @@
       ]
     },
     {
+      "id": 9027465,
+      "packageCount": 1,
+      "name": "Super Lemon Haze 8ths",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 224.0,
+      "unit": "Grams",
+      "strainName": "Super Lemon Haze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 18.46,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.32,
+        "CBN": 0.0,
+        "THCA": 20.53,
+        "THCV": 0.16
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.43,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.3,
+        "beta-pinene": 0.08,
+        "ocimene": 0.64,
+        "limonene": 0.08,
+        "terpinolene": 0.6
+      },
+      "totalTerps": 2.37,
+      "dominantTerpene": "ocimene",
+      "packages": [
+        {
+          "id": 9027465,
+          "label": "1A40303000040D9000006251",
+          "quantity": 224.0,
+          "packagedDate": "2026-09-21",
+          "expirationDate": "2027-09-20"
+        }
+      ]
+    },
+    {
       "id": 8954212,
       "packageCount": 1,
       "name": "Swift Lifts - Blueberry Muffins - Usable - 2.5g 5pk",
@@ -31552,6 +31798,104 @@
           "quantity": 3.5,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-06-25"
+        }
+      ]
+    },
+    {
+      "id": 9005659,
+      "packageCount": 1,
+      "name": "Z Cream Untrimmed Small Buds Ounce 28g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 448.0,
+      "unit": "Grams",
+      "strainName": "Z Cream",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.83,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.19,
+        "CBGA": 1.06,
+        "CBN": 0.0,
+        "THCA": 29.18,
+        "THCV": 0.09
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.17,
+        "myrcene": 0.03,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.54,
+        "beta-pinene": 0.07,
+        "limonene": 0.5,
+        "linalool": 0.35
+      },
+      "totalTerps": 1.91,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9005659,
+          "label": "1A40303000000CB000052508",
+          "quantity": 448.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-09-08"
+        }
+      ]
+    },
+    {
+      "id": 9005727,
+      "packageCount": 1,
+      "name": "Z Mints Untrimmed Small Buds Ounce 28g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 252.0,
+      "unit": "Grams",
+      "strainName": "Z Mints",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.57,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.12,
+        "CBGA": 1.56,
+        "CBN": 0.0,
+        "THCA": 32.17,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.14,
+        "myrcene": 0.21,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.43,
+        "beta-pinene": 0.08,
+        "limonene": 0.56,
+        "linalool": 0.21
+      },
+      "totalTerps": 1.96,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9005727,
+          "label": "1A40303000000CB000052504",
+          "quantity": 252.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-09-04"
         }
       ]
     },
@@ -39563,6 +39907,55 @@
           "label": "1A4030300004845000044239",
           "quantity": 240.0,
           "packagedDate": "2026-08-20",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9028009,
+      "packageCount": 1,
+      "name": "Rainbow Walker 5g Shake/Trim",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 160.0,
+      "unit": "Grams",
+      "strainName": "Rainbow Walker",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 19.54,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.58,
+        "CBN": 0.0,
+        "THCA": 21.62,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.07,
+        "myrcene": 0.61,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.26,
+        "beta-pinene": 0.06,
+        "limonene": 0.43,
+        "linalool": 0.24
+      },
+      "totalTerps": 1.87,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9028009,
+          "label": "1A40303000040D9000006250",
+          "quantity": 160.0,
+          "packagedDate": "2026-09-21",
           "expirationDate": null
         }
       ]
