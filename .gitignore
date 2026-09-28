@@ -2,6 +2,9 @@
 metrc.env
 *.env
 
+# Squarespace code-injection reference file — not part of the publish pipeline
+squarespace-age-gate.html
+
 # Local cache / Python artifacts — should never end up here, but guard
 # against an accidental copy from register-tool
 cache/
