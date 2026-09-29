@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:30:02.757203+00:00",
+  "generated_at": "2026-09-29T14:40:03.527662+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -5818,6 +5818,58 @@
           "label": "1A403030000012D000259359",
           "quantity": 1.0,
           "packagedDate": "2026-08-06",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9047754,
+      "packageCount": 1,
+      "name": "Mfused FIRE Fattys (Maui Pineapple)-Usable-2x0.5g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Each",
+      "strainName": "Mfused FIRE Fattys",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 32.72,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.57,
+        "CBN": 0.0,
+        "THCA": 33.98,
+        "THCV": 0.15
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.31,
+        "myrcene": 0.62,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 1.48,
+        "beta-pinene": 0.07,
+        "ocimene": 0.64,
+        "limonene": 0.5,
+        "linalool": 0.29,
+        "terpinolene": 0.51,
+        "nerolidol": 0.13
+      },
+      "totalTerps": 4.94,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9047754,
+          "label": "1A403030000012D000267863",
+          "quantity": 30.0,
+          "packagedDate": "2026-09-24",
           "expirationDate": null
         }
       ]
@@ -19982,63 +20034,6 @@
       ]
     },
     {
-      "id": 8996310,
-      "packageCount": 1,
-      "name": "In House Cherry Lemonade Fast Acting V3 Gummies-10mg-10",
-      "brand": "In House",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 4.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.22,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8996310,
-          "label": "1A4030300003522000211322",
-          "quantity": 4.0,
-          "packagedDate": "2026-09-15",
-          "expirationDate": "2027-08-19"
-        }
-      ]
-    },
-    {
       "id": 8939355,
       "packageCount": 1,
       "name": "In House Peach Mango Fast Acting V2 Gummies-10mg-10",
@@ -20048,7 +20043,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20089,7 +20084,7 @@
         {
           "id": 8939355,
           "label": "1A4030300003522000210574",
-          "quantity": 12.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-14"
         }
@@ -30501,7 +30496,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 364.0,
+      "quantity": 336.0,
       "unit": "Grams",
       "strainName": "Strawberry Jelly",
       "strainType": null,
@@ -30535,7 +30530,7 @@
         {
           "id": 8996058,
           "label": "1A4030300003521000058084",
-          "quantity": 364.0,
+          "quantity": 336.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-27"
         }
@@ -33731,6 +33726,55 @@
       ]
     },
     {
+      "id": 9047688,
+      "packageCount": 1,
+      "name": "Curio Wellness CW Grapes of Wrath Pre-rolls-Usable-2x0.5g",
+      "brand": "Curio Wellness",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Grams",
+      "strainName": "Grapes of Wrath",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 23.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.9,
+        "CBN": 0.0,
+        "THCA": 26.23,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.04,
+        "myrcene": 0.06,
+        "alpha-pinene": 0.26,
+        "caryophyllene": 0.14,
+        "eudesmol": 0.1,
+        "beta-pinene": 0.16,
+        "limonene": 0.98,
+        "linalool": 0.17
+      },
+      "totalTerps": 2.23,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9047688,
+          "label": "1A403030000012D000267874",
+          "quantity": 30.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8769569,
       "packageCount": 1,
       "name": "Curio Wellness CW Pink Mountain Kush Pre-rolls-usable-2x0.5g",
@@ -33829,6 +33873,55 @@
           "label": "1A403030000012D000255820",
           "quantity": 5.0,
           "packagedDate": "2026-07-16",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9047757,
+      "packageCount": 1,
+      "name": "Curio Wellness Crescendo Pre-rolls-Usable-2x0.5g",
+      "brand": "Curio Wellness",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Grams",
+      "strainName": "Crescendo",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.95,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.83,
+        "CBN": 0.0,
+        "THCA": 32.76,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.36,
+        "myrcene": 0.45,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 1.16,
+        "beta-pinene": 0.07,
+        "limonene": 0.58,
+        "linalool": 0.24
+      },
+      "totalTerps": 3.16,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9047757,
+          "label": "1A403030000012D000267866",
+          "quantity": 30.0,
+          "packagedDate": "2026-09-24",
           "expirationDate": null
         }
       ]
@@ -37359,7 +37452,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 22.0,
       "unit": "Grams",
@@ -39965,6 +40058,55 @@
       ]
     },
     {
+      "id": 8919307,
+      "packageCount": 1,
+      "name": "Shake&Trim - Permenant Marker",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 453.8,
+      "unit": "Grams",
+      "strainName": "Permanent Marker",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.65,
+        "totalCBD": 0.16,
+        "CBDA": 0.04,
+        "CBG": 0.75,
+        "CBN": 0.02,
+        "THCA": 27.33
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.03,
+        "humulene": 0.14,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.16,
+        "caryophyllene": 0.43,
+        "beta-pinene": 0.11,
+        "ocimene": 0.08,
+        "limonene": 0.63,
+        "linalool": 0.24,
+        "terpinolene": 0.01,
+        "nerolidol": 0.02
+      },
+      "totalTerps": 2.06,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8919307,
+          "label": "1A40303000001F5000423348",
+          "quantity": 453.8,
+          "packagedDate": "2026-08-26",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8765367,
       "packageCount": 1,
       "name": "Shake/Trim - Golden Pineapple",
@@ -40462,7 +40604,7 @@
     },
     {
       "id": 8769659,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Curio Wellness Pain 1:1 Transdermal Stick-Infused Product-70g",
       "brand": "Curio Wellness",
       "category": "Topical",
@@ -40470,7 +40612,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -40509,15 +40651,8 @@
         {
           "id": 8769659,
           "label": "1A403030000012D000257034",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-07-23",
-          "expirationDate": null
-        },
-        {
-          "id": 8707442,
-          "label": "1A403030000012D000254647",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-09",
           "expirationDate": null
         }
       ]
@@ -54094,7 +54229,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Melon Sherbert",
       "strainType": null,
@@ -54126,7 +54261,7 @@
         {
           "id": 8966481,
           "label": "1A403030000012E000192634",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-05-07"
         }
@@ -56774,7 +56909,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Razberry Blitz",
       "strainType": null,
@@ -56812,7 +56947,7 @@
         {
           "id": 8583678,
           "label": "1A403030000012E000166356",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-03-07"
         }
