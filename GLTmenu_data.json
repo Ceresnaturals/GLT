@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T22:50:03.218653+00:00",
+  "generated_at": "2026-09-29T23:00:03.149652+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -6812,7 +6812,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Lemon Cherry Gelato",
       "strainType": null,
@@ -6842,7 +6842,7 @@
         {
           "id": 8996086,
           "label": "1A4030300003522000211334",
-          "quantity": 5.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-09-02"
         }
@@ -24200,7 +24200,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -24241,7 +24241,7 @@
         {
           "id": 8996313,
           "label": "1A4030300003522000211326",
-          "quantity": 25.0,
+          "quantity": 23.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-09-01"
         }
@@ -30268,7 +30268,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 280.0,
+      "quantity": 252.0,
       "unit": "Grams",
       "strainName": "Strawberry Jelly",
       "strainType": null,
@@ -30302,7 +30302,7 @@
         {
           "id": 8996058,
           "label": "1A4030300003521000058084",
-          "quantity": 280.0,
+          "quantity": 252.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-27"
         }
@@ -30318,7 +30318,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 10.5,
       "unit": "Grams",
       "strainName": "Strawberry Jelly",
       "strainType": null,
@@ -30353,7 +30353,7 @@
         {
           "id": 8828648,
           "label": "1A4030300003521000054645",
-          "quantity": 14.0,
+          "quantity": 10.5,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-17"
         }
@@ -30557,7 +30557,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 150.5,
+      "quantity": 147.0,
       "unit": "Grams",
       "strainName": "137 PURPLE KOALA",
       "strainType": null,
@@ -30593,7 +30593,7 @@
         {
           "id": 9029661,
           "label": "1A40303000039D1000085133",
-          "quantity": 150.5,
+          "quantity": 147.0,
           "packagedDate": "2026-09-22",
           "expirationDate": null
         }
@@ -33010,7 +33010,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Grams",
       "strainName": "Blue zangria 2",
       "strainType": null,
@@ -33045,7 +33045,7 @@
         {
           "id": 9005743,
           "label": "1A40303000000CB000052510",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-08-07"
         }
@@ -33706,9 +33706,9 @@
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Grams",
       "strainName": "Crescendo",
       "strainType": null,
@@ -33741,7 +33741,7 @@
         {
           "id": 9047757,
           "label": "1A403030000012D000267866",
-          "quantity": 26.0,
+          "quantity": 25.0,
           "packagedDate": "2026-09-24",
           "expirationDate": null
         }
@@ -33791,55 +33791,6 @@
           "label": "1A403030000012D000257806",
           "quantity": 12.0,
           "packagedDate": "2026-07-28",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 9013199,
-      "packageCount": 1,
-      "name": "Curio Wellness Procake Pre-rolls-usable-2x0.5g",
-      "brand": "Curio Wellness",
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Grams",
-      "strainName": "Procake",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 30.16,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.63,
-        "CBN": 0.0,
-        "THCA": 34.2,
-        "THCV": 0.14
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.08,
-        "humulene": 0.22,
-        "myrcene": 0.43,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.86,
-        "beta-pinene": 0.06,
-        "limonene": 0.43,
-        "linalool": 0.27
-      },
-      "totalTerps": 2.5,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 9013199,
-          "label": "1A403030000012D000267205",
-          "quantity": 2.0,
-          "packagedDate": "2026-09-17",
           "expirationDate": null
         }
       ]
@@ -35300,7 +35251,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 32.0,
+      "quantity": 31.0,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -35332,7 +35283,7 @@
         {
           "id": 9041606,
           "label": "1A40303000000CB000053178",
-          "quantity": 32.0,
+          "quantity": 31.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-01"
         }
@@ -36967,57 +36918,6 @@
       ]
     },
     {
-      "id": 9005652,
-      "packageCount": 1,
-      "name": "Midnight Circus PRJx2 (Two 0.5g Joints) 1g",
-      "brand": null,
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Grams",
-      "strainName": "Midnight Circus",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 26.02,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.6,
-        "CBN": 0.0,
-        "THCA": 28.44,
-        "THCV": 0.08
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.52,
-        "myrcene": 0.08,
-        "alpha-pinene": 0.17,
-        "caryophyllene": 1.67,
-        "beta-pinene": 0.17,
-        "ocimene": 0.03,
-        "limonene": 1.02,
-        "linalool": 0.45,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 4.66,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 9005652,
-          "label": "1A40303000000CB000052500",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-16",
-          "expirationDate": "2027-08-04"
-        }
-      ]
-    },
-    {
       "id": 9044765,
       "packageCount": 1,
       "name": "Mule Fuel Garcia Hand Picked - Pre-rolls - 1 g",
@@ -37027,7 +36927,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Grams",
       "strainName": "Mule Fuel",
       "strainType": null,
@@ -37063,7 +36963,7 @@
         {
           "id": 9044765,
           "label": "1A403030000012E000196212",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-08-21"
         }
@@ -38303,7 +38203,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 3.0,
       "unit": "Grams",
       "strainName": "Pillow Mints",
       "strainType": null,
@@ -38336,7 +38236,7 @@
         {
           "id": 8596193,
           "label": "1A4030300000192000033998",
-          "quantity": 7.0,
+          "quantity": 3.0,
           "packagedDate": "2026-06-15",
           "expirationDate": "2027-04-13"
         }
@@ -38449,7 +38349,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Rainbow Push Pop #4",
       "strainType": null,
@@ -38483,7 +38383,7 @@
         {
           "id": 9041144,
           "label": "1A40303000000CB000053179",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-14"
         }
@@ -53458,7 +53358,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Blue Razz Slushie",
       "strainType": null,
@@ -53492,7 +53392,7 @@
         {
           "id": 8999576,
           "label": "1A403030000283D000061463",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
