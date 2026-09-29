@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:10:03.624421+00:00",
+  "generated_at": "2026-09-29T14:20:02.772304+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -14827,8 +14827,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 26.0,
       "unit": "Each",
@@ -16558,28 +16557,29 @@
       ]
     },
     {
-      "id": 8828992,
-      "packageCount": 1,
+      "id": 9047761,
+      "packageCount": 2,
       "name": "Dixie Berry Blaze Sativa 10mg Medicated Chew-10mg-10",
       "brand": "Dixie",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.181,
+        "totalTHC": 0.209,
         "CBC": 0.002,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.009,
+        "CBG": 0.01,
         "CBGA": 0.0,
-        "CBN": 0.009,
+        "CBN": 0.008,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -16591,9 +16591,9 @@
           "CBC": 0.103,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.465,
+          "CBG": 0.517,
           "CBGA": 0.0,
-          "CBN": 0.465,
+          "CBN": 0.414,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -16603,6 +16603,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9047761,
+          "label": "1A403030000012D000267870",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": null
+        },
         {
           "id": 8828992,
           "label": "1A403030000012D000259360",
@@ -17238,6 +17245,61 @@
           "label": "1A403030000012D000266242",
           "quantity": 17.0,
           "packagedDate": "2026-09-10",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9047753,
+      "packageCount": 1,
+      "name": "Dixie Tropic Twist Indica 10mg Medicated Chew-10mg-10",
+      "brand": "Dixie",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.203,
+        "CBC": 0.003,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.005,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.155,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.259,
+          "CBGA": 0.0,
+          "CBN": 0.103,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9047753,
+          "label": "1A403030000012D000267862",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-24",
           "expirationDate": null
         }
       ]
@@ -26319,7 +26381,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 98.0,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Black Maple #22",
       "strainType": "Indica",
@@ -26355,7 +26417,7 @@
         {
           "id": 9003281,
           "label": "1A40303000003EA000266189",
-          "quantity": 98.0,
+          "quantity": 84.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-08-03"
         }
