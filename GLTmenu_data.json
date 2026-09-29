@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:00:04.065786+00:00",
+  "generated_at": "2026-09-29T14:10:03.624421+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -19872,7 +19872,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19913,7 +19913,7 @@
         {
           "id": 8828679,
           "label": "1A4030300003522000195378",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-07"
         }
@@ -20157,7 +20157,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20198,7 +20198,7 @@
         {
           "id": 8939234,
           "label": "1A4030300003522000210571",
-          "quantity": 24.0,
+          "quantity": 22.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-05-21"
         }
@@ -20505,7 +20505,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20546,7 +20546,7 @@
         {
           "id": 8828747,
           "label": "1A4030300003522000195383",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-24"
         }
@@ -22608,16 +22608,17 @@
       ]
     },
     {
-      "id": 8926291,
-      "packageCount": 1,
+      "id": 9047764,
+      "packageCount": 2,
       "name": "Smokiez Sour Blackberry Indica 10mg Medicated Chews-10mg-10",
       "brand": "Smokiez",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -22653,6 +22654,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9047764,
+          "label": "1A403030000012D000267873",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": null
+        },
         {
           "id": 8926291,
           "label": "1A403030000012D000262968",
@@ -40332,6 +40340,61 @@
           "quantity": 13.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-19"
+        }
+      ]
+    },
+    {
+      "id": 9047762,
+      "packageCount": 1,
+      "name": "Curio Wellness Pain 1:1 Transdermal Gel-Infused Product- 50g",
+      "brand": "Curio Wellness",
+      "category": "Topical",
+      "metrcCategory": "Infused Non-Edibles",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.271,
+        "totalCBD": 0.281,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.016,
+        "THCA": 0.0
+      },
+      "dose": {
+        "servingSize": "",
+        "totalThcMg": 150.0,
+        "thcMgPerServing": 2.0,
+        "minorsMgPerServing": {
+          "totalCBD": 1.873,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.107,
+          "THCA": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": 0.0,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9047762,
+          "label": "1A403030000012D000267871",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": null
         }
       ]
     },
