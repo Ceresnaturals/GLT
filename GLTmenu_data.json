@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T18:30:03.145648+00:00",
+  "generated_at": "2026-09-29T18:40:03.728532+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -253,44 +253,45 @@
       ]
     },
     {
-      "id": 8596199,
-      "packageCount": 1,
+      "id": 9051791,
+      "packageCount": 2,
       "name": "RSO Capsule - 10mg - 10",
       "brand": null,
       "category": "Capsule",
       "metrcCategory": "Infused Edible (Capsule Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 7.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 3.292,
-        "CBC": 0.023,
+        "totalTHC": 3.445,
+        "CBC": 0.026,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.126,
+        "CBG": 0.078,
         "CBGA": 0.0,
-        "CBN": 0.014,
+        "CBN": 0.019,
         "THCA": 0.0,
-        "THCV": 0.014
+        "THCV": 0.022
       },
       "dose": {
         "servingSize": "One Capsule",
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "CBC": 0.055,
+          "CBC": 0.062,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.302,
+          "CBG": 0.187,
           "CBGA": 0.0,
-          "CBN": 0.034,
+          "CBN": 0.046,
           "THCA": 0.0,
-          "THCV": 0.034
+          "THCV": 0.053
         },
         "minorsEstimated": true
       },
@@ -298,6 +299,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9051791,
+          "label": "1A4030300000193000108908",
+          "quantity": 20.0,
+          "packagedDate": "2026-09-25",
+          "expirationDate": "2027-08-25"
+        },
         {
           "id": 8596199,
           "label": "1A4030300000193000098457",
@@ -4992,7 +5000,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "MD EXT MDBECK 35CB",
       "strainType": null,
@@ -5025,7 +5033,7 @@
         {
           "id": 8745226,
           "label": "1A40303000007D1000090206",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-20",
           "expirationDate": null
         }
@@ -22417,16 +22425,17 @@
       ]
     },
     {
-      "id": 8787115,
-      "packageCount": 1,
+      "id": 9051872,
+      "packageCount": 2,
       "name": "Peach Jams - 10mg - 10",
       "brand": null,
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22464,6 +22473,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9051872,
+          "label": "1A4030300000193000108909",
+          "quantity": 20.0,
+          "packagedDate": "2026-09-25",
+          "expirationDate": "2027-06-30"
+        },
         {
           "id": 8787115,
           "label": "1A4030300000193000102918",
@@ -26756,7 +26772,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 312.96,
+      "quantity": 309.46,
       "unit": "Grams",
       "strainName": "Ice Cream Cake TC",
       "strainType": null,
@@ -26785,7 +26801,7 @@
         {
           "id": 7693455,
           "label": "1A40303000001F5000292354",
-          "quantity": 312.96,
+          "quantity": 309.46,
           "packagedDate": "2025-11-06",
           "expirationDate": null
         }
@@ -29397,7 +29413,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 164.5,
+      "quantity": 161.0,
       "unit": "Grams",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -29431,7 +29447,7 @@
         {
           "id": 9041122,
           "label": "1A40303000000CB000053175",
-          "quantity": 164.5,
+          "quantity": 161.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-09-05"
         }
@@ -30378,54 +30394,6 @@
       ]
     },
     {
-      "id": 8882181,
-      "packageCount": 1,
-      "name": "NH Governmint Oasis Flower-Usable-3.5g",
-      "brand": "NH",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "Governmint Oasis",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 27.49,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.31,
-        "CBN": 0.0,
-        "THCA": 31.19,
-        "THCV": 0.17
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.19,
-        "myrcene": 0.08,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.59,
-        "beta-pinene": 0.05,
-        "limonene": 0.43
-      },
-      "totalTerps": 1.53,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8882181,
-          "label": "1A4030300003521000056049",
-          "quantity": 3.5,
-          "packagedDate": "2026-08-18",
-          "expirationDate": "2027-07-18"
-        }
-      ]
-    },
-    {
       "id": 8939201,
       "packageCount": 1,
       "name": "NH Lilac Diesel Flower-Usable-14g",
@@ -30586,7 +30554,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 31.5,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Strawberry Jelly",
       "strainType": null,
@@ -30621,7 +30589,7 @@
         {
           "id": 8828648,
           "label": "1A4030300003521000054645",
-          "quantity": 31.5,
+          "quantity": 28.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-17"
         }
@@ -37595,7 +37563,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Grams",
       "strainName": "Animal Mint Cookies",
       "strainType": null,
@@ -37626,7 +37594,7 @@
         {
           "id": 8996170,
           "label": "1A4030300003521000058086",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-09-03"
         }
@@ -37642,7 +37610,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Blueberry",
       "strainType": null,
@@ -37672,7 +37640,7 @@
         {
           "id": 8882285,
           "label": "1A4030300003521000056054",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-18",
           "expirationDate": null
         }
@@ -40158,7 +40126,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 418.8,
+      "quantity": 415.3,
       "unit": "Grams",
       "strainName": "Permanent Marker",
       "strainType": null,
@@ -40191,7 +40159,7 @@
         {
           "id": 8919307,
           "label": "1A40303000001F5000423348",
-          "quantity": 418.8,
+          "quantity": 415.3,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -57004,7 +56972,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 9.0,
       "unit": "Each",
