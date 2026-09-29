@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T17:20:03.323923+00:00",
+  "generated_at": "2026-09-29T17:30:04.124767+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12777,8 +12777,8 @@
       ]
     },
     {
-      "id": 8828729,
-      "packageCount": 1,
+      "id": 8996306,
+      "packageCount": 2,
       "name": "Betty's Eddies Tropical Smoothie Fruit Chews-40mg-10",
       "brand": "Betty's Eddies",
       "category": "Edible",
@@ -12786,37 +12786,37 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 1.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.549,
-        "totalCBD": 0.416,
+        "totalTHC": 0.558,
+        "totalCBD": 0.456,
         "CBC": 0.006,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.028,
+        "CBG": 0.023,
         "CBGA": 0.0,
         "CBN": 0.002,
-        "THCA": 0.0,
-        "THCV": 0.004
+        "THCA": 0.004,
+        "THCV": 0.0
       },
       "dose": {
         "servingSize": "1",
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "totalCBD": 29.536,
+          "totalCBD": 32.376,
           "CBC": 0.426,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 1.988,
+          "CBG": 1.633,
           "CBGA": 0.0,
           "CBN": 0.142,
-          "THCA": 0.0,
-          "THCV": 0.284
+          "THCA": 0.284,
+          "THCV": 0.0
         },
         "minorsEstimated": true
       },
@@ -12824,6 +12824,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8996306,
+          "label": "1A4030300003522000211320",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-08-22"
+        },
         {
           "id": 8828729,
           "label": "1A4030300003522000195371",
@@ -28885,7 +28892,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 84.0,
       "unit": "Grams",
@@ -31407,7 +31414,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 22.5,
       "unit": "Grams",
@@ -44552,7 +44559,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Blueberry Dream",
       "strainType": null,
@@ -44581,7 +44588,7 @@
         {
           "id": 9044789,
           "label": "1A403030000012E000196224",
-          "quantity": 8.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-08-28"
         }
@@ -48634,7 +48641,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Grape Stomper",
       "strainType": null,
@@ -48667,7 +48674,7 @@
         {
           "id": 9044791,
           "label": "1A403030000012E000196226",
-          "quantity": 9.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-08-18"
         }
@@ -49974,7 +49981,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 22.0,
       "unit": "Each",
@@ -50807,7 +50814,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Trainwreck",
       "strainType": null,
@@ -50841,7 +50848,7 @@
         {
           "id": 8882182,
           "label": "1A4030300003522000202236",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-11"
         }
@@ -53203,7 +53210,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "MD DP MANGOHAZE 1PEN",
       "strainType": null,
@@ -53230,7 +53237,7 @@
         {
           "id": 8872246,
           "label": "1A40303000007D1000093661",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-17",
           "expirationDate": null
         }
@@ -53580,7 +53587,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Mango Dragon",
       "strainType": null,
@@ -53611,7 +53618,7 @@
         {
           "id": 8966531,
           "label": "1A403030000012E000192637",
-          "quantity": 6.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-07"
         }
@@ -55495,7 +55502,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Passion Fruit",
       "strainType": null,
@@ -55525,7 +55532,7 @@
         {
           "id": 8966639,
           "label": "1A403030000012E000192143",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-07-31"
         }
@@ -56799,7 +56806,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 11.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Razberry Blitz",
       "strainType": null,
@@ -56832,7 +56839,7 @@
         {
           "id": 9044797,
           "label": "1A403030000012E000196229",
-          "quantity": 11.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-08-18"
         }
@@ -58752,7 +58759,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Strawberry Haze",
       "strainType": null,
@@ -58782,7 +58789,7 @@
         {
           "id": 9044798,
           "label": "1A403030000012E000196230",
-          "quantity": 7.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-07-31"
         }
