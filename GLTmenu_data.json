@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T13:50:02.368210+00:00",
+  "generated_at": "2026-09-29T14:00:04.065786+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -26539,6 +26539,57 @@
       ]
     },
     {
+      "id": 9049209,
+      "packageCount": 1,
+      "name": "CUR-CW-BB-MMMM-14-MD",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 168.0,
+      "unit": "Grams",
+      "strainName": "MMMM",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 32.2,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.2,
+        "CBN": 0.0,
+        "THCA": 35.23,
+        "THCV": 0.26
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.27,
+        "myrcene": 0.39,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 0.88,
+        "beta-pinene": 0.13,
+        "ocimene": 0.58,
+        "limonene": 0.23,
+        "linalool": 0.07,
+        "terpinolene": 1.22
+      },
+      "totalTerps": 4.14,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9049209,
+          "label": "1A40303000000CD000081569",
+          "quantity": 168.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8982673,
       "packageCount": 1,
       "name": "CUR-CW-JAR-RING-3.5-MD",
@@ -26590,6 +26641,57 @@
       ]
     },
     {
+      "id": 9049135,
+      "packageCount": 1,
+      "name": "CUR-EXC-JAR-APBA-3.5-MD",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 84.0,
+      "unit": "Grams",
+      "strainName": "APBA",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.73,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.21,
+        "CBGA": 1.66,
+        "CBN": 0.0,
+        "THCA": 33.4,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.1,
+        "myrcene": 2.3,
+        "alpha-pinene": 0.51,
+        "caryophyllene": 0.43,
+        "beta-pinene": 0.11,
+        "ocimene": 0.4,
+        "limonene": 0.12,
+        "linalool": 0.2,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 4.26,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9049135,
+          "label": "1A40303000000CD000081567",
+          "quantity": 84.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 9014031,
       "packageCount": 1,
       "name": "CUR-EXC-JAR-GOWI-3.5-MD",
@@ -26634,6 +26736,55 @@
           "label": "1A40303000000CD000081200",
           "quantity": 45.5,
           "packagedDate": "2026-09-17",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9049208,
+      "packageCount": 1,
+      "name": "CUR-EXC-JAR-SCSO-3.5-MD",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 84.0,
+      "unit": "Grams",
+      "strainName": "SCSO",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 32.83,
+        "totalCBD": 0.09,
+        "CBC": 0.0,
+        "CBDA": 0.1,
+        "CBDV": 0.0,
+        "CBG": 0.32,
+        "CBGA": 0.56,
+        "CBN": 0.0,
+        "THCA": 36.96,
+        "THCV": 0.25
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 1.43,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.35,
+        "beta-pinene": 0.09,
+        "limonene": 0.6,
+        "linalool": 0.13
+      },
+      "totalTerps": 2.88,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9049208,
+          "label": "1A40303000000CD000081568",
+          "quantity": 84.0,
+          "packagedDate": "2026-09-24",
           "expirationDate": null
         }
       ]
@@ -42749,7 +42900,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 21.0,
       "unit": "Each",
@@ -43509,7 +43660,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 5.0,
       "unit": "Each",
@@ -50210,7 +50361,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 20.0,
       "unit": "Each",
@@ -50761,7 +50912,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 12.0,
       "unit": "Each",
@@ -54811,7 +54962,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 26.0,
       "unit": "Each",
@@ -55246,7 +55397,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 12.0,
       "unit": "Each",
@@ -56246,7 +56397,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 8.0,
       "unit": "Each",
@@ -56998,7 +57149,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 5.0,
       "unit": "Each",
