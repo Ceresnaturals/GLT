@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:40:03.527662+00:00",
+  "generated_at": "2026-09-29T14:50:03.957649+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -13513,44 +13513,45 @@
       ]
     },
     {
-      "id": 8926321,
-      "packageCount": 1,
+      "id": 9047758,
+      "packageCount": 2,
       "name": "Curio Wellness Black Cherry Vanilla 40mg Chews-40mg-10",
       "brand": "Curio Wellness",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 1.046,
-        "CBC": 0.009,
+        "totalTHC": 1.1,
+        "CBC": 0.017,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.058,
+        "CBG": 0.044,
         "CBGA": 0.0,
-        "CBN": 0.054,
+        "CBN": 0.058,
         "THCA": 0.0,
-        "THCV": 0.005
+        "THCV": 0.007
       },
       "dose": {
         "servingSize": "1 piece",
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "CBC": 0.36,
+          "CBC": 0.68,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 2.32,
+          "CBG": 1.76,
           "CBGA": 0.0,
-          "CBN": 2.16,
+          "CBN": 2.32,
           "THCA": 0.0,
-          "THCV": 0.2
+          "THCV": 0.28
         },
         "minorsEstimated": true
       },
@@ -13558,6 +13559,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9047758,
+          "label": "1A403030000012D000267867",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": null
+        },
         {
           "id": 8926321,
           "label": "1A403030000012D000262974",
@@ -13916,44 +13924,45 @@
       ]
     },
     {
-      "id": 8707383,
-      "packageCount": 1,
+      "id": 9047760,
+      "packageCount": 2,
       "name": "Curio Wellness Elderberry Hibiscus 40mg Chews-40mg-10",
       "brand": "Curio Wellness",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.931,
-        "CBC": 0.007,
+        "totalTHC": 0.963,
+        "CBC": 0.009,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.034,
+        "CBG": 0.036,
         "CBGA": 0.0,
-        "CBN": 0.015,
+        "CBN": 0.029,
         "THCA": 0.0,
-        "THCV": 0.0
+        "THCV": 0.005
       },
       "dose": {
         "servingSize": "1 piece",
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "CBC": 0.28,
+          "CBC": 0.36,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 1.36,
+          "CBG": 1.44,
           "CBGA": 0.0,
-          "CBN": 0.6,
+          "CBN": 1.16,
           "THCA": 0.0,
-          "THCV": 0.0
+          "THCV": 0.2
         },
         "minorsEstimated": true
       },
@@ -13961,6 +13970,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9047760,
+          "label": "1A403030000012D000267869",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": null
+        },
         {
           "id": 8707383,
           "label": "1A403030000012D000254651",
@@ -13971,28 +13987,29 @@
       ]
     },
     {
-      "id": 8926295,
-      "packageCount": 1,
+      "id": 9047763,
+      "packageCount": 2,
       "name": "Curio Wellness Juicy Watermelon 10mg Chews-10mg-10",
       "brand": "Curio Wellness",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.252,
-        "CBC": 0.004,
+        "totalTHC": 0.25,
+        "CBC": 0.002,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.012,
+        "CBG": 0.008,
         "CBGA": 0.0,
-        "CBN": 0.011,
+        "CBN": 0.009,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -14001,12 +14018,12 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "CBC": 0.16,
+          "CBC": 0.08,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.48,
+          "CBG": 0.32,
           "CBGA": 0.0,
-          "CBN": 0.44,
+          "CBN": 0.36,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -14016,6 +14033,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9047763,
+          "label": "1A403030000012D000267872",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": null
+        },
         {
           "id": 8926295,
           "label": "1A403030000012D000262975",
@@ -14136,44 +14160,45 @@
       ]
     },
     {
-      "id": 8828990,
-      "packageCount": 1,
+      "id": 9047759,
+      "packageCount": 2,
       "name": "Curio Wellness Mango Ginger 40mg Chews-40mg-10",
       "brand": "Curio Wellness",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 1.011,
-        "CBC": 0.006,
+        "totalTHC": 0.923,
+        "CBC": 0.01,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.05,
+        "CBG": 0.036,
         "CBGA": 0.0,
-        "CBN": 0.031,
+        "CBN": 0.03,
         "THCA": 0.0,
-        "THCV": 0.003
+        "THCV": 0.007
       },
       "dose": {
         "servingSize": "1 piece",
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "CBC": 0.24,
+          "CBC": 0.4,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 2.0,
+          "CBG": 1.44,
           "CBGA": 0.0,
-          "CBN": 1.24,
+          "CBN": 1.2,
           "THCA": 0.0,
-          "THCV": 0.12
+          "THCV": 0.28
         },
         "minorsEstimated": true
       },
@@ -14181,6 +14206,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9047759,
+          "label": "1A403030000012D000267868",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": null
+        },
         {
           "id": 8828990,
           "label": "1A403030000012D000259354",
@@ -30785,7 +30817,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 168.0,
+      "quantity": 164.5,
       "unit": "Grams",
       "strainName": "137 PURPLE KOALA",
       "strainType": null,
@@ -30821,7 +30853,7 @@
         {
           "id": 9029661,
           "label": "1A40303000039D1000085133",
-          "quantity": 168.0,
+          "quantity": 164.5,
           "packagedDate": "2026-09-22",
           "expirationDate": null
         }
