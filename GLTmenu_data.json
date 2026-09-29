@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T17:10:03.048471+00:00",
+  "generated_at": "2026-09-29T17:20:03.323923+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -5584,7 +5584,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -5635,7 +5635,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -6899,7 +6899,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 7.0,
       "unit": "Each",
@@ -9348,7 +9348,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Swift Lifts",
       "strainType": null,
@@ -9380,7 +9380,7 @@
         {
           "id": 8704640,
           "label": "1A40303000017D5000099621",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-05-14",
           "expirationDate": "2027-05-14"
         }
@@ -18697,15 +18697,16 @@
     },
     {
       "id": 8870792,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Encore Milk Chocolate - Sativa RSO - 10mg - 10pc*",
       "brand": null,
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -18747,6 +18748,13 @@
           "quantity": 1.0,
           "packagedDate": "2026-06-22",
           "expirationDate": "2027-06-22"
+        },
+        {
+          "id": 9053089,
+          "label": "1A40303000017D5000107890",
+          "quantity": 12.0,
+          "packagedDate": "2026-08-25",
+          "expirationDate": "2027-08-25"
         }
       ]
     },
@@ -19208,7 +19216,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19247,7 +19255,7 @@
         {
           "id": 8490547,
           "label": "1A4030300002009000102655",
-          "quantity": 7.0,
+          "quantity": 5.0,
           "packagedDate": "2026-05-21",
           "expirationDate": "2027-03-11"
         }
@@ -30173,7 +30181,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 140.0,
+      "quantity": 133.0,
       "unit": "Grams",
       "strainName": "Mixed Strains",
       "strainType": null,
@@ -30207,7 +30215,7 @@
         {
           "id": 8939206,
           "label": "1A4030300003521000056678",
-          "quantity": 140.0,
+          "quantity": 133.0,
           "packagedDate": "2026-09-01",
           "expirationDate": null
         }
@@ -31349,7 +31357,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 17.5,
       "unit": "Grams",
       "strainName": "Blueberry Muffins",
       "strainType": null,
@@ -31385,7 +31393,7 @@
         {
           "id": 8954212,
           "label": "1A4030300003A3C000090437",
-          "quantity": 20.0,
+          "quantity": 17.5,
           "packagedDate": "2026-08-14",
           "expirationDate": "2027-08-14"
         }
@@ -31401,7 +31409,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 27.5,
+      "quantity": 22.5,
       "unit": "Grams",
       "strainName": "Casey Jones",
       "strainType": null,
@@ -31434,7 +31442,7 @@
         {
           "id": 9020134,
           "label": "1A4030300003A3C000091321",
-          "quantity": 27.5,
+          "quantity": 22.5,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-08-19"
         }
@@ -33119,7 +33127,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 22.75,
       "unit": "Grams",
       "strainName": "Brownie Scout",
       "strainType": null,
@@ -33153,7 +33161,7 @@
         {
           "id": 8639444,
           "label": "1A40303000003EA000184244",
-          "quantity": 24.5,
+          "quantity": 22.75,
           "packagedDate": "2026-06-24",
           "expirationDate": "2027-05-07"
         }
@@ -44150,7 +44158,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Classic Surf",
       "strainType": "Sativa",
@@ -44182,7 +44190,7 @@
         {
           "id": 8996972,
           "label": "1A4030300000579000049844",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-18",
           "expirationDate": null
         }
