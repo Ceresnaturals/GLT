@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T19:00:03.290128+00:00",
+  "generated_at": "2026-09-30T19:10:05.601838+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -249,6 +249,63 @@
           "quantity": 7.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-06-10"
+        }
+      ]
+    },
+    {
+      "id": 9066547,
+      "packageCount": 1,
+      "name": "NH RSO V1-50mg-20",
+      "brand": "NH",
+      "category": "Capsule",
+      "metrcCategory": "Infused Edible (Capsule Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 9.21,
+        "totalCBD": 0.03,
+        "CBC": 0.11,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.4,
+        "CBGA": 0.0,
+        "CBN": 0.09,
+        "THCA": 0.0,
+        "THCV": 0.05
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 1000.0,
+        "thcMgPerServing": 50.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.15,
+          "CBC": 0.55,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 2.0,
+          "CBGA": 0.0,
+          "CBN": 0.45,
+          "THCA": 0.0,
+          "THCV": 0.25
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9066547,
+          "label": "1A4030300003522000215113",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-29",
+          "expirationDate": "2027-08-26"
         }
       ]
     },
@@ -2578,7 +2635,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Fried Ice Cream",
       "strainType": null,
@@ -2616,7 +2673,7 @@
         {
           "id": 8634224,
           "label": "1A4030300004845000028659",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-06-15",
           "expirationDate": null
         }
@@ -6653,6 +6710,56 @@
       ]
     },
     {
+      "id": 9066548,
+      "packageCount": 1,
+      "name": "NH Larry Bird Mints Live Budder-1g",
+      "brand": "NH",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Larry Bird Mints",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 75.86,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 3.83,
+        "CBN": 0.0,
+        "THCA": 85.23,
+        "THCV": 0.34
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.8,
+        "myrcene": 0.31,
+        "alpha-pinene": 0.25,
+        "caryophyllene": 3.2,
+        "beta-pinene": 0.24,
+        "ocimene": 0.1,
+        "limonene": 1.79,
+        "linalool": 0.62,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 8.08,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9066548,
+          "label": "1A4030300003522000215114",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-29",
+          "expirationDate": "2027-03-31"
+        }
+      ]
+    },
+    {
       "id": 8766859,
       "packageCount": 1,
       "name": "NH Larry Bird Mints Live Sugar-1g",
@@ -6851,6 +6958,56 @@
       ]
     },
     {
+      "id": 9066550,
+      "packageCount": 1,
+      "name": "NH Lilac Diesel Kief-1g",
+      "brand": "NH",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Lilac Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 41.53,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.39,
+        "CBGA": 4.76,
+        "CBN": 0.0,
+        "THCA": 43.13,
+        "THCV": 0.32
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.09,
+        "myrcene": 0.11,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.34,
+        "beta-pinene": 0.05,
+        "ocimene": 0.22,
+        "limonene": 0.07,
+        "terpinolene": 0.21
+      },
+      "totalTerps": 1.35,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9066550,
+          "label": "1A4030300003522000215116",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-29",
+          "expirationDate": "2027-09-15"
+        }
+      ]
+    },
+    {
       "id": 8996316,
       "packageCount": 1,
       "name": "NH Lilac Diesel RSO-1ml",
@@ -6895,6 +7052,54 @@
           "quantity": 9.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-30"
+        }
+      ]
+    },
+    {
+      "id": 9066642,
+      "packageCount": 1,
+      "name": "NH ONYCD 3.0 Bubble Hash-1g",
+      "brand": "NH",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "ONYCD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 63.37,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 5.64,
+        "CBN": 0.0,
+        "THCA": 66.06,
+        "THCV": 0.5
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.21,
+        "humulene": 0.56,
+        "myrcene": 0.54,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 2.18,
+        "beta-pinene": 0.16,
+        "limonene": 0.67
+      },
+      "totalTerps": 4.74,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9066642,
+          "label": "1A4030300003522000215115",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-29",
+          "expirationDate": "2027-07-05"
         }
       ]
     },
@@ -7429,6 +7634,52 @@
       ]
     },
     {
+      "id": 9066551,
+      "packageCount": 1,
+      "name": "NH-RSO Syringe-2:4:1 THC:CBD:CBN 1ml",
+      "brand": "NH",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Syringe",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.8,
+        "totalCBD": 51.79,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.04,
+        "CBGA": 0.0,
+        "CBN": 12.72,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.13,
+        "humulene": 0.14,
+        "caryophyllene": 0.38,
+        "linalool": 0.15
+      },
+      "totalTerps": 0.97,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9066551,
+          "label": "1A4030300003522000215117",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-29",
+          "expirationDate": "2027-09-22"
+        }
+      ]
+    },
+    {
       "id": 8515650,
       "packageCount": 1,
       "name": "Panama Chem Live Resin Batter 1.0g/1000mg",
@@ -7646,7 +7897,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Pomme Jelly",
       "strainType": null,
@@ -7674,7 +7925,7 @@
         {
           "id": 8180718,
           "label": "1A4030300000193000086934",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-03-11",
           "expirationDate": "2027-01-12"
         }
@@ -9746,56 +9997,6 @@
           "quantity": 2.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-25"
-        }
-      ]
-    },
-    {
-      "id": 8910396,
-      "packageCount": 1,
-      "name": "Z Mints Live Rosin Cold Cure 1.0g",
-      "brand": null,
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Z Mints",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 73.48,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 3.7,
-        "CBN": 0.0,
-        "THCA": 83.79,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.29,
-        "humulene": 0.54,
-        "myrcene": 0.98,
-        "alpha-pinene": 0.23,
-        "caryophyllene": 1.44,
-        "beta-pinene": 0.34,
-        "limonene": 3.06,
-        "linalool": 0.76,
-        "terpinolene": 0.05
-      },
-      "totalTerps": 8.43,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8910396,
-          "label": "1A4030300000C83000086192",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-25",
-          "expirationDate": "2027-08-18"
         }
       ]
     },
@@ -16479,7 +16680,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -16525,7 +16726,7 @@
         {
           "id": 8828992,
           "label": "1A403030000012D000259360",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -17171,7 +17372,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -17210,7 +17411,7 @@
         {
           "id": 9047753,
           "label": "1A403030000012D000267862",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-09-24",
           "expirationDate": null
         }
@@ -17527,7 +17728,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17568,7 +17769,7 @@
         {
           "id": 8966411,
           "label": "1A403030000012E000192654",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-04-09"
         }
@@ -28027,7 +28228,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 73.5,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "Gogurtz",
       "strainType": "Hybrid",
@@ -28059,7 +28260,7 @@
         {
           "id": 9039056,
           "label": "1A40303000003EA000258981",
-          "quantity": 73.5,
+          "quantity": 70.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-21"
         }
@@ -30950,7 +31151,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 84.0,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "Honey Dew",
       "strainType": null,
@@ -30983,7 +31184,7 @@
         {
           "id": 9020085,
           "label": "1A4030300003A3C000091319",
-          "quantity": 84.0,
+          "quantity": 70.0,
           "packagedDate": "2026-09-10",
           "expirationDate": "2027-09-10"
         }
@@ -37994,6 +38195,57 @@
           "quantity": 3.0,
           "packagedDate": "2026-05-27",
           "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9066063,
+      "packageCount": 1,
+      "name": "NH Orange Chemeleon Preroll-Usable-.5g 2pk",
+      "brand": "NH",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Grams",
+      "strainName": "Orange Chemeleon",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 21.87,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.54,
+        "CBN": 0.0,
+        "THCA": 23.87,
+        "THCV": 0.3
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.07,
+        "myrcene": 0.26,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.27,
+        "eudesmol": 0.13,
+        "beta-pinene": 0.03,
+        "limonene": 0.33,
+        "linalool": 0.16,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 1.61,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9066063,
+          "label": "1A4030300003521000058697",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-29",
+          "expirationDate": "2027-07-18"
         }
       ]
     },
@@ -49368,6 +49620,58 @@
       ]
     },
     {
+      "id": 9066097,
+      "packageCount": 1,
+      "name": "In House Baja Blastoff-.5g",
+      "brand": "In House",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Baja Blastoff",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 80.65,
+        "CBC": 0.73,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.44,
+        "CBGA": 0.0,
+        "CBN": 0.51,
+        "THCA": 0.0,
+        "THCV": 0.52
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.13,
+        "humulene": 0.18,
+        "myrcene": 1.58,
+        "alpha-pinene": 1.67,
+        "caryophyllene": 0.55,
+        "beta-pinene": 0.64,
+        "ocimene": 0.32,
+        "limonene": 1.14,
+        "linalool": 0.29,
+        "terpinolene": 0.14,
+        "nerolidol": 0.2
+      },
+      "totalTerps": 7.62,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9066097,
+          "label": "1A4030300003522000215097",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-29",
+          "expirationDate": "2027-08-14"
+        }
+      ]
+    },
+    {
       "id": 8939224,
       "packageCount": 1,
       "name": "In House Blue Raspberry 2:1:1 Disposable-.5g",
@@ -54005,6 +54309,56 @@
       ]
     },
     {
+      "id": 9066604,
+      "packageCount": 1,
+      "name": "NH Cheese Live Resin-1g",
+      "brand": "NH",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Cheese",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 77.35,
+        "CBC": 0.57,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.71,
+        "CBGA": 0.55,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.2,
+        "humulene": 0.74,
+        "myrcene": 1.56,
+        "alpha-pinene": 0.64,
+        "caryophyllene": 2.27,
+        "beta-pinene": 0.07,
+        "limonene": 3.2,
+        "linalool": 0.67,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 10.45,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9066604,
+          "label": "1A4030300003522000215099",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-29",
+          "expirationDate": "2027-07-10"
+        }
+      ]
+    },
+    {
       "id": 8040161,
       "packageCount": 1,
       "name": "NH Double Krush Live Resin Disp-.5g",
@@ -54245,6 +54599,57 @@
           "quantity": 21.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-04-21"
+        }
+      ]
+    },
+    {
+      "id": 9066504,
+      "packageCount": 1,
+      "name": "NH Lemon Margy Live Resin-.5g",
+      "brand": "NH",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Lemon Margy",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.12,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.46,
+        "CBGA": 2.29,
+        "CBN": 0.0,
+        "THCA": 8.13,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.17,
+        "humulene": 0.2,
+        "myrcene": 0.83,
+        "alpha-pinene": 0.8,
+        "caryophyllene": 0.43,
+        "beta-pinene": 0.07,
+        "ocimene": 1.01,
+        "limonene": 1.21,
+        "linalool": 0.22,
+        "terpinolene": 5.66
+      },
+      "totalTerps": 11.87,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9066504,
+          "label": "1A4030300003522000215098",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-29",
+          "expirationDate": "2027-06-02"
         }
       ]
     },
