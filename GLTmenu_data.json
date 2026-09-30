@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T21:40:02.487137+00:00",
+  "generated_at": "2026-09-30T21:50:04.637796+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1929,7 +1929,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Blue Beach Haze",
       "strainType": null,
@@ -1963,7 +1963,7 @@
         {
           "id": 8755242,
           "label": "ABC0303000037DD000024742",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-04-06"
         }
@@ -3407,7 +3407,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Hazy Cake",
       "strainType": null,
@@ -3443,7 +3443,7 @@
         {
           "id": 8919304,
           "label": "1A40303000001F5000423345",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-06-22"
         }
@@ -5106,7 +5106,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "MD EXT MDFLWD 35CB",
       "strainType": null,
@@ -5139,7 +5139,7 @@
         {
           "id": 8872248,
           "label": "1A40303000007D1000093663",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-17",
           "expirationDate": null
         }
@@ -11951,7 +11951,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11990,7 +11990,7 @@
         {
           "id": 8996199,
           "label": "1A4030300003522000211314",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-09-03"
         }
@@ -12006,7 +12006,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12045,7 +12045,7 @@
         {
           "id": 8882315,
           "label": "1A4030300003522000202257",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-05"
         }
@@ -12615,15 +12615,16 @@
     },
     {
       "id": 8996195,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Betty's Eddies Tropical Smoothie Fruit Chews-10mg-10",
       "brand": "Betty's Eddies",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12666,6 +12667,13 @@
           "label": "1A4030300003522000211310",
           "quantity": 2.0,
           "packagedDate": "2026-09-15",
+          "expirationDate": "2027-08-19"
+        },
+        {
+          "id": 9066537,
+          "label": "1A4030300003522000215106",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-29",
           "expirationDate": "2027-08-19"
         }
       ]
@@ -12999,6 +13007,63 @@
           "quantity": 4.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-01-18"
+        }
+      ]
+    },
+    {
+      "id": 9066546,
+      "packageCount": 1,
+      "name": "Bubby's Baked Chocolate Chip Bites V4-10mg-10",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.12,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9066546,
+          "label": "1A4030300003522000215112",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-29",
+          "expirationDate": "2027-03-04"
         }
       ]
     },
@@ -19942,6 +20007,63 @@
       ]
     },
     {
+      "id": 9066630,
+      "packageCount": 1,
+      "name": "In House Blueberry Dream Fast Acting V3 Gummies-10mg-10",
+      "brand": "In House",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.2,
+        "totalCBD": 0.27,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.11,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 13.5,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 5.5,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9066630,
+          "label": "1A4030300003522000215108",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-29",
+          "expirationDate": "2027-09-04"
+        }
+      ]
+    },
+    {
       "id": 8828679,
       "packageCount": 1,
       "name": "In House Cherry Lemonade Fast Acting V2 Gummies-40mg-10",
@@ -19995,6 +20117,63 @@
           "quantity": 10.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-07"
+        }
+      ]
+    },
+    {
+      "id": 9066540,
+      "packageCount": 1,
+      "name": "In House Cherry Lemonade Fast Acting V3 Gummies-10mg-10",
+      "brand": "In House",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.22,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9066540,
+          "label": "1A4030300003522000215109",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-29",
+          "expirationDate": "2027-08-28"
         }
       ]
     },
@@ -20109,6 +20288,63 @@
           "quantity": 8.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-15"
+        }
+      ]
+    },
+    {
+      "id": 9066544,
+      "packageCount": 1,
+      "name": "In House Sour Apple Gummies-10mg-10",
+      "brand": "In House",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.22,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9066544,
+          "label": "1A4030300003522000215111",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-29",
+          "expirationDate": "2027-09-15"
         }
       ]
     },
@@ -30115,7 +30351,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 94.5,
+      "quantity": 91.0,
       "unit": "Grams",
       "strainName": "127 MEMBER BERRY",
       "strainType": null,
@@ -30150,7 +30386,7 @@
         {
           "id": 8751006,
           "label": "1A40303000039D1000084241",
-          "quantity": 94.5,
+          "quantity": 91.0,
           "packagedDate": "2026-07-21",
           "expirationDate": null
         }
@@ -30793,55 +31029,6 @@
           "quantity": 84.0,
           "packagedDate": "2026-09-15",
           "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8774602,
-      "packageCount": 1,
-      "name": "Savvy Flower - Alien Breath - Usable - 3.5g",
-      "brand": "Savvy",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "Alien Breath",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 25.99,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.15,
-        "CBGA": 1.06,
-        "CBN": 0.0,
-        "THCA": 29.06,
-        "THCV": 0.08
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.1,
-        "humulene": 0.09,
-        "myrcene": 0.27,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.34,
-        "beta-pinene": 0.06,
-        "limonene": 0.45,
-        "linalool": 0.31
-      },
-      "totalTerps": 1.81,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8774602,
-          "label": "1A4030300003A3C000087020",
-          "quantity": 3.5,
-          "packagedDate": "2026-07-09",
-          "expirationDate": "2027-07-09"
         }
       ]
     },
