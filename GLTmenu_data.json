@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:00:02.944650+00:00",
+  "generated_at": "2026-09-30T18:10:02.995460+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10861,7 +10861,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10902,7 +10902,7 @@
         {
           "id": 9039628,
           "label": "1A40303000001F5000450421",
-          "quantity": 10.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-23",
           "expirationDate": null
         }
@@ -58976,7 +58976,7 @@
     },
     {
       "id": 8755239,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Tinselmints FSE - BOMA Vape Cart (Color: MD Flag) - 0.5g",
       "brand": null,
       "category": "Vape",
@@ -58984,7 +58984,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Tinselmints FSE",
       "strainType": null,
@@ -59021,6 +59021,13 @@
           "quantity": 16.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2026-11-02"
+        },
+        {
+          "id": 8563610,
+          "label": "ABC0303000037DD000023758",
+          "quantity": 1.0,
+          "packagedDate": "2026-06-08",
+          "expirationDate": "2026-10-28"
         }
       ]
     },
