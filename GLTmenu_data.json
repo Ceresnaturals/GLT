@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T14:30:03.198588+00:00",
+  "generated_at": "2026-09-30T14:40:03.521617+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1734,7 +1734,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 6.0,
       "unit": "Each",
@@ -56647,7 +56647,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Granddaddy Purp",
       "strainType": null,
@@ -56683,7 +56683,7 @@
         {
           "id": 9040747,
           "label": "1A4030300000C83000088736",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-11"
         }
@@ -56994,59 +56994,6 @@
           "quantity": 10.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-07-28"
-        }
-      ]
-    },
-    {
-      "id": 9013221,
-      "packageCount": 1,
-      "name": "Rove | Live Resin Diamonds Vape Reload | Watermelon Burst - I | 1.0g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Watermelon Burst",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 90.7,
-        "totalCBD": 0.242,
-        "CBC": 0.385,
-        "CBDA": 0.018,
-        "CBDV": 0.0,
-        "CBG": 3.4,
-        "CBGA": 0.0,
-        "CBN": 0.448,
-        "THCA": 0.057,
-        "THCV": 0.76
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.107,
-        "humulene": 0.0778,
-        "myrcene": 0.0613,
-        "alpha-pinene": 0.0377,
-        "caryophyllene": 0.1,
-        "beta-pinene": 0.041,
-        "caryophyllene-oxide": 0.0699,
-        "limonene": 0.306,
-        "linalool": 0.0423,
-        "terpinolene": 0.0334,
-        "nerolidol": 0.047
-      },
-      "totalTerps": 1.33,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 9013221,
-          "label": "1A4030300000C83000088164",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-17",
-          "expirationDate": "2027-08-11"
         }
       ]
     },
