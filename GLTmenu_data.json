@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:10:03.286066+00:00",
+  "generated_at": "2026-09-30T22:20:02.884220+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1465,7 +1465,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Lilac Diesel",
       "strainType": null,
@@ -1492,7 +1492,7 @@
         {
           "id": 8992319,
           "label": "1A403030000283D000061331",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-14",
           "expirationDate": null
         }
@@ -1793,7 +1793,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Blueberry Guava",
       "strainType": null,
@@ -1819,7 +1819,7 @@
         {
           "id": 8992263,
           "label": "1A403030000283D000061328",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-14",
           "expirationDate": null
         }
@@ -17512,16 +17512,15 @@
     },
     {
       "id": 8755736,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Do Drop 2:1 CBD:THC Melon Gummies-5 mg-10",
       "brand": null,
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17565,13 +17564,6 @@
           "quantity": 12.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-03-12"
-        },
-        {
-          "id": 8516272,
-          "label": "1A403030000012E000162105",
-          "quantity": 1.0,
-          "packagedDate": "2026-05-27",
-          "expirationDate": "2026-11-09"
         }
       ]
     },
@@ -21852,7 +21844,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21893,7 +21885,7 @@
         {
           "id": 9039055,
           "label": "1A40303000003EA000258980",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-09-03"
         }
@@ -32659,7 +32651,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.25,
       "unit": "Grams",
       "strainName": "Animal Face",
       "strainType": null,
@@ -32692,7 +32684,7 @@
         {
           "id": 8369450,
           "label": "1A40303000003EA000168465",
-          "quantity": 3.0,
+          "quantity": 2.25,
           "packagedDate": "2026-04-23",
           "expirationDate": "2027-03-05"
         }
@@ -33400,7 +33392,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.75,
+      "quantity": 14.25,
       "unit": "Grams",
       "strainName": "Cherry Maui Wowie",
       "strainType": null,
@@ -33435,7 +33427,7 @@
         {
           "id": 9039058,
           "label": "1A40303000003EA000258984",
-          "quantity": 15.75,
+          "quantity": 14.25,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-04-09"
         }
@@ -33930,59 +33922,6 @@
           "label": "1A403030000012D000257806",
           "quantity": 12.0,
           "packagedDate": "2026-07-28",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8926323,
-      "packageCount": 1,
-      "name": "Curio Wellness Thrive Infused Pre-rolls-2x0.5g",
-      "brand": "Curio Wellness",
-      "category": "Pre-Roll",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Thrive",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 36.01,
-        "CBC": 0.38,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.82,
-        "CBGA": 0.45,
-        "CBN": 0.41,
-        "THCA": 14.96,
-        "THCV": 0.08
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.08,
-        "humulene": 0.15,
-        "myrcene": 0.24,
-        "alpha-pinene": 0.31,
-        "caryophyllene": 0.86,
-        "beta-pinene": 0.16,
-        "caryophyllene-oxide": 0.08,
-        "ocimene": 0.03,
-        "limonene": 0.94,
-        "linalool": 0.21,
-        "terpinolene": 0.09,
-        "nerolidol": 0.27
-      },
-      "totalTerps": 3.82,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8926323,
-          "label": "1A403030000012D000262978",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-27",
           "expirationDate": null
         }
       ]
@@ -35587,7 +35526,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 10.0,
       "unit": "Grams",
       "strainName": "Juicee J",
       "strainType": null,
@@ -35624,7 +35563,7 @@
         {
           "id": 9044919,
           "label": "1A403030000012E000196217",
-          "quantity": 12.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-07-29"
         }
@@ -36875,7 +36814,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 48.0,
+      "quantity": 47.0,
       "unit": "Each",
       "strainName": "Berry Fritterz",
       "strainType": null,
@@ -36904,7 +36843,7 @@
         {
           "id": 9030313,
           "label": "1A4030300003201000001689",
-          "quantity": 48.0,
+          "quantity": 47.0,
           "packagedDate": "2026-09-22",
           "expirationDate": null
         }
@@ -36920,7 +36859,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.0,
+      "quantity": 42.0,
       "unit": "Each",
       "strainName": "Drag Queen",
       "strainType": null,
@@ -36950,7 +36889,7 @@
         {
           "id": 9030314,
           "label": "1A4030300003201000001690",
-          "quantity": 45.0,
+          "quantity": 42.0,
           "packagedDate": "2026-09-22",
           "expirationDate": null
         }
