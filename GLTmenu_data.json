@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T21:30:02.606134+00:00",
+  "generated_at": "2026-09-30T21:40:02.487137+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9305,7 +9305,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Super Gremlin Preground",
       "strainType": null,
@@ -9340,7 +9340,7 @@
         {
           "id": 8966424,
           "label": "1A403030000012E000192652",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-07-20"
         }
@@ -12383,15 +12383,16 @@
     },
     {
       "id": 8828677,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Betty's Eddies Pumpkin Spice Latte Fruit Chews-40mg-10",
       "brand": "Betty's Eddies",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12433,6 +12434,13 @@
           "quantity": 4.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-30"
+        },
+        {
+          "id": 9066608,
+          "label": "1A4030300003522000215101",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-29",
+          "expirationDate": "2027-09-09"
         }
       ]
     },
@@ -19829,7 +19837,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19870,7 +19878,7 @@
         {
           "id": 8939228,
           "label": "1A4030300003522000210567",
-          "quantity": 11.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-19"
         }
@@ -28518,7 +28526,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 410.5,
+      "quantity": 407.0,
       "unit": "Grams",
       "strainName": "Jack Herer",
       "strainType": null,
@@ -28551,7 +28559,7 @@
         {
           "id": 8241348,
           "label": "1A40303000000C9000142462",
-          "quantity": 410.5,
+          "quantity": 407.0,
           "packagedDate": "2026-03-25",
           "expirationDate": "2026-12-01"
         }
@@ -29269,7 +29277,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 136.5,
+      "quantity": 133.0,
       "unit": "Grams",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -29303,7 +29311,7 @@
         {
           "id": 9041122,
           "label": "1A40303000000CB000053175",
-          "quantity": 136.5,
+          "quantity": 133.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-09-05"
         }
@@ -30649,7 +30657,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 108.5,
+      "quantity": 105.0,
       "unit": "Grams",
       "strainName": "137 PURPLE KOALA",
       "strainType": null,
@@ -30685,7 +30693,7 @@
         {
           "id": 9029661,
           "label": "1A40303000039D1000085133",
-          "quantity": 108.5,
+          "quantity": 105.0,
           "packagedDate": "2026-09-22",
           "expirationDate": null
         }
@@ -30847,7 +30855,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.5,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Banana Muffins",
       "strainType": null,
@@ -30879,7 +30887,7 @@
         {
           "id": 8894214,
           "label": "1A4030300003A3C000089890",
-          "quantity": 10.5,
+          "quantity": 7.0,
           "packagedDate": "2026-07-17",
           "expirationDate": "2027-07-17"
         }
@@ -38690,7 +38698,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Duster",
       "strainType": null,
@@ -38723,7 +38731,7 @@
         {
           "id": 9039280,
           "label": "1A40303000001F5000450411",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-11"
         }
@@ -39685,7 +39693,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 271.8,
+      "quantity": 264.8,
       "unit": "Grams",
       "strainName": "Permanent Marker",
       "strainType": null,
@@ -39718,7 +39726,7 @@
         {
           "id": 8919307,
           "label": "1A40303000001F5000423348",
-          "quantity": 271.8,
+          "quantity": 264.8,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -39781,7 +39789,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 402.64,
+      "quantity": 392.14,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -39814,7 +39822,7 @@
         {
           "id": 8947159,
           "label": "1A40303000001F5000425620",
-          "quantity": 402.64,
+          "quantity": 392.14,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -39830,7 +39838,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 405.94,
+      "quantity": 391.94,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -39863,7 +39871,7 @@
         {
           "id": 8947235,
           "label": "1A40303000001F5000425622",
-          "quantity": 402.84,
+          "quantity": 388.84,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         },
