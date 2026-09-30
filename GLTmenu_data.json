@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T01:50:03.178930+00:00",
+  "generated_at": "2026-09-30T10:00:30.543429+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -18635,7 +18635,7 @@
       ]
     },
     {
-      "id": 8870792,
+      "id": 9053089,
       "packageCount": 2,
       "name": "Encore Milk Chocolate - Sativa RSO - 10mg - 10pc*",
       "brand": null,
@@ -18651,13 +18651,13 @@
       "strainType": "Sativa",
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.188,
+        "totalTHC": 0.185,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.005,
+        "CBG": 0.011,
         "CBGA": 0.0,
-        "CBN": 0.001,
+        "CBN": 0.002,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -18669,9 +18669,9 @@
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.28,
+          "CBG": 0.616,
           "CBGA": 0.0,
-          "CBN": 0.056,
+          "CBN": 0.112,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -18682,18 +18682,18 @@
       "dominantTerpene": null,
       "packages": [
         {
-          "id": 8870792,
-          "label": "1A40303000017D5000103609",
-          "quantity": 1.0,
-          "packagedDate": "2026-06-22",
-          "expirationDate": "2027-06-22"
-        },
-        {
           "id": 9053089,
           "label": "1A40303000017D5000107890",
           "quantity": 12.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-25"
+        },
+        {
+          "id": 8870792,
+          "label": "1A40303000017D5000103609",
+          "quantity": 1.0,
+          "packagedDate": "2026-06-22",
+          "expirationDate": "2027-06-22"
         }
       ]
     },
