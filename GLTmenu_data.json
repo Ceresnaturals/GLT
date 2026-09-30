@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T21:00:03.290034+00:00",
+  "generated_at": "2026-09-30T21:10:03.283548+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -5106,7 +5106,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "MD EXT MDFLWD 35CB",
       "strainType": null,
@@ -5139,7 +5139,7 @@
         {
           "id": 8872248,
           "label": "1A40303000007D1000093663",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-17",
           "expirationDate": null
         }
@@ -20568,15 +20568,16 @@
     },
     {
       "id": 8939354,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "In House Watermelon Fast Acting V3 Gummies-10mg-10",
       "brand": "In House",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20620,6 +20621,13 @@
           "quantity": 3.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-24"
+        },
+        {
+          "id": 9066542,
+          "label": "1A4030300003522000215110",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-29",
+          "expirationDate": "2027-09-02"
         }
       ]
     },
@@ -26464,7 +26472,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 298.96,
+      "quantity": 291.96,
       "unit": "Grams",
       "strainName": "Ice Cream Cake TC",
       "strainType": null,
@@ -26493,7 +26501,7 @@
         {
           "id": 7693455,
           "label": "1A40303000001F5000292354",
-          "quantity": 298.96,
+          "quantity": 291.96,
           "packagedDate": "2025-11-06",
           "expirationDate": null
         }
@@ -28510,7 +28518,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 414.0,
+      "quantity": 410.5,
       "unit": "Grams",
       "strainName": "Jack Herer",
       "strainType": null,
@@ -28543,7 +28551,7 @@
         {
           "id": 8241348,
           "label": "1A40303000000C9000142462",
-          "quantity": 414.0,
+          "quantity": 410.5,
           "packagedDate": "2026-03-25",
           "expirationDate": "2026-12-01"
         }
@@ -29211,7 +29219,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Grams",
       "strainName": "Tropical Fusion",
       "strainType": null,
@@ -29245,7 +29253,7 @@
         {
           "id": 8874097,
           "label": "1A4030300003A3C000089551",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-07-21"
         }
@@ -36179,7 +36187,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Grams",
       "strainName": "Filthy Animals",
       "strainType": null,
@@ -36212,7 +36220,7 @@
         {
           "id": 8270876,
           "label": "1A403030000025B000072032",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-02-11",
           "expirationDate": null
         }
@@ -44769,7 +44777,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Cherry Chem . Liquid and",
       "strainType": null,
@@ -44802,7 +44810,7 @@
         {
           "id": 8872243,
           "label": "1A40303000007D1000093658",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-08-17",
           "expirationDate": null
         }
@@ -48320,7 +48328,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Guava Kush",
       "strainType": null,
@@ -48356,7 +48364,7 @@
         {
           "id": 8890379,
           "label": "1A40303000001F5000420186",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-03-19"
         }
@@ -57753,7 +57761,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Blue Raz Haze",
       "strainType": null,
@@ -57787,7 +57795,7 @@
         {
           "id": 9018209,
           "label": "1A40303000017D5000107155",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-10",
           "expirationDate": "2027-09-10"
         }
