@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:10:02.906617+00:00",
+  "generated_at": "2026-09-30T13:20:03.578571+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -28417,6 +28417,55 @@
       ]
     },
     {
+      "id": 8241348,
+      "packageCount": 1,
+      "name": "Jack Herer Bulk 454g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 458.0,
+      "unit": "Grams",
+      "strainName": "Jack Herer",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.14,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.62,
+        "CBN": 0.0,
+        "THCA": 25.25,
+        "THCV": 0.07
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.24,
+        "myrcene": 0.14,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.77,
+        "beta-pinene": 0.04,
+        "limonene": 0.25,
+        "linalool": 0.22
+      },
+      "totalTerps": 1.75,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8241348,
+          "label": "1A40303000000C9000142462",
+          "quantity": 458.0,
+          "packagedDate": "2026-03-25",
+          "expirationDate": "2026-12-01"
+        }
+      ]
+    },
+    {
       "id": 9002412,
       "packageCount": 1,
       "name": "Just Flower Packaged Flower (Cherry Pie) - Usable - 4g",
@@ -39678,8 +39727,57 @@
       ]
     },
     {
-      "id": 8858500,
+      "id": 8947159,
       "packageCount": 1,
+      "name": "Shake/Trim - SDG OG",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 451.64,
+      "unit": "Grams",
+      "strainName": "SDG OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.38,
+        "totalCBD": 0.24,
+        "CBDA": 0.04,
+        "CBG": 0.63,
+        "CBN": 0.02,
+        "THCA": 30.64
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.3,
+        "myrcene": 0.46,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.76,
+        "beta-pinene": 0.05,
+        "ocimene": 0.01,
+        "limonene": 0.42,
+        "linalool": 0.15,
+        "terpinolene": 0.01,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.37,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8947159,
+          "label": "1A40303000001F5000425620",
+          "quantity": 451.64,
+          "packagedDate": "2026-09-02",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8947235,
+      "packageCount": 2,
       "name": "Shake/Trim - Sour Diesel",
       "brand": null,
       "category": "Shake/Trim",
@@ -39687,36 +39785,43 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.1,
+      "quantity": 454.94,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 25.29,
-        "totalCBD": 0.16,
-        "CBDA": 0.02,
-        "CBG": 0.68,
+        "totalTHC": 27.84,
+        "totalCBD": 0.25,
+        "CBDA": 0.04,
+        "CBG": 0.8,
         "CBN": 0.03,
-        "THCA": 28.2
+        "THCA": 31.12
       },
       "dose": null,
       "terpenes": {
-        "bisabolol": 0.04,
-        "humulene": 0.32,
-        "myrcene": 0.62,
+        "bisabolol": 0.05,
+        "humulene": 0.23,
+        "myrcene": 0.88,
         "alpha-pinene": 0.03,
-        "caryophyllene": 1.02,
+        "caryophyllene": 0.68,
         "eudesmol": 0.01,
         "beta-pinene": 0.05,
-        "limonene": 0.33,
-        "linalool": 0.03,
+        "limonene": 0.29,
+        "linalool": 0.04,
         "terpinolene": 0.01,
         "nerolidol": 0.01
       },
-      "totalTerps": 2.5,
-      "dominantTerpene": "caryophyllene",
+      "totalTerps": 2.36,
+      "dominantTerpene": "myrcene",
       "packages": [
+        {
+          "id": 8947235,
+          "label": "1A40303000001F5000425622",
+          "quantity": 451.84,
+          "packagedDate": "2026-09-02",
+          "expirationDate": null
+        },
         {
           "id": 8858500,
           "label": "1A40303000001F5000416989",
