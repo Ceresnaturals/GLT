@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T18:40:02.454689+00:00",
+  "generated_at": "2026-10-01T18:50:02.916362+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8544,9 +8544,9 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Durban Poison",
       "strainType": "Sativa",
@@ -8580,7 +8580,7 @@
         {
           "id": 9039057,
           "label": "1A40303000003EA000258982",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-11"
         }
@@ -27481,7 +27481,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 52.5,
+      "quantity": 49.0,
       "unit": "Grams",
       "strainName": "Mafia Funeral",
       "strainType": null,
@@ -27516,7 +27516,7 @@
         {
           "id": 9062268,
           "label": "1A4030300004845000045951",
-          "quantity": 52.5,
+          "quantity": 49.0,
           "packagedDate": "2026-09-10",
           "expirationDate": "2027-09-10"
         }
@@ -29185,7 +29185,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 24.5,
       "unit": "Grams",
       "strainName": "Landfill Haze #19",
       "strainType": null,
@@ -29221,7 +29221,7 @@
         {
           "id": 8966647,
           "label": "1A403030000012E000190901",
-          "quantity": 28.0,
+          "quantity": 24.5,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-04"
         }
@@ -31604,7 +31604,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 157.5,
+      "quantity": 150.5,
       "unit": "Grams",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -31637,7 +31637,7 @@
         {
           "id": 9027465,
           "label": "1A40303000040D9000006251",
-          "quantity": 157.5,
+          "quantity": 150.5,
           "packagedDate": "2026-09-21",
           "expirationDate": "2027-09-20"
         }
@@ -39101,7 +39101,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 17.5,
+      "quantity": 12.5,
       "unit": "Grams",
       "strainName": "Sunshine #4",
       "strainType": null,
@@ -39134,7 +39134,7 @@
         {
           "id": 8998448,
           "label": "1A40303000001F5000431276",
-          "quantity": 17.5,
+          "quantity": 12.5,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -40847,55 +40847,6 @@
       ]
     },
     {
-      "id": 8739604,
-      "packageCount": 1,
-      "name": "(the) Essence Disposable - Lemon Blueberry - 0.3g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Lemon Blueberry",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 83.76,
-        "CBC": 0.75,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.89,
-        "CBGA": 0.0,
-        "CBN": 0.31,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.19,
-        "myrcene": 0.29,
-        "alpha-pinene": 0.14,
-        "caryophyllene": 0.57,
-        "beta-pinene": 0.23,
-        "limonene": 0.92,
-        "linalool": 0.25,
-        "terpinolene": 1.01
-      },
-      "totalTerps": 3.82,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8739604,
-          "label": "1A40303000017D5000100458",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-01",
-          "expirationDate": "2027-07-01"
-        }
-      ]
-    },
-    {
       "id": 8683128,
       "packageCount": 1,
       "name": "(the) Essence Disposable - Orange Creamsicle - 0.3g",
@@ -40954,7 +40905,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -40989,7 +40940,7 @@
         {
           "id": 9018110,
           "label": "1A40303000017D5000107147",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-09-11",
           "expirationDate": "2027-09-11"
         }
@@ -42898,7 +42849,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Banana Munson",
       "strainType": null,
@@ -42934,7 +42885,7 @@
         {
           "id": 8947157,
           "label": "1A40303000001F5000425616",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-01"
         }
@@ -45180,56 +45131,6 @@
           "quantity": 1.0,
           "packagedDate": "2026-04-29",
           "expirationDate": "2027-02-15"
-        }
-      ]
-    },
-    {
-      "id": 8966538,
-      "packageCount": 1,
-      "name": "Clementine Distillate Cartridge Hellavated - 1.0 g",
-      "brand": "Hellavated",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 12.0,
-      "unit": "Each",
-      "strainName": "Clementine",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 84.69,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.69,
-        "CBGA": 0.0,
-        "CBN": 0.47,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.08,
-        "myrcene": 0.54,
-        "alpha-pinene": 0.18,
-        "caryophyllene": 0.91,
-        "beta-pinene": 0.12,
-        "ocimene": 0.1,
-        "limonene": 1.6,
-        "linalool": 0.27,
-        "nerolidol": 0.18
-      },
-      "totalTerps": 4.28,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8966538,
-          "label": "1A403030000012E000192146",
-          "quantity": 12.0,
-          "packagedDate": "2026-09-08",
-          "expirationDate": "2027-07-17"
         }
       ]
     },
@@ -56562,7 +56463,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Rocket Pop DV",
       "strainType": null,
@@ -56596,7 +56497,7 @@
         {
           "id": 8998454,
           "label": "1A40303000001F5000431282",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-07-14"
         }
