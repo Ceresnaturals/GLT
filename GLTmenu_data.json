@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T01:50:02.594621+00:00",
+  "generated_at": "2026-10-01T10:00:35.572746+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12273,7 +12273,7 @@
       ]
     },
     {
-      "id": 8828677,
+      "id": 9066608,
       "packageCount": 2,
       "name": "Betty's Eddies Pumpkin Spice Latte Fruit Chews-40mg-10",
       "brand": "Betty's Eddies",
@@ -12289,11 +12289,11 @@
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.559,
-        "CBC": 0.147,
+        "totalTHC": 0.548,
+        "CBC": 0.138,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.153,
+        "CBG": 0.131,
         "CBGA": 0.0,
         "CBN": 0.002,
         "THCA": 0.0,
@@ -12304,10 +12304,10 @@
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "CBC": 10.437,
+          "CBC": 9.798,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 10.863,
+          "CBG": 9.301,
           "CBGA": 0.0,
           "CBN": 0.142,
           "THCA": 0.0,
@@ -12320,18 +12320,18 @@
       "dominantTerpene": null,
       "packages": [
         {
-          "id": 8828677,
-          "label": "1A4030300003522000195376",
-          "quantity": 4.0,
-          "packagedDate": "2026-08-06",
-          "expirationDate": "2027-07-30"
-        },
-        {
           "id": 9066608,
           "label": "1A4030300003522000215101",
           "quantity": 25.0,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-09-09"
+        },
+        {
+          "id": 8828677,
+          "label": "1A4030300003522000195376",
+          "quantity": 4.0,
+          "packagedDate": "2026-08-06",
+          "expirationDate": "2027-07-30"
         }
       ]
     },
@@ -12505,7 +12505,7 @@
       ]
     },
     {
-      "id": 8996195,
+      "id": 9066537,
       "packageCount": 2,
       "name": "Betty's Eddies Tropical Smoothie Fruit Chews-10mg-10",
       "brand": "Betty's Eddies",
@@ -12554,17 +12554,17 @@
       "dominantTerpene": null,
       "packages": [
         {
-          "id": 8996195,
-          "label": "1A4030300003522000211310",
-          "quantity": 2.0,
-          "packagedDate": "2026-09-15",
-          "expirationDate": "2027-08-19"
-        },
-        {
           "id": 9066537,
           "label": "1A4030300003522000215106",
           "quantity": 25.0,
           "packagedDate": "2026-09-29",
+          "expirationDate": "2027-08-19"
+        },
+        {
+          "id": 8996195,
+          "label": "1A4030300003522000211310",
+          "quantity": 2.0,
+          "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-19"
         }
       ]
@@ -20694,7 +20694,7 @@
       ]
     },
     {
-      "id": 8939354,
+      "id": 9066542,
       "packageCount": 2,
       "name": "In House Watermelon Fast Acting V3 Gummies-10mg-10",
       "brand": "In House",
@@ -20710,12 +20710,12 @@
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.2,
+        "totalTHC": 0.21,
         "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.1,
+        "CBG": 0.11,
         "CBGA": 0.0,
         "CBN": 0.0,
         "THCA": 0.0,
@@ -20730,7 +20730,7 @@
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 5.0,
+          "CBG": 5.5,
           "CBGA": 0.0,
           "CBN": 0.0,
           "THCA": 0.0,
@@ -20743,18 +20743,18 @@
       "dominantTerpene": null,
       "packages": [
         {
-          "id": 8939354,
-          "label": "1A4030300003522000210573",
-          "quantity": 3.0,
-          "packagedDate": "2026-09-01",
-          "expirationDate": "2027-07-24"
-        },
-        {
           "id": 9066542,
           "label": "1A4030300003522000215110",
           "quantity": 25.0,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-09-02"
+        },
+        {
+          "id": 8939354,
+          "label": "1A4030300003522000210573",
+          "quantity": 3.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-07-24"
         }
       ]
     },
