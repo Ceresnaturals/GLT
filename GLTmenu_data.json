@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T17:20:02.505977+00:00",
+  "generated_at": "2026-10-01T17:30:03.767065+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10807,8 +10807,7 @@
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -24658,7 +24657,7 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 12.0,
       "unit": "Each",
@@ -28441,6 +28440,53 @@
       ]
     },
     {
+      "id": 9039271,
+      "packageCount": 1,
+      "name": "Hashburger - Pre Pack Bud - 3.5 gram - Plastic Container",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 87.5,
+      "unit": "Grams",
+      "strainName": "Hashburger",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.15,
+        "totalCBD": 0.26,
+        "CBDA": 0.04,
+        "CBG": 0.72,
+        "CBN": 0.03,
+        "THCA": 30.61
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.04,
+        "humulene": 0.19,
+        "myrcene": 0.58,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.35,
+        "beta-pinene": 0.08,
+        "limonene": 0.56,
+        "terpinolene": 0.01,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 1.95,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9039271,
+          "label": "1A40303000001F5000450397",
+          "quantity": 87.5,
+          "packagedDate": "2026-09-23",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8938796,
       "packageCount": 1,
       "name": "In House Bapple Fritz Buds-Usable-14g",
@@ -30781,7 +30827,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 91.0,
+      "quantity": 87.5,
       "unit": "Grams",
       "strainName": "137 PURPLE KOALA",
       "strainType": null,
@@ -30817,7 +30863,7 @@
         {
           "id": 9029661,
           "label": "1A40303000039D1000085133",
-          "quantity": 91.0,
+          "quantity": 87.5,
           "packagedDate": "2026-09-22",
           "expirationDate": null
         }
@@ -30916,6 +30962,104 @@
           "label": "1A40303000001F5000431275",
           "quantity": 56.0,
           "packagedDate": "2026-09-15",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9039199,
+      "packageCount": 1,
+      "name": "SDG OG - Pre Pack Bud - 3.5 gram - Plastic Container",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 87.5,
+      "unit": "Grams",
+      "strainName": "SDG OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.13,
+        "totalCBD": 0.32,
+        "CBDA": 0.06,
+        "CBG": 0.62,
+        "CBN": 0.0,
+        "THCA": 33.85
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.22,
+        "myrcene": 0.45,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.63,
+        "beta-pinene": 0.05,
+        "ocimene": 0.01,
+        "limonene": 0.39,
+        "linalool": 0.15,
+        "terpinolene": 0.02,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.09,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9039199,
+          "label": "1A40303000001F5000450396",
+          "quantity": 87.5,
+          "packagedDate": "2026-09-23",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9039272,
+      "packageCount": 1,
+      "name": "SMG - Sunshine #4 - Pre Ground Bud - 10g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 250.0,
+      "unit": "Grams",
+      "strainName": "Sunshine #4",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.55,
+        "totalCBD": 0.35,
+        "CBDA": 0.05,
+        "CBG": 0.76,
+        "CBN": 0.03,
+        "THCA": 32.69
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.26,
+        "myrcene": 0.88,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 0.6,
+        "beta-pinene": 0.16,
+        "ocimene": 0.14,
+        "limonene": 0.81,
+        "linalool": 0.24,
+        "terpinolene": 0.03,
+        "nerolidol": 0.02
+      },
+      "totalTerps": 3.54,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9039272,
+          "label": "1A40303000001F5000450398",
+          "quantity": 250.0,
+          "packagedDate": "2026-09-23",
           "expirationDate": null
         }
       ]
@@ -33784,7 +33928,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Grams",
       "strainName": "Crescendo",
       "strainType": null,
@@ -33817,7 +33961,7 @@
         {
           "id": 9047757,
           "label": "1A403030000012D000267866",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-09-24",
           "expirationDate": null
         }
@@ -38474,7 +38618,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
@@ -38509,7 +38653,7 @@
         {
           "id": 9041607,
           "label": "1A40303000000CB000053180",
-          "quantity": 26.0,
+          "quantity": 25.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-07-21"
         }
@@ -50887,7 +51031,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "OG Kush",
       "strainType": null,
@@ -50921,7 +51065,7 @@
         {
           "id": 8118780,
           "label": "1A4030300004845000007645",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-02-13",
           "expirationDate": null
         }
