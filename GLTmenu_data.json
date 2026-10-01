@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:20:02.692059+00:00",
+  "generated_at": "2026-10-01T16:30:03.349214+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11783,16 +11783,17 @@
       ]
     },
     {
-      "id": 8996199,
-      "packageCount": 1,
+      "id": 9066624,
+      "packageCount": 2,
       "name": "Betty's Eddies Lemon Agave V3 Fruit Chews-10mg-10",
       "brand": "Betty's Eddies",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 52.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11802,9 +11803,9 @@
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.0,
+        "CBG": 0.006,
         "CBGA": 0.0,
-        "CBN": 0.0,
+        "CBN": 0.001,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -11816,9 +11817,9 @@
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.0,
+          "CBG": 0.043,
           "CBGA": 0.0,
-          "CBN": 0.0,
+          "CBN": 0.007,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -11828,6 +11829,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9066624,
+          "label": "1A4030300003522000215104",
+          "quantity": 50.0,
+          "packagedDate": "2026-09-29",
+          "expirationDate": "2027-09-19"
+        },
         {
           "id": 8996199,
           "label": "1A4030300003522000211314",
@@ -17524,7 +17532,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17563,7 +17571,7 @@
         {
           "id": 9053088,
           "label": "1A40303000017D5000107889",
-          "quantity": 12.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-03",
           "expirationDate": "2027-08-03"
         }
@@ -21669,7 +21677,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21710,7 +21718,7 @@
         {
           "id": 9039055,
           "label": "1A40303000003EA000258980",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-09-03"
         }
@@ -24582,63 +24590,6 @@
           "quantity": 1.0,
           "packagedDate": "2026-07-22",
           "expirationDate": "2027-06-28"
-        }
-      ]
-    },
-    {
-      "id": 9000809,
-      "packageCount": 1,
-      "name": "WYLD BSN Gummies-10mg-10",
-      "brand": "WYLD",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 5.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.259,
-        "totalCBD": 0.264,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.009,
-        "CBGA": 0.0,
-        "CBN": 0.267,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 gummy",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 10.56,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.36,
-          "CBGA": 0.0,
-          "CBN": 10.68,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9000809,
-          "label": "1A403030000390D000067603",
-          "quantity": 5.0,
-          "packagedDate": "2026-09-15",
-          "expirationDate": "2027-09-02"
         }
       ]
     },
@@ -28769,7 +28720,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "Banana Tree",
       "strainType": null,
@@ -28803,7 +28754,7 @@
         {
           "id": 8890221,
           "label": "1A403030000025B000083873",
-          "quantity": 35.0,
+          "quantity": 31.5,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-07-10"
         }
@@ -29019,7 +28970,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 42.0,
+      "quantity": 38.5,
       "unit": "Grams",
       "strainName": "LEMF",
       "strainType": null,
@@ -29055,7 +29006,7 @@
         {
           "id": 9014032,
           "label": "1A40303000000CD000081199",
-          "quantity": 42.0,
+          "quantity": 38.5,
           "packagedDate": "2026-09-17",
           "expirationDate": null
         }
@@ -29071,7 +29022,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.5,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Landfill Haze #19",
       "strainType": null,
@@ -29107,7 +29058,7 @@
         {
           "id": 8966647,
           "label": "1A403030000012E000190901",
-          "quantity": 31.5,
+          "quantity": 28.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-04"
         }
@@ -30705,7 +30656,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 136.5,
+      "quantity": 133.0,
       "unit": "Grams",
       "strainName": "Rainbow Push Pop #4",
       "strainType": null,
@@ -30738,7 +30689,7 @@
         {
           "id": 9041124,
           "label": "1A40303000000CB000053177",
-          "quantity": 136.5,
+          "quantity": 133.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-09-16"
         }
