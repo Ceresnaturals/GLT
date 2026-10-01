@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:30:03.349214+00:00",
+  "generated_at": "2026-10-01T16:40:03.520182+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10298,7 +10298,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10339,7 +10339,7 @@
         {
           "id": 8947753,
           "label": "1A40303000001F5000425697",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-14"
         }
@@ -11669,29 +11669,30 @@
       ]
     },
     {
-      "id": 8996188,
-      "packageCount": 1,
+      "id": 9066526,
+      "packageCount": 2,
       "name": "Betty's Eddies Cherry V3 Fruit Chews-10mg-10",
       "brand": "Betty's Eddies",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.141,
-        "totalCBD": 0.585,
-        "CBC": 0.071,
+        "totalTHC": 0.131,
+        "totalCBD": 0.57,
+        "CBC": 0.067,
         "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.005,
+        "CBDV": 0.002,
+        "CBG": 0.006,
         "CBGA": 0.0,
-        "CBN": 0.0,
+        "CBN": 0.001,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -11700,13 +11701,13 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 4.153,
-          "CBC": 0.504,
+          "totalCBD": 4.047,
+          "CBC": 0.476,
           "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.036,
+          "CBDV": 0.014,
+          "CBG": 0.043,
           "CBGA": 0.0,
-          "CBN": 0.0,
+          "CBN": 0.007,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -11716,6 +11717,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9066526,
+          "label": "1A4030300003522000215102",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-29",
+          "expirationDate": "2027-09-10"
+        },
         {
           "id": 8996188,
           "label": "1A4030300003522000211307",
@@ -14380,7 +14388,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14419,7 +14427,7 @@
         {
           "id": 8953004,
           "label": "1A403030000012D000265628",
-          "quantity": 8.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -17872,7 +17880,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17911,7 +17919,7 @@
         {
           "id": 8958877,
           "label": "1A40303000017D5000105507",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-07-28"
         }
@@ -26476,7 +26484,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 288.46,
+      "quantity": 284.96,
       "unit": "Grams",
       "strainName": "Ice Cream Cake TC",
       "strainType": null,
@@ -26505,7 +26513,7 @@
         {
           "id": 7693455,
           "label": "1A40303000001F5000292354",
-          "quantity": 288.46,
+          "quantity": 284.96,
           "packagedDate": "2025-11-06",
           "expirationDate": null
         }
@@ -26674,7 +26682,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 35.0,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "GOWI",
       "strainType": null,
@@ -26707,7 +26715,7 @@
         {
           "id": 9014031,
           "label": "1A40303000000CD000081200",
-          "quantity": 35.0,
+          "quantity": 31.5,
           "packagedDate": "2026-09-17",
           "expirationDate": null
         }
@@ -28473,7 +28481,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 390.0,
+      "quantity": 386.5,
       "unit": "Grams",
       "strainName": "Jack Herer",
       "strainType": null,
@@ -28506,7 +28514,7 @@
         {
           "id": 8241348,
           "label": "1A40303000000C9000142462",
-          "quantity": 390.0,
+          "quantity": 386.5,
           "packagedDate": "2026-03-25",
           "expirationDate": "2026-12-01"
         }
@@ -30604,7 +30612,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 94.5,
+      "quantity": 91.0,
       "unit": "Grams",
       "strainName": "137 PURPLE KOALA",
       "strainType": null,
@@ -30640,7 +30648,7 @@
         {
           "id": 9029661,
           "label": "1A40303000039D1000085133",
-          "quantity": 94.5,
+          "quantity": 91.0,
           "packagedDate": "2026-09-22",
           "expirationDate": null
         }
@@ -31395,7 +31403,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.5,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "Casey Jones",
       "strainType": null,
@@ -31428,7 +31436,7 @@
         {
           "id": 9020134,
           "label": "1A4030300003A3C000091321",
-          "quantity": 22.5,
+          "quantity": 20.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-08-19"
         }
@@ -31830,7 +31838,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 224.0,
+      "quantity": 196.0,
       "unit": "Grams",
       "strainName": "Z Cream",
       "strainType": null,
@@ -31863,7 +31871,7 @@
         {
           "id": 9005659,
           "label": "1A40303000000CB000052508",
-          "quantity": 224.0,
+          "quantity": 196.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-09-08"
         }
@@ -32223,7 +32231,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Afternoon Delight",
       "strainType": null,
@@ -32256,7 +32264,7 @@
         {
           "id": 8778312,
           "label": "1A40303000003EA000192817",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-06-18"
         }
@@ -33356,7 +33364,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Grams",
       "strainName": "Alien Burger",
       "strainType": null,
@@ -33390,7 +33398,7 @@
         {
           "id": 8952843,
           "label": "1A403030000012D000265626",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -39634,7 +39642,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 297.64,
+      "quantity": 283.64,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -39667,7 +39675,7 @@
         {
           "id": 8947159,
           "label": "1A40303000001F5000425620",
-          "quantity": 297.64,
+          "quantity": 283.64,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
