@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T18:00:02.602236+00:00",
+  "generated_at": "2026-10-01T18:10:03.453541+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -262,7 +262,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -303,7 +303,7 @@
         {
           "id": 9066547,
           "label": "1A4030300003522000215113",
-          "quantity": 10.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-08-26"
         }
@@ -27896,7 +27896,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Velvet Pie",
       "strainType": null,
@@ -27931,7 +27931,7 @@
         {
           "id": 8946384,
           "label": "1A4030300004845000041483",
-          "quantity": 38.5,
+          "quantity": 35.0,
           "packagedDate": "2026-06-01",
           "expirationDate": "2027-06-01"
         }
@@ -27998,7 +27998,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 17.5,
       "unit": "Grams",
       "strainName": "GRAP",
       "strainType": null,
@@ -28033,7 +28033,7 @@
         {
           "id": 8982672,
           "label": "1A40303000000CD000079811",
-          "quantity": 21.0,
+          "quantity": 17.5,
           "packagedDate": "2026-09-10",
           "expirationDate": null
         }
@@ -28693,7 +28693,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 88.0,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Cherry Pie",
       "strainType": null,
@@ -28728,7 +28728,7 @@
         {
           "id": 9002412,
           "label": "1A4030300004845000044234",
-          "quantity": 88.0,
+          "quantity": 84.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-25"
         }
@@ -30964,6 +30964,55 @@
       ]
     },
     {
+      "id": 9073206,
+      "packageCount": 1,
+      "name": "SMG - Sunshine #4 - 28g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 448.0,
+      "unit": "Grams",
+      "strainName": "Sunshine #4",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.77,
+        "totalCBD": 0.3,
+        "CBDA": 0.04,
+        "CBG": 0.83,
+        "CBN": 0.02,
+        "THCA": 31.61
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.14,
+        "myrcene": 0.53,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.39,
+        "beta-pinene": 0.06,
+        "ocimene": 0.06,
+        "limonene": 0.54,
+        "linalool": 0.1,
+        "terpinolene": 0.01,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.07,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9073206,
+          "label": "1A40303000001F5000453098",
+          "quantity": 448.0,
+          "packagedDate": "2026-09-30",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 9039272,
       "packageCount": 1,
       "name": "SMG - Sunshine #4 - Pre Ground Bud - 10g",
@@ -31563,7 +31612,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 161.0,
+      "quantity": 157.5,
       "unit": "Grams",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -31596,7 +31645,7 @@
         {
           "id": 9027465,
           "label": "1A40303000040D9000006251",
-          "quantity": 161.0,
+          "quantity": 157.5,
           "packagedDate": "2026-09-21",
           "expirationDate": "2027-09-20"
         }
@@ -37144,7 +37193,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.5,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -37176,7 +37225,7 @@
         {
           "id": 8974467,
           "label": "1A40303000000CB000051666",
-          "quantity": 10.5,
+          "quantity": 7.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-03"
         }
@@ -38516,7 +38565,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Rainbow Push Pop #4",
       "strainType": null,
@@ -38550,7 +38599,7 @@
         {
           "id": 9041144,
           "label": "1A40303000000CB000053179",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-14"
         }
