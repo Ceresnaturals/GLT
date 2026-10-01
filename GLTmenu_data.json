@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:20:02.807374+00:00",
+  "generated_at": "2026-10-01T14:30:03.581943+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -29,7 +29,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -77,7 +77,7 @@
         {
           "id": 8909468,
           "label": "1A4030300000C83000081192",
-          "quantity": 5.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-03-12"
         }
@@ -26391,7 +26391,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Black Maple #22",
       "strainType": "Indica",
@@ -26427,7 +26427,7 @@
         {
           "id": 9003281,
           "label": "1A40303000003EA000266189",
-          "quantity": 28.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-08-03"
         }
@@ -30812,7 +30812,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 84.0,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -30844,7 +30844,7 @@
         {
           "id": 8998447,
           "label": "1A40303000001F5000431275",
-          "quantity": 84.0,
+          "quantity": 56.0,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -41489,7 +41489,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Berry Bliss",
       "strainType": null,
@@ -41525,7 +41525,7 @@
         {
           "id": 8974570,
           "label": "1A40303000001F5000428937",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-24"
         }
@@ -54708,6 +54708,56 @@
       ]
     },
     {
+      "id": 9029751,
+      "packageCount": 1,
+      "name": "Nectar | Vapes | Live Resin Cartridges | Neapolitan Space Cream - 0.5g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 22.0,
+      "unit": "Each",
+      "strainName": "Neapolitan Space Cream",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 69.72,
+        "CBC": 0.43,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.91,
+        "CBGA": 0.51,
+        "CBN": 0.0,
+        "THCA": 9.28,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.25,
+        "humulene": 1.74,
+        "myrcene": 0.06,
+        "alpha-pinene": 0.11,
+        "caryophyllene": 4.49,
+        "beta-pinene": 0.13,
+        "limonene": 1.53,
+        "linalool": 0.67,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 9.49,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9029751,
+          "label": "1A40303000039D1000085137",
+          "quantity": 22.0,
+          "packagedDate": "2026-09-22",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8631522,
       "packageCount": 1,
       "name": "Nectar | Vapes | Live Resin Cartridges | Purple Koala - 0.5g",
@@ -58924,7 +58974,7 @@
     },
     {
       "id": 8755239,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Tinselmints FSE - BOMA Vape Cart (Color: MD Flag) - 0.5g",
       "brand": null,
       "category": "Vape",
@@ -58932,7 +58982,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Tinselmints FSE",
       "strainType": null,
@@ -58969,13 +59019,6 @@
           "quantity": 16.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2026-11-02"
-        },
-        {
-          "id": 8563610,
-          "label": "ABC0303000037DD000023758",
-          "quantity": 1.0,
-          "packagedDate": "2026-06-08",
-          "expirationDate": "2026-10-28"
         }
       ]
     },
