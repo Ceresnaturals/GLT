@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T17:00:03.403102+00:00",
+  "generated_at": "2026-10-01T17:10:02.733964+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11741,7 +11741,7 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -12083,7 +12083,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -12478,7 +12478,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 50.0,
       "unit": "Each",
@@ -29147,7 +29147,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 38.5,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "LEMF",
       "strainType": null,
@@ -29183,7 +29183,7 @@
         {
           "id": 9014032,
           "label": "1A40303000000CD000081199",
-          "quantity": 38.5,
+          "quantity": 31.5,
           "packagedDate": "2026-09-17",
           "expirationDate": null
         }
@@ -33630,7 +33630,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 28.0,
       "unit": "Grams",
@@ -44273,7 +44273,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Blueberry Dream",
       "strainType": null,
@@ -44302,7 +44302,7 @@
         {
           "id": 9044789,
           "label": "1A403030000012E000196224",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-08-28"
         }
@@ -49735,55 +49735,6 @@
           "quantity": 16.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-21"
-        }
-      ]
-    },
-    {
-      "id": 8462869,
-      "packageCount": 1,
-      "name": "In House Green Crack-.5g",
-      "brand": "In House",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Green Crack",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 86.11,
-        "CBC": 0.71,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.88,
-        "CBGA": 0.0,
-        "CBN": 0.61,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.38,
-        "myrcene": 0.27,
-        "alpha-pinene": 0.21,
-        "caryophyllene": 1.27,
-        "beta-pinene": 0.13,
-        "limonene": 1.31,
-        "linalool": 0.25,
-        "terpinolene": 0.05
-      },
-      "totalTerps": 3.95,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8462869,
-          "label": "1A4030300003522000191134",
-          "quantity": 1.0,
-          "packagedDate": "2026-05-14",
-          "expirationDate": "2027-03-08"
         }
       ]
     },
