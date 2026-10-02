@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:40:02.978656+00:00",
+  "generated_at": "2026-10-02T16:50:02.822368+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9427,7 +9427,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Maui Wowie",
       "strainType": "Sativa",
@@ -9462,7 +9462,7 @@
         {
           "id": 9003342,
           "label": "1A40303000003EA000266192",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-08-07"
         }
@@ -10728,7 +10728,7 @@
     },
     {
       "id": 8981914,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Dixie Signature Fruit Punch Elixir 200mg-12mg-17",
       "brand": "Dixie",
       "category": "Drink",
@@ -10736,7 +10736,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10768,13 +10768,6 @@
           "label": "1A403030000012D000266244",
           "quantity": 12.0,
           "packagedDate": "2026-09-10",
-          "expirationDate": null
-        },
-        {
-          "id": 8863973,
-          "label": "1A403030000012D000260499",
-          "quantity": 2.0,
-          "packagedDate": "2026-08-13",
           "expirationDate": null
         }
       ]
@@ -12463,7 +12456,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 28.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12511,7 +12504,7 @@
         {
           "id": 8996188,
           "label": "1A4030300003522000211307",
-          "quantity": 3.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-29"
         }
@@ -12924,7 +12917,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12963,7 +12956,7 @@
         {
           "id": 8882314,
           "label": "1A4030300003522000202252",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-28"
         }
@@ -13542,61 +13535,6 @@
           "quantity": 13.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-06-23"
-        }
-      ]
-    },
-    {
-      "id": 8996301,
-      "packageCount": 1,
-      "name": "Betty's Eddies Watermelon V3 Fruit Chews-10mg-10",
-      "brand": "Betty's Eddies",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.14,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.006,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.038
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.043,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.27
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8996301,
-          "label": "1A4030300003522000211316",
-          "quantity": 2.0,
-          "packagedDate": "2026-09-15",
-          "expirationDate": "2027-09-02"
         }
       ]
     },
@@ -17532,61 +17470,6 @@
           "label": "1A403030000012D000254652",
           "quantity": 5.0,
           "packagedDate": "2026-07-09",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
-      "id": 8864070,
-      "packageCount": 1,
-      "name": "Dixie Chocolate 25mg Straight Up Dark-25mg-10",
-      "brand": "Dixie",
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.244,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.008,
-        "CBGA": 0.0,
-        "CBN": 0.01,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 piece",
-        "totalThcMg": 250.0,
-        "thcMgPerServing": 25.0,
-        "minorsMgPerServing": {
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.8,
-          "CBGA": 0.0,
-          "CBN": 1.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8864070,
-          "label": "1A403030000012D000260511",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-13",
           "expirationDate": null
         }
       ]
@@ -30918,7 +30801,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 154.0,
+      "quantity": 140.0,
       "unit": "Grams",
       "strainName": "Bapple Fritz",
       "strainType": null,
@@ -30953,7 +30836,7 @@
         {
           "id": 8938796,
           "label": "1A4030300003521000056670",
-          "quantity": 154.0,
+          "quantity": 140.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-12"
         }
@@ -31118,7 +31001,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 349.5,
+      "quantity": 346.0,
       "unit": "Grams",
       "strainName": "Jack Herer",
       "strainType": null,
@@ -31151,7 +31034,7 @@
         {
           "id": 8241348,
           "label": "1A40303000000C9000142462",
-          "quantity": 349.5,
+          "quantity": 346.0,
           "packagedDate": "2026-03-25",
           "expirationDate": "2026-12-01"
         }
@@ -31719,7 +31602,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 98.0,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "White Truffle",
       "strainType": null,
@@ -31753,7 +31636,7 @@
         {
           "id": 8820132,
           "label": "1A403030000025B000083296",
-          "quantity": 98.0,
+          "quantity": 84.0,
           "packagedDate": "2026-07-22",
           "expirationDate": "2027-07-15"
         }
@@ -33861,7 +33744,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 240.0,
+      "quantity": 220.0,
       "unit": "Grams",
       "strainName": "Purple Punch TC",
       "strainType": null,
@@ -33894,7 +33777,7 @@
         {
           "id": 9073000,
           "label": "1A40303000001F5000453097",
-          "quantity": 240.0,
+          "quantity": 220.0,
           "packagedDate": "2026-09-30",
           "expirationDate": null
         }
@@ -36476,7 +36359,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.25,
+      "quantity": 1.5,
       "unit": "Grams",
       "strainName": "Animal Face",
       "strainType": null,
@@ -36509,7 +36392,7 @@
         {
           "id": 8369450,
           "label": "1A40303000003EA000168465",
-          "quantity": 2.25,
+          "quantity": 1.5,
           "packagedDate": "2026-04-23",
           "expirationDate": "2027-03-05"
         }
@@ -39208,7 +39091,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Grams",
       "strainName": "Groovy Diesel",
       "strainType": null,
@@ -39242,7 +39125,7 @@
         {
           "id": 8746996,
           "label": "1A40303000000C9000164501",
-          "quantity": 26.0,
+          "quantity": 25.0,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-07-06"
         }
@@ -44604,7 +44487,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 227.64,
+      "quantity": 206.64,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -44637,7 +44520,7 @@
         {
           "id": 8947159,
           "label": "1A40303000001F5000425620",
-          "quantity": 227.64,
+          "quantity": 206.64,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -47869,7 +47752,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Banana Munson",
       "strainType": null,
@@ -47905,7 +47788,7 @@
         {
           "id": 8947157,
           "label": "1A40303000001F5000425616",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-01"
         }
