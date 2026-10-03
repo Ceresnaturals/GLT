@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T19:00:03.197647+00:00",
+  "generated_at": "2026-10-03T19:10:04.578693+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7195,52 +7195,6 @@
       ]
     },
     {
-      "id": 8996086,
-      "packageCount": 1,
-      "name": "NH Lemon Cherry Gelato RSO-1ml",
-      "brand": "NH",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Lemon Cherry Gelato",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 83.46,
-        "CBC": 0.74,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.8,
-        "CBGA": 0.0,
-        "CBN": 0.38,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.26,
-        "myrcene": 0.07,
-        "caryophyllene": 1.0,
-        "limonene": 0.1,
-        "linalool": 0.98
-      },
-      "totalTerps": 2.95,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8996086,
-          "label": "1A4030300003522000211334",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-15",
-          "expirationDate": "2027-09-02"
-        }
-      ]
-    },
-    {
       "id": 8996085,
       "packageCount": 1,
       "name": "NH Lemon Margy Live Badder-1g",
@@ -7351,7 +7305,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Lilac Diesel",
       "strainType": null,
@@ -7383,7 +7337,7 @@
         {
           "id": 8996316,
           "label": "1A4030300003522000211333",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-30"
         }
@@ -7885,7 +7839,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7916,7 +7870,7 @@
         {
           "id": 8996318,
           "label": "1A4030300003522000211335",
-          "quantity": 9.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-05-10"
         }
@@ -9792,7 +9746,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Swampwater Pineapples",
       "strainType": null,
@@ -9825,7 +9779,7 @@
         {
           "id": 9041147,
           "label": "1A4030300000C83000088746",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-09-10"
         }
@@ -14046,6 +14000,63 @@
       ]
     },
     {
+      "id": 9079344,
+      "packageCount": 1,
+      "name": "Curio Wellness Chill 10:1 Citrus Honey Chews-2mg-10",
+      "brand": "Curio Wellness",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.052,
+        "totalCBD": 0.539,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 20.0,
+        "thcMgPerServing": 2.0,
+        "minorsMgPerServing": {
+          "totalCBD": 21.56,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.08,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9079344,
+          "label": "1A403030000012D000272427",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-01",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8583748,
       "packageCount": 1,
       "name": "Curio Wellness Chill 1:1 Smooth Blue Razz Chews-10mg-10",
@@ -15436,6 +15447,61 @@
       ]
     },
     {
+      "id": 9079342,
+      "packageCount": 1,
+      "name": "Curio Wellness White Peach 40mg Chews-40mg-10",
+      "brand": "Curio Wellness",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 1.018,
+        "CBC": 0.014,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.034,
+        "CBGA": 0.0,
+        "CBN": 0.036,
+        "THCA": 0.0,
+        "THCV": 0.01
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "CBC": 0.56,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.36,
+          "CBGA": 0.0,
+          "CBN": 1.44,
+          "THCA": 0.0,
+          "THCV": 0.4
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9079342,
+          "label": "1A403030000012D000272422",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-01",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8909902,
       "packageCount": 1,
       "name": "Disco - Dark Chocolate (Fel) - 10mg - 10",
@@ -15974,16 +16040,15 @@
     },
     {
       "id": 9004434,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Discos - Fruit Punch 4:1 (THC:CBG) - 40mg - 10",
       "brand": null,
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16027,13 +16092,6 @@
           "quantity": 25.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-06-30"
-        },
-        {
-          "id": 8265421,
-          "label": "1A4030300000C83000061432",
-          "quantity": 1.0,
-          "packagedDate": "2026-03-31",
-          "expirationDate": "2027-03-03"
         }
       ]
     },
@@ -16796,7 +16854,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16837,7 +16895,7 @@
         {
           "id": 8793248,
           "label": "1A4030300000C83000080431",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-03-25"
         }
@@ -30516,7 +30574,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 303.5,
+      "quantity": 298.0,
       "unit": "Grams",
       "strainName": "Jack Herer",
       "strainType": null,
@@ -30549,7 +30607,7 @@
         {
           "id": 8241348,
           "label": "1A40303000000C9000142462",
-          "quantity": 303.5,
+          "quantity": 298.0,
           "packagedDate": "2026-03-25",
           "expirationDate": "2026-12-01"
         }
@@ -31560,7 +31618,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 36.0,
+      "quantity": 33.0,
       "unit": "Grams",
       "strainName": "Florida Wedding",
       "strainType": null,
@@ -31592,7 +31650,7 @@
         {
           "id": 8028727,
           "label": "1A40303000007D1000056117",
-          "quantity": 36.0,
+          "quantity": 33.0,
           "packagedDate": "2026-02-03",
           "expirationDate": null
         }
@@ -33054,7 +33112,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 190.0,
+      "quantity": 180.0,
       "unit": "Grams",
       "strainName": "Purple Punch TC",
       "strainType": null,
@@ -33087,7 +33145,7 @@
         {
           "id": 9073000,
           "label": "1A40303000001F5000453097",
-          "quantity": 190.0,
+          "quantity": 180.0,
           "packagedDate": "2026-09-30",
           "expirationDate": null
         }
@@ -34093,7 +34151,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 115.5,
+      "quantity": 112.0,
       "unit": "Grams",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -34126,7 +34184,7 @@
         {
           "id": 9027465,
           "label": "1A40303000040D9000006251",
-          "quantity": 115.5,
+          "quantity": 112.0,
           "packagedDate": "2026-09-21",
           "expirationDate": "2027-09-20"
         }
@@ -36686,6 +36744,108 @@
       ]
     },
     {
+      "id": 9079345,
+      "packageCount": 1,
+      "name": "Curio Wellness CW Holy Gelato Pre-rolls-Usable-2x0.5g",
+      "brand": "Curio Wellness",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Grams",
+      "strainName": "Holy Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 32.06,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.1,
+        "CBGA": 0.83,
+        "CBN": 0.0,
+        "THCA": 36.35,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.3,
+        "myrcene": 0.36,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 1.32,
+        "beta-pinene": 0.09,
+        "limonene": 0.6,
+        "linalool": 0.51,
+        "terpinolene": 0.02,
+        "nerolidol": 0.09
+      },
+      "totalTerps": 3.68,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9079345,
+          "label": "1A403030000012D000272429",
+          "quantity": 30.0,
+          "packagedDate": "2026-10-01",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9079339,
+      "packageCount": 1,
+      "name": "Curio Wellness CW Lemon Popsicle Pre-rolls-usable-2x0.5g",
+      "brand": "Curio Wellness",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Grams",
+      "strainName": "Lemon Popsicle",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.36,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 5.31,
+        "CBN": 0.0,
+        "THCA": 31.17,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.08,
+        "myrcene": 0.43,
+        "alpha-pinene": 0.14,
+        "caryophyllene": 0.31,
+        "beta-pinene": 0.16,
+        "ocimene": 0.58,
+        "limonene": 0.35,
+        "linalool": 0.2,
+        "terpinolene": 0.99
+      },
+      "totalTerps": 3.6,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9079339,
+          "label": "1A403030000012D000272419",
+          "quantity": 30.0,
+          "packagedDate": "2026-10-01",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8769569,
       "packageCount": 1,
       "name": "Curio Wellness CW Pink Mountain Kush Pre-rolls-usable-2x0.5g",
@@ -36988,6 +37148,59 @@
           "label": "1A403030000012D000254645",
           "quantity": 4.0,
           "packagedDate": "2026-07-09",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9079417,
+      "packageCount": 1,
+      "name": "Curio Wellness Thrive Infused Pre-rolls-2x0.5g",
+      "brand": "Curio Wellness",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Each",
+      "strainName": "Thrive",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 36.01,
+        "CBC": 0.38,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.82,
+        "CBGA": 0.45,
+        "CBN": 0.41,
+        "THCA": 14.96,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.15,
+        "myrcene": 0.24,
+        "alpha-pinene": 0.31,
+        "caryophyllene": 0.86,
+        "beta-pinene": 0.16,
+        "caryophyllene-oxide": 0.08,
+        "ocimene": 0.03,
+        "limonene": 0.94,
+        "linalool": 0.21,
+        "terpinolene": 0.09,
+        "nerolidol": 0.27
+      },
+      "totalTerps": 3.82,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9079417,
+          "label": "1A403030000012D000272424",
+          "quantity": 30.0,
+          "packagedDate": "2026-10-01",
           "expirationDate": null
         }
       ]
@@ -38591,7 +38804,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -38623,7 +38836,7 @@
         {
           "id": 9041606,
           "label": "1A40303000000CB000053178",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-01"
         }
@@ -49262,6 +49475,107 @@
       ]
     },
     {
+      "id": 9079419,
+      "packageCount": 1,
+      "name": "Curio Wellness Grape Escape Vape (Indica)-1.0g",
+      "brand": "Curio Wellness",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "Grape Escape",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 77.68,
+        "CBC": 1.34,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.55,
+        "CBGA": 0.0,
+        "CBN": 2.65,
+        "THCA": 0.0,
+        "THCV": 0.49
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.16,
+        "humulene": 0.12,
+        "myrcene": 0.62,
+        "alpha-pinene": 0.16,
+        "caryophyllene": 0.5,
+        "beta-pinene": 0.1,
+        "limonene": 0.67,
+        "linalool": 0.22,
+        "terpinolene": 0.08,
+        "nerolidol": 0.13
+      },
+      "totalTerps": 3.13,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9079419,
+          "label": "1A403030000012D000272426",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-01",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9079415,
+      "packageCount": 1,
+      "name": "Curio Wellness Jack Herer Vape-1.0g",
+      "brand": "Curio Wellness",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "Jack Herer",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 76.24,
+        "CBC": 1.16,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.47,
+        "CBGA": 0.0,
+        "CBN": 3.43,
+        "THCA": 0.0,
+        "THCV": 0.82
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 1.25,
+        "myrcene": 1.05,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 4.45,
+        "beta-pinene": 0.09,
+        "ocimene": 0.67,
+        "limonene": 0.45,
+        "linalool": 0.14,
+        "terpinolene": 3.04
+      },
+      "totalTerps": 11.29,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9079415,
+          "label": "1A403030000012D000272417",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-01",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 9013420,
       "packageCount": 1,
       "name": "Curio Wellness Lemon Haze Vape - 1.0g",
@@ -49509,6 +49823,57 @@
           "label": "1A403030000012D000253357",
           "quantity": 20.0,
           "packagedDate": "2026-07-02",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9079340,
+      "packageCount": 1,
+      "name": "Curio Wellness Opals and Banonoze Vape-1.0g",
+      "brand": "Curio Wellness",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "Opals and Banonoze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 75.22,
+        "CBC": 1.31,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.96,
+        "CBGA": 0.0,
+        "CBN": 4.01,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.26,
+        "humulene": 0.26,
+        "myrcene": 4.67,
+        "alpha-pinene": 1.01,
+        "caryophyllene": 1.03,
+        "beta-pinene": 0.26,
+        "ocimene": 1.74,
+        "limonene": 0.54,
+        "linalool": 0.47,
+        "terpinolene": 0.22
+      },
+      "totalTerps": 10.89,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9079340,
+          "label": "1A403030000012D000272420",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-01",
           "expirationDate": null
         }
       ]
@@ -61584,7 +61949,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Maui Wowie",
       "strainType": "Sativa",
@@ -61617,7 +61982,7 @@
         {
           "id": 9039332,
           "label": "1A40303000003EA000258986",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-07-29"
         }
@@ -61633,7 +61998,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": "Hybrid",
@@ -61665,7 +62030,7 @@
         {
           "id": 8854457,
           "label": "1A40303000003EA000202547",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-05-20"
         }
