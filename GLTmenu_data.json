@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T16:20:03.780329+00:00",
+  "generated_at": "2026-10-03T16:30:03.594284+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9783,7 +9783,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Super Gremlin Preground",
       "strainType": null,
@@ -9818,7 +9818,7 @@
         {
           "id": 8966424,
           "label": "1A403030000012E000192652",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-07-20"
         }
@@ -10482,16 +10482,17 @@
       ]
     },
     {
-      "id": 8678607,
-      "packageCount": 1,
+      "id": 9079416,
+      "packageCount": 2,
       "name": "Dixie Signature Berry Lemonade Elixir 200mg-12mg-17",
       "brand": "Dixie",
       "category": "Drink",
       "metrcCategory": "Exempt Liquid Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10518,6 +10519,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9079416,
+          "label": "1A403030000012D000272418",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-01",
+          "expirationDate": null
+        },
         {
           "id": 8678607,
           "label": "1A403030000012D000253352",
@@ -35974,7 +35982,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Grams",
       "strainName": "Banana Cream Pop",
       "strainType": null,
@@ -36009,7 +36017,7 @@
         {
           "id": 9044770,
           "label": "1A403030000012E000196215",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-08-14"
         }
@@ -43364,7 +43372,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 170.3,
+      "quantity": 166.8,
       "unit": "Grams",
       "strainName": "Permanent Marker",
       "strainType": null,
@@ -43397,7 +43405,7 @@
         {
           "id": 8919307,
           "label": "1A40303000001F5000423348",
-          "quantity": 170.3,
+          "quantity": 166.8,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -43460,7 +43468,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 189.14,
+      "quantity": 185.64,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -43493,7 +43501,7 @@
         {
           "id": 8947159,
           "label": "1A40303000001F5000425620",
-          "quantity": 189.14,
+          "quantity": 185.64,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -43509,7 +43517,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 132.94,
+      "quantity": 129.44,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -43542,7 +43550,7 @@
         {
           "id": 8947235,
           "label": "1A40303000001F5000425622",
-          "quantity": 129.84,
+          "quantity": 126.34,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         },
@@ -44275,7 +44283,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Strawberry Cheesecake",
       "strainType": null,
@@ -44308,7 +44316,7 @@
         {
           "id": 9018105,
           "label": "1A40303000017D5000107145",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-09-08"
         }
@@ -48091,7 +48099,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Blueberry Dream",
       "strainType": null,
@@ -48128,7 +48136,7 @@
         {
           "id": 8671235,
           "label": "1A403030000012E000172675",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-05-16"
         }
@@ -54917,7 +54925,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Jack's Delight",
       "strainType": "Sativa",
@@ -54951,7 +54959,7 @@
         {
           "id": 8826358,
           "label": "1A40303000003EA000195261",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-12"
         }
