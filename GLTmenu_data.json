@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T16:40:03.530621+00:00",
+  "generated_at": "2026-10-03T16:50:04.667222+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -320,7 +320,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -359,7 +359,7 @@
         {
           "id": 9051791,
           "label": "1A4030300000193000108908",
-          "quantity": 19.0,
+          "quantity": 16.0,
           "packagedDate": "2026-09-25",
           "expirationDate": "2027-08-25"
         },
@@ -3831,7 +3831,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Glitter Bomb",
       "strainType": null,
@@ -3861,7 +3861,7 @@
         {
           "id": 8751938,
           "label": "1A4030300002009000109411",
-          "quantity": 9.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-06-10"
         }
@@ -7195,7 +7195,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Lemon Cherry Gelato",
       "strainType": null,
@@ -7230,7 +7230,7 @@
         {
           "id": 8882390,
           "label": "1A4030300003522000202269",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-28"
         }
@@ -15585,7 +15585,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15626,7 +15626,7 @@
         {
           "id": 8946619,
           "label": "1A4030300000C83000081471",
-          "quantity": 5.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-06-11"
         }
@@ -22564,7 +22564,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22605,7 +22605,7 @@
         {
           "id": 8970466,
           "label": "1A40303000003EA000263654",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-06-24"
         }
@@ -24979,7 +24979,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -25020,7 +25020,7 @@
         {
           "id": 9039609,
           "label": "1A40303000001F5000450415",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-09-23",
           "expirationDate": null
         }
@@ -25321,7 +25321,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -25362,7 +25362,7 @@
         {
           "id": 8939256,
           "label": "1A4030300003522000210589",
-          "quantity": 8.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-07"
         }
@@ -37771,56 +37771,6 @@
       ]
     },
     {
-      "id": 9044762,
-      "packageCount": 1,
-      "name": "Florida Kush Garcia Hand Picked - Pre-rolls - 1 g",
-      "brand": "Garcia Hand Picked",
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Grams",
-      "strainName": "Florida Kush",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 23.1,
-        "totalCBD": 0.06,
-        "CBC": 0.0,
-        "CBDA": 0.07,
-        "CBDV": 0.0,
-        "CBG": 0.09,
-        "CBGA": 0.58,
-        "CBN": 0.0,
-        "THCA": 23.24,
-        "THCV": 0.09
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.12,
-        "myrcene": 0.09,
-        "alpha-pinene": 0.01,
-        "caryophyllene": 0.38,
-        "beta-pinene": 0.02,
-        "limonene": 0.14,
-        "linalool": 0.53,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 1.47,
-      "dominantTerpene": "linalool",
-      "packages": [
-        {
-          "id": 9044762,
-          "label": "1A403030000012E000196211",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-24",
-          "expirationDate": "2027-09-03"
-        }
-      ]
-    },
-    {
       "id": 8588009,
       "packageCount": 1,
       "name": "Fruit Gushers Preroll 1g (.5g 2pk)",
@@ -39900,7 +39850,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Grams",
       "strainName": "LA Baker",
       "strainType": null,
@@ -39935,7 +39885,7 @@
         {
           "id": 9044915,
           "label": "1A403030000012E000196213",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-08-12"
         }
@@ -40457,7 +40407,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Grams",
       "strainName": "Mule Fuel",
       "strainType": null,
@@ -40493,7 +40443,7 @@
         {
           "id": 9044765,
           "label": "1A403030000012E000196212",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-08-21"
         }
@@ -42682,7 +42632,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -42714,7 +42664,7 @@
         {
           "id": 9044768,
           "label": "1A403030000012E000196214",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-04-02"
         }
@@ -59591,52 +59541,6 @@
       ]
     },
     {
-      "id": 8966639,
-      "packageCount": 1,
-      "name": "Passion Fruit Distillate Cartridge Hellavated - 1.0 g",
-      "brand": "Hellavated",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Passion Fruit",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 92.98,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.52,
-        "CBGA": 0.0,
-        "CBN": 0.44,
-        "THCA": 0.0,
-        "THCV": 0.67
-      },
-      "dose": null,
-      "terpenes": {
-        "caryophyllene": 0.04,
-        "beta-pinene": 0.03,
-        "limonene": 0.92,
-        "linalool": 0.25,
-        "terpinolene": 0.18
-      },
-      "totalTerps": 1.42,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8966639,
-          "label": "1A403030000012E000192143",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-08",
-          "expirationDate": "2027-07-31"
-        }
-      ]
-    },
-    {
       "id": 9044778,
       "packageCount": 1,
       "name": "Peach Cobbler Cloud Bar Hellavated - 1 g",
@@ -62966,52 +62870,6 @@
           "quantity": 3.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-04-25"
-        }
-      ]
-    },
-    {
-      "id": 9044798,
-      "packageCount": 1,
-      "name": "Strawberry Haze Distillate Cartridge Hellavated - 1.0 g",
-      "brand": "Hellavated",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Strawberry Haze",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 91.5,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 4.33,
-        "CBGA": 0.0,
-        "CBN": 0.44,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "myrcene": 0.16,
-        "alpha-pinene": 1.59,
-        "caryophyllene": 0.24,
-        "beta-pinene": 0.21,
-        "limonene": 0.48
-      },
-      "totalTerps": 2.74,
-      "dominantTerpene": "alpha-pinene",
-      "packages": [
-        {
-          "id": 9044798,
-          "label": "1A403030000012E000196230",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-24",
-          "expirationDate": "2027-07-31"
         }
       ]
     },
