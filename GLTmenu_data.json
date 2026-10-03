@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T22:40:03.400429+00:00",
+  "generated_at": "2026-10-03T22:50:02.699582+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -22231,16 +22231,15 @@
     },
     {
       "id": 9075702,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Incredibles Gummy 100mg - Fast Acting Greener Apple-10mg-10 Pieces",
       "brand": "Incredibles",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22284,13 +22283,6 @@
           "quantity": 25.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-26"
-        },
-        {
-          "id": 8891360,
-          "label": "1A40303000003EA000205082",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-20",
-          "expirationDate": "2027-07-30"
         }
       ]
     },
@@ -30590,7 +30582,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 291.0,
+      "quantity": 287.5,
       "unit": "Grams",
       "strainName": "Jack Herer",
       "strainType": null,
@@ -30623,7 +30615,7 @@
         {
           "id": 8241348,
           "label": "1A40303000000C9000142462",
-          "quantity": 291.0,
+          "quantity": 287.5,
           "packagedDate": "2026-03-25",
           "expirationDate": "2026-12-01"
         }
@@ -32732,56 +32724,6 @@
       ]
     },
     {
-      "id": 8939203,
-      "packageCount": 1,
-      "name": "NH ONYCD 3.0 Flower-Usable-3.5g",
-      "brand": "NH",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "ONYCD 3.0",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 24.63,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.8,
-        "CBN": 0.0,
-        "THCA": 26.12,
-        "THCV": 0.13
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.09,
-        "humulene": 0.35,
-        "myrcene": 0.98,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 1.28,
-        "beta-pinene": 0.07,
-        "limonene": 0.56,
-        "terpinolene": 0.02,
-        "nerolidol": 0.12
-      },
-      "totalTerps": 3.71,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8939203,
-          "label": "1A4030300003521000056676",
-          "quantity": 3.5,
-          "packagedDate": "2026-09-01",
-          "expirationDate": "2027-08-12"
-        }
-      ]
-    },
-    {
       "id": 8996058,
       "packageCount": 1,
       "name": "NH Strawberry Jelly Flower-Usable-28g",
@@ -34750,7 +34692,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.5,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Uva Bon Bon",
       "strainType": null,
@@ -34786,7 +34728,7 @@
         {
           "id": 8633743,
           "label": "1A403030000012E000169253",
-          "quantity": 10.5,
+          "quantity": 7.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-06-04"
         }
@@ -35835,7 +35777,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Grams",
       "strainName": "Atomic Grapefruit",
       "strainType": null,
@@ -35869,7 +35811,7 @@
         {
           "id": 8966449,
           "label": "1A403030000012E000192643",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-24"
         }
@@ -35933,7 +35875,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Grams",
       "strainName": "Banana Cream Pop",
       "strainType": null,
@@ -35968,7 +35910,7 @@
         {
           "id": 9044770,
           "label": "1A403030000012E000196215",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-08-14"
         }
@@ -39010,59 +38952,6 @@
       ]
     },
     {
-      "id": 9044919,
-      "packageCount": 1,
-      "name": "Juicee J Strane - Pre-rolls - 1 g",
-      "brand": "Strane",
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Grams",
-      "strainName": "Juicee J",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 26.97,
-        "totalCBD": 0.06,
-        "CBC": 0.0,
-        "CBDA": 0.07,
-        "CBDV": 0.0,
-        "CBG": 0.07,
-        "CBGA": 1.25,
-        "CBN": 0.0,
-        "THCA": 29.47,
-        "THCV": 0.14
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.02,
-        "humulene": 0.25,
-        "myrcene": 0.03,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.79,
-        "eudesmol": 0.04,
-        "beta-pinene": 0.06,
-        "ocimene": 0.03,
-        "limonene": 0.42,
-        "linalool": 0.28,
-        "nerolidol": 0.02
-      },
-      "totalTerps": 2.22,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 9044919,
-          "label": "1A403030000012E000196217",
-          "quantity": 2.0,
-          "packagedDate": "2026-09-24",
-          "expirationDate": "2027-07-29"
-        }
-      ]
-    },
-    {
       "id": 8914806,
       "packageCount": 1,
       "name": "K&Q|Diamond Infused Pre-Roll|Bazooka Haze|Usable|1ct, 1g",
@@ -39213,7 +39102,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -39248,7 +39137,7 @@
         {
           "id": 8981881,
           "label": "1A403030000012D000266240",
-          "quantity": 9.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-10",
           "expirationDate": null
         }
@@ -39416,7 +39305,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -39451,7 +39340,7 @@
         {
           "id": 8952841,
           "label": "1A403030000012D000265619",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-03",
           "expirationDate": null
         }
@@ -45234,7 +45123,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Black Mamba .0gX",
       "strainType": null,
@@ -45266,7 +45155,7 @@
         {
           "id": 9039273,
           "label": "1A40303000001F5000450401",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-26"
         },
@@ -45588,7 +45477,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Midnight Moon .0gX",
       "strainType": null,
@@ -45623,7 +45512,7 @@
         {
           "id": 9073301,
           "label": "1A40303000001F5000453101",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-08-28"
         }
@@ -45941,7 +45830,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "X Golden Pineapple",
       "strainType": null,
@@ -45974,7 +45863,7 @@
         {
           "id": 9073302,
           "label": "1A40303000001F5000453102",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-09-01"
         }
@@ -46348,7 +46237,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Bacio Gelato",
       "strainType": null,
@@ -46383,7 +46272,7 @@
         {
           "id": 9039275,
           "label": "1A40303000001F5000450405",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-07-14"
         }
@@ -51940,7 +51829,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Gazzurple",
       "strainType": "Sativa",
@@ -51974,7 +51863,7 @@
         {
           "id": 8970471,
           "label": "1A40303000003EA000263664",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-29"
         }
@@ -64129,7 +64018,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Natural Disposables",
       "strainType": null,
@@ -64161,7 +64050,7 @@
         {
           "id": 8159445,
           "label": "1A4030300002199000042204",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-02-11",
           "expirationDate": null
         }
