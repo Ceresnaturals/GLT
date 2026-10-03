@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:20:03.219568+00:00",
+  "generated_at": "2026-10-03T17:30:02.950003+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -445,7 +445,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -491,7 +491,7 @@
         {
           "id": 8351049,
           "label": "1A4030300000193000092317",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-04-20",
           "expirationDate": "2027-03-17"
         }
@@ -6703,7 +6703,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Double Banger",
       "strainType": null,
@@ -6737,7 +6737,7 @@
         {
           "id": 8996315,
           "label": "1A4030300003522000211332",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-09-08"
         }
@@ -11668,16 +11668,17 @@
       ]
     },
     {
-      "id": 8974480,
-      "packageCount": 1,
+      "id": 9076226,
+      "packageCount": 2,
       "name": "Tall- (XO) Dragon Fruit - 10mg - 1",
       "brand": null,
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 7.0,
+      "quantity": 31.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11715,6 +11716,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9076226,
+          "label": "1A4030300000C83000082497",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-01",
+          "expirationDate": "2027-08-17"
+        },
         {
           "id": 8974480,
           "label": "1A4030300000C83000081722",
@@ -13170,7 +13178,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13209,7 +13217,7 @@
         {
           "id": 8996304,
           "label": "1A4030300003522000211319",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-09-01"
         }
@@ -43016,7 +43024,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "White OG",
       "strainType": null,
@@ -43049,7 +43057,7 @@
         {
           "id": 8746344,
           "label": "1A40303000003EA000201211",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-07-02"
         }
@@ -50243,7 +50251,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Glitter Bomb",
       "strainType": null,
@@ -50279,7 +50287,7 @@
         {
           "id": 8840302,
           "label": "1A4030300004845000037837",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-07-30",
           "expirationDate": null
         }
@@ -50295,7 +50303,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Golden Lemons",
       "strainType": null,
@@ -50330,7 +50338,7 @@
         {
           "id": 8881943,
           "label": "1A4030300004845000039296",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-06",
           "expirationDate": null
         }
@@ -56693,7 +56701,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Grapefruit Maui",
       "strainType": null,
@@ -56727,7 +56735,7 @@
         {
           "id": 8077934,
           "label": "1A4030300003D55000004743",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-02-13",
           "expirationDate": "2026-10-19"
         }
@@ -59991,7 +59999,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Pink CertZ",
       "strainType": null,
@@ -60025,7 +60033,7 @@
         {
           "id": 9005753,
           "label": "1A4030300000C83000088092",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-08-14"
         }
@@ -62243,7 +62251,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Strawberry Jam",
       "strainType": null,
@@ -62276,7 +62284,7 @@
         {
           "id": 9018211,
           "label": "1A40303000017D5000107157",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-08-26"
         }
@@ -63378,7 +63386,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Tropic Like It's Hot Melted AIO Helly Meltz",
       "strainType": null,
@@ -63409,7 +63417,7 @@
         {
           "id": 8966483,
           "label": "1A403030000012E000192148",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-07-31"
         }
