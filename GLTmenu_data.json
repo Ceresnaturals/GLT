@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:30:02.950003+00:00",
+  "generated_at": "2026-10-03T17:40:02.976219+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1784,48 +1784,6 @@
       ]
     },
     {
-      "id": 8992263,
-      "packageCount": 1,
-      "name": "Beezle - THCa Diamonds - Blueberry Guava - 1g",
-      "brand": "Beezle",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": "Blueberry Guava",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 87.26,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 99.5,
-        "THCV": 0.41
-      },
-      "dose": null,
-      "terpenes": {
-        "caryophyllene": 0.08
-      },
-      "totalTerps": 0.08,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8992263,
-          "label": "1A403030000283D000061328",
-          "quantity": 2.0,
-          "packagedDate": "2026-09-14",
-          "expirationDate": null
-        }
-      ]
-    },
-    {
       "id": 8177887,
       "packageCount": 1,
       "name": "Belushi's Farm Oreoz Live Resin Batter 1.0g/1000mg",
@@ -2442,7 +2400,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Creme de la Chem",
       "strainType": null,
@@ -2479,7 +2437,7 @@
         {
           "id": 9073307,
           "label": "1A40303000001F5000453111",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-05-04"
         }
@@ -8773,7 +8731,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Rainbow Push Pop",
       "strainType": null,
@@ -8806,7 +8764,7 @@
         {
           "id": 8854136,
           "label": "1A4030300000C83000079935",
-          "quantity": 7.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-07-31"
         }
@@ -12033,7 +11991,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12074,7 +12032,7 @@
         {
           "id": 8944207,
           "label": "1A40303000003EA000264672",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-08"
         }
@@ -13298,7 +13256,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13339,7 +13297,7 @@
         {
           "id": 8996306,
           "label": "1A4030300003522000211320",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-22"
         }
@@ -16357,27 +16315,28 @@
       ]
     },
     {
-      "id": 8274960,
-      "packageCount": 1,
+      "id": 9076231,
+      "packageCount": 2,
       "name": "Discos - Sour Blueberry - 40mg - 10",
       "brand": null,
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.63,
+        "totalTHC": 0.65,
         "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.0,
+        "CBG": 0.03,
         "CBGA": 0.0,
         "CBN": 0.0,
         "THCA": 0.0,
@@ -16392,7 +16351,7 @@
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.0,
+          "CBG": 1.8,
           "CBGA": 0.0,
           "CBN": 0.0,
           "THCA": 0.0,
@@ -16404,6 +16363,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9076231,
+          "label": "1A4030300000C83000082499",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-01",
+          "expirationDate": "2027-06-23"
+        },
         {
           "id": 8274960,
           "label": "1A4030300000C83000061503",
@@ -18254,7 +18220,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -18293,7 +18259,7 @@
         {
           "id": 9018113,
           "label": "1A40303000017D5000107150",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-07-15"
         }
@@ -22449,63 +22415,6 @@
       ]
     },
     {
-      "id": 8891520,
-      "packageCount": 1,
-      "name": "Incredibles Gummy 100mg - Summer Peach- 10mg - 10 Pieces",
-      "brand": "Incredibles",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.35,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.03,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.9,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8891520,
-          "label": "1A40303000003EA000205080",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-20",
-          "expirationDate": "2027-05-18"
-        }
-      ]
-    },
-    {
       "id": 8607699,
       "packageCount": 1,
       "name": "Incredibles Gummy 100mg - Super Sour Apple Pucker - 10mg - 10 Pieces",
@@ -23212,7 +23121,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23253,7 +23162,7 @@
         {
           "id": 9073305,
           "label": "1A40303000001F5000453107",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-08-20"
         }
@@ -23440,7 +23349,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23481,7 +23390,7 @@
         {
           "id": 9051872,
           "label": "1A4030300000193000108909",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-09-25",
           "expirationDate": "2027-06-30"
         }
@@ -25908,7 +25817,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -25947,7 +25856,7 @@
         {
           "id": 8960021,
           "label": "1A403030000390D000067239",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-09-04",
           "expirationDate": "2027-08-11"
         }
@@ -33186,7 +33095,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 63.0,
+      "quantity": 59.5,
       "unit": "Grams",
       "strainName": "Rainbow Push Pop #4",
       "strainType": null,
@@ -33219,7 +33128,7 @@
         {
           "id": 9041124,
           "label": "1A40303000000CB000053177",
-          "quantity": 63.0,
+          "quantity": 59.5,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-09-16"
         }
@@ -36190,7 +36099,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.0,
+      "quantity": 44.0,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato TC",
       "strainType": null,
@@ -36221,7 +36130,7 @@
         {
           "id": 9039200,
           "label": "1A40303000001F5000450399",
-          "quantity": 45.0,
+          "quantity": 44.0,
           "packagedDate": "2026-09-23",
           "expirationDate": null
         }
@@ -37133,7 +37042,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.5,
+      "quantity": 10.0,
       "unit": "Grams",
       "strainName": "Dark Rainbow",
       "strainType": null,
@@ -37166,7 +37075,7 @@
         {
           "id": 8696694,
           "label": "1A40303000001F5000401538",
-          "quantity": 12.5,
+          "quantity": 10.0,
           "packagedDate": "2026-07-08",
           "expirationDate": null
         }
@@ -40399,58 +40308,6 @@
       ]
     },
     {
-      "id": 9044765,
-      "packageCount": 1,
-      "name": "Mule Fuel Garcia Hand Picked - Pre-rolls - 1 g",
-      "brand": "Garcia Hand Picked",
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Grams",
-      "strainName": "Mule Fuel",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 28.24,
-        "totalCBD": 0.08,
-        "CBC": 0.0,
-        "CBDA": 0.09,
-        "CBDV": 0.0,
-        "CBG": 0.08,
-        "CBGA": 0.67,
-        "CBN": 0.0,
-        "THCA": 30.23,
-        "THCV": 0.17
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.03,
-        "humulene": 0.11,
-        "myrcene": 0.03,
-        "alpha-pinene": 0.07,
-        "caryophyllene": 0.42,
-        "beta-pinene": 0.07,
-        "caryophyllene-oxide": 0.02,
-        "ocimene": 0.02,
-        "limonene": 0.36,
-        "linalool": 0.19
-      },
-      "totalTerps": 1.49,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 9044765,
-          "label": "1A403030000012E000196212",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-24",
-          "expirationDate": "2027-08-21"
-        }
-      ]
-    },
-    {
       "id": 8794918,
       "packageCount": 1,
       "name": "Multi Pack- Pineapple Bang 5 (x7 0.5g Joints) 3.5g",
@@ -43378,7 +43235,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 185.64,
+      "quantity": 182.14,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -43411,7 +43268,7 @@
         {
           "id": 8947159,
           "label": "1A40303000001F5000425620",
-          "quantity": 185.64,
+          "quantity": 182.14,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -44678,7 +44535,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Bubba Kush",
       "strainType": "Indica",
@@ -44712,7 +44569,7 @@
         {
           "id": 7993632,
           "label": "1A403030000238D000087486",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-01-23",
           "expirationDate": "2027-01-18"
         }
@@ -48442,7 +48299,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Cheetah Jet Fuel LR Black",
       "strainType": null,
@@ -48477,7 +48334,7 @@
         {
           "id": 8760585,
           "label": "1A4030300001771000040080",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-07-22",
           "expirationDate": "2027-07-16"
         }
@@ -50150,7 +50007,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Boston Runtz",
       "strainType": null,
@@ -50184,7 +50041,7 @@
         {
           "id": 9002400,
           "label": "1A4030300004845000044237",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-05-04",
           "expirationDate": "2027-05-04"
         }
@@ -52178,7 +52035,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": "Grow West OG Sweet Backwood",
       "strainType": null,
@@ -52213,7 +52070,7 @@
         {
           "id": 9029665,
           "label": "1A40303000039D1000085139",
-          "quantity": 27.0,
+          "quantity": 26.0,
           "packagedDate": "2026-09-22",
           "expirationDate": null
         }
@@ -54329,7 +54186,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Trainwreck",
       "strainType": null,
@@ -54363,7 +54220,7 @@
         {
           "id": 8939226,
           "label": "1A4030300003522000210566",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-11"
         }
@@ -55086,7 +54943,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Key Lime Pie",
       "strainType": null,
@@ -55116,7 +54973,7 @@
         {
           "id": 8858136,
           "label": "1A40303000039D1000091565",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-05-19"
         }
@@ -57760,7 +57617,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Blue Razz Slushie",
       "strainType": null,
@@ -57794,7 +57651,7 @@
         {
           "id": 8999576,
           "label": "1A403030000283D000061463",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -57810,7 +57667,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": null,
@@ -57844,7 +57701,7 @@
         {
           "id": 8945348,
           "label": "1A403030000283D000060835",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -59458,7 +59315,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Papayahuasca",
       "strainType": null,
@@ -59491,7 +59348,7 @@
         {
           "id": 8858443,
           "label": "1A40303000039D1000091567",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-05-15"
         }
@@ -61753,7 +61610,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Ready To Use Vaporizer",
       "strainType": null,
@@ -61790,7 +61647,7 @@
         {
           "id": 8940649,
           "label": "1A4030300000C83000086777",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-12"
         }
@@ -63037,7 +62894,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -63071,7 +62928,7 @@
         {
           "id": 8858442,
           "label": "1A40303000039D1000091583",
-          "quantity": 8.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-05-18"
         }
@@ -63335,7 +63192,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Tinselmints x Durban Poison BFS",
       "strainType": null,
@@ -63370,7 +63227,7 @@
         {
           "id": 7944847,
           "label": "1A40303000037DD000019961",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-01-13",
           "expirationDate": "2026-10-28"
         }
