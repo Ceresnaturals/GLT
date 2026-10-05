@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T16:10:02.935927+00:00",
+  "generated_at": "2026-10-05T16:20:02.968028+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8261,7 +8261,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Blue Z",
       "strainType": "Indica",
@@ -8294,7 +8294,7 @@
         {
           "id": 9039331,
           "label": "1A40303000003EA000258983",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-19"
         }
@@ -8310,7 +8310,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Blueberry Kush",
       "strainType": "Indica",
@@ -8344,7 +8344,7 @@
         {
           "id": 9003340,
           "label": "1A40303000003EA000266190",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-08-19"
         }
@@ -8462,7 +8462,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Strawberry Sour Diesel",
       "strainType": "Sativa",
@@ -8496,7 +8496,7 @@
         {
           "id": 9075704,
           "label": "1A40303000003EA000260956",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-21"
         }
@@ -8512,7 +8512,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Watermelon Z",
       "strainType": "Indica",
@@ -8546,7 +8546,7 @@
         {
           "id": 8944070,
           "label": "1A40303000003EA000264678",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-21"
         }
@@ -25592,7 +25592,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Duct Tape",
       "strainType": null,
@@ -25625,9 +25625,59 @@
         {
           "id": 8752050,
           "label": "1A4030300002009000109416",
-          "quantity": 14.0,
+          "quantity": 7.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-06-09"
+        }
+      ]
+    },
+    {
+      "id": 8678368,
+      "packageCount": 1,
+      "name": "1937|Trim|Cap Junky|Usable|Bulk|454g",
+      "brand": "1937",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 451.64,
+      "unit": "Grams",
+      "strainName": "Cap Junky",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 18.81,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.21,
+        "CBN": 0.0,
+        "THCA": 21.12,
+        "THCV": 0.15
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.06,
+        "myrcene": 0.04,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.22,
+        "eudesmol": 0.11,
+        "beta-pinene": 0.07,
+        "limonene": 0.41,
+        "linalool": 0.22
+      },
+      "totalTerps": 1.46,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8678368,
+          "label": "1A4030300002009000107931",
+          "quantity": 451.64,
+          "packagedDate": "2026-07-02",
+          "expirationDate": "2027-03-23"
         }
       ]
     },
@@ -41182,7 +41232,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Apple Berry Pie",
       "strainType": "Hybrid",
@@ -41215,7 +41265,7 @@
         {
           "id": 8778178,
           "label": "1A40303000003EA000192822",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-04-24"
         }
@@ -54078,7 +54128,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Pineapple Runtz",
       "strainType": "Hybrid",
@@ -54113,7 +54163,7 @@
         {
           "id": 8676364,
           "label": "1A40303000003EA000197288",
-          "quantity": 16.0,
+          "quantity": 14.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-05-28"
         }
