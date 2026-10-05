@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T18:50:02.582351+00:00",
+  "generated_at": "2026-10-05T19:00:03.311365+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4070,7 +4070,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Deep Orbit Blend",
       "strainType": "Indica",
@@ -4103,7 +4103,7 @@
         {
           "id": 8998856,
           "label": "1A4030300002199000062972",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-06-22",
           "expirationDate": null
         }
@@ -8261,7 +8261,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Blue Z",
       "strainType": "Indica",
@@ -8294,7 +8294,7 @@
         {
           "id": 9039331,
           "label": "1A40303000003EA000258983",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-19"
         }
@@ -28209,7 +28209,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 238.5,
+      "quantity": 235.0,
       "unit": "Grams",
       "strainName": "Jack Herer",
       "strainType": null,
@@ -28242,7 +28242,7 @@
         {
           "id": 8241348,
           "label": "1A40303000000C9000142462",
-          "quantity": 238.5,
+          "quantity": 235.0,
           "packagedDate": "2026-03-25",
           "expirationDate": "2026-12-01"
         }
@@ -28606,7 +28606,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 49.0,
+      "quantity": 45.5,
       "unit": "Grams",
       "strainName": "Cherry Slushee",
       "strainType": null,
@@ -28639,7 +28639,7 @@
         {
           "id": 8998558,
           "label": "1A403030000025B000087300",
-          "quantity": 49.0,
+          "quantity": 45.5,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-05-23"
         }
@@ -32192,7 +32192,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Animal Scout",
       "strainType": null,
@@ -32225,7 +32225,7 @@
         {
           "id": 8970729,
           "label": "1A40303000003EA000263659",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-29"
         }
@@ -33223,7 +33223,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 25.0,
       "unit": "Grams",
@@ -34736,7 +34736,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 1.0,
       "unit": "Grams",
       "strainName": "Gumi 6",
       "strainType": null,
@@ -34769,7 +34769,7 @@
         {
           "id": 8911025,
           "label": "1A40303000000CB000050577",
-          "quantity": 3.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-18"
         }
@@ -35462,6 +35462,58 @@
           "label": "1A403030000012D000265619",
           "quantity": 7.0,
           "packagedDate": "2026-09-03",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9047756,
+      "packageCount": 1,
+      "name": "Kaviar Sativa Infused Pre-Roll - 1.5g",
+      "brand": "Kaviar",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 36.76,
+        "CBC": 0.34,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.53,
+        "CBN": 0.39,
+        "THCA": 18.16,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.08,
+        "myrcene": 0.15,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.23,
+        "eudesmol": 0.07,
+        "beta-pinene": 0.05,
+        "ocimene": 0.03,
+        "limonene": 0.18,
+        "linalool": 0.16,
+        "terpinolene": 0.07
+      },
+      "totalTerps": 1.37,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9047756,
+          "label": "1A403030000012D000267865",
+          "quantity": 30.0,
+          "packagedDate": "2026-09-24",
           "expirationDate": null
         }
       ]
@@ -38172,7 +38224,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "VelcroZ",
       "strainType": null,
@@ -38205,7 +38257,7 @@
         {
           "id": 9075609,
           "label": "1A40303000003EA000260955",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-09-01"
         }
@@ -38478,7 +38530,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 65.3,
+      "quantity": 61.8,
       "unit": "Grams",
       "strainName": "Permanent Marker",
       "strainType": null,
@@ -38511,7 +38563,7 @@
         {
           "id": 8919307,
           "label": "1A40303000001F5000423348",
-          "quantity": 65.3,
+          "quantity": 61.8,
           "packagedDate": "2026-08-26",
           "expirationDate": null
         }
@@ -38574,7 +38626,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 80.64,
+      "quantity": 77.14,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -38607,7 +38659,7 @@
         {
           "id": 8947159,
           "label": "1A40303000001F5000425620",
-          "quantity": 80.64,
+          "quantity": 77.14,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -41626,7 +41678,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Banana Munson",
       "strainType": null,
@@ -41662,7 +41714,7 @@
         {
           "id": 8947157,
           "label": "1A40303000001F5000425616",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-01"
         }
