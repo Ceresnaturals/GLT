@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T18:30:06.662016+00:00",
+  "generated_at": "2026-10-05T18:40:03.120946+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10556,7 +10556,7 @@
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 14.0,
       "unit": "Each",
@@ -10784,7 +10784,7 @@
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 18.0,
       "unit": "Each",
@@ -12730,7 +12730,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12769,7 +12769,7 @@
         {
           "id": 8766853,
           "label": "1A4030300003522000207387",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-01-04"
         }
@@ -15241,16 +15241,15 @@
     },
     {
       "id": 8999082,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Discos - Fruit Punch 1:1 (THC:CBG) - 10mg - 10",
       "brand": null,
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15294,13 +15293,6 @@
           "quantity": 25.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-04"
-        },
-        {
-          "id": 8539325,
-          "label": "1A4030300000C83000063547",
-          "quantity": 1.0,
-          "packagedDate": "2026-06-02",
-          "expirationDate": "2027-04-23"
         }
       ]
     },
@@ -30193,7 +30185,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 392.0,
+      "quantity": 364.0,
       "unit": "Grams",
       "strainName": "Pineapple Bang 5",
       "strainType": null,
@@ -30226,7 +30218,7 @@
         {
           "id": 9047120,
           "label": "1A40303000000CB000053227",
-          "quantity": 392.0,
+          "quantity": 364.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-09-20"
         }
@@ -33284,7 +33276,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "Lemon Popsicle",
       "strainType": null,
@@ -33319,7 +33311,7 @@
         {
           "id": 9079339,
           "label": "1A403030000012D000272419",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-10-01",
           "expirationDate": null
         }
@@ -36455,7 +36447,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 12.0,
       "unit": "Each",
@@ -55746,7 +55738,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Maui Wowie",
       "strainType": "Sativa",
@@ -55779,7 +55771,7 @@
         {
           "id": 9039332,
           "label": "1A40303000003EA000258986",
-          "quantity": 19.0,
+          "quantity": 17.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-07-29"
         }
