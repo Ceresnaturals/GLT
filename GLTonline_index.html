@@ -11,7 +11,7 @@
    a user's mouse-wheel over the embed scrolls the IFRAME's hidden internal viewport instead of
    the outer Squarespace page, which silently breaks the GLT_PARENT_SCROLL-based positioning of
    the drawer/help modal/compare modal (they get repositioned against outer-page scroll that
-   never actually changes, and the user has no way to bring them into view). */
+   never actually changes, and the user has no way to bring them into view).  */
 if(window.self !== window.top) document.documentElement.classList.add('embed');
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -1694,3 +1694,4 @@ boot();
 </script>
 </body>
 </html>
+
