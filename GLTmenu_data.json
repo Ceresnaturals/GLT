@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T21:40:02.890547+00:00",
+  "generated_at": "2026-10-06T21:50:03.354844+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3981,7 +3981,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Grams",
       "strainName": "Zelato",
       "strainType": null,
@@ -4008,7 +4008,7 @@
         {
           "id": 8689162,
           "label": "1A4030300003201000001350",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-02-02"
         }
@@ -14054,7 +14054,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14093,7 +14093,7 @@
         {
           "id": 9079342,
           "label": "1A403030000012D000272422",
-          "quantity": 24.0,
+          "quantity": 20.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-07-16"
         }
@@ -23116,7 +23116,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23157,7 +23157,7 @@
         {
           "id": 8996313,
           "label": "1A4030300003522000211326",
-          "quantity": 22.0,
+          "quantity": 18.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-09-01"
         }
@@ -24881,57 +24881,6 @@
           "quantity": 252.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-18"
-        }
-      ]
-    },
-    {
-      "id": 8091552,
-      "packageCount": 1,
-      "name": "Apollo 22-PR-0.5gx2",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Grams",
-      "strainName": "Apollo 22",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 21.98,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.68,
-        "CBN": 0.0,
-        "THCA": 24.36,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.11,
-        "myrcene": 0.43,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 0.4,
-        "beta-pinene": 0.07,
-        "caryophyllene-oxide": 0.05,
-        "limonene": 0.48,
-        "linalool": 0.22,
-        "terpinolene": 0.01
-      },
-      "totalTerps": 2.06,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8091552,
-          "label": "1A4030300000709000047807",
-          "quantity": 1.0,
-          "packagedDate": "2026-02-17",
-          "expirationDate": "2026-10-26"
         }
       ]
     },
@@ -27121,7 +27070,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 84.0,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "Bapple Fritz",
       "strainType": null,
@@ -27156,7 +27105,7 @@
         {
           "id": 8938796,
           "label": "1A4030300003521000056670",
-          "quantity": 84.0,
+          "quantity": 70.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-12"
         }
@@ -29205,7 +29154,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 80.5,
+      "quantity": 73.5,
       "unit": "Grams",
       "strainName": "Lemon Margy",
       "strainType": null,
@@ -29240,7 +29189,7 @@
         {
           "id": 9066219,
           "label": "1A4030300003521000058693",
-          "quantity": 80.5,
+          "quantity": 73.5,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-08-29"
         }
