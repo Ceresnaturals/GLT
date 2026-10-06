@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T20:40:03.144362+00:00",
+  "generated_at": "2026-10-06T20:50:03.746333+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -262,7 +262,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -303,7 +303,7 @@
         {
           "id": 9066547,
           "label": "1A4030300003522000215113",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-08-26"
         }
@@ -3695,7 +3695,7 @@
           "label": "1A4030300002199000041404",
           "quantity": 6.0,
           "packagedDate": "2026-02-11",
-          "expirationDate": null
+          "expirationDate": "2027-02-13"
         }
       ]
     },
@@ -5658,7 +5658,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Mfused FIRE Fattys",
       "strainType": null,
@@ -5694,59 +5694,9 @@
         {
           "id": 9047754,
           "label": "1A403030000012D000267863",
-          "quantity": 25.0,
+          "quantity": 23.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-07-21"
-        }
-      ]
-    },
-    {
-      "id": 8894082,
-      "packageCount": 1,
-      "name": "Mfused TWISTED Fattys (Wild Watermelon)-Usable-2x0.5g",
-      "brand": null,
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Mfused TWISTED Fattys",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 35.04,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.8,
-        "CBN": 0.0,
-        "THCA": 37.5,
-        "THCV": 0.13
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.33,
-        "myrcene": 0.09,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 0.67,
-        "beta-pinene": 0.05,
-        "limonene": 0.81,
-        "linalool": 0.5,
-        "terpinolene": 0.03,
-        "nerolidol": 0.2
-      },
-      "totalTerps": 2.98,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8894082,
-          "label": "1A403030000012D000261767",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-20",
-          "expirationDate": "2027-06-22"
         }
       ]
     },
@@ -6686,7 +6636,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Lilac Diesel",
       "strainType": null,
@@ -6718,7 +6668,7 @@
         {
           "id": 8996316,
           "label": "1A4030300003522000211333",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-30"
         }
@@ -8121,7 +8071,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Strawberry Sour Diesel",
       "strainType": "Sativa",
@@ -8155,59 +8105,9 @@
         {
           "id": 9075704,
           "label": "1A40303000003EA000260956",
-          "quantity": 23.0,
+          "quantity": 21.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-21"
-        }
-      ]
-    },
-    {
-      "id": 8944070,
-      "packageCount": 1,
-      "name": "Rythm 5 Pack (Infused) - Watermelon Z (Indica Dominant) - 2.5g",
-      "brand": "Rythm",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": "Watermelon Z",
-      "strainType": "Indica",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 36.59,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.52,
-        "CBN": 0.0,
-        "THCA": 39.19,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.12,
-        "humulene": 0.26,
-        "myrcene": 0.07,
-        "alpha-pinene": 0.02,
-        "caryophyllene": 1.04,
-        "beta-pinene": 0.02,
-        "limonene": 0.14,
-        "linalool": 0.34,
-        "nerolidol": 0.12
-      },
-      "totalTerps": 2.25,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8944070,
-          "label": "1A40303000003EA000264678",
-          "quantity": 2.0,
-          "packagedDate": "2026-09-02",
-          "expirationDate": "2027-07-21"
         }
       ]
     },
@@ -9363,7 +9263,7 @@
           "label": "1A403030000012D000203969",
           "quantity": 13.0,
           "packagedDate": "2026-01-22",
-          "expirationDate": null
+          "expirationDate": "2026-12-02"
         }
       ]
     },
@@ -12646,7 +12546,7 @@
           "label": "1A4030300000579000036404",
           "quantity": 6.0,
           "packagedDate": "2026-02-20",
-          "expirationDate": null
+          "expirationDate": "2026-10-25"
         }
       ]
     },
@@ -17243,7 +17143,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17282,7 +17182,7 @@
         {
           "id": 8958877,
           "label": "1A40303000017D5000105507",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-07-28"
         }
@@ -18988,7 +18888,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19029,7 +18929,7 @@
         {
           "id": 8939346,
           "label": "1A4030300003522000210568",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-17"
         }
@@ -19216,7 +19116,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19257,7 +19157,7 @@
         {
           "id": 8766944,
           "label": "1A4030300003522000207393",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-15"
         }
@@ -19444,7 +19344,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19485,7 +19385,7 @@
         {
           "id": 8828744,
           "label": "1A4030300003522000195382",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-22"
         }
@@ -19613,7 +19513,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19654,7 +19554,7 @@
         {
           "id": 8828747,
           "label": "1A4030300003522000195383",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-24"
         }
@@ -19670,7 +19570,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19711,7 +19611,7 @@
         {
           "id": 8882287,
           "label": "1A4030300003522000202244",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-13"
         }
@@ -22988,7 +22888,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23029,7 +22929,7 @@
         {
           "id": 9039609,
           "label": "1A40303000001F5000450415",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-09-08"
         }
@@ -24165,7 +24065,7 @@
           "label": "1A4030300002199000044639",
           "quantity": 6.0,
           "packagedDate": "2026-02-04",
-          "expirationDate": null
+          "expirationDate": "2027-02-05"
         }
       ]
     },
@@ -24951,7 +24851,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 339.64,
+      "quantity": 336.14,
       "unit": "Grams",
       "strainName": "Cap Junky",
       "strainType": null,
@@ -24985,7 +24885,7 @@
         {
           "id": 8678368,
           "label": "1A4030300002009000107931",
-          "quantity": 339.64,
+          "quantity": 336.14,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-03-23"
         }
@@ -25088,7 +24988,7 @@
           "label": "1A4030300000709000047807",
           "quantity": 1.0,
           "packagedDate": "2026-02-17",
-          "expirationDate": null
+          "expirationDate": "2026-10-26"
         }
       ]
     },
@@ -25185,7 +25085,7 @@
           "label": "1A4030300000709000047806",
           "quantity": 31.0,
           "packagedDate": "2026-02-17",
-          "expirationDate": null
+          "expirationDate": "2026-11-04"
         }
       ]
     },
@@ -28552,7 +28452,7 @@
           "label": "1A40303000007D1000056117",
           "quantity": 33.0,
           "packagedDate": "2026-02-03",
-          "expirationDate": null
+          "expirationDate": "2027-01-09"
         }
       ]
     },
@@ -28650,7 +28550,7 @@
           "label": "1A40303000007D1000045153",
           "quantity": 2.0,
           "packagedDate": "2025-12-02",
-          "expirationDate": null
+          "expirationDate": "2026-11-09"
         }
       ]
     },
@@ -28699,7 +28599,7 @@
           "label": "1A40303000007D1000045154",
           "quantity": 4.0,
           "packagedDate": "2025-12-02",
-          "expirationDate": null
+          "expirationDate": "2026-11-14"
         }
       ]
     },
@@ -28748,7 +28648,7 @@
           "label": "1A40303000007D1000058451",
           "quantity": 12.0,
           "packagedDate": "2026-01-13",
-          "expirationDate": null
+          "expirationDate": "2026-11-24"
         }
       ]
     },
@@ -30239,7 +30139,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.5,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Scotch & Soda",
       "strainType": "Hybrid",
@@ -30272,7 +30172,7 @@
         {
           "id": 8944067,
           "label": "1A40303000003EA000264675",
-          "quantity": 45.5,
+          "quantity": 42.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         }
@@ -30858,7 +30758,7 @@
           "label": "1A403030000025B000072030",
           "quantity": 10.5,
           "packagedDate": "2026-02-23",
-          "expirationDate": null
+          "expirationDate": "2027-02-04"
         }
       ]
     },
@@ -33201,7 +33101,7 @@
           "label": "1A4030300002EE1000114725",
           "quantity": 31.0,
           "packagedDate": "2025-12-03",
-          "expirationDate": null
+          "expirationDate": "2026-11-28"
         }
       ]
     },
@@ -35036,7 +34936,7 @@
           "label": "1A4030300002199000053122",
           "quantity": 1.0,
           "packagedDate": "2026-02-23",
-          "expirationDate": null
+          "expirationDate": "2027-02-25"
         }
       ]
     },
@@ -35086,7 +34986,7 @@
           "label": "1A403030000025B000071227",
           "quantity": 3.0,
           "packagedDate": "2026-03-02",
-          "expirationDate": null
+          "expirationDate": "2027-02-19"
         }
       ]
     },
@@ -35135,7 +35035,7 @@
           "label": "1A403030000025B000072032",
           "quantity": 4.0,
           "packagedDate": "2026-02-11",
-          "expirationDate": null
+          "expirationDate": "2027-01-15"
         }
       ]
     },
@@ -35331,7 +35231,7 @@
           "label": "1A403030000025B000072033",
           "quantity": 7.0,
           "packagedDate": "2026-02-25",
-          "expirationDate": null
+          "expirationDate": "2027-02-12"
         }
       ]
     },
@@ -35863,7 +35763,7 @@
           "label": "1A4030300003522000169462",
           "quantity": 12.0,
           "packagedDate": "2026-02-05",
-          "expirationDate": null
+          "expirationDate": "2027-01-24"
         }
       ]
     },
@@ -36254,7 +36154,7 @@
           "label": "1A4030300003521000045206",
           "quantity": 22.5,
           "packagedDate": "2026-02-05",
-          "expirationDate": null
+          "expirationDate": "2027-01-08"
         }
       ]
     },
@@ -45615,7 +45515,7 @@
           "label": "1A403030000070A000031929",
           "quantity": 21.0,
           "packagedDate": "2026-02-17",
-          "expirationDate": null
+          "expirationDate": "2027-01-11"
         }
       ]
     },
@@ -46924,7 +46824,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Acapulco Gold",
       "strainType": null,
@@ -46954,58 +46854,9 @@
         {
           "id": 8766954,
           "label": "1A4030300003522000207394",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-04"
-        }
-      ]
-    },
-    {
-      "id": 8766961,
-      "packageCount": 1,
-      "name": "In House Afgoo Disposable-2g",
-      "brand": "In House",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Afgoo",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 83.08,
-        "CBC": 1.05,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.03,
-        "CBGA": 0.0,
-        "CBN": 0.51,
-        "THCA": 0.0,
-        "THCV": 0.64
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.5,
-        "myrcene": 0.21,
-        "alpha-pinene": 0.13,
-        "caryophyllene": 1.32,
-        "beta-pinene": 0.11,
-        "limonene": 1.21,
-        "linalool": 0.27,
-        "terpinolene": 0.04
-      },
-      "totalTerps": 3.86,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8766961,
-          "label": "1A4030300003522000207395",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-23",
-          "expirationDate": "2027-06-05"
         }
       ]
     },
@@ -48596,7 +48447,7 @@
           "label": "1A4030300004845000021350",
           "quantity": 3.0,
           "packagedDate": "2026-03-02",
-          "expirationDate": null
+          "expirationDate": "2027-02-26"
         }
       ]
     },
@@ -48647,7 +48498,7 @@
           "label": "1A4030300004845000007646",
           "quantity": 2.0,
           "packagedDate": "2026-02-10",
-          "expirationDate": null
+          "expirationDate": "2027-02-05"
         }
       ]
     },
@@ -56080,7 +55931,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Tropical Z DV",
       "strainType": null,
@@ -56114,7 +55965,7 @@
         {
           "id": 8794435,
           "label": "1A40303000001F5000410810",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-01-15"
         }
@@ -56256,7 +56107,7 @@
           "label": "1A4030300002199000042202",
           "quantity": 9.0,
           "packagedDate": "2026-02-11",
-          "expirationDate": null
+          "expirationDate": "2027-02-13"
         }
       ]
     },
@@ -56305,7 +56156,7 @@
           "label": "1A4030300002199000042203",
           "quantity": 2.0,
           "packagedDate": "2026-02-12",
-          "expirationDate": null
+          "expirationDate": "2027-02-13"
         }
       ]
     },
@@ -56353,7 +56204,7 @@
           "label": "1A4030300002199000042204",
           "quantity": 14.0,
           "packagedDate": "2026-02-11",
-          "expirationDate": null
+          "expirationDate": "2027-02-13"
         }
       ]
     },
