@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T10:00:46.248223+00:00",
+  "generated_at": "2026-10-07T13:00:02.989134+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1935,7 +1935,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 6.0,
       "unit": "Each",
@@ -37222,8 +37222,8 @@
       ]
     },
     {
-      "id": 8919307,
-      "packageCount": 1,
+      "id": 8947234,
+      "packageCount": 2,
       "name": "Shake&Trim - Permenant Marker",
       "brand": null,
       "category": "Shake/Trim",
@@ -37231,36 +37231,44 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.3,
+      "quantity": 452.75,
       "unit": "Grams",
       "strainName": "Permanent Marker",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 24.65,
-        "totalCBD": 0.16,
-        "CBDA": 0.04,
-        "CBG": 0.75,
+        "totalTHC": 25.12,
+        "totalCBD": 0.14,
+        "CBDA": 0.03,
+        "CBG": 0.79,
         "CBN": 0.02,
-        "THCA": 27.33
+        "THCA": 27.35
       },
       "dose": null,
       "terpenes": {
-        "bisabolol": 0.03,
-        "humulene": 0.14,
+        "bisabolol": 0.05,
+        "humulene": 0.15,
         "myrcene": 0.07,
-        "alpha-pinene": 0.16,
-        "caryophyllene": 0.43,
-        "beta-pinene": 0.11,
-        "ocimene": 0.08,
-        "limonene": 0.63,
-        "linalool": 0.24,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 0.46,
+        "eudesmol": 0.01,
+        "beta-pinene": 0.1,
+        "ocimene": 0.07,
+        "limonene": 0.42,
+        "linalool": 0.23,
         "terpinolene": 0.01,
-        "nerolidol": 0.02
+        "nerolidol": 0.03
       },
-      "totalTerps": 2.06,
-      "dominantTerpene": "limonene",
+      "totalTerps": 1.91,
+      "dominantTerpene": "caryophyllene",
       "packages": [
+        {
+          "id": 8947234,
+          "label": "1A40303000001F5000425621",
+          "quantity": 450.45,
+          "packagedDate": "2026-09-02",
+          "expirationDate": null
+        },
         {
           "id": 8919307,
           "label": "1A40303000001F5000423348",
