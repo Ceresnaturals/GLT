@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:10:02.556531+00:00",
+  "generated_at": "2026-10-07T18:20:02.933483+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2442,7 +2442,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Dulce Destroyer",
       "strainType": null,
@@ -2480,7 +2480,7 @@
         {
           "id": 8919192,
           "label": "1A40303000001F5000423344",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-02"
         }
@@ -4021,7 +4021,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Deep Orbit Blend",
       "strainType": "Indica",
@@ -4054,7 +4054,7 @@
         {
           "id": 8998856,
           "label": "1A4030300002199000062972",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-06-22",
           "expirationDate": "2027-06-24"
         }
@@ -7325,7 +7325,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Purple Koala",
       "strainType": null,
@@ -7359,7 +7359,7 @@
         {
           "id": 8971436,
           "label": "1A40303000037DD000025942",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-06-08"
         }
@@ -12471,63 +12471,6 @@
           "quantity": 6.0,
           "packagedDate": "2026-02-20",
           "expirationDate": "2026-10-25"
-        }
-      ]
-    },
-    {
-      "id": 8801743,
-      "packageCount": 1,
-      "name": "Coast Grape Infused Chews - 5mg THC - 20",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 6.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.14,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.66,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 chew = 5mg",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 5.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 1.188,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8801743,
-          "label": "1A4030300000579000043670",
-          "quantity": 6.0,
-          "packagedDate": "2026-07-30",
-          "expirationDate": "2027-04-05"
         }
       ]
     },
@@ -17893,61 +17836,6 @@
           "quantity": 22.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-07-21"
-        }
-      ]
-    },
-    {
-      "id": 8914614,
-      "packageCount": 1,
-      "name": "HiColor Dream Gummies Blackberry 1:1|Edible Product|10mg|10ct",
-      "brand": "HiColor",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.203,
-        "CBC": 0.008,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.033,
-        "CBGA": 0.0,
-        "CBN": 0.203,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1pc",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.34,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 1.403,
-          "CBGA": 0.0,
-          "CBN": 8.632,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8914614,
-          "label": "1A4030300002009000112787",
-          "quantity": 2.0,
-          "packagedDate": "2026-08-26",
-          "expirationDate": "2027-05-18"
         }
       ]
     },
@@ -25753,7 +25641,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 168.0,
+      "quantity": 154.0,
       "unit": "Grams",
       "strainName": "the crazy lady- BLVCK MRKT",
       "strainType": null,
@@ -25787,7 +25675,7 @@
         {
           "id": 9027467,
           "label": "1A40303000040D9000006252",
-          "quantity": 168.0,
+          "quantity": 154.0,
           "packagedDate": "2026-09-21",
           "expirationDate": "2027-09-20"
         }
