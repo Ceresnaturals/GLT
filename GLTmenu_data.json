@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:00:02.989134+00:00",
+  "generated_at": "2026-10-07T13:10:05.075290+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10007,6 +10007,63 @@
       ]
     },
     {
+      "id": 9073089,
+      "packageCount": 1,
+      "name": "Sunnies Mocktail No. 2 Bright Grapefruit -10mg -1",
+      "brand": "Sunnies",
+      "category": "Drink",
+      "metrcCategory": "Infused Liquid Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.003,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Can",
+        "totalThcMg": 10.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9073089,
+          "label": "1A40303000001F5000453093",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-30",
+          "expirationDate": "2027-08-27"
+        }
+      ]
+    },
+    {
       "id": 8947814,
       "packageCount": 1,
       "name": "Sunnies Socials - Black Cherry Sparkling Water -10mg -1",
@@ -10307,7 +10364,7 @@
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 24.0,
       "unit": "Each",
