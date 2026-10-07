@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:00:02.598911+00:00",
+  "generated_at": "2026-10-07T14:10:07.905766+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1937,7 +1937,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Blvck Gelatti",
       "strainType": null,
@@ -1971,7 +1971,7 @@
         {
           "id": 8730498,
           "label": "ABC0303000037DD000024550",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2026-11-03"
         }
@@ -7013,41 +7013,50 @@
       ]
     },
     {
-      "id": 8518846,
-      "packageCount": 1,
+      "id": 8939249,
+      "packageCount": 2,
       "name": "NH THC:CBD 1:1 RSO-1ml",
       "brand": "NH",
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 43.91,
-        "totalCBD": 45.97,
-        "CBC": 0.0,
+        "totalTHC": 41.25,
+        "totalCBD": 42.44,
+        "CBC": 0.41,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 1.56,
+        "CBG": 1.37,
         "CBGA": 0.0,
-        "CBN": 0.22,
+        "CBN": 0.23,
         "THCA": 0.0,
         "THCV": 0.0
       },
       "dose": null,
       "terpenes": {
         "humulene": 0.16,
-        "caryophyllene": 0.43,
-        "linalool": 0.23
+        "caryophyllene": 0.49,
+        "eudesmol": 0.2,
+        "linalool": 0.22
       },
-      "totalTerps": 1.07,
+      "totalTerps": 1.38,
       "dominantTerpene": "caryophyllene",
       "packages": [
+        {
+          "id": 8939249,
+          "label": "1A4030300003522000210583",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-04-28"
+        },
         {
           "id": 8518846,
           "label": "1A4030300003522000192434",
@@ -9781,16 +9790,17 @@
       ]
     },
     {
-      "id": 8998117,
-      "packageCount": 1,
+      "id": 9073088,
+      "packageCount": 2,
       "name": "Keef - Orange Kush - 10mg - 1",
       "brand": null,
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9829,11 +9839,75 @@
       "dominantTerpene": null,
       "packages": [
         {
+          "id": 9073088,
+          "label": "1A40303000001F5000453091",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-30",
+          "expirationDate": "2027-08-24"
+        },
+        {
           "id": 8998117,
           "label": "1A40303000001F5000431208",
           "quantity": 5.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-10"
+        }
+      ]
+    },
+    {
+      "id": 8973207,
+      "packageCount": 1,
+      "name": "Keef - Original Cola - 10mg - 1",
+      "brand": null,
+      "category": "Drink",
+      "metrcCategory": "Infused Liquid Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.003,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Can",
+        "totalThcMg": 10.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8973207,
+          "label": "1A40303000001F5000428805",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-06-08"
         }
       ]
     },
@@ -11151,28 +11225,29 @@
       ]
     },
     {
-      "id": 8882315,
-      "packageCount": 1,
+      "id": 8996071,
+      "packageCount": 2,
       "name": "Betty's Eddies Lemon Agave V3 Fruit Chews-40mg-10",
       "brand": "Betty's Eddies",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.534,
-        "CBC": 0.006,
+        "totalTHC": 0.543,
+        "CBC": 0.004,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.025,
+        "CBG": 0.014,
         "CBGA": 0.0,
-        "CBN": 0.002,
+        "CBN": 0.0,
         "THCA": 0.0,
         "THCV": 0.005
       },
@@ -11181,12 +11256,12 @@
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "CBC": 0.043,
+          "CBC": 0.028,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.177,
+          "CBG": 0.099,
           "CBGA": 0.0,
-          "CBN": 0.014,
+          "CBN": 0.0,
           "THCA": 0.0,
           "THCV": 0.036
         },
@@ -11196,6 +11271,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8996071,
+          "label": "1A4030300003522000211312",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-09-03"
+        },
         {
           "id": 8882315,
           "label": "1A4030300003522000202257",
@@ -11215,7 +11297,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11254,7 +11336,7 @@
         {
           "id": 8882296,
           "label": "1A4030300003522000202248",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-15"
         }
@@ -11422,6 +11504,61 @@
           "quantity": 2.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-28"
+        }
+      ]
+    },
+    {
+      "id": 8996076,
+      "packageCount": 1,
+      "name": "Betty's Eddies Pineapple Orange V3 Fruit Chews-40mg-10",
+      "brand": "Betty's Eddies",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.553,
+        "CBC": 0.007,
+        "CBDA": 0.0,
+        "CBDV": 0.038,
+        "CBG": 0.064,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.005
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "CBC": 0.05,
+          "CBDA": 0.0,
+          "CBDV": 0.27,
+          "CBG": 0.454,
+          "CBGA": 0.0,
+          "CBN": 0.014,
+          "THCA": 0.0,
+          "THCV": 0.036
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8996076,
+          "label": "1A4030300003522000211315",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-07-03"
         }
       ]
     },
@@ -30066,7 +30203,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 70.0,
+      "quantity": 66.5,
       "unit": "Grams",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -30099,7 +30236,7 @@
         {
           "id": 9027465,
           "label": "1A40303000040D9000006251",
-          "quantity": 70.0,
+          "quantity": 66.5,
           "packagedDate": "2026-09-21",
           "expirationDate": "2027-09-20"
         }
@@ -50313,7 +50450,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Blue Razz Slushie",
       "strainType": null,
@@ -50347,7 +50484,7 @@
         {
           "id": 8999576,
           "label": "1A403030000283D000061463",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-06-30"
         }
