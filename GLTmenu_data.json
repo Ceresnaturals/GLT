@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:20:02.556978+00:00",
+  "generated_at": "2026-10-08T22:30:03.594720+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -20,7 +20,7 @@
   "products": [
     {
       "id": 9030802,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "ALLCAPS 100mg - 100mg - 10",
       "brand": null,
       "category": "Capsule",
@@ -28,7 +28,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -69,16 +69,9 @@
         {
           "id": 9030802,
           "label": "1A4030300000C83000082168",
-          "quantity": 20.0,
+          "quantity": 18.0,
           "packagedDate": "2026-09-22",
           "expirationDate": "2027-08-12"
-        },
-        {
-          "id": 8909468,
-          "label": "1A4030300000C83000081192",
-          "quantity": 2.0,
-          "packagedDate": "2026-08-25",
-          "expirationDate": "2027-03-12"
         }
       ]
     },
@@ -27428,7 +27421,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 24.5,
       "unit": "Grams",
       "strainName": "Cherry Slushee",
       "strainType": null,
@@ -27461,7 +27454,7 @@
         {
           "id": 8998558,
           "label": "1A403030000025B000087300",
-          "quantity": 28.0,
+          "quantity": 24.5,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-05-23"
         }
