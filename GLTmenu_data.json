@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T19:30:02.578666+00:00",
+  "generated_at": "2026-10-08T19:40:04.286098+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2328,6 +2328,56 @@
           "quantity": 16.0,
           "packagedDate": "2026-07-14",
           "expirationDate": "2027-05-06"
+        }
+      ]
+    },
+    {
+      "id": 9100511,
+      "packageCount": 1,
+      "name": "District Cannabis SDG OG Live Sugar- 3.5g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "District Cannabis SDG OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 73.19,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.73,
+        "CBN": 0.0,
+        "THCA": 83.45,
+        "THCV": 0.55
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.36,
+        "humulene": 1.06,
+        "myrcene": 3.26,
+        "alpha-pinene": 0.16,
+        "caryophyllene": 4.63,
+        "beta-pinene": 0.25,
+        "limonene": 2.02,
+        "linalool": 0.66,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 12.88,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9100511,
+          "label": "1A40303000007D1000106307",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": null
         }
       ]
     },
@@ -5011,6 +5061,156 @@
       ]
     },
     {
+      "id": 9100377,
+      "packageCount": 1,
+      "name": "MD-EXT-MDOGKU-35LB",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "MD EXT MDOGKU 35LB",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 72.51,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.33,
+        "CBN": 0.0,
+        "THCA": 80.44,
+        "THCV": 0.3
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.67,
+        "myrcene": 3.18,
+        "alpha-pinene": 0.18,
+        "caryophyllene": 2.69,
+        "eudesmol": 0.54,
+        "beta-pinene": 0.3,
+        "limonene": 2.85,
+        "linalool": 1.62,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 13.26,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9100377,
+          "label": "1A40303000007D1000106305",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9100376,
+      "packageCount": 1,
+      "name": "MD-EXT-MDPAVE-35CB",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "MD EXT MDPAVE 35CB",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 74.22,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.94,
+        "CBN": 0.0,
+        "THCA": 77.53,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.3,
+        "humulene": 0.89,
+        "myrcene": 0.15,
+        "alpha-pinene": 0.34,
+        "caryophyllene": 3.3,
+        "beta-pinene": 0.27,
+        "limonene": 1.82,
+        "linalool": 1.04,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 8.85,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9100376,
+          "label": "1A40303000007D1000106304",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9100378,
+      "packageCount": 1,
+      "name": "MD-EXT-MDPAVE-35CS",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "MD EXT MDPAVE 35CS",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 71.77,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.03,
+        "CBN": 0.0,
+        "THCA": 75.38,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.3,
+        "humulene": 0.77,
+        "myrcene": 0.23,
+        "alpha-pinene": 0.19,
+        "caryophyllene": 2.69,
+        "beta-pinene": 0.19,
+        "limonene": 1.11,
+        "linalool": 0.93,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 6.95,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9100378,
+          "label": "1A40303000007D1000106306",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8681339,
       "packageCount": 1,
       "name": "MD-EXT-MDSPTZ-1LB",
@@ -5057,6 +5257,55 @@
           "quantity": 14.0,
           "packagedDate": "2026-07-03",
           "expirationDate": "2027-06-11"
+        }
+      ]
+    },
+    {
+      "id": 9100510,
+      "packageCount": 1,
+      "name": "MD-EXT-MDSPTZ-35CB",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "MD EXT MDSPTZ 35CB",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 75.54,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.72,
+        "CBN": 0.0,
+        "THCA": 83.44,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.33,
+        "humulene": 0.67,
+        "myrcene": 0.94,
+        "alpha-pinene": 0.18,
+        "caryophyllene": 2.87,
+        "beta-pinene": 0.24,
+        "limonene": 1.87,
+        "linalool": 1.29
+      },
+      "totalTerps": 8.61,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9100510,
+          "label": "1A40303000007D1000106303",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": null
         }
       ]
     },
@@ -19703,7 +19952,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19744,7 +19993,7 @@
         {
           "id": 9039330,
           "label": "1A40303000003EA000258978",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-25"
         }
@@ -31760,7 +32009,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Grams",
       "strainName": "Grapes of Wrath",
       "strainType": null,
@@ -31793,7 +32042,7 @@
         {
           "id": 9047688,
           "label": "1A403030000012D000267874",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-06-05"
         }
@@ -40281,7 +40530,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Sourene",
       "strainType": null,
@@ -40316,7 +40565,7 @@
         {
           "id": 8911341,
           "label": "1A403030000283D000060414",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-05-15"
         }
