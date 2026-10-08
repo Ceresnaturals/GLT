@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T20:40:05.576571+00:00",
+  "generated_at": "2026-10-08T20:50:15.424823+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -27253,7 +27253,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 165.0,
+      "quantity": 158.0,
       "unit": "Grams",
       "strainName": "Jack Herer",
       "strainType": null,
@@ -27286,7 +27286,7 @@
         {
           "id": 8241348,
           "label": "1A40303000000C9000142462",
-          "quantity": 165.0,
+          "quantity": 158.0,
           "packagedDate": "2026-03-25",
           "expirationDate": "2026-12-01"
         }
@@ -32034,6 +32034,54 @@
       ]
     },
     {
+      "id": 9105008,
+      "packageCount": 1,
+      "name": "Chem de la Chem Diamond Duster IPRJ 1.0g/1000mg",
+      "brand": "Diamond Duster",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Chem de la Chem Duster",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 46.65,
+        "totalCBD": 0.11,
+        "CBDA": 0.03,
+        "CBG": 0.38,
+        "CBN": 0.03,
+        "THCA": 52.31
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.23,
+        "myrcene": 0.11,
+        "alpha-pinene": 0.01,
+        "caryophyllene": 0.43,
+        "beta-pinene": 0.02,
+        "limonene": 0.15,
+        "linalool": 0.06,
+        "terpinolene": 0.01,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 1.13,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9105008,
+          "label": "1A40303000001F5000456189",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": "2027-09-01"
+        }
+      ]
+    },
+    {
       "id": 9039058,
       "packageCount": 1,
       "name": "Cherry Maui Wowie Big Dogs - Dogwalkers (Play) - Usable - 0.75g",
@@ -36484,6 +36532,54 @@
       ]
     },
     {
+      "id": 9104967,
+      "packageCount": 1,
+      "name": "SMG - Chem de la Chem - 0.5g - 2 - multi",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": "Chem de la Chem TC",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.1,
+        "totalCBD": 0.27,
+        "CBDA": 0.07,
+        "CBG": 0.73,
+        "CBN": 0.02,
+        "THCA": 34.13
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.37,
+        "myrcene": 1.09,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.85,
+        "beta-pinene": 0.08,
+        "limonene": 0.64,
+        "linalool": 0.09,
+        "terpinolene": 0.01,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 3.36,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9104967,
+          "label": "1A40303000001F5000456177",
+          "quantity": 50.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 9073207,
       "packageCount": 1,
       "name": "SMG - Chem de la Chem - 0.5g - 5 - multi",
@@ -36533,6 +36629,104 @@
       ]
     },
     {
+      "id": 9104900,
+      "packageCount": 1,
+      "name": "SMG - Golden Pineapple - 0.5g - 2 - multi",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": "Golden Pineapple",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.07,
+        "totalCBD": 0.26,
+        "CBDA": 0.04,
+        "CBG": 0.2,
+        "CBN": 0.01,
+        "THCA": 29.32
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.01,
+        "humulene": 0.06,
+        "myrcene": 0.31,
+        "alpha-pinene": 0.11,
+        "caryophyllene": 0.16,
+        "eudesmol": 0.03,
+        "beta-pinene": 0.09,
+        "ocimene": 0.25,
+        "limonene": 0.18,
+        "linalool": 0.03,
+        "terpinolene": 0.81,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.28,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9104900,
+          "label": "1A40303000001F5000456178",
+          "quantity": 50.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9104896,
+      "packageCount": 1,
+      "name": "SMG - SDG OG - 0.5g - 5 - multi",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "SDG OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.23,
+        "totalCBD": 0.33,
+        "CBDA": 0.06,
+        "CBG": 0.59,
+        "CBN": 0.01,
+        "THCA": 31.64
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.28,
+        "myrcene": 0.47,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.81,
+        "beta-pinene": 0.07,
+        "limonene": 0.49,
+        "linalool": 0.17,
+        "terpinolene": 0.01,
+        "nerolidol": 0.02
+      },
+      "totalTerps": 2.52,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9104896,
+          "label": "1A40303000001F5000456176",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8060114,
       "packageCount": 1,
       "name": "Skunk Hero Preroll 2.5g (.5g 5Pk)",
@@ -36578,6 +36772,55 @@
           "quantity": 10.0,
           "packagedDate": "2026-02-10",
           "expirationDate": "2027-01-18"
+        }
+      ]
+    },
+    {
+      "id": 9105007,
+      "packageCount": 1,
+      "name": "Strawberry Candy #4 - Diamond Duster 0.5g Infused Pre-Roll 5-Pack Tin",
+      "brand": "Diamond Duster",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Strawberry Candy",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 43.55,
+        "totalCBD": 0.03,
+        "CBC": 0.0,
+        "CBDA": 0.03,
+        "CBDV": 0.0,
+        "CBG": 0.2,
+        "CBGA": 0.42,
+        "CBN": 0.0,
+        "THCA": 48.01,
+        "THCV": 0.35
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.05,
+        "myrcene": 0.17,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.17,
+        "beta-pinene": 0.02,
+        "limonene": 0.11,
+        "linalool": 0.07
+      },
+      "totalTerps": 0.64,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9105007,
+          "label": "1A40303000001F5000456188",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": "2027-04-02"
         }
       ]
     },
@@ -39039,6 +39282,59 @@
       ]
     },
     {
+      "id": 9104969,
+      "packageCount": 1,
+      "name": "Airo Pod Golden Pineapple LLR 1.0g/1000mg",
+      "brand": "Airo",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Golden Pineapple LLR",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 70.62,
+        "totalCBD": 0.13,
+        "CBC": 0.64,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.93,
+        "CBGA": 0.88,
+        "CBN": 0.07,
+        "THCA": 0.26,
+        "THCV": 4.6
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.16,
+        "myrcene": 1.51,
+        "alpha-pinene": 0.56,
+        "caryophyllene": 0.77,
+        "eudesmol": 0.04,
+        "beta-pinene": 0.32,
+        "caryophyllene-oxide": 0.02,
+        "ocimene": 0.97,
+        "limonene": 1.15,
+        "linalool": 0.14,
+        "terpinolene": 6.35
+      },
+      "totalTerps": 14.15,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9104969,
+          "label": "1A40303000001F5000456182",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": "2027-09-02"
+        }
+      ]
+    },
+    {
       "id": 8696823,
       "packageCount": 1,
       "name": "Airo Pod Lemon Jack 1.0g/1000mg",
@@ -39085,6 +39381,57 @@
           "quantity": 7.0,
           "packagedDate": "2026-07-08",
           "expirationDate": "2027-06-01"
+        }
+      ]
+    },
+    {
+      "id": 9105001,
+      "packageCount": 1,
+      "name": "Airo Pod Melon Mist 2.0gX",
+      "brand": "Airo",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Melon Mist .0gX",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.21,
+        "totalCBD": 0.22,
+        "CBC": 0.38,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.51,
+        "CBGA": 0.0,
+        "CBN": 0.39,
+        "THCA": 0.0,
+        "THCV": 0.24
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.12,
+        "myrcene": 0.29,
+        "alpha-pinene": 3.7,
+        "caryophyllene": 0.45,
+        "beta-pinene": 1.2,
+        "caryophyllene-oxide": 0.05,
+        "limonene": 0.69,
+        "linalool": 0.22,
+        "terpinolene": 0.68
+      },
+      "totalTerps": 8.02,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9105001,
+          "label": "1A40303000001F5000456179",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": "2027-08-31"
         }
       ]
     },
@@ -39391,6 +39738,58 @@
       ]
     },
     {
+      "id": 9105002,
+      "packageCount": 1,
+      "name": "Airo Pod SDG OG LLR 1.0g/1000mg",
+      "brand": "Airo",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "SDG OG LLR",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 77.52,
+        "totalCBD": 0.23,
+        "CBC": 0.69,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.69,
+        "CBGA": 0.0,
+        "CBN": 0.08,
+        "THCA": 0.0,
+        "THCV": 0.56
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.88,
+        "myrcene": 4.44,
+        "alpha-pinene": 0.57,
+        "caryophyllene": 2.44,
+        "beta-pinene": 0.24,
+        "caryophyllene-oxide": 0.03,
+        "limonene": 3.1,
+        "linalool": 0.97,
+        "terpinolene": 0.09
+      },
+      "totalTerps": 13.58,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9105002,
+          "label": "1A40303000001F5000456181",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8303029,
       "packageCount": 1,
       "name": "Airo Pod Tres Leches 1.0g/100mg",
@@ -39486,6 +39885,56 @@
           "label": "1A40303000001F5000453102",
           "quantity": 8.0,
           "packagedDate": "2026-09-30",
+          "expirationDate": "2027-09-01"
+        }
+      ]
+    },
+    {
+      "id": 9104968,
+      "packageCount": 1,
+      "name": "Airo X SDG OG - Liquid Diamonds Disposable Vape 2.0g/2000mg",
+      "brand": "Airo",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "X SDG OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.28,
+        "totalCBD": 0.24,
+        "CBC": 1.1,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.95,
+        "CBGA": 0.47,
+        "CBN": 0.21,
+        "THCA": 5.26,
+        "THCV": 0.91
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.15,
+        "myrcene": 1.47,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 0.03,
+        "ocimene": 0.03,
+        "limonene": 1.02,
+        "linalool": 0.04,
+        "terpinolene": 0.07
+      },
+      "totalTerps": 3.11,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9104968,
+          "label": "1A40303000001F5000456180",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-07",
           "expirationDate": "2027-09-01"
         }
       ]
@@ -40092,6 +40541,59 @@
           "quantity": 6.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-01"
+        }
+      ]
+    },
+    {
+      "id": 9105004,
+      "packageCount": 1,
+      "name": "Banana Pancakes Disposable Distillate Vape 2.0g/2000mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Banana Pancakes",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 81.77,
+        "totalCBD": 0.19,
+        "CBC": 1.06,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.84,
+        "CBGA": 0.0,
+        "CBN": 0.2,
+        "THCA": 0.0,
+        "THCV": 0.87
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.03,
+        "humulene": 0.27,
+        "myrcene": 2.58,
+        "alpha-pinene": 1.12,
+        "caryophyllene": 1.21,
+        "beta-pinene": 0.67,
+        "caryophyllene-oxide": 0.05,
+        "ocimene": 0.75,
+        "limonene": 4.51,
+        "linalool": 1.04,
+        "terpinolene": 0.16
+      },
+      "totalTerps": 13.63,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9105004,
+          "label": "1A40303000001F5000456184",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": "2027-08-26"
         }
       ]
     },
@@ -45768,7 +46270,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Grow West OG Sweet Backwood",
       "strainType": null,
@@ -45803,7 +46305,7 @@
         {
           "id": 9029665,
           "label": "1A40303000039D1000085139",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-09-22",
           "expirationDate": "2027-08-16"
         }
@@ -53230,6 +53732,57 @@
       ]
     },
     {
+      "id": 9105005,
+      "packageCount": 1,
+      "name": "Purple Martian DV 0.5g/500mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Purple Martian DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 81.74,
+        "totalCBD": 0.21,
+        "CBC": 0.98,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.99,
+        "CBGA": 0.0,
+        "CBN": 0.23,
+        "THCA": 0.0,
+        "THCV": 0.89
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.33,
+        "myrcene": 4.32,
+        "alpha-pinene": 1.59,
+        "caryophyllene": 1.61,
+        "beta-pinene": 0.51,
+        "caryophyllene-oxide": 0.04,
+        "limonene": 1.45,
+        "linalool": 0.2,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 10.84,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9105005,
+          "label": "1A40303000001F5000456185",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": "2027-08-24"
+        }
+      ]
+    },
+    {
       "id": 8974644,
       "packageCount": 1,
       "name": "Purple Martian DV 1.0g/1000mg",
@@ -53573,6 +54126,58 @@
           "quantity": 3.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-06-26"
+        }
+      ]
+    },
+    {
+      "id": 9105006,
+      "packageCount": 1,
+      "name": "Raspberry Daydream DV 0.5g/500mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Raspberry Daydream DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.31,
+        "totalCBD": 0.23,
+        "CBC": 0.97,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.08,
+        "CBGA": 0.0,
+        "CBN": 0.22,
+        "THCA": 0.0,
+        "THCV": 0.89
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.14,
+        "myrcene": 2.76,
+        "alpha-pinene": 1.52,
+        "caryophyllene": 1.68,
+        "beta-pinene": 1.18,
+        "caryophyllene-oxide": 0.03,
+        "limonene": 1.67,
+        "linalool": 0.79,
+        "terpinolene": 0.09
+      },
+      "totalTerps": 10.88,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9105006,
+          "label": "1A40303000001F5000456186",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": "2027-08-20"
         }
       ]
     },
@@ -55604,6 +56209,55 @@
           "quantity": 1.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-05-18"
+        }
+      ]
+    },
+    {
+      "id": 9104970,
+      "packageCount": 1,
+      "name": "Super Sour Diesel DV 0.5g/500mg",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Super Sour Diesel DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 81.13,
+        "totalCBD": 0.19,
+        "CBC": 0.92,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.95,
+        "CBGA": 0.0,
+        "CBN": 0.21,
+        "THCA": 0.0,
+        "THCV": 0.84
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.03,
+        "myrcene": 3.57,
+        "alpha-pinene": 1.15,
+        "caryophyllene": 0.23,
+        "beta-pinene": 0.99,
+        "limonene": 2.47,
+        "terpinolene": 0.21
+      },
+      "totalTerps": 9.87,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9104970,
+          "label": "1A40303000001F5000456187",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": "2027-07-24"
         }
       ]
     },
