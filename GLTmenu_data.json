@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T17:50:03.243799+00:00",
+  "generated_at": "2026-10-08T18:00:07.711014+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -16128,6 +16128,63 @@
       ]
     },
     {
+      "id": 9090332,
+      "packageCount": 1,
+      "name": "Do Drop 1:1 CBN:THC Slumberberry Gummies-10mg-10",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.31,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.3,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 9.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9090332,
+          "label": "1A403030000012E000200804",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-05",
+          "expirationDate": "2027-05-24"
+        }
+      ]
+    },
+    {
       "id": 9090331,
       "packageCount": 2,
       "name": "Do Drop 1:1:1 CBG:THC:THCV Watermelon Gummies-10mg-10",
@@ -24930,7 +24987,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 224.0,
+      "quantity": 196.0,
       "unit": "Grams",
       "strainName": "Captain Cookies",
       "strainType": null,
@@ -24964,7 +25021,7 @@
         {
           "id": 8923156,
           "label": "1A403030000012E000187021",
-          "quantity": 224.0,
+          "quantity": 196.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-07-29"
         }
@@ -25824,6 +25881,57 @@
       ]
     },
     {
+      "id": 9090435,
+      "packageCount": 1,
+      "name": "Finger Lime Haze Garcia Hand Picked - Usable - 3.5 g",
+      "brand": "Garcia Hand Picked",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 56.0,
+      "unit": "Grams",
+      "strainName": "Finger Lime Haze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.56,
+        "totalCBD": 0.07,
+        "CBC": 0.0,
+        "CBDA": 0.08,
+        "CBDV": 0.0,
+        "CBG": 0.14,
+        "CBGA": 2.27,
+        "CBN": 0.0,
+        "THCA": 30.81,
+        "THCV": 0.16
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.03,
+        "myrcene": 0.33,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.1,
+        "beta-pinene": 0.11,
+        "ocimene": 0.23,
+        "limonene": 0.22,
+        "linalool": 0.03,
+        "terpinolene": 0.78
+      },
+      "totalTerps": 2.13,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9090435,
+          "label": "1A403030000012E000200848",
+          "quantity": 56.0,
+          "packagedDate": "2026-10-05",
+          "expirationDate": "2027-09-23"
+        }
+      ]
+    },
+    {
       "id": 9047119,
       "packageCount": 1,
       "name": "Fruit Loot 3 Untrimmed Small Buds Ounce 28g",
@@ -26263,6 +26371,57 @@
           "quantity": 59.5,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-22"
+        }
+      ]
+    },
+    {
+      "id": 9090436,
+      "packageCount": 1,
+      "name": "Highaleah Strane - Usable - 3.5 g",
+      "brand": "Strane",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 56.0,
+      "unit": "Grams",
+      "strainName": "Highaleah",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.0,
+        "totalCBD": 0.07,
+        "CBC": 0.0,
+        "CBDA": 0.08,
+        "CBDV": 0.0,
+        "CBG": 0.14,
+        "CBGA": 1.16,
+        "CBN": 0.0,
+        "THCA": 30.62,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.03,
+        "myrcene": 0.56,
+        "alpha-pinene": 0.12,
+        "caryophyllene": 0.09,
+        "beta-pinene": 0.15,
+        "ocimene": 0.25,
+        "limonene": 0.29,
+        "linalool": 0.08,
+        "terpinolene": 1.33
+      },
+      "totalTerps": 3.21,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9090436,
+          "label": "1A403030000012E000200849",
+          "quantity": 56.0,
+          "packagedDate": "2026-10-05",
+          "expirationDate": "2027-08-26"
         }
       ]
     },
@@ -30407,6 +30566,57 @@
       ]
     },
     {
+      "id": 9090334,
+      "packageCount": 1,
+      "name": "Alien Mints Strane - Pre-rolls - 1g",
+      "brand": "Strane",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 16.0,
+      "unit": "Grams",
+      "strainName": "Alien Mints",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.89,
+        "totalCBD": 0.07,
+        "CBC": 0.0,
+        "CBDA": 0.08,
+        "CBDV": 0.0,
+        "CBG": 0.04,
+        "CBGA": 0.62,
+        "CBN": 0.0,
+        "THCA": 29.82,
+        "THCV": 0.16
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.12,
+        "myrcene": 0.08,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.33,
+        "eudesmol": 0.03,
+        "beta-pinene": 0.04,
+        "limonene": 0.22,
+        "linalool": 0.34,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 1.36,
+      "dominantTerpene": "linalool",
+      "packages": [
+        {
+          "id": 9090334,
+          "label": "1A403030000012E000200802",
+          "quantity": 16.0,
+          "packagedDate": "2026-10-05",
+          "expirationDate": "2027-06-15"
+        }
+      ]
+    },
+    {
       "id": 8639438,
       "packageCount": 1,
       "name": "Animal Face Big Dogs (Infused) - Dogwalkers (Sit) - 1g",
@@ -31001,6 +31211,57 @@
           "quantity": 31.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-06-25"
+        }
+      ]
+    },
+    {
+      "id": 9090333,
+      "packageCount": 1,
+      "name": "Blueberry Dream Hellavated Juicy Stickz - Infused Pre-roll - 0.75 g",
+      "brand": "Hellavated",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 16.0,
+      "unit": "Each",
+      "strainName": "Blueberry Dream Juicy Stickz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 36.43,
+        "totalCBD": 0.18,
+        "CBC": 0.1,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.56,
+        "CBGA": 0.73,
+        "CBN": 0.26,
+        "THCA": 19.91,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.09,
+        "alpha-pinene": 0.38,
+        "caryophyllene": 0.32,
+        "eudesmol": 0.02,
+        "beta-pinene": 0.07,
+        "limonene": 0.23,
+        "linalool": 0.47,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 1.85,
+      "dominantTerpene": "linalool",
+      "packages": [
+        {
+          "id": 9090333,
+          "label": "1A403030000012E000200805",
+          "quantity": 16.0,
+          "packagedDate": "2026-10-05",
+          "expirationDate": "2027-05-08"
         }
       ]
     },
@@ -40613,6 +40874,51 @@
       ]
     },
     {
+      "id": 9090378,
+      "packageCount": 1,
+      "name": "Blueberry Dream Distillate Cartridge Hellavated - 1.0 g",
+      "brand": "Hellavated",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Blueberry Dream",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 88.35,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 5.24,
+        "CBGA": 0.0,
+        "CBN": 0.4,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "alpha-pinene": 2.96,
+        "caryophyllene": 0.17,
+        "beta-pinene": 0.31,
+        "linalool": 0.23
+      },
+      "totalTerps": 3.8,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9090378,
+          "label": "1A403030000012E000200833",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-05",
+          "expirationDate": "2027-08-28"
+        }
+      ]
+    },
+    {
       "id": 8671172,
       "packageCount": 1,
       "name": "Bomb Popz Cloud Bar Hellavated - 1 g",
@@ -44240,6 +44546,56 @@
       ]
     },
     {
+      "id": 9090376,
+      "packageCount": 1,
+      "name": "Gas Cake Distillate Cartridge Strane - 1 g",
+      "brand": "Strane",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Gas Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 81.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.56,
+        "CBGA": 0.0,
+        "CBN": 0.52,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.58,
+        "myrcene": 0.54,
+        "alpha-pinene": 0.57,
+        "caryophyllene": 2.37,
+        "beta-pinene": 0.35,
+        "ocimene": 0.33,
+        "limonene": 3.03,
+        "linalool": 0.62,
+        "terpinolene": 0.24
+      },
+      "totalTerps": 9.14,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9090376,
+          "label": "1A403030000012E000200831",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-05",
+          "expirationDate": "2027-07-17"
+        }
+      ]
+    },
+    {
       "id": 8970471,
       "packageCount": 1,
       "name": "Gazzurple (Live Resin) - Rythm (Sativa Dominant) - 1000mg",
@@ -44535,6 +44891,55 @@
           "quantity": 5.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-04-25"
+        }
+      ]
+    },
+    {
+      "id": 9090340,
+      "packageCount": 1,
+      "name": "Grape Stomper Cloud Bar Hellavated - 2 g",
+      "brand": "Hellavated",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Grape Stomper",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.62,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.72,
+        "CBGA": 0.0,
+        "CBN": 0.4,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.24,
+        "myrcene": 0.24,
+        "alpha-pinene": 0.22,
+        "caryophyllene": 0.28,
+        "beta-pinene": 0.14,
+        "limonene": 0.8,
+        "linalool": 0.27,
+        "nerolidol": 0.21
+      },
+      "totalTerps": 2.4,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9090340,
+          "label": "1A403030000012E000200801",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-05",
+          "expirationDate": "2027-08-14"
         }
       ]
     },
@@ -49255,6 +49660,100 @@
       ]
     },
     {
+      "id": 9090418,
+      "packageCount": 1,
+      "name": "Mango Dragon Cloud Bar Hellavated - 1 g",
+      "brand": "Hellavated",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Mango Dragon",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.71,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 5.03,
+        "CBGA": 0.0,
+        "CBN": 0.46,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.18,
+        "alpha-pinene": 1.42,
+        "caryophyllene": 0.28,
+        "beta-pinene": 0.19,
+        "limonene": 0.61,
+        "linalool": 0.59
+      },
+      "totalTerps": 3.27,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9090418,
+          "label": "1A403030000012E000200800",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-05",
+          "expirationDate": "2027-08-07"
+        }
+      ]
+    },
+    {
+      "id": 9090429,
+      "packageCount": 1,
+      "name": "Mango Dragon Distillate Cartridge Hellavated - 1.0 g",
+      "brand": "Hellavated",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Mango Dragon",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.44,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.45,
+        "CBGA": 0.0,
+        "CBN": 0.29,
+        "THCA": 0.0,
+        "THCV": 1.2
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.13,
+        "alpha-pinene": 1.25,
+        "caryophyllene": 0.21,
+        "beta-pinene": 0.17,
+        "limonene": 0.4,
+        "linalool": 0.51
+      },
+      "totalTerps": 2.67,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9090429,
+          "label": "1A403030000012E000200840",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-05",
+          "expirationDate": "2027-08-22"
+        }
+      ]
+    },
+    {
       "id": 8756256,
       "packageCount": 1,
       "name": "Maui Sunrise Cloud Bar Hellavated - 1 g",
@@ -49297,6 +49796,50 @@
           "quantity": 7.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-04-18"
+        }
+      ]
+    },
+    {
+      "id": 9090380,
+      "packageCount": 1,
+      "name": "Maui Sunrise Distillate Cartridge Hellavated - 1.0 g",
+      "brand": "Hellavated",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Maui Sunrise",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 88.59,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.32,
+        "CBGA": 0.0,
+        "CBN": 0.43,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.15,
+        "limonene": 1.36,
+        "terpinolene": 0.14
+      },
+      "totalTerps": 1.65,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9090380,
+          "label": "1A403030000012E000200839",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-05",
+          "expirationDate": "2027-09-04"
         }
       ]
     },
@@ -50750,6 +51293,53 @@
       ]
     },
     {
+      "id": 9090428,
+      "packageCount": 1,
+      "name": "OG Mint Distillate Cartridge Hellavated - 1.0 g",
+      "brand": "Hellavated",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "OG Mint",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 91.38,
+        "CBC": 0.42,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.26,
+        "CBGA": 0.0,
+        "CBN": 0.44,
+        "THCA": 0.0,
+        "THCV": 0.81
+      },
+      "dose": null,
+      "terpenes": {
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.09,
+        "beta-pinene": 0.09,
+        "limonene": 0.7,
+        "terpinolene": 0.05,
+        "nerolidol": 0.08
+      },
+      "totalTerps": 2.3,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9090428,
+          "label": "1A403030000012E000200838",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-05",
+          "expirationDate": "2027-07-31"
+        }
+      ]
+    },
+    {
       "id": 8333329,
       "packageCount": 1,
       "name": "OMG Pen (Full Spectrum Live Vape) - Good Green (Hybrid) - Vape Pen - 2000mg",
@@ -50989,6 +51579,52 @@
           "quantity": 7.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-04-18"
+        }
+      ]
+    },
+    {
+      "id": 9090381,
+      "packageCount": 1,
+      "name": "Passion Fruit Distillate Cartridge Hellavated - 1.0 g",
+      "brand": "Hellavated",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Passion Fruit",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 92.98,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.52,
+        "CBGA": 0.0,
+        "CBN": 0.44,
+        "THCA": 0.0,
+        "THCV": 0.67
+      },
+      "dose": null,
+      "terpenes": {
+        "caryophyllene": 0.04,
+        "beta-pinene": 0.03,
+        "limonene": 0.92,
+        "linalool": 0.25,
+        "terpinolene": 0.18
+      },
+      "totalTerps": 1.42,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9090381,
+          "label": "1A403030000012E000200841",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-05",
+          "expirationDate": "2027-07-31"
         }
       ]
     },
@@ -51333,6 +51969,56 @@
           "quantity": 18.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-13"
+        }
+      ]
+    },
+    {
+      "id": 9090377,
+      "packageCount": 1,
+      "name": "Pineapple Express Distillate Cartridge Strane - 1 g",
+      "brand": "Strane",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Pineapple Express",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.11,
+        "CBC": 0.43,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.51,
+        "CBGA": 0.0,
+        "CBN": 0.4,
+        "THCA": 0.0,
+        "THCV": 0.86
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.22,
+        "myrcene": 1.09,
+        "alpha-pinene": 1.28,
+        "caryophyllene": 0.69,
+        "beta-pinene": 0.49,
+        "ocimene": 3.2,
+        "limonene": 4.12,
+        "linalool": 0.36,
+        "terpinolene": 0.59
+      },
+      "totalTerps": 12.5,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9090377,
+          "label": "1A403030000012E000200832",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-05",
+          "expirationDate": "2027-07-03"
         }
       ]
     },
@@ -53828,6 +54514,52 @@
       ]
     },
     {
+      "id": 9090431,
+      "packageCount": 1,
+      "name": "Strawberry Haze Distillate Cartridge Hellavated - 1.0 g",
+      "brand": "Hellavated",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Strawberry Haze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 88.98,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.72,
+        "CBGA": 0.0,
+        "CBN": 0.39,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.17,
+        "alpha-pinene": 1.59,
+        "caryophyllene": 0.25,
+        "beta-pinene": 0.21,
+        "limonene": 0.49
+      },
+      "totalTerps": 2.77,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9090431,
+          "label": "1A403030000012E000200842",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-05",
+          "expirationDate": "2027-08-28"
+        }
+      ]
+    },
+    {
       "id": 8971341,
       "packageCount": 1,
       "name": "Strawberry Milkshake BD - PIXI AIO (Color: White) - 1g",
@@ -54453,6 +55185,54 @@
           "quantity": 5.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-03-28"
+        }
+      ]
+    },
+    {
+      "id": 9090384,
+      "packageCount": 1,
+      "name": "Tropicalez Punch Distillate Cartridge Hellavated - 1.0 g",
+      "brand": "Hellavated",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Tropicalez Punch",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 88.9,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.23,
+        "CBGA": 0.0,
+        "CBN": 0.39,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.14,
+        "myrcene": 0.08,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.06,
+        "beta-pinene": 0.16,
+        "limonene": 2.59,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 3.25,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9090384,
+          "label": "1A403030000012E000200843",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-05",
+          "expirationDate": "2027-08-07"
         }
       ]
     },
