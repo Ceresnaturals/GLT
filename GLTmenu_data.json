@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T21:50:02.728492+00:00",
+  "generated_at": "2026-10-09T22:00:03.542632+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4214,7 +4214,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Deep Orbit Blend",
       "strainType": "Indica",
@@ -4247,7 +4247,7 @@
         {
           "id": 8998856,
           "label": "1A4030300002199000062972",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-06-22",
           "expirationDate": "2027-06-24"
         }
@@ -11917,7 +11917,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11958,7 +11958,7 @@
         {
           "id": 8939332,
           "label": "1A4030300003522000210562",
-          "quantity": 19.0,
+          "quantity": 17.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-06"
         }
@@ -23844,7 +23844,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -23885,7 +23885,7 @@
         {
           "id": 8998852,
           "label": "1A4030300002199000062970",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-06-04",
           "expirationDate": "2027-06-04"
         }
@@ -24023,7 +24023,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -24064,7 +24064,7 @@
         {
           "id": 8686398,
           "label": "1A4030300002199000056242",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-05-29",
           "expirationDate": "2027-05-29"
         }
@@ -31835,7 +31835,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Chem de la Chem Duster",
       "strainType": null,
@@ -31867,7 +31867,7 @@
         {
           "id": 9105008,
           "label": "1A40303000001F5000456189",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-09-01"
         }
@@ -36783,7 +36783,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Strawberry Candy",
       "strainType": null,
@@ -36816,7 +36816,7 @@
         {
           "id": 9105007,
           "label": "1A40303000001F5000456188",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-04-02"
         }
@@ -53829,6 +53829,55 @@
       ]
     },
     {
+      "id": 9074169,
+      "packageCount": 1,
+      "name": "RO-BDTCart-1g-PineappleExprss-S-MD (260811MED106221)-Vape",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 11.0,
+      "unit": "Each",
+      "strainName": "RO BDTCart PineappleExprss S MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.18,
+        "CBC": 0.47,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.93,
+        "CBGA": 0.0,
+        "CBN": 0.31,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.21,
+        "humulene": 0.09,
+        "myrcene": 1.27,
+        "alpha-pinene": 0.54,
+        "caryophyllene": 0.87,
+        "beta-pinene": 0.49,
+        "ocimene": 0.78,
+        "limonene": 0.61
+      },
+      "totalTerps": 4.92,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9074169,
+          "label": "1A403030000238D000108453",
+          "quantity": 11.0,
+          "packagedDate": "2026-10-01",
+          "expirationDate": "2027-08-16"
+        }
+      ]
+    },
+    {
       "id": 8637117,
       "packageCount": 1,
       "name": "RO-BDTCart-1g-SuperLemonHaze-S-MD (260615MED102739)-Vape",
@@ -55854,56 +55903,6 @@
           "quantity": 6.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-05-02"
-        }
-      ]
-    },
-    {
-      "id": 8858442,
-      "packageCount": 1,
-      "name": "Super Lemon Haze - Spirits Distillate Cart - 1g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Super Lemon Haze",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 87.2,
-        "CBC": 0.63,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.46,
-        "CBGA": 0.0,
-        "CBN": 0.36,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.38,
-        "myrcene": 0.43,
-        "alpha-pinene": 0.44,
-        "caryophyllene": 1.03,
-        "eudesmol": 0.31,
-        "beta-pinene": 0.38,
-        "limonene": 0.27,
-        "linalool": 0.22,
-        "terpinolene": 1.48
-      },
-      "totalTerps": 5.99,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8858442,
-          "label": "1A40303000039D1000091583",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-13",
-          "expirationDate": "2027-05-18"
         }
       ]
     },
