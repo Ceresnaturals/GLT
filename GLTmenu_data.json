@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T19:10:03.453688+00:00",
+  "generated_at": "2026-10-09T19:20:03.293555+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8172,7 +8172,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": "Sativa",
@@ -8205,7 +8205,7 @@
         {
           "id": 9099993,
           "label": "1A40303000003EA000261647",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-09-10"
         }
@@ -8271,7 +8271,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": "Hybrid",
@@ -8305,7 +8305,7 @@
         {
           "id": 9100059,
           "label": "1A40303000003EA000261648",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-18"
         }
@@ -20148,7 +20148,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20196,7 +20196,7 @@
         {
           "id": 8970726,
           "label": "1A40303000003EA000263655",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-04-24"
         }
@@ -24689,7 +24689,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 133.0,
+      "quantity": 119.0,
       "unit": "Grams",
       "strainName": "Lemon Berry Cookies",
       "strainType": null,
@@ -24722,7 +24722,7 @@
         {
           "id": 8914801,
           "label": "1A4030300002009000112802",
-          "quantity": 133.0,
+          "quantity": 119.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-08-05"
         }
@@ -29196,7 +29196,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 110.0,
+      "quantity": 100.0,
       "unit": "Grams",
       "strainName": "Purple Punch TC",
       "strainType": null,
@@ -29229,7 +29229,7 @@
         {
           "id": 9073000,
           "label": "1A40303000001F5000453097",
-          "quantity": 110.0,
+          "quantity": 100.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-08-24"
         }
@@ -33109,7 +33109,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 48.0,
+      "quantity": 47.0,
       "unit": "Each",
       "strainName": "Super Boof",
       "strainType": null,
@@ -33143,7 +33143,7 @@
         {
           "id": 9002415,
           "label": "1A4030300004845000044236",
-          "quantity": 48.0,
+          "quantity": 47.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-08-26"
         }
@@ -34282,6 +34282,57 @@
           "quantity": 23.0,
           "packagedDate": "2026-09-03",
           "expirationDate": "2027-06-11"
+        }
+      ]
+    },
+    {
+      "id": 9111211,
+      "packageCount": 1,
+      "name": "Kaviar Mini Pre-rolls (Indica)-5x0.6g",
+      "brand": "Kaviar",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 35.59,
+        "CBC": 0.35,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.5,
+        "CBGA": 0.48,
+        "CBN": 0.21,
+        "THCA": 13.88,
+        "THCV": 0.22
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.09,
+        "myrcene": 0.09,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.32,
+        "eudesmol": 0.08,
+        "beta-pinene": 0.03,
+        "limonene": 0.29,
+        "linalool": 0.18,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 1.43,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9111211,
+          "label": "1A403030000012D000275071",
+          "quantity": 30.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-07-22"
         }
       ]
     },
@@ -37450,7 +37501,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 368.75,
+      "quantity": 361.75,
       "unit": "Grams",
       "strainName": "Permanent Marker",
       "strainType": null,
@@ -37484,7 +37535,7 @@
         {
           "id": 8947234,
           "label": "1A40303000001F5000425621",
-          "quantity": 366.45,
+          "quantity": 359.45,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         },
@@ -51403,6 +51454,58 @@
           "quantity": 5.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-08-14"
+        }
+      ]
+    },
+    {
+      "id": 9111209,
+      "packageCount": 1,
+      "name": "Mfused FIRE Super Fog Jefe Plus Granddaddy Purple 1g Disposable-1g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Mfused FIRE Super Fog Jefe Granddaddy Purple",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 82.47,
+        "CBC": 1.12,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.08,
+        "CBGA": 0.0,
+        "CBN": 1.92,
+        "THCA": 0.0,
+        "THCV": 0.67
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.25,
+        "humulene": 0.13,
+        "myrcene": 1.18,
+        "alpha-pinene": 0.38,
+        "caryophyllene": 1.09,
+        "beta-pinene": 0.11,
+        "ocimene": 0.85,
+        "limonene": 0.29,
+        "linalool": 0.24,
+        "terpinolene": 0.62,
+        "nerolidol": 0.15
+      },
+      "totalTerps": 5.29,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9111209,
+          "label": "1A403030000012D000275068",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-08-04"
         }
       ]
     },
