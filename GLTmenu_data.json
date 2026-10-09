@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:40:03.573011+00:00",
+  "generated_at": "2026-10-09T16:50:04.976663+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -788,6 +788,55 @@
           "quantity": 14.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-02-05"
+        }
+      ]
+    },
+    {
+      "id": 9100055,
+      "packageCount": 1,
+      "name": "Afternoon Delight #4 Live Resin - Rythm - (Hybrid) Concentrate - 1g",
+      "brand": "Rythm",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Afternoon Delight",
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 74.76,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 4.16,
+        "CBN": 0.0,
+        "THCA": 84.36,
+        "THCV": 0.48
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.38,
+        "humulene": 0.78,
+        "myrcene": 0.93,
+        "alpha-pinene": 0.12,
+        "caryophyllene": 3.16,
+        "beta-pinene": 0.19,
+        "limonene": 1.88,
+        "linalool": 1.0
+      },
+      "totalTerps": 8.9,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9100055,
+          "label": "1A40303000003EA000261641",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": "2027-08-19"
         }
       ]
     },
@@ -2425,6 +2474,56 @@
       ]
     },
     {
+      "id": 9099995,
+      "packageCount": 1,
+      "name": "Dr. Solomon's RSO - THC Rich (Indica) - Animal Scout - 1000mg",
+      "brand": "Dr. Solomon's",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Animal Scout",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 75.68,
+        "CBC": 0.66,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.37,
+        "CBGA": 0.49,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.29,
+        "humulene": 0.36,
+        "myrcene": 1.56,
+        "alpha-pinene": 0.26,
+        "caryophyllene": 1.28,
+        "beta-pinene": 0.18,
+        "limonene": 2.61,
+        "linalool": 0.45,
+        "terpinolene": 0.17
+      },
+      "totalTerps": 7.74,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9099995,
+          "label": "1A40303000003EA000261650",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": "2027-09-18"
+        }
+      ]
+    },
+    {
       "id": 9003282,
       "packageCount": 1,
       "name": "Dr. Solomon's RSO - THC Rich (Indica) - Wedding Cake Bx1 - 1000mg",
@@ -2471,6 +2570,58 @@
           "quantity": 5.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-07-01"
+        }
+      ]
+    },
+    {
+      "id": 9100060,
+      "packageCount": 1,
+      "name": "Dr. Solomon's RSO - THC Rich (Sativa) - White Durban - 1000mg",
+      "brand": "Dr. Solomon's",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "White Durban",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 73.45,
+        "CBC": 0.9,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 6.02,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 4.26
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.19,
+        "humulene": 0.21,
+        "myrcene": 0.72,
+        "alpha-pinene": 0.18,
+        "caryophyllene": 0.63,
+        "eudesmol": 0.33,
+        "beta-pinene": 0.19,
+        "ocimene": 0.96,
+        "limonene": 0.48,
+        "linalool": 0.23,
+        "terpinolene": 3.87
+      },
+      "totalTerps": 8.84,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9100060,
+          "label": "1A40303000003EA000261651",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": "2027-09-22"
         }
       ]
     },
@@ -8063,6 +8214,55 @@
       ]
     },
     {
+      "id": 9099993,
+      "packageCount": 1,
+      "name": "Rythm 5 Pack (Infused) - Blue Dream (Sativa Dominant) - 2.5g",
+      "brand": "Rythm",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Blue Dream",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 42.25,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.68,
+        "CBN": 0.0,
+        "THCA": 46.92,
+        "THCV": 0.27
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.15,
+        "humulene": 0.17,
+        "myrcene": 0.1,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.67,
+        "beta-pinene": 0.04,
+        "limonene": 0.1,
+        "linalool": 0.23
+      },
+      "totalTerps": 1.63,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9099993,
+          "label": "1A40303000003EA000261647",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": "2027-09-10"
+        }
+      ]
+    },
+    {
       "id": 9039057,
       "packageCount": 1,
       "name": "Rythm 5 Pack (Infused) - Durban Poison (Sativa Dominant) - 2.5g",
@@ -8109,6 +8309,56 @@
           "quantity": 19.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-11"
+        }
+      ]
+    },
+    {
+      "id": 9100059,
+      "packageCount": 1,
+      "name": "Rythm 5 Pack (Infused) - Pineapple Express (Hybrid) - 2.5g",
+      "brand": "Rythm",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Pineapple Express",
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 39.41,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.81,
+        "CBN": 0.0,
+        "THCA": 43.6,
+        "THCV": 0.25
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.18,
+        "myrcene": 0.17,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.51,
+        "beta-pinene": 0.08,
+        "limonene": 0.25,
+        "linalool": 0.15,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 1.57,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9100059,
+          "label": "1A40303000003EA000261648",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": "2027-08-18"
         }
       ]
     },
@@ -20289,22 +20539,23 @@
       ]
     },
     {
-      "id": 8891522,
-      "packageCount": 1,
+      "id": 9099992,
+      "packageCount": 2,
       "name": "Incredibles Gummy 200mg - Snoozzzierberry (2:1:1 THC:CBN:CBG) - 20mg-10 Pieces",
       "brand": "Incredibles",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.43,
+        "totalTHC": 0.44,
         "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
@@ -20336,6 +20587,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9099992,
+          "label": "1A40303000003EA000261643",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": "2027-09-09"
+        },
         {
           "id": 8891522,
           "label": "1A40303000003EA000205084",
@@ -24824,7 +25082,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 84.0,
+      "quantity": 80.5,
       "unit": "Grams",
       "strainName": "Berry Trix",
       "strainType": null,
@@ -24857,7 +25115,7 @@
         {
           "id": 8674620,
           "label": "1A40303000040D9000005118",
-          "quantity": 84.0,
+          "quantity": 80.5,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-06-30"
         }
@@ -27851,7 +28109,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 150.0,
+      "quantity": 140.0,
       "unit": "Grams",
       "strainName": "Cherry Limeade Cake",
       "strainType": null,
@@ -27884,7 +28142,7 @@
         {
           "id": 8681340,
           "label": "1A40303000007D1000085098",
-          "quantity": 150.0,
+          "quantity": 140.0,
           "packagedDate": "2026-07-03",
           "expirationDate": "2027-05-26"
         }
@@ -29085,7 +29343,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 120.0,
+      "quantity": 110.0,
       "unit": "Grams",
       "strainName": "Purple Punch TC",
       "strainType": null,
@@ -29118,7 +29376,7 @@
         {
           "id": 9073000,
           "label": "1A40303000001F5000453097",
-          "quantity": 120.0,
+          "quantity": 110.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-08-24"
         }
@@ -29427,7 +29685,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 170.0,
+      "quantity": 160.0,
       "unit": "Grams",
       "strainName": "Sunshine #4",
       "strainType": null,
@@ -29460,7 +29718,7 @@
         {
           "id": 9039272,
           "label": "1A40303000001F5000450398",
-          "quantity": 170.0,
+          "quantity": 160.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-20"
         }
@@ -32045,7 +32303,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.25,
+      "quantity": 10.5,
       "unit": "Grams",
       "strainName": "Chicken n' Wafflez",
       "strainType": null,
@@ -32077,7 +32335,7 @@
         {
           "id": 8854453,
           "label": "1A40303000003EA000202543",
-          "quantity": 11.25,
+          "quantity": 10.5,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-07-06"
         }
@@ -33336,6 +33594,55 @@
       ]
     },
     {
+      "id": 9100058,
+      "packageCount": 1,
+      "name": "Gogurtz 5 Pack - Dogwalkers (Stay) - Usable - 1.75g",
+      "brand": "Dogwalkers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 43.75,
+      "unit": "Grams",
+      "strainName": "Gogurtz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 34.08,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.29,
+        "CBN": 0.0,
+        "THCA": 38.44,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.15,
+        "myrcene": 0.27,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 0.68,
+        "beta-pinene": 0.13,
+        "limonene": 0.83,
+        "linalool": 0.6
+      },
+      "totalTerps": 3.06,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9100058,
+          "label": "1A40303000003EA000261646",
+          "quantity": 43.75,
+          "packagedDate": "2026-10-07",
+          "expirationDate": "2027-08-05"
+        }
+      ]
+    },
+    {
       "id": 9039279,
       "packageCount": 1,
       "name": "Golden PIneapple Diamond Dust IPRJ 1.0g/1000mg - 1 Single",
@@ -33534,6 +33841,55 @@
           "quantity": 1.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-07-01"
+        }
+      ]
+    },
+    {
+      "id": 9099994,
+      "packageCount": 1,
+      "name": "Grape Stomper Big Dogs (Infused) - Dogwalkers (Stay) - 1g",
+      "brand": "Dogwalkers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Grape Stomper Big Dogs",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 47.52,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.24,
+        "CBN": 0.0,
+        "THCA": 54.19,
+        "THCV": 0.28
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.04,
+        "myrcene": 0.31,
+        "alpha-pinene": 0.01,
+        "caryophyllene": 0.12,
+        "beta-pinene": 0.02,
+        "ocimene": 0.08,
+        "limonene": 0.05,
+        "linalool": 0.08
+      },
+      "totalTerps": 0.76,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9099994,
+          "label": "1A40303000003EA000261649",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": "2027-09-10"
         }
       ]
     },
@@ -36541,7 +36897,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 47.0,
+      "quantity": 46.0,
       "unit": "Each",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -36575,7 +36931,7 @@
         {
           "id": 9104900,
           "label": "1A40303000001F5000456178",
-          "quantity": 47.0,
+          "quantity": 46.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-07"
         }
@@ -37133,7 +37489,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Grams",
       "strainName": "Watermelon Gelato TC",
       "strainType": null,
@@ -37165,7 +37521,7 @@
         {
           "id": 8998450,
           "label": "1A40303000001F5000431278",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-07"
         }
@@ -49154,7 +49510,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "GMO",
       "strainType": null,
@@ -49188,7 +49544,7 @@
         {
           "id": 8954360,
           "label": "1A4030300002199000062283",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-06-25",
           "expirationDate": "2027-06-25"
         }
@@ -49204,7 +49560,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Mai Tai",
       "strainType": null,
@@ -49238,7 +49594,7 @@
         {
           "id": 8998853,
           "label": "1A4030300002199000062974",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-06-23"
         }
