@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T21:20:02.654619+00:00",
+  "generated_at": "2026-10-09T21:30:02.961344+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -437,7 +437,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 16.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -476,14 +476,14 @@
         {
           "id": 8484004,
           "label": "1A4030300000193000095468",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-05-20",
           "expirationDate": "2027-03-03"
         },
         {
           "id": 8351049,
           "label": "1A4030300000193000092317",
-          "quantity": 9.0,
+          "quantity": 7.0,
           "packagedDate": "2026-04-20",
           "expirationDate": "2027-03-17"
         }
@@ -10371,63 +10371,6 @@
       ]
     },
     {
-      "id": 9072983,
-      "packageCount": 1,
-      "name": "Sunnies Mocktail No. 1 Sweet Orange -10mg -1",
-      "brand": "Sunnies",
-      "category": "Drink",
-      "metrcCategory": "Infused Liquid Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.003,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Can",
-        "totalThcMg": 10.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9072983,
-          "label": "1A40303000001F5000453092",
-          "quantity": 2.0,
-          "packagedDate": "2026-09-30",
-          "expirationDate": "2027-08-28"
-        }
-      ]
-    },
-    {
       "id": 9073089,
       "packageCount": 1,
       "name": "Sunnies Mocktail No. 2 Bright Grapefruit -10mg -1",
@@ -10494,7 +10437,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10535,7 +10478,7 @@
         {
           "id": 8947814,
           "label": "1A40303000001F5000425701",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-21"
         }
@@ -10595,63 +10538,6 @@
           "quantity": 20.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-06-19"
-        }
-      ]
-    },
-    {
-      "id": 9073090,
-      "packageCount": 1,
-      "name": "Sunnies Socials -Watermelon Sparkling Water -10mg -1",
-      "brand": "Sunnies",
-      "category": "Drink",
-      "metrcCategory": "Infused Liquid Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.003,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Can",
-        "totalThcMg": 10.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9073090,
-          "label": "1A40303000001F5000453094",
-          "quantity": 2.0,
-          "packagedDate": "2026-09-30",
-          "expirationDate": "2027-09-11"
         }
       ]
     },
@@ -24730,7 +24616,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 105.0,
+      "quantity": 91.0,
       "unit": "Grams",
       "strainName": "Lemon Berry Cookies",
       "strainType": null,
@@ -24763,7 +24649,7 @@
         {
           "id": 8914801,
           "label": "1A4030300002009000112802",
-          "quantity": 105.0,
+          "quantity": 91.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-08-05"
         }
