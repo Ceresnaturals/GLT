@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T20:40:03.488627+00:00",
+  "generated_at": "2026-10-09T20:50:03.135635+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12202,7 +12202,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12243,7 +12243,7 @@
         {
           "id": 9066537,
           "label": "1A4030300003522000215106",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-08-19"
         }
@@ -12975,6 +12975,61 @@
           "quantity": 19.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-14"
+        }
+      ]
+    },
+    {
+      "id": 9111204,
+      "packageCount": 1,
+      "name": "Curio Wellness Chill 25mg Plus Terpenes Tranquil Berry Bliss Chews-25mg-10",
+      "brand": "Curio Wellness",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.566,
+        "CBC": 0.005,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.039,
+        "CBGA": 0.0,
+        "CBN": 0.033,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 250.0,
+        "thcMgPerServing": 25.0,
+        "minorsMgPerServing": {
+          "CBC": 0.2,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.56,
+          "CBGA": 0.0,
+          "CBN": 1.32,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9111204,
+          "label": "1A403030000012D000275062",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-05-28"
         }
       ]
     },
@@ -13780,6 +13835,61 @@
           "quantity": 9.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-05-19"
+        }
+      ]
+    },
+    {
+      "id": 9111206,
+      "packageCount": 1,
+      "name": "Curio Wellness Sleep 2:1 Slumberberry Chews-5mg-10",
+      "brand": "Curio Wellness",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.135,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.004,
+        "CBGA": 0.0,
+        "CBN": 0.272,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 50.0,
+        "thcMgPerServing": 5.0,
+        "minorsMgPerServing": {
+          "CBC": 0.08,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.16,
+          "CBGA": 0.0,
+          "CBN": 10.88,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9111206,
+          "label": "1A403030000012D000275064",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-08-19"
         }
       ]
     },
@@ -15287,7 +15397,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15328,7 +15438,7 @@
         {
           "id": 8764130,
           "label": "1A4030300000C83000080156",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-22",
           "expirationDate": "2027-04-15"
         }
@@ -16548,7 +16658,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16589,7 +16699,7 @@
         {
           "id": 9090332,
           "label": "1A403030000012E000200804",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-10-05",
           "expirationDate": "2027-05-24"
         }
@@ -17173,7 +17283,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17212,7 +17322,7 @@
         {
           "id": 9018114,
           "label": "1A40303000017D5000107152",
-          "quantity": 31.0,
+          "quantity": 29.0,
           "packagedDate": "2026-06-30",
           "expirationDate": "2027-06-30"
         }
@@ -18517,7 +18627,7 @@
     },
     {
       "id": 8914797,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "HiColor RSO Hybrid Gummies Passionfruit|Edible Product|10mg|10ct",
       "brand": "HiColor",
       "category": "Edible",
@@ -18525,7 +18635,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -18567,13 +18677,6 @@
           "quantity": 5.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-05-07"
-        },
-        {
-          "id": 8751939,
-          "label": "1A4030300002009000109414",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-21",
-          "expirationDate": "2027-03-20"
         }
       ]
     },
@@ -19676,7 +19779,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19717,7 +19820,7 @@
         {
           "id": 9003337,
           "label": "1A40303000003EA000266186",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-07-22"
         }
@@ -24731,7 +24834,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 80.64,
+      "quantity": 70.14,
       "unit": "Grams",
       "strainName": "Cap Junky",
       "strainType": null,
@@ -24765,7 +24868,7 @@
         {
           "id": 8678368,
           "label": "1A4030300002009000107931",
-          "quantity": 80.64,
+          "quantity": 70.14,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-03-23"
         }
@@ -26317,7 +26420,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 112.0,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Fruit Loot 3",
       "strainType": null,
@@ -26349,7 +26452,7 @@
         {
           "id": 9047119,
           "label": "1A40303000000CB000053226",
-          "quantity": 112.0,
+          "quantity": 84.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-09-20"
         }
@@ -28248,7 +28351,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Grams",
       "strainName": "76 MK ULTRA BLACK OPS",
       "strainType": null,
@@ -28281,7 +28384,7 @@
         {
           "id": 8858436,
           "label": "1A40303000039D1000091577",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-07-02"
         }
@@ -33649,7 +33752,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.5,
+      "quantity": 29.75,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -33685,7 +33788,7 @@
         {
           "id": 9075616,
           "label": "1A40303000003EA000260954",
-          "quantity": 31.5,
+          "quantity": 29.75,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-07-31"
         }
@@ -37602,7 +37705,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 347.75,
+      "quantity": 340.75,
       "unit": "Grams",
       "strainName": "Permanent Marker",
       "strainType": null,
@@ -37636,7 +37739,7 @@
         {
           "id": 8947234,
           "label": "1A40303000001F5000425621",
-          "quantity": 345.45,
+          "quantity": 338.45,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         },
@@ -37659,7 +37762,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 425.5,
+      "quantity": 422.0,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato TC",
       "strainType": null,
@@ -37691,7 +37794,7 @@
         {
           "id": 8974574,
           "label": "1A40303000001F5000428946",
-          "quantity": 425.5,
+          "quantity": 422.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -37707,7 +37810,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 349.46,
+      "quantity": 345.96,
       "unit": "Grams",
       "strainName": "GMO x Skywalker OG",
       "strainType": null,
@@ -37739,7 +37842,7 @@
         {
           "id": 8974649,
           "label": "1A40303000001F5000428947",
-          "quantity": 349.46,
+          "quantity": 345.96,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
