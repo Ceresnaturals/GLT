@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T20:30:03.086366+00:00",
+  "generated_at": "2026-10-09T20:40:03.488627+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -5992,6 +5992,54 @@
           "quantity": 14.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-07-21"
+        }
+      ]
+    },
+    {
+      "id": 9111158,
+      "packageCount": 1,
+      "name": "Mfused TWISTED Fattys (Baja Blazed)-Usable-2x0.5g",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Each",
+      "strainName": "Mfused TWISTED Fattys",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 35.32,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.54,
+        "CBN": 0.0,
+        "THCA": 37.89,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.08,
+        "caryophyllene": 0.21,
+        "beta-pinene": 0.03,
+        "limonene": 0.17,
+        "linalool": 0.25,
+        "terpinolene": 0.03,
+        "nerolidol": 0.31
+      },
+      "totalTerps": 2.15,
+      "dominantTerpene": "nerolidol",
+      "packages": [
+        {
+          "id": 9111158,
+          "label": "1A403030000012D000275069",
+          "quantity": 30.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-06-18"
         }
       ]
     },
@@ -17402,7 +17450,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17441,7 +17489,7 @@
         {
           "id": 8978146,
           "label": "1A40303000017D5000105967",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-07-01"
         }
@@ -27460,7 +27508,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.5,
+      "quantity": 3.5,
       "unit": "Grams",
       "strainName": "Cherry Slushee",
       "strainType": null,
@@ -27493,7 +27541,7 @@
         {
           "id": 8998558,
           "label": "1A403030000025B000087300",
-          "quantity": 10.5,
+          "quantity": 3.5,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-05-23"
         }
@@ -28299,7 +28347,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 17.5,
       "unit": "Grams",
       "strainName": "Ice Wookie",
       "strainType": null,
@@ -28333,7 +28381,7 @@
         {
           "id": 8888586,
           "label": "1A403030000477D000002582",
-          "quantity": 24.5,
+          "quantity": 17.5,
           "packagedDate": "2026-08-10",
           "expirationDate": "2027-07-16"
         }
@@ -32285,6 +32333,57 @@
       ]
     },
     {
+      "id": 9111205,
+      "packageCount": 1,
+      "name": "Curio Wellness CW Yahemi Pre-rolls-usable-2x0.5g",
+      "brand": "Curio Wellness",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Grams",
+      "strainName": "Yahemi",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.14,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.22,
+        "CBGA": 1.5,
+        "CBN": 0.0,
+        "THCA": 32.45,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.33,
+        "myrcene": 0.29,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 1.4,
+        "eudesmol": 0.23,
+        "beta-pinene": 0.11,
+        "ocimene": 0.05,
+        "limonene": 0.92,
+        "linalool": 0.3
+      },
+      "totalTerps": 4.24,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9111205,
+          "label": "1A403030000012D000275063",
+          "quantity": 30.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-08-27"
+        }
+      ]
+    },
+    {
       "id": 9079420,
       "packageCount": 2,
       "name": "Curio Wellness Chill CBD:THC Infused Pre-rolls-2x0.5g",
@@ -32390,6 +32489,55 @@
           "quantity": 4.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-05-14"
+        }
+      ]
+    },
+    {
+      "id": 9111156,
+      "packageCount": 1,
+      "name": "Curio Wellness Shortcake Pre-rolls-usable-2x0.5g",
+      "brand": "Curio Wellness",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Grams",
+      "strainName": "Shortcake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.03,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.69,
+        "CBN": 0.0,
+        "THCA": 28.33,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.14,
+        "myrcene": 0.05,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.44,
+        "beta-pinene": 0.1,
+        "limonene": 0.74,
+        "linalool": 0.33,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.16,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9111156,
+          "label": "1A403030000012D000275061",
+          "quantity": 30.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-08-12"
         }
       ]
     },
@@ -38412,7 +38560,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -38447,7 +38595,7 @@
         {
           "id": 9018110,
           "label": "1A40303000017D5000107147",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-11",
           "expirationDate": "2027-09-11"
         }
@@ -43294,6 +43442,56 @@
           "quantity": 23.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-06-08"
+        }
+      ]
+    },
+    {
+      "id": 9111208,
+      "packageCount": 1,
+      "name": "Curio Wellness Captain's Cake Vape-0.5g",
+      "brand": "Curio Wellness",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "Captain's Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 78.3,
+        "CBC": 1.03,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.62,
+        "CBGA": 0.0,
+        "CBN": 2.67,
+        "THCA": 0.0,
+        "THCV": 0.63
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.34,
+        "humulene": 0.38,
+        "myrcene": 1.72,
+        "alpha-pinene": 0.41,
+        "caryophyllene": 1.95,
+        "beta-pinene": 0.42,
+        "limonene": 3.2,
+        "linalool": 0.75,
+        "terpinolene": 0.25
+      },
+      "totalTerps": 10.41,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9111208,
+          "label": "1A403030000012D000275066",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-04-27"
         }
       ]
     },
