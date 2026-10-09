@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T19:00:02.853713+00:00",
+  "generated_at": "2026-10-09T19:10:03.453688+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12716,7 +12716,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12755,7 +12755,7 @@
         {
           "id": 9047758,
           "label": "1A403030000012D000267867",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-08-03"
         }
@@ -21458,15 +21458,16 @@
     },
     {
       "id": 8952598,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Smokiez Peach Sativa 10mg Medicated Chews-10mg-10",
       "brand": "Smokiez",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -21508,6 +21509,13 @@
           "quantity": 3.0,
           "packagedDate": "2026-09-03",
           "expirationDate": "2027-05-28"
+        },
+        {
+          "id": 9111157,
+          "label": "1A403030000012D000275067",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-07-17"
         }
       ]
     },
@@ -22775,7 +22783,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22816,7 +22824,7 @@
         {
           "id": 8890517,
           "label": "1A40303000001F5000420191",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-03-04"
         }
@@ -24681,7 +24689,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 140.0,
+      "quantity": 133.0,
       "unit": "Grams",
       "strainName": "Lemon Berry Cookies",
       "strainType": null,
@@ -24714,7 +24722,7 @@
         {
           "id": 8914801,
           "label": "1A4030300002009000112802",
-          "quantity": 140.0,
+          "quantity": 133.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-08-05"
         }
@@ -29384,7 +29392,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -29416,7 +29424,7 @@
         {
           "id": 9072999,
           "label": "1A40303000001F5000453096",
-          "quantity": 24.5,
+          "quantity": 21.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-08-25"
         }
@@ -29825,7 +29833,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 206.5,
+      "quantity": 203.0,
       "unit": "Grams",
       "strainName": "Sgt Strawberry",
       "strainType": null,
@@ -29860,7 +29868,7 @@
         {
           "id": 9053159,
           "label": "1A40303000000C9000172966",
-          "quantity": 206.5,
+          "quantity": 203.0,
           "packagedDate": "2026-09-25",
           "expirationDate": "2027-09-15"
         }
@@ -30854,7 +30862,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 55.0,
+      "quantity": 52.5,
       "unit": "Grams",
       "strainName": "Admiral Apple",
       "strainType": null,
@@ -30887,7 +30895,7 @@
         {
           "id": 9019207,
           "label": "1A40303000000C9000171509",
-          "quantity": 55.0,
+          "quantity": 52.5,
           "packagedDate": "2026-09-18",
           "expirationDate": "2027-08-31"
         }
@@ -36545,7 +36553,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 49.0,
+      "quantity": 48.0,
       "unit": "Each",
       "strainName": "Chem de la Chem TC",
       "strainType": null,
@@ -36577,7 +36585,7 @@
         {
           "id": 9104967,
           "label": "1A40303000001F5000456177",
-          "quantity": 49.0,
+          "quantity": 48.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-18"
         }
@@ -36642,7 +36650,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 41.0,
+      "quantity": 39.0,
       "unit": "Each",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -36676,7 +36684,7 @@
         {
           "id": 9104900,
           "label": "1A40303000001F5000456178",
-          "quantity": 41.0,
+          "quantity": 39.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-07"
         }
@@ -40897,56 +40905,6 @@
       ]
     },
     {
-      "id": 8992260,
-      "packageCount": 1,
-      "name": "Beezle - Buzz Vape - Banana Belts - 1g",
-      "brand": "Beezle",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Banana Belts",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 86.57,
-        "CBC": 0.89,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.49,
-        "CBGA": 0.0,
-        "CBN": 0.77,
-        "THCA": 0.0,
-        "THCV": 0.4
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.12,
-        "myrcene": 0.31,
-        "alpha-pinene": 0.29,
-        "caryophyllene": 0.82,
-        "beta-pinene": 0.18,
-        "ocimene": 0.09,
-        "limonene": 1.35,
-        "linalool": 0.29,
-        "nerolidol": 0.08
-      },
-      "totalTerps": 3.76,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8992260,
-          "label": "1A403030000283D000061323",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-14",
-          "expirationDate": "2027-07-30"
-        }
-      ]
-    },
-    {
       "id": 8992314,
       "packageCount": 1,
       "name": "Beezle - Buzz Vape - Banana Piepaya - 0.5g",
@@ -41006,7 +40964,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Citrus Sap",
       "strainType": null,
@@ -41041,7 +40999,7 @@
         {
           "id": 8849821,
           "label": "1A403030000283D000057284",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-11",
           "expirationDate": "2027-07-20"
         }
@@ -51061,7 +51019,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": "Banana Berry Smoothie",
       "strainType": null,
@@ -51094,7 +51052,7 @@
         {
           "id": 9074626,
           "label": "1A403030000283D000059493",
-          "quantity": 27.0,
+          "quantity": 26.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-07-10"
         }
@@ -53543,7 +53501,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Purple Martian DV",
       "strainType": null,
@@ -53578,7 +53536,7 @@
         {
           "id": 8974644,
           "label": "1A40303000001F5000428940",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-06-02"
         }
@@ -55956,55 +55914,6 @@
           "quantity": 25.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-07-24"
-        }
-      ]
-    },
-    {
-      "id": 8947156,
-      "packageCount": 1,
-      "name": "Super Sour Diesel DV 1.0g/1000mg",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Super Sour Diesel DV",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 84.6,
-        "totalCBD": 0.22,
-        "CBC": 1.29,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.7,
-        "CBGA": 0.0,
-        "CBN": 0.22,
-        "THCA": 0.0,
-        "THCV": 0.97
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.04,
-        "myrcene": 1.78,
-        "alpha-pinene": 1.55,
-        "caryophyllene": 0.21,
-        "beta-pinene": 1.26,
-        "limonene": 1.88,
-        "terpinolene": 0.26
-      },
-      "totalTerps": 8.08,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8947156,
-          "label": "1A40303000001F5000425615",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-02",
-          "expirationDate": "2027-07-14"
         }
       ]
     },
