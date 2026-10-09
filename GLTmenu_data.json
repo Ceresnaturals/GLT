@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T13:40:02.596641+00:00",
+  "generated_at": "2026-10-09T13:50:03.139870+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -37440,6 +37440,54 @@
           "label": "1A40303000001F5000423348",
           "quantity": 2.3,
           "packagedDate": "2026-08-26",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 8974574,
+      "packageCount": 1,
+      "name": "Shake/Trim - Black Cherry Gelato TC",
+      "brand": null,
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 453.5,
+      "unit": "Grams",
+      "strainName": "Black Cherry Gelato TC",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.61,
+        "totalCBD": 0.18,
+        "CBDA": 0.03,
+        "CBG": 0.68,
+        "CBN": 0.02,
+        "THCA": 28.59
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.12,
+        "myrcene": 0.51,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.34,
+        "eudesmol": 0.01,
+        "beta-pinene": 0.05,
+        "limonene": 0.23,
+        "linalool": 0.04,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 1.5,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8974574,
+          "label": "1A40303000001F5000428946",
+          "quantity": 453.5,
+          "packagedDate": "2026-09-09",
           "expirationDate": null
         }
       ]
