@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:00:02.680653+00:00",
+  "generated_at": "2026-10-09T16:10:03.485463+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -15271,9 +15271,9 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
-      "quantity": 15.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15314,7 +15314,7 @@
         {
           "id": 8793248,
           "label": "1A4030300000C83000080431",
-          "quantity": 15.0,
+          "quantity": 13.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-03-25"
         }
@@ -18402,7 +18402,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -18443,7 +18443,7 @@
         {
           "id": 8914798,
           "label": "1A4030300002009000112799",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-05-22"
         }
@@ -22160,16 +22160,15 @@
     },
     {
       "id": 9039608,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Sunnies - Eclipse Sweet Lemon Gummies - 5mg THC/25mg THCV/25mg CBD - 5mg - 20Pcs",
       "brand": "Sunnies",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22213,13 +22212,6 @@
           "quantity": 20.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-17"
-        },
-        {
-          "id": 8696831,
-          "label": "1A40303000001F5000401551",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-08",
-          "expirationDate": "2027-06-08"
         }
       ]
     },
@@ -22575,7 +22567,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22616,7 +22608,7 @@
         {
           "id": 9039609,
           "label": "1A40303000001F5000450415",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-09-08"
         }
@@ -24538,7 +24530,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 175.0,
+      "quantity": 147.0,
       "unit": "Grams",
       "strainName": "Lemon Berry Cookies",
       "strainType": null,
@@ -24571,7 +24563,7 @@
         {
           "id": 8914801,
           "label": "1A4030300002009000112802",
-          "quantity": 175.0,
+          "quantity": 147.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-08-05"
         }
@@ -25216,7 +25208,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 140.0,
+      "quantity": 112.0,
       "unit": "Grams",
       "strainName": "Captain Cookies",
       "strainType": null,
@@ -25250,7 +25242,7 @@
         {
           "id": 8923156,
           "label": "1A403030000012E000187021",
-          "quantity": 140.0,
+          "quantity": 112.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-07-29"
         }
@@ -25366,7 +25358,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 224.0,
+      "quantity": 217.0,
       "unit": "Grams",
       "strainName": "Chesapeake Crawler",
       "strainType": null,
@@ -25400,7 +25392,7 @@
         {
           "id": 8740657,
           "label": "1A40303000000C9000163852",
-          "quantity": 224.0,
+          "quantity": 217.0,
           "packagedDate": "2026-07-17",
           "expirationDate": "2027-07-12"
         }
@@ -37405,7 +37397,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 450.0,
+      "quantity": 446.5,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato TC",
       "strainType": null,
@@ -37437,7 +37429,7 @@
         {
           "id": 8974574,
           "label": "1A40303000001F5000428946",
-          "quantity": 450.0,
+          "quantity": 446.5,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -47173,7 +47165,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 20.0,
       "unit": "Each",
@@ -48751,56 +48743,6 @@
           "quantity": 8.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-03-18"
-        }
-      ]
-    },
-    {
-      "id": 8689168,
-      "packageCount": 1,
-      "name": "LORE 2g Vape - Lemon Berry Gelato",
-      "brand": "LORE",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Lemon Berry Gelato",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 78.53,
-        "CBC": 0.6,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.77,
-        "CBGA": 0.0,
-        "CBN": 2.18,
-        "THCA": 0.0,
-        "THCV": 0.59
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.24,
-        "humulene": 0.11,
-        "myrcene": 0.47,
-        "alpha-pinene": 0.2,
-        "caryophyllene": 1.11,
-        "beta-pinene": 0.34,
-        "limonene": 1.31,
-        "linalool": 0.28,
-        "terpinolene": 1.01
-      },
-      "totalTerps": 5.39,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8689168,
-          "label": "1A4030300003201000001355",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-07",
-          "expirationDate": "2027-03-16"
         }
       ]
     },
@@ -51217,7 +51159,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "White Widow",
       "strainType": null,
@@ -51252,7 +51194,7 @@
         {
           "id": 9074354,
           "label": "1A403030000283D000059492",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-06-26"
         }
