@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:30:03.517191+00:00",
+  "generated_at": "2026-10-09T16:40:03.573011+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12069,7 +12069,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12108,7 +12108,7 @@
         {
           "id": 8996303,
           "label": "1A4030300003522000211318",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-07-11"
         }
@@ -19589,16 +19589,17 @@
       ]
     },
     {
-      "id": 8639430,
-      "packageCount": 1,
+      "id": 9099991,
+      "packageCount": 2,
       "name": "Incredibles Bites 100mg - Peanut Budda Buddha - 10mg - 10",
       "brand": "Incredibles",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19636,6 +19637,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9099991,
+          "label": "1A40303000003EA000261642",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": "2027-09-10"
+        },
         {
           "id": 8639430,
           "label": "1A40303000003EA000184239",
@@ -30987,7 +30995,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 13.0,
       "unit": "Grams",
@@ -38727,7 +38735,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Afternoon Delight",
       "strainType": "Hybrid",
@@ -38760,7 +38768,7 @@
         {
           "id": 9075611,
           "label": "1A40303000003EA000260958",
-          "quantity": 22.0,
+          "quantity": 20.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-09-15"
         }
@@ -40738,57 +40746,6 @@
       ]
     },
     {
-      "id": 8541802,
-      "packageCount": 1,
-      "name": "Beboe Inspired Pen (NCD) - Vape Pen - 500mg",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Beboe Inspired",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 67.64,
-        "totalCBD": 6.66,
-        "CBC": 0.88,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 11.5,
-        "CBGA": 0.0,
-        "CBN": 0.36,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.24,
-        "humulene": 0.07,
-        "myrcene": 0.89,
-        "alpha-pinene": 0.17,
-        "caryophyllene": 1.15,
-        "beta-pinene": 0.37,
-        "limonene": 1.45,
-        "linalool": 0.43,
-        "terpinolene": 0.21
-      },
-      "totalTerps": 5.39,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8541802,
-          "label": "1A40303000003EA000187981",
-          "quantity": 1.0,
-          "packagedDate": "2026-06-03",
-          "expirationDate": "2027-02-25"
-        }
-      ]
-    },
-    {
       "id": 8139473,
       "packageCount": 1,
       "name": "Beboe Sweet Dreams Pen (NCD) - Vape Pen - 500mg",
@@ -41201,7 +41158,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Nectarz",
       "strainType": null,
@@ -41234,7 +41191,7 @@
         {
           "id": 8673145,
           "label": "1A403030000283D000052569",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-05-22"
         }
@@ -43941,7 +43898,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Edie Parker Maui Mango",
       "strainType": "Sativa",
@@ -43976,7 +43933,7 @@
         {
           "id": 8828888,
           "label": "1A403030000012D000259349",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-03"
         }
@@ -48397,7 +48354,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Jack's Delight",
       "strainType": "Sativa",
@@ -48431,7 +48388,7 @@
         {
           "id": 8826358,
           "label": "1A40303000003EA000195261",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-12"
         }
