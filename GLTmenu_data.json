@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:20:02.971276+00:00",
+  "generated_at": "2026-10-09T17:30:02.721458+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -748,7 +748,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 14.0,
       "unit": "Each",
@@ -4045,7 +4045,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 18.0,
       "unit": "Grams",
       "strainName": "Gelato OG",
       "strainType": null,
@@ -4069,7 +4069,7 @@
         {
           "id": 7643607,
           "label": "1A4030300003201000000461",
-          "quantity": 20.0,
+          "quantity": 18.0,
           "packagedDate": "2025-10-23",
           "expirationDate": "2026-10-14"
         }
@@ -4085,7 +4085,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 13.0,
       "unit": "Grams",
       "strainName": "Goji Dough",
       "strainType": null,
@@ -4109,7 +4109,7 @@
         {
           "id": 7643606,
           "label": "1A4030300003201000000465",
-          "quantity": 15.0,
+          "quantity": 13.0,
           "packagedDate": "2025-10-23",
           "expirationDate": "2026-10-14"
         }
@@ -8221,7 +8221,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Durban Poison",
       "strainType": "Sativa",
@@ -8255,7 +8255,7 @@
         {
           "id": 9039057,
           "label": "1A40303000003EA000258982",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-11"
         }
@@ -17015,7 +17015,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17054,7 +17054,7 @@
         {
           "id": 9018203,
           "label": "1A40303000017D5000107149",
-          "quantity": 12.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-08-12"
         }
@@ -17457,7 +17457,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17496,7 +17496,7 @@
         {
           "id": 8978146,
           "label": "1A40303000017D5000105967",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-07-01"
         }
@@ -20562,7 +20562,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20603,7 +20603,7 @@
         {
           "id": 9075604,
           "label": "1A40303000003EA000260949",
-          "quantity": 24.0,
+          "quantity": 22.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-03"
         }
@@ -24975,53 +24975,6 @@
       ]
     },
     {
-      "id": 8974566,
-      "packageCount": 1,
-      "name": "Banana Puddintain-Pre Pack Bud-3.5 gram-Plastic Container",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "Banana Puddintain",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 31.94,
-        "totalCBD": 0.39,
-        "CBDA": 0.07,
-        "CBG": 0.38,
-        "CBN": 0.01,
-        "THCA": 35.86
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.03,
-        "humulene": 0.18,
-        "myrcene": 0.87,
-        "alpha-pinene": 0.1,
-        "caryophyllene": 0.43,
-        "beta-pinene": 0.11,
-        "limonene": 0.69,
-        "terpinolene": 0.02,
-        "nerolidol": 0.01
-      },
-      "totalTerps": 2.53,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8974566,
-          "label": "1A40303000001F5000428932",
-          "quantity": 3.5,
-          "packagedDate": "2026-09-09",
-          "expirationDate": "2027-07-20"
-        }
-      ]
-    },
-    {
       "id": 8674620,
       "packageCount": 1,
       "name": "Berry Trix 8ths",
@@ -27263,7 +27216,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 130.0,
+      "quantity": 126.5,
       "unit": "Grams",
       "strainName": "Jack Herer",
       "strainType": null,
@@ -27296,7 +27249,7 @@
         {
           "id": 8241348,
           "label": "1A40303000000C9000142462",
-          "quantity": 130.0,
+          "quantity": 126.5,
           "packagedDate": "2026-03-25",
           "expirationDate": "2026-12-01"
         }
@@ -28203,7 +28156,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 168.0,
+      "quantity": 164.5,
       "unit": "Grams",
       "strainName": "Gelato Cake",
       "strainType": null,
@@ -28237,7 +28190,7 @@
         {
           "id": 8745227,
           "label": "1A40303000007D1000090208",
-          "quantity": 168.0,
+          "quantity": 164.5,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-06-23"
         }
@@ -36846,7 +36799,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 43.0,
+      "quantity": 41.0,
       "unit": "Each",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -36880,7 +36833,7 @@
         {
           "id": 9104900,
           "label": "1A40303000001F5000456178",
-          "quantity": 43.0,
+          "quantity": 41.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-07"
         }
@@ -50834,7 +50787,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "MD VP MDLMRY 05CR",
       "strainType": null,
@@ -50867,7 +50820,7 @@
         {
           "id": 8959170,
           "label": "1A40303000007D1000102084",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-04",
           "expirationDate": "2027-07-09"
         }
@@ -54542,59 +54495,6 @@
       ]
     },
     {
-      "id": 9040759,
-      "packageCount": 1,
-      "name": "Rove | Live Resin Diamonds Vape Reload | Magic Melon - H | 1.0g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Magic Melon",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 90.5,
-        "totalCBD": 0.14,
-        "CBC": 0.31,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.91,
-        "CBGA": 0.0,
-        "CBN": 0.25,
-        "THCA": 0.034,
-        "THCV": 1.45
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.17,
-        "humulene": 0.0373,
-        "myrcene": 0.0739,
-        "alpha-pinene": 0.0447,
-        "caryophyllene": 0.0794,
-        "beta-pinene": 0.0376,
-        "caryophyllene-oxide": 0.0624,
-        "limonene": 0.116,
-        "linalool": 0.0654,
-        "terpinolene": 0.0293,
-        "nerolidol": 0.025
-      },
-      "totalTerps": 1.09,
-      "dominantTerpene": "bisabolol",
-      "packages": [
-        {
-          "id": 9040759,
-          "label": "1A4030300000C83000088737",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-23",
-          "expirationDate": "2027-08-12"
-        }
-      ]
-    },
-    {
       "id": 9040186,
       "packageCount": 1,
       "name": "Rove | Live Resin Diamonds Vape Reload | Northern Lights - I | 1.0g",
@@ -54655,7 +54555,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Orange Crush",
       "strainType": null,
@@ -54688,7 +54588,7 @@
         {
           "id": 9040760,
           "label": "1A4030300000C83000088739",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-07-28"
         }
