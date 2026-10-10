@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T22:30:03.140978+00:00",
+  "generated_at": "2026-10-10T22:40:02.272033+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7572,7 +7572,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Pineapple Express Preground",
       "strainType": null,
@@ -7608,7 +7608,7 @@
         {
           "id": 8966508,
           "label": "1A403030000012E000192653",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-05-07"
         }
@@ -27931,7 +27931,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 364.0,
       "unit": "Grams",
@@ -29698,7 +29698,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 182.0,
+      "quantity": 168.0,
       "unit": "Grams",
       "strainName": "Windu",
       "strainType": null,
@@ -29731,7 +29731,7 @@
         {
           "id": 8821033,
           "label": "1A403030000012E000181558",
-          "quantity": 182.0,
+          "quantity": 168.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-07-02"
         }
@@ -33484,7 +33484,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -33519,7 +33519,7 @@
         {
           "id": 8952597,
           "label": "1A403030000012D000265618",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-09-03",
           "expirationDate": "2027-06-11"
         }
@@ -36729,7 +36729,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 40.0,
+      "quantity": 39.0,
       "unit": "Each",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -36763,7 +36763,7 @@
         {
           "id": 9095387,
           "label": "1A40303000000CB000055182",
-          "quantity": 40.0,
+          "quantity": 39.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-14"
         }
@@ -42027,7 +42027,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Cheetah Jet Fuel LR Black",
       "strainType": null,
@@ -42062,7 +42062,7 @@
         {
           "id": 8760585,
           "label": "1A4030300001771000040080",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-07-22",
           "expirationDate": "2027-07-16"
         }
@@ -43031,7 +43031,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Captain's Cake",
       "strainType": null,
@@ -43065,7 +43065,7 @@
         {
           "id": 9111208,
           "label": "1A403030000012D000275066",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-04-27"
         }
@@ -45557,7 +45557,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Gazzurple",
       "strainType": "Sativa",
@@ -45591,7 +45591,7 @@
         {
           "id": 8970471,
           "label": "1A40303000003EA000263664",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-29"
         }
@@ -45645,55 +45645,6 @@
           "quantity": 11.0,
           "packagedDate": "2026-03-23",
           "expirationDate": "2027-03-04"
-        }
-      ]
-    },
-    {
-      "id": 8395075,
-      "packageCount": 1,
-      "name": "Ghost Train Haze (NCD) - &Shine (Sativa) - 1000mg",
-      "brand": "&Shine",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 9.0,
-      "unit": "Each",
-      "strainName": "Ghost Train Haze",
-      "strainType": "Sativa",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 82.7,
-        "CBC": 0.61,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.76,
-        "CBGA": 0.0,
-        "CBN": 0.92,
-        "THCA": 0.0,
-        "THCV": 0.63
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.14,
-        "myrcene": 0.29,
-        "alpha-pinene": 0.22,
-        "caryophyllene": 0.68,
-        "beta-pinene": 0.17,
-        "limonene": 0.17,
-        "terpinolene": 1.69,
-        "nerolidol": 0.14
-      },
-      "totalTerps": 4.11,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8395075,
-          "label": "1A40303000003EA000169975",
-          "quantity": 9.0,
-          "packagedDate": "2026-04-29",
-          "expirationDate": "2027-03-05"
         }
       ]
     },
