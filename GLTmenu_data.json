@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T19:40:03.393361+00:00",
+  "generated_at": "2026-10-10T19:50:02.476457+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -373,7 +373,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -412,7 +412,7 @@
         {
           "id": 8786923,
           "label": "1A4030300000193000102922",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-06-16"
         },
@@ -9723,7 +9723,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9754,7 +9754,7 @@
         {
           "id": 8970470,
           "label": "1A40303000003EA000263663",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-04-28"
         }
@@ -11989,7 +11989,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12030,7 +12030,7 @@
         {
           "id": 8996306,
           "label": "1A4030300003522000211320",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-22"
         }
@@ -25562,7 +25562,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 87.5,
+      "quantity": 80.5,
       "unit": "Grams",
       "strainName": "Boston Tea Party",
       "strainType": null,
@@ -25598,7 +25598,7 @@
         {
           "id": 9062524,
           "label": "1A4030300004845000045952",
-          "quantity": 87.5,
+          "quantity": 80.5,
           "packagedDate": "2026-09-21",
           "expirationDate": "2027-09-21"
         }
@@ -53593,7 +53593,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Purple Martian DV",
       "strainType": null,
@@ -53628,7 +53628,7 @@
         {
           "id": 9105005,
           "label": "1A40303000001F5000456185",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-24"
         }
@@ -54599,7 +54599,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Ready To Use Vaporizer",
       "strainType": null,
@@ -54636,7 +54636,7 @@
         {
           "id": 9041003,
           "label": "1A4030300000C83000088741",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-24"
         }
@@ -54692,56 +54692,6 @@
           "quantity": 2.0,
           "packagedDate": "2026-09-17",
           "expirationDate": "2027-08-11"
-        }
-      ]
-    },
-    {
-      "id": 9041101,
-      "packageCount": 1,
-      "name": "Rove | Ready-To-Use Live Resin Diamond Vaporizer | Cherry Gelato - H | 1.0g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Ready To Use Vaporizer",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 90.16,
-        "totalCBD": 0.219,
-        "CBC": 0.358,
-        "CBDA": 0.005,
-        "CBDV": 0.0,
-        "CBG": 3.009,
-        "CBGA": 0.0,
-        "CBN": 0.372,
-        "THCA": 0.258,
-        "THCV": 1.27
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.225,
-        "humulene": 0.0514,
-        "myrcene": 0.0652,
-        "alpha-pinene": 0.0288,
-        "caryophyllene": 0.111,
-        "caryophyllene-oxide": 0.0425,
-        "limonene": 0.124,
-        "nerolidol": 0.0213
-      },
-      "totalTerps": 0.854,
-      "dominantTerpene": "bisabolol",
-      "packages": [
-        {
-          "id": 9041101,
-          "label": "1A4030300000C83000088742",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-23",
-          "expirationDate": "2027-07-28"
         }
       ]
     },
