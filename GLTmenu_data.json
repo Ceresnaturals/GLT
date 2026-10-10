@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T20:10:02.425380+00:00",
+  "generated_at": "2026-10-10T20:20:02.971316+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -5847,7 +5847,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -7666,7 +7666,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 9.0,
       "unit": "Each",
@@ -15815,61 +15815,6 @@
           "quantity": 10.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-04-28"
-        }
-      ]
-    },
-    {
-      "id": 9013197,
-      "packageCount": 1,
-      "name": "Dixie Orange Awakening Tablets-5mg-20",
-      "brand": "Dixie",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 1.362,
-        "CBC": 0.021,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.035,
-        "CBGA": 0.0,
-        "CBN": 0.033,
-        "THCA": 0.0,
-        "THCV": 0.011
-      },
-      "dose": {
-        "servingSize": "1 tablet",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.147,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.245,
-          "CBGA": 0.0,
-          "CBN": 0.231,
-          "THCA": 0.0,
-          "THCV": 0.077
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9013197,
-          "label": "1A403030000012D000267201",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-17",
-          "expirationDate": "2027-08-25"
         }
       ]
     },
@@ -28698,7 +28643,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Animal Face",
       "strainType": null,
@@ -28731,7 +28676,7 @@
         {
           "id": 9072998,
           "label": "1A40303000001F5000453095",
-          "quantity": 21.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-09-19"
         }
@@ -28941,7 +28886,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 73.5,
+      "quantity": 59.5,
       "unit": "Grams",
       "strainName": "Washington Apple",
       "strainType": null,
@@ -28974,7 +28919,7 @@
         {
           "id": 9104964,
           "label": "1A40303000001F5000456174",
-          "quantity": 73.5,
+          "quantity": 59.5,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-10-01"
         }
@@ -36264,7 +36209,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Do Si Dos",
       "strainType": null,
@@ -36296,7 +36241,7 @@
         {
           "id": 8698886,
           "label": "1A4030300000C83000076580",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-07-08",
           "expirationDate": "2027-06-05"
         }
@@ -51217,7 +51162,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Blue Razz Slushie",
       "strainType": null,
@@ -51251,7 +51196,7 @@
         {
           "id": 8999576,
           "label": "1A403030000283D000061463",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-06-30"
         }
@@ -54749,59 +54694,6 @@
           "quantity": 7.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-07-28"
-        }
-      ]
-    },
-    {
-      "id": 8940649,
-      "packageCount": 1,
-      "name": "Rove | Ready-To-Use Live Resin Diamond Vaporizer | Slush Pop - S | 1.0g",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Ready To Use Vaporizer",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 90.5,
-        "totalCBD": 0.201,
-        "CBC": 0.317,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.05,
-        "CBGA": 0.0,
-        "CBN": 0.258,
-        "THCA": 0.0,
-        "THCV": 1.58
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.146,
-        "humulene": 0.0323,
-        "myrcene": 0.0428,
-        "alpha-pinene": 0.0317,
-        "caryophyllene": 0.0463,
-        "beta-pinene": 0.037,
-        "caryophyllene-oxide": 0.0665,
-        "limonene": 0.186,
-        "linalool": 0.0294,
-        "terpinolene": 0.0391,
-        "nerolidol": 0.035
-      },
-      "totalTerps": 0.942,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8940649,
-          "label": "1A4030300000C83000086777",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-01",
-          "expirationDate": "2027-08-12"
         }
       ]
     },
