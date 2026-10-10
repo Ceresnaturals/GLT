@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T19:00:02.726709+00:00",
+  "generated_at": "2026-10-10T19:10:05.010591+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1732,7 +1732,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Glazing Onions",
       "strainType": null,
@@ -1766,7 +1766,7 @@
         {
           "id": 8606503,
           "label": "1A403030000283D000053496",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-06-17",
           "expirationDate": "2027-06-10"
         }
@@ -12312,63 +12312,6 @@
           "quantity": 7.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2026-12-11"
-        }
-      ]
-    },
-    {
-      "id": 8190970,
-      "packageCount": 1,
-      "name": "Coast Blueberry Infused Chews - 5mg THC - 20",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.14,
-        "totalCBD": 0.0,
-        "CBC": 0.15,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.15,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 chew = 5mg",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 5.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.27,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.27,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8190970,
-          "label": "1A4030300000579000037256",
-          "quantity": 2.0,
-          "packagedDate": "2026-03-12",
-          "expirationDate": "2026-10-27"
         }
       ]
     },
@@ -33958,7 +33901,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Khalifa Kush",
       "strainType": null,
@@ -33991,7 +33934,7 @@
         {
           "id": 7937278,
           "label": "1A40303000000C9000128834",
-          "quantity": 9.0,
+          "quantity": 7.0,
           "packagedDate": "2026-01-12",
           "expirationDate": "2026-12-22"
         }
@@ -35084,7 +35027,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 2.0,
       "unit": "Grams",
       "strainName": "Blueberry",
       "strainType": null,
@@ -35114,7 +35057,7 @@
         {
           "id": 8882285,
           "label": "1A4030300003521000056054",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-02-22"
         }
@@ -36061,6 +36004,100 @@
       ]
     },
     {
+      "id": 9097334,
+      "packageCount": 1,
+      "name": "Peach Runtz Isolate Infused Joint- Concentrate (.5g Joints) 2 Pack 1.0g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Infused Joints",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": "Peach Runtz Isolate",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 42.34,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.09,
+        "CBGA": 0.86,
+        "CBN": 0.0,
+        "THCA": 46.36,
+        "THCV": 0.26
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.06,
+        "myrcene": 0.21,
+        "caryophyllene": 0.24,
+        "eudesmol": 0.08,
+        "limonene": 0.1,
+        "linalool": 0.24
+      },
+      "totalTerps": 1.07,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9097334,
+          "label": "1A4030300000C83000090223",
+          "quantity": 50.0,
+          "packagedDate": "2026-10-06",
+          "expirationDate": "2027-09-13"
+        }
+      ]
+    },
+    {
+      "id": 9095857,
+      "packageCount": 1,
+      "name": "Peach Runtz Isolate Infused Joint- Concentrate (.5g Joints) 7 Pack 3.5g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Infused Joints",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Peach Runtz Isolate",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 42.34,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.09,
+        "CBGA": 0.86,
+        "CBN": 0.0,
+        "THCA": 46.36,
+        "THCV": 0.26
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.06,
+        "myrcene": 0.21,
+        "caryophyllene": 0.24,
+        "eudesmol": 0.08,
+        "limonene": 0.1,
+        "linalool": 0.24
+      },
+      "totalTerps": 1.07,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9095857,
+          "label": "1A4030300000C83000090145",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-06",
+          "expirationDate": "2027-09-13"
+        }
+      ]
+    },
+    {
       "id": 8974568,
       "packageCount": 1,
       "name": "Permanent Marker - Pre Roll Joints - 0.5 gram - 2 Pack",
@@ -36843,6 +36880,54 @@
           "quantity": 12.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-05-13"
+        }
+      ]
+    },
+    {
+      "id": 9097181,
+      "packageCount": 1,
+      "name": "Sunset Octane Isolate Infused Joint- Concentrate (.5g Joints) 7 Pack 3.5g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Infused Joints",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Sunset Octane Isolate",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 43.21,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.1,
+        "CBGA": 0.87,
+        "CBN": 0.0,
+        "THCA": 48.38,
+        "THCV": 0.25
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.15,
+        "myrcene": 0.05,
+        "alpha-pinene": 0.01,
+        "caryophyllene": 0.6,
+        "beta-pinene": 0.01,
+        "limonene": 0.16,
+        "linalool": 0.19
+      },
+      "totalTerps": 1.31,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9097181,
+          "label": "1A4030300000C83000090225",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-06",
+          "expirationDate": "2027-09-13"
         }
       ]
     },
@@ -42649,6 +42734,51 @@
       ]
     },
     {
+      "id": 9095851,
+      "packageCount": 1,
+      "name": "Confetti Cake Distillate vape cart 0.5mL",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Confetti Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.65,
+        "CBC": 0.81,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.94,
+        "CBGA": 0.0,
+        "CBN": 0.3,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.16,
+        "humulene": 0.24,
+        "caryophyllene": 2.96,
+        "nerolidol": 0.15
+      },
+      "totalTerps": 3.57,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9095851,
+          "label": "1A4030300000C83000090141",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-06",
+          "expirationDate": "2027-09-15"
+        }
+      ]
+    },
+    {
       "id": 8039529,
       "packageCount": 1,
       "name": "Cookies | Vapes | CDT 3-in-1 Disposables | Gary Payton + Pomegranate Shake - 1g",
@@ -43756,6 +43886,57 @@
           "quantity": 15.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-03-11"
+        }
+      ]
+    },
+    {
+      "id": 9097182,
+      "packageCount": 1,
+      "name": "Earthquake Live Resin Vape Cart 1.0mL",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Earthquake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 69.98,
+        "CBC": 1.09,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.48,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 3.75
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.33,
+        "humulene": 0.7,
+        "myrcene": 4.57,
+        "alpha-pinene": 0.21,
+        "caryophyllene": 2.82,
+        "eudesmol": 0.23,
+        "beta-pinene": 0.06,
+        "limonene": 1.35,
+        "linalool": 1.45,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 12.27,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9097182,
+          "label": "1A4030300000C83000090226",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-06",
+          "expirationDate": "2027-08-14"
         }
       ]
     },
@@ -45335,6 +45516,53 @@
       ]
     },
     {
+      "id": 9095852,
+      "packageCount": 1,
+      "name": "Fruiter Cereal Distillate Vape Cart 0.5mL",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Fruiter Cereal",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.83,
+        "CBC": 0.8,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.88,
+        "CBGA": 0.0,
+        "CBN": 0.3,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.15,
+        "myrcene": 0.23,
+        "alpha-pinene": 0.04,
+        "beta-pinene": 0.17,
+        "limonene": 1.93,
+        "nerolidol": 0.14
+      },
+      "totalTerps": 2.84,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9095852,
+          "label": "1A4030300000C83000090143",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-06",
+          "expirationDate": "2027-09-15"
+        }
+      ]
+    },
+    {
       "id": 8115306,
       "packageCount": 1,
       "name": "Fruity Pebbles OG BD - 510 Vape Cart - 1g",
@@ -45829,6 +46057,56 @@
           "quantity": 9.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-07-17"
+        }
+      ]
+    },
+    {
+      "id": 9095854,
+      "packageCount": 1,
+      "name": "Grape Moscato Distillate Vape Cart 0.5mL",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Grape Moscato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 82.71,
+        "CBC": 0.81,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.86,
+        "CBGA": 0.0,
+        "CBN": 0.3,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.26,
+        "humulene": 0.07,
+        "myrcene": 0.27,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 0.39,
+        "beta-pinene": 0.16,
+        "limonene": 0.3,
+        "terpinolene": 0.09,
+        "nerolidol": 0.21
+      },
+      "totalTerps": 1.97,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9095854,
+          "label": "1A4030300000C83000090144",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-06",
+          "expirationDate": "2027-09-15"
         }
       ]
     },
@@ -51530,7 +51808,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Blueberry",
       "strainType": null,
@@ -51564,7 +51842,7 @@
         {
           "id": 8579610,
           "label": "1A4030300003522000187536",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-05-26"
         }
@@ -53100,6 +53378,56 @@
           "quantity": 12.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-05-28"
+        }
+      ]
+    },
+    {
+      "id": 9097183,
+      "packageCount": 1,
+      "name": "Pink CertZ Live Resin Vape Cart 1.0mL",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Pink CertZ",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 74.82,
+        "CBC": 0.51,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.11,
+        "CBGA": 1.49,
+        "CBN": 0.0,
+        "THCA": 3.16,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.23,
+        "humulene": 0.59,
+        "myrcene": 0.93,
+        "alpha-pinene": 0.41,
+        "caryophyllene": 2.34,
+        "beta-pinene": 0.07,
+        "limonene": 2.5,
+        "linalool": 1.87,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 9.78,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9097183,
+          "label": "1A4030300000C83000090227",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-06",
+          "expirationDate": "2027-08-14"
         }
       ]
     },
