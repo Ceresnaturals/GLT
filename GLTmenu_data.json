@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T21:00:02.763627+00:00",
+  "generated_at": "2026-10-11T21:10:03.121698+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -25186,7 +25186,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 280.0,
+      "quantity": 266.0,
       "unit": "Grams",
       "strainName": "Dulce de Fresca",
       "strainType": null,
@@ -25220,7 +25220,7 @@
         {
           "id": 9099009,
           "label": "1A40303000040D9000006410",
-          "quantity": 280.0,
+          "quantity": 266.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-09-06"
         }
@@ -25541,7 +25541,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 154.0,
       "unit": "Grams",
@@ -25945,7 +25945,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 84.0,
+      "quantity": 80.5,
       "unit": "Grams",
       "strainName": "Grape Gas Cake",
       "strainType": null,
@@ -25979,7 +25979,7 @@
         {
           "id": 8920780,
           "label": "1A40303000040D9000005943",
-          "quantity": 84.0,
+          "quantity": 80.5,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-08-25"
         }
@@ -26389,7 +26389,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 392.0,
+      "quantity": 364.0,
       "unit": "Grams",
       "strainName": "Forbidden Zkittlez",
       "strainType": null,
@@ -26422,7 +26422,7 @@
         {
           "id": 8996060,
           "label": "1A4030300003521000058085",
-          "quantity": 392.0,
+          "quantity": 364.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-27"
         }
@@ -26539,7 +26539,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 81.0,
+      "quantity": 77.5,
       "unit": "Grams",
       "strainName": "Jack Herer",
       "strainType": null,
@@ -26572,7 +26572,7 @@
         {
           "id": 8241348,
           "label": "1A40303000000C9000142462",
-          "quantity": 81.0,
+          "quantity": 77.5,
           "packagedDate": "2026-03-25",
           "expirationDate": "2026-12-01"
         }
@@ -29309,7 +29309,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 213.5,
+      "quantity": 210.0,
       "unit": "Grams",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -29343,7 +29343,7 @@
         {
           "id": 9097160,
           "label": "1A40303000000CB000055217",
-          "quantity": 213.5,
+          "quantity": 210.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-04"
         }
@@ -39738,7 +39738,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Pink Palmer",
       "strainType": null,
@@ -39773,7 +39773,7 @@
         {
           "id": 8858183,
           "label": "1A40303000001F5000416979",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-05-21"
         }
@@ -42613,58 +42613,6 @@
       ]
     },
     {
-      "id": 8794433,
-      "packageCount": 1,
-      "name": "Cherry Pineapple Zlushie DV 1.0g/1000mg",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Cherry Pineapple Zlushie DV",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 88.09,
-        "totalCBD": 0.13,
-        "CBC": 0.56,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.91,
-        "CBGA": 0.0,
-        "CBN": 0.28,
-        "THCA": 0.0,
-        "THCV": 0.25
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.01,
-        "humulene": 0.2,
-        "myrcene": 1.12,
-        "alpha-pinene": 1.11,
-        "caryophyllene": 0.72,
-        "beta-pinene": 0.65,
-        "ocimene": 0.1,
-        "limonene": 1.18,
-        "linalool": 0.86,
-        "terpinolene": 0.2
-      },
-      "totalTerps": 6.91,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8794433,
-          "label": "1A40303000001F5000410808",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-29",
-          "expirationDate": "2027-03-19"
-        }
-      ]
-    },
-    {
       "id": 8966535,
       "packageCount": 2,
       "name": "Citrus Got Real Melted Diamonds AIO Helly Meltz - 1 g",
@@ -42675,7 +42623,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Citrus Got Real Melted AIO Helly Meltz",
       "strainType": null,
@@ -42712,7 +42660,7 @@
         {
           "id": 8755811,
           "label": "1A403030000012E000176837",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-06-15"
         }
@@ -50484,7 +50432,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "MD DP MOROCCANMINT 1PEN",
       "strainType": null,
@@ -50511,7 +50459,7 @@
         {
           "id": 8681091,
           "label": "1A40303000007D1000085093",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-03",
           "expirationDate": "2027-11-13"
         }
@@ -52734,7 +52682,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Passion Fruit",
       "strainType": null,
@@ -52764,7 +52712,7 @@
         {
           "id": 9090381,
           "label": "1A403030000012E000200841",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-10-05",
           "expirationDate": "2027-07-31"
         }
@@ -54027,7 +53975,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Raspberry Daydream DV",
       "strainType": null,
@@ -54063,7 +54011,7 @@
         {
           "id": 8974645,
           "label": "1A40303000001F5000428941",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-06-03"
         }
