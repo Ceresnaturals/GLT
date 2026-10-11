@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T17:40:03.998529+00:00",
+  "generated_at": "2026-10-11T17:50:03.460397+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -25234,6 +25234,56 @@
       ]
     },
     {
+      "id": 9099009,
+      "packageCount": 1,
+      "name": "Dulce de Fresca - 14g Half Oz",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 280.0,
+      "unit": "Grams",
+      "strainName": "Dulce de Fresca",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.99,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.62,
+        "CBN": 0.0,
+        "THCA": 29.42,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.18,
+        "humulene": 0.18,
+        "myrcene": 0.33,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.77,
+        "beta-pinene": 0.04,
+        "limonene": 0.35,
+        "linalool": 0.3,
+        "nerolidol": 0.08
+      },
+      "totalTerps": 2.35,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9099009,
+          "label": "1A40303000040D9000006410",
+          "quantity": 280.0,
+          "packagedDate": "2026-10-06",
+          "expirationDate": "2027-09-06"
+        }
+      ]
+    },
+    {
       "id": 9075615,
       "packageCount": 1,
       "name": "Dulce de Uva Pre-Pack (Mixed Buds) - Good Green (Indica) - Usable - 3.5g",
@@ -49542,7 +49592,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Tropicana Cookies",
       "strainType": null,
@@ -49577,7 +49627,7 @@
         {
           "id": 8954300,
           "label": "1A4030300002199000062284",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-06-23"
         }
@@ -54539,7 +54589,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Cherry Gelato",
       "strainType": null,
@@ -54572,7 +54622,7 @@
         {
           "id": 9093487,
           "label": "1A4030300000C83000090120",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-07-28"
         }
