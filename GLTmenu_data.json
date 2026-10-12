@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:20:03.092780+00:00",
+  "generated_at": "2026-10-12T15:30:06.417797+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2531,7 +2531,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "White Durban",
       "strainType": "Sativa",
@@ -2567,7 +2567,7 @@
         {
           "id": 9100060,
           "label": "1A40303000003EA000261651",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-09-22"
         }
@@ -9762,16 +9762,17 @@
       ]
     },
     {
-      "id": 8947753,
-      "packageCount": 1,
+      "id": 9039625,
+      "packageCount": 2,
       "name": "Keef - Blue Razz - 10mg - 1",
       "brand": null,
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9810,6 +9811,13 @@
       "dominantTerpene": null,
       "packages": [
         {
+          "id": 9039625,
+          "label": "1A40303000001F5000450418",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-08-12"
+        },
+        {
           "id": 8947753,
           "label": "1A40303000001F5000425697",
           "quantity": 2.0,
@@ -9819,16 +9827,17 @@
       ]
     },
     {
-      "id": 8998025,
-      "packageCount": 1,
+      "id": 9073087,
+      "packageCount": 2,
       "name": "Keef - Bubba Kush Root Beer - 10mg - 1",
       "brand": null,
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9866,6 +9875,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9073087,
+          "label": "1A40303000001F5000453090",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-30",
+          "expirationDate": "2027-08-21"
+        },
         {
           "id": 8998025,
           "label": "1A40303000001F5000431207",
@@ -24001,7 +24017,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 17.5,
       "unit": "Grams",
       "strainName": "Guava Cooler",
       "strainType": null,
@@ -24036,7 +24052,7 @@
         {
           "id": 9043880,
           "label": "1A4030300003A3C000091750",
-          "quantity": 20.0,
+          "quantity": 17.5,
           "packagedDate": "2026-08-24",
           "expirationDate": "2027-08-24"
         }
@@ -24537,7 +24553,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 70.0,
+      "quantity": 66.5,
       "unit": "Grams",
       "strainName": "Brownie Scout",
       "strainType": "Indica",
@@ -24572,7 +24588,7 @@
         {
           "id": 9075613,
           "label": "1A40303000003EA000260951",
-          "quantity": 70.0,
+          "quantity": 66.5,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-14"
         }
@@ -25888,7 +25904,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 80.5,
+      "quantity": 77.0,
       "unit": "Grams",
       "strainName": "Grape Gas Cake",
       "strainType": null,
@@ -25922,7 +25938,7 @@
         {
           "id": 8920780,
           "label": "1A40303000040D9000005943",
-          "quantity": 80.5,
+          "quantity": 77.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-08-25"
         }
@@ -26482,7 +26498,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 67.0,
+      "quantity": 63.5,
       "unit": "Grams",
       "strainName": "Jack Herer",
       "strainType": null,
@@ -26515,7 +26531,7 @@
         {
           "id": 8241348,
           "label": "1A40303000000C9000142462",
-          "quantity": 67.0,
+          "quantity": 63.5,
           "packagedDate": "2026-03-25",
           "expirationDate": "2026-12-01"
         }
@@ -29391,58 +29407,6 @@
       ]
     },
     {
-      "id": 8954212,
-      "packageCount": 1,
-      "name": "Swift Lifts - Blueberry Muffins - Usable - 2.5g 5pk",
-      "brand": null,
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 5.0,
-      "unit": "Grams",
-      "strainName": "Blueberry Muffins",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 22.45,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.56,
-        "CBN": 0.0,
-        "THCA": 25.2,
-        "THCV": 0.05
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.29,
-        "humulene": 0.28,
-        "myrcene": 0.27,
-        "alpha-pinene": 0.02,
-        "caryophyllene": 1.07,
-        "eudesmol": 0.15,
-        "beta-pinene": 0.03,
-        "limonene": 0.2,
-        "linalool": 0.17,
-        "terpinolene": 0.01,
-        "nerolidol": 0.06
-      },
-      "totalTerps": 2.76,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8954212,
-          "label": "1A4030300003A3C000090437",
-          "quantity": 5.0,
-          "packagedDate": "2026-08-14",
-          "expirationDate": "2027-08-14"
-        }
-      ]
-    },
-    {
       "id": 9044301,
       "packageCount": 1,
       "name": "Swift Lifts - Ice Cream Cake - Usable - 2.5g 5pk",
@@ -29452,7 +29416,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.5,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -29485,7 +29449,7 @@
         {
           "id": 9044301,
           "label": "1A4030300003A3C000091754",
-          "quantity": 22.5,
+          "quantity": 20.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-08-19"
         }
@@ -29886,7 +29850,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 22.5,
       "unit": "Grams",
       "strainName": "Chem + Chocolate",
       "strainType": null,
@@ -29920,7 +29884,7 @@
         {
           "id": 8678470,
           "label": "1A4030300002009000107937",
-          "quantity": 25.0,
+          "quantity": 22.5,
           "packagedDate": "2026-07-02",
           "expirationDate": "2026-11-18"
         }
@@ -29936,7 +29900,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.5,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "Cherry Paloma",
       "strainType": null,
@@ -29969,7 +29933,7 @@
         {
           "id": 8678374,
           "label": "1A4030300002009000107938",
-          "quantity": 22.5,
+          "quantity": 20.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-02-24"
         }
@@ -34759,7 +34723,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 129.5,
+      "quantity": 126.0,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -34792,7 +34756,7 @@
         {
           "id": 9097323,
           "label": "1A40303000000CB000055221",
-          "quantity": 129.5,
+          "quantity": 126.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-02"
         }
@@ -34808,7 +34772,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 133.0,
+      "quantity": 129.5,
       "unit": "Grams",
       "strainName": "Peach Runtz",
       "strainType": null,
@@ -34842,7 +34806,7 @@
         {
           "id": 9095865,
           "label": "1A40303000000CB000055185",
-          "quantity": 133.0,
+          "quantity": 129.5,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-06-23"
         }
