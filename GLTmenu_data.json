@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T16:50:02.565550+00:00",
+  "generated_at": "2026-10-13T17:00:05.937576+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1452,6 +1452,50 @@
         }
       ],
       "pick": 151
+    },
+    {
+      "id": 9107053,
+      "packageCount": 1,
+      "name": "Beezle - Live Resin THCa Diamonds - Jet Fuel - 1g",
+      "brand": "Beezle",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Jet Fuel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.24,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 99.48,
+        "THCV": 0.32
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.05,
+        "caryophyllene": 0.11,
+        "limonene": 0.04
+      },
+      "totalTerps": 0.2,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9107053,
+          "label": "1A403030000283D000059765",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-09-18"
+        }
+      ]
     },
     {
       "id": 8992319,
@@ -8067,7 +8111,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": "Hybrid",
@@ -8101,7 +8145,7 @@
         {
           "id": 9100059,
           "label": "1A40303000003EA000261648",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-18"
         }
@@ -21646,9 +21690,9 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21689,7 +21733,7 @@
         {
           "id": 9039608,
           "label": "1A40303000001F5000450414",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-17"
         }
@@ -22277,7 +22321,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22318,7 +22362,7 @@
         {
           "id": 8996081,
           "label": "1A4030300003522000211327",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-07-10"
         }
@@ -22391,7 +22435,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22432,7 +22476,7 @@
         {
           "id": 8939379,
           "label": "1A4030300003522000210591",
-          "quantity": 23.0,
+          "quantity": 21.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-07"
         }
@@ -27884,7 +27928,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 105.0,
+      "quantity": 101.5,
       "unit": "Grams",
       "strainName": "Double Krush",
       "strainType": null,
@@ -27918,7 +27962,7 @@
         {
           "id": 9066057,
           "label": "1A4030300003521000058692",
-          "quantity": 105.0,
+          "quantity": 101.5,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-08-22"
         }
@@ -28125,7 +28169,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 84.0,
+      "quantity": 80.5,
       "unit": "Grams",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -28159,7 +28203,7 @@
         {
           "id": 9095869,
           "label": "1A40303000000CB000055186",
-          "quantity": 84.0,
+          "quantity": 80.5,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-09-22"
         }
@@ -30294,6 +30338,55 @@
         }
       ],
       "pick": 43
+    },
+    {
+      "id": 9107213,
+      "packageCount": 1,
+      "name": "Beezle - Stingers - Rosin Infused Pre-Rolls - Baby Yoda - 1g",
+      "brand": "Beezle",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Baby Yoda",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 32.71,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.22,
+        "CBGA": 1.11,
+        "CBN": 0.0,
+        "THCA": 33.64,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.21,
+        "myrcene": 0.26,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.8,
+        "beta-pinene": 0.08,
+        "limonene": 0.58,
+        "linalool": 0.35
+      },
+      "totalTerps": 2.68,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9107213,
+          "label": "1A403030000283D000059766",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-08-25"
+        }
+      ]
     },
     {
       "id": 8849861,
@@ -37065,7 +37158,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 180.95,
+      "quantity": 173.95,
       "unit": "Grams",
       "strainName": "Permanent Marker",
       "strainType": null,
@@ -37099,7 +37192,7 @@
         {
           "id": 8947234,
           "label": "1A40303000001F5000425621",
-          "quantity": 180.95,
+          "quantity": 173.95,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -37115,7 +37208,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 135.0,
+      "quantity": 128.0,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato TC",
       "strainType": null,
@@ -37147,7 +37240,7 @@
         {
           "id": 8974574,
           "label": "1A40303000001F5000428946",
-          "quantity": 135.0,
+          "quantity": 128.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -37163,7 +37256,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 254.96,
+      "quantity": 251.46,
       "unit": "Grams",
       "strainName": "GMO x Skywalker OG",
       "strainType": null,
@@ -37195,7 +37288,7 @@
         {
           "id": 8974649,
           "label": "1A40303000001F5000428947",
-          "quantity": 254.96,
+          "quantity": 251.46,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -37211,7 +37304,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 441.0,
+      "quantity": 430.5,
       "unit": "Grams",
       "strainName": "Tear Gas -BLVK MRKT",
       "strainType": null,
@@ -37245,7 +37338,7 @@
         {
           "id": 8968421,
           "label": "1A40303000040D9000006041",
-          "quantity": 441.0,
+          "quantity": 430.5,
           "packagedDate": "2026-09-08",
           "expirationDate": null
         }
@@ -40529,6 +40622,57 @@
       ]
     },
     {
+      "id": 9107048,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Citrus Sap - 0.5g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Citrus Sap",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.15,
+        "CBC": 0.95,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.91,
+        "CBGA": 0.0,
+        "CBN": 0.41,
+        "THCA": 0.0,
+        "THCV": 0.84
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.35,
+        "humulene": 0.18,
+        "myrcene": 0.48,
+        "alpha-pinene": 0.23,
+        "caryophyllene": 1.32,
+        "beta-pinene": 0.11,
+        "ocimene": 0.56,
+        "limonene": 0.86,
+        "linalool": 0.39,
+        "nerolidol": 0.11
+      },
+      "totalTerps": 4.64,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9107048,
+          "label": "1A403030000283D000059757",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-07-17"
+        }
+      ]
+    },
+    {
       "id": 8849821,
       "packageCount": 1,
       "name": "Beezle - Buzz Vape - Citrus Sap - 1g",
@@ -40576,6 +40720,254 @@
           "quantity": 1.0,
           "packagedDate": "2026-08-11",
           "expirationDate": "2027-07-20"
+        }
+      ]
+    },
+    {
+      "id": 9107209,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Durban Gushers - 1g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Durban Gushers",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 82.17,
+        "CBC": 1.21,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.14,
+        "CBGA": 0.0,
+        "CBN": 0.69,
+        "THCA": 0.0,
+        "THCV": 0.48
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.11,
+        "myrcene": 0.63,
+        "alpha-pinene": 0.14,
+        "caryophyllene": 0.5,
+        "beta-pinene": 0.1,
+        "limonene": 1.41,
+        "linalool": 0.54,
+        "nerolidol": 0.1
+      },
+      "totalTerps": 3.69,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9107209,
+          "label": "1A403030000283D000059761",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-07-20"
+        }
+      ]
+    },
+    {
+      "id": 9107207,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Grapefruit Diesel - 0.5g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Grapefruit Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 80.46,
+        "CBC": 1.03,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.93,
+        "CBGA": 0.0,
+        "CBN": 0.41,
+        "THCA": 0.0,
+        "THCV": 0.66
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.4,
+        "humulene": 0.16,
+        "myrcene": 0.9,
+        "alpha-pinene": 0.2,
+        "caryophyllene": 1.4,
+        "beta-pinene": 0.17,
+        "limonene": 1.27,
+        "linalool": 0.46,
+        "nerolidol": 0.11
+      },
+      "totalTerps": 5.2,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9107207,
+          "label": "1A403030000283D000059758",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-08-06"
+        }
+      ]
+    },
+    {
+      "id": 9107051,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Jelly Donut - 0.5g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Jelly Donut",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.81,
+        "CBC": 1.2,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.43,
+        "CBGA": 0.0,
+        "CBN": 0.77,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.45,
+        "alpha-pinene": 0.24,
+        "caryophyllene": 0.58,
+        "beta-pinene": 0.13,
+        "ocimene": 1.07,
+        "limonene": 1.13,
+        "linalool": 0.32,
+        "nerolidol": 0.11
+      },
+      "totalTerps": 4.2,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9107051,
+          "label": "1A403030000283D000059759",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-07-16"
+        }
+      ]
+    },
+    {
+      "id": 9107212,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Jelly Donut - 1g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Jelly Donut",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.15,
+        "CBC": 1.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.46,
+        "CBGA": 0.0,
+        "CBN": 0.71,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.43,
+        "alpha-pinene": 0.23,
+        "caryophyllene": 0.57,
+        "beta-pinene": 0.13,
+        "ocimene": 1.05,
+        "limonene": 1.07,
+        "linalool": 0.33
+      },
+      "totalTerps": 3.91,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9107212,
+          "label": "1A403030000283D000059764",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-07-31"
+        }
+      ]
+    },
+    {
+      "id": 9107210,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Kush Mints - 1g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Kush Mints",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.99,
+        "CBC": 1.12,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.92,
+        "CBGA": 0.0,
+        "CBN": 0.39,
+        "THCA": 0.0,
+        "THCV": 0.88
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.29,
+        "myrcene": 0.5,
+        "alpha-pinene": 0.26,
+        "caryophyllene": 0.64,
+        "beta-pinene": 0.26,
+        "limonene": 1.96,
+        "linalool": 0.29,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 4.45,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9107210,
+          "label": "1A403030000283D000059762",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-07-31"
         }
       ]
     },
@@ -40679,6 +41071,108 @@
           "quantity": 1.0,
           "packagedDate": "2026-09-14",
           "expirationDate": "2027-06-23"
+        }
+      ]
+    },
+    {
+      "id": 9107052,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Snoop OG - 0.5g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Snoop OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 82.91,
+        "CBC": 0.72,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.72,
+        "CBGA": 0.0,
+        "CBN": 0.55,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.15,
+        "humulene": 0.07,
+        "myrcene": 0.75,
+        "alpha-pinene": 0.26,
+        "caryophyllene": 1.09,
+        "beta-pinene": 0.2,
+        "ocimene": 0.98,
+        "limonene": 1.27,
+        "linalool": 0.34,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 5.49,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9107052,
+          "label": "1A403030000283D000059760",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-08-18"
+        }
+      ]
+    },
+    {
+      "id": 9107211,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Wedding Cake - 1g",
+      "brand": "Beezle",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Wedding Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.58,
+        "CBC": 0.82,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.36,
+        "CBGA": 0.0,
+        "CBN": 0.73,
+        "THCA": 0.0,
+        "THCV": 0.49
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.09,
+        "myrcene": 0.54,
+        "alpha-pinene": 0.52,
+        "caryophyllene": 0.53,
+        "beta-pinene": 0.21,
+        "ocimene": 1.87,
+        "limonene": 1.66,
+        "linalool": 0.19,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 5.93,
+      "dominantTerpene": "ocimene",
+      "packages": [
+        {
+          "id": 9107211,
+          "label": "1A403030000283D000059763",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-08-11"
         }
       ]
     },
