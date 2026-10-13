@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T20:40:02.753325+00:00",
+  "generated_at": "2026-10-13T20:50:03.165001+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -5827,7 +5827,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Mfused FIRE Fattys",
       "strainType": null,
@@ -5863,7 +5863,7 @@
         {
           "id": 9047754,
           "label": "1A403030000012D000267863",
-          "quantity": 9.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-07-21"
         }
@@ -17731,6 +17731,61 @@
       ]
     },
     {
+      "id": 9117291,
+      "packageCount": 1,
+      "name": "Fade Co | Pretzels | Distillate | Sweet & Savory - 5mg - 15pk",
+      "brand": "Fade Co",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.18,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.008,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 75.0,
+        "thcMgPerServing": 5.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.24,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9117291,
+          "label": "1A4030300004845000048448",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": "2027-10-07"
+        }
+      ]
+    },
+    {
       "id": 8490545,
       "packageCount": 1,
       "name": "HiColor Gummies Alfonso Mango 1:1|Edible Product|5mg|20ct",
@@ -26320,7 +26375,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 308.0,
+      "quantity": 280.0,
       "unit": "Grams",
       "strainName": "Forbidden Zkittlez",
       "strainType": null,
@@ -26353,7 +26408,7 @@
         {
           "id": 8996060,
           "label": "1A4030300003521000058085",
-          "quantity": 308.0,
+          "quantity": 280.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-27"
         }
@@ -26418,7 +26473,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 42.0,
       "unit": "Grams",
@@ -32590,6 +32645,57 @@
       "pick": 228
     },
     {
+      "id": 9117292,
+      "packageCount": 1,
+      "name": "Fade Co Pre-Roll Pack (Rummy 500) - Usable - 2.5g",
+      "brand": "Fade Co",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Grams",
+      "strainName": "Rummy 500",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.98,
+        "totalCBD": 0.06,
+        "CBC": 0.0,
+        "CBDA": 0.07,
+        "CBDV": 0.0,
+        "CBG": 0.1,
+        "CBGA": 0.87,
+        "CBN": 0.0,
+        "THCA": 31.14,
+        "THCV": 0.22
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.17,
+        "myrcene": 0.42,
+        "alpha-pinene": 0.24,
+        "caryophyllene": 0.41,
+        "beta-pinene": 0.19,
+        "ocimene": 0.03,
+        "limonene": 0.76,
+        "linalool": 0.15,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.61,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9117292,
+          "label": "1A4030300004845000048449",
+          "quantity": 50.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-09-15"
+        }
+      ]
+    },
+    {
       "id": 8882006,
       "packageCount": 1,
       "name": "Fade Co Pre-Roll Pack (Super Boof) - Usable - 2.5g",
@@ -32684,6 +32790,57 @@
           "quantity": 15.0,
           "packagedDate": "2026-03-24",
           "expirationDate": "2027-03-20"
+        }
+      ]
+    },
+    {
+      "id": 9122862,
+      "packageCount": 1,
+      "name": "Fade Co | Pre-Roll | Infused Joint | Strawberry Cough - 1g - 2pk",
+      "brand": "Fade Co",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": "Strawberry Cough",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 40.26,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.2,
+        "CBGA": 0.71,
+        "CBN": 0.03,
+        "THCA": 42.0,
+        "THCV": 0.65
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.06,
+        "myrcene": 0.02,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.29,
+        "eudesmol": 0.02,
+        "caryophyllene-oxide": 0.03,
+        "linalool": 0.03,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 0.55,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9122862,
+          "label": "1A4030300004845000048623",
+          "quantity": 50.0,
+          "packagedDate": "2026-09-22",
+          "expirationDate": "2027-06-19"
         }
       ]
     },
@@ -35313,7 +35470,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 115.5,
+      "quantity": 112.0,
       "unit": "Grams",
       "strainName": "Peach Runtz",
       "strainType": null,
@@ -35347,7 +35504,7 @@
         {
           "id": 9095865,
           "label": "1A40303000000CB000055185",
-          "quantity": 115.5,
+          "quantity": 112.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-06-23"
         }
@@ -43642,7 +43799,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 15.0,
       "unit": "Each",
