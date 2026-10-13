@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T17:20:02.460875+00:00",
+  "generated_at": "2026-10-13T17:30:03.149767+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2335,7 +2335,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 7.0,
       "unit": "Each",
@@ -11111,7 +11111,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11152,7 +11152,7 @@
         {
           "id": 8882300,
           "label": "1A4030300003522000202250",
-          "quantity": 15.0,
+          "quantity": 13.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-05-14"
         }
@@ -11498,7 +11498,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11537,7 +11537,7 @@
         {
           "id": 8996070,
           "label": "1A4030300003522000211311",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-29"
         }
@@ -11673,7 +11673,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11714,7 +11714,7 @@
         {
           "id": 9066535,
           "label": "1A4030300003522000215105",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-08-27"
         }
@@ -20259,63 +20259,6 @@
       ]
     },
     {
-      "id": 8794428,
-      "packageCount": 1,
-      "name": "ORIA - Berry Bliss - Indica Gummies - 10mg - 10 pcs",
-      "brand": null,
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": "Indica",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.22,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8794428,
-          "label": "1A40303000001F5000410800",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-29",
-          "expirationDate": "2027-06-03"
-        }
-      ]
-    },
-    {
       "id": 9073304,
       "packageCount": 1,
       "name": "ORIA - Raspberry Tangerine - Full Spectrum Hybrid Gummies - 10mg-10 pcs",
@@ -20897,7 +20840,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -20936,7 +20879,7 @@
         {
           "id": 9047764,
           "label": "1A403030000012D000267873",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-07-07"
         }
@@ -22770,7 +22713,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22809,7 +22752,7 @@
         {
           "id": 8984083,
           "label": "1A403030000390D000067445",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-11",
           "expirationDate": "2027-08-24"
         }
@@ -30900,7 +30843,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Chem de la Chem Duster",
       "strainType": null,
@@ -30932,7 +30875,7 @@
         {
           "id": 9105008,
           "label": "1A40303000001F5000456189",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-09-01"
         }
@@ -33031,7 +32974,7 @@
     },
     {
       "id": 9111210,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Kaviar Hybrid Infused Pre-Roll - 1.5g",
       "brand": "Kaviar",
       "category": "Pre-Roll",
@@ -33039,51 +32982,42 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 33.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 38.3,
-        "CBC": 0.48,
+        "totalTHC": 37.9,
+        "CBC": 0.42,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.74,
-        "CBGA": 0.51,
-        "CBN": 0.19,
-        "THCA": 14.8,
-        "THCV": 0.06
+        "CBG": 0.88,
+        "CBGA": 0.75,
+        "CBN": 0.22,
+        "THCA": 15.74,
+        "THCV": 0.08
       },
       "dose": null,
       "terpenes": {
-        "bisabolol": 0.08,
-        "humulene": 0.11,
-        "myrcene": 0.11,
-        "alpha-pinene": 0.02,
-        "caryophyllene": 0.37,
-        "eudesmol": 0.13,
+        "bisabolol": 0.09,
+        "humulene": 0.08,
+        "myrcene": 0.14,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.25,
         "beta-pinene": 0.03,
-        "limonene": 0.32,
-        "linalool": 0.21,
-        "terpinolene": 0.02
+        "limonene": 0.29,
+        "linalool": 0.11
       },
-      "totalTerps": 1.7,
-      "dominantTerpene": "caryophyllene",
+      "totalTerps": 1.22,
+      "dominantTerpene": "limonene",
       "packages": [
         {
           "id": 9111210,
           "label": "1A403030000012D000275070",
-          "quantity": 30.0,
+          "quantity": 28.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-08-26"
-        },
-        {
-          "id": 8981881,
-          "label": "1A403030000012D000266240",
-          "quantity": 3.0,
-          "packagedDate": "2026-09-10",
-          "expirationDate": "2027-07-22"
         }
       ]
     },
@@ -33300,7 +33234,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -33336,7 +33270,7 @@
         {
           "id": 9047756,
           "label": "1A403030000012D000267865",
-          "quantity": 9.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-08-10"
         }
@@ -35471,7 +35405,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 43.0,
+      "quantity": 42.0,
       "unit": "Each",
       "strainName": "Peach Runtz Isolate",
       "strainType": null,
@@ -35502,7 +35436,7 @@
         {
           "id": 9097334,
           "label": "1A4030300000C83000090223",
-          "quantity": 43.0,
+          "quantity": 42.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-09-13"
         }
@@ -37253,7 +37187,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 430.5,
+      "quantity": 427.0,
       "unit": "Grams",
       "strainName": "Tear Gas -BLVK MRKT",
       "strainType": null,
@@ -37287,7 +37221,7 @@
         {
           "id": 8968421,
           "label": "1A40303000040D9000006041",
-          "quantity": 430.5,
+          "quantity": 427.0,
           "packagedDate": "2026-09-08",
           "expirationDate": null
         }
