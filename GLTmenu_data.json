@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T18:10:03.091424+00:00",
+  "generated_at": "2026-10-13T18:20:07.718740+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8455,6 +8455,56 @@
       ]
     },
     {
+      "id": 9114133,
+      "packageCount": 1,
+      "name": "Short Lifts Infused & Kief Coated - Granddaddy Purple - 2.5g 5pk",
+      "brand": null,
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Short Lifts & Coated",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 38.88,
+        "CBC": 0.13,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.9,
+        "CBGA": 1.03,
+        "CBN": 0.15,
+        "THCA": 21.45,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.16,
+        "humulene": 0.14,
+        "myrcene": 0.06,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 1.85,
+        "beta-pinene": 0.04,
+        "limonene": 0.16,
+        "linalool": 0.21,
+        "nerolidol": 0.12
+      },
+      "totalTerps": 3.03,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9114133,
+          "label": "1A40303000017D5000110060",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-15",
+          "expirationDate": "2027-09-15"
+        }
+      ]
+    },
+    {
       "id": 8385329,
       "packageCount": 1,
       "name": "Soul Safari - Live Sugar - 2g",
@@ -14536,7 +14586,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14577,7 +14627,7 @@
         {
           "id": 8946620,
           "label": "1A4030300000C83000081472",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-14"
         }
@@ -16384,15 +16434,16 @@
     },
     {
       "id": 9053088,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Encore Caramel - Espresso - 10mg - 10pc",
       "brand": null,
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16434,6 +16485,68 @@
           "quantity": 5.0,
           "packagedDate": "2026-08-03",
           "expirationDate": "2027-08-03"
+        },
+        {
+          "id": 9114118,
+          "label": "1A40303000017D5000110051",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-09-08"
+        }
+      ]
+    },
+    {
+      "id": 9114121,
+      "packageCount": 1,
+      "name": "Encore Caramel - Sea Salt - 10mg - 10pc",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.277,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.013,
+        "CBGA": 0.0,
+        "CBN": 0.004,
+        "THCA": 0.0,
+        "THCV": 0.002
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.072,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.468,
+          "CBGA": 0.0,
+          "CBN": 0.144,
+          "THCA": 0.0,
+          "THCV": 0.072
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9114121,
+          "label": "1A40303000017D5000110052",
+          "quantity": 12.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-08-26"
         }
       ]
     },
@@ -16666,6 +16779,61 @@
       ]
     },
     {
+      "id": 9113928,
+      "packageCount": 1,
+      "name": "Encore Gummies (RSO) - Concord Grape - 10mg - 10pc*",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.284,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.009,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.315,
+          "CBGA": 0.0,
+          "CBN": 0.07,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9113928,
+          "label": "1A40303000017D5000110053",
+          "quantity": 24.0,
+          "packagedDate": "2026-07-28",
+          "expirationDate": "2027-07-28"
+        }
+      ]
+    },
+    {
       "id": 9018114,
       "packageCount": 1,
       "name": "Encore Gummies (RSO) - Sour Black Cherry - 10mg - 10pc*",
@@ -16717,6 +16885,61 @@
           "quantity": 24.0,
           "packagedDate": "2026-06-30",
           "expirationDate": "2027-06-30"
+        }
+      ]
+    },
+    {
+      "id": 9113929,
+      "packageCount": 1,
+      "name": "Encore Gummies (RSO) - Tropical Mango - 10mg - 10pc*",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.295,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.009,
+        "CBGA": 0.0,
+        "CBN": 0.001,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.315,
+          "CBGA": 0.0,
+          "CBN": 0.035,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9113929,
+          "label": "1A40303000017D5000110054",
+          "quantity": 24.0,
+          "packagedDate": "2026-08-10",
+          "expirationDate": "2027-08-10"
         }
       ]
     },
@@ -16882,6 +17105,61 @@
           "quantity": 9.0,
           "packagedDate": "2026-06-26",
           "expirationDate": "2027-06-26"
+        }
+      ]
+    },
+    {
+      "id": 9113932,
+      "packageCount": 1,
+      "name": "Encore Gummies - Strawberry - 10mg - 10pc*",
+      "brand": null,
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.294,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.012,
+        "CBGA": 0.0,
+        "CBN": 0.004,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.07,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.42,
+          "CBGA": 0.0,
+          "CBN": 0.14,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9113932,
+          "label": "1A40303000017D5000110055",
+          "quantity": 24.0,
+          "packagedDate": "2026-07-24",
+          "expirationDate": "2027-07-24"
         }
       ]
     },
@@ -23525,6 +23803,55 @@
       ]
     },
     {
+      "id": 9112170,
+      "packageCount": 1,
+      "name": "(the) Essence Flower - Alien Breath - 3.5g",
+      "brand": null,
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 42.0,
+      "unit": "Grams",
+      "strainName": "Alien Breath",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.94,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.2,
+        "CBGA": 1.31,
+        "CBN": 0.0,
+        "THCA": 34.6,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.09,
+        "myrcene": 0.3,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.38,
+        "beta-pinene": 0.07,
+        "limonene": 0.49,
+        "linalool": 0.33
+      },
+      "totalTerps": 1.97,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9112170,
+          "label": "1A4030300003A3C000092569",
+          "quantity": 42.0,
+          "packagedDate": "2026-09-17",
+          "expirationDate": "2027-09-17"
+        }
+      ]
+    },
+    {
       "id": 8874093,
       "packageCount": 1,
       "name": "(the) Essence Flower - Animal Fuel - Usable - 3.5g",
@@ -25971,7 +26298,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 336.0,
+      "quantity": 308.0,
       "unit": "Grams",
       "strainName": "Forbidden Zkittlez",
       "strainType": null,
@@ -26004,7 +26331,7 @@
         {
           "id": 8996060,
           "label": "1A4030300003521000058085",
-          "quantity": 336.0,
+          "quantity": 308.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-27"
         }
@@ -27721,7 +28048,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 49.0,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Mixed Strains",
       "strainType": null,
@@ -27755,7 +28082,7 @@
         {
           "id": 8939206,
           "label": "1A4030300003521000056678",
-          "quantity": 49.0,
+          "quantity": 42.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-13"
         }
@@ -27821,7 +28148,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 59.5,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Lemon Margy",
       "strainType": null,
@@ -27856,7 +28183,7 @@
         {
           "id": 9066219,
           "label": "1A4030300003521000058693",
-          "quantity": 59.5,
+          "quantity": 56.0,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-08-29"
         }
@@ -28544,6 +28871,105 @@
       ]
     },
     {
+      "id": 9112178,
+      "packageCount": 1,
+      "name": "Savvy Flower - Honeydew - 3.5g",
+      "brand": "Savvy",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 84.0,
+      "unit": "Grams",
+      "strainName": "Honeydew",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.8,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.09,
+        "CBGA": 1.26,
+        "CBN": 0.0,
+        "THCA": 34.24,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.06,
+        "myrcene": 0.51,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.22,
+        "beta-pinene": 0.08,
+        "limonene": 0.57,
+        "linalool": 0.1
+      },
+      "totalTerps": 1.79,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9112178,
+          "label": "1A4030300003A3C000092574",
+          "quantity": 84.0,
+          "packagedDate": "2026-09-25",
+          "expirationDate": "2027-09-25"
+        }
+      ]
+    },
+    {
+      "id": 9112250,
+      "packageCount": 1,
+      "name": "Savvy Flower - Lemon Cherry Gelato - 14g",
+      "brand": "Savvy",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 168.0,
+      "unit": "Grams",
+      "strainName": "Lemon Cherry Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 32.26,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.33,
+        "CBN": 0.0,
+        "THCA": 35.32,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.37,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 0.48,
+        "beta-pinene": 0.12,
+        "ocimene": 0.05,
+        "limonene": 0.88,
+        "linalool": 0.42,
+        "nerolidol": 0.11
+      },
+      "totalTerps": 2.91,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9112250,
+          "label": "1A4030300003A3C000092573",
+          "quantity": 168.0,
+          "packagedDate": "2026-09-30",
+          "expirationDate": "2027-09-30"
+        }
+      ]
+    },
+    {
       "id": 9044192,
       "packageCount": 1,
       "name": "Savvy Flower - Lemon Pastries - Usable - 7g",
@@ -28753,7 +29179,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 66.5,
+      "quantity": 63.0,
       "unit": "Grams",
       "strainName": "Blockberry",
       "strainType": null,
@@ -28785,7 +29211,7 @@
         {
           "id": 8751944,
           "label": "1A4030300002009000109421",
-          "quantity": 66.5,
+          "quantity": 63.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-06-26"
         }
@@ -29374,6 +29800,56 @@
           "label": "1A40303000000CB000055188",
           "quantity": 192.5,
           "packagedDate": "2026-10-06",
+          "expirationDate": "2027-09-22"
+        }
+      ]
+    },
+    {
+      "id": 9112247,
+      "packageCount": 1,
+      "name": "(the) Essence Js - GMO Jungle Cake - 1g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "GMO Jungle Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.97,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.74,
+        "CBN": 0.0,
+        "THCA": 27.44,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.11,
+        "myrcene": 0.69,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.4,
+        "beta-pinene": 0.08,
+        "limonene": 0.74,
+        "linalool": 0.21,
+        "nerolidol": 0.09
+      },
+      "totalTerps": 2.69,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9112247,
+          "label": "1A4030300003A3C000092570",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-22",
           "expirationDate": "2027-09-22"
         }
       ]
@@ -31447,7 +31923,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": "Deadband x GC5 #12",
       "strainType": null,
@@ -31480,7 +31956,7 @@
         {
           "id": 9097164,
           "label": "1A40303000000CB000055219",
-          "quantity": 31.0,
+          "quantity": 30.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-25"
         }
@@ -34010,6 +34486,157 @@
       ]
     },
     {
+      "id": 9112248,
+      "packageCount": 1,
+      "name": "Long Lifts - Blueberry Muffins - 1g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Blueberry Muffins",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.93,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.4,
+        "CBN": 0.0,
+        "THCA": 27.85,
+        "THCV": 0.06
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.32,
+        "humulene": 0.47,
+        "myrcene": 0.37,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 1.82,
+        "eudesmol": 0.23,
+        "beta-pinene": 0.04,
+        "limonene": 0.27,
+        "linalool": 0.22,
+        "nerolidol": 0.09
+      },
+      "totalTerps": 4.11,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9112248,
+          "label": "1A4030300003A3C000092571",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-21",
+          "expirationDate": "2027-09-21"
+        }
+      ]
+    },
+    {
+      "id": 9112249,
+      "packageCount": 1,
+      "name": "Long Lifts - Casey Jones - 1g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Casey Jones",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.18,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.11,
+        "CBGA": 1.28,
+        "CBN": 0.0,
+        "THCA": 29.69,
+        "THCV": 0.2
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.29,
+        "myrcene": 0.41,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.91,
+        "beta-pinene": 0.05,
+        "limonene": 0.39,
+        "linalool": 0.21,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 2.55,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9112249,
+          "label": "1A4030300003A3C000092572",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": "2027-09-24"
+        }
+      ]
+    },
+    {
+      "id": 9114129,
+      "packageCount": 1,
+      "name": "Long Lifts Infused & Kief Coated - Strawberry Cough - 1g",
+      "brand": null,
+      "category": "Pre-Roll",
+      "metrcCategory": "Infused Joints",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Long Lifts & Coated",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 37.98,
+        "CBC": 0.16,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.95,
+        "CBGA": 1.08,
+        "CBN": 0.15,
+        "THCA": 18.74,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.14,
+        "myrcene": 0.06,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.4,
+        "beta-pinene": 0.03,
+        "limonene": 0.17,
+        "linalool": 0.07,
+        "nerolidol": 0.06
+      },
+      "totalTerps": 1.16,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9114129,
+          "label": "1A40303000017D5000110057",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-29",
+          "expirationDate": "2027-09-29"
+        }
+      ]
+    },
+    {
       "id": 9095864,
       "packageCount": 1,
       "name": "Lucky Orchard Pre-Roll 2 Pack 1.0g",
@@ -34019,7 +34646,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 30.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -34053,7 +34680,7 @@
         {
           "id": 9095864,
           "label": "1A40303000000CB000055184",
-          "quantity": 30.0,
+          "quantity": 29.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-18"
         }
@@ -35547,7 +36174,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 37.0,
+      "quantity": 36.0,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
@@ -35583,7 +36210,7 @@
         {
           "id": 9097333,
           "label": "1A40303000000CB000055223",
-          "quantity": 37.0,
+          "quantity": 36.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-04"
         }
@@ -35990,7 +36617,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 40.0,
+      "quantity": 39.0,
       "unit": "Each",
       "strainName": "Sour Peel",
       "strainType": null,
@@ -36023,7 +36650,7 @@
         {
           "id": 9095391,
           "label": "1A40303000000CB000055181",
-          "quantity": 40.0,
+          "quantity": 39.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-18"
         }
@@ -37138,7 +37765,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 416.5,
+      "quantity": 392.0,
       "unit": "Grams",
       "strainName": "Tear Gas -BLVK MRKT",
       "strainType": null,
@@ -37172,7 +37799,7 @@
         {
           "id": 8968421,
           "label": "1A40303000040D9000006041",
-          "quantity": 416.5,
+          "quantity": 392.0,
           "packagedDate": "2026-09-08",
           "expirationDate": null
         }
@@ -37884,6 +38511,55 @@
           "quantity": 8.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-09-02"
+        }
+      ]
+    },
+    {
+      "id": 9113925,
+      "packageCount": 1,
+      "name": "(the) Essence Disposable - Lemon Blueberry - 0.3g",
+      "brand": null,
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Lemon Blueberry",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.39,
+        "CBC": 0.73,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.93,
+        "CBGA": 0.0,
+        "CBN": 0.54,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.14,
+        "myrcene": 0.43,
+        "alpha-pinene": 0.16,
+        "caryophyllene": 0.7,
+        "beta-pinene": 0.26,
+        "limonene": 1.08,
+        "linalool": 0.24,
+        "terpinolene": 1.21
+      },
+      "totalTerps": 4.4,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9113925,
+          "label": "1A40303000017D5000110050",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-01",
+          "expirationDate": "2027-10-01"
         }
       ]
     },
@@ -54758,6 +55434,54 @@
       ]
     },
     {
+      "id": 9113937,
+      "packageCount": 1,
+      "name": "Savvy Cartridge - Peaches & Creme - 1g",
+      "brand": "Savvy",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Peaches & Creme",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.05,
+        "CBC": 0.85,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.26,
+        "CBGA": 0.0,
+        "CBN": 0.46,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.17,
+        "myrcene": 0.56,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 0.69,
+        "beta-pinene": 0.15,
+        "limonene": 1.15,
+        "linalool": 0.4
+      },
+      "totalTerps": 3.45,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9113937,
+          "label": "1A40303000017D5000110058",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-17",
+          "expirationDate": "2027-09-17"
+        }
+      ]
+    },
+    {
       "id": 9018211,
       "packageCount": 1,
       "name": "Savvy Cartridge - Strawberry Jam 1:4 CBN:THC - 1g",
@@ -54895,6 +55619,56 @@
           "quantity": 9.0,
           "packagedDate": "2026-08-14",
           "expirationDate": "2027-08-14"
+        }
+      ]
+    },
+    {
+      "id": 9113939,
+      "packageCount": 1,
+      "name": "Savvy Disposable - Hawaiian Pineapple - 0.3g",
+      "brand": "Savvy",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Hawaiian Pineapple",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 81.1,
+        "CBC": 0.76,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.84,
+        "CBGA": 0.0,
+        "CBN": 1.02,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.12,
+        "humulene": 0.34,
+        "myrcene": 1.59,
+        "alpha-pinene": 1.93,
+        "caryophyllene": 1.13,
+        "beta-pinene": 0.91,
+        "limonene": 1.14,
+        "terpinolene": 0.25,
+        "nerolidol": 0.15
+      },
+      "totalTerps": 7.56,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9113939,
+          "label": "1A40303000017D5000110059",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-09-23"
         }
       ]
     },
