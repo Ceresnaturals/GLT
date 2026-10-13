@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T19:20:03.148610+00:00",
+  "generated_at": "2026-10-13T19:30:03.114823+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -6856,7 +6856,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 6.0,
       "unit": "Each",
@@ -12006,7 +12006,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12045,7 +12045,7 @@
         {
           "id": 8766853,
           "label": "1A4030300003522000207387",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-01-04"
         }
@@ -26420,7 +26420,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 63.0,
+      "quantity": 59.5,
       "unit": "Grams",
       "strainName": "Sequoia Strawberry",
       "strainType": null,
@@ -26454,7 +26454,7 @@
         {
           "id": 9066060,
           "label": "1A4030300003521000058695",
-          "quantity": 63.0,
+          "quantity": 59.5,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-09-16"
         }
@@ -34022,6 +34022,53 @@
       ]
     },
     {
+      "id": 9097603,
+      "packageCount": 1,
+      "name": "Kind Tree | Diamond Infused Pre-Rolls | Multipack | Cherry Slushee - Usable - 2pk/1g",
+      "brand": "Kind Tree",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Cherry Slushee",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 42.87,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.21,
+        "CBN": 0.0,
+        "THCA": 43.25,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.04,
+        "myrcene": 0.27,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.1,
+        "beta-pinene": 0.02,
+        "limonene": 0.05
+      },
+      "totalTerps": 0.52,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9097603,
+          "label": "1A4030300002199000066032",
+          "quantity": 20.0,
+          "packagedDate": "2026-06-18",
+          "expirationDate": "2027-06-20"
+        }
+      ]
+    },
+    {
       "id": 8747428,
       "packageCount": 1,
       "name": "Kind Tree | Diamond Infused Pre-Rolls | Multipack | PB Souffle - Usable - 2pk/1g",
@@ -34116,6 +34163,57 @@
           "quantity": 1.0,
           "packagedDate": "2026-02-23",
           "expirationDate": "2027-02-25"
+        }
+      ]
+    },
+    {
+      "id": 9097605,
+      "packageCount": 1,
+      "name": "Kind Tree | Pre-Rolls | Diamond Infused Multipack | White Iverson - Usable - 2pk/1.0g",
+      "brand": "Kind Tree",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "White Iverson",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 46.08,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.81,
+        "CBN": 0.0,
+        "THCA": 45.16,
+        "THCV": 0.2
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.16,
+        "myrcene": 0.25,
+        "alpha-pinene": 0.26,
+        "caryophyllene": 0.57,
+        "eudesmol": 0.14,
+        "beta-pinene": 0.09,
+        "ocimene": 0.07,
+        "limonene": 0.42,
+        "linalool": 0.24
+      },
+      "totalTerps": 2.58,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9097605,
+          "label": "1A4030300002199000066033",
+          "quantity": 20.0,
+          "packagedDate": "2026-07-27",
+          "expirationDate": "2027-07-29"
         }
       ]
     },
@@ -37640,7 +37738,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 110.0,
+      "quantity": 100.0,
       "unit": "Grams",
       "strainName": "Berry Trix",
       "strainType": null,
@@ -37673,7 +37771,7 @@
         {
           "id": 9099008,
           "label": "1A40303000040D9000006409",
-          "quantity": 110.0,
+          "quantity": 100.0,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
@@ -43496,7 +43594,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Confetti Cake",
       "strainType": null,
@@ -43525,7 +43623,7 @@
         {
           "id": 9095851,
           "label": "1A4030300000C83000090141",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-09-15"
         }
@@ -46738,7 +46836,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Grape Moscato",
       "strainType": null,
@@ -46772,7 +46870,7 @@
         {
           "id": 9095854,
           "label": "1A4030300000C83000090144",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-09-15"
         }
@@ -56093,54 +56191,6 @@
       ]
     },
     {
-      "id": 8576436,
-      "packageCount": 1,
-      "name": "Snake Eyes Distillate Vape Cart 1.0mL",
-      "brand": null,
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Snake Eyes",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 83.66,
-        "CBC": 0.53,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.65,
-        "CBGA": 0.0,
-        "CBN": 0.31,
-        "THCA": 0.0,
-        "THCV": 0.69
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.27,
-        "humulene": 0.22,
-        "myrcene": 0.12,
-        "caryophyllene": 0.51,
-        "beta-pinene": 0.1,
-        "limonene": 0.57,
-        "terpinolene": 0.04
-      },
-      "totalTerps": 1.88,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8576436,
-          "label": "1A4030300000C83000073665",
-          "quantity": 1.0,
-          "packagedDate": "2026-06-10",
-          "expirationDate": "2027-04-17"
-        }
-      ]
-    },
-    {
       "id": 8229542,
       "packageCount": 1,
       "name": "Sour Tangie BD - M3 Vape Cart - 1g",
@@ -57512,7 +57562,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "White Starburst",
       "strainType": null,
@@ -57540,7 +57590,7 @@
         {
           "id": 9005755,
           "label": "1A4030300000C83000088093",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-09-09"
         }
