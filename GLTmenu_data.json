@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T19:10:03.183648+00:00",
+  "generated_at": "2026-10-14T19:20:22.668492+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2227,7 +2227,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Happy er J Sunset Octane x House Blends",
       "strainType": null,
@@ -2259,7 +2259,7 @@
         {
           "id": 8461945,
           "label": "1A4030300000C83000070599",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-05-14",
           "expirationDate": "2026-12-20"
         }
@@ -17195,7 +17195,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17234,7 +17234,7 @@
         {
           "id": 8870785,
           "label": "1A40303000017D5000103605",
-          "quantity": 9.0,
+          "quantity": 7.0,
           "packagedDate": "2026-06-26",
           "expirationDate": "2027-06-26"
         }
@@ -22126,6 +22126,64 @@
       "pick": 146
     },
     {
+      "id": 9126270,
+      "packageCount": 1,
+      "name": "Sunnies - Cherry Lime Nano Gummies - 10mg - 10Pcs",
+      "brand": "Sunnies",
+      "producer": "SunMed Growers",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.27,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9126270,
+          "label": "1A40303000001F5000458226",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 9039608,
       "packageCount": 1,
       "name": "Sunnies - Eclipse Sweet Lemon Gummies - 5mg THC/25mg THCV/25mg CBD - 5mg - 20Pcs",
@@ -22646,6 +22704,64 @@
           "quantity": 4.0,
           "packagedDate": "2026-07-08",
           "expirationDate": "2027-03-04"
+        }
+      ]
+    },
+    {
+      "id": 9126345,
+      "packageCount": 1,
+      "name": "Sunnies - Sunset Grape Gummies - 5mg THC/25mg CBN/25mg CBD - 5mg - 20Pcs",
+      "brand": "Sunnies",
+      "producer": "SunMed Growers",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.13,
+        "totalCBD": 0.67,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.68,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 5.0,
+        "minorsMgPerServing": {
+          "totalCBD": 26.8,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 27.2,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9126345,
+          "label": "1A40303000001F5000458227",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-08"
         }
       ]
     },
@@ -24082,7 +24198,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -24123,7 +24239,7 @@
         {
           "id": 8820519,
           "label": "1A4030300002199000058562",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-05-19",
           "expirationDate": "2027-05-19"
         }
@@ -24841,7 +24957,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 427.5,
+      "quantity": 424.0,
       "unit": "Grams",
       "strainName": "Banana Puddintain",
       "strainType": null,
@@ -24870,7 +24986,7 @@
         {
           "id": 8065293,
           "label": "1A40303000001F5000332273",
-          "quantity": 427.5,
+          "quantity": 424.0,
           "packagedDate": "2026-02-11",
           "expirationDate": "2027-01-01"
         }
@@ -28952,7 +29068,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 52.5,
+      "quantity": 45.5,
       "unit": "Grams",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -28986,7 +29102,7 @@
         {
           "id": 9095869,
           "label": "1A40303000000CB000055186",
-          "quantity": 52.5,
+          "quantity": 45.5,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-09-22"
         }
@@ -32043,6 +32159,53 @@
       ]
     },
     {
+      "id": 9126344,
+      "packageCount": 1,
+      "name": "Chem de la Chem - Diamond Duster 0.5g Infused Pre-Roll 5-Pack Tin",
+      "brand": "Diamond Duster",
+      "producer": "SunMed Growers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Chem de la Chem",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 44.69,
+        "totalCBD": 0.15,
+        "CBDA": 0.04,
+        "CBG": 0.37,
+        "CBN": 0.03,
+        "THCA": 50.69
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.25,
+        "myrcene": 0.06,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.48,
+        "beta-pinene": 0.02,
+        "limonene": 0.1,
+        "linalool": 0.06
+      },
+      "totalTerps": 1.13,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9126344,
+          "label": "1A40303000001F5000458224",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-08-28"
+        }
+      ]
+    },
+    {
       "id": 9105008,
       "packageCount": 1,
       "name": "Chem de la Chem Diamond Duster IPRJ 1.0g/1000mg",
@@ -32451,7 +32614,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Grams",
       "strainName": "Yahemi",
       "strainType": null,
@@ -32486,7 +32649,7 @@
         {
           "id": 9111205,
           "label": "1A403030000012D000275063",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-08-27"
         }
@@ -32719,7 +32882,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 30.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": "Deadband x GC5 #12",
       "strainType": null,
@@ -32752,7 +32915,7 @@
         {
           "id": 9097164,
           "label": "1A40303000000CB000055219",
-          "quantity": 30.0,
+          "quantity": 28.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-25"
         }
@@ -35750,57 +35913,6 @@
       ]
     },
     {
-      "id": 9095864,
-      "packageCount": 1,
-      "name": "Lucky Orchard Pre-Roll 2 Pack 1.0g",
-      "brand": null,
-      "producer": "Evermore Cannabis",
-      "category": "Pre-Roll",
-      "metrcCategory": "Raw Prerolls",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": "Lucky Orchard",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 27.45,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.09,
-        "CBGA": 0.17,
-        "CBN": 0.0,
-        "THCA": 30.29,
-        "THCV": 0.08
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.08,
-        "humulene": 0.17,
-        "myrcene": 0.27,
-        "alpha-pinene": 0.1,
-        "caryophyllene": 0.67,
-        "beta-pinene": 0.14,
-        "limonene": 1.13,
-        "linalool": 0.67,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 3.58,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 9095864,
-          "label": "1A40303000000CB000055184",
-          "quantity": 2.0,
-          "packagedDate": "2026-10-06",
-          "expirationDate": "2027-08-18"
-        }
-      ]
-    },
-    {
       "id": 8966439,
       "packageCount": 1,
       "name": "Mango Dragon Hellavated Juicy Stickz - Infused Pre-roll - 0.75 g",
@@ -37272,7 +37384,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 29.0,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
@@ -37308,7 +37420,7 @@
         {
           "id": 9097333,
           "label": "1A40303000000CB000055223",
-          "quantity": 28.0,
+          "quantity": 29.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-04"
         }
@@ -37564,6 +37676,56 @@
       ]
     },
     {
+      "id": 9126340,
+      "packageCount": 1,
+      "name": "SMG - Chem de la Chem - 0.5g - 5 - multi",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Chem de la Chem TC",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.08,
+        "totalCBD": 0.28,
+        "CBDA": 0.06,
+        "CBG": 0.72,
+        "CBN": 0.01,
+        "THCA": 34.84
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.21,
+        "myrcene": 0.65,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.47,
+        "beta-pinene": 0.08,
+        "ocimene": 0.01,
+        "limonene": 0.5,
+        "linalool": 0.08,
+        "terpinolene": 0.01,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.19,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9126340,
+          "label": "1A40303000001F5000458213",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 9104900,
       "packageCount": 1,
       "name": "SMG - Golden Pineapple - 0.5g - 2 - multi",
@@ -37611,6 +37773,106 @@
           "quantity": 28.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-07"
+        }
+      ]
+    },
+    {
+      "id": 9126341,
+      "packageCount": 1,
+      "name": "SMG - Golden Pineapple - 0.5g - 5 - multi",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Golden Pineapple",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.46,
+        "totalCBD": 0.22,
+        "CBDA": 0.05,
+        "CBG": 0.1,
+        "CBN": 0.0,
+        "THCA": 30.9
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.01,
+        "humulene": 0.04,
+        "myrcene": 0.19,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.13,
+        "beta-pinene": 0.06,
+        "ocimene": 0.16,
+        "limonene": 0.12,
+        "linalool": 0.02,
+        "terpinolene": 0.71,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 1.65,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9126341,
+          "label": "1A40303000001F5000458214",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9126262,
+      "packageCount": 1,
+      "name": "SMG - Puro Loco - 0.5g - 2 - multi",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": "Puro Loco",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.78,
+        "totalCBD": 0.16,
+        "CBDA": 0.04,
+        "CBG": 0.76,
+        "CBN": 0.02,
+        "THCA": 27.06
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.2,
+        "myrcene": 0.33,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.55,
+        "beta-pinene": 0.05,
+        "ocimene": 0.01,
+        "limonene": 0.46,
+        "linalool": 0.45,
+        "terpinolene": 0.01,
+        "nerolidol": 0.06
+      },
+      "totalTerps": 2.34,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9126262,
+          "label": "1A40303000001F5000458215",
+          "quantity": 50.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": null
         }
       ]
     },
@@ -40425,6 +40687,54 @@
       "pick": 122
     },
     {
+      "id": 9126263,
+      "packageCount": 1,
+      "name": "Airo Pod Black Mamba 2.0gX Disposable",
+      "brand": "Airo",
+      "producer": "SunMed Growers",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Black Mamba .0gX",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.14,
+        "totalCBD": 0.21,
+        "CBC": 1.13,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.98,
+        "CBGA": 0.0,
+        "CBN": 0.21,
+        "THCA": 0.0,
+        "THCV": 0.92
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.02,
+        "myrcene": 1.99,
+        "alpha-pinene": 0.07,
+        "limonene": 3.87,
+        "linalool": 0.02
+      },
+      "totalTerps": 6.16,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9126263,
+          "label": "1A40303000001F5000458216",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-08-26"
+        }
+      ]
+    },
+    {
       "id": 9039274,
       "packageCount": 1,
       "name": "Airo Pod Black Mamba Disposable 1.0g/1000mg",
@@ -40625,6 +40935,57 @@
         }
       ],
       "pick": 29
+    },
+    {
+      "id": 9126264,
+      "packageCount": 1,
+      "name": "Airo Pod Frosted Dream 2.0gX Disposable",
+      "brand": "Airo",
+      "producer": "SunMed Growers",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Frosted Dream .0gX",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 80.68,
+        "totalCBD": 0.16,
+        "CBC": 0.26,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.13,
+        "CBGA": 0.0,
+        "CBN": 0.45,
+        "THCA": 0.0,
+        "THCV": 0.27
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.13,
+        "myrcene": 0.21,
+        "alpha-pinene": 0.36,
+        "caryophyllene": 0.39,
+        "beta-pinene": 0.06,
+        "limonene": 2.17,
+        "linalool": 0.89,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 4.57,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9126264,
+          "label": "1A40303000001F5000458217",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-07-30"
+        }
+      ]
     },
     {
       "id": 8890515,
@@ -40941,6 +41302,57 @@
       ]
     },
     {
+      "id": 9126267,
+      "packageCount": 1,
+      "name": "Airo Pod Midnight Moon Disposable Vape 1.0g/1000mg",
+      "brand": "Airo",
+      "producer": "SunMed Growers",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Midnight Moon",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.45,
+        "totalCBD": 0.15,
+        "CBC": 0.24,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.11,
+        "CBGA": 0.0,
+        "CBN": 0.43,
+        "THCA": 0.0,
+        "THCV": 0.26
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 1.31,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 0.49,
+        "beta-pinene": 0.1,
+        "caryophyllene-oxide": 0.03,
+        "limonene": 3.71,
+        "linalool": 0.09,
+        "terpinolene": 0.92
+      },
+      "totalTerps": 6.96,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9126267,
+          "label": "1A40303000001F5000458220",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-07-22"
+        }
+      ]
+    },
+    {
       "id": 8998533,
       "packageCount": 1,
       "name": "Airo Pod Northern Lights 1.0g/1000mg",
@@ -40986,6 +41398,57 @@
           "quantity": 3.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-06-01"
+        }
+      ]
+    },
+    {
+      "id": 9126266,
+      "packageCount": 1,
+      "name": "Airo Pod Pineapple Express 1.0g/1000mg",
+      "brand": "Airo",
+      "producer": "SunMed Growers",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Pineapple Express",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.9,
+        "totalCBD": 0.14,
+        "CBC": 0.24,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.03,
+        "CBGA": 0.0,
+        "CBN": 0.43,
+        "THCA": 0.0,
+        "THCV": 0.26
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 2.11,
+        "alpha-pinene": 0.97,
+        "caryophyllene": 0.04,
+        "beta-pinene": 0.76,
+        "ocimene": 0.26,
+        "limonene": 1.83,
+        "linalool": 0.12,
+        "terpinolene": 1.73
+      },
+      "totalTerps": 8.26,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9126266,
+          "label": "1A40303000001F5000458219",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-07-24"
         }
       ]
     },
@@ -41400,6 +41863,53 @@
           "quantity": 9.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-09-15"
+        }
+      ]
+    },
+    {
+      "id": 9126265,
+      "packageCount": 1,
+      "name": "AiroPod Cartridge | Artisan | Black Mamba - 1g",
+      "brand": null,
+      "producer": "SunMed Growers",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Black Mamba",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.8,
+        "totalCBD": 0.26,
+        "CBC": 0.73,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.45,
+        "CBGA": 0.0,
+        "CBN": 0.29,
+        "THCA": 0.0,
+        "THCV": 1.08
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 1.86,
+        "alpha-pinene": 0.08,
+        "limonene": 3.13,
+        "linalool": 0.02
+      },
+      "totalTerps": 5.33,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9126265,
+          "label": "1A40303000001F5000458218",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": null
         }
       ]
     },
@@ -41912,6 +42422,58 @@
           "quantity": 2.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-22"
+        }
+      ]
+    },
+    {
+      "id": 9126342,
+      "packageCount": 1,
+      "name": "Banana Munson Distillate Vape 1.0g/1000mg",
+      "brand": null,
+      "producer": "SunMed Growers",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Banana Munson",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 81.52,
+        "totalCBD": 0.13,
+        "CBC": 0.61,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.5,
+        "CBGA": 0.0,
+        "CBN": 0.31,
+        "THCA": 0.0,
+        "THCV": 0.22
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.06,
+        "myrcene": 1.44,
+        "alpha-pinene": 1.91,
+        "caryophyllene": 0.35,
+        "beta-pinene": 1.45,
+        "ocimene": 0.25,
+        "limonene": 3.28,
+        "linalool": 0.19,
+        "terpinolene": 0.16
+      },
+      "totalTerps": 10.29,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9126342,
+          "label": "1A40303000001F5000458221",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-07-15"
         }
       ]
     },
@@ -46644,7 +47206,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Flavor Series Clementine BRIQ",
       "strainType": null,
@@ -46676,7 +47238,7 @@
         {
           "id": 8786924,
           "label": "1A4030300000193000102923",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-05-04"
         }
@@ -55019,6 +55581,55 @@
       ]
     },
     {
+      "id": 9126343,
+      "packageCount": 1,
+      "name": "Pink Lemonade Distillate Vape 0.5g/500mg",
+      "brand": null,
+      "producer": "SunMed Growers",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Pink Lemonade",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 81.5,
+        "totalCBD": 0.19,
+        "CBC": 1.11,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.92,
+        "CBGA": 0.0,
+        "CBN": 0.2,
+        "THCA": 0.0,
+        "THCV": 0.87
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.05,
+        "alpha-pinene": 0.49,
+        "beta-pinene": 1.05,
+        "limonene": 5.43,
+        "linalool": 0.19,
+        "terpinolene": 0.75
+      },
+      "totalTerps": 10.68,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9126343,
+          "label": "1A40303000001F5000458223",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-08-24"
+        }
+      ]
+    },
+    {
       "id": 8229633,
       "packageCount": 1,
       "name": "Pink Sunrise FSE - Brik Vape Cart (Color: P/Y) - 2g",
@@ -55787,6 +56398,58 @@
           "quantity": 11.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-08-19"
+        }
+      ]
+    },
+    {
+      "id": 9126268,
+      "packageCount": 1,
+      "name": "Rocket Pop DV 1.0g/1000mg",
+      "brand": null,
+      "producer": "SunMed Growers",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Rocket Pop DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 82.7,
+        "totalCBD": 0.2,
+        "CBC": 1.26,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.65,
+        "CBGA": 0.0,
+        "CBN": 0.21,
+        "THCA": 0.0,
+        "THCV": 0.94
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.04,
+        "myrcene": 1.59,
+        "alpha-pinene": 0.52,
+        "caryophyllene": 1.1,
+        "beta-pinene": 0.9,
+        "ocimene": 0.01,
+        "limonene": 1.66,
+        "linalool": 0.77,
+        "terpinolene": 0.4
+      },
+      "totalTerps": 8.98,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9126268,
+          "label": "1A40303000001F5000458222",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-07-14"
         }
       ]
     },
