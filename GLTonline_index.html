@@ -1013,7 +1013,7 @@ function ingest(data){
       quantity: num(p.quantity), _terps: terps, _cann: cann, _dose: p.dose||null,
       _effect: inferEffectType(terps, cann, num(p.totalTerps)),
       _estimated: !(p.strainClass || p.strainType),   // no manufacturer label => estimated
-      _search: [p.name,p.brand,p.strainName,p.category].filter(Boolean).join(' ').toLowerCase(),
+      _search: [p.name,p.brand,p.producer,p.strainName,p.category].filter(Boolean).join(' ').toLowerCase(),
       _liquidEdible: /liquid edible/i.test(p.metrcCategory||''),
       _exempt: /^exempt/i.test(p.metrcCategory||'')
     };
@@ -1269,7 +1269,7 @@ function rowHtml(p){
   const cls=p._cls||'Unknown';
   const tt=topTerps(p);
   // product subtitle: brand · category (the "what") · size/format
-  const sub = [p.brand, productType(p), (p.strainName?shortForm(p.name):'')].filter(Boolean).join(' · ');
+  const sub = [p.brand||p.producer, productType(p), (p.strainName?shortForm(p.name):'')].filter(Boolean).join(' · ');
   // scale each bar to its SHARE of total terpenes, so bars differ across rows
   const denom = p.totalTerps || tt.reduce((s,[,v])=>s+v,0) || 1;
   const bars = tt.map(([t,v])=>{
@@ -1432,7 +1432,7 @@ function openDrawer(id){
   const rel = relatedTo(p);
   const relCard=({p:r,sim})=>{
     const sh=sharedTerps(p,r);
-    const rSub=[r.brand, productType(r)].filter(Boolean).join(' · ');
+    const rSub=[r.brand||r.producer, productType(r)].filter(Boolean).join(' · ');
     return `<div class="rel${state.compare.has(r.id)?' cmp-on':''}" data-id="${r.id}">
       <div class="rt">
         <span class="rn">${r.strainName||r.name}</span>
@@ -1573,7 +1573,7 @@ function renderCompareModal(){
     ['Location', p=>(p.locations||[]).join(', ')||'—'],
   ];
   const head=`<tr><th></th>${items.map(p=>`<th><div class="pname">${p.strainName||p.name}</div>
-    <div class="pbrand" style="font-weight:400;text-transform:none;letter-spacing:0">${p.brand||''}</div>
+    <div class="pbrand" style="font-weight:400;text-transform:none;letter-spacing:0">${p.brand||p.producer||''}</div>
     <button class="cmp-x" title="Remove" onclick="removeFromCompare(${p.id})">&times;</button></th>`).join('')}</tr>`;
   const body=rows.map(([label,fn])=>`<tr><td class="cmp-rowhead">${label}</td>${items.map(p=>`<td>${fn(p)}</td>`).join('')}</tr>`).join('');
   document.getElementById('cmpTable').innerHTML=`<thead>${head}</thead><tbody>${body}</tbody>`;
