@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T01:50:03.114197+00:00",
+  "generated_at": "2026-10-14T10:00:56.728818+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -16387,7 +16387,7 @@
       ]
     },
     {
-      "id": 9053088,
+      "id": 9114118,
       "packageCount": 2,
       "name": "Encore Caramel - Espresso - 10mg - 10pc",
       "brand": null,
@@ -16403,15 +16403,15 @@
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.293,
+        "totalTHC": 0.275,
         "CBC": 0.002,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.017,
+        "CBG": 0.01,
         "CBGA": 0.0,
-        "CBN": 0.004,
+        "CBN": 0.002,
         "THCA": 0.0,
-        "THCV": 0.002
+        "THCV": 0.0
       },
       "dose": {
         "servingSize": "1 Piece",
@@ -16421,11 +16421,11 @@
           "CBC": 0.072,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.612,
+          "CBG": 0.36,
           "CBGA": 0.0,
-          "CBN": 0.144,
+          "CBN": 0.072,
           "THCA": 0.0,
-          "THCV": 0.072
+          "THCV": 0.0
         },
         "minorsEstimated": true
       },
@@ -16434,18 +16434,18 @@
       "dominantTerpene": null,
       "packages": [
         {
-          "id": 9053088,
-          "label": "1A40303000017D5000107889",
-          "quantity": 5.0,
-          "packagedDate": "2026-08-03",
-          "expirationDate": "2027-08-03"
-        },
-        {
           "id": 9114118,
           "label": "1A40303000017D5000110051",
           "quantity": 12.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-09-08"
+        },
+        {
+          "id": 9053088,
+          "label": "1A40303000017D5000107889",
+          "quantity": 5.0,
+          "packagedDate": "2026-08-03",
+          "expirationDate": "2027-08-03"
         }
       ]
     },
@@ -16615,7 +16615,7 @@
       ]
     },
     {
-      "id": 8959009,
+      "id": 9113934,
       "packageCount": 2,
       "name": "Encore Dark Chocolate - Indica RSO - 10mg - 10pc*",
       "brand": null,
@@ -16631,11 +16631,11 @@
       "strainType": "Indica",
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.184,
-        "CBC": 0.0,
+        "totalTHC": 0.175,
+        "CBC": 0.002,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.006,
+        "CBG": 0.004,
         "CBGA": 0.0,
         "CBN": 0.001,
         "THCA": 0.0,
@@ -16646,10 +16646,10 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "CBC": 0.0,
+          "CBC": 0.112,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.336,
+          "CBG": 0.224,
           "CBGA": 0.0,
           "CBN": 0.056,
           "THCA": 0.0,
@@ -16662,18 +16662,18 @@
       "dominantTerpene": null,
       "packages": [
         {
-          "id": 8959009,
-          "label": "1A40303000017D5000105510",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-06",
-          "expirationDate": "2027-07-06"
-        },
-        {
           "id": 9113934,
           "label": "1A40303000017D5000110056",
           "quantity": 12.0,
           "packagedDate": "2026-08-31",
           "expirationDate": "2027-08-31"
+        },
+        {
+          "id": 8959009,
+          "label": "1A40303000017D5000105510",
+          "quantity": 1.0,
+          "packagedDate": "2026-07-06",
+          "expirationDate": "2027-07-06"
         }
       ]
     },
