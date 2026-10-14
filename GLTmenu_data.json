@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T20:30:04.489433+00:00",
+  "generated_at": "2026-10-14T20:40:05.058034+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9881,7 +9881,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9922,7 +9922,7 @@
         {
           "id": 8973207,
           "label": "1A40303000001F5000428805",
-          "quantity": 24.0,
+          "quantity": 22.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-06-08"
         }
@@ -10045,16 +10045,17 @@
     },
     {
       "id": 9073089,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Sunnies Mocktail No. 2 Bright Grapefruit -10mg -1",
       "brand": "Sunnies",
       "producer": "SunMed Growers",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10098,6 +10099,13 @@
           "quantity": 3.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-08-27"
+        },
+        {
+          "id": 9126254,
+          "label": "1A40303000001F5000458206",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": null
         }
       ]
     },
@@ -27098,7 +27106,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 108.5,
+      "quantity": 105.0,
       "unit": "Grams",
       "strainName": "Georgia Mintz",
       "strainType": null,
@@ -27132,7 +27140,7 @@
         {
           "id": 9097521,
           "label": "1A403030000025B000092024",
-          "quantity": 108.5,
+          "quantity": 105.0,
           "packagedDate": "2026-09-10",
           "expirationDate": "2027-09-10"
         }
@@ -27199,7 +27207,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 108.5,
+      "quantity": 105.0,
       "unit": "Grams",
       "strainName": "Pink Guava",
       "strainType": null,
@@ -27231,7 +27239,7 @@
         {
           "id": 9097463,
           "label": "1A403030000025B000092025",
-          "quantity": 108.5,
+          "quantity": 105.0,
           "packagedDate": "2026-09-28",
           "expirationDate": "2027-09-28"
         }
@@ -30845,7 +30853,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.0,
+      "quantity": 30.0,
       "unit": "Grams",
       "strainName": "Lemon Berry Cookies",
       "strainType": null,
@@ -30878,7 +30886,7 @@
         {
           "id": 7857567,
           "label": "1A4030300002009000082987",
-          "quantity": 31.0,
+          "quantity": 30.0,
           "packagedDate": "2025-12-18",
           "expirationDate": "2026-11-12"
         }
@@ -37292,7 +37300,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
@@ -37328,7 +37336,7 @@
         {
           "id": 9097333,
           "label": "1A40303000000CB000055223",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-04"
         }
@@ -38663,7 +38671,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 85.0,
+      "quantity": 80.0,
       "unit": "Grams",
       "strainName": "Berry Trix",
       "strainType": null,
@@ -38696,7 +38704,7 @@
         {
           "id": 9099008,
           "label": "1A40303000040D9000006409",
-          "quantity": 85.0,
+          "quantity": 80.0,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
@@ -39939,7 +39947,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -39974,7 +39982,7 @@
         {
           "id": 9018110,
           "label": "1A40303000017D5000107147",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-11",
           "expirationDate": "2027-09-11"
         }
@@ -43525,7 +43533,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Bloom GMO Cookies Surf AIO",
       "strainType": null,
@@ -43559,7 +43567,7 @@
         {
           "id": 9093396,
           "label": "1A40303000007D1000098349",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-09-20"
         }
