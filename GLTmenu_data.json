@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T20:50:02.379101+00:00",
+  "generated_at": "2026-10-14T21:00:09.344621+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7940,7 +7940,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Durban Poison",
       "strainType": "Sativa",
@@ -7974,7 +7974,7 @@
         {
           "id": 9039057,
           "label": "1A40303000003EA000258982",
-          "quantity": 16.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-11"
         }
@@ -9929,6 +9929,64 @@
       ]
     },
     {
+      "id": 9126251,
+      "packageCount": 1,
+      "name": "Keef - Pineapple X-Press - 10mg - 1",
+      "brand": null,
+      "producer": "SunMed Growers",
+      "category": "Drink",
+      "metrcCategory": "Infused Liquid Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.003,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Can",
+        "totalThcMg": 10.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9126251,
+          "label": "1A40303000001F5000458203",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 9039627,
       "packageCount": 1,
       "name": "Keef - Purple Passion - 10mg - 1",
@@ -10042,6 +10100,64 @@
         }
       ],
       "pick": 58
+    },
+    {
+      "id": 9126322,
+      "packageCount": 1,
+      "name": "Sunnies Mocktail No. 1 Sweet Orange -10mg -1",
+      "brand": "Sunnies",
+      "producer": "SunMed Growers",
+      "category": "Drink",
+      "metrcCategory": "Infused Liquid Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.003,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Can",
+        "totalThcMg": 10.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9126322,
+          "label": "1A40303000001F5000458205",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": null
+        }
+      ]
     },
     {
       "id": 9073089,
@@ -10230,6 +10346,64 @@
           "quantity": 24.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-06-19"
+        }
+      ]
+    },
+    {
+      "id": 9126255,
+      "packageCount": 1,
+      "name": "Sunnies Socials -Watermelon Sparkling Water -10mg -1",
+      "brand": "Sunnies",
+      "producer": "SunMed Growers",
+      "category": "Drink",
+      "metrcCategory": "Infused Liquid Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.003,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Can",
+        "totalThcMg": 10.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9126255,
+          "label": "1A40303000001F5000458208",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": null
         }
       ]
     },
@@ -15717,7 +15891,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15756,7 +15930,7 @@
         {
           "id": 9079343,
           "label": "1A403030000012D000272423",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-04-28"
         }
@@ -17742,7 +17916,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17783,7 +17957,7 @@
         {
           "id": 9018115,
           "label": "1A40303000017D5000107153",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-07-21"
         }
@@ -24873,7 +25047,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 424.0,
+      "quantity": 423.0,
       "unit": "Grams",
       "strainName": "Banana Puddintain",
       "strainType": null,
@@ -24902,7 +25076,7 @@
         {
           "id": 8065293,
           "label": "1A40303000001F5000332273",
-          "quantity": 424.0,
+          "quantity": 423.0,
           "packagedDate": "2026-02-11",
           "expirationDate": "2027-01-01"
         }
@@ -38925,7 +39099,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 145.95,
+      "quantity": 128.45,
       "unit": "Grams",
       "strainName": "Permanent Marker",
       "strainType": null,
@@ -38959,7 +39133,7 @@
         {
           "id": 8947234,
           "label": "1A40303000001F5000425621",
-          "quantity": 145.95,
+          "quantity": 128.45,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -38976,7 +39150,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 93.0,
+      "quantity": 86.0,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato TC",
       "strainType": null,
@@ -39008,7 +39182,7 @@
         {
           "id": 8974574,
           "label": "1A40303000001F5000428946",
-          "quantity": 93.0,
+          "quantity": 86.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -39074,7 +39248,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 241.5,
+      "quantity": 224.0,
       "unit": "Grams",
       "strainName": "Tear Gas -BLVK MRKT",
       "strainType": null,
@@ -39108,7 +39282,7 @@
         {
           "id": 8968421,
           "label": "1A40303000040D9000006041",
-          "quantity": 241.5,
+          "quantity": 224.0,
           "packagedDate": "2026-09-08",
           "expirationDate": null
         }
@@ -49782,7 +49956,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Mango Sunrise",
       "strainType": null,
@@ -49812,7 +49986,7 @@
         {
           "id": 8689762,
           "label": "1A4030300003522000201314",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-05-12"
         }
