@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T20:20:03.270543+00:00",
+  "generated_at": "2026-10-14T20:30:04.489433+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3790,7 +3790,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Loud Cake x Chunky Monkey",
       "strainType": null,
@@ -3818,7 +3818,7 @@
         {
           "id": 8130671,
           "label": "1A4030300002199000041404",
-          "quantity": 6.0,
+          "quantity": 4.0,
           "packagedDate": "2026-02-11",
           "expirationDate": "2027-02-13"
         }
@@ -3836,7 +3836,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Permanent Chimera",
       "strainType": null,
@@ -3869,7 +3869,7 @@
         {
           "id": 8998884,
           "label": "1A4030300002199000062976",
-          "quantity": 12.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-08-21"
         }
@@ -7776,56 +7776,6 @@
       "pick": 86
     },
     {
-      "id": 8854136,
-      "packageCount": 1,
-      "name": "Rainbow Push Pop #4 Bubble Hash 1.0g",
-      "brand": null,
-      "producer": "Evermore Cannabis",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": "Rainbow Push Pop",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 62.87,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 2.71,
-        "CBN": 0.0,
-        "THCA": 70.12,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.38,
-        "humulene": 0.66,
-        "myrcene": 0.15,
-        "alpha-pinene": 0.1,
-        "caryophyllene": 2.17,
-        "beta-pinene": 0.15,
-        "limonene": 0.73,
-        "linalool": 0.7
-      },
-      "totalTerps": 5.39,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8854136,
-          "label": "1A4030300000C83000079935",
-          "quantity": 2.0,
-          "packagedDate": "2026-08-12",
-          "expirationDate": "2027-07-31"
-        }
-      ]
-    },
-    {
       "id": 8911017,
       "packageCount": 1,
       "name": "Rambutan Uprising Live Resin Cake Badder 1.0g",
@@ -8041,7 +7991,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": "Hybrid",
@@ -8075,7 +8025,7 @@
         {
           "id": 9100059,
           "label": "1A40303000003EA000261648",
-          "quantity": 16.0,
+          "quantity": 14.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-18"
         }
@@ -9397,7 +9347,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9427,7 +9377,7 @@
         {
           "id": 8828891,
           "label": "1A403030000012D000259353",
-          "quantity": 10.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-03-04"
         }
@@ -10211,16 +10161,17 @@
     },
     {
       "id": 9105024,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Sunnies Socials - Peach Sparkling Water -10mg -1",
       "brand": "Sunnies",
       "producer": "SunMed Growers",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10263,6 +10214,13 @@
           "label": "1A40303000001F5000456195",
           "quantity": 5.0,
           "packagedDate": "2026-10-07",
+          "expirationDate": "2027-06-19"
+        },
+        {
+          "id": 9126325,
+          "label": "1A40303000001F5000458207",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-13",
           "expirationDate": "2027-06-19"
         }
       ]
@@ -23131,7 +23089,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23170,7 +23128,7 @@
         {
           "id": 8953583,
           "label": "1A403030000390D000067189",
-          "quantity": 12.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-03",
           "expirationDate": "2027-08-25"
         }
@@ -27444,7 +27402,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 87.5,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Pineapple 99",
       "strainType": null,
@@ -27479,7 +27437,7 @@
         {
           "id": 9097522,
           "label": "1A403030000025B000092028",
-          "quantity": 87.5,
+          "quantity": 84.0,
           "packagedDate": "2026-08-21",
           "expirationDate": "2027-08-07"
         }
@@ -29775,7 +29733,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.5,
+      "quantity": 24.5,
       "unit": "Grams",
       "strainName": "Scotch & Soda",
       "strainType": "Hybrid",
@@ -29808,7 +29766,7 @@
         {
           "id": 8944067,
           "label": "1A40303000003EA000264675",
-          "quantity": 31.5,
+          "quantity": 24.5,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
         }
@@ -34666,7 +34624,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -34701,7 +34659,7 @@
         {
           "id": 9111211,
           "label": "1A403030000012D000275071",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-07-22"
         }
@@ -36026,7 +35984,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 98.0,
+      "quantity": 94.5,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -36059,7 +36017,7 @@
         {
           "id": 9097323,
           "label": "1A40303000000CB000055221",
-          "quantity": 98.0,
+          "quantity": 94.5,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-02"
         }
@@ -36076,7 +36034,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 105.0,
+      "quantity": 101.5,
       "unit": "Grams",
       "strainName": "Peach Runtz",
       "strainType": null,
@@ -36110,7 +36068,7 @@
         {
           "id": 9095865,
           "label": "1A40303000000CB000055185",
-          "quantity": 105.0,
+          "quantity": 101.5,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-06-23"
         }
@@ -38187,7 +38145,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 27.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -38221,7 +38179,7 @@
         {
           "id": 9095387,
           "label": "1A40303000000CB000055182",
-          "quantity": 27.0,
+          "quantity": 25.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-14"
         }
@@ -42077,7 +42035,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": "BL Durban OG",
       "strainType": null,
@@ -42110,7 +42068,7 @@
         {
           "id": 8723332,
           "label": "1A4030300001771000039185",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-07-14",
           "expirationDate": "2027-07-07"
         }
