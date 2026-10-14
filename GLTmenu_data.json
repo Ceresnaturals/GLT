@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T18:20:02.766414+00:00",
+  "generated_at": "2026-10-14T18:30:03.108868+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11828,7 +11828,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11869,7 +11869,7 @@
         {
           "id": 8689778,
           "label": "1A4030300003522000201320",
-          "quantity": 6.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-06-16"
         }
@@ -24849,7 +24849,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 449.5,
+      "quantity": 431.0,
       "unit": "Grams",
       "strainName": "Banana Puddintain",
       "strainType": null,
@@ -24878,7 +24878,7 @@
         {
           "id": 8065293,
           "label": "1A40303000001F5000332273",
-          "quantity": 449.5,
+          "quantity": 431.0,
           "packagedDate": "2026-02-11",
           "expirationDate": "2027-01-01"
         }
@@ -32677,7 +32677,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.5,
+      "quantity": 5.0,
       "unit": "Grams",
       "strainName": "Dark Rainbow",
       "strainType": null,
@@ -32710,7 +32710,7 @@
         {
           "id": 8696694,
           "label": "1A40303000001F5000401538",
-          "quantity": 7.5,
+          "quantity": 5.0,
           "packagedDate": "2026-07-08",
           "expirationDate": "2027-03-06"
         }
@@ -33840,16 +33840,17 @@
     },
     {
       "id": 9073308,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Golden Pineapple - Diamond Duster 0.5g Infused Pre-Roll 5-Pack Tin",
       "brand": "Diamond Duster",
       "producer": "SunMed Growers",
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -33885,6 +33886,13 @@
           "label": "1A40303000001F5000453112",
           "quantity": 2.0,
           "packagedDate": "2026-09-30",
+          "expirationDate": "2027-08-24"
+        },
+        {
+          "id": 9126269,
+          "label": "1A40303000001F5000458225",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-24"
         }
       ]
@@ -38798,7 +38806,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 96.5,
+      "quantity": 93.0,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato TC",
       "strainType": null,
@@ -38830,7 +38838,7 @@
         {
           "id": 8974574,
           "label": "1A40303000001F5000428946",
-          "quantity": 96.5,
+          "quantity": 93.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
