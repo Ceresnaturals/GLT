@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T17:00:03.400508+00:00",
+  "generated_at": "2026-10-15T17:10:03.307350+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12964,7 +12964,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13003,7 +13003,7 @@
         {
           "id": 9013416,
           "label": "1A403030000012D000267199",
-          "quantity": 17.0,
+          "quantity": 15.0,
           "packagedDate": "2026-09-17",
           "expirationDate": "2027-07-30"
         }
@@ -18773,23 +18773,24 @@
       ]
     },
     {
-      "id": 8828679,
-      "packageCount": 1,
+      "id": 9124524,
+      "packageCount": 2,
       "name": "In House Cherry Lemonade Fast Acting V2 Gummies-40mg-10",
       "brand": "In House",
       "producer": "Kind Therapeutics USA",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.82,
+        "totalTHC": 0.78,
         "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
@@ -18821,6 +18822,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9124524,
+          "label": "1A4030300003522000219681",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-07-29"
+        },
         {
           "id": 8828679,
           "label": "1A4030300003522000195378",
@@ -52357,7 +52365,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 33.0,
+      "quantity": 32.0,
       "unit": "Each",
       "strainName": "Hawaiian Gold",
       "strainType": null,
@@ -52390,7 +52398,7 @@
         {
           "id": 8712355,
           "label": "1A4030300003D55000006509",
-          "quantity": 33.0,
+          "quantity": 32.0,
           "packagedDate": "2026-07-10",
           "expirationDate": "2027-02-15"
         }
@@ -52407,7 +52415,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Lemon Royale",
       "strainType": null,
@@ -52441,7 +52449,7 @@
         {
           "id": 8122776,
           "label": "1A4030300003D55000004828",
-          "quantity": 11.0,
+          "quantity": 9.0,
           "packagedDate": "2026-02-25",
           "expirationDate": "2026-11-09"
         }
