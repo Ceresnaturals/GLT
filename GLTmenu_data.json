@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T18:00:02.826449+00:00",
+  "generated_at": "2026-10-15T18:10:02.805686+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11443,45 +11443,46 @@
       ]
     },
     {
-      "id": 8882411,
-      "packageCount": 1,
+      "id": 9124505,
+      "packageCount": 2,
       "name": "Betty's Eddies Passion Fruit V3 Fruit Chews-40mg-10",
       "brand": "Betty's Eddies",
       "producer": "Kind Therapeutics USA",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.516,
-        "CBC": 0.004,
+        "totalTHC": 0.54,
+        "CBC": 0.006,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.019,
+        "CBG": 0.032,
         "CBGA": 0.0,
-        "CBN": 0.003,
+        "CBN": 0.002,
         "THCA": 0.0,
-        "THCV": 0.005
+        "THCV": 0.004
       },
       "dose": {
         "servingSize": "1",
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "CBC": 0.028,
+          "CBC": 0.043,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.135,
+          "CBG": 0.227,
           "CBGA": 0.0,
-          "CBN": 0.021,
+          "CBN": 0.014,
           "THCA": 0.0,
-          "THCV": 0.036
+          "THCV": 0.028
         },
         "minorsEstimated": true
       },
@@ -11489,6 +11490,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9124505,
+          "label": "1A4030300003522000219675",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-08-09"
+        },
         {
           "id": 8882411,
           "label": "1A4030300003522000202254",
@@ -35698,7 +35706,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Blueberry Muffins",
       "strainType": null,
@@ -35733,7 +35741,7 @@
         {
           "id": 9112248,
           "label": "1A4030300003A3C000092571",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-09-21",
           "expirationDate": "2027-09-21"
         }
@@ -37915,7 +37923,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 34.0,
+      "quantity": 33.0,
       "unit": "Each",
       "strainName": "Sour Peel",
       "strainType": null,
@@ -37948,7 +37956,7 @@
         {
           "id": 9095391,
           "label": "1A40303000000CB000055181",
-          "quantity": 34.0,
+          "quantity": 33.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-18"
         }
@@ -39087,7 +39095,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 178.5,
+      "quantity": 175.0,
       "unit": "Grams",
       "strainName": "Tear Gas -BLVK MRKT",
       "strainType": null,
@@ -39121,7 +39129,7 @@
         {
           "id": 8968421,
           "label": "1A40303000040D9000006041",
-          "quantity": 178.5,
+          "quantity": 175.0,
           "packagedDate": "2026-09-08",
           "expirationDate": null
         }
@@ -42261,7 +42269,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Baja Blue DV",
       "strainType": null,
@@ -42295,7 +42303,7 @@
         {
           "id": 9073212,
           "label": "1A40303000001F5000453109",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-03-19"
         }
@@ -53381,7 +53389,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "White Widow",
       "strainType": null,
@@ -53416,7 +53424,7 @@
         {
           "id": 9074354,
           "label": "1A403030000283D000059492",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-06-26"
         }
