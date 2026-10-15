@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T22:00:02.563156+00:00",
+  "generated_at": "2026-10-15T22:10:03.024853+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -326,7 +326,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -365,7 +365,7 @@
         {
           "id": 9051791,
           "label": "1A4030300000193000108908",
-          "quantity": 12.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-25",
           "expirationDate": "2027-08-25"
         },
@@ -3342,7 +3342,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Golden Valley Glaze",
       "strainType": null,
@@ -3378,7 +3378,7 @@
         {
           "id": 8974571,
           "label": "1A40303000001F5000428943",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-23"
         }
@@ -8124,59 +8124,6 @@
         }
       ],
       "pick": 86
-    },
-    {
-      "id": 8911017,
-      "packageCount": 1,
-      "name": "Rambutan Uprising Live Resin Cake Badder 1.0g",
-      "brand": null,
-      "producer": "Evermore Cannabis",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Rambutan Uprising Cake",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 75.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 2.58,
-        "CBN": 0.0,
-        "THCA": 85.52,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.2,
-        "humulene": 0.49,
-        "myrcene": 2.98,
-        "alpha-pinene": 0.15,
-        "caryophyllene": 1.74,
-        "eudesmol": 0.48,
-        "beta-pinene": 0.2,
-        "ocimene": 0.33,
-        "limonene": 1.84,
-        "linalool": 1.54,
-        "terpinolene": 0.05
-      },
-      "totalTerps": 10.85,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8911017,
-          "label": "1A4030300000C83000086191",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-25",
-          "expirationDate": "2027-08-07"
-        }
-      ]
     },
     {
       "id": 8351343,
@@ -13369,7 +13316,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 20.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13408,7 +13355,7 @@
         {
           "id": 9111204,
           "label": "1A403030000012D000275062",
-          "quantity": 20.0,
+          "quantity": 18.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-05-28"
         }
@@ -18323,62 +18270,6 @@
       "pick": 201
     },
     {
-      "id": 9053089,
-      "packageCount": 1,
-      "name": "Encore Milk Chocolate - Sativa RSO - 10mg - 10pc*",
-      "brand": null,
-      "producer": "FGM Processing",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": "Sativa",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.185,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.011,
-        "CBGA": 0.0,
-        "CBN": 0.002,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.616,
-          "CBGA": 0.0,
-          "CBN": 0.112,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9053089,
-          "label": "1A40303000017D5000107890",
-          "quantity": 3.0,
-          "packagedDate": "2026-08-25",
-          "expirationDate": "2027-08-25"
-        }
-      ]
-    },
-    {
       "id": 9022664,
       "packageCount": 1,
       "name": "Encore RSO Gummies (Macro Dose) - Black Cherry - 40mg - 10pc*",
@@ -20184,29 +20075,28 @@
       ]
     },
     {
-      "id": 9124529,
-      "packageCount": 2,
+      "id": 8828747,
+      "packageCount": 1,
       "name": "In House Strawberry Fast Acting V2 Gummies-40mg-10",
       "brand": "In House",
       "producer": "Kind Therapeutics USA",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 31.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
         "totalTHC": 0.83,
-        "totalCBD": 0.2,
+        "totalCBD": 0.22,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.04,
+        "CBG": 0.03,
         "CBGA": 0.0,
         "CBN": 0.0,
         "THCA": 0.0,
@@ -20217,11 +20107,11 @@
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "totalCBD": 10.0,
+          "totalCBD": 11.0,
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 2.0,
+          "CBG": 1.5,
           "CBGA": 0.0,
           "CBN": 0.0,
           "THCA": 0.0,
@@ -20233,13 +20123,6 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
-        {
-          "id": 9124529,
-          "label": "1A4030300003522000219683",
-          "quantity": 25.0,
-          "packagedDate": "2026-10-13",
-          "expirationDate": "2027-08-07"
-        },
         {
           "id": 8828747,
           "label": "1A4030300003522000195383",
@@ -26103,7 +25986,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 381.5,
+      "quantity": 378.0,
       "unit": "Grams",
       "strainName": "Banana Puddintain",
       "strainType": null,
@@ -26132,7 +26015,7 @@
         {
           "id": 8065293,
           "label": "1A40303000001F5000332273",
-          "quantity": 381.5,
+          "quantity": 378.0,
           "packagedDate": "2026-02-11",
           "expirationDate": "2027-01-01"
         }
@@ -34746,7 +34629,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.0,
+      "quantity": 29.0,
       "unit": "Grams",
       "strainName": "Fruit Loot 3",
       "strainType": null,
@@ -34780,7 +34663,7 @@
         {
           "id": 9096101,
           "label": "1A40303000000CB000055183",
-          "quantity": 31.0,
+          "quantity": 29.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-18"
         }
@@ -35107,7 +34990,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.5,
+      "quantity": 8.75,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -35143,7 +35026,7 @@
         {
           "id": 9075616,
           "label": "1A40303000003EA000260954",
-          "quantity": 10.5,
+          "quantity": 8.75,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-07-31"
         }
@@ -37120,7 +37003,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 84.0,
+      "quantity": 80.5,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -37153,7 +37036,7 @@
         {
           "id": 9097323,
           "label": "1A40303000000CB000055221",
-          "quantity": 84.0,
+          "quantity": 80.5,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-02"
         }
@@ -37170,7 +37053,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 87.5,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Peach Runtz",
       "strainType": null,
@@ -37204,7 +37087,7 @@
         {
           "id": 9095865,
           "label": "1A40303000000CB000055185",
-          "quantity": 87.5,
+          "quantity": 84.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-06-23"
         }
@@ -38282,7 +38165,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -38316,7 +38199,7 @@
         {
           "id": 9097330,
           "label": "1A40303000000CB000055222",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-30"
         }
@@ -38628,7 +38511,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 18.0,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
@@ -38664,7 +38547,7 @@
         {
           "id": 9097333,
           "label": "1A40303000000CB000055223",
-          "quantity": 20.0,
+          "quantity": 18.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-04"
         }
@@ -39481,7 +39364,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -39515,7 +39398,7 @@
         {
           "id": 9095387,
           "label": "1A40303000000CB000055182",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-14"
         }
@@ -40304,7 +40187,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 68.5,
+      "quantity": 65.0,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato TC",
       "strainType": null,
@@ -40336,7 +40219,7 @@
         {
           "id": 8974574,
           "label": "1A40303000001F5000428946",
-          "quantity": 68.5,
+          "quantity": 65.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -40402,7 +40285,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 119.0,
+      "quantity": 115.5,
       "unit": "Grams",
       "strainName": "Tear Gas -BLVK MRKT",
       "strainType": null,
@@ -40436,7 +40319,7 @@
         {
           "id": 8968421,
           "label": "1A40303000040D9000006041",
-          "quantity": 119.0,
+          "quantity": 115.5,
           "packagedDate": "2026-09-08",
           "expirationDate": null
         }
