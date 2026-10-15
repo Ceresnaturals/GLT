@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T17:30:02.733195+00:00",
+  "generated_at": "2026-10-15T17:40:03.516911+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12666,7 +12666,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12705,7 +12705,7 @@
         {
           "id": 9013193,
           "label": "1A403030000012D000267196",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-09-17",
           "expirationDate": "2027-08-27"
         }
@@ -13481,7 +13481,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 20.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13520,7 +13520,7 @@
         {
           "id": 9111206,
           "label": "1A403030000012D000275064",
-          "quantity": 20.0,
+          "quantity": 17.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-08-19"
         }
@@ -19375,17 +19375,18 @@
       ]
     },
     {
-      "id": 9066542,
-      "packageCount": 1,
+      "id": 9124536,
+      "packageCount": 2,
       "name": "In House Watermelon Fast Acting V3 Gummies-10mg-10",
       "brand": "In House",
       "producer": "Kind Therapeutics USA",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19423,6 +19424,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9124536,
+          "label": "1A4030300003522000219684",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-02"
+        },
         {
           "id": 9066542,
           "label": "1A4030300003522000215110",
@@ -19742,7 +19750,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19783,7 +19791,7 @@
         {
           "id": 8854448,
           "label": "1A40303000003EA000202537",
-          "quantity": 24.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-05-19"
         }
@@ -23573,7 +23581,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -23621,7 +23629,7 @@
         {
           "id": 8686615,
           "label": "1A4030300002199000056241",
-          "quantity": 5.0,
+          "quantity": 1.0,
           "packagedDate": "2026-04-24",
           "expirationDate": "2027-04-24"
         }
@@ -23989,17 +23997,16 @@
     },
     {
       "id": 9097608,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Wana | Edibles | Soft Lozenges | High Dose Raspberry Limeade Indica - 40mg - 10pk",
       "brand": "Wana",
       "producer": "HMS Processing",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -24043,13 +24050,6 @@
           "quantity": 20.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-09-09"
-        },
-        {
-          "id": 8747179,
-          "label": "1A4030300002199000057210",
-          "quantity": 3.0,
-          "packagedDate": "2026-06-11",
-          "expirationDate": "2027-06-11"
         }
       ]
     },
@@ -39095,7 +39095,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 182.0,
+      "quantity": 178.5,
       "unit": "Grams",
       "strainName": "Tear Gas -BLVK MRKT",
       "strainType": null,
@@ -39129,7 +39129,7 @@
         {
           "id": 8968421,
           "label": "1A40303000040D9000006041",
-          "quantity": 182.0,
+          "quantity": 178.5,
           "packagedDate": "2026-09-08",
           "expirationDate": null
         }
@@ -42838,7 +42838,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Durban Gushers",
       "strainType": null,
@@ -42872,7 +42872,7 @@
         {
           "id": 9107209,
           "label": "1A403030000283D000059761",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-07-20"
         }
@@ -58218,7 +58218,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Super Sour Diesel DV",
       "strainType": null,
@@ -58251,7 +58251,7 @@
         {
           "id": 9104970,
           "label": "1A40303000001F5000456187",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-07-24"
         }
