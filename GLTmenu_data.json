@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T21:30:02.866298+00:00",
+  "generated_at": "2026-10-15T21:40:07.349219+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -192,17 +192,18 @@
       "pick": 186
     },
     {
-      "id": 8939364,
-      "packageCount": 1,
+      "id": 9124581,
+      "packageCount": 2,
       "name": "NH RSO V1-10mg-10",
       "brand": "NH",
       "producer": "Kind Therapeutics USA",
       "category": "Capsule",
       "metrcCategory": "Infused Edible (Capsule Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -241,11 +242,76 @@
       "dominantTerpene": null,
       "packages": [
         {
+          "id": 9124581,
+          "label": "1A4030300003522000219695",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-06-10"
+        },
+        {
           "id": 8939364,
           "label": "1A4030300003522000210582",
           "quantity": 6.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-06-10"
+        }
+      ]
+    },
+    {
+      "id": 9124391,
+      "packageCount": 1,
+      "name": "NH RSO V1-50mg-20",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Capsule",
+      "metrcCategory": "Infused Edible (Capsule Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 9.21,
+        "totalCBD": 0.03,
+        "CBC": 0.11,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.4,
+        "CBGA": 0.0,
+        "CBN": 0.09,
+        "THCA": 0.0,
+        "THCV": 0.05
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 1000.0,
+        "thcMgPerServing": 50.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.15,
+          "CBC": 0.55,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 2.0,
+          "CBGA": 0.0,
+          "CBN": 0.45,
+          "THCA": 0.0,
+          "THCV": 0.25
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9124391,
+          "label": "1A4030300003522000219698",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-08-26"
         }
       ]
     },
@@ -5996,6 +6062,53 @@
       ]
     },
     {
+      "id": 9124366,
+      "packageCount": 1,
+      "name": "NH Bapple Fritz RSO-1ml",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Bapple Fritz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 75.33,
+        "CBC": 0.83,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.89,
+        "CBGA": 0.0,
+        "CBN": 0.38,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.5,
+        "humulene": 0.28,
+        "caryophyllene": 0.96,
+        "limonene": 0.13,
+        "linalool": 0.31
+      },
+      "totalTerps": 2.73,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9124366,
+          "label": "1A4030300003522000219694",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-05-12"
+        }
+      ]
+    },
+    {
       "id": 8882396,
       "packageCount": 1,
       "name": "NH Blueberry Kief-1g",
@@ -6041,6 +6154,55 @@
           "quantity": 3.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-09"
+        }
+      ]
+    },
+    {
+      "id": 9124801,
+      "packageCount": 1,
+      "name": "NH Blueberry Live Rosin-1g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Blueberry",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 73.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.3,
+        "CBN": 0.0,
+        "THCA": 83.24,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.4,
+        "myrcene": 1.13,
+        "alpha-pinene": 0.11,
+        "caryophyllene": 1.75,
+        "beta-pinene": 0.16,
+        "limonene": 1.35,
+        "linalool": 0.91
+      },
+      "totalTerps": 6.07,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9124801,
+          "label": "1A4030300003522000219700",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-20"
         }
       ]
     },
@@ -6350,6 +6512,56 @@
       ]
     },
     {
+      "id": 9124567,
+      "packageCount": 1,
+      "name": "NH Governmint Oasis Live Sugar-1g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Governmint Oasis",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 72.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.69,
+        "CBN": 0.0,
+        "THCA": 82.1,
+        "THCV": 0.42
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.2,
+        "humulene": 1.17,
+        "myrcene": 0.24,
+        "alpha-pinene": 0.11,
+        "caryophyllene": 2.99,
+        "beta-pinene": 0.15,
+        "limonene": 1.3,
+        "linalool": 0.22
+      },
+      "totalTerps": 6.77,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9124567,
+          "label": "1A4030300003522000219693",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-06-14"
+        }
+      ]
+    },
+    {
       "id": 8882394,
       "packageCount": 1,
       "name": "NH Lamb's Bread Kief-1g",
@@ -6596,6 +6808,152 @@
       ]
     },
     {
+      "id": 9124360,
+      "packageCount": 1,
+      "name": "NH Lemon Cherry Gelato Bubble Hash-1g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Lemon Cherry Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 64.4,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.53,
+        "CBN": 0.0,
+        "THCA": 70.3,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.17,
+        "myrcene": 0.15,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.63,
+        "beta-pinene": 0.06,
+        "limonene": 0.18,
+        "linalool": 0.49
+      },
+      "totalTerps": 2.1,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9124360,
+          "label": "1A4030300003522000219689",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-08-14"
+        }
+      ]
+    },
+    {
+      "id": 9124729,
+      "packageCount": 1,
+      "name": "NH Lemon Cherry Gelato RSO-1ml",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Lemon Cherry Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.46,
+        "CBC": 0.74,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.8,
+        "CBGA": 0.0,
+        "CBN": 0.38,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.26,
+        "myrcene": 0.07,
+        "caryophyllene": 1.0,
+        "limonene": 0.1,
+        "linalool": 0.98
+      },
+      "totalTerps": 2.95,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9124729,
+          "label": "1A4030300003522000219699",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-02"
+        }
+      ]
+    },
+    {
+      "id": 9124565,
+      "packageCount": 1,
+      "name": "NH Lemon Margy Bubble Hash-1g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Lemon Margy",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 58.18,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.94,
+        "CBN": 0.0,
+        "THCA": 63.87,
+        "THCV": 0.74
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.13,
+        "myrcene": 0.23,
+        "alpha-pinene": 0.19,
+        "caryophyllene": 0.3,
+        "beta-pinene": 0.25,
+        "ocimene": 0.51,
+        "limonene": 0.37,
+        "terpinolene": 1.19
+      },
+      "totalTerps": 3.48,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9124565,
+          "label": "1A4030300003522000219691",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-06-06"
+        }
+      ]
+    },
+    {
       "id": 8996085,
       "packageCount": 1,
       "name": "NH Lemon Margy Live Badder-1g",
@@ -6644,6 +7002,57 @@
           "quantity": 4.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-02-08"
+        }
+      ]
+    },
+    {
+      "id": 9124562,
+      "packageCount": 1,
+      "name": "NH Lilac Diesel Bubble Hash-1g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Lilac Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 69.45,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 6.43,
+        "CBN": 0.0,
+        "THCA": 73.18,
+        "THCV": 0.5
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.21,
+        "humulene": 0.22,
+        "myrcene": 0.16,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.82,
+        "beta-pinene": 0.07,
+        "ocimene": 0.32,
+        "limonene": 0.1,
+        "terpinolene": 0.63
+      },
+      "totalTerps": 2.75,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9124562,
+          "label": "1A4030300003522000219690",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-08-04"
         }
       ]
     },
@@ -6842,6 +7251,56 @@
           "quantity": 2.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-06-27"
+        }
+      ]
+    },
+    {
+      "id": 9124365,
+      "packageCount": 1,
+      "name": "NH Orange Chemeleon Kief-1g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Orange Chemeleon",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 34.74,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.08,
+        "CBN": 0.0,
+        "THCA": 37.56,
+        "THCV": 0.49
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.14,
+        "humulene": 0.06,
+        "myrcene": 0.11,
+        "caryophyllene": 0.23,
+        "eudesmol": 0.15,
+        "beta-pinene": 0.03,
+        "limonene": 0.12,
+        "linalool": 0.19
+      },
+      "totalTerps": 1.19,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9124365,
+          "label": "1A4030300003522000219692",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-08"
         }
       ]
     },
@@ -12095,6 +12554,62 @@
       ]
     },
     {
+      "id": 9124095,
+      "packageCount": 1,
+      "name": "Betty's Eddies Watermelon Fruit Chews-10mg-2",
+      "brand": "Betty's Eddies",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.128,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.007,
+        "CBGA": 0.0,
+        "CBN": 0.001,
+        "THCA": 0.0,
+        "THCV": 0.031
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 20.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.249,
+          "CBGA": 0.0,
+          "CBN": 0.036,
+          "THCA": 0.0,
+          "THCV": 1.101
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9124095,
+          "label": "1A4030300003522000219672",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-08-12"
+        }
+      ]
+    },
+    {
       "id": 9124100,
       "packageCount": 1,
       "name": "Betty's Eddies Watermelon V3 Fruit Chews-10mg-10",
@@ -12339,7 +12854,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12380,7 +12895,7 @@
         {
           "id": 9066546,
           "label": "1A4030300003522000215112",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-03-04"
         }
@@ -19852,17 +20367,16 @@
     },
     {
       "id": 9124536,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "In House Watermelon Fast Acting V3 Gummies-10mg-10",
       "brand": "In House",
       "producer": "Kind Therapeutics USA",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 29.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19905,13 +20419,6 @@
           "label": "1A4030300003522000219684",
           "quantity": 25.0,
           "packagedDate": "2026-10-13",
-          "expirationDate": "2027-09-02"
-        },
-        {
-          "id": 9066542,
-          "label": "1A4030300003522000215110",
-          "quantity": 4.0,
-          "packagedDate": "2026-09-29",
           "expirationDate": "2027-09-02"
         }
       ]
@@ -36704,6 +37211,58 @@
       ]
     },
     {
+      "id": 9124705,
+      "packageCount": 1,
+      "name": "NH 4 Strains Infused Preroll-.5g 8pk",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Strains",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 32.67,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.38,
+        "CBN": 0.0,
+        "THCA": 35.89,
+        "THCV": 0.3
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.09,
+        "myrcene": 0.05,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.28,
+        "beta-pinene": 0.04,
+        "ocimene": 0.13,
+        "limonene": 0.1,
+        "linalool": 0.11,
+        "terpinolene": 0.23
+      },
+      "totalTerps": 1.3,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9124705,
+          "label": "1A4030300003522000219697",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 8996170,
       "packageCount": 1,
       "name": "NH Animal Mint Cookies Preroll-Usable-.5g 2pk",
@@ -37253,6 +37812,53 @@
       "pick": 46
     },
     {
+      "id": 9124000,
+      "packageCount": 1,
+      "name": "NH Lemon Cherry Gelato Preroll-Usable-.5g 2pk",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Grams",
+      "strainName": "Lemon Cherry Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.24,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.27,
+        "CBN": 0.0,
+        "THCA": 28.39,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.07,
+        "myrcene": 0.04,
+        "caryophyllene": 0.24,
+        "limonene": 0.07,
+        "linalool": 0.32
+      },
+      "totalTerps": 0.93,
+      "dominantTerpene": "linalool",
+      "packages": [
+        {
+          "id": 9124000,
+          "label": "1A4030300003521000062080",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-20"
+        }
+      ]
+    },
+    {
       "id": 8828758,
       "packageCount": 1,
       "name": "NH Lemon Margy Infused Preroll-.5g 5pk",
@@ -37510,6 +38116,107 @@
           "quantity": 20.0,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-07-18"
+        }
+      ]
+    },
+    {
+      "id": 9124302,
+      "packageCount": 1,
+      "name": "NH Sequoia Strawberry Preroll-Usable-.5g 2pk",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Grams",
+      "strainName": "Sequoia Strawberry",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 21.97,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.38,
+        "CBN": 0.0,
+        "THCA": 24.81,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.05,
+        "myrcene": 0.21,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.14,
+        "beta-pinene": 0.03,
+        "limonene": 0.18,
+        "linalool": 0.12,
+        "nerolidol": 0.07
+      },
+      "totalTerps": 0.85,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9124302,
+          "label": "1A4030300003521000062082",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-03-21"
+        }
+      ]
+    },
+    {
+      "id": 9124077,
+      "packageCount": 1,
+      "name": "NH Strawberry Jelly Preroll-Usable-.5g 2pk",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Grams",
+      "strainName": "Strawberry Jelly",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.85,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.21,
+        "CBGA": 1.87,
+        "CBN": 0.0,
+        "THCA": 30.8,
+        "THCV": 0.23
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.11,
+        "myrcene": 0.19,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.46,
+        "eudesmol": 0.2,
+        "beta-pinene": 0.02,
+        "limonene": 0.19,
+        "linalool": 0.06
+      },
+      "totalTerps": 1.61,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9124077,
+          "label": "1A4030300003521000062081",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-17"
         }
       ]
     },
@@ -39644,7 +40351,7 @@
       "category": "Shake/Trim",
       "metrcCategory": "Shake/Trim (by strain)",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 202.46,
       "unit": "Grams",
@@ -39695,7 +40402,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 122.5,
+      "quantity": 119.0,
       "unit": "Grams",
       "strainName": "Tear Gas -BLVK MRKT",
       "strainType": null,
@@ -39729,7 +40436,7 @@
         {
           "id": 8968421,
           "label": "1A40303000040D9000006041",
-          "quantity": 122.5,
+          "quantity": 119.0,
           "packagedDate": "2026-09-08",
           "expirationDate": null
         }
@@ -49985,6 +50692,57 @@
       ]
     },
     {
+      "id": 9124559,
+      "packageCount": 1,
+      "name": "In House Afgoo Disposable-2g",
+      "brand": "In House",
+      "producer": "Kind Therapeutics USA",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Afgoo",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.99,
+        "CBC": 0.64,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.82,
+        "CBGA": 0.0,
+        "CBN": 0.42,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.44,
+        "myrcene": 0.31,
+        "alpha-pinene": 0.28,
+        "caryophyllene": 1.58,
+        "beta-pinene": 0.16,
+        "ocimene": 0.07,
+        "limonene": 1.53,
+        "linalool": 0.32,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 4.88,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9124559,
+          "label": "1A4030300003522000219688",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-05"
+        }
+      ]
+    },
+    {
       "id": 9066097,
       "packageCount": 1,
       "name": "In House Baja Blastoff-.5g",
@@ -50391,6 +51149,55 @@
         }
       ],
       "pick": 153
+    },
+    {
+      "id": 9124518,
+      "packageCount": 1,
+      "name": "In House Lemon OG Disposable-.5g",
+      "brand": "In House",
+      "producer": "Kind Therapeutics USA",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Lemon OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.2,
+        "CBC": 0.62,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.57,
+        "CBGA": 0.0,
+        "CBN": 0.36,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.29,
+        "myrcene": 0.22,
+        "alpha-pinene": 0.32,
+        "caryophyllene": 1.14,
+        "beta-pinene": 0.16,
+        "limonene": 1.37,
+        "linalool": 0.24
+      },
+      "totalTerps": 3.74,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9124518,
+          "label": "1A4030300003522000219677",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-20"
+        }
+      ]
     },
     {
       "id": 8518537,
@@ -51415,57 +52222,6 @@
           "quantity": 2.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-05-31"
-        }
-      ]
-    },
-    {
-      "id": 8420302,
-      "packageCount": 1,
-      "name": "Just Vape | Vape | Distillate | Do-Si-Do - 1g",
-      "brand": null,
-      "producer": "Seven Points Agro-Therapeutics",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Do Si Do",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 86.43,
-        "totalCBD": 0.26,
-        "CBC": 0.48,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.38,
-        "CBGA": 0.0,
-        "CBN": 0.37,
-        "THCA": 0.0,
-        "THCV": 0.7
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.25,
-        "myrcene": 0.7,
-        "alpha-pinene": 0.16,
-        "caryophyllene": 1.08,
-        "beta-pinene": 0.17,
-        "limonene": 1.28,
-        "linalool": 0.49,
-        "terpinolene": 0.03
-      },
-      "totalTerps": 4.41,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8420302,
-          "label": "1A4030300004845000021350",
-          "quantity": 1.0,
-          "packagedDate": "2026-03-02",
-          "expirationDate": "2027-02-26"
         }
       ]
     },
@@ -54896,6 +55652,56 @@
           "quantity": 23.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-12"
+        }
+      ]
+    },
+    {
+      "id": 9124596,
+      "packageCount": 1,
+      "name": "NH Sequoia Strawberry Live Resin-.5g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Sequoia Strawberry",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.11,
+        "CBC": 0.57,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.69,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.23,
+        "myrcene": 1.5,
+        "alpha-pinene": 0.27,
+        "caryophyllene": 0.72,
+        "limonene": 1.55,
+        "linalool": 0.68,
+        "terpinolene": 0.07,
+        "nerolidol": 0.35
+      },
+      "totalTerps": 5.86,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9124596,
+          "label": "1A4030300003522000219696",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-03-28"
         }
       ]
     },
@@ -58912,54 +59718,6 @@
         }
       ],
       "pick": 8
-    },
-    {
-      "id": 8966483,
-      "packageCount": 1,
-      "name": "Tropic Like It's Hot Melted Diamonds AIO Helly Meltz - 1 g",
-      "brand": null,
-      "producer": "Holistic Industries",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Tropic Like It's Hot Melted AIO Helly Meltz",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 94.8,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 2.4
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.11,
-        "myrcene": 0.46,
-        "caryophyllene": 0.14,
-        "ocimene": 0.53,
-        "limonene": 0.17,
-        "linalool": 0.2
-      },
-      "totalTerps": 1.77,
-      "dominantTerpene": "ocimene",
-      "packages": [
-        {
-          "id": 8966483,
-          "label": "1A403030000012E000192148",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-08",
-          "expirationDate": "2027-07-31"
-        }
-      ]
     },
     {
       "id": 8211761,
