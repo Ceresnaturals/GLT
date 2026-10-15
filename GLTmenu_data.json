@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T18:20:02.390618+00:00",
+  "generated_at": "2026-10-15T18:30:03.244108+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11973,45 +11973,46 @@
       ]
     },
     {
-      "id": 8996303,
-      "packageCount": 1,
+      "id": 9124503,
+      "packageCount": 2,
       "name": "Betty's Eddies Watermelon V3 Fruit Chews-40mg-10",
       "brand": "Betty's Eddies",
       "producer": "Kind Therapeutics USA",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.528,
-        "CBC": 0.006,
+        "totalTHC": 0.519,
+        "CBC": 0.005,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.031,
+        "CBG": 0.026,
         "CBGA": 0.0,
         "CBN": 0.003,
         "THCA": 0.0,
-        "THCV": 0.036
+        "THCV": 0.034
       },
       "dose": {
         "servingSize": "1",
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "CBC": 0.043,
+          "CBC": 0.036,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.22,
+          "CBG": 0.185,
           "CBGA": 0.0,
           "CBN": 0.021,
           "THCA": 0.0,
-          "THCV": 0.256
+          "THCV": 0.241
         },
         "minorsEstimated": true
       },
@@ -12019,6 +12020,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9124503,
+          "label": "1A4030300003522000219674",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-10-03"
+        },
         {
           "id": 8996303,
           "label": "1A4030300003522000211318",
@@ -13369,7 +13377,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13408,7 +13416,7 @@
         {
           "id": 8926296,
           "label": "1A403030000012D000262976",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-07-14"
         }
@@ -20040,7 +20048,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20081,7 +20089,7 @@
         {
           "id": 9075605,
           "label": "1A40303000003EA000260950",
-          "quantity": 25.0,
+          "quantity": 20.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-07-31"
         }
