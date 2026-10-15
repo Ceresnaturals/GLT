@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:50:03.284280+00:00",
+  "generated_at": "2026-10-15T17:00:03.400508+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7933,7 +7933,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Strawberry Sour Diesel",
       "strainType": "Sativa",
@@ -7967,7 +7967,7 @@
         {
           "id": 9075704,
           "label": "1A40303000003EA000260956",
-          "quantity": 15.0,
+          "quantity": 13.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-21"
         }
@@ -19243,28 +19243,29 @@
       ]
     },
     {
-      "id": 8828747,
-      "packageCount": 1,
+      "id": 9124529,
+      "packageCount": 2,
       "name": "In House Strawberry Fast Acting V2 Gummies-40mg-10",
       "brand": "In House",
       "producer": "Kind Therapeutics USA",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 31.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
         "totalTHC": 0.83,
-        "totalCBD": 0.22,
+        "totalCBD": 0.2,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.03,
+        "CBG": 0.04,
         "CBGA": 0.0,
         "CBN": 0.0,
         "THCA": 0.0,
@@ -19275,11 +19276,11 @@
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "totalCBD": 11.0,
+          "totalCBD": 10.0,
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 1.5,
+          "CBG": 2.0,
           "CBGA": 0.0,
           "CBN": 0.0,
           "THCA": 0.0,
@@ -19291,6 +19292,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9124529,
+          "label": "1A4030300003522000219683",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-08-07"
+        },
         {
           "id": 8828747,
           "label": "1A4030300003522000195383",
@@ -28536,7 +28544,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "127 MEMBER BERRY",
       "strainType": null,
@@ -28571,7 +28579,7 @@
         {
           "id": 8751006,
           "label": "1A40303000039D1000084241",
-          "quantity": 35.0,
+          "quantity": 31.5,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-06-12"
         }
@@ -29051,7 +29059,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 73.5,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "Ocean Fruit",
       "strainType": null,
@@ -29073,7 +29081,7 @@
         {
           "id": 8321426,
           "label": "1A40303000046B5000000331",
-          "quantity": 73.5,
+          "quantity": 70.0,
           "packagedDate": "2026-04-13",
           "expirationDate": "2027-03-04"
         }
@@ -34637,7 +34645,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -34672,7 +34680,7 @@
         {
           "id": 9111211,
           "label": "1A403030000012D000275071",
-          "quantity": 15.0,
+          "quantity": 13.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-07-22"
         }
