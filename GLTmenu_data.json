@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T18:40:03.212898+00:00",
+  "generated_at": "2026-10-15T18:50:03.026750+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4790,7 +4790,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "MD EXT MDBECK 1LB",
       "strainType": null,
@@ -4824,7 +4824,7 @@
         {
           "id": 8414622,
           "label": "1A40303000007D1000074263",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-05-05",
           "expirationDate": "2027-04-13"
         }
@@ -9587,7 +9587,7 @@
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 24.0,
       "unit": "Each",
@@ -11157,6 +11157,64 @@
           "quantity": 18.0,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-09-16"
+        }
+      ]
+    },
+    {
+      "id": 9124316,
+      "packageCount": 1,
+      "name": "Betty's Eddies Cherry V5 Breast Cancer Awareness Fruit Chews-10mg-10",
+      "brand": "Betty's Eddies",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.137,
+        "totalCBD": 0.547,
+        "CBC": 0.063,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.006,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 38.837,
+          "CBC": 4.473,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.426,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9124316,
+          "label": "1A4030300003522000219670",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-24"
         }
       ]
     },
