@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T01:50:02.504423+00:00",
+  "generated_at": "2026-10-15T10:00:45.623373+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7152,60 +7152,6 @@
       "pick": 140
     },
     {
-      "id": 8794520,
-      "packageCount": 1,
-      "name": "Peach Crescendo Live Resin Batter 2.0G/2000mg",
-      "brand": null,
-      "producer": "SunMed Growers",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Peach Crescendo",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 66.68,
-        "totalCBD": 0.25,
-        "CBC": 0.0,
-        "CBDA": 0.29,
-        "CBDV": 0.0,
-        "CBG": 0.54,
-        "CBGA": 3.41,
-        "CBN": 0.0,
-        "THCA": 74.74,
-        "THCV": 0.63
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.37,
-        "myrcene": 1.66,
-        "alpha-pinene": 0.53,
-        "caryophyllene": 0.39,
-        "eudesmol": 0.05,
-        "beta-pinene": 0.04,
-        "ocimene": 0.06,
-        "limonene": 3.38,
-        "linalool": 0.14,
-        "terpinolene": 0.24
-      },
-      "totalTerps": 8.14,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8794520,
-          "label": "1A40303000001F5000410812",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-29",
-          "expirationDate": "2027-06-03"
-        }
-      ]
-    },
-    {
       "id": 8229635,
       "packageCount": 1,
       "name": "Pillow Lava - Cured Badder - 2g",
@@ -10105,7 +10051,7 @@
       ]
     },
     {
-      "id": 9073089,
+      "id": 9126254,
       "packageCount": 2,
       "name": "Sunnies Mocktail No. 2 Bright Grapefruit -10mg -1",
       "brand": "Sunnies",
@@ -10155,18 +10101,18 @@
       "dominantTerpene": null,
       "packages": [
         {
-          "id": 9073089,
-          "label": "1A40303000001F5000453093",
-          "quantity": 3.0,
-          "packagedDate": "2026-09-30",
-          "expirationDate": "2027-08-27"
-        },
-        {
           "id": 9126254,
           "label": "1A40303000001F5000458206",
           "quantity": 24.0,
           "packagedDate": "2026-10-13",
           "expirationDate": null
+        },
+        {
+          "id": 9073089,
+          "label": "1A40303000001F5000453093",
+          "quantity": 3.0,
+          "packagedDate": "2026-09-30",
+          "expirationDate": "2027-08-27"
         }
       ]
     },
@@ -10229,7 +10175,7 @@
       ]
     },
     {
-      "id": 9105024,
+      "id": 9126325,
       "packageCount": 2,
       "name": "Sunnies Socials - Peach Sparkling Water -10mg -1",
       "brand": "Sunnies",
@@ -10279,17 +10225,17 @@
       "dominantTerpene": null,
       "packages": [
         {
-          "id": 9105024,
-          "label": "1A40303000001F5000456195",
-          "quantity": 5.0,
-          "packagedDate": "2026-10-07",
-          "expirationDate": "2027-06-19"
-        },
-        {
           "id": 9126325,
           "label": "1A40303000001F5000458207",
           "quantity": 24.0,
           "packagedDate": "2026-10-13",
+          "expirationDate": "2027-06-19"
+        },
+        {
+          "id": 9105024,
+          "label": "1A40303000001F5000456195",
+          "quantity": 5.0,
+          "packagedDate": "2026-10-07",
           "expirationDate": "2027-06-19"
         }
       ]
@@ -33927,7 +33873,7 @@
       ]
     },
     {
-      "id": 9073308,
+      "id": 9126269,
       "packageCount": 2,
       "name": "Golden Pineapple - Diamond Duster 0.5g Infused Pre-Roll 5-Pack Tin",
       "brand": "Diamond Duster",
@@ -33970,17 +33916,17 @@
       "dominantTerpene": "terpinolene",
       "packages": [
         {
-          "id": 9073308,
-          "label": "1A40303000001F5000453112",
-          "quantity": 2.0,
-          "packagedDate": "2026-09-30",
-          "expirationDate": "2027-08-24"
-        },
-        {
           "id": 9126269,
           "label": "1A40303000001F5000458225",
           "quantity": 10.0,
           "packagedDate": "2026-10-13",
+          "expirationDate": "2027-08-24"
+        },
+        {
+          "id": 9073308,
+          "label": "1A40303000001F5000453112",
+          "quantity": 2.0,
+          "packagedDate": "2026-09-30",
           "expirationDate": "2027-08-24"
         }
       ]
