@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T18:50:03.026750+00:00",
+  "generated_at": "2026-10-15T19:00:03.000299+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11857,47 +11857,48 @@
       ]
     },
     {
-      "id": 8689778,
-      "packageCount": 1,
+      "id": 9124089,
+      "packageCount": 2,
       "name": "Betty's Eddies Raspberry Creme V3 Fruit Chews-40mg-10",
       "brand": "Betty's Eddies",
       "producer": "Kind Therapeutics USA",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.55,
-        "totalCBD": 0.268,
-        "CBC": 0.006,
+        "totalTHC": 0.533,
+        "totalCBD": 0.279,
+        "CBC": 0.004,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.02,
+        "CBG": 0.019,
         "CBGA": 0.0,
-        "CBN": 0.07,
+        "CBN": 0.068,
         "THCA": 0.0,
-        "THCV": 0.003
+        "THCV": 0.0
       },
       "dose": {
         "servingSize": "1",
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "totalCBD": 1.903,
-          "CBC": 0.043,
+          "totalCBD": 1.981,
+          "CBC": 0.028,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.142,
+          "CBG": 0.135,
           "CBGA": 0.0,
-          "CBN": 0.497,
+          "CBN": 0.483,
           "THCA": 0.0,
-          "THCV": 0.021
+          "THCV": 0.0
         },
         "minorsEstimated": true
       },
@@ -11905,6 +11906,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9124089,
+          "label": "1A4030300003522000219669",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-13"
+        },
         {
           "id": 8689778,
           "label": "1A4030300003522000201320",
@@ -29777,7 +29785,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 168.0,
+      "quantity": 154.0,
       "unit": "Grams",
       "strainName": "Lemon Cherry Gelato",
       "strainType": null,
@@ -29811,7 +29819,7 @@
         {
           "id": 9112250,
           "label": "1A4030300003A3C000092573",
-          "quantity": 168.0,
+          "quantity": 154.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-09-30"
         }
