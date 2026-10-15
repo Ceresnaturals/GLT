@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:00:45.623373+00:00",
+  "generated_at": "2026-10-15T13:00:03.422905+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -25073,6 +25073,57 @@
       ]
     },
     {
+      "id": 9111454,
+      "packageCount": 1,
+      "name": "CUR-EXC-JAR-ALOG-3.5-MD",
+      "brand": null,
+      "producer": "Curio Cultivation",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 84.0,
+      "unit": "Grams",
+      "strainName": "ALOG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 33.28,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.47,
+        "CBN": 0.0,
+        "THCA": 37.69,
+        "THCV": 0.21
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.18,
+        "myrcene": 1.04,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.59,
+        "eudesmol": 0.15,
+        "beta-pinene": 0.09,
+        "limonene": 0.73,
+        "linalool": 0.24
+      },
+      "totalTerps": 3.39,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9111454,
+          "label": "1A40303000000CD000082635",
+          "quantity": 84.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-08-27"
+        }
+      ]
+    },
+    {
       "id": 8596191,
       "packageCount": 1,
       "name": "Cheddar Cheeze - Usable - 3.5g",
@@ -28995,6 +29046,57 @@
           "quantity": 70.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-30"
+        }
+      ]
+    },
+    {
+      "id": 9111453,
+      "packageCount": 1,
+      "name": "OGLK-EX-35",
+      "brand": null,
+      "producer": "Curio Cultivation",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 84.0,
+      "unit": "Grams",
+      "strainName": "OGLK",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.98,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.49,
+        "CBN": 0.0,
+        "THCA": 33.04,
+        "THCV": 0.18
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.17,
+        "myrcene": 0.11,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.68,
+        "beta-pinene": 0.07,
+        "limonene": 0.55,
+        "linalool": 0.21,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 2.09,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9111453,
+          "label": "1A40303000000CD000082634",
+          "quantity": 84.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-09-23"
         }
       ]
     },
