@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:40:03.426858+00:00",
+  "generated_at": "2026-10-16T16:50:04.351276+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8174,6 +8174,57 @@
       ]
     },
     {
+      "id": 9131501,
+      "packageCount": 1,
+      "name": "Rythm 5 Pack (Infused) - Blueberry Kush (Indica Dominant) - 2.5g",
+      "brand": "Rythm",
+      "producer": "Chesapeake Alternatives",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Blueberry Kush",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 40.44,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.51,
+        "CBN": 0.0,
+        "THCA": 45.13,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.11,
+        "myrcene": 0.14,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.56,
+        "beta-pinene": 0.06,
+        "limonene": 0.33,
+        "linalool": 0.2,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 1.83,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9131501,
+          "label": "1A40303000003EA000253108",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-14",
+          "expirationDate": "2027-08-19"
+        }
+      ]
+    },
+    {
       "id": 9039057,
       "packageCount": 1,
       "name": "Rythm 5 Pack (Infused) - Durban Poison (Sativa Dominant) - 2.5g",
@@ -8221,6 +8272,57 @@
           "quantity": 14.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-11"
+        }
+      ]
+    },
+    {
+      "id": 9130900,
+      "packageCount": 1,
+      "name": "Rythm 5 Pack (Infused) - Mai Tai (Sativa Dominant) - 2.5g",
+      "brand": "Rythm",
+      "producer": "Chesapeake Alternatives",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Mai Tai",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 41.65,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.75,
+        "CBN": 0.0,
+        "THCA": 46.11,
+        "THCV": 0.29
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.15,
+        "humulene": 0.11,
+        "myrcene": 0.11,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.7,
+        "beta-pinene": 0.03,
+        "limonene": 0.19,
+        "linalool": 0.24,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 1.86,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9130900,
+          "label": "1A40303000003EA000253107",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-14",
+          "expirationDate": "2027-09-16"
         }
       ]
     },
@@ -11152,6 +11254,64 @@
           "quantity": 4.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-08"
+        }
+      ]
+    },
+    {
+      "id": 9131063,
+      "packageCount": 1,
+      "name": "Beboe Gummy 100mg-Sour Remedy (Sour Golden Peach)(2:1 CBD:THC)(Thick)-5mg-20 Pieces",
+      "brand": null,
+      "producer": "Chesapeake Alternatives",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.09,
+        "totalCBD": 0.2,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 5.0,
+        "minorsMgPerServing": {
+          "totalCBD": 11.6,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9131063,
+          "label": "1A40303000003EA000253102",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-14",
+          "expirationDate": "2027-08-05"
         }
       ]
     },
@@ -20769,6 +20929,64 @@
       ]
     },
     {
+      "id": 9131062,
+      "packageCount": 1,
+      "name": "Incredibles Gummy 100mg - Fast Acting Pineapple Express - 10mg - 10 Pieces",
+      "brand": "Incredibles",
+      "producer": "Chesapeake Alternatives",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.36,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.03,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.9,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9131062,
+          "label": "1A40303000003EA000253101",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-14",
+          "expirationDate": "2027-08-25"
+        }
+      ]
+    },
+    {
       "id": 8920048,
       "packageCount": 1,
       "name": "Incredibles Gummy 100mg - Lemon Lime Boost (1:2 THCv:THC) - 10mg - 10 Pieces",
@@ -28387,7 +28605,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 63.0,
+      "quantity": 59.5,
       "unit": "Grams",
       "strainName": "Pineapple 99",
       "strainType": null,
@@ -28422,7 +28640,7 @@
         {
           "id": 9097522,
           "label": "1A403030000025B000092028",
-          "quantity": 63.0,
+          "quantity": 59.5,
           "packagedDate": "2026-08-21",
           "expirationDate": "2027-08-07"
         }
@@ -30217,7 +30435,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 30.0,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "Purple Punch TC",
       "strainType": null,
@@ -30250,7 +30468,7 @@
         {
           "id": 9073000,
           "label": "1A40303000001F5000453097",
-          "quantity": 30.0,
+          "quantity": 20.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-08-24"
         }
@@ -30417,7 +30635,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 120.0,
+      "quantity": 110.0,
       "unit": "Grams",
       "strainName": "Sunshine #4",
       "strainType": null,
@@ -30450,7 +30668,7 @@
         {
           "id": 9039272,
           "label": "1A40303000001F5000450398",
-          "quantity": 120.0,
+          "quantity": 110.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-20"
         }
@@ -32326,6 +32544,57 @@
       "pick": 194
     },
     {
+      "id": 9130899,
+      "packageCount": 1,
+      "name": "Animal Scout 5 Pack - Dogwalkers (Sit) - 1.75g - Multi",
+      "brand": "Dogwalkers",
+      "producer": "Chesapeake Alternatives",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Animal Scout",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 34.66,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.11,
+        "CBGA": 2.34,
+        "CBN": 0.0,
+        "THCA": 39.09,
+        "THCV": 0.15
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.09,
+        "myrcene": 0.24,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 0.35,
+        "beta-pinene": 0.12,
+        "limonene": 1.12,
+        "linalool": 0.19,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.53,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9130899,
+          "label": "1A40303000003EA000253105",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-14",
+          "expirationDate": "2027-08-31"
+        }
+      ]
+    },
+    {
       "id": 8970729,
       "packageCount": 1,
       "name": "Animal Scout 5 pack (Infused) Dogwalkers (Sit) - 2.25g",
@@ -33145,6 +33414,57 @@
           "quantity": 15.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-09-01"
+        }
+      ]
+    },
+    {
+      "id": 9131065,
+      "packageCount": 1,
+      "name": "Cherry Maui Wowie 5 pack (Infused) Dogwalkers (Play) - 2.25g",
+      "brand": "Dogwalkers",
+      "producer": "Chesapeake Alternatives",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Cherry Maui Wowie",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 48.41,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.63,
+        "CBN": 0.0,
+        "THCA": 53.96,
+        "THCV": 0.77
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.07,
+        "myrcene": 0.39,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.22,
+        "eudesmol": 0.09,
+        "beta-pinene": 0.03,
+        "limonene": 0.17,
+        "linalool": 0.12
+      },
+      "totalTerps": 1.35,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9131065,
+          "label": "1A40303000003EA000253106",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-14",
+          "expirationDate": "2027-08-31"
         }
       ]
     },
@@ -59414,6 +59734,54 @@
         }
       ],
       "pick": 170
+    },
+    {
+      "id": 9131502,
+      "packageCount": 1,
+      "name": "Super Lemon Haze Cartridge (NCD) - &Shine (Sativa) - 1000mg",
+      "brand": "&Shine",
+      "producer": "Chesapeake Alternatives",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Super Lemon Haze",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.79,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.2,
+        "CBGA": 0.0,
+        "CBN": 0.47,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.67,
+        "myrcene": 0.31,
+        "caryophyllene": 2.29,
+        "ocimene": 0.27,
+        "limonene": 0.13,
+        "terpinolene": 1.63
+      },
+      "totalTerps": 5.3,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9131502,
+          "label": "1A40303000003EA000253109",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-14",
+          "expirationDate": "2027-09-22"
+        }
+      ]
     },
     {
       "id": 9104970,
