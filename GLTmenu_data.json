@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:10:02.548070+00:00",
+  "generated_at": "2026-10-16T20:20:03.130038+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9740,7 +9740,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9770,7 +9770,7 @@
         {
           "id": 8981914,
           "label": "1A403030000012D000266244",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-09-10",
           "expirationDate": "2027-03-17"
         }
@@ -15819,7 +15819,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15860,7 +15860,7 @@
         {
           "id": 8235240,
           "label": "1A4030300000C83000061170",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-03-24",
           "expirationDate": "2026-10-27"
         }
@@ -39801,7 +39801,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Grams",
       "strainName": "Triple Stack",
       "strainType": null,
@@ -39835,7 +39835,7 @@
         {
           "id": 7754713,
           "label": "1A4030300000192000019502",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2025-11-20",
           "expirationDate": "2026-11-03"
         }
@@ -43074,58 +43074,6 @@
       ]
     },
     {
-      "id": 8303029,
-      "packageCount": 1,
-      "name": "Airo Pod Tres Leches 1.0g/100mg",
-      "brand": "Airo",
-      "producer": "SunMed Growers",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Tres Leches",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 86.96,
-        "totalCBD": 0.2,
-        "CBC": 0.97,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.1,
-        "CBGA": 0.0,
-        "CBN": 0.29,
-        "THCA": 0.0,
-        "THCV": 0.76
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.21,
-        "myrcene": 1.4,
-        "alpha-pinene": 0.29,
-        "caryophyllene": 0.72,
-        "beta-pinene": 0.1,
-        "ocimene": 0.24,
-        "limonene": 1.18,
-        "linalool": 0.42,
-        "terpinolene": 0.08
-      },
-      "totalTerps": 4.79,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8303029,
-          "label": "1A40303000001F5000358663",
-          "quantity": 1.0,
-          "packagedDate": "2026-04-08",
-          "expirationDate": "2027-03-26"
-        }
-      ]
-    },
-    {
       "id": 9073302,
       "packageCount": 1,
       "name": "Airo X Golden Pineapple - Liquid Diamonds Disposable Vape 2.0g/2000mg",
@@ -43336,7 +43284,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Pink Palmer",
       "strainType": null,
@@ -43370,7 +43318,7 @@
         {
           "id": 9073303,
           "label": "1A40303000001F5000453104",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-09-16"
         }
@@ -52439,54 +52387,6 @@
           "quantity": 3.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-05-19"
-        }
-      ]
-    },
-    {
-      "id": 8689167,
-      "packageCount": 1,
-      "name": "LORE 1g Vape - Watermelon Burst",
-      "brand": "LORE",
-      "producer": "CERES NATURALS",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.0,
-      "unit": "Each",
-      "strainName": "Watermelon Burst",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 80.76,
-        "CBC": 0.57,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.89,
-        "CBGA": 0.0,
-        "CBN": 1.27,
-        "THCA": 0.0,
-        "THCV": 0.87
-      },
-      "dose": null,
-      "terpenes": {
-        "myrcene": 0.23,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.39,
-        "beta-pinene": 0.08,
-        "limonene": 0.75,
-        "linalool": 0.17
-      },
-      "totalTerps": 1.75,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8689167,
-          "label": "1A4030300003201000001354",
-          "quantity": 3.0,
-          "packagedDate": "2026-07-07",
-          "expirationDate": "2027-03-18"
         }
       ]
     },
