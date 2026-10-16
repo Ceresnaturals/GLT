@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T19:50:02.856193+00:00",
+  "generated_at": "2026-10-16T20:00:02.817667+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -14118,7 +14118,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14157,7 +14157,7 @@
         {
           "id": 8981908,
           "label": "1A403030000012D000266237",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-10",
           "expirationDate": "2027-07-14"
         }
@@ -30784,7 +30784,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 98.0,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Lemon Cherry Gelato",
       "strainType": null,
@@ -30818,7 +30818,7 @@
         {
           "id": 9112250,
           "label": "1A4030300003A3C000092573",
-          "quantity": 98.0,
+          "quantity": 84.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-09-30"
         }
@@ -36728,6 +36728,55 @@
       ]
     },
     {
+      "id": 8842351,
+      "packageCount": 1,
+      "name": "LORE Ritual - 2g Blunt - Strawberry Blizzard",
+      "brand": "LORE",
+      "producer": "CERES NATURALS",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 1.0,
+      "unit": "Each",
+      "strainName": "Strawberry Blizzard",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 37.51,
+        "CBC": 0.07,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.33,
+        "CBN": 0.0,
+        "THCA": 40.91,
+        "THCV": 0.27
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.12,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.01,
+        "caryophyllene": 0.34,
+        "beta-pinene": 0.01,
+        "limonene": 0.08
+      },
+      "totalTerps": 0.73,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8842351,
+          "label": "1A4030300003201000001525",
+          "quantity": 1.0,
+          "packagedDate": "2026-08-10",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 9030313,
       "packageCount": 1,
       "name": "LORE Ritual - Berry Fritterz - 2g Blunt",
@@ -38646,7 +38695,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 11.0,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
@@ -38682,7 +38731,7 @@
         {
           "id": 9097333,
           "label": "1A40303000000CB000055223",
-          "quantity": 13.0,
+          "quantity": 11.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-04"
         }
