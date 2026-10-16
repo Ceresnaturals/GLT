@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T14:00:03.646338+00:00",
+  "generated_at": "2026-10-16T14:10:02.544481+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -19071,7 +19071,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -19110,7 +19110,7 @@
         {
           "id": 8914797,
           "label": "1A4030300002009000112798",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-05-07"
         }
@@ -28336,7 +28336,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 105.0,
+      "quantity": 98.0,
       "unit": "Grams",
       "strainName": "Dino Bites",
       "strainType": null,
@@ -28369,7 +28369,7 @@
         {
           "id": 9097464,
           "label": "1A403030000025B000092026",
-          "quantity": 105.0,
+          "quantity": 98.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-09-02"
         }
@@ -30922,7 +30922,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 115.5,
+      "quantity": 112.0,
       "unit": "Grams",
       "strainName": "Sgt Strawberry",
       "strainType": null,
@@ -30957,7 +30957,7 @@
         {
           "id": 9053159,
           "label": "1A40303000000C9000172966",
-          "quantity": 115.5,
+          "quantity": 112.0,
           "packagedDate": "2026-09-25",
           "expirationDate": "2027-09-15"
         }
@@ -38479,7 +38479,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
@@ -38515,7 +38515,7 @@
         {
           "id": 9097333,
           "label": "1A40303000000CB000055223",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-04"
         }
@@ -39838,6 +39838,56 @@
         }
       ],
       "pick": 117
+    },
+    {
+      "id": 8966389,
+      "packageCount": 1,
+      "name": "Admiral Apple Shake/Trim 28g",
+      "brand": null,
+      "producer": "Trulieve MD Cultivation",
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 476.0,
+      "unit": "Grams",
+      "strainName": "Admiral Apple",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 20.56,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.33,
+        "CBN": 0.0,
+        "THCA": 22.93,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.15,
+        "humulene": 0.13,
+        "myrcene": 0.37,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.54,
+        "beta-pinene": 0.04,
+        "limonene": 0.33,
+        "linalool": 0.32
+      },
+      "totalTerps": 2.0,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8966389,
+          "label": "1A40303000000C9000169571",
+          "quantity": 476.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": null
+        }
+      ]
     },
     {
       "id": 9099008,
