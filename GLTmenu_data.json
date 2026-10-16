@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T19:10:02.827847+00:00",
+  "generated_at": "2026-10-16T19:20:02.527308+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -326,7 +326,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -372,7 +372,7 @@
         {
           "id": 8596199,
           "label": "1A4030300000193000098457",
-          "quantity": 6.0,
+          "quantity": 4.0,
           "packagedDate": "2026-06-15",
           "expirationDate": "2027-05-05"
         }
@@ -3342,7 +3342,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Golden Valley Glaze",
       "strainType": null,
@@ -3378,7 +3378,7 @@
         {
           "id": 8974571,
           "label": "1A40303000001F5000428943",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-23"
         }
@@ -21765,7 +21765,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -21806,7 +21806,7 @@
         {
           "id": 9105003,
           "label": "1A40303000001F5000456183",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-10"
         }
@@ -24713,7 +24713,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -24752,7 +24752,7 @@
         {
           "id": 8985435,
           "label": "1A403030000390D000067492",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-09-11",
           "expirationDate": "2027-08-18"
         }
@@ -29727,7 +29727,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 308.0,
+      "quantity": 280.0,
       "unit": "Grams",
       "strainName": "Mint Legba",
       "strainType": null,
@@ -29762,7 +29762,7 @@
         {
           "id": 9090438,
           "label": "1A403030000012E000200851",
-          "quantity": 308.0,
+          "quantity": 280.0,
           "packagedDate": "2026-10-05",
           "expirationDate": "2027-09-07"
         }
@@ -31347,7 +31347,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 122.5,
+      "quantity": 119.0,
       "unit": "Grams",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -31381,7 +31381,7 @@
         {
           "id": 9097160,
           "label": "1A40303000000CB000055217",
-          "quantity": 122.5,
+          "quantity": 119.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-04"
         }
@@ -33020,7 +33020,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": "Blue zangria 2",
       "strainType": null,
@@ -33055,7 +33055,7 @@
         {
           "id": 9097315,
           "label": "1A40303000000CB000055218",
-          "quantity": 31.0,
+          "quantity": 30.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-21"
         }
@@ -40571,7 +40571,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.5,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Tear Gas -BLVK MRKT",
       "strainType": null,
@@ -40605,7 +40605,7 @@
         {
           "id": 8968421,
           "label": "1A40303000040D9000006041",
-          "quantity": 45.5,
+          "quantity": 42.0,
           "packagedDate": "2026-09-08",
           "expirationDate": null
         }
@@ -44008,7 +44008,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Banana Pancakes",
       "strainType": null,
@@ -44043,7 +44043,7 @@
         {
           "id": 9039276,
           "label": "1A40303000001F5000450406",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-07-14"
         }
@@ -45863,56 +45863,6 @@
         }
       ],
       "pick": 34
-    },
-    {
-      "id": 8583909,
-      "packageCount": 1,
-      "name": "Champagne Supernova Distillate Cartridge Strane - 1 g",
-      "brand": "Strane",
-      "producer": "Holistic Industries",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Champagne Supernova",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 84.39,
-        "CBC": 0.77,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.67,
-        "CBGA": 0.0,
-        "CBN": 0.8,
-        "THCA": 0.0,
-        "THCV": 0.71
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.23,
-        "myrcene": 1.79,
-        "alpha-pinene": 0.4,
-        "caryophyllene": 0.76,
-        "beta-pinene": 0.22,
-        "ocimene": 0.62,
-        "limonene": 0.54,
-        "terpinolene": 2.03
-      },
-      "totalTerps": 6.66,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8583909,
-          "label": "1A403030000012E000166344",
-          "quantity": 1.0,
-          "packagedDate": "2026-06-11",
-          "expirationDate": "2027-03-21"
-        }
-      ]
     },
     {
       "id": 8760585,
@@ -49592,7 +49542,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Grape GG",
       "strainType": null,
@@ -49626,7 +49576,7 @@
         {
           "id": 9044923,
           "label": "1A403030000012E000196232",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-07-17"
         }
