@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:20:02.543966+00:00",
+  "generated_at": "2026-10-16T15:30:03.644179+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -17746,7 +17746,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17785,7 +17785,7 @@
         {
           "id": 8978143,
           "label": "1A40303000017D5000105966",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-07-13",
           "expirationDate": "2027-07-13"
         }
@@ -17802,7 +17802,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17841,7 +17841,7 @@
         {
           "id": 9018205,
           "label": "1A40303000017D5000107151",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-07-20"
         }
@@ -21874,7 +21874,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21915,7 +21915,7 @@
         {
           "id": 8794514,
           "label": "1A40303000001F5000410798",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-02-25"
         }
@@ -24814,7 +24814,7 @@
     },
     {
       "id": 8890280,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Wana | Edibles | Soft Lozenges | Classic Watermelon Hybrid - 10mg - 10pck",
       "brand": "Wana",
       "producer": "HMS Processing",
@@ -24823,7 +24823,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -24867,13 +24867,6 @@
           "quantity": 20.0,
           "packagedDate": "2026-06-03",
           "expirationDate": "2027-06-03"
-        },
-        {
-          "id": 8601449,
-          "label": "1A4030300002199000053119",
-          "quantity": 1.0,
-          "packagedDate": "2026-04-07",
-          "expirationDate": "2027-04-07"
         }
       ],
       "pick": 177
@@ -25063,7 +25056,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -25104,7 +25097,7 @@
         {
           "id": 8820337,
           "label": "1A4030300002199000058517",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-05-20",
           "expirationDate": "2027-05-20"
         }
@@ -30913,7 +30906,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 108.5,
+      "quantity": 105.0,
       "unit": "Grams",
       "strainName": "Sgt Strawberry",
       "strainType": null,
@@ -30948,7 +30941,7 @@
         {
           "id": 9053159,
           "label": "1A40303000000C9000172966",
-          "quantity": 108.5,
+          "quantity": 105.0,
           "packagedDate": "2026-09-25",
           "expirationDate": "2027-09-15"
         }
@@ -40279,6 +40272,57 @@
           "label": "1A40303000001F5000428947",
           "quantity": 184.96,
           "packagedDate": "2026-09-09",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9022144,
+      "packageCount": 1,
+      "name": "Singapore Sling #9 Shake/Trim 14g",
+      "brand": null,
+      "producer": "Trulieve MD Cultivation",
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 238.0,
+      "unit": "Grams",
+      "strainName": "Singapore Sling #9",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 20.17,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.93,
+        "CBN": 0.0,
+        "THCA": 22.69,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.06,
+        "myrcene": 0.34,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.21,
+        "eudesmol": 0.08,
+        "beta-pinene": 0.03,
+        "limonene": 0.15,
+        "linalool": 0.06
+      },
+      "totalTerps": 1.09,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9022144,
+          "label": "1A40303000000C9000171344",
+          "quantity": 238.0,
+          "packagedDate": "2026-09-21",
           "expirationDate": null
         }
       ]
