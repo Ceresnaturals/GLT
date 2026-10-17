@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T01:50:02.573481+00:00",
+  "generated_at": "2026-10-17T10:00:53.670581+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -21340,28 +21340,29 @@
       ]
     },
     {
-      "id": 8828747,
-      "packageCount": 1,
+      "id": 9124529,
+      "packageCount": 2,
       "name": "In House Strawberry Fast Acting V2 Gummies-40mg-10",
       "brand": "In House",
       "producer": "Kind Therapeutics USA",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
         "totalTHC": 0.83,
-        "totalCBD": 0.22,
+        "totalCBD": 0.2,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.03,
+        "CBG": 0.04,
         "CBGA": 0.0,
         "CBN": 0.0,
         "THCA": 0.0,
@@ -21372,11 +21373,11 @@
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "totalCBD": 11.0,
+          "totalCBD": 10.0,
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 1.5,
+          "CBG": 2.0,
           "CBGA": 0.0,
           "CBN": 0.0,
           "THCA": 0.0,
@@ -21388,6 +21389,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9124529,
+          "label": "1A4030300003522000219683",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-08-07"
+        },
         {
           "id": 8828747,
           "label": "1A4030300003522000195383",
@@ -22952,7 +22960,7 @@
       ]
     },
     {
-      "id": 8494058,
+      "id": 9138600,
       "packageCount": 2,
       "name": "Mellow Fellow - Gummies - Dream Berry 1:2:2 Sleep Blend- 100mg THC - 10mg - 10",
       "brand": "Mellow Fellow",
@@ -22969,13 +22977,13 @@
       "strainClass": null,
       "cannabinoids": {
         "totalTHC": 0.233,
-        "totalCBD": 0.441,
-        "CBC": 0.0,
+        "totalCBD": 0.442,
+        "CBC": 0.004,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.008,
+        "CBG": 0.0,
         "CBGA": 0.0,
-        "CBN": 0.473,
+        "CBN": 0.46,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -22984,13 +22992,13 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 19.845,
-          "CBC": 0.0,
+          "totalCBD": 19.89,
+          "CBC": 0.18,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.36,
+          "CBG": 0.0,
           "CBGA": 0.0,
-          "CBN": 21.285,
+          "CBN": 20.7,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -23001,18 +23009,18 @@
       "dominantTerpene": null,
       "packages": [
         {
-          "id": 8494058,
-          "label": "1A403030000283D000049575",
-          "quantity": 5.0,
-          "packagedDate": "2026-05-21",
-          "expirationDate": "2027-05-20"
-        },
-        {
           "id": 9138600,
           "label": "1A403030000283D000058454",
           "quantity": 16.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-09-11"
+        },
+        {
+          "id": 8494058,
+          "label": "1A403030000283D000049575",
+          "quantity": 5.0,
+          "packagedDate": "2026-05-21",
+          "expirationDate": "2027-05-20"
         }
       ]
     },
@@ -39158,17 +39166,18 @@
       ]
     },
     {
-      "id": 8926289,
-      "packageCount": 1,
+      "id": 8981913,
+      "packageCount": 2,
       "name": "Kaviar Indica Infused Pre-Roll - 1.5g",
       "brand": "Kaviar",
       "producer": "Curio Manufacturing",
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 35.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -39199,6 +39208,13 @@
       "totalTerps": 1.01,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 8981913,
+          "label": "1A403030000012D000266243",
+          "quantity": 30.0,
+          "packagedDate": "2026-09-10",
+          "expirationDate": "2027-06-25"
+        },
         {
           "id": 8926289,
           "label": "1A403030000012D000262964",
@@ -39313,17 +39329,18 @@
       ]
     },
     {
-      "id": 8952841,
-      "packageCount": 1,
+      "id": 9111207,
+      "packageCount": 2,
       "name": "Kaviar Mini Pre-rolls (Sativa)-5x0.6g",
       "brand": "Kaviar",
       "producer": "Curio Manufacturing",
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 32.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -39355,6 +39372,13 @@
       "totalTerps": 1.47,
       "dominantTerpene": "caryophyllene",
       "packages": [
+        {
+          "id": 9111207,
+          "label": "1A403030000012D000275065",
+          "quantity": 30.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-07-30"
+        },
         {
           "id": 8952841,
           "label": "1A403030000012D000265619",
@@ -59960,7 +59984,7 @@
       ]
     },
     {
-      "id": 8885893,
+      "id": 9138903,
       "packageCount": 2,
       "name": "Mellow Fellow - Infused Distillate 510 Vape - Durban Poison - 1g",
       "brand": "Mellow Fellow",
@@ -59977,43 +60001,43 @@
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 88.39,
-        "CBC": 0.67,
+        "totalTHC": 83.45,
+        "CBC": 1.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 3.46,
+        "CBG": 4.3,
         "CBGA": 0.0,
-        "CBN": 0.81,
+        "CBN": 0.72,
         "THCA": 0.0,
-        "THCV": 0.57
+        "THCV": 0.0
       },
       "dose": null,
       "terpenes": {
-        "humulene": 0.16,
-        "myrcene": 0.78,
-        "alpha-pinene": 0.28,
-        "caryophyllene": 0.57,
-        "beta-pinene": 0.21,
-        "ocimene": 1.27,
+        "humulene": 0.12,
+        "myrcene": 0.7,
+        "alpha-pinene": 0.27,
+        "caryophyllene": 0.45,
+        "beta-pinene": 0.2,
+        "ocimene": 1.36,
         "limonene": 0.76,
-        "linalool": 0.31,
-        "terpinolene": 0.83
+        "linalool": 0.32,
+        "terpinolene": 0.94
       },
-      "totalTerps": 5.39,
+      "totalTerps": 5.57,
       "dominantTerpene": "ocimene",
       "packages": [
-        {
-          "id": 8885893,
-          "label": "1A403030000283D000057727",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-19",
-          "expirationDate": "2027-08-21"
-        },
         {
           "id": 9138903,
           "label": "1A403030000283D000058455",
           "quantity": 30.0,
           "packagedDate": "2026-10-15",
+          "expirationDate": "2027-08-21"
+        },
+        {
+          "id": 8885893,
+          "label": "1A403030000283D000057727",
+          "quantity": 1.0,
+          "packagedDate": "2026-08-19",
           "expirationDate": "2027-08-21"
         }
       ]
