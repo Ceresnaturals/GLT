@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T18:10:03.105881+00:00",
+  "generated_at": "2026-10-17T18:20:07.705107+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -190,6 +190,64 @@
         }
       ],
       "pick": 186
+    },
+    {
+      "id": 9129807,
+      "packageCount": 1,
+      "name": "DAYCAPS 5mg 2:1 (THC:THCV) - 5mg - 20",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Capsule",
+      "metrcCategory": "Infused Edible (Capsule Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.61,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.35
+      },
+      "dose": {
+        "servingSize": "1 each, 20 servings per package",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 5.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 2.765
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9129807,
+          "label": "1A4030300000C83000082979",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-23"
+        }
+      ]
     },
     {
       "id": 9124581,
@@ -9960,6 +10018,57 @@
       ]
     },
     {
+      "id": 9128277,
+      "packageCount": 1,
+      "name": "Z 1.0 Live Rosin Cold Cure 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Z",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 71.63,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.42,
+        "CBN": 0.0,
+        "THCA": 81.68,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.33,
+        "humulene": 1.14,
+        "myrcene": 0.16,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 3.12,
+        "beta-pinene": 0.22,
+        "limonene": 2.26,
+        "linalool": 1.46,
+        "nerolidol": 0.38
+      },
+      "totalTerps": 9.67,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9128277,
+          "label": "1A4030300000C83000042039",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-10-05"
+        }
+      ]
+    },
+    {
       "id": 8974356,
       "packageCount": 1,
       "name": "Z Cream Live Rosin Cold Cure 1.0g",
@@ -10583,8 +10692,7 @@
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -12687,7 +12795,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12726,7 +12834,7 @@
         {
           "id": 9124094,
           "label": "1A4030300003522000219671",
-          "quantity": 25.0,
+          "quantity": 21.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-18"
         }
@@ -13273,7 +13381,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13312,7 +13420,7 @@
         {
           "id": 9124100,
           "label": "1A4030300003522000219673",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-19"
         }
@@ -15473,6 +15581,64 @@
       ]
     },
     {
+      "id": 9122140,
+      "packageCount": 1,
+      "name": "Disco Milk Chocolate (Fel) - 10mg - 10",
+      "brand": "Disco",
+      "producer": "Evermore Cannabis",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.21,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 each, 10 servings per package",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9122140,
+          "label": "1A4030300000C83000082962",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-12",
+          "expirationDate": "2027-09-24"
+        }
+      ]
+    },
+    {
       "id": 9004507,
       "packageCount": 2,
       "name": "Disco Milk Chocolate (Fel) - 40mg - 10",
@@ -16488,6 +16654,64 @@
       "pick": 4
     },
     {
+      "id": 9122476,
+      "packageCount": 1,
+      "name": "Discos - Sour Watermelon - 10mg - 10",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.17,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 each, 10 servings per package",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9122476,
+          "label": "1A4030300000C83000082963",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-12",
+          "expirationDate": "2027-09-02"
+        }
+      ]
+    },
+    {
       "id": 8974908,
       "packageCount": 1,
       "name": "Discos - Sour Watermelon - 40mg - 10",
@@ -16774,6 +16998,64 @@
           "quantity": 23.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-07-07"
+        }
+      ]
+    },
+    {
+      "id": 9122463,
+      "packageCount": 1,
+      "name": "Discos - Wild Cherriezzz 5:1:1 (CBD:THC:CBN) - 10mg - 10",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.18,
+        "totalCBD": 0.84,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.18,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 each, 10 servings per package",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 50.4,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 10.8,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9122463,
+          "label": "1A4030300000C83000082964",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-12",
+          "expirationDate": "2027-09-14"
         }
       ]
     },
@@ -19327,7 +19609,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19368,7 +19650,7 @@
         {
           "id": 8490545,
           "label": "1A4030300002009000102653",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-05-21",
           "expirationDate": "2027-03-06"
         },
@@ -21514,7 +21796,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21555,7 +21837,7 @@
         {
           "id": 9124536,
           "label": "1A4030300003522000219684",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-02"
         }
@@ -25346,7 +25628,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -25387,7 +25669,7 @@
         {
           "id": 9124804,
           "label": "1A4030300003522000219702",
-          "quantity": 19.0,
+          "quantity": 17.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-19"
         }
@@ -25753,7 +26035,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -25799,7 +26081,7 @@
         {
           "id": 8862614,
           "label": "1A403030000390D000066212",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-07-22"
         }
@@ -29142,7 +29424,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 24.5,
       "unit": "Grams",
@@ -35936,6 +36218,55 @@
       ]
     },
     {
+      "id": 9128368,
+      "packageCount": 1,
+      "name": "Blueberry Crumb Cake Pre-Roll 2 Pack 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": "Blueberry Crumb Cake 5",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.77,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.21,
+        "CBN": 0.0,
+        "THCA": 25.58,
+        "THCV": 0.06
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.1,
+        "myrcene": 1.19,
+        "caryophyllene": 0.31,
+        "beta-pinene": 0.03,
+        "limonene": 0.11,
+        "linalool": 0.17
+      },
+      "totalTerps": 1.99,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9128368,
+          "label": "1A40303000000CB000056052",
+          "quantity": 50.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-04"
+        }
+      ]
+    },
+    {
       "id": 9090333,
       "packageCount": 1,
       "name": "Blueberry Dream Hellavated Juicy Stickz - Infused Pre-roll - 0.75 g",
@@ -36592,17 +36923,18 @@
       ]
     },
     {
-      "id": 9005664,
-      "packageCount": 1,
+      "id": 9128278,
+      "packageCount": 2,
       "name": "Concentrate- Sunset Octane x THCa Isolate Infused (.35g Joints) 5 Pack 1.75g",
       "brand": null,
       "producer": "Evermore Cannabis",
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Sunset Octane x Isolate",
       "strainType": null,
@@ -36631,6 +36963,13 @@
       "totalTerps": 1.4,
       "dominantTerpene": "caryophyllene",
       "packages": [
+        {
+          "id": 9128278,
+          "label": "1A4030300000C83000042040",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-07-25"
+        },
         {
           "id": 9005664,
           "label": "1A4030300000C83000088089",
@@ -38288,6 +38627,57 @@
           "quantity": 5.25,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-07-31"
+        }
+      ]
+    },
+    {
+      "id": 9128279,
+      "packageCount": 1,
+      "name": "Got Caught 4 Pre-Roll 2 Pack 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": "Got Caught 4",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.77,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.25,
+        "CBGA": 0.24,
+        "CBN": 0.0,
+        "THCA": 27.82,
+        "THCV": 0.05
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.06,
+        "myrcene": 0.13,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 0.38,
+        "beta-pinene": 0.19,
+        "ocimene": 0.1,
+        "limonene": 1.24,
+        "linalool": 0.24,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.93,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9128279,
+          "label": "1A40303000000CB000056053",
+          "quantity": 50.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-05"
         }
       ]
     },
@@ -40378,6 +40768,57 @@
       ]
     },
     {
+      "id": 9128280,
+      "packageCount": 1,
+      "name": "Lucky Orchard Pre-Roll 7 Pack 3.5g Multi Pack",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 40.0,
+      "unit": "Each",
+      "strainName": "Lucky Orchard",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.22,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.14,
+        "CBGA": 0.13,
+        "CBN": 0.0,
+        "THCA": 31.31,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.16,
+        "myrcene": 0.42,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 0.93,
+        "beta-pinene": 0.14,
+        "limonene": 0.98,
+        "linalool": 0.7,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.84,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9128280,
+          "label": "1A40303000000CB000056054",
+          "quantity": 40.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-05"
+        }
+      ]
+    },
+    {
       "id": 8966439,
       "packageCount": 1,
       "name": "Mango Dragon Hellavated Juicy Stickz - Infused Pre-roll - 0.75 g",
@@ -40583,8 +41024,8 @@
       ]
     },
     {
-      "id": 9097323,
-      "packageCount": 1,
+      "id": 9128281,
+      "packageCount": 2,
       "name": "Multi Pack- Ice Cream Cake Pre-Rolls (x7 0.5g Joints) 3.5g",
       "brand": null,
       "producer": "Evermore Cannabis",
@@ -40593,7 +41034,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 59.5,
+      "quantity": 199.5,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -40623,6 +41064,13 @@
       "totalTerps": 3.04,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 9128281,
+          "label": "1A40303000000CB000056055",
+          "quantity": 140.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-08-02"
+        },
         {
           "id": 9097323,
           "label": "1A40303000000CB000055221",
@@ -41797,6 +42245,57 @@
       ]
     },
     {
+      "id": 9128282,
+      "packageCount": 1,
+      "name": "Orange Drizzle Pre-Roll 2 Pack 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": "Orange Drizzle",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 33.69,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.33,
+        "CBGA": 2.68,
+        "CBN": 0.0,
+        "THCA": 37.98,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.23,
+        "myrcene": 0.14,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.99,
+        "beta-pinene": 0.08,
+        "limonene": 0.62,
+        "linalool": 0.34,
+        "nerolidol": 0.09
+      },
+      "totalTerps": 2.78,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9128282,
+          "label": "1A40303000000CB000056056",
+          "quantity": 50.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-08-30"
+        }
+      ]
+    },
+    {
       "id": 9097330,
       "packageCount": 1,
       "name": "Orange Drizzle Pre-Roll 7 Pack 3.5g Multi Pack",
@@ -42139,6 +42638,56 @@
           "quantity": 16.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-06-09"
+        }
+      ]
+    },
+    {
+      "id": 9128369,
+      "packageCount": 1,
+      "name": "Rainbow Push Pop 4 Pre-Roll (5 Pack) 1.75g Multi Pack",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Rainbow Push Pop #4",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 35.03,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.27,
+        "CBGA": 1.73,
+        "CBN": 0.0,
+        "THCA": 39.42,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.15,
+        "humulene": 0.48,
+        "myrcene": 0.14,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 1.41,
+        "beta-pinene": 0.08,
+        "limonene": 0.66,
+        "linalool": 0.6
+      },
+      "totalTerps": 3.81,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9128369,
+          "label": "1A40303000000CB000056057",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-08-14"
         }
       ]
     },
@@ -43784,7 +44333,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "Berry Trix",
       "strainType": null,
@@ -43817,7 +44366,7 @@
         {
           "id": 9099008,
           "label": "1A40303000040D9000006409",
-          "quantity": 25.0,
+          "quantity": 20.0,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
@@ -46024,59 +46573,6 @@
       ]
     },
     {
-      "id": 8794515,
-      "packageCount": 1,
-      "name": "Airo Pod Durban Poison 0.5g/500mg",
-      "brand": "Airo",
-      "producer": "SunMed Growers",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Durban Poison",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 84.41,
-        "totalCBD": 0.18,
-        "CBC": 0.66,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.59,
-        "CBGA": 0.0,
-        "CBN": 0.37,
-        "THCA": 0.0,
-        "THCV": 0.25
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.28,
-        "myrcene": 0.45,
-        "alpha-pinene": 0.21,
-        "caryophyllene": 0.58,
-        "beta-pinene": 0.05,
-        "caryophyllene-oxide": 0.03,
-        "limonene": 0.23,
-        "linalool": 0.45,
-        "terpinolene": 5.93
-      },
-      "totalTerps": 8.29,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8794515,
-          "label": "1A40303000001F5000410802",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-29",
-          "expirationDate": "2026-11-19"
-        }
-      ],
-      "pick": 29
-    },
-    {
       "id": 9126264,
       "packageCount": 1,
       "name": "Airo Pod Frosted Dream 2.0gX Disposable",
@@ -46552,7 +47048,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": null,
@@ -46586,7 +47082,7 @@
         {
           "id": 9126266,
           "label": "1A40303000001F5000458219",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-07-24"
         }
@@ -49162,7 +49658,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Blue Hawaiian Slyde Rechargeable",
       "strainType": null,
@@ -49197,7 +49693,7 @@
         {
           "id": 8508535,
           "label": "1A4030300000C83000071958",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-05-26",
           "expirationDate": "2027-05-05"
         }
@@ -50593,7 +51089,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Captain's Cake",
       "strainType": null,
@@ -50627,7 +51123,7 @@
         {
           "id": 9111208,
           "label": "1A403030000012D000275066",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-04-27"
         }
@@ -63087,6 +63583,166 @@
       ]
     },
     {
+      "id": 9124487,
+      "packageCount": 1,
+      "name": "Rove | Live Resin Diamonds Vape Reload | Magic Melon - H | 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Magic Melon",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.629,
+        "totalCBD": 0.218,
+        "CBC": 0.662,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.959,
+        "CBGA": 0.0,
+        "CBN": 0.339,
+        "THCA": 0.079,
+        "THCV": 0.513
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.112,
+        "humulene": 0.042,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.044,
+        "caryophyllene": 0.074,
+        "beta-pinene": 0.038,
+        "caryophyllene-oxide": 0.079,
+        "limonene": 0.109,
+        "linalool": 0.067,
+        "terpinolene": 0.03,
+        "nerolidol": 0.073
+      },
+      "totalTerps": 1.117,
+      "dominantTerpene": "bisabolol",
+      "packages": [
+        {
+          "id": 9124487,
+          "label": "1A4030300000C83000090832",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-14"
+        }
+      ]
+    },
+    {
+      "id": 9124490,
+      "packageCount": 1,
+      "name": "Rove | Live Resin Diamonds Vape Reload | Maui Waui - S | 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Maui Waui",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.637,
+        "totalCBD": 0.234,
+        "CBC": 0.762,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.188,
+        "CBGA": 0.0,
+        "CBN": 0.368,
+        "THCA": 0.072,
+        "THCV": 0.529
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.152,
+        "humulene": 0.053,
+        "myrcene": 0.049,
+        "alpha-pinene": 0.033,
+        "caryophyllene": 0.079,
+        "beta-pinene": 0.034,
+        "caryophyllene-oxide": 0.08,
+        "limonene": 0.108,
+        "linalool": 0.021,
+        "terpinolene": 0.068,
+        "nerolidol": 0.075
+      },
+      "totalTerps": 1.095,
+      "dominantTerpene": "bisabolol",
+      "packages": [
+        {
+          "id": 9124490,
+          "label": "1A4030300000C83000090833",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-11"
+        }
+      ]
+    },
+    {
+      "id": 9124634,
+      "packageCount": 1,
+      "name": "Rove | Live Resin Diamonds Vape Reload | Northern Lights - I | 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Northern Lights",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.218,
+        "CBC": 0.417,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.971,
+        "CBGA": 0.0,
+        "CBN": 0.249,
+        "THCA": 0.0,
+        "THCV": 1.436
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.214,
+        "humulene": 0.069,
+        "myrcene": 0.099,
+        "alpha-pinene": 0.085,
+        "caryophyllene": 0.174,
+        "beta-pinene": 0.046,
+        "caryophyllene-oxide": 0.067,
+        "limonene": 0.287,
+        "linalool": 0.09,
+        "nerolidol": 0.033
+      },
+      "totalTerps": 1.522,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9124634,
+          "label": "1A4030300000C83000090834",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-08-24"
+        }
+      ]
+    },
+    {
       "id": 9093489,
       "packageCount": 1,
       "name": "Rove | Live Resin Diamonds Vape Reload | Skywalker OG - I | 1.0g",
@@ -63183,6 +63839,60 @@
           "quantity": 7.0,
           "packagedDate": "2026-07-08",
           "expirationDate": "2027-06-01"
+        }
+      ]
+    },
+    {
+      "id": 9124635,
+      "packageCount": 1,
+      "name": "Rove | Live Resin Diamonds Vape Reload | Strawberry Cough - S | 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Strawberry Cough",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.628,
+        "totalCBD": 0.215,
+        "CBC": 0.747,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.843,
+        "CBGA": 0.0,
+        "CBN": 0.351,
+        "THCA": 0.061,
+        "THCV": 0.506
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.163,
+        "humulene": 0.065,
+        "myrcene": 0.066,
+        "alpha-pinene": 0.038,
+        "caryophyllene": 0.096,
+        "beta-pinene": 0.035,
+        "caryophyllene-oxide": 0.079,
+        "limonene": 0.134,
+        "linalool": 0.205,
+        "terpinolene": 0.065,
+        "nerolidol": 0.076
+      },
+      "totalTerps": 1.355,
+      "dominantTerpene": "linalool",
+      "packages": [
+        {
+          "id": 9124635,
+          "label": "1A4030300000C83000090835",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-11"
         }
       ]
     },
@@ -63398,6 +64108,111 @@
       ]
     },
     {
+      "id": 9124637,
+      "packageCount": 1,
+      "name": "Rove | Ready-To-Use Live Resin Diamond Vaporizer | Granddaddy Purp - I | 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Ready To Use Vaporizer",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.163,
+        "totalCBD": 0.231,
+        "CBC": 0.815,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.043,
+        "CBGA": 0.0,
+        "CBN": 0.378,
+        "THCA": 0.073,
+        "THCV": 0.534
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.113,
+        "humulene": 0.102,
+        "myrcene": 0.076,
+        "alpha-pinene": 0.063,
+        "caryophyllene": 0.207,
+        "beta-pinene": 0.054,
+        "caryophyllene-oxide": 0.085,
+        "limonene": 0.262,
+        "linalool": 0.061,
+        "terpinolene": 0.024,
+        "nerolidol": 0.074
+      },
+      "totalTerps": 1.552,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9124637,
+          "label": "1A4030300000C83000090836",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-11"
+        }
+      ]
+    },
+    {
+      "id": 9124491,
+      "packageCount": 1,
+      "name": "Rove | Ready-To-Use Live Resin Diamond Vaporizer | Orange Crush - S | 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Ready To Use Vaporizer",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.86,
+        "totalCBD": 0.212,
+        "CBC": 0.697,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.761,
+        "CBGA": 0.0,
+        "CBN": 0.635,
+        "THCA": 0.205,
+        "THCV": 0.514
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.149,
+        "humulene": 0.0248,
+        "myrcene": 0.027,
+        "caryophyllene": 0.0574,
+        "eudesmol": 0.0204,
+        "caryophyllene-oxide": 0.0245,
+        "limonene": 0.478,
+        "terpinolene": 0.0251
+      },
+      "totalTerps": 0.872,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9124491,
+          "label": "1A4030300000C83000090837",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-07-28"
+        }
+      ]
+    },
+    {
       "id": 9093906,
       "packageCount": 1,
       "name": "Rove | Ready-To-Use Live Resin Diamond Vaporizer | Pineapple Express - H | 1.0g",
@@ -63447,6 +64262,59 @@
           "quantity": 8.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-24"
+        }
+      ]
+    },
+    {
+      "id": 9124642,
+      "packageCount": 1,
+      "name": "Rove | Ready-To-Use Live Resin Diamond Vaporizer | Skywalker OG - I | 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Ready To Use Vaporizer",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 91.1,
+        "totalCBD": 0.225,
+        "CBC": 0.313,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.23,
+        "CBGA": 0.0,
+        "CBN": 0.41,
+        "THCA": 0.026,
+        "THCV": 0.633
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.0941,
+        "humulene": 0.0526,
+        "myrcene": 0.0831,
+        "alpha-pinene": 0.0358,
+        "caryophyllene": 0.19,
+        "beta-pinene": 0.0774,
+        "caryophyllene-oxide": 0.0679,
+        "limonene": 0.107,
+        "linalool": 0.0987,
+        "nerolidol": 0.0617
+      },
+      "totalTerps": 1.1,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9124642,
+          "label": "1A4030300000C83000090838",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-08-11"
         }
       ]
     },
