@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T15:40:03.536272+00:00",
+  "generated_at": "2026-10-17T15:50:03.757606+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11115,7 +11115,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11156,7 +11156,7 @@
         {
           "id": 9126254,
           "label": "1A40303000001F5000458206",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-31"
         }
@@ -18424,7 +18424,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18463,7 +18463,7 @@
         {
           "id": 8978143,
           "label": "1A40303000017D5000105966",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-07-13",
           "expirationDate": "2027-07-13"
         }
@@ -43964,7 +43964,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 40.0,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Berry Trix",
       "strainType": null,
@@ -43997,7 +43997,7 @@
         {
           "id": 9099008,
           "label": "1A40303000040D9000006409",
-          "quantity": 40.0,
+          "quantity": 35.0,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
@@ -44216,7 +44216,7 @@
       "category": "Shake/Trim",
       "metrcCategory": "Shake/Trim (by strain)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 447.54,
       "unit": "Grams",
@@ -44268,7 +44268,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 58.45,
+      "quantity": 51.45,
       "unit": "Grams",
       "strainName": "Permanent Marker",
       "strainType": null,
@@ -44302,7 +44302,7 @@
         {
           "id": 8947234,
           "label": "1A40303000001F5000425621",
-          "quantity": 58.45,
+          "quantity": 51.45,
           "packagedDate": "2026-09-02",
           "expirationDate": null
         }
@@ -44407,6 +44407,53 @@
       ]
     },
     {
+      "id": 8974575,
+      "packageCount": 1,
+      "name": "Shake/Trim - Gush Mints TC",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 452.5,
+      "unit": "Grams",
+      "strainName": "Gush Mints TC",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.2,
+        "totalCBD": 0.21,
+        "CBDA": 0.02,
+        "CBG": 0.57,
+        "CBN": 0.02,
+        "THCA": 29.72
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.13,
+        "myrcene": 0.08,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.44,
+        "beta-pinene": 0.07,
+        "limonene": 0.45,
+        "linalool": 0.12,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 1.44,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8974575,
+          "label": "1A40303000001F5000428948",
+          "quantity": 452.5,
+          "packagedDate": "2026-09-09",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
       "id": 9022144,
       "packageCount": 1,
       "name": "Singapore Sling #9 Shake/Trim 14g",
@@ -44468,7 +44515,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 10.5,
       "unit": "Grams",
       "strainName": "Tear Gas -BLVK MRKT",
       "strainType": null,
@@ -44502,7 +44549,7 @@
         {
           "id": 8968421,
           "label": "1A40303000040D9000006041",
-          "quantity": 14.0,
+          "quantity": 10.5,
           "packagedDate": "2026-09-08",
           "expirationDate": null
         }
@@ -59789,7 +59836,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Green Crack",
       "strainType": null,
@@ -59823,7 +59870,7 @@
         {
           "id": 9074625,
           "label": "1A403030000283D000059491",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-25"
         }
@@ -59840,7 +59887,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 30.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": null,
@@ -59873,7 +59920,7 @@
         {
           "id": 9139003,
           "label": "1A403030000283D000058457",
-          "quantity": 30.0,
+          "quantity": 29.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-07-14"
         }
