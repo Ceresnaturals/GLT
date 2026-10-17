@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T23:00:02.901290+00:00",
+  "generated_at": "2026-10-17T23:10:02.969332+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4873,7 +4873,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Purple Cherries",
       "strainType": null,
@@ -4906,7 +4906,7 @@
         {
           "id": 8445931,
           "label": "1A4030300003D55000005796",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-05-12",
           "expirationDate": "2026-12-18"
         }
@@ -9463,7 +9463,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": "Sour Fumez Cake",
       "strainType": null,
@@ -9497,7 +9497,7 @@
         {
           "id": 9005739,
           "label": "1A4030300000C83000088088",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-09-08"
         }
@@ -13065,64 +13065,6 @@
       ]
     },
     {
-      "id": 9066535,
-      "packageCount": 1,
-      "name": "Betty's Eddies Raspberry Creme V3 Fruit Chews-10mg-10",
-      "brand": "Betty's Eddies",
-      "producer": "Kind Therapeutics USA",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.14,
-        "totalCBD": 0.291,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.006,
-        "CBGA": 0.0,
-        "CBN": 0.068,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 2.066,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.043,
-          "CBGA": 0.0,
-          "CBN": 0.483,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9066535,
-          "label": "1A4030300003522000215105",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-29",
-          "expirationDate": "2027-08-27"
-        }
-      ]
-    },
-    {
       "id": 9124089,
       "packageCount": 2,
       "name": "Betty's Eddies Raspberry Creme V3 Fruit Chews-40mg-10",
@@ -14938,7 +14880,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14977,7 +14919,7 @@
         {
           "id": 9111206,
           "label": "1A403030000012D000275064",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-08-19"
         }
@@ -17834,7 +17776,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17875,7 +17817,7 @@
         {
           "id": 9090332,
           "label": "1A403030000012E000200804",
-          "quantity": 8.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-05",
           "expirationDate": "2027-05-24"
         }
@@ -19539,8 +19481,8 @@
       ]
     },
     {
-      "id": 8490545,
-      "packageCount": 2,
+      "id": 8034260,
+      "packageCount": 1,
       "name": "HiColor Gummies Alfonso Mango 1:1|Edible Product|5mg|20ct",
       "brand": "HiColor",
       "producer": "Marymed",
@@ -19549,20 +19491,20 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.104,
-        "totalCBD": 0.119,
+        "totalTHC": 0.115,
+        "totalCBD": 0.122,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.006,
+        "CBG": 0.019,
         "CBGA": 0.0,
-        "CBN": 0.005,
+        "CBN": 0.006,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -19571,13 +19513,13 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 5.0,
         "minorsMgPerServing": {
-          "totalCBD": 5.06,
+          "totalCBD": 5.188,
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.255,
+          "CBG": 0.808,
           "CBGA": 0.0,
-          "CBN": 0.213,
+          "CBN": 0.255,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -19587,13 +19529,6 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
-        {
-          "id": 8490545,
-          "label": "1A4030300002009000102653",
-          "quantity": 1.0,
-          "packagedDate": "2026-05-21",
-          "expirationDate": "2027-03-06"
-        },
         {
           "id": 8034260,
           "label": "1A4030300002009000089113",
@@ -20729,7 +20664,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 47.0,
+      "quantity": 46.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20770,7 +20705,7 @@
         {
           "id": 9124334,
           "label": "1A4030300003522000219678",
-          "quantity": 47.0,
+          "quantity": 46.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-02"
         }
@@ -21562,7 +21497,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21603,7 +21538,7 @@
         {
           "id": 9124525,
           "label": "1A4030300003522000219682",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-09"
         }
@@ -28072,7 +28007,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 253.5,
+      "quantity": 250.0,
       "unit": "Grams",
       "strainName": "Banana Puddintain",
       "strainType": null,
@@ -28101,7 +28036,7 @@
         {
           "id": 8065293,
           "label": "1A40303000001F5000332273",
-          "quantity": 253.5,
+          "quantity": 250.0,
           "packagedDate": "2026-02-11",
           "expirationDate": "2027-01-01"
         }
@@ -29653,7 +29588,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 24.5,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -29687,7 +29622,7 @@
         {
           "id": 9104963,
           "label": "1A40303000001F5000456173",
-          "quantity": 28.0,
+          "quantity": 24.5,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-09-02"
         }
@@ -30566,7 +30501,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 84.0,
+      "quantity": 80.5,
       "unit": "Grams",
       "strainName": "Georgia Mintz",
       "strainType": null,
@@ -30600,7 +30535,7 @@
         {
           "id": 9097521,
           "label": "1A403030000025B000092024",
-          "quantity": 84.0,
+          "quantity": 80.5,
           "packagedDate": "2026-09-10",
           "expirationDate": "2027-09-10"
         }
@@ -33913,7 +33848,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 59.5,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Sgt Strawberry",
       "strainType": null,
@@ -33948,7 +33883,7 @@
         {
           "id": 9053159,
           "label": "1A40303000000C9000172966",
-          "quantity": 59.5,
+          "quantity": 56.0,
           "packagedDate": "2026-09-25",
           "expirationDate": "2027-09-15"
         }
@@ -34223,7 +34158,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 66.5,
+      "quantity": 63.0,
       "unit": "Grams",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -34257,7 +34192,7 @@
         {
           "id": 9097160,
           "label": "1A40303000000CB000055217",
-          "quantity": 66.5,
+          "quantity": 63.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-04"
         }
