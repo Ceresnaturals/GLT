@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T23:20:02.804701+00:00",
+  "generated_at": "2026-10-17T23:30:03.310874+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8283,7 +8283,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Pillow Lava",
       "strainType": null,
@@ -8318,7 +8318,7 @@
         {
           "id": 8229635,
           "label": "ABC0303000037DD000021643",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-03-23",
           "expirationDate": "2026-10-31"
         }
@@ -15774,65 +15774,6 @@
         }
       ],
       "pick": 159
-    },
-    {
-      "id": 8151238,
-      "packageCount": 1,
-      "name": "Discos - Blackberry Pomegranate - 40mg - 10",
-      "brand": null,
-      "producer": "Evermore Cannabis",
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.67,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.03,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 each, 10 servings per package",
-        "totalThcMg": 400.0,
-        "thcMgPerServing": 40.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.18,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8151238,
-          "label": "1A4030300000C83000049627",
-          "quantity": 1.0,
-          "packagedDate": "2026-03-04",
-          "expirationDate": "2026-10-29"
-        }
-      ],
-      "pick": 6
     },
     {
       "id": 8999082,
@@ -44783,7 +44724,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 98.0,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Singapore Sling #9",
       "strainType": null,
@@ -44817,7 +44758,7 @@
         {
           "id": 9022144,
           "label": "1A40303000000C9000171344",
-          "quantity": 98.0,
+          "quantity": 84.0,
           "packagedDate": "2026-09-21",
           "expirationDate": null
         }
@@ -59990,57 +59931,6 @@
           "quantity": 26.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-07-08"
-        }
-      ]
-    },
-    {
-      "id": 9074625,
-      "packageCount": 1,
-      "name": "Mellow Fellow - Disposable Vape - Green Crack - 1g",
-      "brand": "Mellow Fellow",
-      "producer": "Pro Green Medical",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Green Crack",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 88.05,
-        "CBC": 1.27,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.41,
-        "CBGA": 0.0,
-        "CBN": 0.76,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.19,
-        "myrcene": 0.42,
-        "alpha-pinene": 0.15,
-        "caryophyllene": 0.7,
-        "beta-pinene": 0.12,
-        "ocimene": 0.97,
-        "limonene": 0.64,
-        "linalool": 0.41,
-        "terpinolene": 0.67
-      },
-      "totalTerps": 4.64,
-      "dominantTerpene": "ocimene",
-      "packages": [
-        {
-          "id": 9074625,
-          "label": "1A403030000283D000059491",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-01",
-          "expirationDate": "2027-08-25"
         }
       ]
     },
