@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T20:50:02.648214+00:00",
+  "generated_at": "2026-10-17T21:00:04.017774+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2611,7 +2611,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Creme de la Chem",
       "strainType": null,
@@ -2648,7 +2648,7 @@
         {
           "id": 9073307,
           "label": "1A40303000001F5000453111",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-05-04"
         }
@@ -19492,7 +19492,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19533,7 +19533,7 @@
         {
           "id": 9018115,
           "label": "1A40303000017D5000107153",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-07-21"
         }
@@ -28185,7 +28185,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 257.0,
+      "quantity": 253.5,
       "unit": "Grams",
       "strainName": "Banana Puddintain",
       "strainType": null,
@@ -28214,7 +28214,7 @@
         {
           "id": 8065293,
           "label": "1A40303000001F5000332273",
-          "quantity": 257.0,
+          "quantity": 253.5,
           "packagedDate": "2026-02-11",
           "expirationDate": "2027-01-01"
         }
@@ -33258,6 +33258,105 @@
       ]
     },
     {
+      "id": 9126259,
+      "packageCount": 1,
+      "name": "SMG - Animal Face - 3.5g",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 87.5,
+      "unit": "Grams",
+      "strainName": "Animal Face",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 23.82,
+        "totalCBD": 0.15,
+        "CBDA": 0.02,
+        "CBG": 0.26,
+        "CBN": 0.02,
+        "THCA": 27.01
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.19,
+        "myrcene": 0.38,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.4,
+        "eudesmol": 0.07,
+        "beta-pinene": 0.07,
+        "ocimene": 0.04,
+        "limonene": 0.6,
+        "linalool": 0.13,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.11,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9126259,
+          "label": "1A40303000001F5000458209",
+          "quantity": 87.5,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-19"
+        }
+      ]
+    },
+    {
+      "id": 9126339,
+      "packageCount": 1,
+      "name": "SMG - Banana Puddintain - Pre Ground Bud - 10g",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 250.0,
+      "unit": "Grams",
+      "strainName": "Banana Puddintain",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.97,
+        "totalCBD": 0.36,
+        "CBDA": 0.03,
+        "CBG": 0.17,
+        "CBN": 0.01,
+        "THCA": 30.45
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.14,
+        "myrcene": 0.56,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.36,
+        "beta-pinene": 0.08,
+        "ocimene": 0.01,
+        "limonene": 0.44,
+        "terpinolene": 0.02,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 1.74,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9126339,
+          "label": "1A40303000001F5000458212",
+          "quantity": 250.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-08-11"
+        }
+      ]
+    },
+    {
       "id": 9104895,
       "packageCount": 1,
       "name": "SMG - SDG OG - 28g",
@@ -33303,6 +33402,105 @@
           "quantity": 336.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-09-01"
+        }
+      ]
+    },
+    {
+      "id": 9126260,
+      "packageCount": 1,
+      "name": "SMG - SDG OG - 3.5g",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 87.5,
+      "unit": "Grams",
+      "strainName": "SDG OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.33,
+        "totalCBD": 0.25,
+        "CBDA": 0.04,
+        "CBG": 0.48,
+        "CBN": 0.03,
+        "THCA": 32.54
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.3,
+        "myrcene": 0.59,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.95,
+        "beta-pinene": 0.06,
+        "ocimene": 0.01,
+        "limonene": 0.4,
+        "linalool": 0.15,
+        "terpinolene": 0.01,
+        "nerolidol": 0.02
+      },
+      "totalTerps": 2.62,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9126260,
+          "label": "1A40303000001F5000458210",
+          "quantity": 87.5,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-08-03"
+        }
+      ]
+    },
+    {
+      "id": 9126261,
+      "packageCount": 1,
+      "name": "SMG - Sour Diesel - 3.5g",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 87.5,
+      "unit": "Grams",
+      "strainName": "Sour Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.93,
+        "totalCBD": 0.25,
+        "CBDA": 0.04,
+        "CBG": 0.81,
+        "CBN": 0.01,
+        "THCA": 31.16
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.27,
+        "myrcene": 0.82,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.74,
+        "eudesmol": 0.01,
+        "beta-pinene": 0.04,
+        "limonene": 0.27,
+        "linalool": 0.05,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 2.36,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9126261,
+          "label": "1A40303000001F5000458211",
+          "quantity": 87.5,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-08-31"
         }
       ]
     },
@@ -42881,8 +43079,8 @@
       ]
     },
     {
-      "id": 9097333,
-      "packageCount": 2,
+      "id": 8695965,
+      "packageCount": 1,
       "name": "Red Zushi PRJx2 (Two 0.5g Joints) 1.0g",
       "brand": null,
       "producer": "Evermore Cannabis",
@@ -42891,46 +43089,37 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Grams",
       "strainName": "Red Zushi 1",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 28.6,
+        "totalTHC": 22.21,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
         "CBG": 0.0,
-        "CBGA": 1.3,
+        "CBGA": 1.37,
         "CBN": 0.0,
-        "THCA": 32.23,
+        "THCA": 25.14,
         "THCV": 0.05
       },
       "dose": null,
       "terpenes": {
-        "bisabolol": 0.07,
-        "humulene": 0.16,
-        "myrcene": 0.48,
-        "alpha-pinene": 0.08,
-        "caryophyllene": 0.58,
-        "eudesmol": 0.15,
-        "beta-pinene": 0.11,
-        "limonene": 0.91,
-        "linalool": 0.24,
-        "terpinolene": 0.02,
+        "humulene": 0.11,
+        "myrcene": 0.17,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.37,
+        "eudesmol": 0.09,
+        "beta-pinene": 0.08,
+        "limonene": 0.66,
+        "linalool": 0.12,
         "nerolidol": 0.07
       },
-      "totalTerps": 3.21,
+      "totalTerps": 1.91,
       "dominantTerpene": "limonene",
       "packages": [
-        {
-          "id": 9097333,
-          "label": "1A40303000000CB000055223",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-06",
-          "expirationDate": "2027-08-04"
-        },
         {
           "id": 8695965,
           "label": "1A40303000000CB000046444",
@@ -44975,7 +45164,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 410.5,
+      "quantity": 407.0,
       "unit": "Grams",
       "strainName": "Gush Mints TC",
       "strainType": null,
@@ -45005,7 +45194,7 @@
         {
           "id": 8974575,
           "label": "1A40303000001F5000428948",
-          "quantity": 410.5,
+          "quantity": 407.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -50861,7 +51050,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Couch Kush DV",
       "strainType": null,
@@ -50895,7 +51084,7 @@
         {
           "id": 8890516,
           "label": "1A40303000001F5000420189",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-01-22"
         }
@@ -53559,7 +53748,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Fruit Gushers",
       "strainType": null,
@@ -53594,7 +53783,7 @@
         {
           "id": 9041146,
           "label": "1A4030300000C83000088745",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-14"
         }
@@ -63772,7 +63961,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Birthday Cake",
       "strainType": null,
@@ -63808,7 +63997,7 @@
         {
           "id": 9093486,
           "label": "1A4030300000C83000090119",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-09-22"
         }
@@ -64242,7 +64431,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Ready To Use Vaporizer",
       "strainType": null,
@@ -64279,7 +64468,7 @@
         {
           "id": 9041003,
           "label": "1A4030300000C83000088741",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-24"
         }
