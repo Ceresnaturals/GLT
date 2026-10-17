@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T15:30:03.439559+00:00",
+  "generated_at": "2026-10-17T15:40:03.536272+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -453,7 +453,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -492,7 +492,7 @@
         {
           "id": 8484004,
           "label": "1A4030300000193000095468",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-05-20",
           "expirationDate": "2027-03-03"
         },
@@ -13507,7 +13507,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13548,7 +13548,7 @@
         {
           "id": 9066546,
           "label": "1A4030300003522000215112",
-          "quantity": 17.0,
+          "quantity": 15.0,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-03-04"
         }
@@ -16961,7 +16961,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17000,7 +17000,7 @@
         {
           "id": 8521482,
           "label": "1A403030000012D000241964",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-04-27"
         }
@@ -28231,57 +28231,6 @@
       ]
     },
     {
-      "id": 8740657,
-      "packageCount": 1,
-      "name": "Chesapeake Crawler Flower 3.5g",
-      "brand": null,
-      "producer": "Trulieve MD Cultivation",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Vault"
-      ],
-      "quantity": 164.5,
-      "unit": "Grams",
-      "strainName": "Chesapeake Crawler",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 28.02,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.12,
-        "CBGA": 0.91,
-        "CBN": 0.0,
-        "THCA": 31.73,
-        "THCV": 0.16
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.14,
-        "humulene": 0.15,
-        "myrcene": 0.6,
-        "alpha-pinene": 0.01,
-        "caryophyllene": 0.46,
-        "beta-pinene": 0.01,
-        "ocimene": 0.07,
-        "limonene": 0.05,
-        "linalool": 0.16
-      },
-      "totalTerps": 1.65,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8740657,
-          "label": "1A40303000000C9000163852",
-          "quantity": 164.5,
-          "packagedDate": "2026-07-17",
-          "expirationDate": "2027-07-12"
-        }
-      ]
-    },
-    {
       "id": 8858129,
       "packageCount": 1,
       "name": "Cloudberry OG | Georgies | 2.5g",
@@ -33775,6 +33724,58 @@
           "quantity": 14.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-07-28"
+        }
+      ]
+    },
+    {
+      "id": 9053159,
+      "packageCount": 1,
+      "name": "Sergeant Strawberry Flower 3.5g",
+      "brand": null,
+      "producer": "Trulieve MD Cultivation",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 73.5,
+      "unit": "Grams",
+      "strainName": "Sgt Strawberry",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.22,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.05,
+        "CBN": 0.0,
+        "THCA": 28.93,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.12,
+        "myrcene": 0.28,
+        "alpha-pinene": 0.11,
+        "caryophyllene": 0.34,
+        "beta-pinene": 0.13,
+        "ocimene": 0.58,
+        "limonene": 0.45,
+        "linalool": 0.11,
+        "terpinolene": 0.66
+      },
+      "totalTerps": 3.07,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9053159,
+          "label": "1A40303000000C9000172966",
+          "quantity": 73.5,
+          "packagedDate": "2026-09-25",
+          "expirationDate": "2027-09-15"
         }
       ]
     },
@@ -40822,7 +40823,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 77.0,
+      "quantity": 73.5,
       "unit": "Grams",
       "strainName": "Peach Runtz",
       "strainType": null,
@@ -40856,7 +40857,7 @@
         {
           "id": 9095865,
           "label": "1A40303000000CB000055185",
-          "quantity": 77.0,
+          "quantity": 73.5,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-06-23"
         }
@@ -41986,7 +41987,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -42020,7 +42021,7 @@
         {
           "id": 9097330,
           "label": "1A40303000000CB000055222",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-30"
         }
@@ -43295,7 +43296,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Strawberry Haze Juicy Stickz",
       "strainType": null,
@@ -43329,7 +43330,7 @@
         {
           "id": 8966427,
           "label": "1A403030000012E000192651",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-05-13"
         }
@@ -44202,6 +44203,56 @@
           "label": "1A4030300004845000044239",
           "quantity": 210.0,
           "packagedDate": "2026-08-20",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "id": 9028007,
+      "packageCount": 1,
+      "name": "Pank lemonade Bulk Shake/Trim",
+      "brand": null,
+      "producer": "MAS Alliance",
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 447.54,
+      "unit": "Grams",
+      "strainName": "the crazy lady- BLVCK MRKT",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 20.87,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.22,
+        "CBN": 0.0,
+        "THCA": 23.38,
+        "THCV": 0.06
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.21,
+        "humulene": 0.2,
+        "myrcene": 0.34,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.81,
+        "beta-pinene": 0.04,
+        "limonene": 0.35,
+        "linalool": 0.28
+      },
+      "totalTerps": 2.34,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9028007,
+          "label": "1A40303000040D9000006248",
+          "quantity": 447.54,
+          "packagedDate": "2026-09-21",
           "expirationDate": null
         }
       ]
@@ -51961,7 +52012,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Golden Lemons",
       "strainType": null,
@@ -51996,7 +52047,7 @@
         {
           "id": 8881943,
           "label": "1A4030300004845000039296",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-28"
         }
@@ -52013,7 +52064,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Gummiez",
       "strainType": null,
@@ -52048,7 +52099,7 @@
         {
           "id": 8946801,
           "label": "1A4030300004845000041485",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-04-23",
           "expirationDate": "2027-04-23"
         }
