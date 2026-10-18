@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T17:00:02.873447+00:00",
+  "generated_at": "2026-10-18T17:10:04.458995+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10924,7 +10924,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10965,7 +10965,7 @@
         {
           "id": 8973207,
           "label": "1A40303000001F5000428805",
-          "quantity": 20.0,
+          "quantity": 18.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-06-08"
         }
@@ -18061,7 +18061,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -18100,7 +18100,7 @@
         {
           "id": 9018113,
           "label": "1A40303000017D5000107150",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-07-15"
         }
@@ -27116,6 +27116,58 @@
       ]
     },
     {
+      "id": 9131064,
+      "packageCount": 1,
+      "name": "Afternoon Delight #4 Pre-Pack (Buds) - Rythm (Hybrid) - Usable - 3.5g",
+      "brand": "Rythm",
+      "producer": "GTI Maryland",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 87.5,
+      "unit": "Grams",
+      "strainName": "Afternoon Delight #4",
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.63,
+        "totalCBD": 0.07,
+        "CBC": 0.0,
+        "CBDA": 0.08,
+        "CBDV": 0.0,
+        "CBG": 0.14,
+        "CBGA": 2.08,
+        "CBN": 0.0,
+        "THCA": 33.37,
+        "THCV": 0.18
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.26,
+        "myrcene": 0.26,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.8,
+        "beta-pinene": 0.09,
+        "limonene": 0.68,
+        "linalool": 0.46,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.87,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9131064,
+          "label": "1A40303000003EA000253104",
+          "quantity": 87.5,
+          "packagedDate": "2026-10-14",
+          "expirationDate": "2027-09-01"
+        }
+      ]
+    },
+    {
       "id": 8944046,
       "packageCount": 1,
       "name": "Animal Face Pre-Pack (Buds) - Rythm (Indica Dominant) - Usable - 3.5g",
@@ -27220,57 +27272,6 @@
       ]
     },
     {
-      "id": 9100057,
-      "packageCount": 1,
-      "name": "Animal Face Pre-Pack (Mixed Buds) - Rythm (Indica Dominant) - Usable - 28g",
-      "brand": "Rythm",
-      "producer": "GTI Maryland",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 56.0,
-      "unit": "Grams",
-      "strainName": "Animal Face",
-      "strainType": "Indica",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 31.97,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.45,
-        "CBN": 0.0,
-        "THCA": 35.48,
-        "THCV": 0.12
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.18,
-        "myrcene": 0.49,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 0.76,
-        "beta-pinene": 0.07,
-        "limonene": 0.55,
-        "linalool": 0.43,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 2.72,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 9100057,
-          "label": "1A40303000003EA000261645",
-          "quantity": 56.0,
-          "packagedDate": "2026-10-07",
-          "expirationDate": "2027-09-10"
-        }
-      ]
-    },
-    {
       "id": 9039336,
       "packageCount": 1,
       "name": "Animal Scout Pre-Pack (Buds) - Rythm (Indica Dominant) - Usable - 3.5g",
@@ -27318,6 +27319,56 @@
           "quantity": 49.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-31"
+        }
+      ]
+    },
+    {
+      "id": 9135790,
+      "packageCount": 1,
+      "name": "Apple Butta - 5g A Nugs Flower",
+      "brand": null,
+      "producer": "MAS Alliance",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 95.0,
+      "unit": "Grams",
+      "strainName": "Apple Butta",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.83,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.54,
+        "CBN": 0.0,
+        "THCA": 30.19,
+        "THCV": 0.22
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.13,
+        "humulene": 0.12,
+        "myrcene": 0.59,
+        "alpha-pinene": 0.26,
+        "caryophyllene": 0.51,
+        "beta-pinene": 0.16,
+        "ocimene": 0.03,
+        "limonene": 0.93
+      },
+      "totalTerps": 2.91,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9135790,
+          "label": "1A40303000040D9000006581",
+          "quantity": 95.0,
+          "packagedDate": "2026-10-14",
+          "expirationDate": "2027-10-13"
         }
       ]
     },
@@ -29652,6 +29703,55 @@
           "quantity": 56.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-06-29"
+        }
+      ]
+    },
+    {
+      "id": 9127365,
+      "packageCount": 1,
+      "name": "Han Solo Burger - 8ths - 8th Flower",
+      "brand": null,
+      "producer": "MAS Alliance",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 224.0,
+      "unit": "Grams",
+      "strainName": "Han Solo HashBurger",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.45,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.18,
+        "CBN": 0.0,
+        "THCA": 24.88,
+        "THCV": 0.15
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.13,
+        "myrcene": 1.15,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.36,
+        "beta-pinene": 0.1,
+        "limonene": 0.77
+      },
+      "totalTerps": 2.85,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9127365,
+          "label": "1A40303000040D9000006563",
+          "quantity": 224.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-10-12"
         }
       ]
     },
@@ -32545,8 +32645,8 @@
       ]
     },
     {
-      "id": 9128285,
-      "packageCount": 1,
+      "id": 9128374,
+      "packageCount": 2,
       "name": "Pineapple Bang 5 Buds Pre-Pack 3.5g",
       "brand": null,
       "producer": "Evermore Cannabis",
@@ -32555,7 +32655,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 231.0,
       "unit": "Grams",
       "strainName": "Pineapple Bang 5",
       "strainType": null,
@@ -32586,6 +32686,13 @@
       "totalTerps": 2.88,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 9128374,
+          "label": "1A40303000000CB000056059",
+          "quantity": 224.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-20"
+        },
         {
           "id": 9128285,
           "label": "1A40303000000CB000056060",
