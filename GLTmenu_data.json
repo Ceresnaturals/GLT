@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T16:00:02.822176+00:00",
+  "generated_at": "2026-10-19T16:10:05.275733+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -990,7 +990,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Animal Scout",
       "strainType": "Indica",
@@ -1025,7 +1025,7 @@
         {
           "id": 8778172,
           "label": "1A40303000003EA000192812",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-04-17"
         }
@@ -2401,7 +2401,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Chimera Cake",
       "strainType": null,
@@ -2434,7 +2434,7 @@
         {
           "id": 8814006,
           "label": "1A4030300000C83000079112",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-04",
           "expirationDate": "2027-07-07"
         }
@@ -2975,7 +2975,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "ECSD Cake",
       "strainType": null,
@@ -3009,7 +3009,7 @@
         {
           "id": 9095377,
           "label": "1A4030300000C83000090142",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-09-10"
         }
@@ -3302,7 +3302,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Forbidden Rainbow Guava Cake",
       "strainType": null,
@@ -3338,7 +3338,7 @@
         {
           "id": 8974355,
           "label": "1A4030300000C83000087376",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-07"
         }
@@ -4027,7 +4027,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Jack's Delight",
       "strainType": "Sativa",
@@ -4063,7 +4063,7 @@
         {
           "id": 8778171,
           "label": "1A40303000003EA000192811",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-06-10"
         }
@@ -9463,7 +9463,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Sour Fumez Cake",
       "strainType": null,
@@ -9497,7 +9497,7 @@
         {
           "id": 9005739,
           "label": "1A4030300000C83000088088",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-09-08"
         }
@@ -11030,17 +11030,18 @@
       ]
     },
     {
-      "id": 9039627,
-      "packageCount": 1,
+      "id": 9126319,
+      "packageCount": 2,
       "name": "Keef - Purple Passion - 10mg - 1",
       "brand": null,
       "producer": "SunMed Growers",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11078,6 +11079,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9126319,
+          "label": "1A40303000001F5000458204",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-17"
+        },
         {
           "id": 9039627,
           "label": "1A40303000001F5000450420",
@@ -27267,7 +27275,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 85.0,
+      "quantity": 80.0,
       "unit": "Grams",
       "strainName": "Apple Butta",
       "strainType": null,
@@ -27300,7 +27308,7 @@
         {
           "id": 9135790,
           "label": "1A40303000040D9000006581",
-          "quantity": 85.0,
+          "quantity": 80.0,
           "packagedDate": "2026-10-14",
           "expirationDate": "2027-10-13"
         }
@@ -43934,7 +43942,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 40.0,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Dulce de Fresca",
       "strainType": null,
@@ -43968,7 +43976,7 @@
         {
           "id": 9099010,
           "label": "1A40303000040D9000006503",
-          "quantity": 40.0,
+          "quantity": 35.0,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
@@ -54994,7 +55002,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Blue Raspberry",
       "strainType": null,
@@ -55029,7 +55037,7 @@
         {
           "id": 8939224,
           "label": "1A4030300003522000210564",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-28"
         }
@@ -59306,7 +59314,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 26.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": "Grandaddy Purp",
       "strainType": null,
@@ -59339,7 +59347,7 @@
         {
           "id": 9139004,
           "label": "1A403030000283D000058458",
-          "quantity": 26.0,
+          "quantity": 22.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-07-08"
         }
