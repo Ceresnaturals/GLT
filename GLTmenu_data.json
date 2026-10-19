@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T16:40:02.819169+00:00",
+  "generated_at": "2026-10-19T16:50:02.473698+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11403,7 +11403,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11444,7 +11444,7 @@
         {
           "id": 9076314,
           "label": "1A4030300000C83000082498",
-          "quantity": 5.0,
+          "quantity": 1.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-09-16"
         }
@@ -11461,7 +11461,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11502,7 +11502,7 @@
         {
           "id": 8909901,
           "label": "1A4030300000C83000081191",
-          "quantity": 5.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-15"
         }
@@ -15959,64 +15959,6 @@
       ]
     },
     {
-      "id": 8946620,
-      "packageCount": 1,
-      "name": "Discos - Radzberry (v2) - 40mg - 10",
-      "brand": null,
-      "producer": "Evermore Cannabis",
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 4.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.78,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 each, 10 servings per package",
-        "totalThcMg": 400.0,
-        "thcMgPerServing": 40.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8946620,
-          "label": "1A4030300000C83000081472",
-          "quantity": 4.0,
-          "packagedDate": "2026-09-02",
-          "expirationDate": "2027-07-14"
-        }
-      ]
-    },
-    {
       "id": 8814670,
       "packageCount": 1,
       "name": "Discos - Sour Blueberry - 10mg - 10",
@@ -16792,7 +16734,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16833,7 +16775,7 @@
         {
           "id": 8814673,
           "label": "1A4030300000C83000080558",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-04",
           "expirationDate": "2027-07-01"
         }
@@ -27275,7 +27217,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 80.0,
+      "quantity": 75.0,
       "unit": "Grams",
       "strainName": "Apple Butta",
       "strainType": null,
@@ -27308,7 +27250,7 @@
         {
           "id": 9135790,
           "label": "1A40303000040D9000006581",
-          "quantity": 80.0,
+          "quantity": 75.0,
           "packagedDate": "2026-10-14",
           "expirationDate": "2027-10-13"
         }
@@ -28280,7 +28222,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "the crazy lady- BLVCK MRKT",
       "strainType": null,
@@ -28314,7 +28256,7 @@
         {
           "id": 9027467,
           "label": "1A40303000040D9000006252",
-          "quantity": 28.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-21",
           "expirationDate": "2027-09-20"
         }
