@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T13:20:03.143634+00:00",
+  "generated_at": "2026-10-20T13:30:04.322809+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -20146,7 +20146,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 45.0,
       "unit": "Each",
@@ -27602,6 +27602,57 @@
       ]
     },
     {
+      "id": 8740657,
+      "packageCount": 1,
+      "name": "Chesapeake Crawler Flower 3.5g",
+      "brand": null,
+      "producer": "Trulieve MD Cultivation",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 154.0,
+      "unit": "Grams",
+      "strainName": "Chesapeake Crawler",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.02,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.12,
+        "CBGA": 0.91,
+        "CBN": 0.0,
+        "THCA": 31.73,
+        "THCV": 0.16
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.14,
+        "humulene": 0.15,
+        "myrcene": 0.6,
+        "alpha-pinene": 0.01,
+        "caryophyllene": 0.46,
+        "beta-pinene": 0.01,
+        "ocimene": 0.07,
+        "limonene": 0.05,
+        "linalool": 0.16
+      },
+      "totalTerps": 1.65,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8740657,
+          "label": "1A40303000000C9000163852",
+          "quantity": 154.0,
+          "packagedDate": "2026-07-17",
+          "expirationDate": "2027-07-12"
+        }
+      ]
+    },
+    {
       "id": 8858129,
       "packageCount": 1,
       "name": "Cloudberry OG | Georgies | 2.5g",
@@ -29328,6 +29379,55 @@
       ]
     },
     {
+      "id": 9123982,
+      "packageCount": 1,
+      "name": "In House Cheese Ground Flower-Usable-7g",
+      "brand": "In House",
+      "producer": "Kind Therapeutics USA",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 224.0,
+      "unit": "Grams",
+      "strainName": "Cheese",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.02,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.73,
+        "CBN": 0.0,
+        "THCA": 24.86,
+        "THCV": 0.07
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.12,
+        "myrcene": 0.22,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.32,
+        "beta-pinene": 0.07,
+        "limonene": 0.44,
+        "linalool": 0.12
+      },
+      "totalTerps": 1.5,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9123982,
+          "label": "1A4030300003521000062073",
+          "quantity": 224.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-25"
+        }
+      ]
+    },
+    {
       "id": 9066216,
       "packageCount": 1,
       "name": "In House Chestah The Cheetah Buds-Usable-3.5g",
@@ -29480,6 +29580,55 @@
       ]
     },
     {
+      "id": 9124064,
+      "packageCount": 1,
+      "name": "In House ONYCD 3.0 Buds-Usable-3.5g",
+      "brand": "In House",
+      "producer": "Kind Therapeutics USA",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 112.0,
+      "unit": "Grams",
+      "strainName": "ONYCD 3.0",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.07,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.11,
+        "CBGA": 1.3,
+        "CBN": 0.0,
+        "THCA": 34.31,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.29,
+        "myrcene": 0.7,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 1.06,
+        "beta-pinene": 0.09,
+        "limonene": 0.77
+      },
+      "totalTerps": 3.23,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9124064,
+          "label": "1A4030300003521000062076",
+          "quantity": 112.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-30"
+        }
+      ]
+    },
+    {
       "id": 9066060,
       "packageCount": 1,
       "name": "In House Sequoia Strawberry Buds-Usable-3.5g",
@@ -29527,6 +29676,56 @@
           "quantity": 3.5,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-09-16"
+        }
+      ]
+    },
+    {
+      "id": 9123983,
+      "packageCount": 1,
+      "name": "In House Sequoia Strawberry Ground Flower-Usable-14g",
+      "brand": "In House",
+      "producer": "Kind Therapeutics USA",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 224.0,
+      "unit": "Grams",
+      "strainName": "Sequoia Strawberry",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.16,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.22,
+        "CBGA": 0.66,
+        "CBN": 0.0,
+        "THCA": 27.18,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.06,
+        "myrcene": 0.27,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.23,
+        "beta-pinene": 0.05,
+        "limonene": 0.3,
+        "linalool": 0.18,
+        "nerolidol": 0.06
+      },
+      "totalTerps": 1.28,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9123983,
+          "label": "1A4030300003521000062074",
+          "quantity": 224.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-10"
         }
       ]
     },
@@ -31162,6 +31361,56 @@
       ]
     },
     {
+      "id": 9124065,
+      "packageCount": 1,
+      "name": "NH Animal Mint Cookies Flower-Usable-28g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 448.0,
+      "unit": "Grams",
+      "strainName": "Animal Mint Cookies",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.51,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.75,
+        "CBN": 0.0,
+        "THCA": 27.86,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.14,
+        "myrcene": 0.06,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 0.61,
+        "beta-pinene": 0.09,
+        "limonene": 0.6,
+        "linalool": 0.37
+      },
+      "totalTerps": 2.32,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9124065,
+          "label": "1A4030300003521000062077",
+          "quantity": 448.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-03"
+        }
+      ]
+    },
+    {
       "id": 9066062,
       "packageCount": 1,
       "name": "NH Animal Mint Cookies Flower-Usable-3.5g",
@@ -31312,6 +31561,57 @@
           "quantity": 126.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-07-22"
+        }
+      ]
+    },
+    {
+      "id": 9123999,
+      "packageCount": 1,
+      "name": "NH Chocolatina Flower-Usable-3.5g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 112.0,
+      "unit": "Grams",
+      "strainName": "Chocolatina",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.91,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.14,
+        "CBN": 0.0,
+        "THCA": 29.4,
+        "THCV": 0.18
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.11,
+        "myrcene": 0.61,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.29,
+        "beta-pinene": 0.07,
+        "limonene": 0.59,
+        "linalool": 0.41,
+        "terpinolene": 0.03
+      },
+      "totalTerps": 2.45,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9123999,
+          "label": "1A4030300003521000062079",
+          "quantity": 112.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-27"
         }
       ]
     },
@@ -37723,8 +38023,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 11.0,
       "unit": "Each",
