@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:50:02.598002+00:00",
+  "generated_at": "2026-10-20T22:00:03.165193+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -326,7 +326,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -367,7 +367,7 @@
         {
           "id": 9124391,
           "label": "1A4030300003522000219698",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-26"
         }
@@ -10935,7 +10935,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10976,7 +10976,7 @@
         {
           "id": 8093168,
           "label": "1A4030300000C83000049199",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-02-18",
           "expirationDate": "2026-11-12"
         }
@@ -10993,7 +10993,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11034,7 +11034,7 @@
         {
           "id": 8739606,
           "label": "1A40303000017D5000100459",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-06-01",
           "expirationDate": "2027-06-01"
         }
@@ -11051,7 +11051,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11090,7 +11090,7 @@
         {
           "id": 8838272,
           "label": "1A40303000017D5000103032",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-05-29",
           "expirationDate": "2027-05-29"
         }
@@ -11155,48 +11155,47 @@
       ]
     },
     {
-      "id": 8958670,
-      "packageCount": 2,
+      "id": 9144876,
+      "packageCount": 1,
       "name": "Avexia Microdose Tablets - 4:1 CBD:THC - 2.5mg - 40pc",
       "brand": null,
       "producer": "FGM Processing",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.792,
-        "totalCBD": 2.94,
-        "CBC": 0.014,
+        "totalTHC": 0.787,
+        "totalCBD": 2.988,
+        "CBC": 0.013,
         "CBDA": 0.0,
-        "CBDV": 0.018,
+        "CBDV": 0.02,
         "CBG": 0.0,
         "CBGA": 0.0,
-        "CBN": 0.008,
+        "CBN": 0.009,
         "THCA": 0.0,
-        "THCV": 0.006
+        "THCV": 0.0
       },
       "dose": {
         "servingSize": "1 Piece",
         "totalThcMg": 100.0,
         "thcMgPerServing": 2.5,
         "minorsMgPerServing": {
-          "totalCBD": 8.82,
-          "CBC": 0.042,
+          "totalCBD": 8.964,
+          "CBC": 0.039,
           "CBDA": 0.0,
-          "CBDV": 0.054,
+          "CBDV": 0.06,
           "CBG": 0.0,
           "CBGA": 0.0,
-          "CBN": 0.024,
+          "CBN": 0.027,
           "THCA": 0.0,
-          "THCV": 0.018
+          "THCV": 0.0
         },
         "minorsEstimated": true
       },
@@ -11204,13 +11203,6 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
-        {
-          "id": 8958670,
-          "label": "1A40303000017D5000105505",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-16",
-          "expirationDate": "2027-07-16"
-        },
         {
           "id": 9144876,
           "label": "1A40303000017D5000110713",
@@ -19960,7 +19952,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20001,7 +19993,7 @@
         {
           "id": 8882287,
           "label": "1A4030300003522000202244",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-13"
         }
@@ -27651,7 +27643,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 224.0,
+      "quantity": 217.0,
       "unit": "Grams",
       "strainName": "Cheese",
       "strainType": null,
@@ -27683,7 +27675,7 @@
         {
           "id": 9123982,
           "label": "1A4030300003521000062073",
-          "quantity": 224.0,
+          "quantity": 217.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-25"
         }
@@ -29975,7 +29967,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 140.0,
+      "quantity": 136.5,
       "unit": "Grams",
       "strainName": "Pineapple Bang 5",
       "strainType": null,
@@ -30009,7 +30001,7 @@
         {
           "id": 9128374,
           "label": "1A40303000000CB000056059",
-          "quantity": 133.0,
+          "quantity": 129.5,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-20"
         },
@@ -37611,7 +37603,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 5.0,
       "unit": "Grams",
       "strainName": "Animal Mint Cookies",
       "strainType": null,
@@ -37642,7 +37634,7 @@
         {
           "id": 8996170,
           "label": "1A4030300003521000058086",
-          "quantity": 7.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-09-03"
         }
@@ -51350,7 +51342,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Green Crack",
       "strainType": null,
@@ -51383,7 +51375,7 @@
         {
           "id": 8882280,
           "label": "1A4030300003522000202239",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-08-04"
         }
