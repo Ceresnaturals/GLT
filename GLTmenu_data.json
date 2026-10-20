@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T20:40:02.831822+00:00",
+  "generated_at": "2026-10-20T20:50:04.853881+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10921,6 +10921,64 @@
           "quantity": 16.0,
           "packagedDate": "2026-09-22",
           "expirationDate": "2027-08-17"
+        }
+      ]
+    },
+    {
+      "id": 8093168,
+      "packageCount": 1,
+      "name": "Tall- (XO) Yuzu Blood Orange - 5mg - 1",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Drink",
+      "metrcCategory": "Infused Liquid Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 29.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.001,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 can, 12 fl. oz.",
+        "totalThcMg": 5.0,
+        "thcMgPerServing": 5.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8093168,
+          "label": "1A4030300000C83000049199",
+          "quantity": 29.0,
+          "packagedDate": "2026-02-18",
+          "expirationDate": "2026-11-12"
         }
       ]
     },
@@ -27802,7 +27860,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 63.0,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "ONYCD 3.0",
       "strainType": null,
@@ -27834,7 +27892,7 @@
         {
           "id": 9124064,
           "label": "1A4030300003521000062076",
-          "quantity": 63.0,
+          "quantity": 56.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-30"
         }
@@ -39910,6 +39968,108 @@
       ]
     },
     {
+      "id": 9146579,
+      "packageCount": 1,
+      "name": "Swift Lifts - Orange Pound Cake - 2.5g 5pk",
+      "brand": null,
+      "producer": "Freestate Wellness",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Orange Pound Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.45,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.66,
+        "CBN": 0.0,
+        "THCA": 23.23,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.11,
+        "myrcene": 2.44,
+        "alpha-pinene": 0.32,
+        "caryophyllene": 0.45,
+        "beta-pinene": 0.16,
+        "ocimene": 0.07,
+        "limonene": 0.47,
+        "linalool": 0.22,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 4.6,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9146579,
+          "label": "1A4030300003A3C000092973",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-29",
+          "expirationDate": "2027-09-29"
+        }
+      ]
+    },
+    {
+      "id": 9146944,
+      "packageCount": 1,
+      "name": "Swift Lifts - Yuzu Sour - 2.5g 5pk",
+      "brand": null,
+      "producer": "Freestate Wellness",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Yuzu Sour",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.79,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.14,
+        "CBGA": 0.48,
+        "CBN": 0.0,
+        "THCA": 31.21,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.18,
+        "myrcene": 0.46,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.71,
+        "beta-pinene": 0.06,
+        "limonene": 0.42,
+        "linalool": 0.33
+      },
+      "totalTerps": 2.44,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9146944,
+          "label": "1A4030300003A3C000092974",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-05",
+          "expirationDate": "2027-10-05"
+        }
+      ]
+    },
+    {
       "id": 8794511,
       "packageCount": 1,
       "name": "The Beavs - Pre Roll Joints - 0.5 gram - 2 Pack",
@@ -50537,7 +50697,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Sky OG",
       "strainType": null,
@@ -50571,7 +50731,7 @@
         {
           "id": 8490807,
           "label": "1A4030300002009000102679",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-05-21",
           "expirationDate": "2026-12-23"
         }
@@ -58697,7 +58857,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Northern Lights",
       "strainType": null,
@@ -58732,7 +58892,7 @@
         {
           "id": 9124634,
           "label": "1A4030300000C83000090834",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-24"
         }
@@ -58749,7 +58909,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Skywalker OG",
       "strainType": null,
@@ -58783,7 +58943,7 @@
         {
           "id": 9093489,
           "label": "1A4030300000C83000090122",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-09-09"
         }
@@ -59516,6 +59676,56 @@
       ]
     },
     {
+      "id": 9145107,
+      "packageCount": 1,
+      "name": "Savvy Cartridge - Cherry Sorbet 1:4 CBN:THC - 1g",
+      "brand": "Savvy",
+      "producer": "FGM Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Cherry Sorbet",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 66.47,
+        "CBC": 0.78,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.74,
+        "CBGA": 0.0,
+        "CBN": 16.48,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.17,
+        "humulene": 0.09,
+        "myrcene": 0.17,
+        "alpha-pinene": 0.57,
+        "caryophyllene": 0.4,
+        "beta-pinene": 0.63,
+        "limonene": 3.98,
+        "linalool": 0.7
+      },
+      "totalTerps": 6.99,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9145107,
+          "label": "1A40303000017D5000110718",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-02",
+          "expirationDate": "2027-10-02"
+        }
+      ]
+    },
+    {
       "id": 8556450,
       "packageCount": 1,
       "name": "Savvy Cartridge - Fresh Berry - 1g",
@@ -59706,6 +59916,57 @@
           "quantity": 12.0,
           "packagedDate": "2026-09-17",
           "expirationDate": "2027-09-17"
+        }
+      ]
+    },
+    {
+      "id": 9144879,
+      "packageCount": 1,
+      "name": "Savvy Cartridge - Rainbow Sherbet - 1g",
+      "brand": "Savvy",
+      "producer": "FGM Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Rainbow Sherbet",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 80.1,
+        "CBC": 0.79,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.78,
+        "CBGA": 0.0,
+        "CBN": 0.22,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.32,
+        "humulene": 0.08,
+        "myrcene": 1.55,
+        "alpha-pinene": 0.27,
+        "caryophyllene": 1.79,
+        "beta-pinene": 0.39,
+        "limonene": 2.64,
+        "linalool": 0.61,
+        "terpinolene": 0.15
+      },
+      "totalTerps": 8.44,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9144879,
+          "label": "1A40303000017D5000110717",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-05",
+          "expirationDate": "2027-10-05"
         }
       ]
     },
@@ -59901,6 +60162,52 @@
           "quantity": 10.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-09-23"
+        }
+      ]
+    },
+    {
+      "id": 9145108,
+      "packageCount": 1,
+      "name": "Savvy Disposable - Summer Melon - 0.3g",
+      "brand": "Savvy",
+      "producer": "FGM Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Summer Melon",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 82.91,
+        "CBC": 0.83,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.91,
+        "CBGA": 0.0,
+        "CBN": 0.31,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "alpha-pinene": 4.99,
+        "caryophyllene": 0.37,
+        "beta-pinene": 0.42,
+        "linalool": 0.43
+      },
+      "totalTerps": 6.59,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9145108,
+          "label": "1A40303000017D5000110719",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": "2027-10-07"
         }
       ]
     },
