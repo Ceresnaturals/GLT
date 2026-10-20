@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T20:20:03.097137+00:00",
+  "generated_at": "2026-10-20T20:30:03.106246+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11098,16 +11098,17 @@
     },
     {
       "id": 8958670,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Avexia Microdose Tablets - 4:1 CBD:THC - 2.5mg - 40pc",
       "brand": null,
       "producer": "FGM Processing",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11151,6 +11152,13 @@
           "quantity": 1.0,
           "packagedDate": "2026-07-16",
           "expirationDate": "2027-07-16"
+        },
+        {
+          "id": 9144876,
+          "label": "1A40303000017D5000110713",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-09-08"
         }
       ]
     },
