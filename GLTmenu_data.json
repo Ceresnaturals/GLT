@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:50:02.686687+00:00",
+  "generated_at": "2026-10-20T20:00:03.547376+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -13819,7 +13819,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13858,7 +13858,7 @@
         {
           "id": 8981908,
           "label": "1A403030000012D000266237",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-10",
           "expirationDate": "2027-07-14"
         }
@@ -18067,6 +18067,62 @@
       ]
     },
     {
+      "id": 9144878,
+      "packageCount": 1,
+      "name": "Encore RSO Gummies (Macro Dose) - Concord Grape - 40mg - 10pc*",
+      "brand": null,
+      "producer": "FGM Processing",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 1.013,
+        "CBC": 0.006,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.038,
+        "CBGA": 0.0,
+        "CBN": 0.005,
+        "THCA": 0.0,
+        "THCV": 0.007
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "CBC": 0.24,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.52,
+          "CBGA": 0.0,
+          "CBN": 0.2,
+          "THCA": 0.0,
+          "THCV": 0.28
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9144878,
+          "label": "1A40303000017D5000110716",
+          "quantity": 24.0,
+          "packagedDate": "2026-08-05",
+          "expirationDate": "2027-08-05"
+        }
+      ]
+    },
+    {
       "id": 8556444,
       "packageCount": 1,
       "name": "Encore RSO Gummies (Macro Dose) - Tropical Mango - 40mg - 10pc*",
@@ -21312,7 +21368,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -21353,7 +21409,7 @@
         {
           "id": 9105003,
           "label": "1A40303000001F5000456183",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-10"
         }
@@ -37243,7 +37299,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -37276,7 +37332,7 @@
         {
           "id": 9097323,
           "label": "1A40303000000CB000055221",
-          "quantity": 38.5,
+          "quantity": 31.5,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-02"
         }
@@ -39105,7 +39161,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": "Chem de la Chem TC",
       "strainType": null,
@@ -39137,7 +39193,7 @@
         {
           "id": 9104967,
           "label": "1A40303000001F5000456177",
-          "quantity": 29.0,
+          "quantity": 28.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-18"
         }
