@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:10:02.659234+00:00",
+  "generated_at": "2026-10-20T18:20:03.480002+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3806,7 +3806,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Permanent Chimera",
       "strainType": null,
@@ -3839,7 +3839,7 @@
         {
           "id": 8998884,
           "label": "1A4030300002199000062976",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-08-21"
         }
@@ -12574,7 +12574,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 12.0,
       "unit": "Each",
@@ -13191,8 +13191,8 @@
       ]
     },
     {
-      "id": 8981916,
-      "packageCount": 2,
+      "id": 8707444,
+      "packageCount": 1,
       "name": "Curio Wellness Elderberry Hibiscus 10mg Chews-10mg-10",
       "brand": "Curio Wellness",
       "producer": "Curio Manufacturing",
@@ -13201,19 +13201,19 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.225,
-        "CBC": 0.002,
+        "totalTHC": 0.233,
+        "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.012,
+        "CBG": 0.007,
         "CBGA": 0.0,
-        "CBN": 0.006,
+        "CBN": 0.004,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -13222,12 +13222,12 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "CBC": 0.08,
+          "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.48,
+          "CBG": 0.28,
           "CBGA": 0.0,
-          "CBN": 0.24,
+          "CBN": 0.16,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -13237,13 +13237,6 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
-        {
-          "id": 8981916,
-          "label": "1A403030000012D000266246",
-          "quantity": 24.0,
-          "packagedDate": "2026-09-10",
-          "expirationDate": "2027-06-25"
-        },
         {
           "id": 8707444,
           "label": "1A403030000012D000254650",
@@ -16665,7 +16658,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16706,7 +16699,7 @@
         {
           "id": 9090332,
           "label": "1A403030000012E000200804",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-05",
           "expirationDate": "2027-05-24"
         }
@@ -18597,7 +18590,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -18638,7 +18631,7 @@
         {
           "id": 8914798,
           "label": "1A4030300002009000112799",
-          "quantity": 10.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-05-22"
         }
@@ -18952,7 +18945,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18993,7 +18986,7 @@
         {
           "id": 9124556,
           "label": "1A4030300003522000219687",
-          "quantity": 24.0,
+          "quantity": 20.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-04"
         }
@@ -27560,7 +27553,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 77.0,
+      "quantity": 73.5,
       "unit": "Grams",
       "strainName": "Beach Cake",
       "strainType": null,
@@ -27593,7 +27586,7 @@
         {
           "id": 8681094,
           "label": "1A40303000007D1000085097",
-          "quantity": 77.0,
+          "quantity": 73.5,
           "packagedDate": "2026-07-03",
           "expirationDate": "2027-05-10"
         }
@@ -31549,7 +31542,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Animal Scout",
       "strainType": null,
@@ -31583,7 +31576,7 @@
         {
           "id": 9130899,
           "label": "1A40303000003EA000253105",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-10-14",
           "expirationDate": "2027-08-31"
         }
@@ -34259,7 +34252,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 29.75,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Gogurtz",
       "strainType": null,
@@ -34292,7 +34285,7 @@
         {
           "id": 9100058,
           "label": "1A40303000003EA000261646",
-          "quantity": 29.75,
+          "quantity": 28.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-05"
         }
@@ -36085,7 +36078,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Blueberry Muffins",
       "strainType": null,
@@ -36120,7 +36113,7 @@
         {
           "id": 9112248,
           "label": "1A4030300003A3C000092571",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-21",
           "expirationDate": "2027-09-21"
         }
@@ -39726,7 +39719,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 284.5,
+      "quantity": 281.0,
       "unit": "Grams",
       "strainName": "Gush Mints TC",
       "strainType": null,
@@ -39756,7 +39749,7 @@
         {
           "id": 8974575,
           "label": "1A40303000001F5000428948",
-          "quantity": 284.5,
+          "quantity": 281.0,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -56679,7 +56672,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Classics",
       "strainType": null,
@@ -56714,7 +56707,7 @@
         {
           "id": 9040173,
           "label": "1A4030300000C83000088733",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-07-06"
         }
@@ -56731,7 +56724,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Classics",
       "strainType": null,
@@ -56765,7 +56758,7 @@
         {
           "id": 9040745,
           "label": "1A4030300000C83000088734",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-07-31"
         }
