@@ -1047,6 +1047,7 @@ function ingest(data){
       _exempt: /^exempt/i.test(p.metrcCategory||'')
     };
     o._cls = classifyStrain(o);
+    o._ptype = productType(o);
     Object.assign(o, stockAgeInfo(p.packages));
     return o;
   });
@@ -1099,8 +1100,12 @@ function buildFilters(){
     catChipsSeeds: ['Seeds'],
   };
   const grouped = new Set(Object.values(CAT_GROUPS).flat());
+  // "Infused ..." chips are sub-types (from productType), not METRC categories;
+  // only shown when something in stock matches
+  const SUBTYPES = {catChipsBud: ['Infused Pre-Roll','Infused Flower']};
   for(const [id, wanted] of Object.entries(CAT_GROUPS)){
-    chipSet(id, wanted.filter(c=>cats.includes(c)), state.categories);
+    const subs = (SUBTYPES[id]||[]).filter(t=>PRODUCTS.some(p=>p._ptype===t));
+    chipSet(id, [...wanted.filter(c=>cats.includes(c)), ...subs], state.categories);
   }
   chipSet('edibleChips', ['Liquid Edible','Exempt (High Dose)'], state.edibleTypes);
   // anything not covered by the known groups still shows up, uncategorized
@@ -1158,7 +1163,7 @@ function passes(p){
   if(state.search && !p._search.includes(state.search)) return false;
   if(state.types.size){ if(!p._cls || !state.types.has(p._cls)) return false; }
   if(state.locations.size && !(p.locations||[]).some(l=>state.locations.has(l))) return false;
-  if(state.categories.size && !state.categories.has(p.category)) return false;
+  if(state.categories.size && !state.categories.has(p.category) && !state.categories.has(p._ptype)) return false;
   if(state.edibleTypes.size){
     if(state.edibleTypes.has('Liquid Edible') && !p._liquidEdible) return false;
     if(state.edibleTypes.has('Exempt (High Dose)') && !p._exempt) return false;
@@ -1379,11 +1384,14 @@ const CONC_TYPES = [
 // the METRC category as well as the name ("Mfused" brand, "LORE Ritual" blunts).
 const INFUSED_NAME = /infused|\bmfused\b/i;
 const FLOWERISH = /flower|usable|\bbuds?\b|preground|snowball|moon\s*rock|caviar/i;
+// posCategory = Dutchie's category, e.g. "Infused Pre-Roll/Concentrate", "Infused Flower/Concentrate"
 function productType(p){
   const cat=p.category||'';
   const mc=p.metrcCategory||'';
-  if(cat==='Pre-Roll' && (INFUSED_NAME.test(p.name||'') || /concentrate|infused/i.test(mc))) return 'Infused Pre-Roll';
-  if(cat==='Concentrate' && INFUSED_NAME.test(p.name||'') && FLOWERISH.test(p.name||'')) return 'Infused Flower';
+  const pos=p.posCategory||'';
+  const nm=p.name||'';
+  if(cat==='Pre-Roll' && (INFUSED_NAME.test(nm) || /concentrate|infused/i.test(mc) || /infused/i.test(pos))) return 'Infused Pre-Roll';
+  if((cat==='Concentrate' || cat==='Flower') && (/infused flower/i.test(pos) || (INFUSED_NAME.test(nm) && FLOWERISH.test(nm)))) return 'Infused Flower';
   if(cat==='Concentrate' || cat==='Vape'){
     const n=(p.name||'').toLowerCase();
     for(const [re,label] of CONC_TYPES){
