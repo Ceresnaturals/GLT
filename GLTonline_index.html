@@ -1375,8 +1375,15 @@ const CONC_TYPES = [
   [/distillate|\bdv\b/,'Distillate'],
   [/infused/,'Infused'],
 ];
+// infused flower / pre-rolls: METRC files these as concentrates, so check
+// the METRC category as well as the name ("Mfused" brand, "LORE Ritual" blunts).
+const INFUSED_NAME = /infused|\bmfused\b/i;
+const FLOWERISH = /flower|usable|\bbuds?\b|preground|snowball|moon\s*rock|caviar/i;
 function productType(p){
   const cat=p.category||'';
+  const mc=p.metrcCategory||'';
+  if(cat==='Pre-Roll' && (INFUSED_NAME.test(p.name||'') || /concentrate|infused/i.test(mc))) return 'Infused Pre-Roll';
+  if(cat==='Concentrate' && INFUSED_NAME.test(p.name||'') && FLOWERISH.test(p.name||'')) return 'Infused Flower';
   if(cat==='Concentrate' || cat==='Vape'){
     const n=(p.name||'').toLowerCase();
     for(const [re,label] of CONC_TYPES){
