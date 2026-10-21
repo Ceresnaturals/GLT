@@ -743,10 +743,6 @@ body.embed .cmpbar{bottom:auto} /* top is set in JS instead, from tracked parent
         <button class="sortbtn" data-sort="quantity">Qty</button>
         <button class="sortbtn" data-sort="price">Price</button>
       </div>
-      <div class="viewtoggle" id="priceMode" title="Show rec or med prices" style="display:none">
-        <button data-mode="rec" type="button">Rec&nbsp;$</button>
-        <button data-mode="med" type="button">Med&nbsp;$</button>
-      </div>
       <div class="viewtoggle" id="viewToggle">
         <button data-view="table" type="button">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 5h18v14H3zM3 10h18M3 15h18M9 5v14"/></svg>Table
@@ -778,7 +774,7 @@ body.embed .cmpbar{bottom:auto} /* top is set in JS instead, from tracked parent
           <th>Other cannabinoids</th>
           <th>Top terpenes</th>
           <th class="num" data-sort="totalTerps">Terps <span class="ar"></span></th>
-          <th class="num" data-sort="price"><span id="priceHead">Price*</span> <span class="ar"></span></th>
+          <th class="num" data-sort="price">Price* <span class="ar"></span></th>
           <th class="num" data-sort="quantity">Qty <span class="ar"></span></th>
           <th>Location</th>
         </tr></thead>
@@ -859,7 +855,6 @@ body.embed .cmpbar{bottom:auto} /* top is set in JS instead, from tracked parent
     <ul>
       <li><b>Price*</b> comes from the register system and refreshes at 6am, 1pm and 6pm (and soon after new stock arrives). Sale prices switch on and off at the right times on their own.</li>
       <li>Prices are <b>estimates</b> — the register has the final price. Bundle deals (like "4 for $20") show as a label, not a price.</li>
-      <li><b>Rec $ / Med $</b> switches every price to the medical price. It stays on that setting on this device.</li>
     </ul>
 
     <h3>Expiring soon / Aging stock</h3>
@@ -1004,7 +999,7 @@ const state = {
   search:'', types:new Set(), locations:new Set(), categories:new Set(), edibleTypes:new Set(),
   terpene:'', domOnly:false, group:false, thcMin:0, cannabinoids:new Set(),
   sorts:[{key:'name',dir:1}], selectedId:null, compare:new Set(), page:0,
-  flagExpiring:false, flagAging:false, picks:false, priceMode:'rec'
+  flagExpiring:false, flagAging:false, picks:false
 };
 const EXPIRING_SOON_DAYS = 45;
 const AGING_STOCK_DAYS = 100;
@@ -1057,9 +1052,8 @@ function ingest(data){
   });
   buildFilters();
   document.getElementById('picksBtn').style.display = PRODUCTS.some(p=>p.pick) ? '' : 'none';
-  HAS_PRICES = PRODUCTS.some(p=>p.price!=null || p.medPrice!=null);
+  HAS_PRICES = PRODUCTS.some(p=>p.price!=null);
   document.body.classList.toggle('noprices', !HAS_PRICES);
-  document.getElementById('priceMode').style.display = HAS_PRICES ? '' : 'none';
   const pn = document.getElementById('priceNote');
   pn.style.display = HAS_PRICES ? '' : 'none';
   pn.textContent = '* ' + (data.priceNote || 'Prices shown are estimates. The register has the final price.')
@@ -1339,14 +1333,13 @@ function rowHtml(p){
     <td class="loc" data-label="Location">${(p.locations||[]).join(', ')}</td>
   </tr>`;
 }
-/* ---------- prices (rec by default; the Rec $ / Med $ toggle switches) ---------- */
+/* ---------- prices (rec, pre-tax, from Dutchie) ---------- */
 let HAS_PRICES = false;
 const escHtml = s => String(s).replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const money = v => '$' + (Number.isInteger(v) ? v : v.toFixed(2));
 function curPrice(p){
-  const med = state.priceMode==='med';
-  const reg = num(med ? p.medPrice : p.price);
-  const sale = num(med ? p.medSalePrice : p.salePrice);
+  const reg = num(p.price);
+  const sale = num(p.salePrice);
   return {reg, sale: (sale!=null && reg!=null && sale<reg) ? sale : null};
 }
 function priceHtml(p){
@@ -1547,7 +1540,7 @@ function openDrawer(id){
       <span class="chip" style="cursor:default">Qty ${p.quantity} · ${(p.locations||[]).join(', ')}</span>
     </div>
     ${curPrice(p).reg!=null?`<div class="buybox"><div>${priceHtml(p)}${dealHtml(p)}</div></div>
-    <div class="pricenote" style="padding:0 0 12px;margin-top:-6px">* ${escHtml((DATA&&DATA.priceNote)||'Prices shown are estimates. The register has the final price.')}${state.priceMode==='med'?' Showing med prices.':''}</div>`:''}
+    <div class="pricenote" style="padding:0 0 12px;margin-top:-6px">* ${escHtml((DATA&&DATA.priceNote)||'Prices shown are estimates. The register has the final price.')}</div>`:''}
     ${effectHtml}
     <div class="section-t">Terpene profile</div>
     <div class="terpbars">${profileTerps}</div>
@@ -1634,7 +1627,7 @@ function renderCompareModal(){
       const v=p._terps[k];
       return v ? `<div class="cmp-terprow"><span class="terpdot" style="background:${terpColor(k)}"></span>${v.toFixed(2)}%</div>` : '<span style="color:var(--ink-faint)">—</span>';
     }]),
-    ...(HAS_PRICES ? [[state.priceMode==='med'?'Med price*':'Price*', p=>priceHtml(p)+dealHtml(p)]] : []),
+    ...(HAS_PRICES ? [['Price*', p=>priceHtml(p)+dealHtml(p)]] : []),
     ['Qty', p=>`<span class="qty">${p.quantity!=null?p.quantity:'—'}</span>`],
     ['Location', p=>(p.locations||[]).join(', ')||'—'],
   ];
@@ -1703,22 +1696,6 @@ document.querySelectorAll('#viewToggle button').forEach(b=>{
 window.addEventListener('resize', ()=>{ if(viewPref==='auto') applyView(); });
 applyView();
 
-// Price mode — Rec (default) vs Med prices; remembers the choice on this device.
-function setPriceMode(mode){
-  state.priceMode = mode==='med' ? 'med' : 'rec';
-  document.querySelectorAll('#priceMode button').forEach(b=>b.classList.toggle('on', b.dataset.mode===state.priceMode));
-  document.getElementById('priceHead').textContent = state.priceMode==='med' ? 'Med price*' : 'Price*';
-  try{ localStorage.setItem('glt_price', state.priceMode); }catch(e){}
-}
-document.querySelectorAll('#priceMode button').forEach(b=>{
-  b.onclick=()=>{
-    setPriceMode(b.dataset.mode);
-    if(PRODUCTS.length) render();
-    if(state.selectedId!=null && document.getElementById('drawer').classList.contains('open')) openDrawer(state.selectedId);
-    if(!document.getElementById('cmpModal').hidden) renderCompareModal();
-  };
-});
-try{ setPriceMode(localStorage.getItem('glt_price')||'rec'); }catch(e){ setPriceMode('rec'); }
 
 // Filters panel toggle (shown as a button on narrow screens)
 document.getElementById('filtersBtn').onclick=function(){
