@@ -860,7 +860,7 @@ body.embed .cmpbar{bottom:auto} /* top is set in JS instead, from tracked parent
       <li><b>Price*</b> comes from the register system and refreshes at 6am, 1pm and 6pm (and soon after new stock arrives). Sale prices switch on and off at the right times on their own.</li>
       <li>Prices are <b>estimates</b> — the order page and the register have the final price. Bundle deals (like "4 for $20") show as a label, not a price.</li>
       <li><b>Rec $ / Med $</b> switches every price to the medical price. It stays on that setting on this device.</li>
-      <li><b>Order ↗</b> opens that product on our online menu in a new tab. Products only kept in back rooms have no Order button.</li>
+      <li><b>Order ↗</b> opens that product on our online menu. Products only kept in back rooms have no Order button.</li>
     </ul>
 
     <h3>Expiring soon / Aging stock</h3>
@@ -1356,8 +1356,11 @@ function priceHtml(p){
   return `<span class="price">${sale!=null?`<span class="was">${money(reg)}</span><span class="now">${money(sale)}</span>`:money(reg)}<sup>*</sup></span>`;
 }
 function dealHtml(p){ return p.deal ? `<span class="dealtag">${escHtml(p.deal)}</span>` : ''; }
+// Embedded on greenlighttherapeutics.com: open the menu in the SAME tab. The site's
+// age gate remembers a visitor per tab (sessionStorage), so a new tab re-asks every time.
+const ORDER_TARGET = window.self !== window.top ? '_top' : '_blank';
 function orderHtml(p, big){
-  return p.orderUrl ? `<a class="orderbtn${big?' big':''}" href="${escHtml(p.orderUrl)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Order &#8599;</a>` : '';
+  return p.orderUrl ? `<a class="orderbtn${big?' big':''}" href="${escHtml(p.orderUrl)}" target="${ORDER_TARGET}" rel="noopener" onclick="event.stopPropagation()">Order &#8599;</a>` : '';
 }
 function shortForm(name){ // the format bit after the strain, for context
   const parts = name.split(':'); const tail = parts.length>1?parts[1]:name;
