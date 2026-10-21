@@ -302,6 +302,25 @@ main{padding:16px clamp(10px,2vw,26px) 60px;min-width:0}
 .count{font-size:13px;color:var(--ink-faint)}
 .count b{color:var(--ink);font-family:var(--font-num)}
 .sorts{display:flex;gap:6px;margin-left:auto;flex-wrap:wrap}
+/* ---------- prices (from Dutchie) + order links ---------- */
+.price{font-family:var(--font-num);font-weight:700;white-space:nowrap}
+.price .was{font-weight:500;color:var(--ink-faint);text-decoration:line-through;margin-right:6px}
+.price .now{color:var(--green)}
+.price sup{font-weight:500;color:var(--ink-faint)}
+.dealtag{display:block;font-size:11px;line-height:1.3;color:var(--green);margin-top:3px}
+.orderbtn{display:inline-block;margin-top:7px;padding:6px 13px;border-radius:999px;border:1.5px solid var(--green);
+  background:var(--green);color:#fff;font-size:12px;font-weight:700;line-height:1;text-decoration:none;white-space:nowrap;transition:.15s}
+.orderbtn:hover{background:var(--green-deep);border-color:var(--green-deep)}
+.orderbtn.big{font-size:15px;padding:11px 20px;margin-top:0}
+.pricenote{font-size:12px;color:var(--ink-faint);padding:10px 4px 0}
+.buybox{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;margin:0 0 14px;
+  padding:13px 15px;border:1px solid var(--line);border-radius:12px}
+.buybox .price{font-size:22px}
+.buybox .dealtag{font-size:12px}
+body.view-cards td.c-price{align-items:flex-start}
+body.view-cards .dealtag{max-width:190px}
+body.touch .orderbtn{padding:12px 18px;font-size:14px}
+body.noprices .sortbtn[data-sort="price"]{display:none}
 .sortbtn{font-size:12px;padding:6px 11px;border-radius:8px;border:1px solid var(--line);
   background:var(--paper-2);color:var(--ink-soft);cursor:pointer}
 .sortbtn.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
@@ -320,7 +339,7 @@ body.present .stockflags{display:none}
 
 .tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:var(--radius);
   background:var(--paper-2);box-shadow:var(--shadow)}
-table{width:100%;border-collapse:collapse;min-width:960px;table-layout:fixed}
+table{width:100%;border-collapse:collapse;min-width:1080px;table-layout:fixed}
 thead th{
   position:sticky;top:0;background:var(--paper-2);z-index:2;
   font-size:11px;text-transform:uppercase;letter-spacing:.09em;color:var(--ink-soft);
@@ -722,6 +741,7 @@ body.embed .cmpbar{bottom:auto} /* top is set in JS instead, from tracked parent
         <button class="sortbtn" data-sort="totalTerps">Total terps</button>
         <button class="sortbtn" data-sort="name">Name</button>
         <button class="sortbtn" data-sort="quantity">Qty</button>
+        <button class="sortbtn" data-sort="price">Price</button>
       </div>
       <div class="viewtoggle" id="viewToggle">
         <button data-view="table" type="button">
@@ -736,13 +756,14 @@ body.embed .cmpbar{bottom:auto} /* top is set in JS instead, from tracked parent
       <table>
         <colgroup>
           <col style="width:44px">
-          <col style="width:19%">
-          <col style="width:9%">
-          <col style="width:11%">
-          <col style="width:16%">
-          <col style="width:21%">
-          <col style="width:7%">
+          <col style="width:17%">
+          <col style="width:8%">
+          <col style="width:10%">
+          <col style="width:14%">
+          <col style="width:18%">
           <col style="width:6%">
+          <col style="width:12%">
+          <col style="width:5%">
           <col style="width:9%">
         </colgroup>
         <thead><tr>
@@ -753,6 +774,7 @@ body.embed .cmpbar{bottom:auto} /* top is set in JS instead, from tracked parent
           <th>Other cannabinoids</th>
           <th>Top terpenes</th>
           <th class="num" data-sort="totalTerps">Terps <span class="ar"></span></th>
+          <th class="num" data-sort="price">Price* <span class="ar"></span></th>
           <th class="num" data-sort="quantity">Qty <span class="ar"></span></th>
           <th>Location</th>
         </tr></thead>
@@ -760,6 +782,7 @@ body.embed .cmpbar{bottom:auto} /* top is set in JS instead, from tracked parent
       </table>
     </div>
     <div class="empty" id="emptyState" style="display:none">No products match these filters.</div>
+    <div class="pricenote" id="priceNote" style="display:none"></div>
     <div class="pager" id="pager" style="display:none;align-items:center;justify-content:center;gap:12px;padding:14px 0;font-size:13px;color:var(--ink-faint)">
       <button class="sortbtn" id="pagerPrev" type="button">&larr; Prev</button>
       <span id="pagerLabel"></span>
@@ -826,6 +849,12 @@ body.embed .cmpbar{bottom:auto} /* top is set in JS instead, from tracked parent
       <li><b>Customer View</b> — makes everything big and high-contrast; turn the screen toward the customer with this on.</li>
       <li><b>Table / Cards</b> — Table suits a full screen; Cards suits a tablet or phone (it switches automatically on small screens).</li>
       <li><b>Touch</b> — turn on for a touch screen: bigger buttons, checkboxes, and row spacing so taps land where you mean. Works in both Table and Cards, and stays on until you turn it off.</li>
+    </ul>
+
+    <h3>Prices</h3>
+    <ul>
+      <li><b>Price*</b> comes from the register system and refreshes at 6am, 1pm and 6pm (and soon after new stock arrives). Sale prices switch on and off at the right times on their own.</li>
+      <li>Prices are <b>estimates</b> — the register has the final price. Bundle deals (like "4 for $20") show as a label, not a price.</li>
     </ul>
 
     <h3>Expiring soon / Aging stock</h3>
@@ -1023,6 +1052,12 @@ function ingest(data){
   });
   buildFilters();
   document.getElementById('picksBtn').style.display = PRODUCTS.some(p=>p.pick) ? '' : 'none';
+  HAS_PRICES = PRODUCTS.some(p=>p.price!=null);
+  document.body.classList.toggle('noprices', !HAS_PRICES);
+  const pn = document.getElementById('priceNote');
+  pn.style.display = HAS_PRICES ? '' : 'none';
+  pn.textContent = '* ' + (data.priceNote || 'Prices shown are estimates. The register has the final price.')
+    + (data.pricesUpdatedAt ? ` Prices updated ${new Date(data.pricesUpdatedAt).toLocaleString()}.` : '');
   document.getElementById('loader').style.display='none';
 
   // lab data present? drives the terpene/cannabinoid features + banner
@@ -1142,6 +1177,7 @@ function sortVal(p,key){
   if(key==='name') return p.name.toLowerCase();
   if(key==='strain') return p._cls||'zzz';
   if(key==='terpene') return state.terpene ? (p._terps[state.terpene]||0) : (p.totalTerps||0);
+  if(key==='price'){ const pr=curPrice(p); return pr.sale!=null?pr.sale:pr.reg; }
   return p[key];
 }
 function applySort(list){
@@ -1149,6 +1185,10 @@ function applySort(list){
   return list.slice().sort((a,b)=>{
     for(const {key,dir} of s){
       let av=sortVal(a,key), bv=sortVal(b,key);
+      if(key==='price'){ // unpriced items always sort last
+        if(av==null) av = dir===1 ? Infinity : -Infinity;
+        if(bv==null) bv = dir===1 ? Infinity : -Infinity;
+      }
       if(av===null||av===undefined) av = (typeof bv==='string')?'zzz':-Infinity;
       if(bv===null||bv===undefined) bv = (typeof av==='string')?'zzz':-Infinity;
       if(av<bv) return -1*dir; if(av>bv) return 1*dir;
@@ -1188,7 +1228,7 @@ function render(){
     const groups={};
     list.forEach(p=>{ const g=p.dominantTerpene||'—'; (groups[g]=groups[g]||[]).push(p); });
     Object.keys(groups).sort((a,b)=>groups[b].length-groups[a].length).forEach(g=>{
-      rowsHtml.push(`<tr class="grouphdr"><td colspan="9">${g==='—'?'No terpene data':prettyTerp(g)} · ${groups[g].length}</td></tr>`);
+      rowsHtml.push(`<tr class="grouphdr"><td colspan="10">${g==='—'?'No terpene data':prettyTerp(g)} · ${groups[g].length}</td></tr>`);
       groups[g].forEach(p=>rowsHtml.push(rowHtml(p)));
     });
   } else {
@@ -1288,10 +1328,26 @@ function rowHtml(p){
     <td class="c-cann stack" data-label="Other cannabinoids">${otherCann(p)}</td>
     <td class="c-terps stack" data-label="Top terpenes"><div class="terpbars">${bars}</div></td>
     <td class="num mono" data-label="Total terps">${p.totalTerps!=null?p.totalTerps.toFixed(2):'—'}</td>
+    <td class="num c-price" data-label="Price*"><div>${priceHtml(p)}${dealHtml(p)}</div></td>
     <td class="num" data-label="Qty"><span class="qty">${p.quantity!=null?p.quantity:'—'}</span></td>
     <td class="loc" data-label="Location">${(p.locations||[]).join(', ')}</td>
   </tr>`;
 }
+/* ---------- prices (rec, pre-tax, from Dutchie) ---------- */
+let HAS_PRICES = false;
+const escHtml = s => String(s).replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const money = v => '$' + (Number.isInteger(v) ? v : v.toFixed(2));
+function curPrice(p){
+  const reg = num(p.price);
+  const sale = num(p.salePrice);
+  return {reg, sale: (sale!=null && reg!=null && sale<reg) ? sale : null};
+}
+function priceHtml(p){
+  const {reg, sale} = curPrice(p);
+  if(reg==null) return '<span style="color:var(--ink-faint)">—</span>';
+  return `<span class="price">${sale!=null?`<span class="was">${money(reg)}</span><span class="now">${money(sale)}</span>`:money(reg)}<sup>*</sup></span>`;
+}
+function dealHtml(p){ return p.deal ? `<span class="dealtag">${escHtml(p.deal)}</span>` : ''; }
 function shortForm(name){ // the format bit after the strain, for context
   const parts = name.split(':'); const tail = parts.length>1?parts[1]:name;
   const m = tail.match(/(\d+(\.\d+)?\s*(mg|g)\b.*|cartridge|disposable|pre-?roll.*|sugar|budder|1g|3\.5g)/i);
@@ -1483,6 +1539,8 @@ function openDrawer(id){
       <span class="chip" style="cursor:default">Total terps ${p.totalTerps!=null?p.totalTerps.toFixed(2):'—'}%</span>
       <span class="chip" style="cursor:default">Qty ${p.quantity} · ${(p.locations||[]).join(', ')}</span>
     </div>
+    ${curPrice(p).reg!=null?`<div class="buybox"><div>${priceHtml(p)}${dealHtml(p)}</div></div>
+    <div class="pricenote" style="padding:0 0 12px;margin-top:-6px">* ${escHtml((DATA&&DATA.priceNote)||'Prices shown are estimates. The register has the final price.')}</div>`:''}
     ${effectHtml}
     <div class="section-t">Terpene profile</div>
     <div class="terpbars">${profileTerps}</div>
@@ -1569,6 +1627,7 @@ function renderCompareModal(){
       const v=p._terps[k];
       return v ? `<div class="cmp-terprow"><span class="terpdot" style="background:${terpColor(k)}"></span>${v.toFixed(2)}%</div>` : '<span style="color:var(--ink-faint)">—</span>';
     }]),
+    ...(HAS_PRICES ? [['Price*', p=>priceHtml(p)+dealHtml(p)]] : []),
     ['Qty', p=>`<span class="qty">${p.quantity!=null?p.quantity:'—'}</span>`],
     ['Location', p=>(p.locations||[]).join(', ')||'—'],
   ];
@@ -1636,6 +1695,7 @@ document.querySelectorAll('#viewToggle button').forEach(b=>{
 });
 window.addEventListener('resize', ()=>{ if(viewPref==='auto') applyView(); });
 applyView();
+
 
 // Filters panel toggle (shown as a button on narrow screens)
 document.getElementById('filtersBtn').onclick=function(){
