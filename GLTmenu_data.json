@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T01:50:03.010666+00:00",
+  "generated_at": "2026-10-21T10:00:46.829506+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -17777,7 +17777,7 @@
       ]
     },
     {
-      "id": 8978146,
+      "id": 9144877,
       "packageCount": 2,
       "name": "Encore Gummies - Watermelon - 10mg - 10pc*",
       "brand": null,
@@ -17794,13 +17794,13 @@
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.258,
-        "CBC": 0.003,
+        "totalTHC": 0.282,
+        "CBC": 0.002,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.011,
+        "CBG": 0.019,
         "CBGA": 0.0,
-        "CBN": 0.003,
+        "CBN": 0.004,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -17809,12 +17809,12 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "CBC": 0.105,
+          "CBC": 0.07,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.385,
+          "CBG": 0.665,
           "CBGA": 0.0,
-          "CBN": 0.105,
+          "CBN": 0.14,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -17825,18 +17825,18 @@
       "dominantTerpene": null,
       "packages": [
         {
-          "id": 8978146,
-          "label": "1A40303000017D5000105967",
-          "quantity": 3.0,
-          "packagedDate": "2026-07-01",
-          "expirationDate": "2027-07-01"
-        },
-        {
           "id": 9144877,
           "label": "1A40303000017D5000110715",
           "quantity": 24.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-08-05"
+        },
+        {
+          "id": 8978146,
+          "label": "1A40303000017D5000105967",
+          "quantity": 3.0,
+          "packagedDate": "2026-07-01",
+          "expirationDate": "2027-07-01"
         }
       ]
     },
