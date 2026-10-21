@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T20:30:03.319026+00:00",
+  "generated_at": "2026-10-21T20:40:03.372185+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10615,7 +10615,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10656,7 +10656,7 @@
         {
           "id": 9126254,
           "label": "1A40303000001F5000458206",
-          "quantity": 8.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-31"
         }
@@ -10818,7 +10818,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 20.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10859,7 +10859,7 @@
         {
           "id": 9126255,
           "label": "1A40303000001F5000458208",
-          "quantity": 20.0,
+          "quantity": 17.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-11"
         }
@@ -31617,7 +31617,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 365.62,
+      "quantity": 364.62,
       "unit": "Grams",
       "strainName": "Peanut Glue",
       "strainType": null,
@@ -31650,7 +31650,7 @@
         {
           "id": 7945159,
           "label": "1A4030300002E7E000016876",
-          "quantity": 365.62,
+          "quantity": 364.62,
           "packagedDate": "2026-01-13",
           "expirationDate": "2027-01-13"
         }
@@ -39545,7 +39545,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Goji Overdrive",
       "strainType": null,
@@ -39575,7 +39575,7 @@
         {
           "id": 8688991,
           "label": "1A4030300003201000001362",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-02-24"
         }
@@ -40001,7 +40001,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -40035,7 +40035,7 @@
         {
           "id": 9128280,
           "label": "1A40303000000CB000056054",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-05"
         }
@@ -40231,7 +40231,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 15.0,
       "unit": "Grams",
       "strainName": "Cherry Limeade Cake",
       "strainType": null,
@@ -40263,7 +40263,7 @@
         {
           "id": 8368832,
           "label": "1A40303000007D1000075530",
-          "quantity": 18.0,
+          "quantity": 15.0,
           "packagedDate": "2026-04-23",
           "expirationDate": "2027-03-31"
         }
@@ -45712,7 +45712,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 234.04,
+      "quantity": 227.04,
       "unit": "Grams",
       "strainName": "the crazy lady- BLVCK MRKT",
       "strainType": null,
@@ -45745,7 +45745,7 @@
         {
           "id": 9028007,
           "label": "1A40303000040D9000006248",
-          "quantity": 234.04,
+          "quantity": 227.04,
           "packagedDate": "2026-09-21",
           "expirationDate": null
         }
@@ -45825,7 +45825,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 221.5,
+      "quantity": 214.5,
       "unit": "Grams",
       "strainName": "Gush Mints TC",
       "strainType": null,
@@ -45855,7 +45855,7 @@
         {
           "id": 8974575,
           "label": "1A40303000001F5000428948",
-          "quantity": 221.5,
+          "quantity": 214.5,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -55890,7 +55890,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Graphic Novel BFS",
       "strainType": null,
@@ -55925,7 +55925,7 @@
         {
           "id": 7944848,
           "label": "1A40303000037DD000019962",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-01-13",
           "expirationDate": "2026-12-23"
         }
@@ -65059,6 +65059,58 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4682632",
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 8756995,
+      "packageCount": 1,
+      "name": "Pom Power Distillate Slyde Rechargeable Vape Cart 2.0mL",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 7.0,
+      "unit": "Each",
+      "strainName": "Pom Power Slyde Rechargeable",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.25,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.86,
+        "CBGA": 0.0,
+        "CBN": 0.35,
+        "THCA": 0.0,
+        "THCV": 1.09
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.27,
+        "humulene": 0.09,
+        "myrcene": 0.14
+      },
+      "totalTerps": 0.5,
+      "dominantTerpene": "bisabolol",
+      "packages": [
+        {
+          "id": 8756995,
+          "label": "1A4030300000C83000077949",
+          "quantity": 7.0,
+          "packagedDate": "2026-07-21",
+          "expirationDate": "2027-07-10"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Disposables"
     },
     {
