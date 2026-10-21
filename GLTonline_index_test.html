@@ -855,12 +855,11 @@ body.embed .cmpbar{bottom:auto} /* top is set in JS instead, from tracked parent
       <li><b>Touch</b> — turn on for a touch screen: bigger buttons, checkboxes, and row spacing so taps land where you mean. Works in both Table and Cards, and stays on until you turn it off.</li>
     </ul>
 
-    <h3>Prices &amp; ordering</h3>
+    <h3>Prices</h3>
     <ul>
       <li><b>Price*</b> comes from the register system and refreshes at 6am, 1pm and 6pm (and soon after new stock arrives). Sale prices switch on and off at the right times on their own.</li>
-      <li>Prices are <b>estimates</b> — the order page and the register have the final price. Bundle deals (like "4 for $20") show as a label, not a price.</li>
+      <li>Prices are <b>estimates</b> — the register has the final price. Bundle deals (like "4 for $20") show as a label, not a price.</li>
       <li><b>Rec $ / Med $</b> switches every price to the medical price. It stays on that setting on this device.</li>
-      <li><b>Order ↗</b> opens that product on our online menu. Products only kept in back rooms have no Order button.</li>
     </ul>
 
     <h3>Expiring soon / Aging stock</h3>
@@ -1063,7 +1062,7 @@ function ingest(data){
   document.getElementById('priceMode').style.display = HAS_PRICES ? '' : 'none';
   const pn = document.getElementById('priceNote');
   pn.style.display = HAS_PRICES ? '' : 'none';
-  pn.textContent = '* ' + (data.priceNote || 'Prices shown are estimates. The order page has the actual prices.')
+  pn.textContent = '* ' + (data.priceNote || 'Prices shown are estimates. The register has the final price.')
     + (data.pricesUpdatedAt ? ` Prices updated ${new Date(data.pricesUpdatedAt).toLocaleString()}.` : '');
   document.getElementById('loader').style.display='none';
 
@@ -1335,7 +1334,7 @@ function rowHtml(p){
     <td class="c-cann stack" data-label="Other cannabinoids">${otherCann(p)}</td>
     <td class="c-terps stack" data-label="Top terpenes"><div class="terpbars">${bars}</div></td>
     <td class="num mono" data-label="Total terps">${p.totalTerps!=null?p.totalTerps.toFixed(2):'—'}</td>
-    <td class="num c-price" data-label="Price*"><div>${priceHtml(p)}${dealHtml(p)}${p.orderUrl?`<div>${orderHtml(p)}</div>`:''}</div></td>
+    <td class="num c-price" data-label="Price*"><div>${priceHtml(p)}${dealHtml(p)}</div></td>
     <td class="num" data-label="Qty"><span class="qty">${p.quantity!=null?p.quantity:'—'}</span></td>
     <td class="loc" data-label="Location">${(p.locations||[]).join(', ')}</td>
   </tr>`;
@@ -1356,12 +1355,6 @@ function priceHtml(p){
   return `<span class="price">${sale!=null?`<span class="was">${money(reg)}</span><span class="now">${money(sale)}</span>`:money(reg)}<sup>*</sup></span>`;
 }
 function dealHtml(p){ return p.deal ? `<span class="dealtag">${escHtml(p.deal)}</span>` : ''; }
-// Embedded on greenlighttherapeutics.com: open the menu in the SAME tab. The site's
-// age gate remembers a visitor per tab (sessionStorage), so a new tab re-asks every time.
-const ORDER_TARGET = window.self !== window.top ? '_top' : '_blank';
-function orderHtml(p, big){
-  return p.orderUrl ? `<a class="orderbtn${big?' big':''}" href="${escHtml(p.orderUrl)}" target="${ORDER_TARGET}" rel="noopener" onclick="event.stopPropagation()">Order &#8599;</a>` : '';
-}
 function shortForm(name){ // the format bit after the strain, for context
   const parts = name.split(':'); const tail = parts.length>1?parts[1]:name;
   const m = tail.match(/(\d+(\.\d+)?\s*(mg|g)\b.*|cartridge|disposable|pre-?roll.*|sugar|budder|1g|3\.5g)/i);
@@ -1553,8 +1546,8 @@ function openDrawer(id){
       <span class="chip" style="cursor:default">Total terps ${p.totalTerps!=null?p.totalTerps.toFixed(2):'—'}%</span>
       <span class="chip" style="cursor:default">Qty ${p.quantity} · ${(p.locations||[]).join(', ')}</span>
     </div>
-    ${(curPrice(p).reg!=null||p.orderUrl)?`<div class="buybox"><div>${priceHtml(p)}${dealHtml(p)}</div>${orderHtml(p,true)}</div>
-    <div class="pricenote" style="padding:0 0 12px;margin-top:-6px">* ${escHtml((DATA&&DATA.priceNote)||'Prices shown are estimates. The order page has the actual prices.')}${state.priceMode==='med'?' Showing med prices.':''}</div>`:''}
+    ${curPrice(p).reg!=null?`<div class="buybox"><div>${priceHtml(p)}${dealHtml(p)}</div></div>
+    <div class="pricenote" style="padding:0 0 12px;margin-top:-6px">* ${escHtml((DATA&&DATA.priceNote)||'Prices shown are estimates. The register has the final price.')}${state.priceMode==='med'?' Showing med prices.':''}</div>`:''}
     ${effectHtml}
     <div class="section-t">Terpene profile</div>
     <div class="terpbars">${profileTerps}</div>
@@ -1641,7 +1634,7 @@ function renderCompareModal(){
       const v=p._terps[k];
       return v ? `<div class="cmp-terprow"><span class="terpdot" style="background:${terpColor(k)}"></span>${v.toFixed(2)}%</div>` : '<span style="color:var(--ink-faint)">—</span>';
     }]),
-    ...(HAS_PRICES ? [[state.priceMode==='med'?'Med price*':'Price*', p=>priceHtml(p)+dealHtml(p)+(p.orderUrl?`<div>${orderHtml(p)}</div>`:'')]] : []),
+    ...(HAS_PRICES ? [[state.priceMode==='med'?'Med price*':'Price*', p=>priceHtml(p)+dealHtml(p)]] : []),
     ['Qty', p=>`<span class="qty">${p.quantity!=null?p.quantity:'—'}</span>`],
     ['Location', p=>(p.locations||[]).join(', ')||'—'],
   ];
