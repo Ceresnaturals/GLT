@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:30:03.345846+00:00",
+  "generated_at": "2026-10-21T23:40:02.911924+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1868,9 +1868,9 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Lilac Diesel",
       "strainType": null,
@@ -1897,7 +1897,7 @@
         {
           "id": 8992319,
           "label": "1A403030000283D000061331",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-14",
           "expirationDate": "2027-08-04"
         }
@@ -31551,7 +31551,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 355.62,
+      "quantity": 351.12,
       "unit": "Grams",
       "strainName": "Peanut Glue",
       "strainType": null,
@@ -31584,7 +31584,7 @@
         {
           "id": 7945159,
           "label": "1A4030300002E7E000016876",
-          "quantity": 355.62,
+          "quantity": 351.12,
           "packagedDate": "2026-01-13",
           "expirationDate": "2027-01-13"
         }
@@ -49765,7 +49765,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Kush Mints",
       "strainType": null,
@@ -49798,7 +49798,7 @@
         {
           "id": 9107210,
           "label": "1A403030000283D000059762",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-07-31"
         }
@@ -51660,7 +51660,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Gary Payton + Pomegranate",
       "strainType": null,
@@ -51692,7 +51692,7 @@
         {
           "id": 8039529,
           "label": "1A4030300002199000038844",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2025-11-13",
           "expirationDate": "2026-11-14"
         }
@@ -61969,7 +61969,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Banana Berry Smoothie",
       "strainType": null,
@@ -62002,7 +62002,7 @@
         {
           "id": 9074626,
           "label": "1A403030000283D000059493",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-07-10"
         }
@@ -68516,64 +68516,6 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4407943",
-      "posCategory": "Cartridges"
-    },
-    {
-      "id": 7786376,
-      "packageCount": 1,
-      "name": "Thin Mint GSC-Vape Cart 1g",
-      "brand": null,
-      "producer": "Culta",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Thin Mint GSC",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 83.99,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 4.46,
-        "CBGA": 0.0,
-        "CBN": 2.96,
-        "THCA": 0.0,
-        "THCV": 0.82
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.217,
-        "humulene": 0.296,
-        "myrcene": 0.454,
-        "alpha-pinene": 0.11,
-        "caryophyllene": 1.476,
-        "beta-pinene": 0.139,
-        "limonene": 0.872,
-        "linalool": 0.417
-      },
-      "totalTerps": 4.49,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 7786376,
-          "label": "1A403030000070A000029890",
-          "quantity": 1.0,
-          "packagedDate": "2025-12-01",
-          "expirationDate": "2026-11-07"
-        }
-      ],
-      "pick": 7,
-      "price": 45.0,
-      "medPrice": 45.0,
-      "salePrice": 27.0,
-      "medSalePrice": 27.0,
-      "deal": "40% Off",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4631348",
       "posCategory": "Cartridges"
     },
     {
