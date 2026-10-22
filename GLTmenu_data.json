@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T22:50:03.377261+00:00",
+  "generated_at": "2026-10-22T23:00:03.149939+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12565,7 +12565,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12604,7 +12604,7 @@
         {
           "id": 9124095,
           "label": "1A4030300003522000219672",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-12"
         }
@@ -28889,7 +28889,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -28923,7 +28923,7 @@
         {
           "id": 9104963,
           "label": "1A40303000001F5000456173",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-09-02"
         }
@@ -31590,7 +31590,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 126.0,
+      "quantity": 122.5,
       "unit": "Grams",
       "strainName": "Pineapple Bang 5",
       "strainType": null,
@@ -31624,7 +31624,7 @@
         {
           "id": 9128374,
           "label": "1A40303000000CB000056059",
-          "quantity": 119.0,
+          "quantity": 115.5,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-20"
         },
@@ -34128,7 +34128,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Raw Prerolls",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 20.0,
       "unit": "Each",
@@ -35747,7 +35747,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Grams",
       "strainName": "Grapes of Wrath",
       "strainType": null,
@@ -35781,7 +35781,7 @@
         {
           "id": 9142949,
           "label": "1A403030000012D000276058",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-06-05"
         }
@@ -35933,7 +35933,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Gush Mints",
       "strainType": null,
@@ -35965,7 +35965,7 @@
         {
           "id": 9142946,
           "label": "1A403030000012D000276053",
-          "quantity": 29.0,
+          "quantity": 28.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-04-23"
         }
@@ -40610,6 +40610,63 @@
       "posCategory": "Pre-Rolls"
     },
     {
+      "id": 9128281,
+      "packageCount": 1,
+      "name": "Multi Pack- Ice Cream Cake Pre-Rolls (x7 0.5g Joints) 3.5g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 136.5,
+      "unit": "Grams",
+      "strainName": "Ice Cream Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.05,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.1,
+        "CBN": 0.0,
+        "THCA": 32.82,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.2,
+        "myrcene": 0.08,
+        "alpha-pinene": 0.19,
+        "caryophyllene": 0.6,
+        "beta-pinene": 0.15,
+        "ocimene": 0.03,
+        "limonene": 1.1,
+        "linalool": 0.37
+      },
+      "totalTerps": 3.04,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9128281,
+          "label": "1A40303000000CB000056055",
+          "quantity": 136.5,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-08-02"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4481468",
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 9095865,
       "packageCount": 1,
       "name": "Multi Pack- Peach RuntZ (x7 0.5g Joints) 3.5g",
@@ -44832,7 +44889,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 140.0,
+      "quantity": 135.0,
       "unit": "Grams",
       "strainName": "the crazy lady- BLVCK MRKT",
       "strainType": null,
@@ -44866,7 +44923,7 @@
         {
           "id": 9098469,
           "label": "1A40303000040D9000006502",
-          "quantity": 140.0,
+          "quantity": 135.0,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
@@ -45064,7 +45121,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 171.04,
+      "quantity": 157.04,
       "unit": "Grams",
       "strainName": "the crazy lady- BLVCK MRKT",
       "strainType": null,
@@ -45097,7 +45154,7 @@
         {
           "id": 9028007,
           "label": "1A40303000040D9000006248",
-          "quantity": 171.04,
+          "quantity": 157.04,
           "packagedDate": "2026-09-21",
           "expirationDate": null
         }
@@ -45177,7 +45234,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 81.5,
+      "quantity": 74.5,
       "unit": "Grams",
       "strainName": "Gush Mints TC",
       "strainType": null,
@@ -45207,7 +45264,7 @@
         {
           "id": 8974575,
           "label": "1A40303000001F5000428948",
-          "quantity": 81.5,
+          "quantity": 74.5,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
