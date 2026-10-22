@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T19:10:03.058366+00:00",
+  "generated_at": "2026-10-22T19:20:03.029871+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10895,7 +10895,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10936,7 +10936,7 @@
         {
           "id": 9030586,
           "label": "1A4030300000C83000082167",
-          "quantity": 11.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-22",
           "expirationDate": "2027-08-17"
         }
@@ -11532,6 +11532,134 @@
       "medSalePrice": 22.5,
       "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4517591",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9166219,
+      "packageCount": 1,
+      "name": "Beezle Honeycomb Collection - Bay Area Seasoning - 5mg - 20",
+      "brand": "Beezle",
+      "producer": "Pro Green Medical",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.516,
+        "totalCBD": 0.0,
+        "CBC": 0.013,
+        "CBDA": 0.0,
+        "CBDV": 0.001,
+        "CBG": 0.014,
+        "CBGA": 0.0,
+        "CBN": 0.005,
+        "THCA": 0.0,
+        "THCV": 0.005
+      },
+      "dose": {
+        "servingSize": "1g",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 5.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.13,
+          "CBDA": 0.0,
+          "CBDV": 0.01,
+          "CBG": 0.14,
+          "CBGA": 0.0,
+          "CBN": 0.05,
+          "THCA": 0.0,
+          "THCV": 0.05
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9166219,
+          "label": "1A403030000283D000064190",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-10-19"
+        }
+      ],
+      "price": 18.0,
+      "medPrice": 18.0,
+      "salePrice": 13.5,
+      "medSalePrice": 13.5,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9166187,
+      "packageCount": 1,
+      "name": "Beezle Honeycomb Collection - Cajun Kick - 5mg - 20",
+      "brand": "Beezle",
+      "producer": "Pro Green Medical",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.47,
+        "CBC": 0.008,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.017,
+        "CBGA": 0.0,
+        "CBN": 0.003,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1g",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 5.0,
+        "minorsMgPerServing": {
+          "CBC": 0.08,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.17,
+          "CBGA": 0.0,
+          "CBN": 0.03,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9166187,
+          "label": "1A403030000283D000064191",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-10-02"
+        }
+      ],
+      "price": 18.0,
+      "medPrice": 18.0,
+      "salePrice": 13.5,
+      "medSalePrice": 13.5,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -24532,7 +24660,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -24573,7 +24701,7 @@
         {
           "id": 9124804,
           "label": "1A4030300003522000219702",
-          "quantity": 15.0,
+          "quantity": 13.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-19"
         }
@@ -29483,7 +29611,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "Head Hunter",
       "strainType": null,
@@ -29516,7 +29644,7 @@
         {
           "id": 8946491,
           "label": "1A4030300004845000041484",
-          "quantity": 24.0,
+          "quantity": 20.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-25"
         }
@@ -31507,7 +31635,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 70.0,
+      "quantity": 66.5,
       "unit": "Grams",
       "strainName": "Animal Face",
       "strainType": null,
@@ -31540,7 +31668,7 @@
         {
           "id": 9126259,
           "label": "1A40303000001F5000458209",
-          "quantity": 70.0,
+          "quantity": 66.5,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-19"
         }
@@ -37172,7 +37300,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 20.0,
       "unit": "Each",
@@ -38563,7 +38691,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Super Gremlin",
       "strainType": null,
@@ -38597,7 +38725,7 @@
         {
           "id": 9097466,
           "label": "1A403030000025B000092029",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-10-02",
           "expirationDate": "2027-09-13"
         }
@@ -44905,7 +45033,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 188.54,
+      "quantity": 185.04,
       "unit": "Grams",
       "strainName": "the crazy lady- BLVCK MRKT",
       "strainType": null,
@@ -44938,7 +45066,7 @@
         {
           "id": 9028007,
           "label": "1A40303000040D9000006248",
-          "quantity": 188.54,
+          "quantity": 185.04,
           "packagedDate": "2026-09-21",
           "expirationDate": null
         }
