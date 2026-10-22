@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T23:30:02.662869+00:00",
+  "generated_at": "2026-10-22T23:40:02.605757+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -15630,7 +15630,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15678,7 +15678,7 @@
         {
           "id": 8274960,
           "label": "1A4030300000C83000061503",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-04-02",
           "expirationDate": "2027-03-02"
         }
@@ -16030,7 +16030,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16071,7 +16071,7 @@
         {
           "id": 8974908,
           "label": "1A4030300000C83000081724",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-04-01"
         }
@@ -28252,7 +28252,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 101.5,
+      "quantity": 98.0,
       "unit": "Grams",
       "strainName": "Cadillac Rainbows",
       "strainType": null,
@@ -28286,7 +28286,7 @@
         {
           "id": 9117290,
           "label": "1A4030300004845000048445",
-          "quantity": 101.5,
+          "quantity": 98.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-08-06"
         }
@@ -30263,7 +30263,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 154.0,
+      "quantity": 150.5,
       "unit": "Grams",
       "strainName": "Banana Acai Mints",
       "strainType": null,
@@ -30297,7 +30297,7 @@
         {
           "id": 8518877,
           "label": "1A40303000007D1000064415",
-          "quantity": 154.0,
+          "quantity": 150.5,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-05-18"
         }
@@ -37945,46 +37945,44 @@
     },
     {
       "id": 9111207,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Kaviar Mini Pre-rolls (Sativa)-5x0.6g",
       "brand": "Kaviar",
       "producer": "Curio Manufacturing",
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 31.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 36.5,
-        "CBC": 0.39,
+        "totalTHC": 40.46,
+        "CBC": 0.46,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.84,
-        "CBGA": 0.41,
-        "CBN": 0.2,
-        "THCA": 13.97,
-        "THCV": 0.17
+        "CBG": 0.99,
+        "CBGA": 0.78,
+        "CBN": 0.43,
+        "THCA": 18.29,
+        "THCV": 0.16
       },
       "dose": null,
       "terpenes": {
-        "bisabolol": 0.07,
-        "humulene": 0.08,
-        "myrcene": 0.09,
-        "alpha-pinene": 0.07,
-        "caryophyllene": 0.29,
-        "eudesmol": 0.11,
-        "beta-pinene": 0.05,
-        "limonene": 0.28,
-        "linalool": 0.16,
-        "terpinolene": 0.08
+        "bisabolol": 0.08,
+        "humulene": 0.17,
+        "myrcene": 0.14,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.5,
+        "beta-pinene": 0.04,
+        "limonene": 0.22,
+        "linalool": 0.15,
+        "terpinolene": 0.04
       },
-      "totalTerps": 1.47,
+      "totalTerps": 1.5,
       "dominantTerpene": "caryophyllene",
       "packages": [
         {
@@ -37993,13 +37991,6 @@
           "quantity": 30.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-07-30"
-        },
-        {
-          "id": 8952841,
-          "label": "1A403030000012D000265619",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-03",
-          "expirationDate": "2027-06-17"
         }
       ],
       "price": 50.0,
@@ -44948,7 +44939,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 150.04,
+      "quantity": 136.04,
       "unit": "Grams",
       "strainName": "the crazy lady- BLVCK MRKT",
       "strainType": null,
@@ -44981,7 +44972,7 @@
         {
           "id": 9028007,
           "label": "1A40303000040D9000006248",
-          "quantity": 150.04,
+          "quantity": 136.04,
           "packagedDate": "2026-09-21",
           "expirationDate": null
         }
@@ -45061,7 +45052,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 67.5,
+      "quantity": 60.5,
       "unit": "Grams",
       "strainName": "Gush Mints TC",
       "strainType": null,
@@ -45091,7 +45082,7 @@
         {
           "id": 8974575,
           "label": "1A40303000001F5000428948",
-          "quantity": 67.5,
+          "quantity": 60.5,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -56947,7 +56938,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Durban Poison",
       "strainType": null,
@@ -56979,7 +56970,7 @@
         {
           "id": 8939337,
           "label": "1A4030300003522000210565",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-31"
         }
