@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T20:20:02.544839+00:00",
+  "generated_at": "2026-10-22T20:30:03.433387+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -13747,7 +13747,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13786,7 +13786,7 @@
         {
           "id": 9013416,
           "label": "1A403030000012D000267199",
-          "quantity": 14.0,
+          "quantity": 12.0,
           "packagedDate": "2026-09-17",
           "expirationDate": "2027-07-30"
         }
@@ -25119,16 +25119,17 @@
     },
     {
       "id": 8953583,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "WYLD EB Gummies-10mg-10",
       "brand": "WYLD",
       "producer": "Bouquet Labs",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -25170,6 +25171,13 @@
           "quantity": 9.0,
           "packagedDate": "2026-09-03",
           "expirationDate": "2027-08-25"
+        },
+        {
+          "id": 9111308,
+          "label": "1A403030000390D000073573",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-09-15"
         }
       ],
       "price": 26.0,
@@ -26741,7 +26749,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "Brownie Scout",
       "strainType": "Indica",
@@ -26776,7 +26784,7 @@
         {
           "id": 9075613,
           "label": "1A40303000003EA000260951",
-          "quantity": 24.5,
+          "quantity": 21.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-14"
         }
@@ -28017,7 +28025,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 105.0,
+      "quantity": 101.5,
       "unit": "Grams",
       "strainName": "Cadillac Rainbows",
       "strainType": null,
@@ -28051,7 +28059,7 @@
         {
           "id": 9117290,
           "label": "1A4030300004845000048445",
-          "quantity": 105.0,
+          "quantity": 101.5,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-08-06"
         }
@@ -28191,7 +28199,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "LA Pop Rocks",
       "strainType": null,
@@ -28226,7 +28234,7 @@
         {
           "id": 9002391,
           "label": "1A4030300004845000044233",
-          "quantity": 24.5,
+          "quantity": 21.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-07-02"
         }
@@ -40434,7 +40442,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 10.5,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -40467,7 +40475,7 @@
         {
           "id": 9097323,
           "label": "1A40303000000CB000055221",
-          "quantity": 14.0,
+          "quantity": 10.5,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-02"
         }
@@ -44935,7 +44943,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 185.04,
+      "quantity": 181.54,
       "unit": "Grams",
       "strainName": "the crazy lady- BLVCK MRKT",
       "strainType": null,
@@ -44968,7 +44976,7 @@
         {
           "id": 9028007,
           "label": "1A40303000040D9000006248",
-          "quantity": 185.04,
+          "quantity": 181.54,
           "packagedDate": "2026-09-21",
           "expirationDate": null
         }
@@ -44992,7 +45000,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.96,
+      "quantity": 20.46,
       "unit": "Grams",
       "strainName": "GMO x Skywalker OG",
       "strainType": null,
@@ -45024,7 +45032,7 @@
         {
           "id": 8974649,
           "label": "1A40303000001F5000428947",
-          "quantity": 23.96,
+          "quantity": 20.46,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
@@ -45048,7 +45056,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 141.0,
+      "quantity": 137.5,
       "unit": "Grams",
       "strainName": "Gush Mints TC",
       "strainType": null,
@@ -45078,7 +45086,7 @@
         {
           "id": 8974575,
           "label": "1A40303000001F5000428948",
-          "quantity": 141.0,
+          "quantity": 137.5,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
