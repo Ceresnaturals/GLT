@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T15:40:03.533171+00:00",
+  "generated_at": "2026-10-22T15:50:03.443403+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -16614,71 +16614,6 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8814673,
-      "packageCount": 1,
-      "name": "Discos - Wild Cherriezzz 5:4:1 (CBD:THC:CBN) - 40mg - 10",
-      "brand": null,
-      "producer": "Evermore Cannabis",
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.7,
-        "totalCBD": 0.89,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.18,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 each, 10 servings per package",
-        "totalThcMg": 400.0,
-        "thcMgPerServing": 40.0,
-        "minorsMgPerServing": {
-          "totalCBD": 53.4,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 10.8,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8814673,
-          "label": "1A4030300000C83000080558",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-04",
-          "expirationDate": "2027-07-01"
-        }
-      ],
-      "price": 40.0,
-      "medPrice": 40.0,
-      "salePrice": 30.0,
-      "medSalePrice": 30.0,
-      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4537774",
-      "posCategory": "Edibles"
-    },
-    {
       "id": 8671890,
       "packageCount": 1,
       "name": "Discos Cups - Dark Chocolate Peanut Butter - 10mg - 10",
@@ -17862,7 +17797,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17901,7 +17836,7 @@
         {
           "id": 9114118,
           "label": "1A40303000017D5000110051",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-09-08"
         }
@@ -17925,7 +17860,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17964,7 +17899,7 @@
         {
           "id": 9114121,
           "label": "1A40303000017D5000110052",
-          "quantity": 7.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-08-26"
         }
@@ -21108,7 +21043,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21149,7 +21084,7 @@
         {
           "id": 9124536,
           "label": "1A4030300003522000219684",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-02"
         }
@@ -22289,7 +22224,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 30.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22337,7 +22272,7 @@
         {
           "id": 8891522,
           "label": "1A40303000003EA000205084",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-06-15"
         }
@@ -26397,7 +26332,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -26438,7 +26373,7 @@
         {
           "id": 8820337,
           "label": "1A4030300002199000058517",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-05-20",
           "expirationDate": "2027-05-20"
         }
@@ -26453,17 +26388,16 @@
     },
     {
       "id": 9097610,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Wana | Edibles | Soft Lozenges | Quick Italian Lemon Cream Hybrid - 10mg - 10pk",
       "brand": "Wana",
       "producer": "HMS Processing",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -26505,13 +26439,6 @@
           "quantity": 20.0,
           "packagedDate": "2026-09-18",
           "expirationDate": "2027-09-18"
-        },
-        {
-          "id": 8686399,
-          "label": "1A4030300002199000056244",
-          "quantity": 2.0,
-          "packagedDate": "2026-04-22",
-          "expirationDate": "2027-04-22"
         }
       ],
       "pick": 201,
@@ -31775,7 +31702,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 343.12,
+      "quantity": 332.62,
       "unit": "Grams",
       "strainName": "Peanut Glue",
       "strainType": null,
@@ -31808,7 +31735,7 @@
         {
           "id": 7945159,
           "label": "1A4030300002E7E000016876",
-          "quantity": 343.12,
+          "quantity": 332.62,
           "packagedDate": "2026-01-13",
           "expirationDate": "2027-01-13"
         }
@@ -32977,65 +32904,6 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4725690",
-      "posCategory": "Pre-Packed Flower"
-    },
-    {
-      "id": 9053159,
-      "packageCount": 1,
-      "name": "Sergeant Strawberry Flower 3.5g",
-      "brand": null,
-      "producer": "Trulieve MD Cultivation",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "Sgt Strawberry",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 26.22,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 2.05,
-        "CBN": 0.0,
-        "THCA": 28.93,
-        "THCV": 0.14
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.07,
-        "humulene": 0.12,
-        "myrcene": 0.28,
-        "alpha-pinene": 0.11,
-        "caryophyllene": 0.34,
-        "beta-pinene": 0.13,
-        "ocimene": 0.58,
-        "limonene": 0.45,
-        "linalool": 0.11,
-        "terpinolene": 0.66
-      },
-      "totalTerps": 3.07,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 9053159,
-          "label": "1A40303000000C9000172966",
-          "quantity": 3.5,
-          "packagedDate": "2026-09-25",
-          "expirationDate": "2027-09-15"
-        }
-      ],
-      "price": 25.0,
-      "medPrice": 25.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4733992",
       "posCategory": "Pre-Packed Flower"
     },
     {
