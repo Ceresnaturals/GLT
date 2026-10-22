@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:40:05.013235+00:00",
+  "generated_at": "2026-10-22T21:50:03.600804+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11733,7 +11733,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11774,7 +11774,7 @@
         {
           "id": 9066623,
           "label": "1A4030300003522000215103",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-09-16"
         }
@@ -11991,7 +11991,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12030,7 +12030,7 @@
         {
           "id": 8996071,
           "label": "1A4030300003522000211312",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-09-03"
         }
@@ -16436,7 +16436,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16477,7 +16477,7 @@
         {
           "id": 9122463,
           "label": "1A4030300000C83000082964",
-          "quantity": 23.0,
+          "quantity": 20.0,
           "packagedDate": "2026-10-12",
           "expirationDate": "2027-09-14"
         }
@@ -27057,7 +27057,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 17.5,
       "unit": "Grams",
       "strainName": "Brownie Scout",
       "strainType": "Indica",
@@ -27092,7 +27092,7 @@
         {
           "id": 9075613,
           "label": "1A40303000003EA000260951",
-          "quantity": 21.0,
+          "quantity": 17.5,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-14"
         }
@@ -31217,7 +31217,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 73.5,
+      "quantity": 66.5,
       "unit": "Grams",
       "strainName": "Double Krush",
       "strainType": null,
@@ -31251,7 +31251,7 @@
         {
           "id": 9066057,
           "label": "1A4030300003521000058692",
-          "quantity": 73.5,
+          "quantity": 66.5,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-08-22"
         }
@@ -36421,7 +36421,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 27.5,
+      "quantity": 25.0,
       "unit": "Grams",
       "strainName": "Grape Dosi",
       "strainType": null,
@@ -36455,7 +36455,7 @@
         {
           "id": 9062269,
           "label": "1A4030300004845000045954",
-          "quantity": 27.5,
+          "quantity": 25.0,
           "packagedDate": "2026-09-22",
           "expirationDate": "2027-09-22"
         }
@@ -37232,7 +37232,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 26.25,
       "unit": "Grams",
       "strainName": "Gogurtz",
       "strainType": null,
@@ -37265,7 +37265,7 @@
         {
           "id": 9100058,
           "label": "1A40303000003EA000261646",
-          "quantity": 28.0,
+          "quantity": 26.25,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-05"
         }
@@ -50763,7 +50763,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Blueberry Dream",
       "strainType": null,
@@ -50792,7 +50792,7 @@
         {
           "id": 9090378,
           "label": "1A403030000012E000200833",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-10-05",
           "expirationDate": "2027-08-28"
         }
@@ -51677,7 +51677,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Gary Payton + Pomegranate",
       "strainType": null,
@@ -51709,7 +51709,7 @@
         {
           "id": 8039529,
           "label": "1A4030300002199000038844",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2025-11-13",
           "expirationDate": "2026-11-14"
         }
@@ -52784,6 +52784,123 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 9160018,
+      "packageCount": 1,
+      "name": "DBS-LvResHTEAIO-1g-GMOxRainbowBlts-I-MD (260923MED107894)-Vape",
+      "brand": null,
+      "producer": "Trulieve MD Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "DBS LvResHTEAIO GMOxRainbowBlts I MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 70.99,
+        "CBC": 0.65,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.03,
+        "CBGA": 1.38,
+        "CBN": 0.21,
+        "THCA": 1.11,
+        "THCV": 0.59
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.22,
+        "humulene": 0.55,
+        "myrcene": 1.14,
+        "alpha-pinene": 0.21,
+        "caryophyllene": 1.46,
+        "beta-pinene": 0.2,
+        "limonene": 2.38,
+        "linalool": 0.62,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 7.59,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9160018,
+          "label": "1A403030000238D000109681",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-20",
+          "expirationDate": "2027-09-29"
+        }
+      ],
+      "price": 50.0,
+      "medPrice": 50.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 9019853,
+      "packageCount": 1,
+      "name": "DBS-LvResHTEAIO-1g-JckHrrxDogWlker-S-MD (260911MED107232)-Vape",
+      "brand": null,
+      "producer": "Trulieve MD Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 6.0,
+      "unit": "Each",
+      "strainName": "DBS LvResHTEAIO JckHrrxDogWlker S MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 73.32,
+        "CBC": 0.62,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.75,
+        "CBGA": 0.0,
+        "CBN": 0.21,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.14,
+        "humulene": 0.41,
+        "myrcene": 0.66,
+        "alpha-pinene": 0.26,
+        "caryophyllene": 1.43,
+        "beta-pinene": 0.32,
+        "ocimene": 1.36,
+        "limonene": 0.41,
+        "linalool": 0.29,
+        "terpinolene": 3.85
+      },
+      "totalTerps": 9.65,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9019853,
+          "label": "1A403030000238D000107835",
+          "quantity": 6.0,
+          "packagedDate": "2026-09-18",
+          "expirationDate": "2027-09-15"
+        }
+      ],
+      "price": 50.0,
+      "medPrice": 50.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
       "id": 8938649,
       "packageCount": 1,
       "name": "DBS-LvResHTEAIO-1g-LmnZxLmnTr-S-MD (260820MED106137)-Vape",
@@ -52835,6 +52952,64 @@
       ],
       "price": null,
       "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 9160168,
+      "packageCount": 1,
+      "name": "DBS-LvResHTEAIO-1g-LmnZxLmnTr-S-MD (260909MED107226)-Vape",
+      "brand": null,
+      "producer": "Trulieve MD Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "DBS LvResHTEAIO LmnZxLmnTr S MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 70.17,
+        "CBC": 0.76,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.17,
+        "CBGA": 1.22,
+        "CBN": 0.16,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.33,
+        "humulene": 0.39,
+        "myrcene": 1.53,
+        "alpha-pinene": 0.29,
+        "caryophyllene": 1.55,
+        "beta-pinene": 0.23,
+        "limonene": 3.09,
+        "linalool": 0.41,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 8.68,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9160168,
+          "label": "1A403030000238D000109775",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-20",
+          "expirationDate": "2027-09-15"
+        }
+      ],
+      "price": 50.0,
+      "medPrice": 50.0,
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
@@ -59868,7 +60043,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Lemon Fresh",
       "strainType": "Sativa",
@@ -59902,7 +60077,7 @@
         {
           "id": 7940015,
           "label": "1A40303000003EA000140860",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-01-12",
           "expirationDate": "2026-11-25"
         }
@@ -61925,7 +62100,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": null,
@@ -61958,7 +62133,7 @@
         {
           "id": 9139003,
           "label": "1A403030000283D000058457",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-07-14"
         }
@@ -61982,7 +62157,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "White Widow",
       "strainType": null,
@@ -62017,7 +62192,7 @@
         {
           "id": 9074354,
           "label": "1A403030000283D000059492",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-06-26"
         }
