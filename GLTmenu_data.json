@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T19:50:02.668419+00:00",
+  "generated_at": "2026-10-22T20:00:05.917573+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -21267,7 +21267,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -35214,7 +35214,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 34.0,
+      "quantity": 32.0,
       "unit": "Grams",
       "strainName": "Commerce City Kush",
       "strainType": null,
@@ -35245,7 +35245,7 @@
         {
           "id": 9073208,
           "label": "1A40303000001F5000453100",
-          "quantity": 34.0,
+          "quantity": 32.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-05-20"
         }
@@ -48797,6 +48797,125 @@
       "posCategory": "Disposables"
     },
     {
+      "id": 9166217,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Banana Belts - 1g",
+      "brand": "Beezle",
+      "producer": "Pro Green Medical",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Banana Belts",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.57,
+        "CBC": 0.89,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.49,
+        "CBGA": 0.0,
+        "CBN": 0.77,
+        "THCA": 0.0,
+        "THCV": 0.4
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.12,
+        "myrcene": 0.31,
+        "alpha-pinene": 0.29,
+        "caryophyllene": 0.82,
+        "beta-pinene": 0.18,
+        "ocimene": 0.09,
+        "limonene": 1.35,
+        "linalool": 0.29,
+        "nerolidol": 0.08
+      },
+      "totalTerps": 3.76,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9166217,
+          "label": "1A403030000283D000064188",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-07-30"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9166218,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Chem Cookies - 1g",
+      "brand": "Beezle",
+      "producer": "Pro Green Medical",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Chem Cookies",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 79.01,
+        "CBC": 1.11,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.78,
+        "CBGA": 0.0,
+        "CBN": 0.58,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.69,
+        "humulene": 0.1,
+        "myrcene": 0.59,
+        "alpha-pinene": 0.32,
+        "caryophyllene": 0.73,
+        "eudesmol": 0.49,
+        "beta-pinene": 0.21,
+        "caryophyllene-oxide": 0.25,
+        "ocimene": 0.63,
+        "limonene": 1.52,
+        "linalool": 0.26,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 6.32,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9166218,
+          "label": "1A403030000283D000064189",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-06-19"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 9107048,
       "packageCount": 1,
       "name": "Beezle - Buzz Vape - Citrus Sap - 0.5g",
@@ -48911,6 +49030,65 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4517577",
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9166185,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Gastro Pop - 0.5g",
+      "brand": "Beezle",
+      "producer": "Pro Green Medical",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Gastro Pop",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.98,
+        "CBC": 0.97,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.96,
+        "CBGA": 0.0,
+        "CBN": 0.41,
+        "THCA": 0.0,
+        "THCV": 0.87
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.26,
+        "humulene": 0.08,
+        "myrcene": 0.74,
+        "alpha-pinene": 0.28,
+        "caryophyllene": 0.33,
+        "beta-pinene": 0.16,
+        "limonene": 1.87,
+        "linalool": 0.36,
+        "terpinolene": 0.04,
+        "nerolidol": 0.1
+      },
+      "totalTerps": 4.34,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9166185,
+          "label": "1A403030000283D000064186",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-07-29"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Cartridges"
     },
     {
@@ -49259,6 +49437,122 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174169",
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9166216,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Snoop OG - 1g",
+      "brand": "Beezle",
+      "producer": "Pro Green Medical",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Snoop OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 81.13,
+        "CBC": 1.05,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.67,
+        "CBGA": 0.0,
+        "CBN": 0.57,
+        "THCA": 0.0,
+        "THCV": 0.67
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.58,
+        "humulene": 0.11,
+        "myrcene": 0.69,
+        "alpha-pinene": 0.2,
+        "caryophyllene": 0.94,
+        "eudesmol": 0.43,
+        "beta-pinene": 0.16,
+        "ocimene": 0.75,
+        "limonene": 1.05,
+        "linalool": 0.3
+      },
+      "totalTerps": 5.62,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9166216,
+          "label": "1A403030000283D000064187",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-10-16"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9166214,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Sourene - 0.5g",
+      "brand": "Beezle",
+      "producer": "Pro Green Medical",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Sourene",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.91,
+        "CBC": 0.77,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.59,
+        "CBGA": 0.0,
+        "CBN": 0.87,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.16,
+        "myrcene": 0.83,
+        "alpha-pinene": 0.51,
+        "caryophyllene": 0.32,
+        "beta-pinene": 0.25,
+        "ocimene": 0.91,
+        "limonene": 2.2,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 5.36,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9166214,
+          "label": "1A403030000283D000064185",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-08-06"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Cartridges"
     },
     {
