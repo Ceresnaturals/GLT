@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:30:02.967379+00:00",
+  "generated_at": "2026-10-22T21:40:05.013235+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11863,7 +11863,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11904,7 +11904,7 @@
         {
           "id": 8882300,
           "label": "1A4030300003522000202250",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-05-14"
         }
@@ -12638,7 +12638,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12677,7 +12677,7 @@
         {
           "id": 9124095,
           "label": "1A4030300003522000219672",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-12"
         }
@@ -15318,7 +15318,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15359,7 +15359,7 @@
         {
           "id": 8999082,
           "label": "1A4030300000C83000081941",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-04"
         }
@@ -17989,7 +17989,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18035,7 +18035,7 @@
         {
           "id": 9113928,
           "label": "1A40303000017D5000110053",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-07-28"
         }
@@ -28448,7 +28448,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 3.5,
       "unit": "Grams",
       "strainName": "Garlic Cherry Gelato",
       "strainType": null,
@@ -28483,7 +28483,7 @@
         {
           "id": 9002411,
           "label": "1A4030300004845000044232",
-          "quantity": 7.0,
+          "quantity": 3.5,
           "packagedDate": "2026-07-17",
           "expirationDate": "2027-07-17"
         }
@@ -29771,7 +29771,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 168.0,
+      "quantity": 154.0,
       "unit": "Grams",
       "strainName": "Sequoia Strawberry",
       "strainType": null,
@@ -29804,7 +29804,7 @@
         {
           "id": 9123983,
           "label": "1A4030300003521000062074",
-          "quantity": 168.0,
+          "quantity": 154.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-10"
         }
@@ -31498,7 +31498,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 300.62,
+      "quantity": 297.12,
       "unit": "Grams",
       "strainName": "Peanut Glue",
       "strainType": null,
@@ -31531,7 +31531,7 @@
         {
           "id": 7945159,
           "label": "1A4030300002E7E000016876",
-          "quantity": 300.62,
+          "quantity": 297.12,
           "packagedDate": "2026-01-13",
           "expirationDate": "2027-01-13"
         }
@@ -36301,7 +36301,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 30.0,
+      "quantity": 29.0,
       "unit": "Grams",
       "strainName": "Blue Blockers",
       "strainType": null,
@@ -36336,7 +36336,7 @@
         {
           "id": 7828141,
           "label": "1A4030300002EE1000114725",
-          "quantity": 30.0,
+          "quantity": 29.0,
           "packagedDate": "2025-12-03",
           "expirationDate": "2026-11-28"
         }
@@ -36829,7 +36829,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Bomb Popz",
       "strainType": null,
@@ -36862,7 +36862,7 @@
         {
           "id": 8840301,
           "label": "1A4030300004845000037836",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-07-31",
           "expirationDate": "2027-07-30"
         }
@@ -38212,16 +38212,17 @@
     },
     {
       "id": 7937278,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Khalifa Kush Preroll 1g",
       "brand": null,
       "producer": "Trulieve MD Cultivation",
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 54.0,
       "unit": "Grams",
       "strainName": "Khalifa Kush",
       "strainType": null,
@@ -38257,6 +38258,13 @@
           "quantity": 4.0,
           "packagedDate": "2026-01-12",
           "expirationDate": "2026-12-22"
+        },
+        {
+          "id": 9013267,
+          "label": "1A40303000000C9000172075",
+          "quantity": 50.0,
+          "packagedDate": "2026-09-17",
+          "expirationDate": "2027-08-30"
         }
       ],
       "price": 15.0,
@@ -40693,7 +40701,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.5,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -40726,7 +40734,7 @@
         {
           "id": 9097323,
           "label": "1A40303000000CB000055221",
-          "quantity": 10.5,
+          "quantity": 7.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-02"
         }
@@ -46110,7 +46118,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Honeydew",
       "strainType": null,
@@ -46140,7 +46148,7 @@
         {
           "id": 9018107,
           "label": "1A40303000017D5000107146",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-09-02"
         }
@@ -46327,17 +46335,128 @@
       "posCategory": "Disposables"
     },
     {
-      "id": 8190147,
+      "id": 8238847,
       "packageCount": 1,
+      "name": "1g_Co2lors_AIO_Blueberry (260317MED092778)",
+      "brand": null,
+      "producer": "Trulieve MD Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Blueberry",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 81.77,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.05,
+        "CBGA": 0.0,
+        "CBN": 0.25,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "alpha-pinene": 5.73,
+        "caryophyllene": 0.25,
+        "beta-pinene": 0.62,
+        "linalool": 0.4
+      },
+      "totalTerps": 7.22,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 8238847,
+          "label": "1A403030000238D000094226",
+          "quantity": 12.0,
+          "packagedDate": "2026-03-24",
+          "expirationDate": "2027-03-22"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 8189787,
+      "packageCount": 1,
+      "name": "1g_Co2lors_AIO_Grape Dreams (260303MED091393)",
+      "brand": null,
+      "producer": "Trulieve MD Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Grape Dreams",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.5,
+        "CBC": 0.47,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.91,
+        "CBGA": 0.0,
+        "CBN": 0.39,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.36,
+        "myrcene": 0.3,
+        "alpha-pinene": 0.28,
+        "caryophyllene": 0.41,
+        "beta-pinene": 0.19,
+        "limonene": 1.17,
+        "linalool": 0.29,
+        "nerolidol": 0.33
+      },
+      "totalTerps": 3.33,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8189787,
+          "label": "1A403030000238D000092046",
+          "quantity": 12.0,
+          "packagedDate": "2026-03-12",
+          "expirationDate": "2027-03-08"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 8190147,
+      "packageCount": 2,
       "name": "1g_Co2lors_AIO_Strawberry Lemonade (260303MED091396)",
       "brand": null,
       "producer": "Trulieve MD Processing",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Strawberry Lemonade",
       "strainType": null,
@@ -46367,6 +46486,13 @@
           "id": 8190147,
           "label": "1A403030000238D000092089",
           "quantity": 1.0,
+          "packagedDate": "2026-03-12",
+          "expirationDate": "2027-03-08"
+        },
+        {
+          "id": 8190155,
+          "label": "1A403030000238D000092097",
+          "quantity": 12.0,
           "packagedDate": "2026-03-12",
           "expirationDate": "2027-03-08"
         }
@@ -50902,6 +51028,64 @@
       "posCategory": "Disposables"
     },
     {
+      "id": 8464607,
+      "packageCount": 1,
+      "name": "COL-BDTAIO-1g-SweetMelon-H-MD (260505MED098900)-Vape",
+      "brand": null,
+      "producer": "Trulieve MD Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "COL BDTAIO SweetMelon H MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.02,
+        "CBC": 0.46,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.54,
+        "CBGA": 0.0,
+        "CBN": 0.22,
+        "THCA": 0.0,
+        "THCV": 1.43
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.16,
+        "humulene": 0.06,
+        "myrcene": 0.12,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 0.26,
+        "beta-pinene": 0.11,
+        "limonene": 0.55,
+        "linalool": 0.25,
+        "nerolidol": 0.29
+      },
+      "totalTerps": 1.97,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8464607,
+          "label": "1A403030000238D000099576",
+          "quantity": 12.0,
+          "packagedDate": "2026-05-15",
+          "expirationDate": "2027-05-10"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
       "id": 8063408,
       "packageCount": 1,
       "name": "Cereal Milk Cartridge (Live Resin) - Rythm (Hybrid) - 500mg",
@@ -55431,7 +55615,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": "Grow West Cherry AK Liquid",
       "strainType": null,
@@ -55464,7 +55648,7 @@
         {
           "id": 9121692,
           "label": "1A40303000039D1000086438",
-          "quantity": 27.0,
+          "quantity": 26.0,
           "packagedDate": "2026-10-12",
           "expirationDate": "2027-08-27"
         }
@@ -55488,7 +55672,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": "Grow West DogWalker LR",
       "strainType": null,
@@ -55524,7 +55708,7 @@
         {
           "id": 9121695,
           "label": "1A40303000039D1000086269",
-          "quantity": 26.0,
+          "quantity": 25.0,
           "packagedDate": "2026-10-12",
           "expirationDate": "2027-09-05"
         }
