@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T19:40:02.879409+00:00",
+  "generated_at": "2026-10-22T19:50:02.668419+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -25182,16 +25182,17 @@
     },
     {
       "id": 8875133,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "WYLD GF Gummies-10mg-10",
       "brand": "WYLD",
       "producer": "Bouquet Labs",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -25233,6 +25234,13 @@
           "quantity": 2.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-08-09"
+        },
+        {
+          "id": 9116399,
+          "label": "1A403030000390D000073658",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-09",
+          "expirationDate": "2027-09-27"
         }
       ],
       "price": 26.0,
@@ -35553,7 +35561,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "Grapes of Wrath",
       "strainType": null,
@@ -35587,7 +35595,7 @@
         {
           "id": 9142949,
           "label": "1A403030000012D000276058",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-06-05"
         }
@@ -35841,63 +35849,6 @@
       "posCategory": "Pre-Rolls"
     },
     {
-      "id": 9111156,
-      "packageCount": 1,
-      "name": "Curio Wellness Shortcake Pre-rolls-usable-2x0.5g",
-      "brand": "Curio Wellness",
-      "producer": "Curio Manufacturing",
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Grams",
-      "strainName": "Shortcake",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 25.03,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.69,
-        "CBN": 0.0,
-        "THCA": 28.33,
-        "THCV": 0.1
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.14,
-        "myrcene": 0.05,
-        "alpha-pinene": 0.07,
-        "caryophyllene": 0.44,
-        "beta-pinene": 0.1,
-        "limonene": 0.74,
-        "linalool": 0.33,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 2.16,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 9111156,
-          "label": "1A403030000012D000275061",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-08",
-          "expirationDate": "2027-08-12"
-        }
-      ],
-      "price": 10.0,
-      "medPrice": 10.0,
-      "salePrice": 7.0,
-      "medSalePrice": 7.0,
-      "deal": "Therapeutic Thursday! 30% off Curio Brands",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4484449",
-      "posCategory": "Pre-Rolls"
-    },
-    {
       "id": 9079417,
       "packageCount": 1,
       "name": "Curio Wellness Thrive Infused Pre-rolls-2x0.5g",
@@ -35969,7 +35920,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Grams",
       "strainName": "White Truffle",
       "strainType": null,
@@ -36002,7 +35953,7 @@
         {
           "id": 9142855,
           "label": "1A403030000012D000276056",
-          "quantity": 27.0,
+          "quantity": 26.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-05-21"
         }
