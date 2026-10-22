@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T20:00:05.917573+00:00",
+  "generated_at": "2026-10-22T20:10:02.957514+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3248,7 +3248,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Fried Ice Cream",
       "strainType": null,
@@ -3286,7 +3286,7 @@
         {
           "id": 8634224,
           "label": "1A4030300004845000028659",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-06-15",
           "expirationDate": "2027-03-11"
         }
@@ -9228,7 +9228,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Z",
       "strainType": null,
@@ -9262,7 +9262,7 @@
         {
           "id": 9128277,
           "label": "1A4030300000C83000042039",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-10-05"
         }
@@ -25253,16 +25253,17 @@
     },
     {
       "id": 9004071,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "WYLD SA Gummies-10mg-10",
       "brand": "WYLD",
       "producer": "Bouquet Labs",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -25304,6 +25305,13 @@
           "quantity": 4.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-09-03"
+        },
+        {
+          "id": 9155468,
+          "label": "1A403030000390D000073978",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-19",
+          "expirationDate": "2027-09-21"
         }
       ],
       "price": 22.0,
@@ -27075,7 +27083,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 80.5,
+      "quantity": 77.0,
       "unit": "Grams",
       "strainName": "SCSO",
       "strainType": null,
@@ -27110,7 +27118,7 @@
         {
           "id": 9143127,
           "label": "1A40303000000CD000083156",
-          "quantity": 80.5,
+          "quantity": 77.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-09-22"
         }
@@ -31868,7 +31876,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 336.0,
+      "quantity": 308.0,
       "unit": "Grams",
       "strainName": "Sunshine #4",
       "strainType": null,
@@ -31901,7 +31909,7 @@
         {
           "id": 9073206,
           "label": "1A40303000001F5000453098",
-          "quantity": 336.0,
+          "quantity": 308.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-08-20"
         }
@@ -32039,7 +32047,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 59.5,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Grapes N Cream",
       "strainType": null,
@@ -32071,7 +32079,7 @@
         {
           "id": 9044191,
           "label": "1A4030300003A3C000091752",
-          "quantity": 59.5,
+          "quantity": 56.0,
           "packagedDate": "2026-09-14",
           "expirationDate": "2027-09-14"
         }
@@ -33191,7 +33199,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.5,
+      "quantity": 2.5,
       "unit": "Grams",
       "strainName": "Guava Cooler",
       "strainType": null,
@@ -33226,7 +33234,7 @@
         {
           "id": 9043880,
           "label": "1A4030300003A3C000091750",
-          "quantity": 7.5,
+          "quantity": 2.5,
           "packagedDate": "2026-08-24",
           "expirationDate": "2027-08-24"
         }
@@ -43872,7 +43880,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 15.0,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -43905,7 +43913,7 @@
         {
           "id": 9044301,
           "label": "1A4030300003A3C000091754",
-          "quantity": 17.5,
+          "quantity": 15.0,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-08-19"
         }
@@ -44638,7 +44646,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 336.0,
+      "quantity": 308.0,
       "unit": "Grams",
       "strainName": "Admiral Apple",
       "strainType": null,
@@ -44671,7 +44679,7 @@
         {
           "id": 8966389,
           "label": "1A40303000000C9000169571",
-          "quantity": 336.0,
+          "quantity": 308.0,
           "packagedDate": "2026-09-08",
           "expirationDate": null
         }
@@ -45040,7 +45048,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 148.0,
+      "quantity": 144.5,
       "unit": "Grams",
       "strainName": "Gush Mints TC",
       "strainType": null,
@@ -45070,7 +45078,7 @@
         {
           "id": 8974575,
           "label": "1A40303000001F5000428948",
-          "quantity": 148.0,
+          "quantity": 144.5,
           "packagedDate": "2026-09-09",
           "expirationDate": null
         }
