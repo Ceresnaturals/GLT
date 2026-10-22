@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T20:30:03.433387+00:00",
+  "generated_at": "2026-10-22T20:40:03.954442+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4403,7 +4403,7 @@
           "label": "1A4030300002199000069217",
           "quantity": 30.0,
           "packagedDate": "2026-09-21",
-          "expirationDate": null
+          "expirationDate": "2027-09-23"
         }
       ],
       "price": 65.0,
@@ -17096,7 +17096,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -17135,7 +17135,7 @@
         {
           "id": 9047753,
           "label": "1A403030000012D000267862",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-07-27"
         }
@@ -25118,6 +25118,71 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9130104,
+      "packageCount": 1,
+      "name": "WYLD BSN Gummies-10mg-10",
+      "brand": "WYLD",
+      "producer": "Bouquet Labs",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.269,
+        "totalCBD": 0.264,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.002,
+        "CBG": 0.009,
+        "CBGA": 0.0,
+        "CBN": 0.267,
+        "THCA": 0.0,
+        "THCV": 0.001
+      },
+      "dose": {
+        "servingSize": "1 gummy",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 10.56,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.08,
+          "CBG": 0.36,
+          "CBGA": 0.0,
+          "CBN": 10.68,
+          "THCA": 0.0,
+          "THCV": 0.04
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9130104,
+          "label": "1A403030000390D000073722",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-23"
+        }
+      ],
+      "price": 26.0,
+      "medPrice": 26.0,
+      "salePrice": 19.5,
+      "medSalePrice": 19.5,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 8953583,
       "packageCount": 2,
       "name": "WYLD EB Gummies-10mg-10",
@@ -25257,6 +25322,132 @@
       "medSalePrice": 19.5,
       "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4439556",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9146168,
+      "packageCount": 1,
+      "name": "WYLD PR Gummies-10mg-10",
+      "brand": "WYLD",
+      "producer": "Bouquet Labs",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.249,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.241,
+        "CBGA": 0.0,
+        "CBN": 0.003,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 gummy",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 9.64,
+          "CBGA": 0.0,
+          "CBN": 0.12,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9146168,
+          "label": "1A403030000390D000073868",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-16",
+          "expirationDate": "2027-09-13"
+        }
+      ],
+      "price": 26.0,
+      "medPrice": 26.0,
+      "salePrice": 19.5,
+      "medSalePrice": 19.5,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4175184",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9142756,
+      "packageCount": 1,
+      "name": "WYLD RB Gummies-10mg-10",
+      "brand": "WYLD",
+      "producer": "Bouquet Labs",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.262,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.008,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.002
+      },
+      "dose": {
+        "servingSize": "1 gummy",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.32,
+          "CBGA": 0.0,
+          "CBN": 0.08,
+          "THCA": 0.0,
+          "THCV": 0.08
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9142756,
+          "label": "1A403030000390D000073820",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-15",
+          "expirationDate": "2027-10-04"
+        }
+      ],
+      "price": 22.0,
+      "medPrice": 22.0,
+      "salePrice": 16.5,
+      "medSalePrice": 16.5,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
