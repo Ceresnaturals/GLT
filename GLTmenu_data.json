@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T20:30:02.669735+00:00",
+  "generated_at": "2026-10-23T20:40:04.164984+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -417,16 +417,17 @@
     },
     {
       "id": 9051791,
-      "packageCount": 2,
+      "packageCount": 4,
       "name": "RSO Capsule - 10mg - 10",
       "brand": null,
       "producer": "Maryland Compassionate Care & Wellness",
       "category": "Capsule",
       "metrcCategory": "Infused Edible (Capsule Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 49.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -475,6 +476,20 @@
           "quantity": 1.0,
           "packagedDate": "2026-06-15",
           "expirationDate": "2027-05-05"
+        },
+        {
+          "id": 9170927,
+          "label": "1A4030300000193000113048",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-22",
+          "expirationDate": "2027-09-29"
+        },
+        {
+          "id": 9170846,
+          "label": "1A4030300000193000113049",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-22",
+          "expirationDate": "2027-08-04"
         }
       ],
       "price": 20.0,
@@ -10623,7 +10638,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 48.0,
+      "quantity": 47.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10664,7 +10679,7 @@
         {
           "id": 9169021,
           "label": "1A40303000001F5000462144",
-          "quantity": 48.0,
+          "quantity": 47.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-10-07"
         }
@@ -10688,7 +10703,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10729,7 +10744,7 @@
         {
           "id": 9168947,
           "label": "1A40303000001F5000462145",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-08-27"
         }
@@ -11013,7 +11028,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11054,7 +11069,7 @@
         {
           "id": 9076226,
           "label": "1A4030300000C83000082497",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-17"
         }
@@ -11078,7 +11093,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11119,7 +11134,7 @@
         {
           "id": 9030586,
           "label": "1A4030300000C83000082167",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-22",
           "expirationDate": "2027-08-17"
         }
@@ -22096,7 +22111,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22144,7 +22159,7 @@
         {
           "id": 8970466,
           "label": "1A40303000003EA000263654",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-06-24"
         }
@@ -34542,7 +34557,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 37.5,
+      "quantity": 32.5,
       "unit": "Grams",
       "strainName": "Admiral Apple",
       "strainType": null,
@@ -34575,7 +34590,7 @@
         {
           "id": 9019207,
           "label": "1A40303000000C9000171509",
-          "quantity": 37.5,
+          "quantity": 32.5,
           "packagedDate": "2026-09-18",
           "expirationDate": "2027-08-31"
         }
@@ -42961,6 +42976,63 @@
       "posCategory": "Pre-Rolls"
     },
     {
+      "id": 9170909,
+      "packageCount": 1,
+      "name": "Ray Charles Five Pack Shorties - 2g",
+      "brand": null,
+      "producer": "Maryland Compassionate Care & Wellness",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Ray Charles",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 23.7,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.31,
+        "CBN": 0.0,
+        "THCA": 26.19,
+        "THCV": 0.16
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.04,
+        "myrcene": 1.85,
+        "alpha-pinene": 0.22,
+        "caryophyllene": 0.15,
+        "beta-pinene": 0.09,
+        "ocimene": 0.12,
+        "limonene": 0.07,
+        "linalool": 0.07
+      },
+      "totalTerps": 2.61,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9170909,
+          "label": "1A4030300000192000045355",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-22",
+          "expirationDate": "2027-09-20"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 9147812,
       "packageCount": 1,
       "name": "Red Velvet Runtz #9 Strane \"Growers Series\" - Pre-rolls - 1 g",
@@ -44626,6 +44698,63 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4697163",
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 9170910,
+      "packageCount": 1,
+      "name": "Sodiac Shorties Five Pack - 2g",
+      "brand": null,
+      "producer": "Maryland Compassionate Care & Wellness",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Sodiac",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 23.28,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.57,
+        "CBN": 0.0,
+        "THCA": 26.05,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.16,
+        "myrcene": 0.31,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.61,
+        "beta-pinene": 0.07,
+        "limonene": 0.46,
+        "linalool": 0.22
+      },
+      "totalTerps": 2.11,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9170910,
+          "label": "1A4030300000192000045356",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-22",
+          "expirationDate": "2027-09-27"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Pre-Rolls"
     },
     {
@@ -61534,7 +61663,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Black Cherry Soda",
       "strainType": null,
@@ -61568,7 +61697,7 @@
         {
           "id": 8583239,
           "label": "1A4030300003D55000006209",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-02-21"
         }
@@ -65749,7 +65878,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Pink Lemonade",
       "strainType": null,
@@ -65781,7 +65910,7 @@
         {
           "id": 9126343,
           "label": "1A40303000001F5000458223",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-24"
         }
@@ -67430,7 +67559,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Northern Lights",
       "strainType": null,
@@ -67465,7 +67594,7 @@
         {
           "id": 9124634,
           "label": "1A4030300000C83000090834",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-24"
         }
@@ -67476,64 +67605,6 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4688674",
-      "posCategory": "Cartridges"
-    },
-    {
-      "id": 9093489,
-      "packageCount": 1,
-      "name": "Rove | Live Resin Diamonds Vape Reload | Skywalker OG - I | 1.0g",
-      "brand": null,
-      "producer": "Evermore Cannabis",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Skywalker OG",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 90.046,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.449,
-        "CBGA": 0.0,
-        "CBN": 0.272,
-        "THCA": 0.0,
-        "THCV": 0.188
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.038,
-        "myrcene": 0.075,
-        "alpha-pinene": 0.032,
-        "caryophyllene": 0.18,
-        "beta-pinene": 0.072,
-        "caryophyllene-oxide": 0.042,
-        "limonene": 0.096,
-        "linalool": 0.095,
-        "nerolidol": 0.033
-      },
-      "totalTerps": 0.892,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 9093489,
-          "label": "1A4030300000C83000090122",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-06",
-          "expirationDate": "2027-09-09"
-        }
-      ],
-      "price": 65.0,
-      "medPrice": 65.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4666915",
       "posCategory": "Cartridges"
     },
     {
