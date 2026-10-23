@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:50:27.040268+00:00",
+  "generated_at": "2026-10-23T18:00:04.280819+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12361,7 +12361,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12400,7 +12400,7 @@
         {
           "id": 9124094,
           "label": "1A4030300003522000219671",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-18"
         }
@@ -17585,7 +17585,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 12.0,
       "unit": "Each",
@@ -20158,6 +20158,71 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4554628",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9124523,
+      "packageCount": 1,
+      "name": "In House Blueberry Dream Fast Acting V3 Gummies-10mg-10",
+      "brand": "In House",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.21,
+        "totalCBD": 0.27,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.11,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 13.5,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 5.5,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9124523,
+          "label": "1A4030300003522000219679",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-14"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -43459,7 +43524,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 20.0,
       "unit": "Each",
@@ -44097,7 +44162,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -44130,7 +44195,7 @@
         {
           "id": 9126341,
           "label": "1A40303000001F5000458214",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-10-08"
         }
