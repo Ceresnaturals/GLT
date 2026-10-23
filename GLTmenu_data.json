@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T18:50:03.159342+00:00",
+  "generated_at": "2026-10-23T19:00:02.872520+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4427,7 +4427,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 30.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": "Dirty Banana",
       "strainType": null,
@@ -4460,7 +4460,7 @@
         {
           "id": 9162070,
           "label": "1A4030300002199000069217",
-          "quantity": 30.0,
+          "quantity": 29.0,
           "packagedDate": "2026-09-21",
           "expirationDate": "2027-09-23"
         }
@@ -22020,23 +22020,24 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8970466,
-      "packageCount": 1,
+      "id": 9164272,
+      "packageCount": 2,
       "name": "Incredibles Gummy 100mg - Watermelon Smash-10mg-10 Pieces",
       "brand": "Incredibles",
       "producer": "Chesapeake Alternatives",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.34,
+        "totalTHC": 0.36,
         "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
@@ -22068,6 +22069,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9164272,
+          "label": "1A40303000003EA000255091",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-09-15"
+        },
         {
           "id": 8970466,
           "label": "1A40303000003EA000263654",
@@ -27892,7 +27900,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 140.0,
+      "quantity": 136.5,
       "unit": "Grams",
       "strainName": "Chesapeake Crawler",
       "strainType": null,
@@ -27926,7 +27934,7 @@
         {
           "id": 8740657,
           "label": "1A40303000000C9000163852",
-          "quantity": 140.0,
+          "quantity": 136.5,
           "packagedDate": "2026-07-17",
           "expirationDate": "2027-07-12"
         }
@@ -35743,7 +35751,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Chem de la Chem",
       "strainType": null,
@@ -35773,7 +35781,7 @@
         {
           "id": 9126344,
           "label": "1A40303000001F5000458224",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-28"
         }
@@ -45313,7 +45321,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "VelcroZ",
       "strainType": null,
@@ -45346,7 +45354,7 @@
         {
           "id": 9075609,
           "label": "1A40303000003EA000260955",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-09-01"
         }
