@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T18:30:03.343631+00:00",
+  "generated_at": "2026-10-23T18:40:03.596560+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3130,7 +3130,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "ECSD Cake",
       "strainType": null,
@@ -3164,7 +3164,7 @@
         {
           "id": 9095377,
           "label": "1A4030300000C83000090142",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-09-10"
         }
@@ -10233,7 +10233,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10274,7 +10274,7 @@
         {
           "id": 8699494,
           "label": "1A40303000001F5000401885",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-07-08",
           "expirationDate": "2027-05-05"
         }
@@ -17529,7 +17529,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17570,7 +17570,7 @@
         {
           "id": 9090331,
           "label": "1A403030000012E000200803",
-          "quantity": 12.0,
+          "quantity": 10.0,
           "packagedDate": "2026-10-05",
           "expirationDate": "2027-05-26"
         }
@@ -21816,30 +21816,31 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8944208,
-      "packageCount": 1,
+      "id": 9164273,
+      "packageCount": 2,
       "name": "Incredibles Gummy 100mg - Snoozzzeberry (5:1 THC:CBN) - 10mg - 10 Pieces",
       "brand": "Incredibles",
       "producer": "Chesapeake Alternatives",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.33,
+        "totalTHC": 0.36,
         "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.03,
+        "CBG": 0.04,
         "CBGA": 0.0,
-        "CBN": 0.06,
+        "CBN": 0.07,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -21852,9 +21853,9 @@
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.9,
+          "CBG": 1.2,
           "CBGA": 0.0,
-          "CBN": 1.8,
+          "CBN": 2.1,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -21864,6 +21865,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9164273,
+          "label": "1A40303000003EA000255092",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-08-21"
+        },
         {
           "id": 8944208,
           "label": "1A40303000003EA000264673",
@@ -29107,7 +29115,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 77.0,
+      "quantity": 73.5,
       "unit": "Grams",
       "strainName": "GLBR",
       "strainType": null,
@@ -29139,7 +29147,7 @@
         {
           "id": 9142893,
           "label": "1A40303000000CD000083158",
-          "quantity": 77.0,
+          "quantity": 73.5,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-09-21"
         }
@@ -30253,7 +30261,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 73.5,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "Georgia Mintz",
       "strainType": null,
@@ -30287,7 +30295,7 @@
         {
           "id": 9097521,
           "label": "1A403030000025B000092024",
-          "quantity": 73.5,
+          "quantity": 70.0,
           "packagedDate": "2026-09-10",
           "expirationDate": "2027-09-10"
         }
@@ -30368,7 +30376,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 73.5,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "Pink Guava",
       "strainType": null,
@@ -30400,7 +30408,7 @@
         {
           "id": 9097463,
           "label": "1A403030000025B000092025",
-          "quantity": 73.5,
+          "quantity": 70.0,
           "packagedDate": "2026-09-28",
           "expirationDate": "2027-09-28"
         }
@@ -31981,7 +31989,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 115.5,
+      "quantity": 112.0,
       "unit": "Grams",
       "strainName": "Pineapple Bang 5",
       "strainType": null,
@@ -32015,7 +32023,7 @@
         {
           "id": 9128374,
           "label": "1A40303000000CB000056059",
-          "quantity": 108.5,
+          "quantity": 105.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-20"
         },
@@ -32730,7 +32738,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 87.5,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Sunshine #4",
       "strainType": null,
@@ -32763,7 +32771,7 @@
         {
           "id": 9168805,
           "label": "1A40303000001F5000462126",
-          "quantity": 87.5,
+          "quantity": 84.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-08-04"
         }
@@ -42493,7 +42501,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -42527,7 +42535,7 @@
         {
           "id": 9128282,
           "label": "1A40303000000CB000056056",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-30"
         }
