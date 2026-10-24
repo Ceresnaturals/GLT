@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T18:50:03.106375+00:00",
+  "generated_at": "2026-10-24T19:00:03.145349+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4443,6 +4443,112 @@
       "medSalePrice": 30.0,
       "deal": "Saturdaze Delights! 25% off Concentrates",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4713800",
+      "posCategory": "Concentrate"
+    },
+    {
+      "id": 9167681,
+      "packageCount": 1,
+      "name": "K&Q|Cured THCa Isolate|McRuntz|Conncentrate|1.0g",
+      "brand": null,
+      "producer": "Marymed",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 15.0,
+      "unit": "Each",
+      "strainName": "Conncentrate",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.23,
+        "totalCBD": 0.03,
+        "CBC": 0.0,
+        "CBDA": 0.03,
+        "CBDV": 0.0,
+        "CBG": 0.07,
+        "CBGA": 0.38,
+        "CBN": 0.0,
+        "THCA": 97.71,
+        "THCV": 0.22
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.02,
+        "myrcene": 0.04,
+        "limonene": 0.15,
+        "terpinolene": 0.03
+      },
+      "totalTerps": 0.39,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9167681,
+          "label": "1A4030300002009000119435",
+          "quantity": 15.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-05-05"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": 30.0,
+      "medSalePrice": 30.0,
+      "deal": "Saturdaze Delights! 25% off Concentrates",
+      "orderUrl": null,
+      "posCategory": "Concentrate"
+    },
+    {
+      "id": 9167881,
+      "packageCount": 1,
+      "name": "K&Q|Cured THCa Isolate|Sour Dubble|Concentrate|1.0g",
+      "brand": null,
+      "producer": "Marymed",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 15.0,
+      "unit": "Each",
+      "strainName": "Sour Dubble",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.82,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.06,
+        "CBN": 0.0,
+        "THCA": 97.88,
+        "THCV": 0.45
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.02,
+        "limonene": 0.04
+      },
+      "totalTerps": 0.08,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9167881,
+          "label": "1A4030300002009000119436",
+          "quantity": 15.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-09-16"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": 30.0,
+      "medSalePrice": 30.0,
+      "deal": "Saturdaze Delights! 25% off Concentrates",
+      "orderUrl": null,
       "posCategory": "Concentrate"
     },
     {
@@ -23693,7 +23799,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23732,7 +23838,7 @@
         {
           "id": 8863974,
           "label": "1A403030000012D000260505",
-          "quantity": 6.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-06-05"
         }
@@ -26569,7 +26675,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -26610,7 +26716,7 @@
         {
           "id": 8686398,
           "label": "1A4030300002199000056242",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-05-29",
           "expirationDate": "2027-05-29"
         }
@@ -30808,7 +30914,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 108.5,
+      "quantity": 105.0,
       "unit": "Grams",
       "strainName": "Gelato Cake",
       "strainType": null,
@@ -30842,7 +30948,7 @@
         {
           "id": 8745227,
           "label": "1A40303000007D1000090208",
-          "quantity": 108.5,
+          "quantity": 105.0,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-06-23"
         }
@@ -32019,7 +32125,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 70.0,
+      "quantity": 66.5,
       "unit": "Grams",
       "strainName": "Pineapple Bang 5",
       "strainType": null,
@@ -32053,7 +32159,7 @@
         {
           "id": 9128374,
           "label": "1A40303000000CB000056059",
-          "quantity": 63.0,
+          "quantity": 59.5,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-20"
         },
@@ -64168,7 +64274,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Strawberry Jelly Disp",
       "strainType": null,
@@ -64203,7 +64309,7 @@
         {
           "id": 8828809,
           "label": "1A4030300003522000195391",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-06-14"
         }
@@ -69719,7 +69825,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Tropical Z DV",
       "strainType": null,
@@ -69755,7 +69861,7 @@
         {
           "id": 9168519,
           "label": "1A40303000001F5000462138",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-08-24"
         }
