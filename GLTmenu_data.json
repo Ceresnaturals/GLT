@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T17:30:03.094878+00:00",
+  "generated_at": "2026-10-24T17:40:04.960885+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3676,6 +3676,65 @@
       "medSalePrice": 56.25,
       "deal": "Saturdaze Delights! 25% off Concentrates",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4724954",
+      "posCategory": "Concentrate"
+    },
+    {
+      "id": 9164808,
+      "packageCount": 1,
+      "name": "Funky Lemon Cream Live Resin Cake Badder 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 40.0,
+      "unit": "Each",
+      "strainName": "Funky Lemon Cream Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 67.24,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.47,
+        "CBGA": 4.11,
+        "CBN": 0.0,
+        "THCA": 75.88,
+        "THCV": 0.47
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.15,
+        "humulene": 0.37,
+        "myrcene": 3.49,
+        "alpha-pinene": 0.65,
+        "caryophyllene": 1.2,
+        "beta-pinene": 0.39,
+        "ocimene": 0.17,
+        "limonene": 2.71,
+        "linalool": 1.01,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 10.75,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9164808,
+          "label": "1A4030300000C83000042728",
+          "quantity": 40.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-10-09"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 33.75,
+      "medSalePrice": 33.75,
+      "deal": "Saturdaze Delights! 25% off Concentrates",
+      "orderUrl": null,
       "posCategory": "Concentrate"
     },
     {
@@ -10945,6 +11004,71 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9165349,
+      "packageCount": 1,
+      "name": "Tall - Fuji Apple Pear 1:1 (THC:CBD) - 10mg - 1",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Drink",
+      "metrcCategory": "Infused Liquid Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.003,
+        "totalCBD": 0.003,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 can, 12 fl. oz.",
+        "totalThcMg": 10.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 10.206,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9165349,
+          "label": "1A4030300000C83000083241",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-09-16"
+        }
+      ],
+      "price": 6.0,
+      "medPrice": 6.0,
+      "salePrice": 4.8,
+      "medSalePrice": 4.8,
+      "deal": "Saturdaze Delights! 20% OFF Edibles",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 8909901,
       "packageCount": 1,
       "name": "Tall - Hibiscus Cherry Lime - 10mg - 1",
@@ -14321,7 +14445,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14360,7 +14484,7 @@
         {
           "id": 8926296,
           "label": "1A403030000012D000262976",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-07-14"
         }
@@ -18953,7 +19077,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18992,7 +19116,7 @@
         {
           "id": 9144878,
           "label": "1A40303000017D5000110716",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-08-05"
         }
@@ -27058,7 +27182,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 56.0,
+      "quantity": 52.5,
       "unit": "Grams",
       "strainName": "10Gs",
       "strainType": null,
@@ -27092,7 +27216,7 @@
         {
           "id": 9147596,
           "label": "1A403030000012E000205837",
-          "quantity": 56.0,
+          "quantity": 52.5,
           "packagedDate": "2026-10-16",
           "expirationDate": "2027-09-30"
         }
@@ -36617,6 +36741,63 @@
       "posCategory": "Pre-Rolls"
     },
     {
+      "id": 9164587,
+      "packageCount": 1,
+      "name": "Dirty Chimera Pre-Roll 2 Pack 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": "Dirty Chimera",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.81,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.23,
+        "CBGA": 1.11,
+        "CBN": 0.0,
+        "THCA": 28.29,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.1,
+        "myrcene": 0.18,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.38,
+        "beta-pinene": 0.07,
+        "limonene": 0.59,
+        "linalool": 0.24
+      },
+      "totalTerps": 1.82,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9164587,
+          "label": "1A40303000000CB000056636",
+          "quantity": 50.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-09-26"
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 7828141,
       "packageCount": 1,
       "name": "Fade Co Pre-Roll Pack (Blue Blockers) - Usable - 1g",
@@ -37779,6 +37960,64 @@
       "posCategory": "Pre-Rolls"
     },
     {
+      "id": 9164823,
+      "packageCount": 1,
+      "name": "Got Caught 4 Pre-Roll 7 Pack 3.5g Multi Pack",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 40.0,
+      "unit": "Each",
+      "strainName": "Got Caught 4",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.77,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.25,
+        "CBGA": 0.24,
+        "CBN": 0.0,
+        "THCA": 27.82,
+        "THCV": 0.05
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.06,
+        "myrcene": 0.13,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 0.38,
+        "beta-pinene": 0.19,
+        "ocimene": 0.1,
+        "limonene": 1.24,
+        "linalool": 0.24,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.93,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9164823,
+          "label": "1A40303000000CB000056637",
+          "quantity": 40.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-09-05"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 9099994,
       "packageCount": 1,
       "name": "Grape Stomper Big Dogs (Infused) - Dogwalkers (Stay) - 1g",
@@ -38361,7 +38600,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 30.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -38395,7 +38634,7 @@
         {
           "id": 9111207,
           "label": "1A403030000012D000275065",
-          "quantity": 30.0,
+          "quantity": 27.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-07-30"
         }
@@ -38480,7 +38719,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 54.0,
+      "quantity": 53.0,
       "unit": "Grams",
       "strainName": "Khalifa Kush",
       "strainType": null,
@@ -38520,7 +38759,7 @@
         {
           "id": 7937278,
           "label": "1A40303000000C9000128834",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-01-12",
           "expirationDate": "2026-12-22"
         }
@@ -39676,6 +39915,64 @@
       "deal": "Saturdaze Delights! 25% off Concentrates",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4735467",
       "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
+      "id": 9164595,
+      "packageCount": 1,
+      "name": "Lucky Orchard Pre-Roll 2 Pack 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": "Lucky Orchard",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.22,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.14,
+        "CBGA": 0.13,
+        "CBN": 0.0,
+        "THCA": 31.31,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.16,
+        "myrcene": 0.42,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 0.93,
+        "beta-pinene": 0.14,
+        "limonene": 0.98,
+        "linalool": 0.7,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.84,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9164595,
+          "label": "1A40303000000CB000056638",
+          "quantity": 50.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-09-05"
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
     },
     {
       "id": 9128280,
@@ -42211,6 +42508,65 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
+      "id": 9164596,
+      "packageCount": 1,
+      "name": "Peach Runtz Pre-Roll 2 Pack 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": "Peach Runtz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.65,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.26,
+        "CBGA": 1.79,
+        "CBN": 0.0,
+        "THCA": 34.74,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.05,
+        "myrcene": 1.43,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.18,
+        "eudesmol": 0.11,
+        "beta-pinene": 0.06,
+        "ocimene": 0.12,
+        "limonene": 0.31,
+        "linalool": 0.36
+      },
+      "totalTerps": 2.9,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9164596,
+          "label": "1A40303000000CB000056639",
+          "quantity": 50.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-09-22"
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 8974568,
       "packageCount": 1,
       "name": "Permanent Marker - Pre Roll Joints - 0.5 gram - 2 Pack",
@@ -42265,6 +42621,63 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4492833",
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 9164597,
+      "packageCount": 1,
+      "name": "Pineapple Bang 5 Pre-Roll 2 Pack 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": "Pineapple Bang 5",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.68,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.28,
+        "CBGA": 1.04,
+        "CBN": 0.0,
+        "THCA": 34.63,
+        "THCV": 0.21
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.13,
+        "myrcene": 0.33,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.59,
+        "beta-pinene": 0.08,
+        "limonene": 0.6,
+        "linalool": 0.39
+      },
+      "totalTerps": 2.38,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9164597,
+          "label": "1A40303000000CB000056640",
+          "quantity": 50.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-09-20"
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Pre-Rolls"
     },
     {
@@ -44393,6 +44806,62 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
+      "id": 9164830,
+      "packageCount": 1,
+      "name": "Sunset Octane Isolate Infused Joint- Concentrate (.5g Joints) 7 Pack 3.5g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Infused Joints",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Sunset Octane Isolate",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 43.21,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.1,
+        "CBGA": 0.87,
+        "CBN": 0.0,
+        "THCA": 48.38,
+        "THCV": 0.25
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.15,
+        "myrcene": 0.05,
+        "alpha-pinene": 0.01,
+        "caryophyllene": 0.6,
+        "beta-pinene": 0.01,
+        "limonene": 0.16,
+        "linalool": 0.19
+      },
+      "totalTerps": 1.31,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9164830,
+          "label": "1A4030300000C83000042729",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-09-13"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 33.75,
+      "medSalePrice": 33.75,
+      "deal": "Saturdaze Delights! 25% off Concentrates",
+      "orderUrl": null,
+      "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
       "id": 9147652,
       "packageCount": 1,
       "name": "Super Gremlin Strane - Pre-rolls - 1 g",
@@ -44502,6 +44971,63 @@
       "medSalePrice": 7.0,
       "deal": "Saturdaze Delights! 30% OFF Strane/Garcia/Hellavated/Do Drops",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4546995",
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 9164599,
+      "packageCount": 1,
+      "name": "Swampwater Fumez Pre-Roll 7 Pack 3.5g Multi Pack",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 40.0,
+      "unit": "Each",
+      "strainName": "Swampwater Fumez",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.59,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.1,
+        "CBGA": 2.93,
+        "CBN": 0.0,
+        "THCA": 35.3,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.24,
+        "myrcene": 0.04,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.64,
+        "beta-pinene": 0.06,
+        "limonene": 0.51,
+        "linalool": 0.42
+      },
+      "totalTerps": 2.18,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9164599,
+          "label": "1A40303000000CB000056641",
+          "quantity": 40.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-09-29"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Pre-Rolls"
     },
     {
@@ -45283,7 +45809,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 140.0,
+      "quantity": 112.0,
       "unit": "Grams",
       "strainName": "Admiral Apple",
       "strainType": null,
@@ -45316,7 +45842,7 @@
         {
           "id": 8966389,
           "label": "1A40303000000C9000169571",
-          "quantity": 140.0,
+          "quantity": 112.0,
           "packagedDate": "2026-09-08",
           "expirationDate": null
         }
