@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T19:40:02.818168+00:00",
+  "generated_at": "2026-10-24T19:50:02.872743+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7902,7 +7902,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7933,7 +7933,7 @@
         {
           "id": 8996318,
           "label": "1A4030300003522000211335",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-05-10"
         }
@@ -15413,7 +15413,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15461,7 +15461,7 @@
         {
           "id": 8793246,
           "label": "1A4030300000C83000080429",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-01-29"
         }
@@ -15557,7 +15557,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15598,7 +15598,7 @@
         {
           "id": 9030804,
           "label": "1A4030300000C83000082171",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-09-22",
           "expirationDate": "2027-06-25"
         }
@@ -19563,32 +19563,33 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8914782,
-      "packageCount": 1,
+      "id": 9167882,
+      "packageCount": 2,
       "name": "HiColor Gummies Fruit Punch Power-Up 1:4|Edible Product|10mg|10ct",
       "brand": "HiColor",
       "producer": "Marymed",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.21,
+        "totalTHC": 0.22,
         "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.0,
+        "CBG": 0.03,
         "CBGA": 0.0,
         "CBN": 0.0,
         "THCA": 0.0,
-        "THCV": 0.05
+        "THCV": 0.044
       },
       "dose": {
         "servingSize": "1pc",
@@ -19599,11 +19600,11 @@
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.0,
+          "CBG": 1.276,
           "CBGA": 0.0,
           "CBN": 0.0,
           "THCA": 0.0,
-          "THCV": 2.126
+          "THCV": 1.871
         },
         "minorsEstimated": true
       },
@@ -19611,6 +19612,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9167882,
+          "label": "1A4030300002009000119439",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-07-14"
+        },
         {
           "id": 8914782,
           "label": "1A4030300002009000112788",
@@ -21551,7 +21559,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21592,7 +21600,7 @@
         {
           "id": 9003337,
           "label": "1A40303000003EA000266186",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-07-22"
         }
@@ -22691,7 +22699,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22732,7 +22740,7 @@
         {
           "id": 9039054,
           "label": "1A40303000003EA000258979",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-24"
         }
@@ -23209,7 +23217,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23250,7 +23258,7 @@
         {
           "id": 9051872,
           "label": "1A4030300000193000108909",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-25",
           "expirationDate": "2027-06-30"
         }
@@ -23337,7 +23345,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23378,7 +23386,7 @@
         {
           "id": 8787116,
           "label": "1A4030300000193000102919",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-06-03"
         }
@@ -23799,7 +23807,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23838,7 +23846,7 @@
         {
           "id": 8863974,
           "label": "1A403030000012D000260505",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-06-05"
         }
@@ -47235,7 +47243,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 11.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Lemon Blueberry",
       "strainType": null,
@@ -47268,7 +47276,7 @@
         {
           "id": 9113925,
           "label": "1A40303000017D5000110050",
-          "quantity": 11.0,
+          "quantity": 9.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-10-01"
         }
@@ -47349,7 +47357,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -47384,7 +47392,7 @@
         {
           "id": 9018110,
           "label": "1A40303000017D5000107147",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-11",
           "expirationDate": "2027-09-11"
         }
@@ -48395,7 +48403,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Golden Pineapple LLR",
       "strainType": null,
@@ -48432,7 +48440,7 @@
         {
           "id": 9104969,
           "label": "1A40303000001F5000456182",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-09-02"
         }
@@ -48632,7 +48640,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Midnight Moon",
       "strainType": null,
@@ -48666,7 +48674,7 @@
         {
           "id": 9126267,
           "label": "1A40303000001F5000458220",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-07-22"
         }
@@ -49041,7 +49049,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "SDG OG LLR",
       "strainType": null,
@@ -49077,7 +49085,7 @@
         {
           "id": 9105002,
           "label": "1A40303000001F5000456181",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-09-02"
         }
@@ -56560,7 +56568,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 17.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Grape Moscato",
       "strainType": null,
@@ -56594,7 +56602,7 @@
         {
           "id": 9095854,
           "label": "1A4030300000C83000090144",
-          "quantity": 17.0,
+          "quantity": 15.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-09-15"
         }
@@ -60870,7 +60878,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 19.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Pineapple Skunk",
       "strainType": null,
@@ -60904,7 +60912,7 @@
         {
           "id": 9161957,
           "label": "1A4030300002199000069220",
-          "quantity": 19.0,
+          "quantity": 17.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-06-23"
         }
@@ -64325,7 +64333,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Forum Cookies x ADC",
       "strainType": null,
@@ -64357,7 +64365,7 @@
         {
           "id": 8507797,
           "label": "1A40303000039D1000076329",
-          "quantity": 8.0,
+          "quantity": 6.0,
           "packagedDate": "2026-05-26",
           "expirationDate": "2027-04-06"
         }
@@ -65141,7 +65149,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Pineapple Delight",
       "strainType": "Sativa",
@@ -65176,7 +65184,7 @@
         {
           "id": 8809509,
           "label": "1A40303000003EA000194168",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-03",
           "expirationDate": "2027-07-10"
         }
@@ -66574,66 +66582,6 @@
       "medSalePrice": 31.5,
       "deal": "Saturdaze Delights! 30% OFF Carts",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4289858",
-      "posCategory": "Cartridges"
-    },
-    {
-      "id": 9105006,
-      "packageCount": 1,
-      "name": "Raspberry Daydream DV 0.5g/500mg",
-      "brand": null,
-      "producer": "SunMed Growers",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.0,
-      "unit": "Each",
-      "strainName": "Raspberry Daydream DV",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 84.31,
-        "totalCBD": 0.23,
-        "CBC": 0.97,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.08,
-        "CBGA": 0.0,
-        "CBN": 0.22,
-        "THCA": 0.0,
-        "THCV": 0.89
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.07,
-        "humulene": 0.14,
-        "myrcene": 2.76,
-        "alpha-pinene": 1.52,
-        "caryophyllene": 1.68,
-        "beta-pinene": 1.18,
-        "caryophyllene-oxide": 0.03,
-        "limonene": 1.67,
-        "linalool": 0.79,
-        "terpinolene": 0.09
-      },
-      "totalTerps": 10.88,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 9105006,
-          "label": "1A40303000001F5000456186",
-          "quantity": 3.0,
-          "packagedDate": "2026-10-07",
-          "expirationDate": "2027-08-20"
-        }
-      ],
-      "price": 20.0,
-      "medPrice": 20.0,
-      "salePrice": 14.0,
-      "medSalePrice": 14.0,
-      "deal": "Saturdaze Delights! 30% OFF Carts",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4672809",
       "posCategory": "Cartridges"
     },
     {
@@ -68675,7 +68623,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Hawaiian Pineapple",
       "strainType": null,
@@ -68709,7 +68657,7 @@
         {
           "id": 9113939,
           "label": "1A40303000017D5000110059",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-09-23"
         }
