@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T14:00:02.518989+00:00",
+  "generated_at": "2026-10-24T14:10:06.344074+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9361,7 +9361,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Z",
       "strainType": null,
@@ -9395,7 +9395,7 @@
         {
           "id": 9128277,
           "label": "1A4030300000C83000042039",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-10-05"
         }
@@ -10227,6 +10227,72 @@
       "medSalePrice": 6.4,
       "deal": "Saturdaze Delights! 20% OFF Edibles",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4348386",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9105101,
+      "packageCount": 1,
+      "name": "Keef - Mr. Puffer - 10mg - 1",
+      "brand": null,
+      "producer": "SunMed Growers",
+      "category": "Drink",
+      "metrcCategory": "Infused Liquid Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.003,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Can",
+        "totalThcMg": 10.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9105101,
+          "label": "1A40303000001F5000456193",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": "2027-06-09"
+        }
+      ],
+      "pick": 212,
+      "price": 8.0,
+      "medPrice": 8.0,
+      "salePrice": 6.4,
+      "medSalePrice": 6.4,
+      "deal": "Saturdaze Delights! 20% OFF Edibles",
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -18879,7 +18945,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18918,7 +18984,7 @@
         {
           "id": 9144878,
           "label": "1A40303000017D5000110716",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-08-05"
         }
@@ -34357,7 +34423,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 12.0,
       "unit": "Grams",
@@ -35971,7 +36037,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Patapeake Shortbread x Isolate",
       "strainType": null,
@@ -36004,7 +36070,7 @@
         {
           "id": 9097155,
           "label": "1A4030300000C83000090222",
-          "quantity": 14.0,
+          "quantity": 12.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-11"
         }
@@ -42387,7 +42453,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Rainbow Push Pop #4",
       "strainType": null,
@@ -42420,7 +42486,7 @@
         {
           "id": 9128369,
           "label": "1A40303000000CB000056057",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-14"
         }
@@ -44456,7 +44522,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -44490,7 +44556,7 @@
         {
           "id": 9095387,
           "label": "1A40303000000CB000055182",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-14"
         }
@@ -47986,7 +48052,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Melon Mist .0gX",
       "strainType": null,
@@ -48021,7 +48087,7 @@
         {
           "id": 9105001,
           "label": "1A40303000001F5000456179",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-31"
         }
@@ -48395,7 +48461,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Pink Palmer",
       "strainType": null,
@@ -48429,7 +48495,7 @@
         {
           "id": 8765563,
           "label": "1A40303000001F5000408117",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-05-26"
         }
@@ -48862,7 +48928,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -48897,7 +48963,7 @@
         {
           "id": 9168810,
           "label": "1A40303000001F5000462131",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-28"
         }
@@ -50032,7 +50098,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Durban Gushers",
       "strainType": null,
@@ -50066,7 +50132,7 @@
         {
           "id": 9107209,
           "label": "1A403030000283D000059761",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-07-20"
         }
@@ -50250,63 +50316,6 @@
       "medPrice": 20.0,
       "salePrice": 14.0,
       "medSalePrice": 14.0,
-      "deal": "Saturdaze Delights! 30% OFF Carts",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4689852",
-      "posCategory": "Cartridges"
-    },
-    {
-      "id": 9107212,
-      "packageCount": 1,
-      "name": "Beezle - Buzz Vape - Jelly Donut - 1g",
-      "brand": "Beezle",
-      "producer": "Pro Green Medical",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Jelly Donut",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 84.15,
-        "CBC": 1.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.46,
-        "CBGA": 0.0,
-        "CBN": 0.71,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.1,
-        "myrcene": 0.43,
-        "alpha-pinene": 0.23,
-        "caryophyllene": 0.57,
-        "beta-pinene": 0.13,
-        "ocimene": 1.05,
-        "limonene": 1.07,
-        "linalool": 0.33
-      },
-      "totalTerps": 3.91,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 9107212,
-          "label": "1A403030000283D000059764",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-08",
-          "expirationDate": "2027-07-31"
-        }
-      ],
-      "price": 35.0,
-      "medPrice": 35.0,
-      "salePrice": 24.5,
-      "medSalePrice": 24.5,
       "deal": "Saturdaze Delights! 30% OFF Carts",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4689852",
       "posCategory": "Cartridges"
@@ -51929,7 +51938,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Cheetah Lilac Breath LR DG",
       "strainType": null,
@@ -51964,7 +51973,7 @@
         {
           "id": 8760179,
           "label": "1A4030300001771000040025",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-07-22",
           "expirationDate": "2027-07-14"
         }
@@ -54208,7 +54217,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Boston Runtz",
       "strainType": null,
@@ -54242,7 +54251,7 @@
         {
           "id": 9002400,
           "label": "1A4030300004845000044237",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-05-04",
           "expirationDate": "2027-05-04"
         }
@@ -63239,7 +63248,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Mfused TWISTED Super Fog Jefe Lemon Loopz",
       "strainType": null,
@@ -63270,7 +63279,7 @@
         {
           "id": 9142947,
           "label": "1A403030000012D000276054",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-09-02"
         }
@@ -65679,7 +65688,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "RO BDTCart . BubbaKush I MD",
       "strainType": null,
@@ -65714,7 +65723,7 @@
         {
           "id": 8548525,
           "label": "1A403030000238D000101481",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-06-04",
           "expirationDate": "2027-05-31"
         }
