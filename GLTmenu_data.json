@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T22:20:03.112131+00:00",
+  "generated_at": "2026-10-24T22:30:02.820843+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4335,7 +4335,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Juicee J Preground",
       "strainType": null,
@@ -4370,7 +4370,7 @@
         {
           "id": 9044772,
           "label": "1A403030000012E000196219",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-07-28"
         }
@@ -10808,7 +10808,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10849,7 +10849,7 @@
         {
           "id": 9168947,
           "label": "1A40303000001F5000462145",
-          "quantity": 23.0,
+          "quantity": 19.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-08-27"
         }
@@ -12301,7 +12301,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12340,7 +12340,7 @@
         {
           "id": 9066624,
           "label": "1A4030300003522000215104",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-09-19"
         }
@@ -13273,7 +13273,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13314,7 +13314,7 @@
         {
           "id": 9066546,
           "label": "1A4030300003522000215112",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-03-04"
         }
@@ -16743,9 +16743,9 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16786,7 +16786,7 @@
         {
           "id": 9122463,
           "label": "1A4030300000C83000082964",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-10-12",
           "expirationDate": "2027-09-14"
         }
@@ -17446,69 +17446,6 @@
       "medSalePrice": 16.0,
       "deal": "Saturdaze Delights! 20% OFF Edibles",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664302",
-      "posCategory": "Edibles"
-    },
-    {
-      "id": 9047753,
-      "packageCount": 1,
-      "name": "Dixie Tropic Twist Indica 10mg Medicated Chew-10mg-10",
-      "brand": "Dixie",
-      "producer": "Curio Manufacturing",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": "Indica",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.203,
-        "CBC": 0.003,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.005,
-        "CBGA": 0.0,
-        "CBN": 0.002,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.155,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.259,
-          "CBGA": 0.0,
-          "CBN": 0.103,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9047753,
-          "label": "1A403030000012D000267862",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-24",
-          "expirationDate": "2027-07-27"
-        }
-      ],
-      "price": 15.0,
-      "medPrice": 15.0,
-      "salePrice": 12.0,
-      "medSalePrice": 12.0,
-      "deal": "Saturdaze Delights! 20% OFF Edibles",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664303",
       "posCategory": "Edibles"
     },
     {
@@ -22243,7 +22180,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22284,7 +22221,7 @@
         {
           "id": 9131062,
           "label": "1A40303000003EA000253101",
-          "quantity": 18.0,
+          "quantity": 16.0,
           "packagedDate": "2026-10-14",
           "expirationDate": "2027-08-25"
         }
@@ -23112,7 +23049,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -23153,7 +23090,7 @@
         {
           "id": 9105003,
           "label": "1A40303000001F5000456183",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-10"
         }
@@ -23684,17 +23621,16 @@
     },
     {
       "id": 9111157,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Smokiez Peach Sativa 10mg Medicated Chews-10mg-10",
       "brand": "Smokiez",
       "producer": "Curio Manufacturing",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -23736,13 +23672,6 @@
           "quantity": 12.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-07-17"
-        },
-        {
-          "id": 8952598,
-          "label": "1A403030000012D000265620",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-03",
-          "expirationDate": "2027-05-28"
         }
       ],
       "price": 20.0,
@@ -27523,7 +27452,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "10Gs",
       "strainType": null,
@@ -27557,7 +27486,7 @@
         {
           "id": 9147596,
           "label": "1A403030000012E000205837",
-          "quantity": 35.0,
+          "quantity": 31.5,
           "packagedDate": "2026-10-16",
           "expirationDate": "2027-09-30"
         }
@@ -28199,7 +28128,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 63.0,
+      "quantity": 59.5,
       "unit": "Grams",
       "strainName": "SCSO",
       "strainType": null,
@@ -28234,7 +28163,7 @@
         {
           "id": 9143127,
           "label": "1A40303000000CD000083156",
-          "quantity": 63.0,
+          "quantity": 59.5,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-09-22"
         }
@@ -32122,7 +32051,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 222.62,
+      "quantity": 219.12,
       "unit": "Grams",
       "strainName": "Peanut Glue",
       "strainType": null,
@@ -32155,7 +32084,7 @@
         {
           "id": 7945159,
           "label": "1A4030300002E7E000016876",
-          "quantity": 222.62,
+          "quantity": 219.12,
           "packagedDate": "2026-01-13",
           "expirationDate": "2027-01-13"
         }
@@ -34019,7 +33948,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 147.0,
+      "quantity": 143.5,
       "unit": "Grams",
       "strainName": "Z Mints",
       "strainType": null,
@@ -34052,7 +33981,7 @@
         {
           "id": 9095871,
           "label": "1A40303000000CB000055188",
-          "quantity": 147.0,
+          "quantity": 143.5,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-09-22"
         }
@@ -50904,7 +50833,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Snoop OG",
       "strainType": null,
@@ -50939,7 +50868,7 @@
         {
           "id": 9107052,
           "label": "1A403030000283D000059760",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-08-18"
         }
@@ -54205,7 +54134,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Earthquake",
       "strainType": null,
@@ -54240,7 +54169,7 @@
         {
           "id": 9097182,
           "label": "1A4030300000C83000090226",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-14"
         }
