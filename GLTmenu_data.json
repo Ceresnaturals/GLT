@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T18:30:02.782280+00:00",
+  "generated_at": "2026-10-24T18:40:03.398342+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4384,17 +4384,18 @@
       "posCategory": "Infused Flower/Concentrate"
     },
     {
-      "id": 8751938,
-      "packageCount": 1,
+      "id": 9167880,
+      "packageCount": 2,
       "name": "K&Q|Cured THCa Isolate|Glitter Bomb|Concentrate|1.0g",
       "brand": null,
       "producer": "Marymed",
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Glitter Bomb",
       "strainType": null,
@@ -4421,6 +4422,13 @@
       "totalTerps": 1.24,
       "dominantTerpene": "caryophyllene",
       "packages": [
+        {
+          "id": 9167880,
+          "label": "1A4030300002009000119434",
+          "quantity": 15.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-06-10"
+        },
         {
           "id": 8751938,
           "label": "1A4030300002009000109411",
@@ -34430,7 +34438,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Alien Mints",
       "strainType": null,
@@ -34465,7 +34473,7 @@
         {
           "id": 9147813,
           "label": "1A403030000012E000205848",
-          "quantity": 9.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-16",
           "expirationDate": "2027-06-15"
         }
@@ -50272,7 +50280,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Citrus Sap",
       "strainType": null,
@@ -50307,7 +50315,7 @@
         {
           "id": 9107048,
           "label": "1A403030000283D000059757",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-07-17"
         }
@@ -50506,7 +50514,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Jelly Donut",
       "strainType": null,
@@ -50540,7 +50548,7 @@
         {
           "id": 9107051,
           "label": "1A403030000283D000059759",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-07-16"
         }
@@ -50739,7 +50747,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Snoop OG",
       "strainType": null,
@@ -50774,7 +50782,7 @@
         {
           "id": 9166216,
           "label": "1A403030000283D000064187",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-10-16"
         }
@@ -59780,7 +59788,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": null,
@@ -59813,7 +59821,7 @@
         {
           "id": 9152269,
           "label": "1A4030300003201000001801",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-10-19",
           "expirationDate": "2027-10-15"
         }
@@ -60999,7 +61007,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": "Lemonade Kush",
       "strainType": null,
@@ -61033,7 +61041,7 @@
         {
           "id": 9029753,
           "label": "1A40303000039D1000085138",
-          "quantity": 26.0,
+          "quantity": 25.0,
           "packagedDate": "2026-09-22",
           "expirationDate": "2027-06-04"
         }
