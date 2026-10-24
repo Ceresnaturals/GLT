@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:20:02.484375+00:00",
+  "generated_at": "2026-10-24T16:30:03.035053+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9361,7 +9361,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Z",
       "strainType": null,
@@ -9395,7 +9395,7 @@
         {
           "id": 9128277,
           "label": "1A4030300000C83000042039",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-10-05"
         }
@@ -14953,17 +14953,18 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8909902,
-      "packageCount": 1,
+      "id": 9165431,
+      "packageCount": 2,
       "name": "Disco - Dark Chocolate (Fel) - 10mg - 10",
       "brand": "Disco",
       "producer": "Evermore Cannabis",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15001,6 +15002,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9165431,
+          "label": "1A4030300000C83000083242",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-07-30"
+        },
         {
           "id": 8909902,
           "label": "1A4030300000C83000081193",
@@ -35686,7 +35694,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Cherry Maui Wowie",
       "strainType": null,
@@ -35720,7 +35728,7 @@
         {
           "id": 9131065,
           "label": "1A40303000003EA000253106",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-10-14",
           "expirationDate": "2027-08-31"
         }
