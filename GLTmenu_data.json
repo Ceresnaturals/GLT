@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T20:10:02.636130+00:00",
+  "generated_at": "2026-10-25T20:20:03.371001+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4615,7 +4615,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": "Dirty Banana",
       "strainType": null,
@@ -4648,7 +4648,7 @@
         {
           "id": 9162070,
           "label": "1A4030300002199000069217",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-09-21",
           "expirationDate": "2027-09-23"
         }
@@ -11175,7 +11175,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11216,7 +11216,7 @@
         {
           "id": 9076226,
           "label": "1A4030300000C83000082497",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-17"
         }
@@ -13754,7 +13754,7 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8707444,
+      "id": 8981916,
       "packageCount": 1,
       "name": "Curio Wellness Elderberry Hibiscus 10mg Chews-10mg-10",
       "brand": "Curio Wellness",
@@ -13764,19 +13764,19 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 1.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.233,
-        "CBC": 0.0,
+        "totalTHC": 0.225,
+        "CBC": 0.002,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.007,
+        "CBG": 0.012,
         "CBGA": 0.0,
-        "CBN": 0.004,
+        "CBN": 0.006,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -13785,12 +13785,12 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "CBC": 0.0,
+          "CBC": 0.08,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.28,
+          "CBG": 0.48,
           "CBGA": 0.0,
-          "CBN": 0.16,
+          "CBN": 0.24,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -13801,11 +13801,11 @@
       "dominantTerpene": null,
       "packages": [
         {
-          "id": 8707444,
-          "label": "1A403030000012D000254650",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-09",
-          "expirationDate": "2027-05-14"
+          "id": 8981916,
+          "label": "1A403030000012D000266246",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-10",
+          "expirationDate": "2027-06-25"
         }
       ],
       "pick": 214,
@@ -14787,17 +14787,16 @@
     },
     {
       "id": 9142950,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Curio Wellness White Peach 10mg Chews-10mg-10",
       "brand": "Curio Wellness",
       "producer": "Curio Manufacturing",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14838,13 +14837,6 @@
           "label": "1A403030000012D000276059",
           "quantity": 24.0,
           "packagedDate": "2026-10-15",
-          "expirationDate": "2027-08-05"
-        },
-        {
-          "id": 9013417,
-          "label": "1A403030000012D000267200",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-17",
           "expirationDate": "2027-08-05"
         }
       ],
@@ -14996,7 +14988,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15044,7 +15036,7 @@
         {
           "id": 8814667,
           "label": "1A4030300000C83000080555",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-04",
           "expirationDate": "2027-07-09"
         }
@@ -28446,7 +28438,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 220.5,
+      "quantity": 213.5,
       "unit": "Grams",
       "strainName": "Deadband x GC5 #12",
       "strainType": null,
@@ -28480,7 +28472,7 @@
         {
           "id": 9164813,
           "label": "1A40303000000CB000056632",
-          "quantity": 220.5,
+          "quantity": 213.5,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-10-16"
         }
@@ -29604,7 +29596,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 3.5,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -29638,7 +29630,7 @@
         {
           "id": 9104963,
           "label": "1A40303000001F5000456173",
-          "quantity": 7.0,
+          "quantity": 3.5,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-09-02"
         }
@@ -30346,7 +30338,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 12.0,
       "unit": "Grams",
       "strainName": "Head Hunter",
       "strainType": null,
@@ -30379,7 +30371,7 @@
         {
           "id": 8946491,
           "label": "1A4030300004845000041484",
-          "quantity": 16.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-25"
         }
@@ -30688,7 +30680,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 87.5,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Lemon Splash",
       "strainType": null,
@@ -30722,7 +30714,7 @@
         {
           "id": 9162062,
           "label": "1A403030000025B000092960",
-          "quantity": 87.5,
+          "quantity": 84.0,
           "packagedDate": "2026-09-10",
           "expirationDate": "2027-09-10"
         }
@@ -33110,7 +33102,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 24.5,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -33142,7 +33134,7 @@
         {
           "id": 9126261,
           "label": "1A40303000001F5000458211",
-          "quantity": 28.0,
+          "quantity": 24.5,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-31"
         }
@@ -52557,7 +52549,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Blueberry Dream",
       "strainType": null,
@@ -52587,7 +52579,7 @@
         {
           "id": 8966529,
           "label": "1A403030000012E000192639",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-07"
         }
@@ -62508,7 +62500,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "MD DP POG 1PEN",
       "strainType": null,
@@ -62534,7 +62526,7 @@
         {
           "id": 9103017,
           "label": "1A40303000007D1000106360",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-28"
         }
@@ -66944,9 +66936,9 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Classics",
       "strainType": null,
@@ -66981,7 +66973,7 @@
         {
           "id": 9040173,
           "label": "1A4030300000C83000088733",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-07-06"
         }
@@ -67005,7 +66997,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Classics",
       "strainType": null,
@@ -67039,7 +67031,7 @@
         {
           "id": 9040745,
           "label": "1A4030300000C83000088734",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-07-31"
         }
