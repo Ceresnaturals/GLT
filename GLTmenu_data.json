@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T20:40:02.397637+00:00",
+  "generated_at": "2026-10-25T20:50:02.753755+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2729,7 +2729,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Cinnamon Rolls LR",
       "strainType": null,
@@ -2766,7 +2766,7 @@
         {
           "id": 8998455,
           "label": "1A40303000001F5000431283",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-03-19"
         }
@@ -11110,7 +11110,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11151,7 +11151,7 @@
         {
           "id": 8909901,
           "label": "1A4030300000C83000081191",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-07-15"
         }
@@ -12728,7 +12728,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12769,7 +12769,7 @@
         {
           "id": 8996306,
           "label": "1A4030300003522000211320",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-22"
         }
@@ -17500,7 +17500,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17541,7 +17541,7 @@
         {
           "id": 8966197,
           "label": "1A403030000012E000192656",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-04-23"
         }
@@ -18707,7 +18707,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18746,7 +18746,7 @@
         {
           "id": 9022664,
           "label": "1A40303000017D5000107309",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-06-29",
           "expirationDate": "2027-06-29"
         }
@@ -23746,69 +23746,6 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8863974,
-      "packageCount": 1,
-      "name": "Smokiez Tropical Fruit 30mg Medicated Chews-30mg-10",
-      "brand": "Smokiez",
-      "producer": "Curio Manufacturing",
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.464,
-        "CBC": 0.006,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.018,
-        "CBGA": 0.0,
-        "CBN": 0.014,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 piece",
-        "totalThcMg": 300.0,
-        "thcMgPerServing": 30.0,
-        "minorsMgPerServing": {
-          "CBC": 0.36,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 1.08,
-          "CBGA": 0.0,
-          "CBN": 0.84,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8863974,
-          "label": "1A403030000012D000260505",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-13",
-          "expirationDate": "2027-06-05"
-        }
-      ],
-      "price": 40.0,
-      "medPrice": 40.0,
-      "salePrice": 32.0,
-      "medSalePrice": 32.0,
-      "deal": "Soothing Sunday! 20% OFF Edibles",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664605",
-      "posCategory": "Edibles"
-    },
-    {
       "id": 8952596,
       "packageCount": 1,
       "name": "Smokiez Tropical Fruit CBD/THC Medicated Chews-10mg-10",
@@ -25709,7 +25646,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -25750,7 +25687,7 @@
         {
           "id": 9130104,
           "label": "1A403030000390D000073722",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-23"
         }
@@ -25775,7 +25712,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -25821,7 +25758,7 @@
         {
           "id": 8953583,
           "label": "1A403030000390D000067189",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-03",
           "expirationDate": "2027-08-25"
         }
@@ -36549,7 +36486,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Cherry Maui Wowie",
       "strainType": null,
@@ -36583,7 +36520,7 @@
         {
           "id": 9131065,
           "label": "1A40303000003EA000253106",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-10-14",
           "expirationDate": "2027-08-31"
         }
@@ -46848,7 +46785,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 112.0,
+      "quantity": 98.0,
       "unit": "Grams",
       "strainName": "Earthquake #25",
       "strainType": null,
@@ -46881,7 +46818,7 @@
         {
           "id": 8964205,
           "label": "1A40303000000C9000169529",
-          "quantity": 112.0,
+          "quantity": 98.0,
           "packagedDate": "2026-09-08",
           "expirationDate": null
         }
@@ -47942,7 +47879,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Strawberry Cheesecake",
       "strainType": null,
@@ -47975,7 +47912,7 @@
         {
           "id": 9018105,
           "label": "1A40303000017D5000107145",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-09-08"
         }
@@ -50498,7 +50435,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Bacio Gelato",
       "strainType": null,
@@ -50533,7 +50470,7 @@
         {
           "id": 9039275,
           "label": "1A40303000001F5000450405",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-07-14"
         }
@@ -50557,7 +50494,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Baja Blue DV",
       "strainType": null,
@@ -50591,7 +50528,7 @@
         {
           "id": 9073212,
           "label": "1A40303000001F5000453109",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-03-19"
         }
@@ -51262,7 +51199,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Durban Gushers",
       "strainType": null,
@@ -51296,7 +51233,7 @@
         {
           "id": 9107209,
           "label": "1A403030000283D000059761",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-07-20"
         }
@@ -51959,7 +51896,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Biscotti",
       "strainType": "Hybrid",
@@ -51992,7 +51929,7 @@
         {
           "id": 8920049,
           "label": "1A40303000003EA000206311",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-23"
         }
@@ -69240,60 +69177,6 @@
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174618",
       "posCategory": "Disposables"
-    },
-    {
-      "id": 9090431,
-      "packageCount": 1,
-      "name": "Strawberry Haze Distillate Cartridge Hellavated - 1.0 g",
-      "brand": "Hellavated",
-      "producer": "Holistic Industries",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Strawberry Haze",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 88.98,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 4.72,
-        "CBGA": 0.0,
-        "CBN": 0.39,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "myrcene": 0.17,
-        "alpha-pinene": 1.59,
-        "caryophyllene": 0.25,
-        "beta-pinene": 0.21,
-        "limonene": 0.49
-      },
-      "totalTerps": 2.77,
-      "dominantTerpene": "alpha-pinene",
-      "packages": [
-        {
-          "id": 9090431,
-          "label": "1A403030000012E000200842",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-05",
-          "expirationDate": "2027-08-28"
-        }
-      ],
-      "price": null,
-      "medPrice": null,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": null,
-      "posCategory": null
     },
     {
       "id": 8971341,
