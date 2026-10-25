@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T15:20:02.452934+00:00",
+  "generated_at": "2026-10-25T15:30:15.883419+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2487,6 +2487,65 @@
       "posCategory": "Concentrate"
     },
     {
+      "id": 9039063,
+      "packageCount": 1,
+      "name": "Brownie Scout Live Resin - Rythm - (Indica) Concentrate - 1g",
+      "brand": "Rythm",
+      "producer": "Chesapeake Alternatives",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": "Brownie Scout",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 73.5,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 5.62,
+        "CBN": 0.0,
+        "THCA": 82.68,
+        "THCV": 0.36
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.32,
+        "humulene": 0.55,
+        "myrcene": 1.06,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 1.72,
+        "eudesmol": 0.33,
+        "beta-pinene": 0.25,
+        "limonene": 2.49,
+        "linalool": 0.25,
+        "terpinolene": 0.08
+      },
+      "totalTerps": 8.05,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9039063,
+          "label": "1A40303000003EA000258993",
+          "quantity": 5.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-08-20"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Concentrate"
+    },
+    {
       "id": 8755628,
       "packageCount": 1,
       "name": "Cherry AK47 - Live Badder - 1g",
@@ -4722,8 +4781,8 @@
       "posCategory": "Concentrate"
     },
     {
-      "id": 8842347,
-      "packageCount": 1,
+      "id": 8904266,
+      "packageCount": 2,
       "name": "LORE Double Diamonds 1g - Berry Inferno",
       "brand": "LORE",
       "producer": "CERES NATURALS",
@@ -4732,7 +4791,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Berry Inferno",
       "strainType": null,
@@ -4756,6 +4815,13 @@
       "totalTerps": 0.22,
       "dominantTerpene": "caryophyllene",
       "packages": [
+        {
+          "id": 8904266,
+          "label": "1A4030300003201000001623",
+          "quantity": 7.0,
+          "packagedDate": "2026-08-24",
+          "expirationDate": "2027-08-04"
+        },
         {
           "id": 8842347,
           "label": "1A4030300003201000001521",
@@ -6586,7 +6652,7 @@
     },
     {
       "id": 9124801,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "NH Blueberry Live Rosin-1g",
       "brand": "NH",
       "producer": "Kind Therapeutics USA",
@@ -6595,7 +6661,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Blueberry",
       "strainType": null,
@@ -6628,6 +6694,13 @@
           "id": 9124801,
           "label": "1A4030300003522000219700",
           "quantity": 8.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-20"
+        },
+        {
+          "id": 9124803,
+          "label": "1A4030300003522000219701",
+          "quantity": 7.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-20"
         }
@@ -8772,7 +8845,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "SDG OG",
       "strainType": null,
@@ -8807,7 +8880,7 @@
         {
           "id": 9073213,
           "label": "1A40303000001F5000453110",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-06-15"
         }
@@ -10743,7 +10816,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 39.0,
+      "quantity": 38.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10784,7 +10857,7 @@
         {
           "id": 9169021,
           "label": "1A40303000001F5000462144",
-          "quantity": 39.0,
+          "quantity": 38.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-10-07"
         }
@@ -19388,7 +19461,7 @@
     },
     {
       "id": 9167882,
-      "packageCount": 2,
+      "packageCount": 3,
       "name": "HiColor Gummies Fruit Punch Power-Up 1:4|Edible Product|10mg|10ct",
       "brand": "HiColor",
       "producer": "Marymed",
@@ -19398,7 +19471,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19449,6 +19522,13 @@
           "quantity": 3.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-05-20"
+        },
+        {
+          "id": 8386143,
+          "label": "1A4030300002009000099170",
+          "quantity": 5.0,
+          "packagedDate": "2026-04-28",
+          "expirationDate": "2027-03-11"
         }
       ],
       "price": 20.0,
@@ -19589,16 +19669,17 @@
     },
     {
       "id": 9167685,
-      "packageCount": 1,
+      "packageCount": 3,
       "name": "HiColor Gummies Raspberry Lemonade 1:1:1|Edible Product|10mg|10ct",
       "brand": "HiColor",
       "producer": "Marymed",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
+        "Sales Floor",
         "Vault"
       ],
-      "quantity": 20.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19642,6 +19723,20 @@
           "quantity": 20.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-08-24"
+        },
+        {
+          "id": 8914784,
+          "label": "1A4030300002009000112790",
+          "quantity": 4.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-05-13"
+        },
+        {
+          "id": 8067140,
+          "label": "1A4030300002009000090575",
+          "quantity": 5.0,
+          "packagedDate": "2026-02-11",
+          "expirationDate": "2026-12-18"
         }
       ],
       "price": 25.0,
@@ -19726,8 +19821,8 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8914788,
-      "packageCount": 2,
+      "id": 8914787,
+      "packageCount": 3,
       "name": "HiColor Max Gummies Bear Lake Raspberry|Exempt|40mg|10ct",
       "brand": "HiColor",
       "producer": "Marymed",
@@ -19736,7 +19831,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 31.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19775,6 +19870,13 @@
       "dominantTerpene": null,
       "packages": [
         {
+          "id": 8914787,
+          "label": "1A4030300002009000112792",
+          "quantity": 8.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-02-23"
+        },
+        {
           "id": 8914788,
           "label": "1A4030300002009000112793",
           "quantity": 20.0,
@@ -19799,7 +19901,7 @@
     },
     {
       "id": 8914789,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "HiColor Max Gummies Juicy Peach|Exempt|40mg|10ct",
       "brand": "HiColor",
       "producer": "Marymed",
@@ -19808,7 +19910,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19850,6 +19952,13 @@
           "quantity": 15.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-05-14"
+        },
+        {
+          "id": 8914790,
+          "label": "1A4030300002009000112795",
+          "quantity": 5.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-05-14"
         }
       ],
       "price": 35.0,
@@ -19862,7 +19971,7 @@
     },
     {
       "id": 8914791,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "HiColor Max Gummies Wild Black Cherry|Exempt|40mg|10ct",
       "brand": "HiColor",
       "producer": "Marymed",
@@ -19871,7 +19980,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19913,6 +20022,13 @@
           "id": 8914791,
           "label": "1A4030300002009000112796",
           "quantity": 15.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-02-23"
+        },
+        {
+          "id": 8914792,
+          "label": "1A4030300002009000112797",
+          "quantity": 5.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-02-23"
         }
@@ -19997,17 +20113,81 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9167686,
+      "id": 8678367,
       "packageCount": 1,
+      "name": "HiColor Nano Gummies Sour Blueberry|Edible Product|10mg|10ct",
+      "brand": "HiColor",
+      "producer": "Marymed",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 4.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.203,
+        "CBC": 0.005,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.015,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1pc",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.213,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.638,
+          "CBGA": 0.0,
+          "CBN": 0.085,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8678367,
+          "label": "1A4030300002009000107923",
+          "quantity": 4.0,
+          "packagedDate": "2026-07-02",
+          "expirationDate": "2027-04-06"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9167686,
+      "packageCount": 2,
       "name": "HiColor RSO Hybrid Gummies Passionfruit|Edible Product|10mg|10ct",
       "brand": "HiColor",
       "producer": "Marymed",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
+        "Sales Floor",
         "Vault"
       ],
-      "quantity": 19.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -20051,6 +20231,13 @@
           "quantity": 19.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-05-20"
+        },
+        {
+          "id": 8067143,
+          "label": "1A4030300002009000090578",
+          "quantity": 5.0,
+          "packagedDate": "2026-02-11",
+          "expirationDate": "2027-01-28"
         }
       ],
       "price": 20.0,
@@ -20062,9 +20249,9 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8914798,
+      "id": 8163926,
       "packageCount": 1,
-      "name": "HiColor RSO Hybrid Gummies Pineberry|Edible Product|10mg|10ct",
+      "name": "HiColor RSO Hybrid Gummies Passionfruit|Edible Product|10mg|2ct",
       "brand": "HiColor",
       "producer": "Marymed",
       "category": "Edible",
@@ -20073,6 +20260,69 @@
         "Sales Floor"
       ],
       "quantity": 5.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.212,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1pc",
+        "totalThcMg": 20.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.085,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8163926,
+          "label": "1A4030300002009000093000",
+          "quantity": 5.0,
+          "packagedDate": "2026-03-06",
+          "expirationDate": "2027-02-05"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 8914798,
+      "packageCount": 2,
+      "name": "HiColor RSO Hybrid Gummies Pineberry|Edible Product|10mg|10ct",
+      "brand": "HiColor",
+      "producer": "Marymed",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -20116,6 +20366,13 @@
           "quantity": 5.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-05-22"
+        },
+        {
+          "id": 7955303,
+          "label": "1A4030300002009000086495",
+          "quantity": 5.0,
+          "packagedDate": "2026-01-14",
+          "expirationDate": "2026-12-16"
         }
       ],
       "price": 20.0,
@@ -20127,17 +20384,81 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9167884,
+      "id": 8163770,
       "packageCount": 1,
+      "name": "HiColor RSO Hybrid Gummies Pineberry|Edible Product|10mg|2ct",
+      "brand": "HiColor",
+      "producer": "Marymed",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.213,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1pc",
+        "totalThcMg": 20.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.085,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8163770,
+          "label": "1A4030300002009000093001",
+          "quantity": 5.0,
+          "packagedDate": "2026-03-06",
+          "expirationDate": "2027-02-05"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9167884,
+      "packageCount": 2,
       "name": "HiColor RSO Indica Gummies Blue Raspberry|Edible Product|10mg|10ct",
       "brand": "HiColor",
       "producer": "Marymed",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
+        "Sales Floor",
         "Vault"
       ],
-      "quantity": 18.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -20181,6 +20502,13 @@
           "quantity": 18.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-05-23"
+        },
+        {
+          "id": 8606613,
+          "label": "1A4030300002009000105191",
+          "quantity": 8.0,
+          "packagedDate": "2026-06-17",
+          "expirationDate": "2027-05-05"
         }
       ],
       "price": 20.0,
@@ -20189,6 +20517,132 @@
       "medSalePrice": 16.0,
       "deal": "Soothing Sunday! 20% OFF Edibles",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4591609",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 8163772,
+      "packageCount": 1,
+      "name": "HiColor RSO Indica Gummies Blue Raspberry|Edible Product|10mg|2ct",
+      "brand": "HiColor",
+      "producer": "Marymed",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.218,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.001,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1pc",
+        "totalThcMg": 20.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.043,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8163772,
+          "label": "1A4030300002009000093004",
+          "quantity": 5.0,
+          "packagedDate": "2026-03-06",
+          "expirationDate": "2027-02-04"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 8163771,
+      "packageCount": 1,
+      "name": "HiColor RSO Indica Gummies Blueberry|Edible Product|10mg|2ct",
+      "brand": "HiColor",
+      "producer": "Marymed",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.217,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.001,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1pc",
+        "totalThcMg": 20.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.043,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8163771,
+          "label": "1A4030300002009000093002",
+          "quantity": 5.0,
+          "packagedDate": "2026-03-06",
+          "expirationDate": "2027-02-04"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -20323,7 +20777,7 @@
     },
     {
       "id": 8678451,
-      "packageCount": 2,
+      "packageCount": 3,
       "name": "HiColor RSO Sativa Gummies Sour Lemon Drop|Edible Product|10mg|2ct",
       "brand": "HiColor",
       "producer": "Marymed",
@@ -20332,7 +20786,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -20380,6 +20834,13 @@
           "label": "1A4030300002009000105195",
           "quantity": 3.0,
           "packagedDate": "2026-06-17",
+          "expirationDate": "2027-02-05"
+        },
+        {
+          "id": 8163773,
+          "label": "1A4030300002009000093005",
+          "quantity": 5.0,
+          "packagedDate": "2026-03-06",
           "expirationDate": "2027-02-05"
         }
       ],
@@ -22963,6 +23424,71 @@
       "medSalePrice": 16.0,
       "deal": "Soothing Sunday! 20% OFF Edibles",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4726961",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 8494058,
+      "packageCount": 1,
+      "name": "Mellow Fellow - Gummies - Dream Berry 1:2:2 Sleep Blend- 100mg THC - 10mg - 10",
+      "brand": "Mellow Fellow",
+      "producer": "Pro Green Medical",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.233,
+        "totalCBD": 0.441,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.008,
+        "CBGA": 0.0,
+        "CBN": 0.473,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "4.5g",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 19.845,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.36,
+          "CBGA": 0.0,
+          "CBN": 21.285,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8494058,
+          "label": "1A403030000283D000049575",
+          "quantity": 5.0,
+          "packagedDate": "2026-05-21",
+          "expirationDate": "2027-05-20"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -27427,6 +27953,63 @@
       "posCategory": "Pre-Packed Flower"
     },
     {
+      "id": 8490478,
+      "packageCount": 1,
+      "name": "1937|Shake|Chem x Chocolate|Usable|7.0g",
+      "brand": "1937",
+      "producer": "Marymed",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 35.0,
+      "unit": "Grams",
+      "strainName": "Chem + Chocolate",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.03,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.12,
+        "CBGA": 0.25,
+        "CBN": 0.0,
+        "THCA": 24.43,
+        "THCV": 0.07
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.07,
+        "myrcene": 0.08,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.23,
+        "beta-pinene": 0.04,
+        "limonene": 0.29,
+        "linalool": 0.19
+      },
+      "totalTerps": 1.09,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8490478,
+          "label": "1A4030300002009000102659",
+          "quantity": 35.0,
+          "packagedDate": "2026-05-21",
+          "expirationDate": "2027-04-14"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
       "id": 9131064,
       "packageCount": 1,
       "name": "Afternoon Delight #4 Pre-Pack (Buds) - Rythm (Hybrid) - Usable - 3.5g",
@@ -29323,6 +29906,64 @@
       "posCategory": "Pre-Packed Flower"
     },
     {
+      "id": 9164138,
+      "packageCount": 1,
+      "name": "GMO Pre-Pack (Popcorn) - Rythm (Indica Dominant) - Usable - 7g",
+      "brand": "Rythm",
+      "producer": "GTI Maryland",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 49.0,
+      "unit": "Grams",
+      "strainName": "GMO",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.62,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.31,
+        "CBN": 0.0,
+        "THCA": 35.75,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.2,
+        "myrcene": 0.39,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.62,
+        "beta-pinene": 0.09,
+        "limonene": 0.79,
+        "linalool": 0.07,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.5,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9164138,
+          "label": "1A40303000003EA000255073",
+          "quantity": 49.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-09-16"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
       "id": 8966592,
       "packageCount": 1,
       "name": "Gas Smack Strane - Usable - 3.5 g",
@@ -30594,7 +31235,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 91.0,
+      "quantity": 87.5,
       "unit": "Grams",
       "strainName": "Lemon Splash",
       "strainType": null,
@@ -30628,7 +31269,7 @@
         {
           "id": 9162062,
           "label": "1A403030000025B000092960",
-          "quantity": 91.0,
+          "quantity": 87.5,
           "packagedDate": "2026-09-10",
           "expirationDate": "2027-09-10"
         }
@@ -30871,6 +31512,63 @@
       "medSalePrice": 29.75,
       "deal": "Soothing Sunday! 15% OFF Flower",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664275",
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 8599507,
+      "packageCount": 1,
+      "name": "MDSPTZ-FLR-0-1",
+      "brand": null,
+      "producer": "MCP Processing",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 13.0,
+      "unit": "Grams",
+      "strainName": "Spritzer",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.68,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.12,
+        "CBGA": 0.62,
+        "CBN": 0.0,
+        "THCA": 33.32,
+        "THCV": 0.06
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.12,
+        "myrcene": 0.15,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.49,
+        "beta-pinene": 0.04,
+        "limonene": 0.39,
+        "linalool": 0.36
+      },
+      "totalTerps": 1.76,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8599507,
+          "label": "1A40303000007D1000080948",
+          "quantity": 13.0,
+          "packagedDate": "2026-06-16",
+          "expirationDate": "2027-04-24"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -32263,6 +32961,64 @@
       "posCategory": "Pre-Packed Flower"
     },
     {
+      "id": 8371309,
+      "packageCount": 1,
+      "name": "Red Zushi Pre-Pack 3.5g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 56.0,
+      "unit": "Grams",
+      "strainName": "Red Zushi 1",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.53,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.09,
+        "CBGA": 1.35,
+        "CBN": 0.0,
+        "THCA": 25.55,
+        "THCV": 0.05
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.16,
+        "myrcene": 0.24,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.59,
+        "eudesmol": 0.12,
+        "beta-pinene": 0.07,
+        "limonene": 0.58,
+        "linalool": 0.14,
+        "nerolidol": 0.05
+      },
+      "totalTerps": 2.21,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8371309,
+          "label": "1A40303000000CB000040264",
+          "quantity": 56.0,
+          "packagedDate": "2026-04-23",
+          "expirationDate": "2027-03-07"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
       "id": 8796890,
       "packageCount": 1,
       "name": "S&S | Buds | 3.5g | Berried Alive",
@@ -32884,6 +33640,63 @@
       "medSalePrice": 29.75,
       "deal": "Soothing Sunday! 15% OFF Flower",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4732077",
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 8977157,
+      "packageCount": 1,
+      "name": "Savvy Flower - Guerilla Grape - Usable - 3.5g",
+      "brand": "Savvy",
+      "producer": "Freestate Wellness",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 91.0,
+      "unit": "Grams",
+      "strainName": "Guerilla Grape",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.34,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.08,
+        "CBGA": 0.38,
+        "CBN": 0.0,
+        "THCA": 26.9,
+        "THCV": 0.16
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.13,
+        "myrcene": 0.28,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.53,
+        "beta-pinene": 0.06,
+        "limonene": 0.43,
+        "linalool": 0.08
+      },
+      "totalTerps": 1.75,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8977157,
+          "label": "1A4030300003A3C000090729",
+          "quantity": 91.0,
+          "packagedDate": "2026-07-16",
+          "expirationDate": "2027-07-16"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -33805,6 +34618,63 @@
       "medSalePrice": 29.75,
       "deal": "Soothing Sunday! 15% OFF Flower",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4734753",
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 9005660,
+      "packageCount": 1,
+      "name": "Z Mints Pre-Pack 3.5g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 14.0,
+      "unit": "Grams",
+      "strainName": "Z Mints",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.57,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.12,
+        "CBGA": 1.56,
+        "CBN": 0.0,
+        "THCA": 32.17,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.14,
+        "myrcene": 0.21,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.43,
+        "beta-pinene": 0.08,
+        "limonene": 0.56,
+        "linalool": 0.21
+      },
+      "totalTerps": 1.96,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9005660,
+          "label": "1A40303000000CB000052509",
+          "quantity": 14.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-09-04"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -35306,6 +36176,63 @@
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4549216",
       "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
+      "id": 8606059,
+      "packageCount": 1,
+      "name": "Bmore Z J Walker (.35g Joints) 5 Pack 1.75g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 8.75,
+      "unit": "Grams",
+      "strainName": "Bmore Z",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 20.62,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.22,
+        "CBGA": 1.06,
+        "CBN": 0.0,
+        "THCA": 23.15,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.1,
+        "myrcene": 0.04,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.34,
+        "beta-pinene": 0.09,
+        "limonene": 0.75,
+        "linalool": 0.42
+      },
+      "totalTerps": 2.11,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8606059,
+          "label": "1A40303000000CB000044375",
+          "quantity": 8.75,
+          "packagedDate": "2026-06-17",
+          "expirationDate": "2027-04-28"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
     },
     {
       "id": 8966513,
@@ -38150,6 +39077,117 @@
       "medSalePrice": 55.25,
       "deal": "Soothing Sunday! 15% OFF Flower",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4709944",
+      "posCategory": "Infused Flower/Concentrate"
+    },
+    {
+      "id": 8386220,
+      "packageCount": 1,
+      "name": "HiRoller|Infused Pre-Roll Kit|Grape Mochi|7g",
+      "brand": "HiRoller",
+      "producer": "Marymed",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 7.0,
+      "unit": "Each",
+      "strainName": "Grape Mochi",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 40.52,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.09,
+        "CBN": 0.0,
+        "THCA": 44.41,
+        "THCV": 0.16
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.04,
+        "caryophyllene": 0.1,
+        "limonene": 0.05,
+        "linalool": 0.12,
+        "nerolidol": 0.08
+      },
+      "totalTerps": 0.49,
+      "dominantTerpene": "linalool",
+      "packages": [
+        {
+          "id": 8386220,
+          "label": "1A4030300002009000099185",
+          "quantity": 7.0,
+          "packagedDate": "2026-04-28",
+          "expirationDate": "2027-01-20"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Infused Flower/Concentrate"
+    },
+    {
+      "id": 8678455,
+      "packageCount": 1,
+      "name": "HiRoller|Infused Pre-Roll Kit|Triangle Larry OG|7g",
+      "brand": "HiRoller",
+      "producer": "Marymed",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 8.0,
+      "unit": "Each",
+      "strainName": "Triangle Larry OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 40.85,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.3,
+        "CBN": 0.0,
+        "THCA": 44.64,
+        "THCV": 0.2
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.07,
+        "myrcene": 0.03,
+        "alpha-pinene": 0.01,
+        "caryophyllene": 0.19,
+        "beta-pinene": 0.02,
+        "limonene": 0.12,
+        "linalool": 0.12
+      },
+      "totalTerps": 0.76,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8678455,
+          "label": "1A4030300002009000107934",
+          "quantity": 8.0,
+          "packagedDate": "2026-07-02",
+          "expirationDate": "2027-06-17"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Infused Flower/Concentrate"
     },
     {
@@ -42933,6 +43971,64 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
+      "id": 8613722,
+      "packageCount": 1,
+      "name": "Rove | Premier Rosin Infused Prerolls - 2pk | Gelato - H | 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 4.0,
+      "unit": "Each",
+      "strainName": "Premier",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 35.74,
+        "totalCBD": 0.05,
+        "CBC": 0.07,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.61,
+        "CBGA": 0.44,
+        "CBN": 0.08,
+        "THCA": 19.25,
+        "THCV": 0.15
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.1,
+        "myrcene": 0.08,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.27,
+        "beta-pinene": 0.02,
+        "limonene": 0.17,
+        "linalool": 0.16
+      },
+      "totalTerps": 0.93,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8613722,
+          "label": "1A4030300000C83000074478",
+          "quantity": 4.0,
+          "packagedDate": "2026-06-18",
+          "expirationDate": "2027-05-04"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
       "id": 8613926,
       "packageCount": 1,
       "name": "Rove | Premier Rosin Infused Prerolls - 2pk | Pink Certz - H | 1.0g",
@@ -43101,6 +44197,63 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4711275",
+      "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
+      "id": 8613927,
+      "packageCount": 1,
+      "name": "Rove | Premier Rosin Infused Prerolls - 2pk | Super Lemon G - I | 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": "Super Lemon G",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 34.74,
+        "totalCBD": 0.09,
+        "CBC": 0.0,
+        "CBDA": 0.05,
+        "CBDV": 0.0,
+        "CBG": 0.81,
+        "CBGA": 0.7,
+        "CBN": 0.14,
+        "THCA": 17.47,
+        "THCV": 0.21
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.11,
+        "myrcene": 0.11,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 0.28,
+        "beta-pinene": 0.02,
+        "limonene": 0.05,
+        "linalool": 0.09
+      },
+      "totalTerps": 0.76,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8613927,
+          "label": "1A4030300000C83000074482",
+          "quantity": 5.0,
+          "packagedDate": "2026-06-18",
+          "expirationDate": "2027-04-03"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
@@ -49406,16 +50559,17 @@
     },
     {
       "id": 8829644,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "BL Garlic Gorilla Vape Cart 1g/1000mg",
       "brand": null,
       "producer": "Rosebud Organics",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
+        "Sales Floor",
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": "BL Garlic Gorilla",
       "strainType": null,
@@ -49451,6 +50605,13 @@
           "id": 8829644,
           "label": "1A4030300001771000040714",
           "quantity": 24.0,
+          "packagedDate": "2026-08-06",
+          "expirationDate": "2027-07-31"
+        },
+        {
+          "id": 8829659,
+          "label": "1A4030300001771000040738",
+          "quantity": 4.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-31"
         }
@@ -49521,6 +50682,59 @@
       "deal": "Soothing Sunday! 25% OFF SunMed",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4616095",
       "posCategory": "Cartridges"
+    },
+    {
+      "id": 8820798,
+      "packageCount": 1,
+      "name": "Bad Assle Melted Diamonds AIO Helly Meltz - 1 g",
+      "brand": null,
+      "producer": "Holistic Industries",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 4.0,
+      "unit": "Each",
+      "strainName": "Bad Assle Melted AIO Helly Meltz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 89.48,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.39,
+        "caryophyllene": 1.03,
+        "limonene": 0.05,
+        "linalool": 0.18
+      },
+      "totalTerps": 1.71,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8820798,
+          "label": "1A403030000012E000181567",
+          "quantity": 4.0,
+          "packagedDate": "2026-08-05",
+          "expirationDate": "2027-06-13"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Disposables"
     },
     {
       "id": 9073212,
@@ -49771,7 +50985,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Banana Pancakes",
       "strainType": null,
@@ -49806,7 +51020,7 @@
         {
           "id": 9039276,
           "label": "1A40303000001F5000450406",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-07-14"
         }
@@ -51343,7 +52557,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": null,
@@ -51377,7 +52591,7 @@
         {
           "id": 8890381,
           "label": "1A40303000001F5000420188",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-05-27"
         }
@@ -52070,6 +53284,64 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4728704",
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 8737562,
+      "packageCount": 1,
+      "name": "Cheetah Sour OG Chem LR Vape Cart 1g LG",
+      "brand": null,
+      "producer": "Rosebud Organics",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 7.0,
+      "unit": "Each",
+      "strainName": "Cheetah Sour OG Chem LR LG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 76.72,
+        "CBC": 0.7,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.87,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.38
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.28,
+        "humulene": 0.47,
+        "myrcene": 2.15,
+        "alpha-pinene": 0.25,
+        "caryophyllene": 1.66,
+        "beta-pinene": 0.06,
+        "limonene": 1.92,
+        "linalool": 0.41,
+        "terpinolene": 0.33
+      },
+      "totalTerps": 8.26,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8737562,
+          "label": "1A4030300001771000039711",
+          "quantity": 7.0,
+          "packagedDate": "2026-07-16",
+          "expirationDate": "2027-07-09"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Disposables"
     },
     {
@@ -53875,6 +55147,65 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4738167",
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 9081054,
+      "packageCount": 1,
+      "name": "DBS-LvResHTECrt-1g-JckHrrxDogWlker-S-MD (260911MED107235)-Vape",
+      "brand": null,
+      "producer": "Trulieve MD Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 6.0,
+      "unit": "Each",
+      "strainName": "DBS LvResHTECrt JckHrrxDogWlker S MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 73.19,
+        "CBC": 0.62,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.54,
+        "CBGA": 0.0,
+        "CBN": 0.23,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.14,
+        "humulene": 0.4,
+        "myrcene": 0.63,
+        "alpha-pinene": 0.24,
+        "caryophyllene": 1.36,
+        "beta-pinene": 0.3,
+        "ocimene": 1.26,
+        "limonene": 0.38,
+        "linalool": 0.28,
+        "terpinolene": 3.58
+      },
+      "totalTerps": 9.07,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9081054,
+          "label": "1A403030000238D000108617",
+          "quantity": 6.0,
+          "packagedDate": "2026-10-02",
+          "expirationDate": "2027-09-15"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Disposables"
     },
     {
@@ -55992,6 +57323,63 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 8563272,
+      "packageCount": 1,
+      "name": "GMO BD - 510 Vape Cart - 1g",
+      "brand": null,
+      "producer": "Organic Remedies MD",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": "GMO BD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.99,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.84,
+        "CBGA": 0.0,
+        "CBN": 0.21,
+        "THCA": 1.48,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.25,
+        "humulene": 0.37,
+        "myrcene": 1.05,
+        "alpha-pinene": 0.24,
+        "caryophyllene": 1.25,
+        "beta-pinene": 0.22,
+        "limonene": 2.26,
+        "linalool": 0.43
+      },
+      "totalTerps": 6.53,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8563272,
+          "label": "ABC0303000037DD000023763",
+          "quantity": 5.0,
+          "packagedDate": "2026-06-08",
+          "expirationDate": "2027-02-12"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 9090376,
       "packageCount": 1,
       "name": "Gas Cake Distillate Cartridge Strane - 1 g",
@@ -57291,6 +58679,120 @@
       "posCategory": "Disposables"
     },
     {
+      "id": 7955319,
+      "packageCount": 1,
+      "name": "HiAF|Disposable|Caramel Apple|Vape Cart|1000mg",
+      "brand": "HiAF",
+      "producer": "Marymed",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": "Caramel Apple",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.84,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.36,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.14,
+        "humulene": 0.36,
+        "myrcene": 0.19,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 1.49,
+        "beta-pinene": 0.06,
+        "limonene": 0.56,
+        "linalool": 0.24
+      },
+      "totalTerps": 3.43,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 7955319,
+          "label": "1A4030300002009000086513",
+          "quantity": 5.0,
+          "packagedDate": "2026-01-14",
+          "expirationDate": "2026-12-14"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 7954995,
+      "packageCount": 1,
+      "name": "HiAF|Disposable|Frosted Plum|Vape Cart|1000mg",
+      "brand": "HiAF",
+      "producer": "Marymed",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": "Frosted Plum",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.25,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.36,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.12,
+        "humulene": 0.27,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 1.0,
+        "beta-pinene": 0.04,
+        "limonene": 0.41,
+        "linalool": 0.63
+      },
+      "totalTerps": 2.65,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 7954995,
+          "label": "1A4030300002009000086514",
+          "quantity": 5.0,
+          "packagedDate": "2026-01-14",
+          "expirationDate": "2026-12-14"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
       "id": 8752071,
       "packageCount": 1,
       "name": "HiAF|Disposable|Mango Sunrise|Vape Cart|1000mg",
@@ -57343,6 +58845,63 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4591645",
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 8490804,
+      "packageCount": 1,
+      "name": "HiAF|Disposable|Sour Patch Watermelon|Vape Cart|1000mg",
+      "brand": "HiAF",
+      "producer": "Marymed",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 8.0,
+      "unit": "Each",
+      "strainName": "Sour Patch Watermelon",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.33,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.43,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.15,
+        "myrcene": 0.6,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.74,
+        "beta-pinene": 0.09,
+        "limonene": 1.23,
+        "linalool": 0.26,
+        "terpinolene": 0.25
+      },
+      "totalTerps": 4.21,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8490804,
+          "label": "1A4030300002009000102675",
+          "quantity": 8.0,
+          "packagedDate": "2026-05-21",
+          "expirationDate": "2027-03-29"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Disposables"
     },
     {
@@ -57405,8 +58964,8 @@
       "posCategory": "Cartridges"
     },
     {
-      "id": 8490807,
-      "packageCount": 1,
+      "id": 8490806,
+      "packageCount": 2,
       "name": "HiAF|Live Terpene|Sky OG|Vape Cart|500mg",
       "brand": "HiAF",
       "producer": "Marymed",
@@ -57415,7 +58974,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Sky OG",
       "strainType": null,
@@ -57446,6 +59005,13 @@
       "totalTerps": 8.28,
       "dominantTerpene": "caryophyllene",
       "packages": [
+        {
+          "id": 8490806,
+          "label": "1A4030300002009000102678",
+          "quantity": 5.0,
+          "packagedDate": "2026-05-21",
+          "expirationDate": "2026-12-23"
+        },
         {
           "id": 8490807,
           "label": "1A4030300002009000102679",
@@ -59666,16 +61232,17 @@
     },
     {
       "id": 9152269,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "LORE 510 Cart Pineapple Express-1 gram",
       "brand": "LORE",
       "producer": "CERES NATURALS",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
+        "Sales Floor",
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": null,
@@ -59711,6 +61278,13 @@
           "quantity": 22.0,
           "packagedDate": "2026-10-19",
           "expirationDate": "2027-10-15"
+        },
+        {
+          "id": 9152273,
+          "label": "1A4030300003201000001805",
+          "quantity": 5.0,
+          "packagedDate": "2026-10-19",
+          "expirationDate": "2027-10-15"
         }
       ],
       "price": 35.0,
@@ -59723,7 +61297,7 @@
     },
     {
       "id": 9152270,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "LORE 510 Cart Super Lemon Cake-1 gram",
       "brand": "LORE",
       "producer": "CERES NATURALS",
@@ -59732,7 +61306,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": "Super Lemon Cake",
       "strainType": null,
@@ -59768,6 +61342,13 @@
           "quantity": 21.0,
           "packagedDate": "2026-10-19",
           "expirationDate": "2027-10-15"
+        },
+        {
+          "id": 9152274,
+          "label": "1A4030300003201000001806",
+          "quantity": 5.0,
+          "packagedDate": "2026-10-19",
+          "expirationDate": "2027-10-15"
         }
       ],
       "price": 35.0,
@@ -59780,7 +61361,7 @@
     },
     {
       "id": 9152271,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "LORE AIO Berry Gelato-1 gram",
       "brand": "LORE",
       "producer": "CERES NATURALS",
@@ -59789,7 +61370,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "AIO Berry Gelato",
       "strainType": null,
@@ -59826,6 +61407,13 @@
           "quantity": 18.0,
           "packagedDate": "2026-10-19",
           "expirationDate": "2027-10-15"
+        },
+        {
+          "id": 9152275,
+          "label": "1A4030300003201000001807",
+          "quantity": 5.0,
+          "packagedDate": "2026-10-19",
+          "expirationDate": "2027-10-15"
         }
       ],
       "price": 40.0,
@@ -59838,16 +61426,17 @@
     },
     {
       "id": 9152272,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "LORE AIO Maui Wowie-1 gram",
       "brand": "LORE",
       "producer": "CERES NATURALS",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
+        "Sales Floor",
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": "AIO Maui Wowie",
       "strainType": null,
@@ -59882,6 +61471,13 @@
           "id": 9152272,
           "label": "1A4030300003201000001804",
           "quantity": 24.0,
+          "packagedDate": "2026-10-19",
+          "expirationDate": "2027-10-15"
+        },
+        {
+          "id": 9152276,
+          "label": "1A4030300003201000001808",
+          "quantity": 5.0,
           "packagedDate": "2026-10-19",
           "expirationDate": "2027-10-15"
         }
@@ -61000,8 +62596,8 @@
       "posCategory": "Disposables"
     },
     {
-      "id": 8309871,
-      "packageCount": 1,
+      "id": 8522911,
+      "packageCount": 2,
       "name": "Live Liquid Diamonds AIO: G.O.A.T.E.D x Grapefruit -.5g",
       "brand": null,
       "producer": "AHI Group",
@@ -61010,7 +62606,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 33.0,
+      "quantity": 41.0,
       "unit": "Each",
       "strainName": "G.O.A.T.E.D x Grapefruit",
       "strainType": null,
@@ -61042,6 +62638,13 @@
       "totalTerps": 12.49,
       "dominantTerpene": "myrcene",
       "packages": [
+        {
+          "id": 8522911,
+          "label": "1A4030300003D55000005975",
+          "quantity": 8.0,
+          "packagedDate": "2026-05-28",
+          "expirationDate": "2026-12-20"
+        },
         {
           "id": 8309871,
           "label": "1A4030300003D55000005452",
@@ -62322,6 +63925,64 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 8959171,
+      "packageCount": 1,
+      "name": "MD-VP-MDPAVE-POD1CR",
+      "brand": null,
+      "producer": "MCP Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 4.0,
+      "unit": "Each",
+      "strainName": "MD VP MDPAVE POD1CR",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 80.02,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.71,
+        "CBN": 0.0,
+        "THCA": 15.33,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.27,
+        "humulene": 0.86,
+        "myrcene": 0.14,
+        "alpha-pinene": 0.27,
+        "caryophyllene": 3.12,
+        "beta-pinene": 0.19,
+        "limonene": 1.37,
+        "linalool": 0.69,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 7.55,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8959171,
+          "label": "1A40303000007D1000102085",
+          "quantity": 4.0,
+          "packagedDate": "2026-09-04",
+          "expirationDate": "2027-08-13"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 9100507,
       "packageCount": 1,
       "name": "MD-VP-MDZERZ-05CR",
@@ -62377,6 +64038,63 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4734714",
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 8599501,
+      "packageCount": 1,
+      "name": "MD-VP-SOURSTRAWDSL-05DS",
+      "brand": null,
+      "producer": "MCP Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": "MD VP SOURSTRAWDSL 05DS",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.93,
+        "CBC": 0.57,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.55,
+        "CBGA": 0.0,
+        "CBN": 4.31,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.15,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 0.3,
+        "beta-pinene": 0.14,
+        "limonene": 2.14,
+        "linalool": 0.2,
+        "terpinolene": 0.19
+      },
+      "totalTerps": 3.36,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8599501,
+          "label": "1A40303000007D1000080940",
+          "quantity": 5.0,
+          "packagedDate": "2026-06-16",
+          "expirationDate": "2027-05-18"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Cartridges"
     },
     {
@@ -64102,6 +65820,64 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4718646",
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 8563615,
+      "packageCount": 1,
+      "name": "Neapolitan Space Cream LLR - PIXI Vape Cart (Color: Variety) - 1 g",
+      "brand": null,
+      "producer": "Organic Remedies MD",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": "Neapolitan Space Cream LLR",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 69.7,
+        "CBC": 0.4,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.9,
+        "CBGA": 0.0,
+        "CBN": 0.5,
+        "THCA": 0.0,
+        "THCV": 0.97
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.25,
+        "humulene": 1.2,
+        "myrcene": 0.15,
+        "alpha-pinene": 0.22,
+        "caryophyllene": 3.04,
+        "beta-pinene": 0.27,
+        "limonene": 2.69,
+        "linalool": 0.66,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 9.07,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8563615,
+          "label": "ABC0303000037DD000023762",
+          "quantity": 5.0,
+          "packagedDate": "2026-06-08",
+          "expirationDate": "2027-05-01"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Disposables"
     },
     {
@@ -67063,6 +68839,62 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 8698933,
+      "packageCount": 1,
+      "name": "Rove | Live Resin Diamonds Vape Reload | Slush Pop - S | 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 7.0,
+      "unit": "Each",
+      "strainName": "Slush Pop",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.5,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.76,
+        "CBGA": 0.0,
+        "CBN": 0.282,
+        "THCA": 0.0,
+        "THCV": 1.14
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.202,
+        "humulene": 0.03,
+        "myrcene": 0.0208,
+        "caryophyllene": 0.0609,
+        "caryophyllene-oxide": 0.0277,
+        "limonene": 0.183,
+        "terpinolene": 0.0366
+      },
+      "totalTerps": 0.585,
+      "dominantTerpene": "bisabolol",
+      "packages": [
+        {
+          "id": 8698933,
+          "label": "1A4030300000C83000076586",
+          "quantity": 7.0,
+          "packagedDate": "2026-07-08",
+          "expirationDate": "2027-06-01"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 9124635,
       "packageCount": 1,
       "name": "Rove | Live Resin Diamonds Vape Reload | Strawberry Cough - S | 1.0g",
@@ -69091,7 +70923,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Sunset Soda FSE",
       "strainType": null,
@@ -69124,7 +70956,7 @@
         {
           "id": 7944850,
           "label": "1A40303000037DD000019964",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-01-13",
           "expirationDate": "2026-11-18"
         }
@@ -70152,6 +71984,62 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4674173",
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 8777736,
+      "packageCount": 1,
+      "name": "Vape Cart: Banana OG -1g",
+      "brand": null,
+      "producer": "AHI Group",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 7.0,
+      "unit": "Each",
+      "strainName": "Banana OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 74.95,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.76,
+        "CBGA": 0.0,
+        "CBN": 0.65,
+        "THCA": 0.0,
+        "THCV": 0.71
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.23,
+        "myrcene": 4.72,
+        "alpha-pinene": 0.28,
+        "caryophyllene": 0.93,
+        "beta-pinene": 0.35,
+        "limonene": 3.2,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 9.98,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8777736,
+          "label": "1A4030300003D55000006653",
+          "quantity": 7.0,
+          "packagedDate": "2026-07-27",
+          "expirationDate": "2027-03-22"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Cartridges"
     },
     {
