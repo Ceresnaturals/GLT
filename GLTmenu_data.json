@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T16:50:02.459924+00:00",
+  "generated_at": "2026-10-25T17:00:03.026472+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2543,7 +2543,7 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": null,
-      "posCategory": "Concentrate"
+      "posCategory": null
     },
     {
       "id": 8755628,
@@ -32785,7 +32785,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 38.5,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Animal Face",
       "strainType": null,
@@ -32818,7 +32818,7 @@
         {
           "id": 9126259,
           "label": "1A40303000001F5000458209",
-          "quantity": 38.5,
+          "quantity": 35.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-19"
         }
@@ -33124,7 +33124,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 196.0,
+      "quantity": 168.0,
       "unit": "Grams",
       "strainName": "Sunshine #4",
       "strainType": null,
@@ -33157,7 +33157,7 @@
         {
           "id": 9073206,
           "label": "1A40303000001F5000453098",
-          "quantity": 196.0,
+          "quantity": 168.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-08-20"
         }
@@ -33238,7 +33238,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Washington Apple",
       "strainType": null,
@@ -33271,7 +33271,7 @@
         {
           "id": 9104964,
           "label": "1A40303000001F5000456174",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-10-01"
         }
@@ -46394,7 +46394,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Watermelon Gelato TC",
       "strainType": null,
@@ -46426,7 +46426,7 @@
         {
           "id": 8998450,
           "label": "1A40303000001F5000431278",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-07"
         }
@@ -50407,7 +50407,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Bacio Gelato",
       "strainType": null,
@@ -50442,7 +50442,7 @@
         {
           "id": 9039275,
           "label": "1A40303000001F5000450405",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-07-14"
         }
@@ -52565,9 +52565,9 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Bomb Popz",
       "strainType": null,
@@ -52597,7 +52597,7 @@
         {
           "id": 9147823,
           "label": "1A403030000012E000205852",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-16",
           "expirationDate": "2027-09-18"
         }
@@ -68091,7 +68091,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Cherry Sorbet",
       "strainType": null,
@@ -68124,7 +68124,7 @@
         {
           "id": 9145107,
           "label": "1A40303000017D5000110718",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-10-02",
           "expirationDate": "2027-10-02"
         }
@@ -70793,5 +70793,5 @@
     }
   ],
   "priceNote": "Prices shown are estimates. The register has the final price.",
-  "pricesUpdatedAt": "2026-10-25T10:00:48.621747+00:00"
+  "pricesUpdatedAt": "2026-10-25T17:00:03.027201+00:00"
 }
