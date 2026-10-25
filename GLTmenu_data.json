@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T21:30:02.980325+00:00",
+  "generated_at": "2026-10-25T21:40:02.461559+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4615,7 +4615,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": "Dirty Banana",
       "strainType": null,
@@ -4648,7 +4648,7 @@
         {
           "id": 9162070,
           "label": "1A4030300002199000069217",
-          "quantity": 27.0,
+          "quantity": 26.0,
           "packagedDate": "2026-09-21",
           "expirationDate": "2027-09-23"
         }
@@ -10720,7 +10720,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.0,
+      "quantity": 34.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10761,7 +10761,7 @@
         {
           "id": 9169021,
           "label": "1A40303000001F5000462144",
-          "quantity": 38.0,
+          "quantity": 34.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-10-07"
         }
@@ -10915,7 +10915,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10956,7 +10956,7 @@
         {
           "id": 9126325,
           "label": "1A40303000001F5000458207",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-06-19"
         }
@@ -11240,7 +11240,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11281,7 +11281,7 @@
         {
           "id": 9030586,
           "label": "1A4030300000C83000082167",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-22",
           "expirationDate": "2027-08-17"
         }
@@ -21779,7 +21779,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21820,7 +21820,7 @@
         {
           "id": 9075702,
           "label": "1A40303000003EA000260948",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-26"
         }
@@ -22168,17 +22168,16 @@
     },
     {
       "id": 9164272,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Incredibles Gummy 100mg - Watermelon Smash-10mg-10 Pieces",
       "brand": "Incredibles",
       "producer": "Chesapeake Alternatives",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22222,13 +22221,6 @@
           "quantity": 25.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-15"
-        },
-        {
-          "id": 8970466,
-          "label": "1A40303000003EA000263654",
-          "quantity": 2.0,
-          "packagedDate": "2026-09-09",
-          "expirationDate": "2027-06-24"
         }
       ],
       "price": 20.0,
@@ -29523,64 +29515,6 @@
       "posCategory": "Pre-Rolls"
     },
     {
-      "id": 9104963,
-      "packageCount": 1,
-      "name": "Golden Pineapple - Pre Pack Bud - 3.5 gram- Plastic Container",
-      "brand": null,
-      "producer": "Sunmed Growers",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "Golden Pineapple",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 26.92,
-        "totalCBD": 0.35,
-        "CBDA": 0.05,
-        "CBG": 0.27,
-        "CBN": 0.0,
-        "THCA": 30.12
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.01,
-        "humulene": 0.04,
-        "myrcene": 0.25,
-        "alpha-pinene": 0.1,
-        "caryophyllene": 0.13,
-        "eudesmol": 0.03,
-        "beta-pinene": 0.1,
-        "ocimene": 0.21,
-        "limonene": 0.19,
-        "linalool": 0.02,
-        "terpinolene": 0.77,
-        "nerolidol": 0.01
-      },
-      "totalTerps": 2.09,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 9104963,
-          "label": "1A40303000001F5000456173",
-          "quantity": 3.5,
-          "packagedDate": "2026-10-07",
-          "expirationDate": "2027-09-02"
-        }
-      ],
-      "price": 35.0,
-      "medPrice": 35.0,
-      "salePrice": 26.25,
-      "medSalePrice": 26.25,
-      "deal": "Soothing Sunday! 25% OFF SunMed",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4364606",
-      "posCategory": "Pre-Packed Flower"
-    },
-    {
       "id": 8920780,
       "packageCount": 1,
       "name": "Grape Gas Cake 8ths",
@@ -32239,7 +32173,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 180.62,
+      "quantity": 179.62,
       "unit": "Grams",
       "strainName": "Peanut Glue",
       "strainType": null,
@@ -32272,7 +32206,7 @@
         {
           "id": 7945159,
           "label": "1A4030300002E7E000016876",
-          "quantity": 180.62,
+          "quantity": 179.62,
           "packagedDate": "2026-01-13",
           "expirationDate": "2027-01-13"
         }
@@ -33095,7 +33029,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 168.0,
+      "quantity": 140.0,
       "unit": "Grams",
       "strainName": "Sunshine #4",
       "strainType": null,
@@ -33128,7 +33062,7 @@
         {
           "id": 9073206,
           "label": "1A40303000001F5000453098",
-          "quantity": 168.0,
+          "quantity": 140.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-08-20"
         }
@@ -40780,7 +40714,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 41.0,
+      "quantity": 39.0,
       "unit": "Each",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -40814,7 +40748,7 @@
         {
           "id": 9164595,
           "label": "1A40303000000CB000056638",
-          "quantity": 41.0,
+          "quantity": 39.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-05"
         }
@@ -41470,7 +41404,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Mango Dragon Juicy Stickz",
       "strainType": null,
@@ -41505,7 +41439,7 @@
         {
           "id": 8966439,
           "label": "1A403030000012E000192648",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-04-27"
         }
@@ -43267,7 +43201,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Peach Cobbler Juicy Stickz",
       "strainType": null,
@@ -43301,7 +43235,7 @@
         {
           "id": 9044759,
           "label": "1A403030000012E000196209",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-04-27"
         }
@@ -53290,7 +53224,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Citrus Got Real Melted AIO Helly Meltz",
       "strainType": null,
@@ -53320,7 +53254,7 @@
         {
           "id": 8966535,
           "label": "1A403030000012E000192632",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-08-10"
         }
@@ -56791,7 +56725,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Gas Cake",
       "strainType": null,
@@ -56825,7 +56759,7 @@
         {
           "id": 9090376,
           "label": "1A403030000012E000200831",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-05",
           "expirationDate": "2027-07-17"
         }
