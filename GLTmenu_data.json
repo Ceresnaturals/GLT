@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T10:00:40.029632+00:00",
+  "generated_at": "2026-10-26T13:00:03.505681+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -46745,6 +46745,118 @@
       ],
       "price": null,
       "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Bulk Flower"
+    },
+    {
+      "id": 9028008,
+      "packageCount": 1,
+      "name": "RS11 x Skywalker OG Bulk Shake/Trim",
+      "brand": null,
+      "producer": "MAS Alliance",
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 448.0,
+      "unit": "Grams",
+      "strainName": "RS11 x Skywalker OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 20.74,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.54,
+        "CBN": 0.0,
+        "THCA": 22.88,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.07,
+        "myrcene": 0.76,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.27,
+        "beta-pinene": 0.06,
+        "limonene": 0.38,
+        "linalool": 0.22,
+        "nerolidol": 0.05
+      },
+      "totalTerps": 2.0,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9028008,
+          "label": "1A40303000040D9000006249",
+          "quantity": 448.0,
+          "packagedDate": "2026-09-21",
+          "expirationDate": null
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Bulk Flower"
+    },
+    {
+      "id": 8998549,
+      "packageCount": 1,
+      "name": "Shake/Trim - Dark Rainbow",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 455.5,
+      "unit": "Grams",
+      "strainName": "Dark Rainbow",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 20.97,
+        "totalCBD": 0.2,
+        "CBDA": 0.05,
+        "CBG": 0.11,
+        "CBN": 0.0,
+        "THCA": 23.69
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.24,
+        "myrcene": 0.19,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.47,
+        "beta-pinene": 0.04,
+        "limonene": 0.23,
+        "linalool": 0.09
+      },
+      "totalTerps": 1.36,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8998549,
+          "label": "1A40303000001F5000431286",
+          "quantity": 455.5,
+          "packagedDate": "2026-09-15",
+          "expirationDate": null
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
