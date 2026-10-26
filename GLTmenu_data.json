@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T18:50:03.037843+00:00",
+  "generated_at": "2026-10-26T19:00:03.083631+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8167,7 +8167,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "RO CrdBudder ThunderPunch S MD",
       "strainType": null,
@@ -8202,7 +8202,7 @@
         {
           "id": 8968847,
           "label": "1A403030000238D000107265",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-11"
         }
@@ -47349,7 +47349,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Bahama Breeze",
       "strainType": null,
@@ -47384,7 +47384,7 @@
         {
           "id": 9073209,
           "label": "1A40303000001F5000453103",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-09-15"
         }
@@ -47522,7 +47522,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Pink Palmer",
       "strainType": null,
@@ -47556,7 +47556,7 @@
         {
           "id": 9073303,
           "label": "1A40303000001F5000453104",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-09-16"
         }
@@ -50366,7 +50366,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Cheetah Lilac Breath LR DG",
       "strainType": null,
@@ -50401,7 +50401,7 @@
         {
           "id": 8760179,
           "label": "1A4030300001771000040025",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-07-22",
           "expirationDate": "2027-07-14"
         }
@@ -61734,17 +61734,18 @@
       "posCategory": "Disposables"
     },
     {
-      "id": 8507797,
-      "packageCount": 1,
+      "id": 9029663,
+      "packageCount": 2,
       "name": "Nectar | Vapes | Live Resin Cartridges | Forum Cookies x ADC - 0.5g",
       "brand": null,
       "producer": "HMS Processing",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 36.0,
       "unit": "Each",
       "strainName": "Forum Cookies x ADC",
       "strainType": null,
@@ -61773,6 +61774,13 @@
       "totalTerps": 4.02,
       "dominantTerpene": "caryophyllene",
       "packages": [
+        {
+          "id": 9029663,
+          "label": "1A40303000039D1000085136",
+          "quantity": 30.0,
+          "packagedDate": "2026-09-22",
+          "expirationDate": "2027-04-06"
+        },
         {
           "id": 8507797,
           "label": "1A40303000039D1000076329",
