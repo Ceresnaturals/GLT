@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T19:20:03.214421+00:00",
+  "generated_at": "2026-10-26T19:30:02.917909+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9280,7 +9280,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Z Cream",
       "strainType": null,
@@ -9314,7 +9314,7 @@
         {
           "id": 8974356,
           "label": "1A4030300000C83000087377",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-08-25"
         }
@@ -14613,7 +14613,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14654,7 +14654,7 @@
         {
           "id": 9165431,
           "label": "1A4030300000C83000083242",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-07-30"
         }
@@ -16257,71 +16257,6 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8671890,
-      "packageCount": 1,
-      "name": "Discos Cups - Dark Chocolate Peanut Butter - 10mg - 10",
-      "brand": null,
-      "producer": "Evermore Cannabis",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.15,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8671890,
-          "label": "1A4030300000C83000064537",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-01",
-          "expirationDate": "2027-06-04"
-        }
-      ],
-      "price": 20.0,
-      "medPrice": 20.0,
-      "salePrice": 15.0,
-      "medSalePrice": 15.0,
-      "deal": "25% OFF Evermore",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4709162",
-      "posCategory": "Edibles"
-    },
-    {
       "id": 9047761,
       "packageCount": 1,
       "name": "Dixie Berry Blaze Sativa 10mg Medicated Chew-10mg-10",
@@ -16519,69 +16454,6 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664292",
-      "posCategory": "Edibles"
-    },
-    {
-      "id": 9079343,
-      "packageCount": 1,
-      "name": "Dixie Chocolate 25mg Straight Up Dark-25mg-10",
-      "brand": "Dixie",
-      "producer": "Curio Manufacturing",
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.244,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.008,
-        "CBGA": 0.0,
-        "CBN": 0.01,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 piece",
-        "totalThcMg": 250.0,
-        "thcMgPerServing": 25.0,
-        "minorsMgPerServing": {
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.8,
-          "CBGA": 0.0,
-          "CBN": 1.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9079343,
-          "label": "1A403030000012D000272423",
-          "quantity": 2.0,
-          "packagedDate": "2026-10-01",
-          "expirationDate": "2027-04-28"
-        }
-      ],
-      "price": 35.0,
-      "medPrice": 35.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664291",
       "posCategory": "Edibles"
     },
     {
@@ -30127,7 +29999,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 87.5,
       "unit": "Grams",
@@ -42341,7 +42213,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -42375,7 +42247,7 @@
         {
           "id": 9104900,
           "label": "1A40303000001F5000456178",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-07"
         }
