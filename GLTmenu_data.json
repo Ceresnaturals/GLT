@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T20:10:03.452461+00:00",
+  "generated_at": "2026-10-27T20:20:02.586919+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -17329,16 +17329,17 @@
     },
     {
       "id": 9018205,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Encore Gummies - Pineapple Raspberry - 10mg - 10pc*",
       "brand": null,
       "producer": "FGM Processing",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17380,6 +17381,13 @@
           "quantity": 4.0,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-07-20"
+        },
+        {
+          "id": 9187210,
+          "label": "1A40303000017D5000111597",
+          "quantity": 24.0,
+          "packagedDate": "2026-08-07",
+          "expirationDate": "2027-08-07"
         }
       ],
       "price": 25.0,
@@ -30087,7 +30095,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 91.0,
+      "quantity": 87.5,
       "unit": "Grams",
       "strainName": "Strawberry Jelly",
       "strainType": null,
@@ -30122,7 +30130,7 @@
         {
           "id": 9066220,
           "label": "1A4030300003521000058694",
-          "quantity": 91.0,
+          "quantity": 87.5,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-08-27"
         }
@@ -30351,63 +30359,6 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4293271",
-      "posCategory": "Pre-Packed Flower"
-    },
-    {
-      "id": 9128374,
-      "packageCount": 1,
-      "name": "Pineapple Bang 5 Buds Pre-Pack 3.5g",
-      "brand": null,
-      "producer": "Evermore Cannabis",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "Pineapple Bang 5",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 32.93,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.28,
-        "CBGA": 1.46,
-        "CBN": 0.0,
-        "THCA": 37.22,
-        "THCV": 0.24
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.07,
-        "humulene": 0.15,
-        "myrcene": 0.44,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.72,
-        "beta-pinene": 0.08,
-        "limonene": 0.6,
-        "linalool": 0.41
-      },
-      "totalTerps": 2.66,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 9128374,
-          "label": "1A40303000000CB000056059",
-          "quantity": 3.5,
-          "packagedDate": "2026-10-13",
-          "expirationDate": "2027-09-20"
-        }
-      ],
-      "price": 35.0,
-      "medPrice": 35.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4711240",
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -33629,7 +33580,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Blue zangria 2",
       "strainType": null,
@@ -33664,7 +33615,7 @@
         {
           "id": 9097315,
           "label": "1A40303000000CB000055218",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-21"
         }
@@ -36240,7 +36191,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Got Caught 4",
       "strainType": null,
@@ -36274,7 +36225,7 @@
         {
           "id": 9128279,
           "label": "1A40303000000CB000056053",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-05"
         }
@@ -37053,7 +37004,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Apple Crisp",
       "strainType": null,
@@ -37086,7 +37037,7 @@
         {
           "id": 8998743,
           "label": "1A4030300002199000062971",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-05-27",
           "expirationDate": "2027-05-30"
         }
@@ -38191,7 +38142,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -38225,7 +38176,7 @@
         {
           "id": 9128280,
           "label": "1A40303000000CB000056054",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-05"
         }
@@ -40725,7 +40676,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 34.0,
+      "quantity": 33.0,
       "unit": "Each",
       "strainName": "Pineapple Bang 5",
       "strainType": null,
@@ -40758,7 +40709,7 @@
         {
           "id": 9164597,
           "label": "1A40303000000CB000056640",
-          "quantity": 34.0,
+          "quantity": 33.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-20"
         }
@@ -45257,7 +45208,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Grape Dreams",
       "strainType": null,
@@ -45290,7 +45241,7 @@
         {
           "id": 8189787,
           "label": "1A403030000238D000092046",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-03-12",
           "expirationDate": "2027-03-08"
         }
@@ -63911,7 +63862,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Northern Lights",
       "strainType": null,
@@ -63946,7 +63897,7 @@
         {
           "id": 9124634,
           "label": "1A4030300000C83000090834",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-24"
         }
