@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T20:00:03.060976+00:00",
+  "generated_at": "2026-10-27T20:10:03.452461+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -16887,6 +16887,69 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9186800,
+      "packageCount": 1,
+      "name": "Encore Dark Chocolate - 1:1 CBN:THC - 10mg - 10pc",
+      "brand": null,
+      "producer": "FGM Processing",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.176,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.006,
+        "CBGA": 0.0,
+        "CBN": 0.179,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.112,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.336,
+          "CBGA": 0.0,
+          "CBN": 10.024,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9186800,
+          "label": "1A40303000017D5000111596",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-09-16"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9113934,
       "packageCount": 1,
       "name": "Encore Dark Chocolate - Indica RSO - 10mg - 10pc*",
@@ -17329,16 +17392,17 @@
     },
     {
       "id": 8870785,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Encore Gummies - Pomegranate Punch 1:2 CBN:THC - 10mg - 10pc*",
       "brand": null,
       "producer": "FGM Processing",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17380,6 +17444,13 @@
           "quantity": 3.0,
           "packagedDate": "2026-06-26",
           "expirationDate": "2027-06-26"
+        },
+        {
+          "id": 9187273,
+          "label": "1A40303000017D5000111598",
+          "quantity": 24.0,
+          "packagedDate": "2026-08-17",
+          "expirationDate": "2027-08-17"
         }
       ],
       "price": 25.0,
@@ -48621,7 +48692,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Wedding Cake",
       "strainType": null,
@@ -48656,7 +48727,7 @@
         {
           "id": 9107211,
           "label": "1A403030000283D000059763",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-08-11"
         }
@@ -59953,7 +60024,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": null,
@@ -59987,7 +60058,7 @@
         {
           "id": 9138904,
           "label": "1A403030000283D000058456",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-08-24"
         }
