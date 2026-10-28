@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T19:10:03.499301+00:00",
+  "generated_at": "2026-10-28T19:20:10.043977+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12945,7 +12945,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12984,7 +12984,7 @@
         {
           "id": 9047760,
           "label": "1A403030000012D000267869",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-07-29"
         }
@@ -17096,7 +17096,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17135,7 +17135,7 @@
         {
           "id": 9113928,
           "label": "1A40303000017D5000110053",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-07-28"
         }
@@ -23632,16 +23632,17 @@
     },
     {
       "id": 8947233,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Sunnies - SDG OG - Peaches & Cream Live Resin Gummies - 10mg - 10Pcs",
       "brand": "Sunnies",
       "producer": "SunMed Growers",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23685,6 +23686,13 @@
           "quantity": 2.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-08-03"
+        },
+        {
+          "id": 9188601,
+          "label": "1A40303000001F5000463346",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-09-08"
         }
       ],
       "price": 25.0,
@@ -40789,6 +40797,63 @@
       "posCategory": "Pre-Rolls"
     },
     {
+      "id": 9188400,
+      "packageCount": 1,
+      "name": "Permanent Marker Diamond Dust IPRJ 1.0g/1000mg",
+      "brand": null,
+      "producer": "SunMed Growers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Permanent Marker Dust",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 43.54,
+        "totalCBD": 0.11,
+        "CBDA": 0.03,
+        "CBG": 0.43,
+        "CBN": 0.02,
+        "THCA": 48.63
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.04,
+        "humulene": 0.12,
+        "myrcene": 0.03,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.26,
+        "beta-pinene": 0.02,
+        "ocimene": 0.03,
+        "limonene": 0.18,
+        "linalool": 0.17,
+        "terpinolene": 0.04,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 1.06,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9188400,
+          "label": "1A40303000001F5000463345",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-08-19"
+        }
+      ],
+      "price": 15.0,
+      "medPrice": 15.0,
+      "salePrice": 10.5,
+      "medSalePrice": 10.5,
+      "deal": "Waxy Wednesday! 30% OFF Concentrates",
+      "orderUrl": null,
+      "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
       "id": 9164597,
       "packageCount": 1,
       "name": "Pineapple Bang 5 Pre-Roll 2 Pack 1.0g",
@@ -41998,6 +42063,62 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
+      "id": 9188463,
+      "packageCount": 1,
+      "name": "SMG - Black Cherry Gelato - 0.5g - 5 - multi",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Black Cherry Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.6,
+        "totalCBD": 0.19,
+        "CBDA": 0.03,
+        "CBG": 0.49,
+        "CBN": 0.01,
+        "THCA": 30.94
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.17,
+        "myrcene": 0.49,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.45,
+        "beta-pinene": 0.06,
+        "limonene": 0.28,
+        "linalool": 0.06,
+        "terpinolene": 0.01,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 1.77,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9188463,
+          "label": "1A40303000001F5000463335",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": null
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 9104967,
       "packageCount": 1,
       "name": "SMG - Chem de la Chem - 0.5g - 2 - multi",
@@ -42278,6 +42399,63 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4175063",
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 9188464,
+      "packageCount": 1,
+      "name": "SMG - SDG OG - 0.5g - 2 - multi",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": "SDG OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.26,
+        "totalCBD": 0.39,
+        "CBDA": 0.07,
+        "CBG": 0.55,
+        "CBN": 0.06,
+        "THCA": 33.8
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.33,
+        "myrcene": 0.53,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 1.02,
+        "beta-pinene": 0.08,
+        "ocimene": 0.01,
+        "limonene": 0.55,
+        "linalool": 0.18,
+        "terpinolene": 0.01,
+        "nerolidol": 0.02
+      },
+      "totalTerps": 2.92,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9188464,
+          "label": "1A40303000001F5000463336",
+          "quantity": 50.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": null
+        }
+      ],
+      "price": 15.0,
+      "medPrice": 15.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Pre-Rolls"
     },
     {
@@ -42849,6 +43027,62 @@
       "medSalePrice": 31.5,
       "deal": "Waxy Wednesday! 30% OFF Concentrates",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4734744",
+      "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
+      "id": 9188470,
+      "packageCount": 1,
+      "name": "Sunshine #4 - Diamond Duster 0.5g Infused Pre-Roll 5-Pack Tin",
+      "brand": "Diamond Duster",
+      "producer": "SunMed Growers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Duster Tin",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 46.8,
+        "totalCBD": 0.13,
+        "CBDA": 0.03,
+        "CBG": 0.36,
+        "CBN": 0.03,
+        "THCA": 52.46
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.17,
+        "myrcene": 0.02,
+        "alpha-pinene": 0.01,
+        "caryophyllene": 0.45,
+        "eudesmol": 0.01,
+        "beta-pinene": 0.01,
+        "limonene": 0.04,
+        "linalool": 0.1,
+        "nerolidol": 0.04
+      },
+      "totalTerps": 1.06,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9188470,
+          "label": "1A40303000001F5000463344",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-09-08"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": 28.0,
+      "medSalePrice": 28.0,
+      "deal": "Waxy Wednesday! 30% OFF Concentrates",
+      "orderUrl": null,
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
@@ -43540,6 +43774,63 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
+      "id": 9188465,
+      "packageCount": 1,
+      "name": "Voyager - Pre Roll Joints - 0.5 gram - 2 Pack",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Grams",
+      "strainName": "Voyager",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.74,
+        "totalCBD": 0.26,
+        "CBDA": 0.05,
+        "CBG": 0.13,
+        "CBN": 0.01,
+        "THCA": 27.49
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.01,
+        "humulene": 0.05,
+        "myrcene": 0.2,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.11,
+        "beta-pinene": 0.08,
+        "ocimene": 0.12,
+        "limonene": 0.11,
+        "linalool": 0.04,
+        "terpinolene": 0.48,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 1.39,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9188465,
+          "label": "1A40303000001F5000463337",
+          "quantity": 50.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": null
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 8998450,
       "packageCount": 1,
       "name": "Watermelon Gelato - Pre Roll Joints - 0.5 gram - 2 Pack",
@@ -44141,7 +44432,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 343.0,
+      "quantity": 339.5,
       "unit": "Grams",
       "strainName": "RS11 x Skywalker OG",
       "strainType": null,
@@ -44175,7 +44466,7 @@
         {
           "id": 9028008,
           "label": "1A40303000040D9000006249",
-          "quantity": 343.0,
+          "quantity": 339.5,
           "packagedDate": "2026-09-21",
           "expirationDate": null
         }
@@ -46892,6 +47183,67 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 9188467,
+      "packageCount": 1,
+      "name": "Airo Pod Sunshine #4 LLR 1.0g/1000mg",
+      "brand": "Airo",
+      "producer": "SunMed Growers",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Sunshine LLR",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 74.08,
+        "totalCBD": 0.17,
+        "CBC": 1.56,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.88,
+        "CBGA": 0.0,
+        "CBN": 0.08,
+        "THCA": 0.0,
+        "THCV": 0.54
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.44,
+        "myrcene": 3.35,
+        "alpha-pinene": 0.45,
+        "caryophyllene": 1.49,
+        "beta-pinene": 0.38,
+        "caryophyllene-oxide": 0.04,
+        "ocimene": 0.32,
+        "limonene": 2.14,
+        "linalool": 0.66,
+        "terpinolene": 0.07
+      },
+      "totalTerps": 10.43,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9188467,
+          "label": "1A40303000001F5000463340",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-09-01"
+        }
+      ],
+      "price": 60.0,
+      "medPrice": 60.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 9073209,
       "packageCount": 1,
       "name": "AiroPod Cartridge | Artisan | Bahama Breeze - 1g",
@@ -47123,6 +47475,63 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 9188398,
+      "packageCount": 1,
+      "name": "AiroX Disposable Vaporizer | Artisan | Midnight Moon - 2g",
+      "brand": null,
+      "producer": "SunMed Growers",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "AiroX Vaporizer",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.02,
+        "totalCBD": 0.21,
+        "CBC": 0.76,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.33,
+        "CBGA": 0.0,
+        "CBN": 0.25,
+        "THCA": 0.0,
+        "THCV": 1.03
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 1.2,
+        "alpha-pinene": 0.12,
+        "caryophyllene": 0.33,
+        "beta-pinene": 0.09,
+        "limonene": 2.69,
+        "linalool": 0.06,
+        "terpinolene": 0.78
+      },
+      "totalTerps": 5.43,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9188398,
+          "label": "1A40303000001F5000463338",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-09-23"
+        }
+      ],
+      "price": 85.0,
+      "medPrice": 85.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
       "id": 9168810,
       "packageCount": 1,
       "name": "AiroX Disposable Vaporizer | Liquid Diamonds | Golden Pineapple - 2g",
@@ -47179,6 +47588,67 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4708656",
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 9188466,
+      "packageCount": 1,
+      "name": "AiroX Disposable Vaporizer | Liquid Diamonds | SDG OG - 2g",
+      "brand": null,
+      "producer": "SunMed Growers",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "AiroX Vaporizer",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.8,
+        "totalCBD": 0.284,
+        "CBC": 0.79,
+        "CBDA": 0.05,
+        "CBDV": 0.0,
+        "CBG": 2.39,
+        "CBGA": 0.4,
+        "CBN": 0.25,
+        "THCA": 5.32,
+        "THCV": 0.88
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.18,
+        "myrcene": 1.19,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 0.62,
+        "beta-pinene": 0.03,
+        "camphene": 0.04,
+        "fenchol": 0.06,
+        "limonene": 0.93,
+        "linalool": 0.17,
+        "terpineol": 0.03,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.37,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9188466,
+          "label": "1A40303000001F5000463339",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-09-28"
+        }
+      ],
+      "price": 85.0,
+      "medPrice": 85.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Disposables"
     },
     {
@@ -47646,6 +48116,65 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4492840",
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9188468,
+      "packageCount": 1,
+      "name": "Banana Munson Vape 0.5g/500mg",
+      "brand": null,
+      "producer": "SunMed Growers",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Banana Munson",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 82.48,
+        "totalCBD": 0.26,
+        "CBC": 1.08,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.99,
+        "CBGA": 0.0,
+        "CBN": 0.18,
+        "THCA": 0.0,
+        "THCV": 0.87
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.06,
+        "myrcene": 2.18,
+        "alpha-pinene": 1.47,
+        "caryophyllene": 0.41,
+        "beta-pinene": 1.22,
+        "caryophyllene-oxide": 0.02,
+        "limonene": 4.29,
+        "linalool": 0.15,
+        "terpinolene": 0.14
+      },
+      "totalTerps": 11.15,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9188468,
+          "label": "1A40303000001F5000463341",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-08-24"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Cartridges"
     },
     {
@@ -53479,7 +54008,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Fruiter Cereal",
       "strainType": null,
@@ -53510,7 +54039,7 @@
         {
           "id": 9095852,
           "label": "1A4030300000C83000090143",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-09-15"
         }
@@ -56752,6 +57281,65 @@
       "medSalePrice": 21.0,
       "deal": "40% Off",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4713560",
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9188469,
+      "packageCount": 1,
+      "name": "Jack Herer Distillate Vape 0.5g/500mg",
+      "brand": null,
+      "producer": "SunMed Growers",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Jack Herer",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 80.64,
+        "totalCBD": 0.19,
+        "CBC": 1.07,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.93,
+        "CBGA": 0.0,
+        "CBN": 0.21,
+        "THCA": 0.0,
+        "THCV": 0.9
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.22,
+        "myrcene": 2.0,
+        "alpha-pinene": 0.44,
+        "caryophyllene": 0.6,
+        "beta-pinene": 0.31,
+        "caryophyllene-oxide": 0.03,
+        "ocimene": 0.02,
+        "limonene": 1.32,
+        "terpinolene": 3.95
+      },
+      "totalTerps": 10.54,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9188469,
+          "label": "1A40303000001F5000463342",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-08-24"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Cartridges"
     },
     {
@@ -62423,7 +63011,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Pink Lemonade",
       "strainType": null,
@@ -62455,7 +63043,7 @@
         {
           "id": 9126343,
           "label": "1A40303000001F5000458223",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-24"
         }
