@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T17:30:03.401207+00:00",
+  "generated_at": "2026-10-28T17:40:03.246758+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1862,7 +1862,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Lilac Diesel",
       "strainType": null,
@@ -1889,7 +1889,7 @@
         {
           "id": 8992319,
           "label": "1A403030000283D000061331",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-14",
           "expirationDate": "2027-08-04"
         }
@@ -5617,7 +5617,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "MD EXT MDSPTZ 1LB",
       "strainType": null,
@@ -5651,7 +5651,7 @@
         {
           "id": 8681339,
           "label": "1A40303000007D1000085096",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-07-03",
           "expirationDate": "2027-06-11"
         }
@@ -11339,7 +11339,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11380,7 +11380,7 @@
         {
           "id": 9124316,
           "label": "1A4030300003522000219670",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-24"
         }
@@ -11658,7 +11658,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11697,7 +11697,7 @@
         {
           "id": 9124094,
           "label": "1A4030300003522000219671",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-18"
         }
@@ -12048,7 +12048,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12087,7 +12087,7 @@
         {
           "id": 9124100,
           "label": "1A4030300003522000219673",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-19"
         }
@@ -15913,45 +15913,46 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8769660,
-      "packageCount": 1,
+      "id": 9173950,
+      "packageCount": 2,
       "name": "Dixie Peppermint Relaxing Tablets-5mg-60",
       "brand": "Dixie",
       "producer": "Curio Manufacturing",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 1.429,
-        "CBC": 0.019,
+        "totalTHC": 1.39,
+        "CBC": 0.02,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.058,
+        "CBG": 0.054,
         "CBGA": 0.0,
-        "CBN": 0.083,
-        "THCA": 0.0,
-        "THCV": 0.022
+        "CBN": 0.01,
+        "THCA": 0.008,
+        "THCV": 0.013
       },
       "dose": {
         "servingSize": "1 tablet",
         "totalThcMg": 300.0,
         "thcMgPerServing": 5.0,
         "minorsMgPerServing": {
-          "CBC": 0.066,
+          "CBC": 0.07,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.203,
+          "CBG": 0.189,
           "CBGA": 0.0,
-          "CBN": 0.29,
-          "THCA": 0.0,
-          "THCV": 0.077
+          "CBN": 0.035,
+          "THCA": 0.028,
+          "THCV": 0.045
         },
         "minorsEstimated": true
       },
@@ -15959,6 +15960,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9173950,
+          "label": "1A403030000012D000277073",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-22",
+          "expirationDate": "2027-09-30"
+        },
         {
           "id": 8769660,
           "label": "1A403030000012D000257037",
@@ -17020,7 +17028,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17059,7 +17067,7 @@
         {
           "id": 9018114,
           "label": "1A40303000017D5000107152",
-          "quantity": 6.0,
+          "quantity": 4.0,
           "packagedDate": "2026-06-30",
           "expirationDate": "2027-06-30"
         }
@@ -48967,7 +48975,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Bomb Popz",
       "strainType": null,
@@ -48997,7 +49005,7 @@
         {
           "id": 9147823,
           "label": "1A403030000012E000205852",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-16",
           "expirationDate": "2027-09-18"
         }
