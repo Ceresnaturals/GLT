@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T21:50:02.379924+00:00",
+  "generated_at": "2026-10-28T22:00:04.717548+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2188,7 +2188,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Guava Gelato",
       "strainType": null,
@@ -2222,7 +2222,7 @@
         {
           "id": 8849839,
           "label": "1A403030000283D000057288",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-11",
           "expirationDate": "2027-07-31"
         }
@@ -8753,13 +8753,13 @@
           "expirationDate": "2027-10-05"
         }
       ],
-      "price": 55.0,
-      "medPrice": 55.0,
-      "salePrice": 38.5,
-      "medSalePrice": 38.5,
-      "deal": "Waxy Wednesday! 30% OFF Concentrates",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4469912",
-      "posCategory": "Concentrate"
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 8974356,
@@ -9078,7 +9078,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9108,7 +9108,7 @@
         {
           "id": 9079416,
           "label": "1A403030000012D000272418",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-04-20"
         }
@@ -13765,69 +13765,6 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8462431,
-      "packageCount": 1,
-      "name": "Curio Wellness Thrive 5mg Plus Terpenes Mango Momentum Chews-5mg-20",
-      "brand": "Curio Wellness",
-      "producer": "Curio Manufacturing",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.125,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.005,
-        "CBGA": 0.0,
-        "CBN": 0.004,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 5.0,
-        "minorsMgPerServing": {
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.2,
-          "CBGA": 0.0,
-          "CBN": 0.16,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8462431,
-          "label": "1A403030000012D000233657",
-          "quantity": 1.0,
-          "packagedDate": "2026-05-14",
-          "expirationDate": "2027-03-26"
-        }
-      ],
-      "price": 25.0,
-      "medPrice": 25.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4208024",
-      "posCategory": "Edibles"
-    },
-    {
       "id": 8678521,
       "packageCount": 1,
       "name": "Curio Wellness Thrive 5mg Plus Terpenes Orange Spark Chews-5mg-20",
@@ -15851,7 +15788,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3685278",
       "posCategory": "Edibles"
     },
     {
@@ -15977,7 +15914,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3684205",
       "posCategory": "Edibles"
     },
     {
@@ -16306,7 +16243,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664303",
       "posCategory": "Edibles"
     },
     {
@@ -20862,7 +20799,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20903,7 +20840,7 @@
         {
           "id": 9131062,
           "label": "1A40303000003EA000253101",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-14",
           "expirationDate": "2027-08-25"
         }
@@ -22038,7 +21975,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22079,7 +22016,7 @@
         {
           "id": 9051872,
           "label": "1A4030300000193000108909",
-          "quantity": 5.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-25",
           "expirationDate": "2027-06-30"
         }
@@ -22280,7 +22217,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664600",
       "posCategory": "Edibles"
     },
     {
@@ -22849,7 +22786,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174965",
       "posCategory": "Edibles"
     },
     {
@@ -26567,7 +26504,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4738427",
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -26742,7 +26679,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174268",
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -34669,7 +34606,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4738432",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -34786,7 +34723,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4738445",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -34903,7 +34840,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4738430",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -37114,7 +37051,7 @@
       "salePrice": 17.5,
       "medSalePrice": 17.5,
       "deal": "Waxy Wednesday! 30% OFF Concentrates",
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4208085",
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
@@ -40850,7 +40787,7 @@
       "salePrice": 10.5,
       "medSalePrice": 10.5,
       "deal": "Waxy Wednesday! 30% OFF Concentrates",
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4674633",
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
@@ -42115,7 +42052,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4175016",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -42455,7 +42392,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4224616",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -43026,7 +42963,7 @@
       "salePrice": 28.0,
       "medSalePrice": 28.0,
       "deal": "Waxy Wednesday! 30% OFF Concentrates",
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4739406",
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
@@ -43771,7 +43708,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4341625",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -45436,13 +45373,13 @@
           "expirationDate": "2027-09-11"
         }
       ],
-      "price": 25.0,
-      "medPrice": 25.0,
-      "salePrice": 17.5,
-      "medSalePrice": 17.5,
-      "deal": "Waxy Wednesday! 30% off Verano Brands",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4175148",
-      "posCategory": "Disposables"
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 8238847,
@@ -47184,7 +47121,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4619917",
       "posCategory": "Cartridges"
     },
     {
@@ -47472,7 +47409,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4578553",
       "posCategory": "Disposables"
     },
     {
@@ -47592,7 +47529,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4700741",
       "posCategory": "Disposables"
     },
     {
@@ -48059,7 +47996,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4492840",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4208159",
       "posCategory": "Cartridges"
     },
     {
@@ -48118,7 +48055,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4208159",
       "posCategory": "Cartridges"
     },
     {
@@ -51363,7 +51300,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174298",
       "posCategory": "Cartridges"
     },
     {
@@ -51540,7 +51477,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4493151",
       "posCategory": "Cartridges"
     },
     {
@@ -52008,7 +51945,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4481962",
       "posCategory": "Cartridges"
     },
     {
@@ -57283,7 +57220,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4628416",
       "posCategory": "Cartridges"
     },
     {
@@ -57343,7 +57280,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4589891",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4628416",
       "posCategory": "Cartridges"
     },
     {
@@ -67740,5 +67677,5 @@
     }
   ],
   "priceNote": "Prices shown are estimates. The register has the final price.",
-  "pricesUpdatedAt": "2026-10-28T17:00:02.973165+00:00"
+  "pricesUpdatedAt": "2026-10-28T22:00:04.718591+00:00"
 }
