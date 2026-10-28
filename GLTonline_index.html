@@ -301,6 +301,9 @@ main{padding:16px clamp(10px,2vw,26px) 60px;min-width:0}
 .toolbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:12px}
 .count{font-size:13px;color:var(--ink-faint)}
 .count b{color:var(--ink);font-family:var(--font-num)}
+.perpage{display:flex;align-items:center;gap:6px}
+.perpage .lbl{font-size:11px;color:var(--ink-faint);text-transform:uppercase;letter-spacing:.1em}
+.perpage .viewtoggle button{padding:6px 10px;font-family:var(--font-num)}
 .sorts{display:flex;gap:6px;margin-left:auto;flex-wrap:wrap}
 /* ---------- prices (from Dutchie) + order links ---------- */
 .price{font-family:var(--font-num);font-weight:700;white-space:nowrap}
@@ -584,6 +587,7 @@ body.touch .stockflags{gap:6px}
 body.touch .stockbtn{width:44px;height:44px;border-radius:10px}
 body.touch .stockbtn svg{width:18px;height:18px}
 body.touch .pager{font-size:15px}
+body.touch .perpage .viewtoggle button{padding:0 14px}
 /* table view */
 body.touch .tablewrap{-webkit-overflow-scrolling:touch;overscroll-behavior-x:contain}
 body.touch .tablewrap col:first-child{width:60px !important}
@@ -727,6 +731,12 @@ body.embed .cmpbar{bottom:auto} /* top is set in JS instead, from tracked parent
   <main>
     <div class="toolbar">
       <div class="count"><b id="shown">0</b> of <b id="total">0</b> products</div>
+      <div class="perpage" title="Products per page">
+        <span class="lbl">Show</span>
+        <div class="viewtoggle" id="perPage">
+          <button type="button" data-n="25">25</button><button type="button" data-n="50">50</button><button type="button" data-n="75">75</button><button type="button" data-n="100">100</button>
+        </div>
+      </div>
       <div class="stockflags">
         <button class="stockbtn" id="flagExpiring" type="button" title="Show only: expiring within 45 days" aria-label="Show only products expiring within 45 days">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2.5M9 2h6"/></svg>
@@ -1003,7 +1013,9 @@ const state = {
 };
 const EXPIRING_SOON_DAYS = 45;
 const AGING_STOCK_DAYS = 100;
-const PAGE_SIZE = 100;
+const PAGE_SIZE_OPTIONS = [25, 50, 75, 100];
+let PAGE_SIZE = 100;
+try{ const n = +localStorage.getItem('glt_per_page'); if(PAGE_SIZE_OPTIONS.includes(n)) PAGE_SIZE = n; }catch(e){}
 
 /* ============================================================
    DATA LOADING (fetch, with file-picker fallback for file://)
@@ -1268,6 +1280,20 @@ function renderPager(totalMatched, pageCount, pageStart, shownOnPage){
   document.getElementById('pagerPrev').disabled = state.page<=0;
   document.getElementById('pagerNext').disabled = state.page>=pageCount-1;
 }
+function updatePerPageButtons(){
+  document.querySelectorAll('#perPage button').forEach(b=>b.classList.toggle('on', +b.dataset.n===PAGE_SIZE));
+}
+document.querySelectorAll('#perPage button').forEach(b=>{
+  b.onclick=()=>{
+    const n=+b.dataset.n; if(n===PAGE_SIZE) return;
+    // keep the first visible item on screen when switching sizes
+    const firstIdx = state.page * PAGE_SIZE;
+    PAGE_SIZE = n; state.page = Math.floor(firstIdx / n);
+    try{ localStorage.setItem('glt_per_page', String(n)); }catch(e){}
+    updatePerPageButtons(); render();
+  };
+});
+updatePerPageButtons();
 document.getElementById('pagerPrev').onclick=()=>{ state.page--; render(); document.querySelector('.tablewrap').scrollIntoView({block:'start',behavior:'smooth'}); };
 document.getElementById('pagerNext').onclick=()=>{ state.page++; render(); document.querySelector('.tablewrap').scrollIntoView({block:'start',behavior:'smooth'}); };
 
@@ -1428,7 +1454,7 @@ function toggleSort(key, additive){
   render();
 }
 function updateSortButtons(){
-  document.querySelectorAll('.sortbtn').forEach(b=>{
+  document.querySelectorAll('.sortbtn[data-sort]').forEach(b=>{
     const s=state.sorts.find(x=>x.key===b.dataset.sort);
     b.classList.toggle('on', !!s);
     b.textContent = b.textContent.replace(/[ ↑↓].*$/,'');
@@ -1443,7 +1469,7 @@ function updateSortButtons(){
 document.querySelectorAll('thead th[data-sort]').forEach(th=>{
   th.onclick=e=>toggleSort(th.dataset.sort, e.shiftKey);
 });
-document.querySelectorAll('.sortbtn').forEach(b=>{
+document.querySelectorAll('.sortbtn[data-sort]').forEach(b=>{
   b.onclick=e=>toggleSort(b.dataset.sort, e.shiftKey);
 });
 document.getElementById('flagExpiring').onclick=()=>{ state.flagExpiring=!state.flagExpiring; render(); };
