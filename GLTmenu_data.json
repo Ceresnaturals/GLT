@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T17:10:02.497886+00:00",
+  "generated_at": "2026-10-28T17:20:03.780548+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3539,7 +3539,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 38.0,
       "unit": "Each",
@@ -10886,7 +10886,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10927,7 +10927,7 @@
         {
           "id": 9131063,
           "label": "1A40303000003EA000253102",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-10-14",
           "expirationDate": "2027-08-05"
         }
@@ -36317,17 +36317,18 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
-      "id": 9111210,
-      "packageCount": 1,
+      "id": 9174037,
+      "packageCount": 2,
       "name": "Kaviar Hybrid Infused Pre-Roll - 1.5g",
       "brand": "Kaviar",
       "producer": "Curio Manufacturing",
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 35.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -36357,6 +36358,13 @@
       "totalTerps": 1.22,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 9174037,
+          "label": "1A403030000012D000277065",
+          "quantity": 30.0,
+          "packagedDate": "2026-10-22",
+          "expirationDate": "2027-08-26"
+        },
         {
           "id": 9111210,
           "label": "1A403030000012D000275070",
@@ -37704,7 +37712,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -37738,7 +37746,7 @@
         {
           "id": 9164595,
           "label": "1A40303000000CB000056638",
-          "quantity": 22.0,
+          "quantity": 20.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-05"
         }
