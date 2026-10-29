@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T19:20:04.233942+00:00",
+  "generated_at": "2026-10-29T19:30:03.873800+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -358,7 +358,7 @@
       "category": "Capsule",
       "metrcCategory": "Infused Edible (Capsule Only)",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -6683,6 +6683,61 @@
       "posCategory": "Hash"
     },
     {
+      "id": 9191035,
+      "packageCount": 1,
+      "name": "NH Lemon Cherry Gelato Kief-1g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Lemon Cherry Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.69,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.28,
+        "CBN": 0.0,
+        "THCA": 31.64,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.07,
+        "myrcene": 0.15,
+        "caryophyllene": 0.23,
+        "beta-pinene": 0.03,
+        "limonene": 0.11,
+        "linalool": 0.35
+      },
+      "totalTerps": 1.17,
+      "dominantTerpene": "linalool",
+      "packages": [
+        {
+          "id": 9191035,
+          "label": "1A4030300003522000227523",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-08-14"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Kief"
+    },
+    {
       "id": 9124729,
       "packageCount": 1,
       "name": "NH Lemon Cherry Gelato RSO-1ml",
@@ -11884,7 +11939,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11925,7 +11980,7 @@
         {
           "id": 9191004,
           "label": "1A4030300003522000227506",
-          "quantity": 25.0,
+          "quantity": 23.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-08"
         }
@@ -12394,7 +12449,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -12459,7 +12514,7 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -12524,7 +12579,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -12784,7 +12839,7 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -17382,7 +17437,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -17421,7 +17476,7 @@
         {
           "id": 8959111,
           "label": "1A40303000017D5000105511",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-06-18",
           "expirationDate": "2027-06-18"
         }
@@ -18603,7 +18658,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 20.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18644,7 +18699,7 @@
         {
           "id": 9167683,
           "label": "1A4030300002009000119438",
-          "quantity": 20.0,
+          "quantity": 18.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-05-22"
         }
@@ -27908,7 +27963,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 98.0,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Grape Dosi",
       "strainType": null,
@@ -27943,7 +27998,7 @@
         {
           "id": 9002420,
           "label": "1A4030300004845000044240",
-          "quantity": 98.0,
+          "quantity": 84.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-25"
         }
@@ -40032,6 +40087,65 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
+      "id": 9190748,
+      "packageCount": 1,
+      "name": "NH Guava IX .5g-1g 2pk-Multi",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Grams",
+      "strainName": "Guava IX",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.08,
+        "totalCBD": 0.114,
+        "CBC": 0.0,
+        "CBDA": 0.13,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.77,
+        "CBN": 0.0,
+        "THCA": 28.76,
+        "THCV": 0.21
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.16,
+        "humulene": 0.29,
+        "myrcene": 0.29,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.79,
+        "beta-pinene": 0.03,
+        "limonene": 0.27,
+        "linalool": 0.12,
+        "nerolidol": 0.11
+      },
+      "totalTerps": 2.22,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9190748,
+          "label": "1A4030300003521000062724",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-10-09"
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 8518176,
       "packageCount": 1,
       "name": "NH Larry Bird Mints Infused Preroll-.5g 2pk",
@@ -40559,7 +40673,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Grams",
       "strainName": "Sequoia Strawberry",
       "strainType": null,
@@ -40592,7 +40706,7 @@
         {
           "id": 9124302,
           "label": "1A4030300003521000062082",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-03-21"
         }
@@ -43830,7 +43944,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 42.0,
+      "quantity": 40.25,
       "unit": "Grams",
       "strainName": "Velcroz",
       "strainType": null,
@@ -43864,7 +43978,7 @@
         {
           "id": 9164144,
           "label": "1A40303000003EA000255094",
-          "quantity": 42.0,
+          "quantity": 40.25,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-08-07"
         }
@@ -56017,7 +56131,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -56929,7 +57043,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 25.0,
       "unit": "Each",
