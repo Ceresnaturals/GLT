@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T18:10:02.863604+00:00",
+  "generated_at": "2026-10-29T18:20:02.953927+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -6903,7 +6903,7 @@
     },
     {
       "id": 9124365,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "NH Orange Chemeleon Kief-1g",
       "brand": "NH",
       "producer": "Kind Therapeutics USA",
@@ -6912,35 +6912,36 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Orange Chemeleon",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 34.74,
+        "totalTHC": 34.73,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
         "CBG": 0.0,
-        "CBGA": 1.08,
+        "CBGA": 0.66,
         "CBN": 0.0,
-        "THCA": 37.56,
-        "THCV": 0.49
+        "THCA": 37.89,
+        "THCV": 0.51
       },
       "dose": null,
       "terpenes": {
-        "bisabolol": 0.14,
-        "humulene": 0.06,
-        "myrcene": 0.11,
-        "caryophyllene": 0.23,
-        "eudesmol": 0.15,
-        "beta-pinene": 0.03,
-        "limonene": 0.12,
-        "linalool": 0.19
+        "bisabolol": 0.12,
+        "humulene": 0.08,
+        "myrcene": 0.25,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.25,
+        "eudesmol": 0.2,
+        "beta-pinene": 0.05,
+        "limonene": 0.35,
+        "linalool": 0.22
       },
-      "totalTerps": 1.19,
-      "dominantTerpene": "caryophyllene",
+      "totalTerps": 1.87,
+      "dominantTerpene": "limonene",
       "packages": [
         {
           "id": 9124365,
@@ -6948,6 +6949,13 @@
           "quantity": 10.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-08"
+        },
+        {
+          "id": 9190794,
+          "label": "1A4030300003522000227524",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-10-09"
         }
       ],
       "price": 25.0,
@@ -29891,7 +29899,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 50.12,
+      "quantity": 46.62,
       "unit": "Grams",
       "strainName": "Peanut Glue",
       "strainType": null,
@@ -29924,7 +29932,7 @@
         {
           "id": 7945159,
           "label": "1A4030300002E7E000016876",
-          "quantity": 50.12,
+          "quantity": 46.62,
           "packagedDate": "2026-01-13",
           "expirationDate": "2027-01-13"
         }
@@ -40479,7 +40487,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Rainbow Push Pop #4",
       "strainType": null,
@@ -40512,7 +40520,7 @@
         {
           "id": 9128369,
           "label": "1A40303000000CB000056057",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-14"
         }
@@ -43878,7 +43886,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 276.5,
+      "quantity": 273.0,
       "unit": "Grams",
       "strainName": "RS11 x Skywalker OG",
       "strainType": null,
@@ -43912,7 +43920,7 @@
         {
           "id": 9028008,
           "label": "1A40303000040D9000006249",
-          "quantity": 276.5,
+          "quantity": 273.0,
           "packagedDate": "2026-09-21",
           "expirationDate": null
         }
@@ -43936,7 +43944,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 371.5,
+      "quantity": 368.0,
       "unit": "Grams",
       "strainName": "Dark Rainbow",
       "strainType": null,
@@ -43966,7 +43974,7 @@
         {
           "id": 8998549,
           "label": "1A40303000001F5000431286",
-          "quantity": 371.5,
+          "quantity": 368.0,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -43990,7 +43998,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 111.0,
+      "quantity": 104.0,
       "unit": "Grams",
       "strainName": "Peach Crescendo TC",
       "strainType": null,
@@ -44021,7 +44029,7 @@
         {
           "id": 8998458,
           "label": "1A40303000001F5000431287",
-          "quantity": 111.0,
+          "quantity": 104.0,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
