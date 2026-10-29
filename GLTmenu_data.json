@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T17:00:02.554056+00:00",
+  "generated_at": "2026-10-29T17:10:03.161469+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -19755,6 +19755,71 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9190793,
+      "packageCount": 1,
+      "name": "In House Watermelon Fast Acting V3 Gummies-40mg-10",
+      "brand": "In House",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.75,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.09,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 4.5,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9190793,
+          "label": "1A4030300003522000227522",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-10-02"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": 30.0,
+      "medSalePrice": 30.0,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174650",
+      "posCategory": "Edibles"
+    },
+    {
       "id": 8996079,
       "packageCount": 1,
       "name": "In House Wild Berry Fast Acting V2 Gummies-10mg-10",
@@ -28436,7 +28501,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 308.0,
+      "quantity": 280.0,
       "unit": "Grams",
       "strainName": "Grape Gummiez",
       "strainType": null,
@@ -28469,7 +28534,7 @@
         {
           "id": 9162061,
           "label": "1A403030000025B000092959",
-          "quantity": 308.0,
+          "quantity": 280.0,
           "packagedDate": "2026-10-05",
           "expirationDate": "2027-10-05"
         }
@@ -30049,7 +30114,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 294.0,
+      "quantity": 280.0,
       "unit": "Grams",
       "strainName": "Rainbow Gelato",
       "strainType": null,
@@ -30081,7 +30146,7 @@
         {
           "id": 8731178,
           "label": "1A40303000001F5000404820",
-          "quantity": 294.0,
+          "quantity": 280.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-05-28"
         }
@@ -41898,7 +41963,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 44.0,
+      "quantity": 43.0,
       "unit": "Each",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -41931,7 +41996,7 @@
         {
           "id": 9168514,
           "label": "1A40303000001F5000462129",
-          "quantity": 44.0,
+          "quantity": 43.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-14"
         }
@@ -43574,7 +43639,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 90.0,
+      "quantity": 80.0,
       "unit": "Grams",
       "strainName": "the crazy lady- BLVCK MRKT",
       "strainType": null,
@@ -43608,7 +43673,7 @@
         {
           "id": 9098469,
           "label": "1A40303000040D9000006502",
-          "quantity": 90.0,
+          "quantity": 80.0,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
