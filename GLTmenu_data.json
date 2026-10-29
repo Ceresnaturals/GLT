@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T15:20:02.791171+00:00",
+  "generated_at": "2026-10-29T15:30:03.608839+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1102,7 +1102,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Guava Drizzle",
       "strainType": null,
@@ -1135,7 +1135,7 @@
         {
           "id": 8673137,
           "label": "1A403030000283D000052563",
-          "quantity": 5.0,
+          "quantity": 1.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-05-28"
         }
@@ -1218,7 +1218,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Red Sunset",
       "strainType": null,
@@ -1251,7 +1251,7 @@
         {
           "id": 8690390,
           "label": "1A403030000283D000052768",
-          "quantity": 6.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-06-17"
         }
@@ -8070,7 +8070,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Space Diesel",
       "strainType": null,
@@ -8106,7 +8106,7 @@
         {
           "id": 8696828,
           "label": "1A40303000001F5000401547",
-          "quantity": 9.0,
+          "quantity": 7.0,
           "packagedDate": "2026-07-08",
           "expirationDate": "2027-03-31"
         }
@@ -15491,7 +15491,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15530,7 +15530,7 @@
         {
           "id": 8863978,
           "label": "1A403030000012D000260510",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-04-22"
         }
@@ -15618,7 +15618,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15664,7 +15664,7 @@
         {
           "id": 8769660,
           "label": "1A403030000012D000257037",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-06-18"
         }
@@ -16722,7 +16722,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16761,7 +16761,7 @@
         {
           "id": 9113928,
           "label": "1A40303000017D5000110053",
-          "quantity": 16.0,
+          "quantity": 13.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-07-28"
         }
@@ -24644,7 +24644,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -24683,7 +24683,7 @@
         {
           "id": 8985435,
           "label": "1A403030000390D000067492",
-          "quantity": 10.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-11",
           "expirationDate": "2027-08-18"
         }
@@ -26382,7 +26382,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 56.0,
+      "quantity": 52.5,
       "unit": "Grams",
       "strainName": "SCSO",
       "strainType": null,
@@ -26417,7 +26417,7 @@
         {
           "id": 9143127,
           "label": "1A40303000000CD000083156",
-          "quantity": 56.0,
+          "quantity": 52.5,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-09-22"
         }
@@ -61461,17 +61461,16 @@
     },
     {
       "id": 8756254,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "OG Mint Cloud Bar Hellavated - 1 g",
       "brand": "Hellavated",
       "producer": "Holistic Industries",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "OG Mint",
       "strainType": null,
@@ -61502,13 +61501,6 @@
           "label": "1A403030000012E000176848",
           "quantity": 12.0,
           "packagedDate": "2026-07-21",
-          "expirationDate": "2027-02-15"
-        },
-        {
-          "id": 8633756,
-          "label": "1A403030000012E000169242",
-          "quantity": 1.0,
-          "packagedDate": "2026-06-23",
           "expirationDate": "2027-02-15"
         }
       ],
