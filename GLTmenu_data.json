@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T17:30:03.018480+00:00",
+  "generated_at": "2026-10-29T17:40:03.162559+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11085,6 +11085,71 @@
       "medSalePrice": 18.75,
       "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664179",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9190778,
+      "packageCount": 1,
+      "name": "Betty's Eddies Cherry V5 Breast Cancer Awareness Fruit Chews-40mg-10",
+      "brand": "Betty's Eddies",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.553,
+        "totalCBD": 0.557,
+        "CBC": 0.07,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.023,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.004
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 39.547,
+          "CBC": 4.97,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.633,
+          "CBGA": 0.0,
+          "CBN": 0.142,
+          "THCA": 0.0,
+          "THCV": 0.284
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9190778,
+          "label": "1A4030300003522000227508",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-10-06"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 33.75,
+      "medSalePrice": 33.75,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174186",
       "posCategory": "Edibles"
     },
     {
@@ -26252,7 +26317,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.5,
+      "quantity": 38.5,
       "unit": "Grams",
       "strainName": "SCSO",
       "strainType": null,
@@ -26287,7 +26352,7 @@
         {
           "id": 9143127,
           "label": "1A40303000000CD000083156",
-          "quantity": 45.5,
+          "quantity": 38.5,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-09-22"
         }
@@ -27863,7 +27928,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 84.0,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Forbidden Zkittlez",
       "strainType": null,
@@ -27896,7 +27961,7 @@
         {
           "id": 8996060,
           "label": "1A4030300003521000058085",
-          "quantity": 84.0,
+          "quantity": 56.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-08-27"
         }
@@ -29818,7 +29883,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 53.62,
+      "quantity": 50.12,
       "unit": "Grams",
       "strainName": "Peanut Glue",
       "strainType": null,
@@ -29851,7 +29916,7 @@
         {
           "id": 7945159,
           "label": "1A4030300002E7E000016876",
-          "quantity": 53.62,
+          "quantity": 50.12,
           "packagedDate": "2026-01-13",
           "expirationDate": "2027-01-13"
         }
@@ -34423,7 +34488,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Grams",
       "strainName": "Gush Mints",
       "strainType": null,
@@ -34455,7 +34520,7 @@
         {
           "id": 9142946,
           "label": "1A403030000012D000276053",
-          "quantity": 27.0,
+          "quantity": 26.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-04-23"
         }
@@ -35809,7 +35874,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Got Caught 4",
       "strainType": null,
@@ -35843,7 +35908,7 @@
         {
           "id": 9128279,
           "label": "1A40303000000CB000056053",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-05"
         }
@@ -40120,7 +40185,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 34.0,
       "unit": "Each",
       "strainName": "Peach Runtz",
       "strainType": null,
@@ -40155,7 +40220,7 @@
         {
           "id": 9164596,
           "label": "1A40303000000CB000056639",
-          "quantity": 35.0,
+          "quantity": 34.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-22"
         }
