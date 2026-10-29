@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T14:00:03.093338+00:00",
+  "generated_at": "2026-10-29T14:10:03.849996+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -13846,7 +13846,7 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -30248,7 +30248,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 26.0,
       "unit": "Grams",
@@ -31842,7 +31842,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 94.5,
+      "quantity": 91.0,
       "unit": "Grams",
       "strainName": "Z Mints",
       "strainType": null,
@@ -31875,7 +31875,7 @@
         {
           "id": 9095871,
           "label": "1A40303000000CB000055188",
-          "quantity": 94.5,
+          "quantity": 91.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-09-22"
         }
@@ -34968,7 +34968,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Raw Prerolls",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 45.0,
       "unit": "Each",
@@ -36823,7 +36823,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 50.0,
       "unit": "Grams",
@@ -39283,7 +39283,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 15.0,
       "unit": "Grams",
@@ -42385,7 +42385,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 5.0,
       "unit": "Each",
@@ -59526,7 +59526,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "MD VP MDOGKU 05CR",
       "strainType": null,
@@ -59560,7 +59560,7 @@
         {
           "id": 8872244,
           "label": "1A40303000007D1000093659",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-07-02"
         }
@@ -59962,6 +59962,63 @@
       "posCategory": "Disposables"
     },
     {
+      "id": 9188844,
+      "packageCount": 1,
+      "name": "Mellow Fellow - Disposable Vape - Blue Razz Slushie - 1g",
+      "brand": "Mellow Fellow",
+      "producer": "Pro Green Medical",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Each",
+      "strainName": "Blue Razz Slushie",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.33,
+        "CBC": 1.12,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.07,
+        "CBGA": 0.0,
+        "CBN": 0.45,
+        "THCA": 0.0,
+        "THCV": 0.79
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.41,
+        "myrcene": 0.71,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 0.9,
+        "beta-pinene": 0.19,
+        "limonene": 1.11,
+        "linalool": 0.42,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 4.06,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9188844,
+          "label": "1A403030000283D000064498",
+          "quantity": 30.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-08-25"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
       "id": 9139004,
       "packageCount": 1,
       "name": "Mellow Fellow - Disposable Vape - Grandaddy Purp - 1g",
@@ -60016,6 +60073,123 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4665795",
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 9188654,
+      "packageCount": 1,
+      "name": "Mellow Fellow - Disposable Vape - Grape Ice OG - 1g",
+      "brand": "Mellow Fellow",
+      "producer": "Pro Green Medical",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Each",
+      "strainName": "Grape Ice OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 82.12,
+        "CBC": 1.06,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.42,
+        "CBGA": 0.0,
+        "CBN": 0.62,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.21,
+        "humulene": 0.09,
+        "myrcene": 0.82,
+        "alpha-pinene": 0.41,
+        "caryophyllene": 0.64,
+        "beta-pinene": 0.23,
+        "limonene": 0.72,
+        "linalool": 0.29,
+        "terpinolene": 0.07,
+        "nerolidol": 0.14
+      },
+      "totalTerps": 4.23,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9188654,
+          "label": "1A403030000283D000064499",
+          "quantity": 30.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-06-25"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 9188653,
+      "packageCount": 1,
+      "name": "Mellow Fellow - Disposable Vape - Green Crack - 1g",
+      "brand": "Mellow Fellow",
+      "producer": "Pro Green Medical",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Each",
+      "strainName": "Green Crack",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 88.05,
+        "CBC": 1.27,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.41,
+        "CBGA": 0.0,
+        "CBN": 0.76,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.19,
+        "myrcene": 0.42,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 0.7,
+        "beta-pinene": 0.12,
+        "ocimene": 0.97,
+        "limonene": 0.64,
+        "linalool": 0.41,
+        "terpinolene": 0.67
+      },
+      "totalTerps": 4.64,
+      "dominantTerpene": "ocimene",
+      "packages": [
+        {
+          "id": 9188653,
+          "label": "1A403030000283D000064497",
+          "quantity": 30.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": null
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Disposables"
     },
     {
@@ -61661,7 +61835,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Passion Fruit",
       "strainType": null,
@@ -61689,7 +61863,7 @@
         {
           "id": 8671237,
           "label": "1A403030000012E000172678",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-04-18"
         }
