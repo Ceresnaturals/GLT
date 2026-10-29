@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T19:10:04.965927+00:00",
+  "generated_at": "2026-10-29T19:20:04.233942+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11234,7 +11234,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 50.0,
       "unit": "Each",
@@ -11362,7 +11362,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -11496,7 +11496,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -11748,7 +11748,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -11882,7 +11882,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -12012,7 +12012,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -12075,7 +12075,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -12386,6 +12386,201 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9191021,
+      "packageCount": 1,
+      "name": "Bubby's Baked Birthday Cake Bites V4-10mg-10",
+      "brand": null,
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.12,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9191021,
+          "label": "1A4030300003522000227513",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-04-13"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 18.75,
+      "medSalePrice": 18.75,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9190783,
+      "packageCount": 1,
+      "name": "Bubby's Baked Birthday Cake Bites V4-40mg-10",
+      "brand": null,
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.46,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9190783,
+          "label": "1A4030300003522000227514",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-04-06"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": 30.0,
+      "medSalePrice": 30.0,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9190784,
+      "packageCount": 1,
+      "name": "Bubby's Baked Brownie Bites V4-10mg-10",
+      "brand": null,
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.12,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9190784,
+          "label": "1A4030300003522000227515",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-04-14"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 18.75,
+      "medSalePrice": 18.75,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9124508,
       "packageCount": 1,
       "name": "Bubby's Baked Brownie Bites V4-40mg-10",
@@ -12578,6 +12773,71 @@
       "medSalePrice": 18.75,
       "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4504186",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9190786,
+      "packageCount": 1,
+      "name": "Bubby's Baked Pumpkin Bites V4-40mg-10",
+      "brand": null,
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.44,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9190786,
+          "label": "1A4030300003522000227516",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-04-02"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -16269,71 +16529,6 @@
       "deal": "Therapeutic Thursday! 30% off Curio Brands",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3685304",
       "posCategory": "Edibles"
-    },
-    {
-      "id": 8926317,
-      "packageCount": 1,
-      "name": "Dixie Synergy 1:1 Berry Tablets-5mg-60",
-      "brand": "Dixie",
-      "producer": "Curio Manufacturing",
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 1.377,
-        "totalCBD": 1.367,
-        "CBC": 0.02,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.024,
-        "CBGA": 0.0,
-        "CBN": 0.026,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 tablet",
-        "totalThcMg": 300.0,
-        "thcMgPerServing": 5.0,
-        "minorsMgPerServing": {
-          "totalCBD": 4.784,
-          "CBC": 0.07,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.084,
-          "CBGA": 0.0,
-          "CBN": 0.091,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8926317,
-          "label": "1A403030000012D000262967",
-          "quantity": 3.0,
-          "packagedDate": "2026-08-27",
-          "expirationDate": "2027-07-09"
-        }
-      ],
-      "price": null,
-      "medPrice": null,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": null,
-      "posCategory": null
     },
     {
       "id": 8981912,
@@ -44766,7 +44961,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -44814,7 +45009,7 @@
         {
           "id": 8939334,
           "label": "1A4030300003522000210563",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-08-19"
         }
@@ -65964,7 +66159,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Select Rainbow Zelato",
       "strainType": null,
@@ -65998,7 +66193,7 @@
         {
           "id": 9051792,
           "label": "1A4030300000193000108912",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-09-25",
           "expirationDate": "2027-08-17"
         }
