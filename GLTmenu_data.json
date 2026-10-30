@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T14:40:03.079163+00:00",
+  "generated_at": "2026-10-30T14:50:02.928365+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12911,7 +12911,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12950,7 +12950,7 @@
         {
           "id": 9047758,
           "label": "1A403030000012D000267867",
-          "quantity": 8.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-08-03"
         }
@@ -27069,7 +27069,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 3.5,
       "unit": "Grams",
       "strainName": "Deadband x GC5 #12",
       "strainType": null,
@@ -27103,7 +27103,7 @@
         {
           "id": 9164813,
           "label": "1A40303000000CB000056632",
-          "quantity": 7.0,
+          "quantity": 3.5,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-10-16"
         }
@@ -29080,7 +29080,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 161.0,
+      "quantity": 150.5,
       "unit": "Grams",
       "strainName": "Lemon Blanc",
       "strainType": null,
@@ -29114,7 +29114,7 @@
         {
           "id": 9164816,
           "label": "1A40303000000CB000056634",
-          "quantity": 161.0,
+          "quantity": 150.5,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-10-16"
         }
@@ -29832,7 +29832,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 98.0,
+      "quantity": 91.0,
       "unit": "Grams",
       "strainName": "Cherimoya",
       "strainType": null,
@@ -29867,7 +29867,7 @@
         {
           "id": 8996163,
           "label": "1A4030300003521000058083",
-          "quantity": 98.0,
+          "quantity": 91.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-07-22"
         }
@@ -30347,7 +30347,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 36.12,
+      "quantity": 32.62,
       "unit": "Grams",
       "strainName": "Peanut Glue",
       "strainType": null,
@@ -30380,7 +30380,7 @@
         {
           "id": 7945159,
           "label": "1A4030300002E7E000016876",
-          "quantity": 36.12,
+          "quantity": 32.62,
           "packagedDate": "2026-01-13",
           "expirationDate": "2027-01-13"
         }
@@ -40595,7 +40595,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 33.0,
+      "quantity": 32.0,
       "unit": "Each",
       "strainName": "Peach Runtz",
       "strainType": null,
@@ -40630,7 +40630,7 @@
         {
           "id": 9164596,
           "label": "1A40303000000CB000056639",
-          "quantity": 33.0,
+          "quantity": 32.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-22"
         }
@@ -40768,7 +40768,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": "Pineapple Bang 5",
       "strainType": null,
@@ -40801,7 +40801,7 @@
         {
           "id": 9164597,
           "label": "1A40303000000CB000056640",
-          "quantity": 26.0,
+          "quantity": 25.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-20"
         }
@@ -46503,62 +46503,6 @@
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4706339",
       "posCategory": "Disposables"
-    },
-    {
-      "id": 8998533,
-      "packageCount": 1,
-      "name": "Airo Pod Northern Lights 1.0g/1000mg",
-      "brand": "Airo",
-      "producer": "SunMed Growers",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Northern Lights",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 84.43,
-        "totalCBD": 0.15,
-        "CBC": 0.62,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.84,
-        "CBGA": 0.0,
-        "CBN": 0.3,
-        "THCA": 0.0,
-        "THCV": 0.26
-      },
-      "dose": null,
-      "terpenes": {
-        "myrcene": 1.02,
-        "alpha-pinene": 0.59,
-        "caryophyllene": 0.93,
-        "beta-pinene": 0.59,
-        "linalool": 0.22,
-        "terpinolene": 2.33
-      },
-      "totalTerps": 6.45,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 8998533,
-          "label": "1A40303000001F5000431279",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-15",
-          "expirationDate": "2027-06-01"
-        }
-      ],
-      "price": 55.0,
-      "medPrice": 55.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174127",
-      "posCategory": "Cartridges"
     },
     {
       "id": 9168516,
@@ -56672,7 +56616,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Orange Creamsicle",
       "strainType": null,
@@ -56706,7 +56650,7 @@
         {
           "id": 8462916,
           "label": "1A4030300003522000191135",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-05-14",
           "expirationDate": "2026-12-18"
         }
@@ -60417,7 +60361,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": "Blue Razz Slushie",
       "strainType": null,
@@ -60450,7 +60394,7 @@
         {
           "id": 9188844,
           "label": "1A403030000283D000064498",
-          "quantity": 29.0,
+          "quantity": 28.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-08-25"
         }
@@ -62786,7 +62730,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Pineapple Runtz",
       "strainType": "Hybrid",
@@ -62821,7 +62765,7 @@
         {
           "id": 8676364,
           "label": "1A40303000003EA000197288",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-05-28"
         }
