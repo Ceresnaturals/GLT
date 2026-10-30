@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T16:30:03.410464+00:00",
+  "generated_at": "2026-10-30T16:40:03.342203+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12129,8 +12129,8 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8996306,
-      "packageCount": 1,
+      "id": 9190781,
+      "packageCount": 2,
       "name": "Betty's Eddies Tropical Smoothie Fruit Chews-40mg-10",
       "brand": "Betty's Eddies",
       "producer": "Kind Therapeutics USA",
@@ -12139,37 +12139,37 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.558,
-        "totalCBD": 0.456,
-        "CBC": 0.006,
+        "totalTHC": 0.539,
+        "totalCBD": 0.43,
+        "CBC": 0.004,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.023,
+        "CBG": 0.019,
         "CBGA": 0.0,
         "CBN": 0.002,
-        "THCA": 0.004,
-        "THCV": 0.0
+        "THCA": 0.0,
+        "THCV": 0.004
       },
       "dose": {
         "servingSize": "1",
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "totalCBD": 32.376,
-          "CBC": 0.426,
+          "totalCBD": 30.53,
+          "CBC": 0.284,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 1.633,
+          "CBG": 1.349,
           "CBGA": 0.0,
           "CBN": 0.142,
-          "THCA": 0.284,
-          "THCV": 0.0
+          "THCA": 0.0,
+          "THCV": 0.284
         },
         "minorsEstimated": true
       },
@@ -12177,6 +12177,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9190781,
+          "label": "1A4030300003522000227512",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-09-22"
+        },
         {
           "id": 8996306,
           "label": "1A4030300003522000211320",
@@ -26095,7 +26102,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 49.0,
+      "quantity": 45.5,
       "unit": "Grams",
       "strainName": "Afternoon Delight #4",
       "strainType": "Hybrid",
@@ -26130,7 +26137,7 @@
         {
           "id": 9131064,
           "label": "1A40303000003EA000253104",
-          "quantity": 49.0,
+          "quantity": 45.5,
           "packagedDate": "2026-10-14",
           "expirationDate": "2027-09-01"
         }
@@ -26211,7 +26218,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 10.5,
       "unit": "Grams",
       "strainName": "Berry Trix",
       "strainType": null,
@@ -26244,7 +26251,7 @@
         {
           "id": 8674620,
           "label": "1A40303000040D9000005118",
-          "quantity": 14.0,
+          "quantity": 10.5,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-06-30"
         }
@@ -30846,7 +30853,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 73.5,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "Sunshine #4",
       "strainType": null,
@@ -30879,7 +30886,7 @@
         {
           "id": 9168805,
           "label": "1A40303000001F5000462126",
-          "quantity": 73.5,
+          "quantity": 70.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-08-04"
         }
@@ -32215,7 +32222,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Grams",
       "strainName": "Lemon Berry Cookies",
       "strainType": null,
@@ -32248,7 +32255,7 @@
         {
           "id": 7857567,
           "label": "1A4030300002009000082987",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2025-12-18",
           "expirationDate": "2026-11-12"
         }
@@ -32272,7 +32279,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Grams",
       "strainName": "McRuntz",
       "strainType": null,
@@ -32305,7 +32312,7 @@
         {
           "id": 8163778,
           "label": "1A4030300002009000093016",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-03-06",
           "expirationDate": "2026-11-13"
         }
@@ -34114,7 +34121,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Patapeake Shortbread x Isolate",
       "strainType": null,
@@ -34147,7 +34154,7 @@
         {
           "id": 9097155,
           "label": "1A4030300000C83000090222",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-11"
         }
@@ -35924,7 +35931,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.25,
+      "quantity": 17.5,
       "unit": "Grams",
       "strainName": "Gogurtz",
       "strainType": null,
@@ -35957,7 +35964,7 @@
         {
           "id": 9100058,
           "label": "1A40303000003EA000261646",
-          "quantity": 19.25,
+          "quantity": 17.5,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-05"
         }
@@ -38914,7 +38921,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -38947,7 +38954,7 @@
         {
           "id": 9128281,
           "label": "1A40303000000CB000056055",
-          "quantity": 24.5,
+          "quantity": 21.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-02"
         }
@@ -40695,7 +40702,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Rainbow Push Pop #4",
       "strainType": null,
@@ -40728,7 +40735,7 @@
         {
           "id": 9128369,
           "label": "1A40303000000CB000056057",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-14"
         }
@@ -41326,7 +41333,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": "Hybrid",
@@ -41360,7 +41367,7 @@
         {
           "id": 9100059,
           "label": "1A40303000003EA000261648",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-18"
         }
@@ -41848,7 +41855,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Duster",
       "strainType": null,
@@ -41881,7 +41888,7 @@
         {
           "id": 9168521,
           "label": "1A40303000001F5000462140",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-08-11"
         }
@@ -44263,7 +44270,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 69.0,
+      "quantity": 65.5,
       "unit": "Grams",
       "strainName": "Peach Crescendo TC",
       "strainType": null,
@@ -44294,7 +44301,7 @@
         {
           "id": 8998458,
           "label": "1A40303000001F5000431287",
-          "quantity": 69.0,
+          "quantity": 65.5,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -44383,7 +44390,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -44422,7 +44429,7 @@
         {
           "id": 9187294,
           "label": "1A40303000017D5000111601",
-          "quantity": 12.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-17",
           "expirationDate": "2027-09-17"
         }
@@ -50919,7 +50926,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Cherry Zlushie",
       "strainType": null,
@@ -50953,7 +50960,7 @@
         {
           "id": 8375142,
           "label": "1A403030000070A000036817",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-04-24",
           "expirationDate": "2027-01-03"
         }
@@ -51609,64 +51616,6 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4448719",
-      "posCategory": "Cartridges"
-    },
-    {
-      "id": 8191707,
-      "packageCount": 1,
-      "name": "Curio Wellness Mango Kush Vape - 0.5g",
-      "brand": "Curio Wellness",
-      "producer": "Curio Manufacturing",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Mango Kush",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 77.85,
-        "CBC": 0.69,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.48,
-        "CBGA": 0.0,
-        "CBN": 1.21,
-        "THCA": 0.0,
-        "THCV": 1.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.27,
-        "myrcene": 4.47,
-        "alpha-pinene": 0.24,
-        "caryophyllene": 1.33,
-        "beta-pinene": 0.21,
-        "ocimene": 0.11,
-        "limonene": 0.91,
-        "linalool": 0.51,
-        "terpinolene": 0.51
-      },
-      "totalTerps": 8.62,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8191707,
-          "label": "1A403030000012D000218999",
-          "quantity": 1.0,
-          "packagedDate": "2026-03-12",
-          "expirationDate": "2026-12-18"
-        }
-      ],
-      "price": 35.0,
-      "medPrice": 35.0,
-      "salePrice": 21.0,
-      "medSalePrice": 21.0,
-      "deal": "40% Off",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4493150",
       "posCategory": "Cartridges"
     },
     {
@@ -61104,7 +61053,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Governmint Oasis",
       "strainType": null,
@@ -61136,7 +61085,7 @@
         {
           "id": 8632151,
           "label": "1A4030300003522000194075",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-04-06"
         }
@@ -61746,7 +61695,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "OG Mint",
       "strainType": null,
@@ -61775,7 +61724,7 @@
         {
           "id": 8756254,
           "label": "1A403030000012E000176848",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-02-15"
         }
