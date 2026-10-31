@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T16:10:03.171381+00:00",
+  "generated_at": "2026-10-31T16:20:02.693439+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11879,7 +11879,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11920,7 +11920,7 @@
         {
           "id": 9124089,
           "label": "1A4030300003522000219669",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-13"
         }
@@ -20329,6 +20329,71 @@
       "medSalePrice": 32.0,
       "deal": "Saturdaze Delights! 20% OFF Edibles",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4499558",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9124358,
+      "packageCount": 1,
+      "name": "In House Wild Berry Fast Acting V3 Gummies-10mg-10",
+      "brand": "In House",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.2,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.05
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 2.5
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9124358,
+          "label": "1A4030300003522000219686",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-18"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": 16.0,
+      "medSalePrice": 16.0,
+      "deal": "Saturdaze Delights! 20% OFF Edibles",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4480917",
       "posCategory": "Edibles"
     },
     {
@@ -30484,7 +30549,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 84.0,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -30516,7 +30581,7 @@
         {
           "id": 9104895,
           "label": "1A40303000001F5000456175",
-          "quantity": 84.0,
+          "quantity": 56.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-09-01"
         }
@@ -35502,7 +35567,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Grams",
       "strainName": "Finger Lime Haze",
       "strainType": null,
@@ -35537,7 +35602,7 @@
         {
           "id": 9201731,
           "label": "1A403030000012E000210278",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-09-01"
         }
@@ -43726,7 +43791,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 129.5,
+      "quantity": 126.0,
       "unit": "Grams",
       "strainName": "RS11 x Skywalker OG",
       "strainType": null,
@@ -43760,7 +43825,7 @@
         {
           "id": 9028008,
           "label": "1A40303000040D9000006249",
-          "quantity": 129.5,
+          "quantity": 126.0,
           "packagedDate": "2026-09-21",
           "expirationDate": null
         }
@@ -43784,7 +43849,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 242.0,
+      "quantity": 238.5,
       "unit": "Grams",
       "strainName": "Dark Rainbow",
       "strainType": null,
@@ -43814,7 +43879,7 @@
         {
           "id": 8998549,
           "label": "1A40303000001F5000431286",
-          "quantity": 242.0,
+          "quantity": 238.5,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -43838,7 +43903,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 30.5,
+      "quantity": 27.0,
       "unit": "Grams",
       "strainName": "Peach Crescendo TC",
       "strainType": null,
@@ -43869,7 +43934,7 @@
         {
           "id": 8998458,
           "label": "1A40303000001F5000431287",
-          "quantity": 30.5,
+          "quantity": 27.0,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -49393,7 +49458,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Bomb Popz",
       "strainType": null,
@@ -49423,7 +49488,7 @@
         {
           "id": 9147823,
           "label": "1A403030000012E000205852",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-10-16",
           "expirationDate": "2027-09-18"
         }
@@ -50072,60 +50137,6 @@
       "deal": "Saturdaze Delights! 30% OFF Carts",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4683713",
       "posCategory": "Cartridges"
-    },
-    {
-      "id": 8966535,
-      "packageCount": 1,
-      "name": "Citrus Got Real Melted Diamonds AIO Helly Meltz - 1 g",
-      "brand": null,
-      "producer": "Holistic Industries",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Citrus Got Real Melted AIO Helly Meltz",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 93.21,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 2.75
-      },
-      "dose": null,
-      "terpenes": {
-        "myrcene": 0.09,
-        "alpha-pinene": 0.03,
-        "caryophyllene": 0.09,
-        "limonene": 3.41,
-        "linalool": 0.4
-      },
-      "totalTerps": 4.02,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8966535,
-          "label": "1A403030000012E000192632",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-08",
-          "expirationDate": "2027-08-10"
-        }
-      ],
-      "price": 55.0,
-      "medPrice": 55.0,
-      "salePrice": 33.0,
-      "medSalePrice": 33.0,
-      "deal": "40% Off",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4713898",
-      "posCategory": "Disposables"
     },
     {
       "id": 8756345,
@@ -62954,7 +62965,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Razberry Blitz",
       "strainType": null,
@@ -62985,7 +62996,7 @@
         {
           "id": 9147826,
           "label": "1A403030000012E000205856",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-10-16",
           "expirationDate": "2027-09-11"
         }
