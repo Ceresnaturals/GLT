@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T19:00:02.667907+00:00",
+  "generated_at": "2026-10-31T19:10:03.405948+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11934,7 +11934,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11973,7 +11973,7 @@
         {
           "id": 9191019,
           "label": "1A4030300003522000227511",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-13"
         }
@@ -37777,7 +37777,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 36.0,
+      "quantity": 33.0,
       "unit": "Grams",
       "strainName": "Cherry Chem",
       "strainType": null,
@@ -37810,7 +37810,7 @@
         {
           "id": 8745120,
           "label": "1A40303000007D1000090209",
-          "quantity": 36.0,
+          "quantity": 33.0,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-04-05"
         }
@@ -43874,7 +43874,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 119.0,
+      "quantity": 112.0,
       "unit": "Grams",
       "strainName": "RS11 x Skywalker OG",
       "strainType": null,
@@ -43908,7 +43908,7 @@
         {
           "id": 9028008,
           "label": "1A40303000040D9000006249",
-          "quantity": 119.0,
+          "quantity": 112.0,
           "packagedDate": "2026-09-21",
           "expirationDate": null
         }
@@ -45762,7 +45762,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Golden Pineapple LLR",
       "strainType": null,
@@ -45799,7 +45799,7 @@
         {
           "id": 9104969,
           "label": "1A40303000001F5000456182",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-09-02"
         }
@@ -47814,7 +47814,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Durban Gushers",
       "strainType": null,
@@ -47848,7 +47848,7 @@
         {
           "id": 9107209,
           "label": "1A403030000283D000059761",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-07-20"
         }
@@ -57483,7 +57483,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Bubblegum OG",
       "strainType": null,
@@ -57518,7 +57518,7 @@
         {
           "id": 9162071,
           "label": "1A4030300002199000069218",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-25"
         }
@@ -59359,6 +59359,58 @@
       "deal": "40% Off",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4486912",
       "posCategory": "Disposables"
+    },
+    {
+      "id": 9090380,
+      "packageCount": 1,
+      "name": "Maui Sunrise Distillate Cartridge Hellavated - 1.0 g",
+      "brand": "Hellavated",
+      "producer": "Holistic Industries",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 7.0,
+      "unit": "Each",
+      "strainName": "Maui Sunrise",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 88.59,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.32,
+        "CBGA": 0.0,
+        "CBN": 0.43,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.15,
+        "limonene": 1.36,
+        "terpinolene": 0.14
+      },
+      "totalTerps": 1.65,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9090380,
+          "label": "1A403030000012E000200839",
+          "quantity": 7.0,
+          "packagedDate": "2026-10-05",
+          "expirationDate": "2027-09-04"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 31.5,
+      "medSalePrice": 31.5,
+      "deal": "Saturdaze Delights! 30% OFF Carts",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4421982",
+      "posCategory": "Cartridges"
     },
     {
       "id": 9074626,
@@ -62598,7 +62650,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "RO BDTCart OGKush H MD",
       "strainType": null,
@@ -62632,7 +62684,7 @@
         {
           "id": 8968487,
           "label": "1A403030000238D000107262",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-19"
         }
