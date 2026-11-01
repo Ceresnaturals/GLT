@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T16:30:02.326481+00:00",
+  "generated_at": "2026-11-01T16:40:02.845081+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -19116,7 +19116,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19157,7 +19157,7 @@
         {
           "id": 9124556,
           "label": "1A4030300003522000219687",
-          "quantity": 16.0,
+          "quantity": 13.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-04"
         }
@@ -19246,7 +19246,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19287,7 +19287,7 @@
         {
           "id": 9066544,
           "label": "1A4030300003522000215111",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-09-15"
         }
@@ -19634,7 +19634,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19675,7 +19675,7 @@
         {
           "id": 9124525,
           "label": "1A4030300003522000219682",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-09"
         }
@@ -20474,71 +20474,6 @@
       "medSalePrice": 16.0,
       "deal": "Soothing Sunday! 20% OFF Edibles",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664446",
-      "posCategory": "Edibles"
-    },
-    {
-      "id": 9131062,
-      "packageCount": 1,
-      "name": "Incredibles Gummy 100mg - Fast Acting Pineapple Express - 10mg - 10 Pieces",
-      "brand": "Incredibles",
-      "producer": "Chesapeake Alternatives",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.36,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.03,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.9,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9131062,
-          "label": "1A40303000003EA000253101",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-14",
-          "expirationDate": "2027-08-25"
-        }
-      ],
-      "price": 20.0,
-      "medPrice": 20.0,
-      "salePrice": 16.0,
-      "medSalePrice": 16.0,
-      "deal": "Soothing Sunday! 20% OFF Edibles",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4574845",
       "posCategory": "Edibles"
     },
     {
@@ -26339,7 +26274,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 17.5,
       "unit": "Grams",
       "strainName": "Dirty Chimera",
       "strainType": null,
@@ -26371,7 +26306,7 @@
         {
           "id": 8731342,
           "label": "1A40303000000CB000046963",
-          "quantity": 24.5,
+          "quantity": 17.5,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-06-20"
         }
@@ -28240,7 +28175,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 91.0,
+      "quantity": 80.5,
       "unit": "Grams",
       "strainName": "Lemon Blanc",
       "strainType": null,
@@ -28274,7 +28209,7 @@
         {
           "id": 9164816,
           "label": "1A40303000000CB000056634",
-          "quantity": 91.0,
+          "quantity": 80.5,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-10-16"
         }
@@ -29618,9 +29553,9 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 130.0,
+      "quantity": 120.0,
       "unit": "Grams",
       "strainName": "Banana Puddintain",
       "strainType": null,
@@ -29652,7 +29587,7 @@
         {
           "id": 9126339,
           "label": "1A40303000001F5000458212",
-          "quantity": 130.0,
+          "quantity": 120.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-11"
         }
@@ -51200,7 +51135,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Fire OG",
       "strainType": "Indica",
@@ -51236,7 +51171,7 @@
         {
           "id": 7824012,
           "label": "1A40303000003EA000129681",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2025-12-10",
           "expirationDate": "2026-11-20"
         }
@@ -55363,7 +55298,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Jack Herer",
       "strainType": null,
@@ -55399,7 +55334,7 @@
         {
           "id": 9073306,
           "label": "1A40303000001F5000453108",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-06-03"
         }
@@ -65096,7 +65031,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "White Starburst Slyde Rechargeable",
       "strainType": null,
@@ -65123,7 +65058,7 @@
         {
           "id": 8606052,
           "label": "1A4030300000C83000074357",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-06-17",
           "expirationDate": "2027-05-08"
         }
