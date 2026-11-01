@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T21:50:02.996782+00:00",
+  "generated_at": "2026-11-01T22:00:02.566522+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10852,7 +10852,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10893,7 +10893,7 @@
         {
           "id": 9124316,
           "label": "1A4030300003522000219670",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-24"
         }
@@ -10982,7 +10982,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 46.0,
+      "quantity": 45.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11023,7 +11023,7 @@
         {
           "id": 9191002,
           "label": "1A4030300003522000227505",
-          "quantity": 46.0,
+          "quantity": 45.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-15"
         }
@@ -11110,7 +11110,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11149,7 +11149,7 @@
         {
           "id": 9191001,
           "label": "1A4030300003522000227504",
-          "quantity": 23.0,
+          "quantity": 21.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-07"
         }
@@ -11362,7 +11362,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11401,7 +11401,7 @@
         {
           "id": 9124094,
           "label": "1A4030300003522000219671",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-18"
         }
@@ -11752,7 +11752,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11791,7 +11791,7 @@
         {
           "id": 9191019,
           "label": "1A4030300003522000227511",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-13"
         }
@@ -12015,7 +12015,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12054,7 +12054,7 @@
         {
           "id": 9124100,
           "label": "1A4030300003522000219673",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-19"
         }
@@ -12206,7 +12206,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12247,7 +12247,7 @@
         {
           "id": 9190783,
           "label": "1A4030300003522000227514",
-          "quantity": 9.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-04-06"
         }
@@ -33448,49 +33448,47 @@
     },
     {
       "id": 9079420,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Curio Wellness Chill CBD:THC Infused Pre-rolls-2x0.5g",
       "brand": "Curio Wellness",
       "producer": "Curio Manufacturing",
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 31.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": "Chill",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 27.16,
-        "totalCBD": 7.96,
-        "CBC": 0.24,
+        "totalTHC": 28.02,
+        "totalCBD": 9.0,
+        "CBC": 0.28,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.84,
-        "CBGA": 0.52,
-        "CBN": 0.12,
-        "THCA": 12.85,
-        "THCV": 0.2
+        "CBG": 0.6,
+        "CBGA": 0.48,
+        "CBN": 0.3,
+        "THCA": 12.46,
+        "THCV": 0.05
       },
       "dose": null,
       "terpenes": {
-        "bisabolol": 0.11,
-        "humulene": 0.14,
-        "myrcene": 0.64,
-        "alpha-pinene": 0.07,
-        "caryophyllene": 0.61,
-        "eudesmol": 0.07,
-        "beta-pinene": 0.07,
-        "ocimene": 0.03,
-        "limonene": 0.49,
-        "linalool": 0.27,
-        "terpinolene": 0.04
+        "bisabolol": 0.13,
+        "humulene": 0.16,
+        "myrcene": 0.66,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 0.85,
+        "beta-pinene": 0.11,
+        "caryophyllene-oxide": 0.08,
+        "limonene": 0.57,
+        "linalool": 0.34,
+        "terpinolene": 0.05
       },
-      "totalTerps": 2.79,
-      "dominantTerpene": "myrcene",
+      "totalTerps": 3.52,
+      "dominantTerpene": "caryophyllene",
       "packages": [
         {
           "id": 9079420,
@@ -33498,13 +33496,6 @@
           "quantity": 30.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-12"
-        },
-        {
-          "id": 8738013,
-          "label": "1A403030000012D000255820",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-16",
-          "expirationDate": "2027-06-23"
         }
       ],
       "price": 20.0,
@@ -34971,7 +34962,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -35005,7 +34996,7 @@
         {
           "id": 9126269,
           "label": "1A40303000001F5000458225",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-24"
         }
@@ -47881,17 +47872,16 @@
     },
     {
       "id": 8947229,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Blue Dream Distillate Vape 1.0G/1000MG",
       "brand": null,
       "producer": "SunMed Growers",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": null,
@@ -47927,13 +47917,6 @@
           "label": "1A40303000001F5000425614",
           "quantity": 23.0,
           "packagedDate": "2026-09-02",
-          "expirationDate": "2027-05-27"
-        },
-        {
-          "id": 8890381,
-          "label": "1A40303000001F5000420188",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-20",
           "expirationDate": "2027-05-27"
         }
       ],
@@ -61734,7 +61717,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Rocket Pop DV",
       "strainType": null,
@@ -61769,7 +61752,7 @@
         {
           "id": 9126268,
           "label": "1A40303000001F5000458222",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-07-14"
         }
