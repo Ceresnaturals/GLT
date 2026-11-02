@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T19:00:02.771891+00:00",
+  "generated_at": "2026-11-02T19:10:05.171932+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -5468,7 +5468,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "MD EXT MDSPTZ 1LB",
       "strainType": null,
@@ -5502,7 +5502,7 @@
         {
           "id": 8681339,
           "label": "1A40303000007D1000085096",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-03",
           "expirationDate": "2027-06-11"
         }
@@ -9789,7 +9789,7 @@
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 15.0,
       "unit": "Each",
@@ -9846,17 +9846,18 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9168947,
-      "packageCount": 1,
+      "id": 9195884,
+      "packageCount": 2,
       "name": "Sunnies Mocktail No. 2 Bright Grapefruit -10mg -1",
       "brand": "Sunnies",
       "producer": "SunMed Growers",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9894,6 +9895,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9195884,
+          "label": "1A40303000001F5000464095",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-28",
+          "expirationDate": null
+        },
         {
           "id": 9168947,
           "label": "1A40303000001F5000462145",
@@ -42891,7 +42899,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 90.0,
+      "quantity": 85.0,
       "unit": "Grams",
       "strainName": "Grape Gas Cake",
       "strainType": null,
@@ -42924,7 +42932,7 @@
         {
           "id": 9099011,
           "label": "1A40303000040D9000006412",
-          "quantity": 90.0,
+          "quantity": 85.0,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
@@ -46546,7 +46554,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Banana Runtz",
       "strainType": null,
@@ -46578,7 +46586,7 @@
         {
           "id": 8756272,
           "label": "1A403030000012E000176866",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-05-22"
         }
