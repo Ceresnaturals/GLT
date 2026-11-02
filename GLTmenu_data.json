@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T22:50:02.842271+00:00",
+  "generated_at": "2026-11-02T23:00:02.754242+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4423,7 +4423,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Kush Mints x Str8 Lemonade",
       "strainType": null,
@@ -4458,7 +4458,7 @@
         {
           "id": 8375144,
           "label": "1A403030000070A000036819",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-04-24",
           "expirationDate": "2026-11-09"
         }
@@ -5458,64 +5458,6 @@
       "posCategory": "Concentrate"
     },
     {
-      "id": 8681339,
-      "packageCount": 1,
-      "name": "MD-EXT-MDSPTZ-1LB",
-      "brand": null,
-      "producer": "MCP Processing",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "MD EXT MDSPTZ 1LB",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 73.28,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.07,
-        "CBN": 0.0,
-        "THCA": 80.46,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.32,
-        "humulene": 0.56,
-        "myrcene": 1.4,
-        "alpha-pinene": 0.16,
-        "caryophyllene": 2.15,
-        "beta-pinene": 0.23,
-        "limonene": 2.24,
-        "linalool": 1.72,
-        "terpinolene": 0.03
-      },
-      "totalTerps": 9.23,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8681339,
-          "label": "1A40303000007D1000085096",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-03",
-          "expirationDate": "2027-06-11"
-        }
-      ],
-      "price": 45.0,
-      "medPrice": 45.0,
-      "salePrice": 27.0,
-      "medSalePrice": 27.0,
-      "deal": "40% Off",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3684189",
-      "posCategory": "Concentrate"
-    },
-    {
       "id": 9100510,
       "packageCount": 1,
       "name": "MD-EXT-MDSPTZ-35CB",
@@ -6311,7 +6253,7 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4736174",
-      "posCategory": "Kief"
+      "posCategory": "Concentrate"
     },
     {
       "id": 8882394,
@@ -8746,9 +8688,9 @@
       "pick": 18,
       "price": 6.0,
       "medPrice": 6.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "salePrice": 3.6,
+      "medSalePrice": 3.6,
+      "deal": "40% Off",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4448774",
       "posCategory": "Edibles"
     },
@@ -26863,7 +26805,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 199.5,
+      "quantity": 196.0,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -26896,7 +26838,7 @@
         {
           "id": 9197180,
           "label": "1A40303000000CB000057461",
-          "quantity": 199.5,
+          "quantity": 196.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-10-19"
         }
@@ -26957,13 +26899,13 @@
           "expirationDate": "2027-10-19"
         }
       ],
-      "price": 140.0,
-      "medPrice": 140.0,
-      "salePrice": 105.0,
-      "medSalePrice": 105.0,
-      "deal": "25% OFF Evermore",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4552176",
-      "posCategory": "Pre-Packed Flower"
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 9201611,
@@ -27954,7 +27896,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 322.0,
+      "quantity": 308.0,
       "unit": "Grams",
       "strainName": "Josh D OG Kush",
       "strainType": "Indica",
@@ -27987,7 +27929,7 @@
         {
           "id": 9191631,
           "label": "1A40303000003EA000183205",
-          "quantity": 322.0,
+          "quantity": 308.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-09-21"
         }
@@ -29051,7 +28993,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 150.5,
+      "quantity": 143.5,
       "unit": "Grams",
       "strainName": "Murphy'z Law",
       "strainType": null,
@@ -29085,7 +29027,7 @@
         {
           "id": 9098468,
           "label": "1A40303000040D9000006411",
-          "quantity": 150.5,
+          "quantity": 143.5,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-09-06"
         }
@@ -34159,9 +34101,9 @@
       "pick": 16,
       "price": 15.0,
       "medPrice": 15.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "salePrice": 9.0,
+      "medSalePrice": 9.0,
+      "deal": "40% Off",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4656466",
       "posCategory": "Pre-Rolls"
     },
@@ -38957,9 +38899,9 @@
       "pick": 17,
       "price": 35.0,
       "medPrice": 35.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "salePrice": 21.0,
+      "medSalePrice": 21.0,
+      "deal": "40% Off",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4580916",
       "posCategory": "Pre-Rolls"
     },
@@ -42951,7 +42893,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 365.32,
+      "quantity": 344.32,
       "unit": "Grams",
       "strainName": "Chem de la Chem TC",
       "strainType": null,
@@ -42984,7 +42926,7 @@
         {
           "id": 9039610,
           "label": "1A40303000001F5000450416",
-          "quantity": 365.32,
+          "quantity": 344.32,
           "packagedDate": "2026-09-23",
           "expirationDate": null
         }
@@ -65134,5 +65076,5 @@
     }
   ],
   "priceNote": "Prices shown are estimates. The register has the final price.",
-  "pricesUpdatedAt": "2026-11-02T18:00:02.526813+00:00"
+  "pricesUpdatedAt": "2026-11-02T23:00:02.755146+00:00"
 }
