@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T15:50:02.427604+00:00",
+  "generated_at": "2026-11-03T16:00:03.286044+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -21733,7 +21733,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -21772,7 +21772,7 @@
         {
           "id": 9047764,
           "label": "1A403030000012D000267873",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-07-07"
         }
@@ -23286,7 +23286,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23327,7 +23327,7 @@
         {
           "id": 9124804,
           "label": "1A4030300003522000219702",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-19"
         }
@@ -24179,6 +24179,69 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4175197",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9143041,
+      "packageCount": 1,
+      "name": "WYLD SC Gummies-10mg-10",
+      "brand": "WYLD",
+      "producer": "Bouquet Labs",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.269,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.008,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.002
+      },
+      "dose": {
+        "servingSize": "1 gummy",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.32,
+          "CBGA": 0.0,
+          "CBN": 0.08,
+          "THCA": 0.0,
+          "THCV": 0.08
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9143041,
+          "label": "1A403030000390D000073843",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-15",
+          "expirationDate": "2027-09-22"
+        }
+      ],
+      "price": 22.0,
+      "medPrice": 22.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -29210,7 +29273,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 63.0,
+      "quantity": 59.5,
       "unit": "Grams",
       "strainName": "Chocolatina",
       "strainType": null,
@@ -29244,7 +29307,7 @@
         {
           "id": 9123999,
           "label": "1A4030300003521000062079",
-          "quantity": 63.0,
+          "quantity": 59.5,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-27"
         }
@@ -29503,7 +29566,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 73.5,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "Strawberry Jelly",
       "strainType": null,
@@ -29538,7 +29601,7 @@
         {
           "id": 9066220,
           "label": "1A4030300003521000058694",
-          "quantity": 73.5,
+          "quantity": 70.0,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-08-27"
         }
@@ -38440,7 +38503,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "Guava IX",
       "strainType": null,
@@ -38475,7 +38538,7 @@
         {
           "id": 9190748,
           "label": "1A4030300003521000062724",
-          "quantity": 24.0,
+          "quantity": 20.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-09"
         }
@@ -49772,7 +49835,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Grape Escape",
       "strainType": "Indica",
@@ -49807,7 +49870,7 @@
         {
           "id": 9079419,
           "label": "1A403030000012D000272426",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-07-23"
         }
@@ -52814,7 +52877,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Grow West DogWalker LR",
       "strainType": null,
@@ -52850,7 +52913,7 @@
         {
           "id": 9121695,
           "label": "1A40303000039D1000086269",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-10-12",
           "expirationDate": "2027-09-05"
         }
@@ -53866,7 +53929,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": null,
@@ -53899,7 +53962,7 @@
         {
           "id": 9190792,
           "label": "1A4030300003522000227520",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-09-20"
         }
@@ -58827,7 +58890,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Cheese",
       "strainType": null,
@@ -58861,7 +58924,7 @@
         {
           "id": 9066604,
           "label": "1A4030300003522000215099",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-07-10"
         }
@@ -58885,7 +58948,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Double Krush Disp",
       "strainType": null,
@@ -58918,7 +58981,7 @@
         {
           "id": 8040161,
           "label": "1A4030300003522000169434",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-02-05",
           "expirationDate": "2027-01-10"
         }
@@ -59001,7 +59064,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Governmint Oasis",
       "strainType": null,
@@ -59033,7 +59096,7 @@
         {
           "id": 8632151,
           "label": "1A4030300003522000194075",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-04-06"
         }
@@ -59058,7 +59121,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Guava IX",
       "strainType": null,
@@ -59091,7 +59154,7 @@
         {
           "id": 8828808,
           "label": "1A4030300003522000195390",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-19"
         }
@@ -59231,7 +59294,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Lemon Margy",
       "strainType": null,
@@ -59266,7 +59329,7 @@
         {
           "id": 8632206,
           "label": "1A4030300003522000194074",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-01-18"
         }
@@ -59291,7 +59354,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Lilac Diesel",
       "strainType": null,
@@ -59326,7 +59389,7 @@
         {
           "id": 8939250,
           "label": "1A4030300003522000210584",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-12"
         }
@@ -60848,7 +60911,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Purple Martian DV",
       "strainType": null,
@@ -60883,7 +60946,7 @@
         {
           "id": 9105005,
           "label": "1A40303000001F5000456185",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-24"
         }
