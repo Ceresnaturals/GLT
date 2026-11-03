@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T18:30:03.049925+00:00",
+  "generated_at": "2026-11-03T18:40:02.909232+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -5468,7 +5468,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "MD EXT MDSPTZ 35CB",
       "strainType": null,
@@ -5501,7 +5501,7 @@
         {
           "id": 9100510,
           "label": "1A40303000007D1000106303",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-07"
         }
@@ -11750,8 +11750,8 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9190781,
-      "packageCount": 2,
+      "id": 8996306,
+      "packageCount": 1,
       "name": "Betty's Eddies Tropical Smoothie Fruit Chews-40mg-10",
       "brand": "Betty's Eddies",
       "producer": "Kind Therapeutics USA",
@@ -11760,37 +11760,37 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 27.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.539,
-        "totalCBD": 0.43,
-        "CBC": 0.004,
+        "totalTHC": 0.558,
+        "totalCBD": 0.456,
+        "CBC": 0.006,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.019,
+        "CBG": 0.023,
         "CBGA": 0.0,
         "CBN": 0.002,
-        "THCA": 0.0,
-        "THCV": 0.004
+        "THCA": 0.004,
+        "THCV": 0.0
       },
       "dose": {
         "servingSize": "1",
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "totalCBD": 30.53,
-          "CBC": 0.284,
+          "totalCBD": 32.376,
+          "CBC": 0.426,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 1.349,
+          "CBG": 1.633,
           "CBGA": 0.0,
           "CBN": 0.142,
-          "THCA": 0.0,
-          "THCV": 0.284
+          "THCA": 0.284,
+          "THCV": 0.0
         },
         "minorsEstimated": true
       },
@@ -11798,13 +11798,6 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
-        {
-          "id": 9190781,
-          "label": "1A4030300003522000227512",
-          "quantity": 22.0,
-          "packagedDate": "2026-10-27",
-          "expirationDate": "2027-09-22"
-        },
         {
           "id": 8996306,
           "label": "1A4030300003522000211320",
@@ -27658,7 +27651,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 108.5,
+      "quantity": 105.0,
       "unit": "Grams",
       "strainName": "ONYCD 3.0",
       "strainType": null,
@@ -27690,7 +27683,7 @@
         {
           "id": 9190744,
           "label": "1A4030300003521000062721",
-          "quantity": 108.5,
+          "quantity": 105.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-09-30"
         }
@@ -28521,7 +28514,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 129.5,
+      "quantity": 126.0,
       "unit": "Grams",
       "strainName": "Banana Acai Mints",
       "strainType": null,
@@ -28555,7 +28548,7 @@
         {
           "id": 8518877,
           "label": "1A40303000007D1000064415",
-          "quantity": 129.5,
+          "quantity": 126.0,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-05-18"
         }
@@ -51258,7 +51251,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Flavor Series Fruit Bedrock BRIQ",
       "strainType": null,
@@ -51291,7 +51284,7 @@
         {
           "id": 8908840,
           "label": "1A4030300000193000106243",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-03-23"
         }
