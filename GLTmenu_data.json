@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T17:20:02.723683+00:00",
+  "generated_at": "2026-11-03T17:30:03.489515+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -14789,7 +14789,8 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -27599,7 +27600,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.5,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Guava IX",
       "strainType": null,
@@ -27632,7 +27633,7 @@
         {
           "id": 9123985,
           "label": "1A4030300003521000062075",
-          "quantity": 10.5,
+          "quantity": 7.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-25"
         }
@@ -40745,7 +40746,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 32.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": "Puro Loco",
       "strainType": null,
@@ -40778,7 +40779,7 @@
         {
           "id": 9126262,
           "label": "1A40303000001F5000458215",
-          "quantity": 32.0,
+          "quantity": 30.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-28"
         }
@@ -42827,7 +42828,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 221.82,
+      "quantity": 211.32,
       "unit": "Grams",
       "strainName": "Chem de la Chem TC",
       "strainType": null,
@@ -42860,7 +42861,7 @@
         {
           "id": 9039610,
           "label": "1A40303000001F5000450416",
-          "quantity": 221.82,
+          "quantity": 211.32,
           "packagedDate": "2026-09-23",
           "expirationDate": null
         }
@@ -43058,7 +43059,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -43097,7 +43098,7 @@
         {
           "id": 9187294,
           "label": "1A40303000017D5000111601",
-          "quantity": 6.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-17",
           "expirationDate": "2027-09-17"
         }
@@ -48945,63 +48946,6 @@
       "posCategory": "Disposables"
     },
     {
-      "id": 8039529,
-      "packageCount": 1,
-      "name": "Cookies | Vapes | CDT 3-in-1 Disposables | Gary Payton + Pomegranate Shake - 1g",
-      "brand": null,
-      "producer": "HMS Processing",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Gary Payton + Pomegranate",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 84.84,
-        "CBC": 0.87,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.04,
-        "CBGA": 0.0,
-        "CBN": 0.25,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.095,
-        "myrcene": 0.725,
-        "alpha-pinene": 0.17,
-        "caryophyllene": 0.341,
-        "beta-pinene": 0.166,
-        "limonene": 0.98,
-        "linalool": 0.348
-      },
-      "totalTerps": 3.03,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8039529,
-          "label": "1A4030300002199000038844",
-          "quantity": 1.0,
-          "packagedDate": "2025-11-13",
-          "expirationDate": "2026-11-14"
-        }
-      ],
-      "pick": 7,
-      "price": 70.0,
-      "medPrice": 70.0,
-      "salePrice": 52.5,
-      "medSalePrice": 52.5,
-      "deal": "Tokin Tuesday! 25% OFF Disposables",
-      "orderUrl": null,
-      "posCategory": "Disposables"
-    },
-    {
       "id": 9039606,
       "packageCount": 1,
       "name": "Couch Kush DV 0.5g/500mg",
@@ -53695,7 +53639,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Afgoo",
       "strainType": null,
@@ -53729,7 +53673,7 @@
         {
           "id": 9124559,
           "label": "1A4030300003522000219688",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-05"
         }
@@ -53813,7 +53757,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": null,
@@ -53846,7 +53790,7 @@
         {
           "id": 9190792,
           "label": "1A4030300003522000227520",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-09-20"
         }
@@ -57902,17 +57846,18 @@
       "posCategory": "Disposables"
     },
     {
-      "id": 8756256,
-      "packageCount": 1,
+      "id": 8966530,
+      "packageCount": 2,
       "name": "Maui Sunrise Cloud Bar Hellavated - 1 g",
       "brand": "Hellavated",
       "producer": "Holistic Industries",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Maui Sunrise",
       "strainType": null,
@@ -57939,6 +57884,13 @@
       "totalTerps": 2.0,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 8966530,
+          "label": "1A403030000012E000192636",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-04-18"
+        },
         {
           "id": 8756256,
           "label": "1A403030000012E000176849",
@@ -58190,7 +58142,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": "Grape Ice OG",
       "strainType": null,
@@ -58225,7 +58177,7 @@
         {
           "id": 9188654,
           "label": "1A403030000283D000064499",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-06-25"
         }
