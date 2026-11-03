@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T21:50:03.566160+00:00",
+  "generated_at": "2026-11-03T22:00:03.693380+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2608,7 +2608,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Compound Z Preground",
       "strainType": null,
@@ -2646,7 +2646,7 @@
         {
           "id": 9201641,
           "label": "1A403030000012E000210277",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-05-18"
         }
@@ -16544,13 +16544,13 @@
           "expirationDate": "2027-06-18"
         }
       ],
-      "price": 25.0,
-      "medPrice": 25.0,
+      "price": null,
+      "medPrice": null,
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4577393",
-      "posCategory": "Edibles"
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 9113929,
@@ -19450,13 +19450,13 @@
           "expirationDate": "2027-09-02"
         }
       ],
-      "price": 20.0,
-      "medPrice": 20.0,
-      "salePrice": 12.0,
-      "medSalePrice": 12.0,
-      "deal": "Tokin Tuesday! 40% OFF Nature's Heritage Brands",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174649",
-      "posCategory": "Edibles"
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 9190793,
@@ -20120,7 +20120,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20161,7 +20161,7 @@
         {
           "id": 9191545,
           "label": "1A40303000003EA000183209",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-02-16"
         }
@@ -29423,7 +29423,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 91.0,
+      "quantity": 87.5,
       "unit": "Grams",
       "strainName": "Primary Colors",
       "strainType": null,
@@ -29457,7 +29457,7 @@
         {
           "id": 8908835,
           "label": "1A4030300000192000041096",
-          "quantity": 91.0,
+          "quantity": 87.5,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-05-31"
         }
@@ -31086,7 +31086,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Grams",
       "strainName": "McRuntz",
       "strainType": null,
@@ -31119,7 +31119,7 @@
         {
           "id": 8163778,
           "label": "1A4030300002009000093016",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-03-06",
           "expirationDate": "2026-11-13"
         }
@@ -34853,7 +34853,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Got Caught 4",
       "strainType": null,
@@ -34887,7 +34887,7 @@
         {
           "id": 9164823,
           "label": "1A40303000000CB000056637",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-05"
         }
@@ -39349,7 +39349,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Blueberry Kush",
       "strainType": "Indica",
@@ -39383,7 +39383,7 @@
         {
           "id": 9131501,
           "label": "1A40303000003EA000253108",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-14",
           "expirationDate": "2027-08-19"
         }
@@ -43039,7 +43039,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Cantaloupe Haze",
       "strainType": null,
@@ -43067,7 +43067,7 @@
         {
           "id": 8838265,
           "label": "1A40303000017D5000103029",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-06-29",
           "expirationDate": "2027-06-29"
         }
@@ -58929,6 +58929,60 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 8034684,
+      "packageCount": 1,
+      "name": "NerdZ Rechargeable Distillate Vape Slyde 1.0mL",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 1.0,
+      "unit": "Each",
+      "strainName": "NerdZ Rechargeable Slyde",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 81.34,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.11,
+        "CBGA": 0.0,
+        "CBN": 0.39,
+        "THCA": 0.0,
+        "THCV": 0.89
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.14,
+        "myrcene": 0.06,
+        "alpha-pinene": 0.09,
+        "beta-pinene": 0.46,
+        "limonene": 2.66
+      },
+      "totalTerps": 3.75,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8034684,
+          "label": "1A4030300000C83000056871",
+          "quantity": 1.0,
+          "packagedDate": "2026-02-04",
+          "expirationDate": "2026-11-25"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
       "id": 8756254,
       "packageCount": 1,
       "name": "OG Mint Cloud Bar Hellavated - 1 g",
@@ -60857,13 +60911,13 @@
           "expirationDate": "2027-09-11"
         }
       ],
-      "price": 45.0,
-      "medPrice": 45.0,
-      "salePrice": 33.75,
-      "medSalePrice": 33.75,
-      "deal": "Tokin Tuesday! 25% OFF Vapes",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174614",
-      "posCategory": "Cartridges"
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 8959011,
@@ -64231,5 +64285,5 @@
     }
   ],
   "priceNote": "Prices shown are estimates. The register has the final price.",
-  "pricesUpdatedAt": "2026-11-03T18:00:02.828190+00:00"
+  "pricesUpdatedAt": "2026-11-03T22:00:03.694072+00:00"
 }
