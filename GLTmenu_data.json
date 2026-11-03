@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T21:40:02.719267+00:00",
+  "generated_at": "2026-11-03T21:50:03.566160+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3508,7 +3508,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "GPOG",
       "strainType": null,
@@ -3539,7 +3539,7 @@
         {
           "id": 8794932,
           "label": "1A4030300000C83000078737",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-06-23"
         }
@@ -6717,7 +6717,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 20.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Orange Chemeleon",
       "strainType": null,
@@ -6758,7 +6758,7 @@
         {
           "id": 9124365,
           "label": "1A4030300003522000219692",
-          "quantity": 10.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-08"
         }
@@ -6782,7 +6782,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Strawberry Jelly",
       "strainType": null,
@@ -6815,7 +6815,7 @@
         {
           "id": 8882398,
           "label": "1A4030300003522000202273",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-21"
         }
@@ -9044,7 +9044,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9085,7 +9085,7 @@
         {
           "id": 9039625,
           "label": "1A40303000001F5000450418",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-12"
         }
@@ -9102,136 +9102,6 @@
       "id": 9073087,
       "packageCount": 1,
       "name": "Keef - Bubba Kush Root Beer - 10mg - 1",
-      "brand": null,
-      "producer": "SunMed Growers",
-      "category": "Drink",
-      "metrcCategory": "Infused Liquid Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 12.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.003,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Can",
-        "totalThcMg": 10.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9073087,
-          "label": "1A40303000001F5000453090",
-          "quantity": 12.0,
-          "packagedDate": "2026-09-30",
-          "expirationDate": "2027-08-21"
-        }
-      ],
-      "price": 8.0,
-      "medPrice": 8.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": "Keef 6 for $33",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4348386",
-      "posCategory": "Edibles"
-    },
-    {
-      "id": 9105101,
-      "packageCount": 1,
-      "name": "Keef - Mr. Puffer - 10mg - 1",
-      "brand": null,
-      "producer": "SunMed Growers",
-      "category": "Drink",
-      "metrcCategory": "Infused Liquid Edible",
-      "locations": [
-        "Vault"
-      ],
-      "quantity": 23.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.003,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Can",
-        "totalThcMg": 10.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9105101,
-          "label": "1A40303000001F5000456193",
-          "quantity": 23.0,
-          "packagedDate": "2026-10-07",
-          "expirationDate": "2027-06-09"
-        }
-      ],
-      "price": 8.0,
-      "medPrice": 8.0,
-      "salePrice": 4.8,
-      "medSalePrice": 4.8,
-      "deal": "40% Off",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4500793",
-      "posCategory": "Edibles"
-    },
-    {
-      "id": 9073088,
-      "packageCount": 1,
-      "name": "Keef - Orange Kush - 10mg - 1",
       "brand": null,
       "producer": "SunMed Growers",
       "category": "Drink",
@@ -9278,9 +9148,139 @@
       "dominantTerpene": null,
       "packages": [
         {
+          "id": 9073087,
+          "label": "1A40303000001F5000453090",
+          "quantity": 11.0,
+          "packagedDate": "2026-09-30",
+          "expirationDate": "2027-08-21"
+        }
+      ],
+      "price": 8.0,
+      "medPrice": 8.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": "Keef 6 for $33",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4348386",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9105101,
+      "packageCount": 1,
+      "name": "Keef - Mr. Puffer - 10mg - 1",
+      "brand": null,
+      "producer": "SunMed Growers",
+      "category": "Drink",
+      "metrcCategory": "Infused Liquid Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 22.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.003,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Can",
+        "totalThcMg": 10.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9105101,
+          "label": "1A40303000001F5000456193",
+          "quantity": 22.0,
+          "packagedDate": "2026-10-07",
+          "expirationDate": "2027-06-09"
+        }
+      ],
+      "price": 8.0,
+      "medPrice": 8.0,
+      "salePrice": 4.8,
+      "medSalePrice": 4.8,
+      "deal": "40% Off",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4500793",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9073088,
+      "packageCount": 1,
+      "name": "Keef - Orange Kush - 10mg - 1",
+      "brand": null,
+      "producer": "SunMed Growers",
+      "category": "Drink",
+      "metrcCategory": "Infused Liquid Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.003,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Can",
+        "totalThcMg": 10.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
           "id": 9073088,
           "label": "1A40303000001F5000453091",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-08-24"
         }
@@ -9304,7 +9304,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9345,7 +9345,7 @@
         {
           "id": 8973207,
           "label": "1A40303000001F5000428805",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-06-08"
         }
@@ -9369,7 +9369,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9410,7 +9410,7 @@
         {
           "id": 9195882,
           "label": "1A40303000001F5000464093",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-10-28",
           "expirationDate": null
         }
@@ -9434,7 +9434,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9475,7 +9475,7 @@
         {
           "id": 9126319,
           "label": "1A40303000001F5000458204",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-17"
         }
@@ -9618,17 +9618,16 @@
     },
     {
       "id": 9195884,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Sunnies Mocktail No. 2 Bright Grapefruit -10mg -1",
       "brand": "Sunnies",
       "producer": "SunMed Growers",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 26.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9672,13 +9671,6 @@
           "quantity": 24.0,
           "packagedDate": "2026-10-28",
           "expirationDate": null
-        },
-        {
-          "id": 9168947,
-          "label": "1A40303000001F5000462145",
-          "quantity": 2.0,
-          "packagedDate": "2026-10-21",
-          "expirationDate": "2027-08-27"
         }
       ],
       "price": 6.0,
@@ -9765,7 +9757,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9806,7 +9798,7 @@
         {
           "id": 9165349,
           "label": "1A4030300000C83000083241",
-          "quantity": 13.0,
+          "quantity": 11.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-16"
         }
@@ -11519,7 +11511,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11558,7 +11550,7 @@
         {
           "id": 9191019,
           "label": "1A4030300003522000227511",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-13"
         }
@@ -16831,7 +16823,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16872,7 +16864,7 @@
         {
           "id": 8959110,
           "label": "1A40303000017D5000105509",
-          "quantity": 5.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-07-27"
         }
@@ -18633,7 +18625,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18674,7 +18666,7 @@
         {
           "id": 9124524,
           "label": "1A4030300003522000219681",
-          "quantity": 18.0,
+          "quantity": 16.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-07-29"
         }
@@ -19154,7 +19146,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19193,7 +19185,7 @@
         {
           "id": 8996311,
           "label": "1A4030300003522000211323",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-04-09"
         }
@@ -21556,7 +21548,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -21595,7 +21587,7 @@
         {
           "id": 9079341,
           "label": "1A403030000012D000272421",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-04"
         }
@@ -35388,7 +35380,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -35424,7 +35416,7 @@
         {
           "id": 9173946,
           "label": "1A403030000012D000277067",
-          "quantity": 13.0,
+          "quantity": 3.0,
           "packagedDate": "2026-10-22",
           "expirationDate": "2027-08-08"
         }
@@ -37342,7 +37334,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.0,
+      "quantity": 43.0,
       "unit": "Each",
       "strainName": "Midnight Circus",
       "strainType": null,
@@ -37375,7 +37367,7 @@
         {
           "id": 9197196,
           "label": "1A40303000000CB000057467",
-          "quantity": 45.0,
+          "quantity": 43.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-10-02"
         }
@@ -39300,7 +39292,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Blue Z",
       "strainType": "Indica",
@@ -39333,7 +39325,7 @@
         {
           "id": 9191544,
           "label": "1A40303000003EA000183207",
-          "quantity": 20.0,
+          "quantity": 12.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-08-19"
         }
@@ -40050,7 +40042,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Chem de la Chem TC",
       "strainType": null,
@@ -40082,7 +40074,7 @@
         {
           "id": 9104967,
           "label": "1A40303000001F5000456177",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-18"
         }
@@ -63175,7 +63167,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Super Sour Diesel DV",
       "strainType": null,
@@ -63208,7 +63200,7 @@
         {
           "id": 9104970,
           "label": "1A40303000001F5000456187",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-07-24"
         }
