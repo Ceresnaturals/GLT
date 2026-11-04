@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T17:00:03.424758+00:00",
+  "generated_at": "2026-11-04T17:10:03.113609+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -21817,7 +21817,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21858,7 +21858,7 @@
         {
           "id": 8721791,
           "label": "1A40303000003EA000200209",
-          "quantity": 9.0,
+          "quantity": 7.0,
           "packagedDate": "2026-07-14",
           "expirationDate": "2027-05-11"
         }
@@ -27423,7 +27423,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 337.0,
+      "quantity": 330.0,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -27453,7 +27453,7 @@
         {
           "id": 8426780,
           "label": "1A40303000001F5000375219",
-          "quantity": 337.0,
+          "quantity": 330.0,
           "packagedDate": "2026-05-07",
           "expirationDate": "2027-04-15"
         }
@@ -34349,7 +34349,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Grams",
       "strainName": "Lemon Berry Cookies",
       "strainType": null,
@@ -34382,7 +34382,7 @@
         {
           "id": 7857567,
           "label": "1A4030300002009000082987",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2025-12-18",
           "expirationDate": "2026-11-12"
         }
@@ -34407,7 +34407,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Grams",
       "strainName": "McRuntz",
       "strainType": null,
@@ -34440,7 +34440,7 @@
         {
           "id": 8163778,
           "label": "1A4030300002009000093016",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-03-06",
           "expirationDate": "2026-11-13"
         }
@@ -34465,7 +34465,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 40.0,
+      "quantity": 39.0,
       "unit": "Grams",
       "strainName": "Old Money",
       "strainType": null,
@@ -34498,7 +34498,7 @@
         {
           "id": 8490481,
           "label": "1A4030300002009000102666",
-          "quantity": 40.0,
+          "quantity": 39.0,
           "packagedDate": "2026-05-21",
           "expirationDate": "2027-04-17"
         }
@@ -34988,7 +34988,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Grams",
       "strainName": "Apple Tarts",
       "strainType": null,
@@ -35022,7 +35022,7 @@
         {
           "id": 8351547,
           "label": "1A4030300000192000030570",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-04-20",
           "expirationDate": "2026-12-29"
         }
@@ -42455,45 +42455,43 @@
     },
     {
       "id": 8828390,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "NH Lilac Diesel Preroll-Usable-.5g 5pk",
       "brand": "NH",
       "producer": "Kind Therapeutics USA",
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 65.0,
+      "quantity": 62.5,
       "unit": "Grams",
       "strainName": "Lilac Diesel",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 23.39,
+        "totalTHC": 20.69,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 2.61,
+        "CBG": 0.14,
+        "CBGA": 2.25,
         "CBN": 0.0,
-        "THCA": 25.31,
-        "THCV": 0.19
+        "THCA": 22.2,
+        "THCV": 0.16
       },
       "dose": null,
       "terpenes": {
-        "bisabolol": 0.08,
-        "humulene": 0.08,
-        "myrcene": 0.07,
-        "alpha-pinene": 0.01,
-        "caryophyllene": 0.31,
-        "beta-pinene": 0.03,
-        "ocimene": 0.13,
-        "limonene": 0.05,
-        "terpinolene": 0.25
+        "bisabolol": 0.06,
+        "humulene": 0.07,
+        "myrcene": 0.06,
+        "caryophyllene": 0.22,
+        "beta-pinene": 0.02,
+        "ocimene": 0.11,
+        "limonene": 0.04,
+        "terpinolene": 0.16
       },
-      "totalTerps": 1.13,
+      "totalTerps": 0.79,
       "dominantTerpene": "caryophyllene",
       "packages": [
         {
@@ -42502,13 +42500,6 @@
           "quantity": 62.5,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-04-16"
-        },
-        {
-          "id": 8040365,
-          "label": "1A4030300003521000045207",
-          "quantity": 2.5,
-          "packagedDate": "2026-02-05",
-          "expirationDate": "2026-11-29"
         }
       ],
       "pick": 17,
@@ -44827,7 +44818,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 32.0,
+      "quantity": 31.0,
       "unit": "Each",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -44860,7 +44851,7 @@
         {
           "id": 9168514,
           "label": "1A40303000001F5000462129",
-          "quantity": 32.0,
+          "quantity": 31.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-14"
         }
@@ -45625,7 +45616,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -45658,7 +45649,7 @@
         {
           "id": 9164599,
           "label": "1A40303000000CB000056641",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-29"
         }
