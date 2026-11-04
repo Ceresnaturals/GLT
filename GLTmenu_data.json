@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T15:10:02.392388+00:00",
+  "generated_at": "2026-11-04T15:20:03.427765+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -943,7 +943,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "AK",
       "strainType": null,
@@ -978,7 +978,7 @@
         {
           "id": 9039277,
           "label": "1A40303000001F5000450408",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-02-05"
         }
@@ -5479,7 +5479,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "MD EXT MDOGKU 35LB",
       "strainType": null,
@@ -5513,7 +5513,7 @@
         {
           "id": 9100377,
           "label": "1A40303000007D1000106305",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-20"
         }
@@ -5537,7 +5537,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "MD EXT MDPAVE 35CB",
       "strainType": null,
@@ -5571,7 +5571,7 @@
         {
           "id": 9100376,
           "label": "1A40303000007D1000106304",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-07-17"
         }
@@ -8376,7 +8376,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Space Monkey",
       "strainType": null,
@@ -8410,7 +8410,7 @@
         {
           "id": 8819352,
           "label": "1A40303000001F5000412899",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-05-07"
         }
@@ -8782,7 +8782,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "White Mule",
       "strainType": null,
@@ -8816,7 +8816,7 @@
         {
           "id": 8563268,
           "label": "ABC0303000037DD000023761",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-06-08",
           "expirationDate": "2027-01-12"
         }
@@ -12898,7 +12898,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 19.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12939,7 +12939,7 @@
         {
           "id": 9079344,
           "label": "1A403030000012D000272427",
-          "quantity": 19.0,
+          "quantity": 17.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-06"
         }
@@ -17435,7 +17435,7 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8959110,
+      "id": 9145105,
       "packageCount": 1,
       "name": "Encore Gummies - Strawberry Peach 2:1 CBD:THC - 10mg - 10pc*",
       "brand": null,
@@ -17445,20 +17445,20 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.295,
-        "totalCBD": 0.597,
+        "totalTHC": 0.289,
+        "totalCBD": 0.576,
         "CBC": 0.003,
         "CBDA": 0.0,
         "CBDV": 0.0,
         "CBG": 0.011,
         "CBGA": 0.0,
-        "CBN": 0.002,
+        "CBN": 0.003,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -17467,13 +17467,13 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 20.895,
+          "totalCBD": 20.16,
           "CBC": 0.105,
           "CBDA": 0.0,
           "CBDV": 0.0,
           "CBG": 0.385,
           "CBGA": 0.0,
-          "CBN": 0.07,
+          "CBN": 0.105,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -17484,11 +17484,11 @@
       "dominantTerpene": null,
       "packages": [
         {
-          "id": 8959110,
-          "label": "1A40303000017D5000105509",
-          "quantity": 3.0,
-          "packagedDate": "2026-07-27",
-          "expirationDate": "2027-07-27"
+          "id": 9145105,
+          "label": "1A40303000017D5000110714",
+          "quantity": 23.0,
+          "packagedDate": "2026-09-03",
+          "expirationDate": "2027-09-03"
         }
       ],
       "price": 25.0,
@@ -35986,7 +35986,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 29.75,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Cherry Maui Wowie",
       "strainType": null,
@@ -36020,7 +36020,7 @@
         {
           "id": 9191543,
           "label": "1A40303000003EA000183206",
-          "quantity": 29.75,
+          "quantity": 28.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-08-05"
         }
@@ -45237,7 +45237,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Strawberry Candy",
       "strainType": null,
@@ -45270,7 +45270,7 @@
         {
           "id": 9168520,
           "label": "1A40303000001F5000462139",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-04-02"
         }
@@ -50217,7 +50217,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Banana Munson",
       "strainType": null,
@@ -50252,7 +50252,7 @@
         {
           "id": 9188468,
           "label": "1A40303000001F5000463341",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-08-24"
         }
