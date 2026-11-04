@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T22:50:03.043951+00:00",
+  "generated_at": "2026-11-04T23:00:02.754182+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -27111,7 +27111,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 272.0,
+      "quantity": 265.0,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -27141,7 +27141,7 @@
         {
           "id": 8426780,
           "label": "1A40303000001F5000375219",
-          "quantity": 272.0,
+          "quantity": 265.0,
           "packagedDate": "2026-05-07",
           "expirationDate": "2027-04-15"
         }
@@ -40409,62 +40409,6 @@
       "posCategory": "Pre-Rolls"
     },
     {
-      "id": 8368832,
-      "packageCount": 1,
-      "name": "MDCLCK-PR-05-6PK",
-      "brand": null,
-      "producer": "MCP Processing",
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.0,
-      "unit": "Grams",
-      "strainName": "Cherry Limeade Cake",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 21.51,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.38,
-        "CBN": 0.0,
-        "THCA": 23.54,
-        "THCV": 0.12
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.09,
-        "myrcene": 0.07,
-        "alpha-pinene": 0.14,
-        "caryophyllene": 0.34,
-        "beta-pinene": 0.11,
-        "limonene": 0.67,
-        "linalool": 0.29
-      },
-      "totalTerps": 2.01,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8368832,
-          "label": "1A40303000007D1000075530",
-          "quantity": 3.0,
-          "packagedDate": "2026-04-23",
-          "expirationDate": "2027-03-31"
-        }
-      ],
-      "price": 35.0,
-      "medPrice": 35.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174333",
-      "posCategory": "Pre-Rolls"
-    },
-    {
       "id": 8599508,
       "packageCount": 1,
       "name": "MDGECK-IIPR-045-5PK",
@@ -45339,13 +45283,13 @@
           "expirationDate": "2027-08-19"
         }
       ],
-      "price": 35.0,
-      "medPrice": 35.0,
-      "salePrice": 24.5,
-      "medSalePrice": 24.5,
-      "deal": "Waxy Wednesday! 30% off Verano Brands",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4696139",
-      "posCategory": "Pre-Rolls"
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 9146579,
@@ -46357,7 +46301,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.5,
+      "quantity": 32.0,
       "unit": "Grams",
       "strainName": "Dark Rainbow",
       "strainType": null,
@@ -46387,7 +46331,7 @@
         {
           "id": 8998549,
           "label": "1A40303000001F5000431286",
-          "quantity": 42.5,
+          "quantity": 32.0,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -70160,5 +70104,5 @@
     }
   ],
   "priceNote": "Prices shown are estimates. The register has the final price.",
-  "pricesUpdatedAt": "2026-11-04T18:00:02.893150+00:00"
+  "pricesUpdatedAt": "2026-11-04T23:00:02.754968+00:00"
 }
