@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T17:50:02.564561+00:00",
+  "generated_at": "2026-11-04T18:00:02.892384+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3122,13 +3122,13 @@
           "expirationDate": "2027-09-10"
         }
       ],
-      "price": 45.0,
-      "medPrice": 45.0,
-      "salePrice": 31.5,
-      "medSalePrice": 31.5,
-      "deal": "Waxy Wednesday! 30% OFF Concentrates",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4734735",
-      "posCategory": "Concentrate"
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 8297080,
@@ -8258,7 +8258,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Sour Fumez Cake",
       "strainType": null,
@@ -8292,7 +8292,7 @@
         {
           "id": 9005739,
           "label": "1A4030300000C83000088088",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-09-08"
         }
@@ -8840,7 +8840,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 40.0,
+      "quantity": 39.0,
       "unit": "Each",
       "strainName": "Zesty Sherb Cake",
       "strainType": null,
@@ -8874,7 +8874,7 @@
         {
           "id": 9197335,
           "label": "1A4030300000C83000042965",
-          "quantity": 40.0,
+          "quantity": 39.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-08-21"
         }
@@ -26073,9 +26073,9 @@
       ],
       "price": 45.0,
       "medPrice": 45.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "salePrice": 31.5,
+      "medSalePrice": 31.5,
+      "deal": "Waxy Wednesday! 30% off Verano Brands",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4353257",
       "posCategory": "Pre-Packed Flower"
     },
@@ -27293,7 +27293,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 323.0,
+      "quantity": 309.0,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -27323,7 +27323,7 @@
         {
           "id": 8426780,
           "label": "1A40303000001F5000375219",
-          "quantity": 323.0,
+          "quantity": 309.0,
           "packagedDate": "2026-05-07",
           "expirationDate": "2027-04-15"
         }
@@ -30338,9 +30338,9 @@
       ],
       "price": 200.0,
       "medPrice": 200.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "salePrice": 150.0,
+      "medSalePrice": 150.0,
+      "deal": "Waxy Wednesday! 25% off Kind Tree Brands",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4737664",
       "posCategory": "Pre-Packed Flower"
     },
@@ -32380,7 +32380,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 90.0,
+      "quantity": 80.0,
       "unit": "Grams",
       "strainName": "Banana Puddintain",
       "strainType": null,
@@ -32412,7 +32412,7 @@
         {
           "id": 9126339,
           "label": "1A40303000001F5000458212",
-          "quantity": 90.0,
+          "quantity": 80.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-11"
         }
@@ -32704,9 +32704,9 @@
       ],
       "price": 35.0,
       "medPrice": 35.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "salePrice": 24.5,
+      "medSalePrice": 24.5,
+      "deal": "Waxy Wednesday! 30% off Verano Brands",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4732077",
       "posCategory": "Pre-Packed Flower"
     },
@@ -32818,9 +32818,9 @@
       ],
       "price": 35.0,
       "medPrice": 35.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "salePrice": 24.5,
+      "medSalePrice": 24.5,
+      "deal": "Waxy Wednesday! 30% off Verano Brands",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4683043",
       "posCategory": "Pre-Packed Flower"
     },
@@ -32932,9 +32932,9 @@
       ],
       "price": 65.0,
       "medPrice": 65.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "salePrice": 45.5,
+      "medSalePrice": 45.5,
+      "deal": "Waxy Wednesday! 30% off Verano Brands",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4739162",
       "posCategory": "Pre-Packed Flower"
     },
@@ -34028,9 +34028,9 @@
       ],
       "price": 10.0,
       "medPrice": 10.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "salePrice": 7.0,
+      "medSalePrice": 7.0,
+      "deal": "Waxy Wednesday! 30% off Verano Brands",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4735472",
       "posCategory": "Pre-Rolls"
     },
@@ -34086,9 +34086,9 @@
       ],
       "price": 35.0,
       "medPrice": 35.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "salePrice": 24.5,
+      "medSalePrice": 24.5,
+      "deal": "Waxy Wednesday! 30% off Verano Brands",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4739163",
       "posCategory": "Pre-Rolls"
     },
@@ -36457,13 +36457,13 @@
           "expirationDate": "2027-09-09"
         }
       ],
-      "price": 10.0,
-      "medPrice": 10.0,
+      "price": null,
+      "medPrice": null,
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4738432",
-      "posCategory": "Pre-Rolls"
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 9173948,
@@ -38970,8 +38970,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 32.0,
       "unit": "Each",
@@ -39828,9 +39827,9 @@
       ],
       "price": 30.0,
       "medPrice": 30.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "salePrice": 22.5,
+      "medSalePrice": 22.5,
+      "deal": "Waxy Wednesday! 25% off Kind Tree Brands",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4734237",
       "posCategory": "Pre-Rolls"
     },
@@ -42850,7 +42849,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Peach Runtz",
       "strainType": null,
@@ -42885,7 +42884,7 @@
         {
           "id": 9164596,
           "label": "1A40303000000CB000056639",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-22"
         }
@@ -45699,9 +45698,9 @@
       ],
       "price": 35.0,
       "medPrice": 35.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "salePrice": 24.5,
+      "medSalePrice": 24.5,
+      "deal": "Waxy Wednesday! 30% off Verano Brands",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4737462",
       "posCategory": "Pre-Rolls"
     },
@@ -46542,7 +46541,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 17.5,
       "unit": "Grams",
       "strainName": "RS11 x Skywalker OG",
       "strainType": null,
@@ -46576,7 +46575,7 @@
         {
           "id": 9028008,
           "label": "1A40303000040D9000006249",
-          "quantity": 24.5,
+          "quantity": 17.5,
           "packagedDate": "2026-09-21",
           "expirationDate": null
         }
@@ -46600,7 +46599,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 46.82,
+      "quantity": 18.82,
       "unit": "Grams",
       "strainName": "Chem de la Chem TC",
       "strainType": null,
@@ -46633,17 +46632,17 @@
         {
           "id": 9039610,
           "label": "1A40303000001F5000450416",
-          "quantity": 46.82,
+          "quantity": 18.82,
           "packagedDate": "2026-09-23",
           "expirationDate": null
         }
       ],
-      "price": 10.0,
-      "medPrice": 10.0,
+      "price": null,
+      "medPrice": null,
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4550113",
+      "orderUrl": null,
       "posCategory": "Bulk Flower"
     },
     {
@@ -47546,9 +47545,9 @@
       ],
       "price": 25.0,
       "medPrice": 25.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "salePrice": 17.5,
+      "medSalePrice": 17.5,
+      "deal": "Waxy Wednesday! 30% off Verano Brands",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4175141",
       "posCategory": "Disposables"
     },
@@ -53728,7 +53727,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Opals and Banonoze",
       "strainType": null,
@@ -53763,7 +53762,7 @@
         {
           "id": 8678612,
           "label": "1A403030000012D000253357",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-04-27"
         }
@@ -56642,13 +56641,13 @@
           "expirationDate": "2027-08-14"
         }
       ],
-      "price": 65.0,
-      "medPrice": 65.0,
+      "price": null,
+      "medPrice": null,
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4734245",
-      "posCategory": "Disposables"
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 7944848,
@@ -60741,9 +60740,9 @@
       ],
       "price": 40.0,
       "medPrice": 40.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "salePrice": 30.0,
+      "medSalePrice": 30.0,
+      "deal": "Waxy Wednesday! 25% off Kind Tree Brands",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4737671",
       "posCategory": "Cartridges"
     },
@@ -60972,9 +60971,9 @@
       ],
       "price": 40.0,
       "medPrice": 40.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "salePrice": 30.0,
+      "medSalePrice": 30.0,
+      "deal": "Waxy Wednesday! 25% off Kind Tree Brands",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4737673",
       "posCategory": "Cartridges"
     },
@@ -61030,9 +61029,9 @@
       ],
       "price": 40.0,
       "medPrice": 40.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "salePrice": 30.0,
+      "medSalePrice": 30.0,
+      "deal": "Waxy Wednesday! 25% off Kind Tree Brands",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4737675",
       "posCategory": "Cartridges"
     },
@@ -66679,7 +66678,7 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": null,
-      "posCategory": "Disposables"
+      "posCategory": null
     },
     {
       "id": 8756257,
@@ -70627,5 +70626,5 @@
     }
   ],
   "priceNote": "Prices shown are estimates. The register has the final price.",
-  "pricesUpdatedAt": "2026-11-04T11:00:39.459467+00:00"
+  "pricesUpdatedAt": "2026-11-04T18:00:02.893150+00:00"
 }
