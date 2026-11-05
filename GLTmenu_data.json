@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T14:40:02.350871+00:00",
+  "generated_at": "2026-11-05T14:50:03.110846+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -360,7 +360,7 @@
       "category": "Capsule",
       "metrcCategory": "Infused Edible (Capsule Only)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 5.0,
       "unit": "Each",
@@ -37697,7 +37697,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Infused Joints",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 15.0,
       "unit": "Each",
@@ -46115,6 +46115,64 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4550113",
+      "posCategory": "Bulk Flower"
+    },
+    {
+      "id": 9073217,
+      "packageCount": 1,
+      "name": "SMG - Puro Loco - 454g",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 452.28,
+      "unit": "Grams",
+      "strainName": "Puro Loco",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.39,
+        "totalCBD": 0.19,
+        "CBDA": 0.02,
+        "CBG": 0.68,
+        "CBN": 0.04,
+        "THCA": 29.49
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.21,
+        "myrcene": 0.46,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.58,
+        "eudesmol": 0.01,
+        "beta-pinene": 0.08,
+        "ocimene": 0.01,
+        "limonene": 0.56,
+        "linalool": 0.46,
+        "terpinolene": 0.02,
+        "nerolidol": 0.08
+      },
+      "totalTerps": 2.71,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9073217,
+          "label": "1A40303000001F5000453115",
+          "quantity": 452.28,
+          "packagedDate": "2026-09-30",
+          "expirationDate": null
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Bulk Flower"
     },
     {
