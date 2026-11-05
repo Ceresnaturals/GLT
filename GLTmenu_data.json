@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T23:10:02.826285+00:00",
+  "generated_at": "2026-11-05T23:20:02.476730+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12555,7 +12555,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12594,7 +12594,7 @@
         {
           "id": 9047758,
           "label": "1A403030000012D000267867",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-08-03"
         }
@@ -13441,69 +13441,6 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8926296,
-      "packageCount": 1,
-      "name": "Curio Wellness Pink Cotton 40mg Chews-40mg-10",
-      "brand": "Curio Wellness",
-      "producer": "Curio Manufacturing",
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.934,
-        "CBC": 0.013,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.032,
-        "CBGA": 0.0,
-        "CBN": 0.033,
-        "THCA": 0.0,
-        "THCV": 0.009
-      },
-      "dose": {
-        "servingSize": "1 piece",
-        "totalThcMg": 400.0,
-        "thcMgPerServing": 40.0,
-        "minorsMgPerServing": {
-          "CBC": 0.52,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 1.28,
-          "CBGA": 0.0,
-          "CBN": 1.32,
-          "THCA": 0.0,
-          "THCV": 0.36
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8926296,
-          "label": "1A403030000012D000262976",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-27",
-          "expirationDate": "2027-07-14"
-        }
-      ],
-      "price": 45.0,
-      "medPrice": 45.0,
-      "salePrice": 31.5,
-      "medSalePrice": 31.5,
-      "deal": "Therapeutic Thursday! 30% off Curio Brands",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4705071",
-      "posCategory": "Edibles"
-    },
-    {
       "id": 8678611,
       "packageCount": 1,
       "name": "Curio Wellness Sleep 1:5:20 Blueberry Chews-40mg-10",
@@ -13895,7 +13832,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13934,7 +13871,7 @@
         {
           "id": 9142950,
           "label": "1A403030000012D000276059",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-08-05"
         },
@@ -26976,7 +26913,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 212.0,
+      "quantity": 205.0,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -27006,7 +26943,7 @@
         {
           "id": 8426780,
           "label": "1A40303000001F5000375219",
-          "quantity": 212.0,
+          "quantity": 205.0,
           "packagedDate": "2026-05-07",
           "expirationDate": "2027-04-15"
         }
@@ -27264,7 +27201,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "MICA",
       "strainType": null,
@@ -27298,7 +27235,7 @@
         {
           "id": 9175768,
           "label": "1A40303000000CD000083585",
-          "quantity": 38.5,
+          "quantity": 35.0,
           "packagedDate": "2026-10-22",
           "expirationDate": "2027-09-09"
         }
@@ -29812,7 +29749,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 120.0,
+      "quantity": 116.0,
       "unit": "Grams",
       "strainName": "PurpleValley Grapes",
       "strainType": null,
@@ -29847,7 +29784,7 @@
         {
           "id": 9166213,
           "label": "1A4030300004845000050124",
-          "quantity": 120.0,
+          "quantity": 116.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-10-13"
         }
@@ -30332,7 +30269,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.5,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Lemon Blanc",
       "strainType": null,
@@ -30366,7 +30303,7 @@
         {
           "id": 9164816,
           "label": "1A40303000000CB000056634",
-          "quantity": 10.5,
+          "quantity": 7.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-10-16"
         }
@@ -38490,7 +38427,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Got Caught 4",
       "strainType": null,
@@ -38524,7 +38461,7 @@
         {
           "id": 9164823,
           "label": "1A40303000000CB000056637",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-05"
         }
@@ -41212,7 +41149,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 41.0,
       "unit": "Each",
       "strainName": "Midnight Circus",
       "strainType": null,
@@ -41245,7 +41182,7 @@
         {
           "id": 9197196,
           "label": "1A40303000000CB000057467",
-          "quantity": 42.0,
+          "quantity": 41.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-10-02"
         }
@@ -42536,7 +42473,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -42569,7 +42506,7 @@
         {
           "id": 9197715,
           "label": "1A40303000000CB000057469",
-          "quantity": 26.0,
+          "quantity": 25.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-10-05"
         }
@@ -54043,7 +53980,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": "Purple Kush",
       "strainType": null,
@@ -54077,7 +54014,7 @@
         {
           "id": 9174034,
           "label": "1A403030000012D000277061",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-10-22",
           "expirationDate": "2027-09-23"
         }
@@ -62740,7 +62677,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Maui Sunrise",
       "strainType": null,
@@ -62768,7 +62705,7 @@
         {
           "id": 9090380,
           "label": "1A403030000012E000200839",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-10-05",
           "expirationDate": "2027-09-04"
         }
