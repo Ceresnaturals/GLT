@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T20:00:03.148953+00:00",
+  "generated_at": "2026-11-05T20:10:17.125798+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9998,13 +9998,13 @@
           "expirationDate": "2027-08-17"
         }
       ],
-      "price": 6.0,
-      "medPrice": 6.0,
-      "salePrice": 4.5,
-      "medSalePrice": 4.5,
-      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4529194",
-      "posCategory": "Edibles"
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 9194045,
@@ -13804,12 +13804,12 @@
           "expirationDate": "2027-03-18"
         }
       ],
-      "price": 20.0,
-      "medPrice": 20.0,
-      "salePrice": 14.0,
-      "medSalePrice": 14.0,
-      "deal": "Therapeutic Thursday! 30% off Curio Brands",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664251",
+      "price": 1.0,
+      "medPrice": 1.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4706909",
       "posCategory": "Edibles"
     },
     {
@@ -15208,7 +15208,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15249,7 +15249,7 @@
         {
           "id": 8793248,
           "label": "1A4030300000C83000080431",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-03-25"
         }
@@ -15994,7 +15994,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 20.0,
       "unit": "Each",
@@ -23663,6 +23663,71 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9229962,
+      "packageCount": 1,
+      "name": "Sunnies - Strawberry Banana Nano Gummies - 10mg - 10Pcs",
+      "brand": "Sunnies",
+      "producer": "SunMed Growers",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.275,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9229962,
+          "label": "1A40303000001F5000467394",
+          "quantity": 20.0,
+          "packagedDate": "2026-11-04",
+          "expirationDate": "2027-08-28"
+        }
+      ],
+      "price": 15.0,
+      "medPrice": 15.0,
+      "salePrice": 11.25,
+      "medSalePrice": 11.25,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4555938",
+      "posCategory": "Edibles"
+    },
+    {
       "id": 8696901,
       "packageCount": 1,
       "name": "Sunnies - Sugar Free Watermelon Gummies - 5mg - 20Pc",
@@ -26751,7 +26816,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 243.0,
+      "quantity": 242.0,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -26781,7 +26846,7 @@
         {
           "id": 8426780,
           "label": "1A40303000001F5000375219",
-          "quantity": 243.0,
+          "quantity": 242.0,
           "packagedDate": "2026-05-07",
           "expirationDate": "2027-04-15"
         }
@@ -42301,6 +42366,63 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
+      "id": 9229956,
+      "packageCount": 1,
+      "name": "Permanent Marker - Pre Roll Joints - 0.5 gram - 2 Pack",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Grams",
+      "strainName": "Permanent Marker",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.22,
+        "totalCBD": 0.15,
+        "CBDA": 0.03,
+        "CBG": 0.83,
+        "CBN": 0.02,
+        "THCA": 28.03
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.03,
+        "humulene": 0.14,
+        "myrcene": 0.06,
+        "alpha-pinene": 0.14,
+        "caryophyllene": 0.45,
+        "beta-pinene": 0.1,
+        "ocimene": 0.07,
+        "limonene": 0.58,
+        "linalool": 0.27,
+        "terpinolene": 0.01,
+        "nerolidol": 0.02
+      },
+      "totalTerps": 2.06,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9229956,
+          "label": "1A40303000001F5000467383",
+          "quantity": 50.0,
+          "packagedDate": "2026-11-04",
+          "expirationDate": null
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4492833",
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 9188400,
       "packageCount": 1,
       "name": "Permanent Marker Diamond Dust IPRJ 1.0g/1000mg",
@@ -43684,6 +43806,61 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
+      "id": 9229886,
+      "packageCount": 1,
+      "name": "SMG - Black Cherry Gelato - 0.5g - 2 - multi",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": "Black Cherry Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.65,
+        "totalCBD": 0.25,
+        "CBDA": 0.06,
+        "CBG": 0.69,
+        "CBN": 0.01,
+        "THCA": 29.8
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.11,
+        "myrcene": 0.49,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.35,
+        "beta-pinene": 0.06,
+        "limonene": 0.3,
+        "linalool": 0.04,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 1.51,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9229886,
+          "label": "1A40303000001F5000467381",
+          "quantity": 50.0,
+          "packagedDate": "2026-11-04",
+          "expirationDate": null
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4293263",
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 9188463,
       "packageCount": 1,
       "name": "SMG - Black Cherry Gelato - 0.5g - 5 - multi",
@@ -43850,6 +44027,63 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4293231",
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 9229887,
+      "packageCount": 1,
+      "name": "SMG - Golden Pineapple - 0.5g - 2 - multi",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": "Golden Pineapple",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.14,
+        "totalCBD": 0.29,
+        "CBDA": 0.04,
+        "CBG": 0.25,
+        "CBN": 0.01,
+        "THCA": 27.95
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.01,
+        "humulene": 0.04,
+        "myrcene": 0.3,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.15,
+        "beta-pinene": 0.12,
+        "ocimene": 0.28,
+        "limonene": 0.21,
+        "linalool": 0.02,
+        "terpinolene": 1.34,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.78,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9229887,
+          "label": "1A40303000001F5000467382",
+          "quantity": 50.0,
+          "packagedDate": "2026-11-04",
+          "expirationDate": null
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4175033",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -44077,6 +44311,63 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4224616",
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 9229885,
+      "packageCount": 1,
+      "name": "SMG - SDG OG - 0.5g - 5 - multi",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "SDG OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.84,
+        "totalCBD": 0.31,
+        "CBDA": 0.05,
+        "CBG": 0.54,
+        "CBN": 0.01,
+        "THCA": 30.16
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.26,
+        "myrcene": 0.46,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.76,
+        "beta-pinene": 0.07,
+        "ocimene": 0.01,
+        "limonene": 0.46,
+        "linalool": 0.18,
+        "terpinolene": 0.02,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.41,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9229885,
+          "label": "1A40303000001F5000467380",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-04",
+          "expirationDate": null
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4364659",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -44594,6 +44885,63 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4727028",
+      "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
+      "id": 9229893,
+      "packageCount": 1,
+      "name": "Sunnies - Strawberry Candy #4 - Infused Joint - 1g",
+      "brand": "Sunnies",
+      "producer": "SunMed Growers",
+      "category": "Pre-Roll",
+      "metrcCategory": "Infused Joints",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Strawberry Candy",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 43.74,
+        "totalCBD": 0.21,
+        "CBDA": 0.05,
+        "CBG": 0.39,
+        "CBN": 0.02,
+        "THCA": 49.17
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.12,
+        "myrcene": 0.21,
+        "alpha-pinene": 0.01,
+        "caryophyllene": 0.36,
+        "eudesmol": 0.06,
+        "beta-pinene": 0.02,
+        "limonene": 0.1,
+        "linalool": 0.11,
+        "terpinolene": 0.01,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 1.15,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9229893,
+          "label": "1A40303000001F5000467393",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-04",
+          "expirationDate": "2027-09-28"
+        }
+      ],
+      "price": 15.0,
+      "medPrice": 15.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4741526",
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
@@ -46001,7 +46349,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 438.28,
+      "quantity": 434.78,
       "unit": "Grams",
       "strainName": "Puro Loco",
       "strainType": null,
@@ -46035,7 +46383,7 @@
         {
           "id": 9073217,
           "label": "1A40303000001F5000453115",
-          "quantity": 438.28,
+          "quantity": 434.78,
           "packagedDate": "2026-09-30",
           "expirationDate": null
         }
@@ -47472,6 +47820,61 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 9229888,
+      "packageCount": 1,
+      "name": "Airo Pod Black Mamba 2.0gX Disposable",
+      "brand": "Airo",
+      "producer": "SunMed Growers",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Black Mamba .0gX",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.14,
+        "totalCBD": 0.21,
+        "CBC": 1.13,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.98,
+        "CBGA": 0.0,
+        "CBN": 0.21,
+        "THCA": 0.0,
+        "THCV": 0.92
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.02,
+        "myrcene": 1.99,
+        "alpha-pinene": 0.07,
+        "limonene": 3.87,
+        "linalool": 0.02
+      },
+      "totalTerps": 6.16,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9229888,
+          "label": "1A40303000001F5000467384",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-04",
+          "expirationDate": "2027-08-26"
+        }
+      ],
+      "price": 85.0,
+      "medPrice": 85.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4574619",
+      "posCategory": "Disposables"
+    },
+    {
       "id": 9039274,
       "packageCount": 1,
       "name": "Airo Pod Black Mamba Disposable 1.0g/1000mg",
@@ -48526,6 +48929,123 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 9229890,
+      "packageCount": 1,
+      "name": "AiroPod Cartridge | Strain | Northern Lights - 1g",
+      "brand": null,
+      "producer": "SunMed Growers",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Northern Lights",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.91,
+        "totalCBD": 0.23,
+        "CBC": 0.41,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.62,
+        "CBGA": 0.0,
+        "CBN": 0.36,
+        "THCA": 0.0,
+        "THCV": 0.25
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.07,
+        "myrcene": 1.26,
+        "alpha-pinene": 0.82,
+        "caryophyllene": 0.93,
+        "beta-pinene": 0.77,
+        "limonene": 1.53,
+        "linalool": 0.28,
+        "terpinolene": 2.85
+      },
+      "totalTerps": 9.58,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9229890,
+          "label": "1A40303000001F5000467386",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-04",
+          "expirationDate": "2027-09-15"
+        }
+      ],
+      "price": 55.0,
+      "medPrice": 55.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174127",
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9229889,
+      "packageCount": 1,
+      "name": "AiroX Disposable Vaporizer | Artisan | Melon Mist - 2g",
+      "brand": null,
+      "producer": "SunMed Growers",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "AiroX Vaporizer",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.04,
+        "totalCBD": 0.22,
+        "CBC": 0.73,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.25,
+        "CBGA": 0.0,
+        "CBN": 0.25,
+        "THCA": 0.0,
+        "THCV": 1.11
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.22,
+        "alpha-pinene": 2.44,
+        "caryophyllene": 0.32,
+        "beta-pinene": 0.92,
+        "caryophyllene-oxide": 0.03,
+        "limonene": 0.57,
+        "linalool": 0.16,
+        "terpinolene": 0.56
+      },
+      "totalTerps": 5.81,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9229889,
+          "label": "1A40303000001F5000467385",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-04",
+          "expirationDate": "2027-09-28"
+        }
+      ],
+      "price": 85.0,
+      "medPrice": 85.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4685633",
+      "posCategory": "Disposables"
+    },
+    {
       "id": 9188398,
       "packageCount": 1,
       "name": "AiroX Disposable Vaporizer | Artisan | Midnight Moon - 2g",
@@ -49169,6 +49689,64 @@
       "deal": null,
       "orderUrl": null,
       "posCategory": "Disposables"
+    },
+    {
+      "id": 9229960,
+      "packageCount": 1,
+      "name": "Baja Blue DV 0.5g/500mg",
+      "brand": null,
+      "producer": "SunMed Growers",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Baja Blue DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 88.38,
+        "totalCBD": 0.13,
+        "CBC": 0.55,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.95,
+        "CBGA": 0.0,
+        "CBN": 0.29,
+        "THCA": 0.0,
+        "THCV": 0.24
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 1.94,
+        "alpha-pinene": 1.56,
+        "caryophyllene": 0.96,
+        "beta-pinene": 0.8,
+        "limonene": 1.08,
+        "linalool": 0.23,
+        "terpinolene": 0.09
+      },
+      "totalTerps": 7.45,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9229960,
+          "label": "1A40303000001F5000467390",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-04",
+          "expirationDate": "2027-03-19"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4674636",
+      "posCategory": "Cartridges"
     },
     {
       "id": 8890377,
@@ -50280,6 +50858,64 @@
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4665786",
       "posCategory": "Disposables"
+    },
+    {
+      "id": 9229961,
+      "packageCount": 1,
+      "name": "Berry Scary DV 0.5g/500mg",
+      "brand": null,
+      "producer": "SunMed Growers",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Berry Scary DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.92,
+        "totalCBD": 0.25,
+        "CBC": 1.12,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.91,
+        "CBGA": 0.0,
+        "CBN": 0.24,
+        "THCA": 0.0,
+        "THCV": 0.95
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "myrcene": 1.02,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 0.62,
+        "beta-pinene": 0.2,
+        "limonene": 1.27,
+        "linalool": 0.49,
+        "terpinolene": 0.03
+      },
+      "totalTerps": 4.09,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9229961,
+          "label": "1A40303000001F5000467391",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-04",
+          "expirationDate": "2027-08-24"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4741521",
+      "posCategory": "Cartridges"
     },
     {
       "id": 8920049,
@@ -65454,6 +66090,66 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 9229958,
+      "packageCount": 1,
+      "name": "Raspberry Daydream DV 1.0g/1000mg",
+      "brand": null,
+      "producer": "SunMed Growers",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Raspberry Daydream DV",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 79.63,
+        "totalCBD": 0.15,
+        "CBC": 0.36,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.23,
+        "CBGA": 0.0,
+        "CBN": 0.33,
+        "THCA": 0.0,
+        "THCV": 0.21
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.04,
+        "humulene": 0.11,
+        "myrcene": 2.65,
+        "alpha-pinene": 1.94,
+        "caryophyllene": 1.25,
+        "beta-pinene": 1.05,
+        "caryophyllene-oxide": 0.02,
+        "limonene": 1.98,
+        "linalool": 0.67,
+        "terpinolene": 0.07
+      },
+      "totalTerps": 10.35,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9229958,
+          "label": "1A40303000001F5000467389",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-04",
+          "expirationDate": null
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4688424",
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 8756257,
       "packageCount": 1,
       "name": "Razberry Blitz Cloud Bar Hellavated - 1 g",
@@ -67754,6 +68450,64 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 9229891,
+      "packageCount": 1,
+      "name": "Sunnies - Pink Lemonade - 1g",
+      "brand": "Sunnies",
+      "producer": "SunMed Growers",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Pink Lemonade",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 79.98,
+        "totalCBD": 0.23,
+        "CBC": 0.82,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.37,
+        "CBGA": 0.0,
+        "CBN": 0.27,
+        "THCA": 0.0,
+        "THCV": 0.94
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.04,
+        "alpha-pinene": 0.41,
+        "beta-pinene": 0.86,
+        "camphene": 0.14,
+        "fenchol": 0.02,
+        "limonene": 4.83,
+        "linalool": 0.14,
+        "terpinolene": 0.62
+      },
+      "totalTerps": 9.06,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9229891,
+          "label": "1A40303000001F5000467388",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-04",
+          "expirationDate": null
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4208175",
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 9168518,
       "packageCount": 1,
       "name": "Sunnies - Super Sour Peach - 1g",
@@ -68317,13 +69071,13 @@
           "expirationDate": "2027-01-15"
         }
       ],
-      "price": 40.0,
-      "medPrice": 40.0,
+      "price": null,
+      "medPrice": null,
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4679797",
-      "posCategory": "Cartridges"
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 8583734,
@@ -69399,5 +70153,5 @@
     }
   ],
   "priceNote": "Prices shown are estimates. The register has the final price.",
-  "pricesUpdatedAt": "2026-11-05T18:00:05.504410+00:00"
+  "pricesUpdatedAt": "2026-11-05T20:10:17.126511+00:00"
 }
