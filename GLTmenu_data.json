@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T21:20:02.583991+00:00",
+  "generated_at": "2026-11-05T21:30:03.780106+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -28359,7 +28359,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 52.5,
+      "quantity": 49.0,
       "unit": "Grams",
       "strainName": "GLBR",
       "strainType": null,
@@ -28391,7 +28391,7 @@
         {
           "id": 9142893,
           "label": "1A40303000000CD000083158",
-          "quantity": 52.5,
+          "quantity": 49.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-09-21"
         }
@@ -29735,7 +29735,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 128.0,
+      "quantity": 124.0,
       "unit": "Grams",
       "strainName": "PurpleValley Grapes",
       "strainType": null,
@@ -29770,7 +29770,7 @@
         {
           "id": 9166213,
           "label": "1A4030300004845000050124",
-          "quantity": 128.0,
+          "quantity": 124.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-10-13"
         }
@@ -32151,6 +32151,61 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4622192",
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 9229955,
+      "packageCount": 1,
+      "name": "SMG - Banana Puddintain - 28g",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 448.0,
+      "unit": "Grams",
+      "strainName": "Banana Puddintain",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.41,
+        "totalCBD": 0.31,
+        "CBDA": 0.05,
+        "CBG": 0.33,
+        "CBN": 0.01,
+        "THCA": 30.9
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.1,
+        "myrcene": 0.75,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.24,
+        "beta-pinene": 0.06,
+        "limonene": 0.42,
+        "terpinolene": 0.01,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 1.73,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9229955,
+          "label": "1A40303000001F5000467379",
+          "quantity": 448.0,
+          "packagedDate": "2026-11-04",
+          "expirationDate": null
+        }
+      ],
+      "price": 200.0,
+      "medPrice": 200.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -36319,7 +36374,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": "Chill",
       "strainType": null,
@@ -36355,7 +36410,7 @@
         {
           "id": 9079420,
           "label": "1A403030000012D000272428",
-          "quantity": 29.0,
+          "quantity": 28.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-12"
         }
@@ -38129,7 +38184,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Got Caught 4",
       "strainType": null,
@@ -38163,7 +38218,7 @@
         {
           "id": 9164823,
           "label": "1A40303000000CB000056637",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-05"
         }
@@ -40266,7 +40321,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "MDOGKU IIPR",
       "strainType": null,
@@ -40299,7 +40354,7 @@
         {
           "id": 8300146,
           "label": "1A40303000007D1000070077",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-04-08",
           "expirationDate": "2027-03-23"
         }
@@ -40795,7 +40850,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Mfused TWISTED Fattys",
       "strainType": null,
@@ -40827,7 +40882,7 @@
         {
           "id": 9111158,
           "label": "1A403030000012D000275069",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-06-18"
         }
@@ -41490,7 +41545,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Larry Bird Mints",
       "strainType": null,
@@ -41520,7 +41575,7 @@
         {
           "id": 8518176,
           "label": "1A4030300003522000192435",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-03-05"
         }
@@ -46373,7 +46428,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 427.78,
+      "quantity": 417.28,
       "unit": "Grams",
       "strainName": "Puro Loco",
       "strainType": null,
@@ -46407,7 +46462,7 @@
         {
           "id": 9073217,
           "label": "1A40303000001F5000453115",
-          "quantity": 427.78,
+          "quantity": 417.28,
           "packagedDate": "2026-09-30",
           "expirationDate": null
         }
@@ -49843,7 +49898,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Banana Munson",
       "strainType": null,
@@ -49878,7 +49933,7 @@
         {
           "id": 9126342,
           "label": "1A40303000001F5000458221",
-          "quantity": 6.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-07-15"
         }
@@ -53210,7 +53265,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": null,
@@ -53244,7 +53299,7 @@
         {
           "id": 9173944,
           "label": "1A403030000012D000277064",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-10-22",
           "expirationDate": "2027-10-08"
         }
@@ -54497,7 +54552,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Burger",
       "strainType": null,
@@ -54533,7 +54588,7 @@
         {
           "id": 9002502,
           "label": "1A4030300004845000044238",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-09-04",
           "expirationDate": "2027-09-04"
         }
@@ -63653,7 +63708,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Lemon Margy",
       "strainType": null,
@@ -63688,7 +63743,7 @@
         {
           "id": 8632206,
           "label": "1A4030300003522000194074",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-06-23",
           "expirationDate": "2027-01-18"
         }
