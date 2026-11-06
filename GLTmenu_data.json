@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T20:00:03.026041+00:00",
+  "generated_at": "2026-11-06T20:10:05.852561+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3480,13 +3480,13 @@
         }
       ],
       "pick": 204,
-      "price": 40.0,
-      "medPrice": 40.0,
-      "salePrice": 24.0,
-      "medSalePrice": 24.0,
-      "deal": "40% Off",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4717009",
-      "posCategory": "Cartridges"
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 8563611,
@@ -3957,7 +3957,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4720275",
       "posCategory": "Concentrate"
     },
     {
@@ -7296,7 +7296,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4741770",
       "posCategory": "Concentrate"
     },
     {
@@ -7764,7 +7764,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4600523",
       "posCategory": "Concentrate"
     },
     {
@@ -10203,7 +10203,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4529194",
       "posCategory": "Edibles"
     },
     {
@@ -15528,7 +15528,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4537774",
       "posCategory": "Edibles"
     },
     {
@@ -20630,7 +20630,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20671,7 +20671,7 @@
         {
           "id": 9075702,
           "label": "1A40303000003EA000260948",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-26"
         }
@@ -20686,16 +20686,17 @@
     },
     {
       "id": 8485364,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Incredibles Gummy 100mg - Fast Acting Pineapple Express - 10mg - 10 Pieces",
       "brand": "Incredibles",
       "producer": "Chesapeake Alternatives",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 37.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20739,14 +20740,21 @@
           "quantity": 12.0,
           "packagedDate": "2026-05-20",
           "expirationDate": "2027-04-08"
+        },
+        {
+          "id": 9233189,
+          "label": "1A40303000003EA000176066",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": "2027-09-16"
         }
       ],
-      "price": null,
-      "medPrice": null,
+      "price": 20.0,
+      "medPrice": 20.0,
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4574845",
       "posCategory": "Edibles"
     },
     {
@@ -20825,7 +20833,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20866,7 +20874,7 @@
         {
           "id": 9164273,
           "label": "1A40303000003EA000255092",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-08-21"
         }
@@ -20877,6 +20885,71 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664450",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9233190,
+      "packageCount": 1,
+      "name": "Incredibles Gummy 100mg - Snoozzzierberry (2:1:1 THC:CBN:CBG)-10mg-10 Pieces",
+      "brand": "Incredibles",
+      "producer": "Chesapeake Alternatives",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.35,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.176,
+        "CBGA": 0.0,
+        "CBN": 0.17,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 5.28,
+          "CBGA": 0.0,
+          "CBN": 5.1,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9233190,
+          "label": "1A40303000003EA000176067",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": "2027-07-31"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664451",
       "posCategory": "Edibles"
     },
     {
@@ -21020,7 +21093,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21061,7 +21134,7 @@
         {
           "id": 8891521,
           "label": "1A40303000003EA000205081",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-09"
         }
@@ -21949,7 +22022,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21990,7 +22063,7 @@
         {
           "id": 8787116,
           "label": "1A4030300000193000102919",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-06-03"
         }
@@ -22715,7 +22788,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22756,7 +22829,7 @@
         {
           "id": 8908968,
           "label": "1A4030300000193000106240",
-          "quantity": 3.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-04"
         }
@@ -23960,7 +24033,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -24001,7 +24074,7 @@
         {
           "id": 9124804,
           "label": "1A4030300003522000219702",
-          "quantity": 6.0,
+          "quantity": 4.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-19"
         }
@@ -32022,13 +32095,13 @@
           "expirationDate": "2027-08-11"
         }
       ],
-      "price": null,
-      "medPrice": null,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": null,
-      "posCategory": null
+      "price": 60.0,
+      "medPrice": 60.0,
+      "salePrice": 45.0,
+      "medSalePrice": 45.0,
+      "deal": "Flower Friday! 25% OFF All Flower",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4509898",
+      "posCategory": "Pre-Packed Flower"
     },
     {
       "id": 9188461,
@@ -32384,7 +32457,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Sunshine #4",
       "strainType": null,
@@ -32417,7 +32490,7 @@
         {
           "id": 9168805,
           "label": "1A40303000001F5000462126",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-08-04"
         }
@@ -34449,6 +34522,64 @@
       "medSalePrice": 17.5,
       "deal": "30% OFF Trulieve (pop-up 4-6pm 1st friday every month)",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4733990",
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 9233701,
+      "packageCount": 1,
+      "name": "Afternoon Delight #4 5 Pack - Dogwalkers (Stay) - 1.75g - Multi",
+      "brand": "Dogwalkers",
+      "producer": "Chesapeake Alternatives",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Afternoon Delight #4",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 33.42,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.01,
+        "CBN": 0.0,
+        "THCA": 37.74,
+        "THCV": 0.22
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.13,
+        "humulene": 0.29,
+        "myrcene": 0.44,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 1.1,
+        "beta-pinene": 0.08,
+        "limonene": 0.7,
+        "linalool": 0.33,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.33,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9233701,
+          "label": "1A40303000003EA000176069",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": "2027-09-18"
+        }
+      ],
+      "price": 30.0,
+      "medPrice": 30.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174374",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -38679,7 +38810,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4741795",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -38750,7 +38881,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -38783,7 +38914,7 @@
         {
           "id": 9174037,
           "label": "1A403030000012D000277065",
-          "quantity": 27.0,
+          "quantity": 26.0,
           "packagedDate": "2026-10-22",
           "expirationDate": "2027-08-26"
         }
@@ -40008,7 +40139,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4725942",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -40066,7 +40197,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4716695",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -40124,7 +40255,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4718699",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -40414,7 +40545,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4344133",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -40524,13 +40655,13 @@
           "expirationDate": "2027-04-05"
         }
       ],
-      "price": 35.0,
-      "medPrice": 35.0,
-      "salePrice": 21.0,
-      "medSalePrice": 21.0,
-      "deal": "40% Off",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174329",
-      "posCategory": "Pre-Rolls"
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 8599508,
@@ -42553,7 +42684,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4741776",
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
@@ -42610,7 +42741,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4344074",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -43872,6 +44003,63 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4571322",
+      "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
+      "id": 9233702,
+      "packageCount": 1,
+      "name": "Rythm 5 Pack (Infused) - Pineapple Express (Hybrid) - 2.5g",
+      "brand": "Rythm",
+      "producer": "Chesapeake Alternatives",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Pineapple Express",
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 40.6,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.68,
+        "CBN": 0.0,
+        "THCA": 44.92,
+        "THCV": 0.22
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.16,
+        "myrcene": 0.09,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.5,
+        "beta-pinene": 0.05,
+        "limonene": 0.15,
+        "linalool": 0.13,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 1.17,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9233702,
+          "label": "1A40303000003EA000176070",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": "2027-09-03"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4578501",
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
@@ -45529,7 +45717,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4741784",
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
@@ -45599,7 +45787,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 40.0,
+      "quantity": 39.0,
       "unit": "Each",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -45631,7 +45819,7 @@
         {
           "id": 9226978,
           "label": "1A40303000000CB000057886",
-          "quantity": 40.0,
+          "quantity": 39.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-09"
         }
@@ -45641,7 +45829,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4491529",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -47507,7 +47695,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Berry Gelato",
       "strainType": null,
@@ -47540,7 +47728,7 @@
         {
           "id": 8522408,
           "label": "1A40303000017D5000092086",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-04-28",
           "expirationDate": "2027-04-16"
         }
@@ -49921,6 +50109,64 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4677533",
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 9233704,
+      "packageCount": 1,
+      "name": "Animal Face Pen (Live Resin) - Rythm (Indica Dominant) - Vape Pen - 2000mg",
+      "brand": "Rythm",
+      "producer": "Chesapeake Alternatives",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Animal Face",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 75.46,
+        "CBC": 0.61,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.28,
+        "CBGA": 0.62,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.18,
+        "humulene": 0.61,
+        "myrcene": 1.99,
+        "alpha-pinene": 0.24,
+        "caryophyllene": 2.03,
+        "beta-pinene": 0.05,
+        "limonene": 1.76,
+        "linalool": 1.38,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 8.84,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9233704,
+          "label": "1A40303000003EA000176074",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": "2027-09-21"
+        }
+      ],
+      "price": 80.0,
+      "medPrice": 80.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4741839",
       "posCategory": "Disposables"
     },
     {
@@ -53173,6 +53419,65 @@
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4683713",
       "posCategory": "Cartridges"
+    },
+    {
+      "id": 9233192,
+      "packageCount": 1,
+      "name": "Chicken n' Wafflez x Durban Z (Live Resin) - Rythm (Sativa Dominant) - Vape Pen - 2000mg",
+      "brand": "Rythm",
+      "producer": "Chesapeake Alternatives",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Chicken n' Wafflez x Durban Z",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 79.57,
+        "CBC": 0.77,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.67,
+        "CBGA": 0.29,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.9
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.29,
+        "myrcene": 0.97,
+        "alpha-pinene": 0.36,
+        "caryophyllene": 0.75,
+        "eudesmol": 0.21,
+        "beta-pinene": 0.13,
+        "ocimene": 0.83,
+        "limonene": 1.19,
+        "linalool": 0.52,
+        "terpinolene": 3.12
+      },
+      "totalTerps": 9.33,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9233192,
+          "label": "1A40303000003EA000176073",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": "2027-10-19"
+        }
+      ],
+      "price": 80.0,
+      "medPrice": 80.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4741844",
+      "posCategory": "Disposables"
     },
     {
       "id": 8756345,
@@ -60207,7 +60512,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "AIO Berry Gelato",
       "strainType": null,
@@ -60241,7 +60546,7 @@
         {
           "id": 9152271,
           "label": "1A4030300003201000001803",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-10-19",
           "expirationDate": "2027-10-15"
         },
@@ -66497,6 +66802,64 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 9233705,
+      "packageCount": 1,
+      "name": "Rainbow Sherbert Pen (NCD) - &Shine (Hybrid) - Vape Pen - 2000mg",
+      "brand": "&Shine",
+      "producer": "Chesapeake Alternatives",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Rainbow Sherbert",
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.98,
+        "CBC": 0.7,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.74,
+        "CBGA": 0.0,
+        "CBN": 0.31,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.25,
+        "humulene": 0.07,
+        "myrcene": 0.7,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 1.07,
+        "beta-pinene": 0.22,
+        "limonene": 1.64,
+        "linalool": 0.31,
+        "terpinolene": 0.09
+      },
+      "totalTerps": 4.92,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9233705,
+          "label": "1A40303000003EA000176075",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": "2027-09-28"
+        }
+      ],
+      "price": 70.0,
+      "medPrice": 70.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4741848",
+      "posCategory": "Disposables"
+    },
+    {
       "id": 8966590,
       "packageCount": 1,
       "name": "Raspberry Cough Distillate Cartridge Strane - 1 g",
@@ -67432,6 +67795,64 @@
       "posCategory": "Disposables"
     },
     {
+      "id": 9233703,
+      "packageCount": 1,
+      "name": "Rythm Pen (Liquid Diamonds) - Maui Wowie (Sativa Dominant) - Vape Pen - 1000mg",
+      "brand": "Rythm",
+      "producer": "Chesapeake Alternatives",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Maui Wowie",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 92.64,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 1.39,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.14,
+        "myrcene": 1.03,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.72,
+        "beta-pinene": 0.24,
+        "ocimene": 1.83,
+        "limonene": 0.44,
+        "linalool": 0.35,
+        "terpinolene": 0.24
+      },
+      "totalTerps": 5.02,
+      "dominantTerpene": "ocimene",
+      "packages": [
+        {
+          "id": 9233703,
+          "label": "1A40303000003EA000176071",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": "2027-08-21"
+        }
+      ],
+      "price": 65.0,
+      "medPrice": 65.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4603037",
+      "posCategory": "Disposables"
+    },
+    {
       "id": 8854457,
       "packageCount": 1,
       "name": "Rythm Pen (Liquid Diamonds) - Pineapple Express (Hybrid) - Vape Pen - 1000mg",
@@ -67489,16 +67910,17 @@
     },
     {
       "id": 9039337,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Rythm Pen (Liquid Diamonds) - Watermelon Z (Indica Dominant) - Vape Pen - 1000mg",
       "brand": "Rythm",
       "producer": "Chesapeake Alternatives",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 18.0,
+      "quantity": 43.0,
       "unit": "Each",
       "strainName": "Watermelon Z",
       "strainType": "Indica",
@@ -67535,14 +67957,21 @@
           "quantity": 18.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-09-01"
+        },
+        {
+          "id": 9233191,
+          "label": "1A40303000003EA000176072",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": "2027-09-25"
         }
       ],
-      "price": null,
-      "medPrice": null,
+      "price": 65.0,
+      "medPrice": 65.0,
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4624196",
       "posCategory": "Disposables"
     },
     {
@@ -70560,5 +70989,5 @@
     }
   ],
   "priceNote": "Prices shown are estimates. The register has the final price.",
-  "pricesUpdatedAt": "2026-11-06T18:00:03.048694+00:00"
+  "pricesUpdatedAt": "2026-11-06T20:10:05.853333+00:00"
 }
