@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T19:10:04.000731+00:00",
+  "generated_at": "2026-11-06T19:20:02.836939+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3443,7 +3443,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "GPOG",
       "strainType": null,
@@ -3474,7 +3474,7 @@
         {
           "id": 8794932,
           "label": "1A4030300000C83000078737",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-06-23"
         }
@@ -26843,7 +26843,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 169.0,
+      "quantity": 162.0,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -26873,7 +26873,7 @@
         {
           "id": 8426780,
           "label": "1A40303000001F5000375219",
-          "quantity": 169.0,
+          "quantity": 162.0,
           "packagedDate": "2026-05-07",
           "expirationDate": "2027-04-15"
         }
@@ -30131,63 +30131,6 @@
       "posCategory": "Pre-Packed Flower"
     },
     {
-      "id": 9162061,
-      "packageCount": 1,
-      "name": "Legend | Flower | Buds | Grape Gummiez - Usable - 28g",
-      "brand": "Legend",
-      "producer": "HMS Health",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 28.0,
-      "unit": "Grams",
-      "strainName": "Grape Gummiez",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 28.38,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.25,
-        "CBN": 0.0,
-        "THCA": 31.36,
-        "THCV": 0.21
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.05,
-        "myrcene": 1.57,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.2,
-        "beta-pinene": 0.06,
-        "ocimene": 0.35,
-        "limonene": 0.44,
-        "linalool": 0.17
-      },
-      "totalTerps": 3.02,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 9162061,
-          "label": "1A403030000025B000092959",
-          "quantity": 28.0,
-          "packagedDate": "2026-10-05",
-          "expirationDate": "2027-10-05"
-        }
-      ],
-      "price": null,
-      "medPrice": null,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": null,
-      "posCategory": null
-    },
-    {
       "id": 9162062,
       "packageCount": 1,
       "name": "Legend | Flower | Buds | Lemon Splash - Usable - 3.5g",
@@ -32620,7 +32563,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "Sunshine #4",
       "strainType": null,
@@ -32653,7 +32596,7 @@
         {
           "id": 9168805,
           "label": "1A40303000001F5000462126",
-          "quantity": 24.5,
+          "quantity": 21.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-08-04"
         }
@@ -39906,7 +39849,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "La Kush Cake",
       "strainType": null,
@@ -39939,7 +39882,7 @@
         {
           "id": 8748372,
           "label": "1A40303000000C9000164545",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-07-12"
         }
@@ -44808,7 +44751,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 50.0,
+      "quantity": 49.0,
       "unit": "Each",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -44841,7 +44784,7 @@
         {
           "id": 9229887,
           "label": "1A40303000001F5000467382",
-          "quantity": 50.0,
+          "quantity": 49.0,
           "packagedDate": "2026-11-04",
           "expirationDate": null
         }
@@ -46691,7 +46634,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "White OG",
       "strainType": null,
@@ -46724,7 +46667,7 @@
         {
           "id": 8746344,
           "label": "1A40303000003EA000201211",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-07-02"
         }
@@ -46928,64 +46871,6 @@
       "medSalePrice": 22.5,
       "deal": "Flower Friday! 25% OFF All Flower",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4736545",
-      "posCategory": "Pre-Packed Flower"
-    },
-    {
-      "id": 9098469,
-      "packageCount": 1,
-      "name": "Crazy Lady 5g Shake/Trim",
-      "brand": null,
-      "producer": "MAS Alliance",
-      "category": "Shake/Trim",
-      "metrcCategory": "Shake/Trim (by strain)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 5.0,
-      "unit": "Grams",
-      "strainName": "the crazy lady- BLVCK MRKT",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 22.24,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.26,
-        "CBN": 0.0,
-        "THCA": 25.04,
-        "THCV": 0.05
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.05,
-        "myrcene": 0.62,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.15,
-        "eudesmol": 0.07,
-        "beta-pinene": 0.05,
-        "limonene": 0.42,
-        "linalool": 0.13
-      },
-      "totalTerps": 1.72,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 9098469,
-          "label": "1A40303000040D9000006502",
-          "quantity": 5.0,
-          "packagedDate": "2026-10-06",
-          "expirationDate": null
-        }
-      ],
-      "price": 25.0,
-      "medPrice": 25.0,
-      "salePrice": 18.75,
-      "medSalePrice": 18.75,
-      "deal": "Flower Friday! 25% OFF All Flower",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4734359",
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -47228,7 +47113,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 308.78,
+      "quantity": 294.78,
       "unit": "Grams",
       "strainName": "Puro Loco",
       "strainType": null,
@@ -47262,7 +47147,7 @@
         {
           "id": 9073217,
           "label": "1A40303000001F5000453115",
-          "quantity": 308.78,
+          "quantity": 294.78,
           "packagedDate": "2026-09-30",
           "expirationDate": null
         }
@@ -60632,7 +60517,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Legacy Series Acapulco Gold",
       "strainType": null,
@@ -60662,7 +60547,7 @@
         {
           "id": 8483807,
           "label": "1A4030300000193000095469",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-05-20",
           "expirationDate": "2027-03-23"
         }
@@ -60983,7 +60868,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Legacy Series Ray Charles",
       "strainType": null,
@@ -61017,7 +60902,7 @@
         {
           "id": 8908841,
           "label": "1A4030300000193000106246",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-08-03"
         }
@@ -63572,7 +63457,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Green Crack",
       "strainType": null,
@@ -63606,7 +63491,7 @@
         {
           "id": 9188653,
           "label": "1A403030000283D000064497",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-08-25"
         }
