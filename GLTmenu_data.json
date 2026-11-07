@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T15:20:03.256123+00:00",
+  "generated_at": "2026-11-07T15:30:02.639795+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -20053,7 +20053,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20094,7 +20094,7 @@
         {
           "id": 9124542,
           "label": "1A4030300003522000219685",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-07-27"
         }
@@ -26503,7 +26503,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 224.0,
+      "quantity": 210.0,
       "unit": "Grams",
       "strainName": "Bodega Gas",
       "strainType": null,
@@ -26537,7 +26537,7 @@
         {
           "id": 8873580,
           "label": "1A403030000012E000183002",
-          "quantity": 224.0,
+          "quantity": 210.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-08-07"
         }
@@ -27076,7 +27076,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.5,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Chesapeake Crawler",
       "strainType": null,
@@ -27110,7 +27110,7 @@
         {
           "id": 8740657,
           "label": "1A40303000000C9000163852",
-          "quantity": 45.5,
+          "quantity": 42.0,
           "packagedDate": "2026-07-17",
           "expirationDate": "2027-07-12"
         }
@@ -30560,7 +30560,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 63.0,
+      "quantity": 59.5,
       "unit": "Grams",
       "strainName": "Melonade",
       "strainType": null,
@@ -30594,7 +30594,7 @@
         {
           "id": 8208833,
           "label": "1A40303000000C9000140846",
-          "quantity": 63.0,
+          "quantity": 59.5,
           "packagedDate": "2026-03-18",
           "expirationDate": "2027-02-03"
         }
@@ -30674,7 +30674,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 336.0,
       "unit": "Grams",
@@ -35918,7 +35918,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Patapeake Shortbread x Isolate",
       "strainType": null,
@@ -35951,7 +35951,7 @@
         {
           "id": 9097155,
           "label": "1A4030300000C83000090222",
-          "quantity": 7.0,
+          "quantity": 4.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-11"
         }
@@ -50589,7 +50589,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Banana Belts",
       "strainType": null,
@@ -50623,7 +50623,7 @@
         {
           "id": 9166217,
           "label": "1A403030000283D000064188",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-07-30"
         }
@@ -51102,65 +51102,6 @@
       "medSalePrice": 14.0,
       "deal": "Saturdaze Delights! 30% OFF Carts",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4696489",
-      "posCategory": "Cartridges"
-    },
-    {
-      "id": 9107211,
-      "packageCount": 1,
-      "name": "Beezle - Buzz Vape - Wedding Cake - 1g",
-      "brand": "Beezle",
-      "producer": "Pro Green Medical",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Wedding Cake",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 83.58,
-        "CBC": 0.82,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.36,
-        "CBGA": 0.0,
-        "CBN": 0.73,
-        "THCA": 0.0,
-        "THCV": 0.49
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.11,
-        "humulene": 0.09,
-        "myrcene": 0.54,
-        "alpha-pinene": 0.52,
-        "caryophyllene": 0.53,
-        "beta-pinene": 0.21,
-        "ocimene": 1.87,
-        "limonene": 1.66,
-        "linalool": 0.19,
-        "terpinolene": 0.05
-      },
-      "totalTerps": 5.93,
-      "dominantTerpene": "ocimene",
-      "packages": [
-        {
-          "id": 9107211,
-          "label": "1A403030000283D000059763",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-08",
-          "expirationDate": "2027-08-11"
-        }
-      ],
-      "price": 35.0,
-      "medPrice": 35.0,
-      "salePrice": 24.5,
-      "medSalePrice": 24.5,
-      "deal": "Saturdaze Delights! 30% OFF Carts",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4699196",
       "posCategory": "Cartridges"
     },
     {
@@ -53898,7 +53839,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Opals and Banonoze",
       "strainType": null,
@@ -53933,7 +53874,7 @@
         {
           "id": 8678612,
           "label": "1A403030000012D000253357",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-04-27"
         }
@@ -58518,7 +58459,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Mango Sunrise",
       "strainType": null,
@@ -58548,7 +58489,7 @@
         {
           "id": 8518537,
           "label": "1A4030300003522000192403",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-05-12"
         }
