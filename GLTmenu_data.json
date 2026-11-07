@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T18:50:02.879434+00:00",
+  "generated_at": "2026-11-07T19:00:03.494650+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1167,7 +1167,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Astro GMO",
       "strainType": null,
@@ -1201,7 +1201,7 @@
         {
           "id": 8483804,
           "label": "1A4030300000193000095464",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-05-20",
           "expirationDate": "2027-05-04"
         }
@@ -13782,17 +13782,18 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9142856,
-      "packageCount": 1,
+      "id": 9236740,
+      "packageCount": 2,
       "name": "Curio Wellness White Peach 40mg Chews-40mg-10",
       "brand": "Curio Wellness",
       "producer": "Curio Manufacturing",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13828,6 +13829,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9236740,
+          "label": "1A403030000012D000278766",
+          "quantity": 24.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": null
+        },
         {
           "id": 9142856,
           "label": "1A403030000012D000276061",
@@ -32800,7 +32808,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "201 STRAWGUAVA",
       "strainType": null,
@@ -32838,7 +32846,7 @@
         {
           "id": 9121388,
           "label": "1A40303000039D1000086417",
-          "quantity": 16.0,
+          "quantity": 14.0,
           "packagedDate": "2026-10-12",
           "expirationDate": "2027-08-18"
         }
@@ -36031,7 +36039,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 22.0,
       "unit": "Grams",
       "strainName": "Peach Ringz",
       "strainType": null,
@@ -36066,7 +36074,7 @@
         {
           "id": 9173948,
           "label": "1A403030000012D000277070",
-          "quantity": 24.0,
+          "quantity": 22.0,
           "packagedDate": "2026-10-22",
           "expirationDate": "2027-08-24"
         }
@@ -44061,7 +44069,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Chem de la Chem TC",
       "strainType": null,
@@ -44093,7 +44101,7 @@
         {
           "id": 9104967,
           "label": "1A40303000001F5000456177",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-18"
         }
@@ -49307,7 +49315,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Alien Mints",
       "strainType": null,
@@ -49341,7 +49349,7 @@
         {
           "id": 9201688,
           "label": "1A403030000012E000206844",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-09-18"
         }
@@ -68536,7 +68544,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Super Gremlin",
       "strainType": null,
@@ -68569,7 +68577,7 @@
         {
           "id": 9147825,
           "label": "1A403030000012E000205855",
-          "quantity": 6.0,
+          "quantity": 2.0,
           "packagedDate": "2026-10-16",
           "expirationDate": "2027-07-25"
         }
