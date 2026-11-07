@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T18:30:02.875784+00:00",
+  "generated_at": "2026-11-07T18:40:02.963626+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9714,7 +9714,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9755,7 +9755,7 @@
         {
           "id": 9169021,
           "label": "1A40303000001F5000462144",
-          "quantity": 6.0,
+          "quantity": 4.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-10-07"
         }
@@ -9779,7 +9779,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9820,7 +9820,7 @@
         {
           "id": 9195884,
           "label": "1A40303000001F5000464095",
-          "quantity": 24.0,
+          "quantity": 22.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-08-31"
         }
@@ -9844,7 +9844,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9885,7 +9885,7 @@
         {
           "id": 9126325,
           "label": "1A40303000001F5000458207",
-          "quantity": 14.0,
+          "quantity": 12.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-06-19"
         }
@@ -10696,7 +10696,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10737,7 +10737,7 @@
         {
           "id": 8481136,
           "label": "1A403030000283D000049426",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-05-19",
           "expirationDate": "2027-02-06"
         }
@@ -11021,7 +11021,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11062,7 +11062,7 @@
         {
           "id": 9191002,
           "label": "1A4030300003522000227505",
-          "quantity": 31.0,
+          "quantity": 30.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-15"
         }
@@ -11086,7 +11086,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11125,7 +11125,7 @@
         {
           "id": 9191001,
           "label": "1A4030300003522000227504",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-07"
         }
@@ -12998,6 +12998,69 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9236739,
+      "packageCount": 1,
+      "name": "Curio Wellness Juicy Watermelon 10mg Chews-10mg-10",
+      "brand": "Curio Wellness",
+      "producer": "Curio Manufacturing",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.249,
+        "CBC": 0.003,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.008,
+        "CBGA": 0.0,
+        "CBN": 0.009,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.12,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.32,
+          "CBGA": 0.0,
+          "CBN": 0.36,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9236739,
+          "label": "1A403030000012D000278765",
+          "quantity": 24.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": null
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": 16.0,
+      "medSalePrice": 16.0,
+      "deal": "Saturdaze Delights! 20% OFF Edibles",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9013416,
       "packageCount": 1,
       "name": "Curio Wellness Juicy Watermelon 40mg Chews-40mg-10",
@@ -14508,7 +14571,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14549,7 +14612,7 @@
         {
           "id": 8723652,
           "label": "1A4030300000C83000064895",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-07-14",
           "expirationDate": "2027-04-28"
         }
@@ -14764,71 +14827,6 @@
       "medSalePrice": 24.0,
       "deal": "40% Off",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4504205",
-      "posCategory": "Edibles"
-    },
-    {
-      "id": 8631114,
-      "packageCount": 1,
-      "name": "Discos - Sour Kiwi Guava - 10mg - 10",
-      "brand": null,
-      "producer": "Evermore Cannabis",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.18,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 each, 10 servings per package",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8631114,
-          "label": "1A4030300000C83000064233",
-          "quantity": 2.0,
-          "packagedDate": "2026-06-23",
-          "expirationDate": "2027-05-12"
-        }
-      ],
-      "price": 20.0,
-      "medPrice": 20.0,
-      "salePrice": 16.0,
-      "medSalePrice": 16.0,
-      "deal": "Saturdaze Delights! 20% OFF Edibles",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4606576",
       "posCategory": "Edibles"
     },
     {
@@ -15364,7 +15362,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15405,7 +15403,7 @@
         {
           "id": 9122463,
           "label": "1A4030300000C83000082964",
-          "quantity": 12.0,
+          "quantity": 9.0,
           "packagedDate": "2026-10-12",
           "expirationDate": "2027-09-14"
         }
@@ -20785,7 +20783,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20826,7 +20824,7 @@
         {
           "id": 9164273,
           "label": "1A40303000003EA000255092",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-08-21"
         }
@@ -38466,7 +38464,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 26.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -38499,7 +38497,7 @@
         {
           "id": 9174037,
           "label": "1A403030000012D000277065",
-          "quantity": 26.0,
+          "quantity": 22.0,
           "packagedDate": "2026-10-22",
           "expirationDate": "2027-08-26"
         }
@@ -39738,7 +39736,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 39.0,
+      "quantity": 38.0,
       "unit": "Each",
       "strainName": "Lemon Blanc",
       "strainType": null,
@@ -39772,7 +39770,7 @@
         {
           "id": 9226966,
           "label": "1A40303000000CB000057882",
-          "quantity": 39.0,
+          "quantity": 38.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-09"
         }
@@ -40845,7 +40843,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.0,
+      "quantity": 37.0,
       "unit": "Each",
       "strainName": "Midnight Circus",
       "strainType": null,
@@ -40878,7 +40876,7 @@
         {
           "id": 9197196,
           "label": "1A40303000000CB000057467",
-          "quantity": 38.0,
+          "quantity": 37.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-10-02"
         }
@@ -40902,7 +40900,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Midnight Circus",
       "strainType": null,
@@ -40936,7 +40934,7 @@
         {
           "id": 9097317,
           "label": "1A40303000000CB000055220",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-14"
         }
@@ -47829,62 +47827,6 @@
       "posCategory": "Cartridges"
     },
     {
-      "id": 8778314,
-      "packageCount": 1,
-      "name": "Afternoon Delight #4 Pen (Live Resin) - Rythm (Hybrid) - Vape Pen - 1000mg",
-      "brand": "Rythm",
-      "producer": "Chesapeake Alternatives",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Afternoon Delight",
-      "strainType": "Hybrid",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 71.45,
-        "CBC": 0.92,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 5.49,
-        "CBGA": 0.62,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.46,
-        "humulene": 0.8,
-        "myrcene": 0.68,
-        "alpha-pinene": 0.27,
-        "caryophyllene": 2.96,
-        "limonene": 1.73,
-        "linalool": 0.94
-      },
-      "totalTerps": 8.44,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8778314,
-          "label": "1A40303000003EA000192821",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-27",
-          "expirationDate": "2027-05-04"
-        }
-      ],
-      "price": 60.0,
-      "medPrice": 60.0,
-      "salePrice": 42.0,
-      "medSalePrice": 42.0,
-      "deal": "Saturdaze Delights! 30% OFF Disposables",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4669164",
-      "posCategory": "Disposables"
-    },
-    {
       "id": 8947226,
       "packageCount": 1,
       "name": "Airo Pod Bahama Breeze 0.5g/500mg",
@@ -51692,7 +51634,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Bloom Skywalker Classic Surf AIO",
       "strainType": null,
@@ -51726,7 +51668,7 @@
         {
           "id": 9197809,
           "label": "1A40303000007D1000100936",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-10-06"
         }
@@ -55548,7 +55490,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Fruit Gushers",
       "strainType": null,
@@ -55583,7 +55525,7 @@
         {
           "id": 9041146,
           "label": "1A4030300000C83000088745",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-14"
         }
@@ -61296,7 +61238,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Cherry Wreck",
       "strainType": null,
@@ -61330,7 +61272,7 @@
         {
           "id": 8301787,
           "label": "1A4030300003D55000005319",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-04-08",
           "expirationDate": "2026-12-20"
         }
