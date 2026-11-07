@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T18:40:02.963626+00:00",
+  "generated_at": "2026-11-07T18:50:02.879434+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12998,45 +12998,46 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9236739,
-      "packageCount": 1,
-      "name": "Curio Wellness Juicy Watermelon 10mg Chews-10mg-10",
+      "id": 9236738,
+      "packageCount": 2,
+      "name": "Curio Wellness Juicy Watermelon 40mg Chews-40mg-10",
       "brand": "Curio Wellness",
       "producer": "Curio Manufacturing",
       "category": "Edible",
-      "metrcCategory": "Infused Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
+        "Sales Floor",
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 33.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.249,
-        "CBC": 0.003,
+        "totalTHC": 0.987,
+        "CBC": 0.01,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.008,
+        "CBG": 0.034,
         "CBGA": 0.0,
-        "CBN": 0.009,
+        "CBN": 0.035,
         "THCA": 0.0,
-        "THCV": 0.0
+        "THCV": 0.007
       },
       "dose": {
         "servingSize": "1 piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "CBC": 0.12,
+          "CBC": 0.4,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.32,
+          "CBG": 1.36,
           "CBGA": 0.0,
-          "CBN": 0.36,
+          "CBN": 1.4,
           "THCA": 0.0,
-          "THCV": 0.0
+          "THCV": 0.28
         },
         "minorsEstimated": true
       },
@@ -13045,68 +13046,12 @@
       "dominantTerpene": null,
       "packages": [
         {
-          "id": 9236739,
-          "label": "1A403030000012D000278765",
+          "id": 9236738,
+          "label": "1A403030000012D000278763",
           "quantity": 24.0,
           "packagedDate": "2026-11-05",
           "expirationDate": null
-        }
-      ],
-      "price": 20.0,
-      "medPrice": 20.0,
-      "salePrice": 16.0,
-      "medSalePrice": 16.0,
-      "deal": "Saturdaze Delights! 20% OFF Edibles",
-      "orderUrl": null,
-      "posCategory": "Edibles"
-    },
-    {
-      "id": 9013416,
-      "packageCount": 1,
-      "name": "Curio Wellness Juicy Watermelon 40mg Chews-40mg-10",
-      "brand": "Curio Wellness",
-      "producer": "Curio Manufacturing",
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 9.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.996,
-        "CBC": 0.014,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.037,
-        "CBGA": 0.0,
-        "CBN": 0.038,
-        "THCA": 0.0,
-        "THCV": 0.009
-      },
-      "dose": {
-        "servingSize": "1 piece",
-        "totalThcMg": 400.0,
-        "thcMgPerServing": 40.0,
-        "minorsMgPerServing": {
-          "CBC": 0.56,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 1.48,
-          "CBGA": 0.0,
-          "CBN": 1.52,
-          "THCA": 0.0,
-          "THCV": 0.36
         },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
         {
           "id": 9013416,
           "label": "1A403030000012D000267199",
@@ -35056,7 +35001,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Blue zangria 2",
       "strainType": null,
@@ -35091,7 +35036,7 @@
         {
           "id": 9097315,
           "label": "1A40303000000CB000055218",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-21"
         }
@@ -37838,7 +37783,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.5,
+      "quantity": 8.75,
       "unit": "Grams",
       "strainName": "Gogurtz",
       "strainType": null,
@@ -37871,7 +37816,7 @@
         {
           "id": 9100058,
           "label": "1A40303000003EA000261646",
-          "quantity": 10.5,
+          "quantity": 8.75,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-05"
         }
@@ -47221,7 +47166,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Cantaloupe Haze",
       "strainType": null,
@@ -47249,7 +47194,7 @@
         {
           "id": 8838265,
           "label": "1A40303000017D5000103029",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-06-29",
           "expirationDate": "2027-06-29"
         }
@@ -51173,7 +51118,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Bloom Apricot Punch Classic Surf AIO",
       "strainType": null,
@@ -51207,7 +51152,7 @@
         {
           "id": 9197808,
           "label": "1A40303000007D1000100934",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-09-20"
         }
@@ -51979,7 +51924,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Blueberry Dream",
       "strainType": null,
@@ -52008,7 +51953,7 @@
         {
           "id": 9201763,
           "label": "1A403030000012E000210274",
-          "quantity": 8.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-08-14"
         }
@@ -62762,7 +62707,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": null,
@@ -62796,7 +62741,7 @@
         {
           "id": 9138904,
           "label": "1A403030000283D000058456",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-08-24"
         }
@@ -64730,7 +64675,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": "Sativa",
@@ -64763,7 +64708,7 @@
         {
           "id": 8270338,
           "label": "1A40303000003EA000162365",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-04-01",
           "expirationDate": "2027-01-29"
         }
@@ -68181,7 +68126,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Strawberry Haze",
       "strainType": null,
@@ -68211,7 +68156,7 @@
         {
           "id": 9201767,
           "label": "1A403030000012E000210275",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-08-28"
         }
