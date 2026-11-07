@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T19:10:02.911101+00:00",
+  "generated_at": "2026-11-07T19:20:06.130237+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10425,8 +10425,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 13.0,
       "unit": "Each",
@@ -12427,45 +12426,46 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8981910,
-      "packageCount": 1,
+      "id": 9236734,
+      "packageCount": 2,
       "name": "Curio Wellness Black Cherry Vanilla 10mg Chews-10mg-10",
       "brand": "Curio Wellness",
       "producer": "Curio Manufacturing",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 48.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.246,
-        "CBC": 0.002,
+        "totalTHC": 0.261,
+        "CBC": 0.004,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.008,
+        "CBG": 0.009,
         "CBGA": 0.0,
-        "CBN": 0.007,
+        "CBN": 0.011,
         "THCA": 0.0,
-        "THCV": 0.0
+        "THCV": 0.003
       },
       "dose": {
         "servingSize": "1 piece",
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "CBC": 0.08,
+          "CBC": 0.16,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.32,
+          "CBG": 0.36,
           "CBGA": 0.0,
-          "CBN": 0.28,
+          "CBN": 0.44,
           "THCA": 0.0,
-          "THCV": 0.0
+          "THCV": 0.12
         },
         "minorsEstimated": true
       },
@@ -12474,6 +12474,13 @@
       "dominantTerpene": null,
       "packages": [
         {
+          "id": 9236734,
+          "label": "1A403030000012D000278759",
+          "quantity": 24.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": null
+        },
+        {
           "id": 8981910,
           "label": "1A403030000012D000266239",
           "quantity": 24.0,
@@ -12481,11 +12488,76 @@
           "expirationDate": "2027-07-22"
         }
       ],
-      "price": null,
-      "medPrice": null,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": 16.0,
+      "medSalePrice": 16.0,
+      "deal": "Saturdaze Delights! 20% OFF Edibles",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9236736,
+      "packageCount": 1,
+      "name": "Curio Wellness Black Cherry Vanilla 40mg Chews-40mg-10",
+      "brand": "Curio Wellness",
+      "producer": "Curio Manufacturing",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 1.068,
+        "totalCBD": 0.003,
+        "CBC": 0.016,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.033,
+        "CBGA": 0.0,
+        "CBN": 0.027,
+        "THCA": 0.0,
+        "THCV": 0.007
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.12,
+          "CBC": 0.64,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.32,
+          "CBGA": 0.0,
+          "CBN": 1.08,
+          "THCA": 0.0,
+          "THCV": 0.28
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9236736,
+          "label": "1A403030000012D000278761",
+          "quantity": 24.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": null
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 36.0,
+      "medSalePrice": 36.0,
+      "deal": "Saturdaze Delights! 20% OFF Edibles",
       "orderUrl": null,
       "posCategory": "Edibles"
     },
@@ -12995,6 +13067,69 @@
       "medSalePrice": 27.0,
       "deal": "40% Off",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3684144",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9236739,
+      "packageCount": 1,
+      "name": "Curio Wellness Juicy Watermelon 10mg Chews-10mg-10",
+      "brand": "Curio Wellness",
+      "producer": "Curio Manufacturing",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.249,
+        "CBC": 0.003,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.008,
+        "CBGA": 0.0,
+        "CBN": 0.009,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.12,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.32,
+          "CBGA": 0.0,
+          "CBN": 0.36,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9236739,
+          "label": "1A403030000012D000278765",
+          "quantity": 24.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": null
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": 16.0,
+      "medSalePrice": 16.0,
+      "deal": "Saturdaze Delights! 20% OFF Edibles",
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -15569,6 +15704,132 @@
       "medSalePrice": 16.0,
       "deal": "Saturdaze Delights! 20% OFF Edibles",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664292",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9236735,
+      "packageCount": 1,
+      "name": "Dixie Chocolate 10mg Straight Up Milk Sativa-10mg-10",
+      "brand": "Dixie",
+      "producer": "Curio Manufacturing",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.092,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.003,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.3,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9236735,
+          "label": "1A403030000012D000278760",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": null
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": 16.0,
+      "medSalePrice": 16.0,
+      "deal": "Saturdaze Delights! 20% OFF Edibles",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9236826,
+      "packageCount": 1,
+      "name": "Dixie Chocolate 25mg Straight Up Dark-25mg-10",
+      "brand": "Dixie",
+      "producer": "Curio Manufacturing",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.262,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.01,
+        "CBGA": 0.0,
+        "CBN": 0.01,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 250.0,
+        "thcMgPerServing": 25.0,
+        "minorsMgPerServing": {
+          "CBC": 0.2,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.0,
+          "CBGA": 0.0,
+          "CBN": 1.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9236826,
+          "label": "1A403030000012D000278768",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": null
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": 28.0,
+      "medSalePrice": 28.0,
+      "deal": "Saturdaze Delights! 20% OFF Edibles",
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -19945,7 +20206,7 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -36029,6 +36290,123 @@
       "posCategory": "Pre-Rolls"
     },
     {
+      "id": 9236732,
+      "packageCount": 1,
+      "name": "Curio Wellness CW Cherry Cheesecake Pre-rolls-Usable-2x0.5g",
+      "brand": "Curio Wellness",
+      "producer": "Curio Manufacturing",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Grams",
+      "strainName": "Cherry Cheesecake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.52,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.93,
+        "CBN": 0.0,
+        "THCA": 28.94,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.13,
+        "myrcene": 0.15,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.61,
+        "beta-pinene": 0.08,
+        "limonene": 0.56,
+        "linalool": 0.15,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 1.96,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9236732,
+          "label": "1A403030000012D000278755",
+          "quantity": 30.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": null
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 9236824,
+      "packageCount": 1,
+      "name": "Curio Wellness CW Gas Face Pre-rolls-usable-2x0.5g",
+      "brand": "Curio Wellness",
+      "producer": "Curio Manufacturing",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Grams",
+      "strainName": "Gas Face",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.48,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.42,
+        "CBN": 0.0,
+        "THCA": 28.4,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.3,
+        "myrcene": 0.47,
+        "alpha-pinene": 0.14,
+        "caryophyllene": 1.17,
+        "beta-pinene": 0.13,
+        "ocimene": 0.04,
+        "limonene": 0.92,
+        "linalool": 0.33,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 4.02,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9236824,
+          "label": "1A403030000012D000278758",
+          "quantity": 30.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": null
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 9173948,
       "packageCount": 1,
       "name": "Curio Wellness CW Peach Ringz Pre-rolls-usable-2x0.5g",
@@ -36266,6 +36644,64 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
+      "id": 9236823,
+      "packageCount": 1,
+      "name": "Curio Wellness Durban Poison Pre-rolls-usable-2x0.5g",
+      "brand": "Curio Wellness",
+      "producer": "Curio Manufacturing",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Grams",
+      "strainName": "Durban Poison",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.82,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.45,
+        "CBN": 0.0,
+        "THCA": 27.48,
+        "THCV": 1.54
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.04,
+        "myrcene": 0.66,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 0.14,
+        "eudesmol": 0.09,
+        "beta-pinene": 0.14,
+        "ocimene": 0.72,
+        "limonene": 0.1,
+        "terpinolene": 1.11
+      },
+      "totalTerps": 3.31,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9236823,
+          "label": "1A403030000012D000278756",
+          "quantity": 30.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": null
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 9142946,
       "packageCount": 1,
       "name": "Curio Wellness Gush Mints Pre-rolls-Usable-2x0.5g",
@@ -36434,6 +36870,67 @@
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4736605",
       "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 9236737,
+      "packageCount": 1,
+      "name": "Curio Wellness Thrive Infused Pre-rolls-2x0.5g",
+      "brand": "Curio Wellness",
+      "producer": "Curio Manufacturing",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Each",
+      "strainName": "Thrive",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 36.01,
+        "CBC": 0.38,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.82,
+        "CBGA": 0.45,
+        "CBN": 0.41,
+        "THCA": 14.96,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.15,
+        "myrcene": 0.24,
+        "alpha-pinene": 0.31,
+        "caryophyllene": 0.86,
+        "beta-pinene": 0.16,
+        "caryophyllene-oxide": 0.08,
+        "ocimene": 0.03,
+        "limonene": 0.94,
+        "linalool": 0.21,
+        "terpinolene": 0.09,
+        "nerolidol": 0.27
+      },
+      "totalTerps": 3.82,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9236737,
+          "label": "1A403030000012D000278762",
+          "quantity": 30.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": null
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": 15.0,
+      "medSalePrice": 15.0,
+      "deal": "Saturdaze Delights! 25% off Concentrates",
+      "orderUrl": null,
+      "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
       "id": 8926320,
@@ -38581,6 +39078,64 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
+      "id": 9236741,
+      "packageCount": 1,
+      "name": "Kaviar Mini Pre-rolls (Indica)-5x0.6g",
+      "brand": "Kaviar",
+      "producer": "Curio Manufacturing",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 36.92,
+        "CBC": 0.55,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.79,
+        "CBGA": 0.54,
+        "CBN": 0.32,
+        "THCA": 14.98,
+        "THCV": 0.22
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.18,
+        "myrcene": 0.18,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.62,
+        "beta-pinene": 0.03,
+        "limonene": 0.24,
+        "linalool": 0.19,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 1.78,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9236741,
+          "label": "1A403030000012D000278767",
+          "quantity": 30.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": null
+        }
+      ],
+      "price": 50.0,
+      "medPrice": 50.0,
+      "salePrice": 37.5,
+      "medSalePrice": 37.5,
+      "deal": "Saturdaze Delights! 25% off Concentrates",
+      "orderUrl": null,
+      "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
       "id": 9111207,
       "packageCount": 1,
       "name": "Kaviar Mini Pre-rolls (Sativa)-5x0.6g",
@@ -38636,6 +39191,66 @@
       "medSalePrice": 37.5,
       "deal": "Saturdaze Delights! 25% off Concentrates",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4562733",
+      "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
+      "id": 9236733,
+      "packageCount": 1,
+      "name": "Kaviar Sativa Infused Pre-Roll - 1.5g",
+      "brand": "Kaviar",
+      "producer": "Curio Manufacturing",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 36.76,
+        "CBC": 0.34,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.53,
+        "CBN": 0.39,
+        "THCA": 18.16,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.08,
+        "myrcene": 0.15,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.23,
+        "eudesmol": 0.07,
+        "beta-pinene": 0.05,
+        "ocimene": 0.03,
+        "limonene": 0.18,
+        "linalool": 0.16,
+        "terpinolene": 0.07
+      },
+      "totalTerps": 1.37,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9236733,
+          "label": "1A403030000012D000278757",
+          "quantity": 30.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": null
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 18.75,
+      "medSalePrice": 18.75,
+      "deal": "Saturdaze Delights! 25% off Concentrates",
+      "orderUrl": null,
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
@@ -40786,6 +41401,61 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
+      "id": 9236731,
+      "packageCount": 1,
+      "name": "Mfused TWISTED Fattys (Lemon Loopz)-2x0.5g",
+      "brand": null,
+      "producer": "Curio Manufacturing",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Each",
+      "strainName": "Mfused TWISTED Fattys",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 33.9,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.64,
+        "CBN": 0.0,
+        "THCA": 35.53,
+        "THCV": 0.18
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.12,
+        "myrcene": 0.08,
+        "caryophyllene": 0.45,
+        "limonene": 0.6,
+        "linalool": 0.62,
+        "terpinolene": 0.2
+      },
+      "totalTerps": 3.57,
+      "dominantTerpene": "linalool",
+      "packages": [
+        {
+          "id": 9236731,
+          "label": "1A403030000012D000278754",
+          "quantity": 30.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": null
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 18.75,
+      "medSalePrice": 18.75,
+      "deal": "Saturdaze Delights! 25% off Concentrates",
+      "orderUrl": null,
+      "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
       "id": 9197196,
       "packageCount": 1,
       "name": "Midnight Circus Pre-Roll 2 Pack 1.0g",
@@ -42063,7 +42733,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Orange Drizzle Isolate",
       "strainType": null,
@@ -42096,7 +42766,7 @@
         {
           "id": 9226776,
           "label": "1A4030300000C83000044095",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-12"
         }
