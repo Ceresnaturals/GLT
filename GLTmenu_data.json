@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T22:00:03.238605+00:00",
+  "generated_at": "2026-11-07T22:10:03.899727+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1167,7 +1167,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Astro GMO",
       "strainType": null,
@@ -1201,7 +1201,7 @@
         {
           "id": 8483804,
           "label": "1A4030300000193000095464",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-05-20",
           "expirationDate": "2027-05-04"
         }
@@ -2602,7 +2602,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Creme de la Chem",
       "strainType": null,
@@ -2639,7 +2639,7 @@
         {
           "id": 9229892,
           "label": "1A40303000001F5000467392",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-05-04"
         }
@@ -4343,6 +4343,62 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
+      "id": 9236760,
+      "packageCount": 1,
+      "name": "Legend | Concentrates | Kief | White Inferno - 1g",
+      "brand": "Legend",
+      "producer": "HMS Processing",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "White Inferno",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 37.06,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.85,
+        "CBN": 0.0,
+        "THCA": 40.03,
+        "THCV": 0.28
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.24,
+        "myrcene": 0.1,
+        "alpha-pinene": 0.16,
+        "caryophyllene": 0.65,
+        "beta-pinene": 0.16,
+        "limonene": 1.12,
+        "linalool": 0.13
+      },
+      "totalTerps": 2.93,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9236760,
+          "label": "1A4030300002199000070679",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-14",
+          "expirationDate": "2027-10-14"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 18.75,
+      "medSalePrice": 18.75,
+      "deal": "Saturdaze Delights! 25% off Concentrates",
+      "orderUrl": null,
+      "posCategory": "Kief"
+    },
+    {
       "id": 8884206,
       "packageCount": 1,
       "name": "Lemon Forbidden BOP Live Resin Cake Badder 1.0g",
@@ -5237,7 +5293,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "MD EXT MDSPTZ 35CB",
       "strainType": null,
@@ -5270,7 +5326,7 @@
         {
           "id": 9100510,
           "label": "1A40303000007D1000106303",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-07"
         }
@@ -7195,7 +7251,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 39.0,
+      "quantity": 38.0,
       "unit": "Each",
       "strainName": "Pure Pomelo FumeZ Cake",
       "strainType": null,
@@ -7230,7 +7286,7 @@
         {
           "id": 9226785,
           "label": "1A4030300000C83000044093",
-          "quantity": 39.0,
+          "quantity": 38.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-09-04"
         }
@@ -25701,7 +25757,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.5,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "10Gs",
       "strainType": null,
@@ -25735,7 +25791,7 @@
         {
           "id": 9147596,
           "label": "1A403030000012E000205837",
-          "quantity": 10.5,
+          "quantity": 7.0,
           "packagedDate": "2026-10-16",
           "expirationDate": "2027-09-30"
         }
@@ -26114,7 +26170,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 349.5,
+      "quantity": 348.5,
       "unit": "Grams",
       "strainName": "BLVCK Gelatti",
       "strainType": null,
@@ -26147,7 +26203,7 @@
         {
           "id": 8407107,
           "label": "1A40303000040D9000004497",
-          "quantity": 349.5,
+          "quantity": 348.5,
           "packagedDate": "2026-05-04",
           "expirationDate": "2027-05-04"
         }
@@ -26788,7 +26844,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 65.5,
+      "quantity": 62.0,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -26818,7 +26874,7 @@
         {
           "id": 8426780,
           "label": "1A40303000001F5000375219",
-          "quantity": 65.5,
+          "quantity": 62.0,
           "packagedDate": "2026-05-07",
           "expirationDate": "2027-04-15"
         }
@@ -27134,7 +27190,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 59.5,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Cheddar Cheeze",
       "strainType": null,
@@ -27167,7 +27223,7 @@
         {
           "id": 8596191,
           "label": "1A4030300000192000033995",
-          "quantity": 59.5,
+          "quantity": 56.0,
           "packagedDate": "2026-06-15",
           "expirationDate": "2027-03-31"
         }
@@ -33370,7 +33426,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 24.5,
       "unit": "Grams",
       "strainName": "Tiger Mintz",
       "strainType": null,
@@ -33403,7 +33459,7 @@
         {
           "id": 8270983,
           "label": "1A403030000025B000072031",
-          "quantity": 28.0,
+          "quantity": 24.5,
           "packagedDate": "2026-03-27",
           "expirationDate": "2027-03-20"
         }
@@ -40208,7 +40264,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 34.0,
       "unit": "Each",
       "strainName": "Lemon Blanc",
       "strainType": null,
@@ -40242,7 +40298,7 @@
         {
           "id": 9226966,
           "label": "1A40303000000CB000057882",
-          "quantity": 35.0,
+          "quantity": 34.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-09"
         }
@@ -40557,7 +40613,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 44.0,
+      "quantity": 43.0,
       "unit": "Each",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -40590,7 +40646,7 @@
         {
           "id": 9226770,
           "label": "1A40303000000CB000057884",
-          "quantity": 44.0,
+          "quantity": 43.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-09-29"
         }
@@ -46948,7 +47004,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 379.65,
+      "quantity": 372.65,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato",
       "strainType": null,
@@ -46980,7 +47036,7 @@
         {
           "id": 9073215,
           "label": "1A40303000001F5000453113",
-          "quantity": 379.65,
+          "quantity": 372.65,
           "packagedDate": "2026-09-30",
           "expirationDate": null
         }
@@ -47061,7 +47117,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 130.28,
+      "quantity": 119.78,
       "unit": "Grams",
       "strainName": "Puro Loco",
       "strainType": null,
@@ -47095,7 +47151,7 @@
         {
           "id": 9073217,
           "label": "1A40303000001F5000453115",
-          "quantity": 130.28,
+          "quantity": 119.78,
           "packagedDate": "2026-09-30",
           "expirationDate": null
         }
@@ -50461,66 +50517,6 @@
       "deal": "Saturdaze Delights! 30% OFF Carts",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4674636",
       "posCategory": "Cartridges"
-    },
-    {
-      "id": 8890377,
-      "packageCount": 1,
-      "name": "Baja Blue DV Disposable 2.0g/2000mg",
-      "brand": null,
-      "producer": "SunMed Growers",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Baja Blue DV",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 73.86,
-        "totalCBD": 0.18,
-        "CBC": 1.1,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.32,
-        "CBGA": 0.0,
-        "CBN": 0.19,
-        "THCA": 0.0,
-        "THCV": 0.82
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.16,
-        "myrcene": 2.85,
-        "alpha-pinene": 2.56,
-        "caryophyllene": 1.57,
-        "beta-pinene": 1.08,
-        "caryophyllene-oxide": 0.04,
-        "limonene": 1.49,
-        "linalool": 0.33,
-        "terpinolene": 0.11
-      },
-      "totalTerps": 11.15,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8890377,
-          "label": "1A40303000001F5000420184",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-20",
-          "expirationDate": "2027-07-22"
-        }
-      ],
-      "price": 65.0,
-      "medPrice": 65.0,
-      "salePrice": 45.5,
-      "medSalePrice": 45.5,
-      "deal": "Saturdaze Delights! 30% OFF Disposables",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4721815",
-      "posCategory": "Disposables"
     },
     {
       "id": 9126342,
@@ -56718,7 +56714,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Grape Moscato",
       "strainType": null,
@@ -56752,7 +56748,7 @@
         {
           "id": 9095854,
           "label": "1A4030300000C83000090144",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-09-15"
         }
@@ -62881,7 +62877,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Blue Razz Slushie",
       "strainType": null,
@@ -62914,7 +62910,7 @@
         {
           "id": 9188844,
           "label": "1A403030000283D000064498",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-08-25"
         }
@@ -63102,6 +63098,121 @@
       "posCategory": "Disposables"
     },
     {
+      "id": 9233963,
+      "packageCount": 1,
+      "name": "Mellow Fellow - Disposable Vape - Pineapple Express - 1g",
+      "brand": "Mellow Fellow",
+      "producer": "Pro Green Medical",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Each",
+      "strainName": "Pineapple Express",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.12,
+        "CBC": 0.63,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.8,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.13,
+        "humulene": 0.2,
+        "myrcene": 0.76,
+        "alpha-pinene": 0.12,
+        "caryophyllene": 1.28,
+        "beta-pinene": 0.16,
+        "limonene": 1.14,
+        "linalool": 0.58
+      },
+      "totalTerps": 4.69,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9233963,
+          "label": "1A403030000283D000063180",
+          "quantity": 30.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": "2027-07-29"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": 24.5,
+      "medSalePrice": 24.5,
+      "deal": "Saturdaze Delights! 30% OFF Disposables",
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 9233964,
+      "packageCount": 1,
+      "name": "Mellow Fellow - Disposable Vape - White Widow - 1g",
+      "brand": "Mellow Fellow",
+      "producer": "Pro Green Medical",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Each",
+      "strainName": "White Widow",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.31,
+        "CBC": 0.91,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.82,
+        "CBGA": 0.0,
+        "CBN": 0.39,
+        "THCA": 0.0,
+        "THCV": 0.93
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.35,
+        "humulene": 0.12,
+        "myrcene": 0.58,
+        "alpha-pinene": 0.22,
+        "caryophyllene": 1.09,
+        "beta-pinene": 0.25,
+        "limonene": 0.74,
+        "linalool": 0.47,
+        "terpinolene": 1.19
+      },
+      "totalTerps": 5.39,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9233964,
+          "label": "1A403030000283D000063181",
+          "quantity": 30.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": "2027-08-01"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": 24.5,
+      "medSalePrice": 24.5,
+      "deal": "Saturdaze Delights! 30% OFF Disposables",
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
       "id": 9233962,
       "packageCount": 2,
       "name": "Mellow Fellow - Infused Distillate 510 Vape - Blue Dream - 1g",
@@ -63223,6 +63334,65 @@
       "medSalePrice": 24.5,
       "deal": "Saturdaze Delights! 30% OFF Carts",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4697197",
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9233561,
+      "packageCount": 1,
+      "name": "Mellow Fellow - Infused Distillate 510 Vape - Northern Lights - 1g",
+      "brand": "Mellow Fellow",
+      "producer": "Pro Green Medical",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Each",
+      "strainName": "Northern Lights",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 80.86,
+        "CBC": 1.54,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.69,
+        "CBGA": 0.0,
+        "CBN": 0.61,
+        "THCA": 0.0,
+        "THCV": 0.85
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.38,
+        "humulene": 0.11,
+        "myrcene": 0.47,
+        "alpha-pinene": 0.2,
+        "caryophyllene": 0.86,
+        "eudesmol": 0.28,
+        "beta-pinene": 0.21,
+        "limonene": 0.58,
+        "linalool": 0.21,
+        "terpinolene": 1.05
+      },
+      "totalTerps": 4.67,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9233561,
+          "label": "1A403030000283D000063178",
+          "quantity": 30.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": "2027-10-30"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": 24.5,
+      "medSalePrice": 24.5,
+      "deal": "Saturdaze Delights! 30% OFF Carts",
+      "orderUrl": null,
       "posCategory": "Cartridges"
     },
     {
