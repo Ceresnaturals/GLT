@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T00:10:03.355398+00:00",
+  "generated_at": "2026-11-07T00:20:02.807132+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11520,7 +11520,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11566,7 +11566,7 @@
         {
           "id": 8828677,
           "label": "1A4030300003522000195376",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-30"
         }
@@ -25818,7 +25818,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 122.5,
+      "quantity": 119.0,
       "unit": "Grams",
       "strainName": "Animal Scout",
       "strainType": "Indica",
@@ -25852,7 +25852,7 @@
         {
           "id": 9191628,
           "label": "1A40303000003EA000183203",
-          "quantity": 73.5,
+          "quantity": 70.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-09-21"
         },
@@ -25883,7 +25883,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 160.0,
+      "quantity": 150.0,
       "unit": "Grams",
       "strainName": "Apple Butta",
       "strainType": null,
@@ -25916,7 +25916,7 @@
         {
           "id": 9187159,
           "label": "1A40303000040D9000006716",
-          "quantity": 160.0,
+          "quantity": 150.0,
           "packagedDate": "2026-10-26",
           "expirationDate": "2027-10-25"
         }
@@ -26672,7 +26672,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 95.5,
+      "quantity": 92.0,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -26702,7 +26702,7 @@
         {
           "id": 8426780,
           "label": "1A40303000001F5000375219",
-          "quantity": 95.5,
+          "quantity": 92.0,
           "packagedDate": "2026-05-07",
           "expirationDate": "2027-04-15"
         }
@@ -32614,8 +32614,8 @@
       "posCategory": "Pre-Packed Flower"
     },
     {
-      "id": 8944067,
-      "packageCount": 2,
+      "id": 8944139,
+      "packageCount": 1,
       "name": "Scotch & Soda Pre-Pack (Buds) - Rythm (Hybrid) - Usable - 3.5g",
       "brand": "Rythm",
       "producer": "GTI Maryland",
@@ -32624,7 +32624,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Scotch & Soda",
       "strainType": "Hybrid",
@@ -32655,13 +32655,6 @@
       "dominantTerpene": "myrcene",
       "packages": [
         {
-          "id": 8944067,
-          "label": "1A40303000003EA000264675",
-          "quantity": 3.5,
-          "packagedDate": "2026-09-02",
-          "expirationDate": "2027-07-28"
-        },
-        {
           "id": 8944139,
           "label": "1A40303000003EA000264749",
           "quantity": 14.0,
@@ -32669,12 +32662,12 @@
           "expirationDate": "2027-07-28"
         }
       ],
-      "price": 55.0,
-      "medPrice": 55.0,
-      "salePrice": 41.25,
-      "medSalePrice": 41.25,
-      "deal": "Flower Friday! 25% OFF All Flower",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4725690",
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -38183,64 +38176,6 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
-      "id": 8746996,
-      "packageCount": 1,
-      "name": "Groovy Diesel Preroll 1g (.5g 2 pack)",
-      "brand": null,
-      "producer": "Trulieve MD Cultivation",
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Grams",
-      "strainName": "Groovy Diesel",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 23.9,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.7,
-        "CBN": 0.0,
-        "THCA": 26.47,
-        "THCV": 0.12
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.14,
-        "humulene": 0.15,
-        "myrcene": 0.27,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.57,
-        "beta-pinene": 0.07,
-        "limonene": 0.44,
-        "linalool": 0.39,
-        "terpinolene": 0.03
-      },
-      "totalTerps": 2.31,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8746996,
-          "label": "1A40303000000C9000164501",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-20",
-          "expirationDate": "2027-07-06"
-        }
-      ],
-      "price": 10.0,
-      "medPrice": 10.0,
-      "salePrice": 7.0,
-      "medSalePrice": 7.0,
-      "deal": "30% OFF Trulieve (pop-up 4-6pm 1st friday every month)",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4577378",
-      "posCategory": "Pre-Rolls"
-    },
-    {
       "id": 8642228,
       "packageCount": 1,
       "name": "Gumi #6 J walker (.35g joints) 5 Pack 1.75g",
@@ -43436,7 +43371,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Blue Z",
       "strainType": "Indica",
@@ -43469,7 +43404,7 @@
         {
           "id": 9191544,
           "label": "1A40303000003EA000183207",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-08-19"
         }
@@ -46716,7 +46651,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 238.78,
+      "quantity": 217.78,
       "unit": "Grams",
       "strainName": "Puro Loco",
       "strainType": null,
@@ -46750,7 +46685,7 @@
         {
           "id": 9073217,
           "label": "1A40303000001F5000453115",
-          "quantity": 238.78,
+          "quantity": 217.78,
           "packagedDate": "2026-09-30",
           "expirationDate": null
         }
@@ -48306,7 +48241,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": null,
@@ -48340,7 +48275,7 @@
         {
           "id": 8947227,
           "label": "1A40303000001F5000425612",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-03-12"
         }
