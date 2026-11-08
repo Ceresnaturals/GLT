@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T20:40:02.462585+00:00",
+  "generated_at": "2026-11-08T20:50:02.888705+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9819,7 +9819,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9860,7 +9860,7 @@
         {
           "id": 9126325,
           "label": "1A40303000001F5000458207",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-06-19"
         }
@@ -9949,7 +9949,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9990,7 +9990,7 @@
         {
           "id": 9233077,
           "label": "1A40303000001F5000467768",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-11-05",
           "expirationDate": null
         }
@@ -12134,7 +12134,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 5.0,
       "unit": "Each",
@@ -16760,69 +16760,6 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9113929,
-      "packageCount": 1,
-      "name": "Encore Gummies (RSO) - Tropical Mango - 10mg - 10pc*",
-      "brand": null,
-      "producer": "FGM Processing",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.295,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.009,
-        "CBGA": 0.0,
-        "CBN": 0.001,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.315,
-          "CBGA": 0.0,
-          "CBN": 0.035,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9113929,
-          "label": "1A40303000017D5000110054",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-10",
-          "expirationDate": "2027-08-10"
-        }
-      ],
-      "price": 25.0,
-      "medPrice": 25.0,
-      "salePrice": 20.0,
-      "medSalePrice": 20.0,
-      "deal": "Soothing Sunday! 20% OFF Edibles",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664667",
-      "posCategory": "Edibles"
-    },
-    {
       "id": 9187210,
       "packageCount": 1,
       "name": "Encore Gummies - Pineapple Raspberry - 10mg - 10pc*",
@@ -20761,7 +20698,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20802,7 +20739,7 @@
         {
           "id": 9191545,
           "label": "1A40303000003EA000183209",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-02-16"
         }
@@ -22141,7 +22078,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -22180,7 +22117,7 @@
         {
           "id": 9111157,
           "label": "1A403030000012D000275067",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-07-17"
         }
@@ -23570,7 +23507,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23611,7 +23548,7 @@
         {
           "id": 9229962,
           "label": "1A40303000001F5000467394",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-08-28"
         }
@@ -25059,7 +24996,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -25100,7 +25037,7 @@
         {
           "id": 8998852,
           "label": "1A4030300002199000062970",
-          "quantity": 5.0,
+          "quantity": 3.0,
           "packagedDate": "2026-06-04",
           "expirationDate": "2027-06-04"
         }
@@ -26772,7 +26709,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.5,
+      "quantity": 25.0,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -26802,7 +26739,7 @@
         {
           "id": 8426780,
           "label": "1A40303000001F5000375219",
-          "quantity": 28.5,
+          "quantity": 25.0,
           "packagedDate": "2026-05-07",
           "expirationDate": "2027-04-15"
         }
@@ -65581,7 +65518,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Purple Martian DV",
       "strainType": null,
@@ -65616,7 +65553,7 @@
         {
           "id": 9105005,
           "label": "1A40303000001F5000456185",
-          "quantity": 8.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-24"
         }
