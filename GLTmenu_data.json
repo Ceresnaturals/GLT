@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T21:10:02.753245+00:00",
+  "generated_at": "2026-11-08T21:20:03.229916+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2542,7 +2542,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 15.0,
       "unit": "Each",
@@ -39717,7 +39717,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Grams",
       "strainName": "La Kush Cake",
       "strainType": null,
@@ -39750,7 +39750,7 @@
         {
           "id": 8748372,
           "label": "1A40303000000C9000164545",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-07-20",
           "expirationDate": "2027-07-12"
         }
@@ -45530,7 +45530,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 33.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -45562,7 +45562,7 @@
         {
           "id": 9226978,
           "label": "1A40303000000CB000057886",
-          "quantity": 33.0,
+          "quantity": 30.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-09"
         }
@@ -49614,65 +49614,6 @@
       "medSalePrice": 63.75,
       "deal": "Soothing Sunday! 25% OFF SunMed",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4578553",
-      "posCategory": "Disposables"
-    },
-    {
-      "id": 9168810,
-      "packageCount": 1,
-      "name": "AiroX Disposable Vaporizer | Liquid Diamonds | Golden Pineapple - 2g",
-      "brand": null,
-      "producer": "SunMed Growers",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Golden Pineapple",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 85.01,
-        "totalCBD": 0.2,
-        "CBC": 0.83,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.49,
-        "CBGA": 0.91,
-        "CBN": 0.25,
-        "THCA": 5.51,
-        "THCV": 0.94
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.02,
-        "myrcene": 0.52,
-        "alpha-pinene": 0.18,
-        "caryophyllene": 0.08,
-        "beta-pinene": 0.05,
-        "ocimene": 0.29,
-        "limonene": 0.23,
-        "linalool": 0.02,
-        "terpinolene": 1.71
-      },
-      "totalTerps": 3.53,
-      "dominantTerpene": "terpinolene",
-      "packages": [
-        {
-          "id": 9168810,
-          "label": "1A40303000001F5000462131",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-21",
-          "expirationDate": "2027-09-28"
-        }
-      ],
-      "price": 85.0,
-      "medPrice": 85.0,
-      "salePrice": 63.75,
-      "medSalePrice": 63.75,
-      "deal": "Soothing Sunday! 25% OFF SunMed",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4708656",
       "posCategory": "Disposables"
     },
     {
