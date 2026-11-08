@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T19:50:03.206518+00:00",
+  "generated_at": "2026-11-08T20:00:02.700124+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7948,7 +7948,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Space Diesel",
       "strainType": null,
@@ -7984,7 +7984,7 @@
         {
           "id": 8696828,
           "label": "1A40303000001F5000401547",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-07-08",
           "expirationDate": "2027-03-31"
         }
@@ -8354,7 +8354,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "White Mule",
       "strainType": null,
@@ -8389,7 +8389,7 @@
         {
           "id": 8115308,
           "label": "ABC0303000037DD000021012",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-02-24",
           "expirationDate": "2027-01-12"
         }
@@ -29437,7 +29437,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 100.0,
+      "quantity": 96.0,
       "unit": "Grams",
       "strainName": "Gelatti Pancakes",
       "strainType": null,
@@ -29471,7 +29471,7 @@
         {
           "id": 9117353,
           "label": "1A4030300004845000048446",
-          "quantity": 100.0,
+          "quantity": 96.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-09-15"
         }
@@ -31064,7 +31064,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "Chocolatina",
       "strainType": null,
@@ -31098,7 +31098,7 @@
         {
           "id": 9123999,
           "label": "1A4030300003521000062079",
-          "quantity": 35.0,
+          "quantity": 31.5,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-27"
         }
@@ -31964,62 +31964,6 @@
       "medSalePrice": 150.0,
       "deal": "Soothing Sunday! 25% OFF SunMed",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4447317",
-      "posCategory": "Pre-Packed Flower"
-    },
-    {
-      "id": 9126339,
-      "packageCount": 1,
-      "name": "SMG - Banana Puddintain - Pre Ground Bud - 10g",
-      "brand": null,
-      "producer": "Sunmed Growers",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 10.0,
-      "unit": "Grams",
-      "strainName": "Banana Puddintain",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 26.97,
-        "totalCBD": 0.36,
-        "CBDA": 0.03,
-        "CBG": 0.17,
-        "CBN": 0.01,
-        "THCA": 30.45
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.02,
-        "humulene": 0.14,
-        "myrcene": 0.56,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 0.36,
-        "beta-pinene": 0.08,
-        "ocimene": 0.01,
-        "limonene": 0.44,
-        "terpinolene": 0.02,
-        "nerolidol": 0.01
-      },
-      "totalTerps": 1.74,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 9126339,
-          "label": "1A40303000001F5000458212",
-          "quantity": 10.0,
-          "packagedDate": "2026-10-13",
-          "expirationDate": "2027-08-11"
-        }
-      ],
-      "price": 60.0,
-      "medPrice": 60.0,
-      "salePrice": 45.0,
-      "medSalePrice": 45.0,
-      "deal": "Soothing Sunday! 25% OFF SunMed",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4509898",
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -47044,7 +46988,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 351.65,
+      "quantity": 348.15,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato",
       "strainType": null,
@@ -47076,7 +47020,7 @@
         {
           "id": 9073215,
           "label": "1A40303000001F5000453113",
-          "quantity": 351.65,
+          "quantity": 348.15,
           "packagedDate": "2026-09-30",
           "expirationDate": null
         }
@@ -47157,7 +47101,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 77.78,
+      "quantity": 74.28,
       "unit": "Grams",
       "strainName": "Puro Loco",
       "strainType": null,
@@ -47191,7 +47135,7 @@
         {
           "id": 9073217,
           "label": "1A40303000001F5000453115",
-          "quantity": 77.78,
+          "quantity": 74.28,
           "packagedDate": "2026-09-30",
           "expirationDate": null
         }
