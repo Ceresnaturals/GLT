@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T17:50:03.173301+00:00",
+  "generated_at": "2026-11-09T18:00:03.078683+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10661,7 +10661,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10702,7 +10702,7 @@
         {
           "id": 9191004,
           "label": "1A4030300003522000227506",
-          "quantity": 3.0,
+          "quantity": 1.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-08"
         }
@@ -24392,12 +24392,12 @@
           "expirationDate": "2027-04-15"
         }
       ],
-      "price": 5.0,
-      "medPrice": 5.0,
+      "price": null,
+      "medPrice": null,
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4694801",
+      "orderUrl": null,
       "posCategory": "Bulk Flower"
     },
     {
@@ -25265,13 +25265,13 @@
           "expirationDate": "2027-10-19"
         }
       ],
-      "price": 140.0,
-      "medPrice": 140.0,
-      "salePrice": 105.0,
-      "medSalePrice": 105.0,
-      "deal": "25% OFF Evermore",
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
       "orderUrl": null,
-      "posCategory": "Pre-Packed Flower"
+      "posCategory": null
     },
     {
       "id": 9201611,
@@ -25400,7 +25400,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 45.5,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "GMO",
       "strainType": "Indica",
@@ -25434,7 +25434,7 @@
         {
           "id": 9164279,
           "label": "1A40303000003EA000255093",
-          "quantity": 45.5,
+          "quantity": 42.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-15"
         }
@@ -29295,7 +29295,7 @@
       "salePrice": 105.0,
       "medSalePrice": 105.0,
       "deal": "25% OFF Evermore",
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4530958",
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -29529,7 +29529,7 @@
       "salePrice": 105.0,
       "medSalePrice": 105.0,
       "deal": "25% OFF Evermore",
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4686251",
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -47002,7 +47002,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Blue Hawaiian",
       "strainType": null,
@@ -47036,7 +47036,7 @@
         {
           "id": 9005751,
           "label": "1A4030300000C83000088091",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-09-09"
         }
@@ -52688,62 +52688,6 @@
       "posCategory": "Cartridges"
     },
     {
-      "id": 8766937,
-      "packageCount": 1,
-      "name": "In House Maui Wowie-.5g",
-      "brand": "In House",
-      "producer": "Kind Therapeutics USA",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Maui Wowie",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 87.81,
-        "CBC": 0.81,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.5,
-        "CBGA": 0.0,
-        "CBN": 0.65,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.2,
-        "myrcene": 0.61,
-        "alpha-pinene": 0.72,
-        "caryophyllene": 0.56,
-        "beta-pinene": 0.18,
-        "limonene": 0.66,
-        "terpinolene": 0.08
-      },
-      "totalTerps": 3.01,
-      "dominantTerpene": "alpha-pinene",
-      "packages": [
-        {
-          "id": 8766937,
-          "label": "1A4030300003522000207388",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-23",
-          "expirationDate": "2027-03-01"
-        }
-      ],
-      "price": 25.0,
-      "medPrice": 25.0,
-      "salePrice": 15.0,
-      "medSalePrice": 15.0,
-      "deal": "40% Off",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4388497",
-      "posCategory": "Cartridges"
-    },
-    {
       "id": 8996187,
       "packageCount": 1,
       "name": "In House Northern Lights-1g",
@@ -57619,7 +57563,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Forum Cookies x ADC",
       "strainType": null,
@@ -57651,7 +57595,7 @@
         {
           "id": 9029663,
           "label": "1A40303000039D1000085136",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-09-22",
           "expirationDate": "2027-04-06"
         }
@@ -63035,5 +62979,5 @@
     }
   ],
   "priceNote": "Prices shown are estimates. The register has the final price.",
-  "pricesUpdatedAt": "2026-11-09T11:00:27.886059+00:00"
+  "pricesUpdatedAt": "2026-11-09T18:00:03.079505+00:00"
 }
