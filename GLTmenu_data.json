@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T15:50:02.401891+00:00",
+  "generated_at": "2026-11-09T16:00:02.785739+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1284,7 +1284,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Z Pie",
       "strainType": null,
@@ -1319,7 +1319,7 @@
         {
           "id": 8992259,
           "label": "1A403030000283D000061322",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-14",
           "expirationDate": "2027-08-12"
         }
@@ -6826,7 +6826,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "RO CrdShatter KushLato I MD",
       "strainType": null,
@@ -6860,7 +6860,7 @@
         {
           "id": 9160707,
           "label": "1A403030000238D000109683",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-20",
           "expirationDate": "2027-09-22"
         }
@@ -10833,7 +10833,7 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -11410,7 +11410,7 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 5.0,
       "unit": "Each",
@@ -29497,7 +29497,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 252.0,
+      "quantity": 224.0,
       "unit": "Grams",
       "strainName": "Sour Peel",
       "strainType": null,
@@ -29530,7 +29530,7 @@
         {
           "id": 9197183,
           "label": "1A40303000000CB000057465",
-          "quantity": 252.0,
+          "quantity": 224.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-10-19"
         }
@@ -30989,7 +30989,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Animal Scout",
       "strainType": null,
@@ -31023,7 +31023,7 @@
         {
           "id": 9130899,
           "label": "1A40303000003EA000253105",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-14",
           "expirationDate": "2027-08-31"
         }
@@ -36249,7 +36249,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 37.0,
+      "quantity": 35.0,
       "unit": "Each",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -36282,7 +36282,7 @@
         {
           "id": 9226770,
           "label": "1A40303000000CB000057884",
-          "quantity": 37.0,
+          "quantity": 35.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-09-29"
         }
@@ -39047,63 +39047,6 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
-      "id": 9191544,
-      "packageCount": 1,
-      "name": "Rythm 5 Pack (Infused) - Blue Z (Indica Dominant) - 2.5g",
-      "brand": "Rythm",
-      "producer": "Chesapeake Alternatives",
-      "category": "Pre-Roll",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": "Blue Z",
-      "strainType": "Indica",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 44.71,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.55,
-        "CBN": 0.0,
-        "THCA": 49.78,
-        "THCV": 0.2
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.14,
-        "humulene": 0.11,
-        "myrcene": 0.2,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 0.71,
-        "beta-pinene": 0.05,
-        "limonene": 0.44,
-        "linalool": 0.26
-      },
-      "totalTerps": 2.25,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 9191544,
-          "label": "1A40303000003EA000183207",
-          "quantity": 2.0,
-          "packagedDate": "2026-10-27",
-          "expirationDate": "2027-08-19"
-        }
-      ],
-      "price": 45.0,
-      "medPrice": 45.0,
-      "salePrice": 33.75,
-      "medSalePrice": 33.75,
-      "deal": "Maryland Monday! 25% OFF ALL GTI Products",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4580599",
-      "posCategory": "Infused Pre-Roll/Concentrate"
-    },
-    {
       "id": 9131501,
       "packageCount": 1,
       "name": "Rythm 5 Pack (Infused) - Blueberry Kush (Indica Dominant) - 2.5g",
@@ -40316,7 +40259,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "SDG OG",
       "strainType": null,
@@ -40349,7 +40292,7 @@
         {
           "id": 9229885,
           "label": "1A40303000001F5000467380",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-07-20"
         }
@@ -40945,7 +40888,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 30.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -40977,7 +40920,7 @@
         {
           "id": 9226978,
           "label": "1A40303000000CB000057886",
-          "quantity": 30.0,
+          "quantity": 29.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-09"
         }
@@ -50803,7 +50746,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Fruity Pebbles OG BD",
       "strainType": null,
@@ -50837,7 +50780,7 @@
         {
           "id": 8115306,
           "label": "ABC0303000037DD000021010",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-02-24",
           "expirationDate": "2026-12-26"
         }
@@ -61758,7 +61701,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Strawberry Cough",
       "strainType": "Sativa",
@@ -61793,7 +61736,7 @@
         {
           "id": 8778313,
           "label": "1A40303000003EA000192820",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-06-26"
         }
