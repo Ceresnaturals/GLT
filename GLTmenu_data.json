@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:50:02.432326+00:00",
+  "generated_at": "2026-11-09T21:00:06.815267+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8458,17 +8458,18 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9073088,
-      "packageCount": 1,
+      "id": 9195881,
+      "packageCount": 2,
       "name": "Keef - Orange Kush - 10mg - 1",
       "brand": null,
       "producer": "SunMed Growers",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8506,6 +8507,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9195881,
+          "label": "1A40303000001F5000464092",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-28",
+          "expirationDate": "2027-09-25"
+        },
         {
           "id": 9073088,
           "label": "1A40303000001F5000453091",
@@ -8781,17 +8789,18 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9169021,
-      "packageCount": 1,
+      "id": 9195883,
+      "packageCount": 2,
       "name": "Sunnies Mocktail No. 1 Sweet Orange -10mg -1",
       "brand": "Sunnies",
       "producer": "SunMed Growers",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 52.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8829,6 +8838,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9195883,
+          "label": "1A40303000001F5000464094",
+          "quantity": 48.0,
+          "packagedDate": "2026-10-28",
+          "expirationDate": "2027-10-01"
+        },
         {
           "id": 9169021,
           "label": "1A40303000001F5000462144",
@@ -10839,71 +10855,6 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4710286",
-      "posCategory": "Edibles"
-    },
-    {
-      "id": 8996306,
-      "packageCount": 1,
-      "name": "Betty's Eddies Tropical Smoothie Fruit Chews-40mg-10",
-      "brand": "Betty's Eddies",
-      "producer": "Kind Therapeutics USA",
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.558,
-        "totalCBD": 0.456,
-        "CBC": 0.006,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.023,
-        "CBGA": 0.0,
-        "CBN": 0.002,
-        "THCA": 0.004,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 400.0,
-        "thcMgPerServing": 40.0,
-        "minorsMgPerServing": {
-          "totalCBD": 32.376,
-          "CBC": 0.426,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 1.633,
-          "CBGA": 0.0,
-          "CBN": 0.142,
-          "THCA": 0.284,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8996306,
-          "label": "1A4030300003522000211320",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-15",
-          "expirationDate": "2027-08-22"
-        }
-      ],
-      "price": 45.0,
-      "medPrice": 45.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4710290",
       "posCategory": "Edibles"
     },
     {
@@ -21565,7 +21516,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21606,7 +21557,7 @@
         {
           "id": 9168815,
           "label": "1A40303000001F5000462141",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-14"
         }
@@ -27001,7 +26952,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 224.0,
+      "quantity": 220.5,
       "unit": "Grams",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -27034,7 +26985,7 @@
         {
           "id": 9226756,
           "label": "1A40303000000CB000057876",
-          "quantity": 224.0,
+          "quantity": 220.5,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-09-29"
         }
@@ -41682,7 +41633,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 155.0,
+      "quantity": 150.0,
       "unit": "Grams",
       "strainName": "Charm Biscuitz",
       "strainType": null,
@@ -41715,7 +41666,7 @@
         {
           "id": 9127364,
           "label": "1A40303000040D9000006562",
-          "quantity": 155.0,
+          "quantity": 150.0,
           "packagedDate": "2026-10-13",
           "expirationDate": null
         }
