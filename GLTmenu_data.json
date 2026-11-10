@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T17:50:02.265417+00:00",
+  "generated_at": "2026-11-10T18:00:02.870023+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -15696,13 +15696,13 @@
           "expirationDate": "2027-03-06"
         }
       ],
-      "price": 25.0,
-      "medPrice": 25.0,
+      "price": null,
+      "medPrice": null,
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4175129",
-      "posCategory": "Edibles"
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 8959113,
@@ -23362,7 +23362,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 317.5,
+      "quantity": 314.0,
       "unit": "Grams",
       "strainName": "BLVCK Gelatti",
       "strainType": null,
@@ -23395,7 +23395,7 @@
         {
           "id": 8407107,
           "label": "1A40303000040D9000004497",
-          "quantity": 317.5,
+          "quantity": 314.0,
           "packagedDate": "2026-05-04",
           "expirationDate": "2027-05-04"
         }
@@ -33601,7 +33601,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 30.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -33635,7 +33635,7 @@
         {
           "id": 9236741,
           "label": "1A403030000012D000278767",
-          "quantity": 30.0,
+          "quantity": 28.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-08-05"
         }
@@ -33659,7 +33659,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -33693,7 +33693,7 @@
         {
           "id": 9111207,
           "label": "1A403030000012D000275065",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-07-30"
         }
@@ -37886,7 +37886,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Durban Poison",
       "strainType": "Sativa",
@@ -37920,7 +37920,7 @@
         {
           "id": 9039057,
           "label": "1A40303000003EA000258982",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-11"
         }
@@ -37944,7 +37944,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Mai Tai",
       "strainType": "Sativa",
@@ -37978,7 +37978,7 @@
         {
           "id": 9130900,
           "label": "1A40303000003EA000253107",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-10-14",
           "expirationDate": "2027-09-16"
         }
@@ -40935,7 +40935,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 169.65,
+      "quantity": 162.65,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato",
       "strainType": null,
@@ -40967,7 +40967,7 @@
         {
           "id": 9073215,
           "label": "1A40303000001F5000453113",
-          "quantity": 169.65,
+          "quantity": 162.65,
           "packagedDate": "2026-09-30",
           "expirationDate": null
         }
@@ -61247,5 +61247,5 @@
     }
   ],
   "priceNote": "Prices shown are estimates. The register has the final price.",
-  "pricesUpdatedAt": "2026-11-10T11:00:29.032112+00:00"
+  "pricesUpdatedAt": "2026-11-10T18:00:02.870804+00:00"
 }
