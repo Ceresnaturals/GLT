@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T19:00:03.106240+00:00",
+  "generated_at": "2026-11-11T19:10:02.777840+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7812,7 +7812,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7853,7 +7853,7 @@
         {
           "id": 9039625,
           "label": "1A40303000001F5000450418",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-12"
         }
@@ -8598,7 +8598,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8639,7 +8639,7 @@
         {
           "id": 9233077,
           "label": "1A40303000001F5000467768",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-11"
         }
@@ -20485,7 +20485,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20526,7 +20526,7 @@
         {
           "id": 8787117,
           "label": "1A4030300000193000102920",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-05-12"
         }
@@ -20540,71 +20540,6 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8908968,
-      "packageCount": 1,
-      "name": "Sour Strawberry Lemonade Jams - 5mg - 20",
-      "brand": null,
-      "producer": "Maryland Compassionate Care & Wellness",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.1,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "One gummy",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 5.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8908968,
-          "label": "1A4030300000193000106240",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-25",
-          "expirationDate": "2027-08-04"
-        }
-      ],
-      "price": 25.0,
-      "medPrice": 25.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174683",
-      "posCategory": "Edibles"
-    },
-    {
       "id": 8787118,
       "packageCount": 1,
       "name": "Sour Watermelon Lime Jams - 5mg - 20",
@@ -20615,7 +20550,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20656,7 +20591,7 @@
         {
           "id": 8787118,
           "label": "1A4030300000193000102921",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-05-26"
         }
@@ -31767,7 +31702,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Grams",
       "strainName": "Durban Poison",
       "strainType": null,
@@ -31801,7 +31736,7 @@
         {
           "id": 9236823,
           "label": "1A403030000012D000278756",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-16"
         }
@@ -36987,7 +36922,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -37020,7 +36955,7 @@
         {
           "id": 9226777,
           "label": "1A40303000000CB000057885",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-05"
         }
@@ -38533,7 +38468,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 40.0,
+      "quantity": 38.0,
       "unit": "Each",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -38566,7 +38501,7 @@
         {
           "id": 9229887,
           "label": "1A40303000001F5000467382",
-          "quantity": 40.0,
+          "quantity": 38.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-09-11"
         }
@@ -38874,7 +38809,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -38907,7 +38842,7 @@
         {
           "id": 9168514,
           "label": "1A40303000001F5000462129",
-          "quantity": 16.0,
+          "quantity": 14.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-14"
         }
@@ -40608,7 +40543,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 437.0,
+      "quantity": 433.5,
       "unit": "Grams",
       "strainName": "Han Solo HashBurger",
       "strainType": null,
@@ -40640,7 +40575,7 @@
         {
           "id": 9098467,
           "label": "1A40303000040D9000006407",
-          "quantity": 437.0,
+          "quantity": 433.5,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
@@ -40723,7 +40658,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 40.15,
+      "quantity": 33.15,
       "unit": "Grams",
       "strainName": "Black Cherry Gelato",
       "strainType": null,
@@ -40755,7 +40690,7 @@
         {
           "id": 9073215,
           "label": "1A40303000001F5000453113",
-          "quantity": 40.15,
+          "quantity": 33.15,
           "packagedDate": "2026-09-30",
           "expirationDate": null
         }
@@ -40837,7 +40772,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 448.54,
+      "quantity": 445.04,
       "unit": "Grams",
       "strainName": "Watermelon Gelato TC",
       "strainType": null,
@@ -40869,7 +40804,7 @@
         {
           "id": 8998461,
           "label": "1A40303000001F5000431291",
-          "quantity": 448.54,
+          "quantity": 445.04,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
