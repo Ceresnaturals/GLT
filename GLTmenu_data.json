@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T23:30:03.242781+00:00",
+  "generated_at": "2026-11-11T23:40:02.636045+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -733,7 +733,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Space Age Cake",
       "strainType": "Indica",
@@ -767,7 +767,7 @@
         {
           "id": 7975650,
           "label": "1A403030000238D000087021",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-01-20",
           "expirationDate": "2027-01-11"
         }
@@ -908,7 +908,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Animal Scout",
       "strainType": "Indica",
@@ -943,7 +943,7 @@
         {
           "id": 8778172,
           "label": "1A40303000003EA000192812",
-          "quantity": 6.0,
+          "quantity": 4.0,
           "packagedDate": "2026-07-27",
           "expirationDate": "2027-04-17"
         }
@@ -2826,7 +2826,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Funky Lemon Cream Cake",
       "strainType": null,
@@ -2861,7 +2861,7 @@
         {
           "id": 9164808,
           "label": "1A4030300000C83000042728",
-          "quantity": 25.0,
+          "quantity": 23.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-10-09"
         }
@@ -4145,7 +4145,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "MD EXT MDCHCM 1LB",
       "strainType": null,
@@ -4178,7 +4178,7 @@
         {
           "id": 8872249,
           "label": "1A40303000007D1000093664",
-          "quantity": 8.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-04-17"
         }
@@ -7639,71 +7639,6 @@
       "posCategory": "Tinctures"
     },
     {
-      "id": 9039625,
-      "packageCount": 1,
-      "name": "Keef - Blue Razz - 10mg - 1",
-      "brand": null,
-      "producer": "SunMed Growers",
-      "category": "Drink",
-      "metrcCategory": "Infused Liquid Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.003,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Can",
-        "totalThcMg": 10.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9039625,
-          "label": "1A40303000001F5000450418",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-23",
-          "expirationDate": "2027-08-12"
-        }
-      ],
-      "price": 8.0,
-      "medPrice": 8.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": "Keef 6 for $33",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4348358",
-      "posCategory": "Edibles"
-    },
-    {
       "id": 9073087,
       "packageCount": 1,
       "name": "Keef - Bubba Kush Root Beer - 10mg - 1",
@@ -7714,7 +7649,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7755,7 +7690,7 @@
         {
           "id": 9073087,
           "label": "1A40303000001F5000453090",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-08-21"
         }
@@ -7779,7 +7714,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 20.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7820,7 +7755,7 @@
         {
           "id": 9105101,
           "label": "1A40303000001F5000456193",
-          "quantity": 20.0,
+          "quantity": 18.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-06-09"
         }
@@ -7845,7 +7780,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 30.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7893,7 +7828,7 @@
         {
           "id": 9073088,
           "label": "1A40303000001F5000453091",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-08-24"
         }
@@ -7982,7 +7917,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8023,7 +7958,7 @@
         {
           "id": 9233074,
           "label": "1A40303000001F5000467765",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-24"
         }
@@ -31344,7 +31279,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 19.0,
       "unit": "Grams",
       "strainName": "Durban Poison",
       "strainType": null,
@@ -31378,7 +31313,7 @@
         {
           "id": 9236823,
           "label": "1A403030000012D000278756",
-          "quantity": 21.0,
+          "quantity": 19.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-16"
         }
@@ -44917,7 +44852,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Bloom Jet Fuel OG Surf AIO",
       "strainType": null,
@@ -44951,7 +44886,7 @@
         {
           "id": 9197580,
           "label": "1A40303000007D1000100939",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-09-24"
         }
@@ -44975,7 +44910,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Bloom Pineapple Express Classic Surf AIO",
       "strainType": null,
@@ -45008,7 +44943,7 @@
         {
           "id": 9197579,
           "label": "1A40303000007D1000100937",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-09-15"
         }
