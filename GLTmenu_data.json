@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T20:40:02.884696+00:00",
+  "generated_at": "2026-11-11T20:50:02.328185+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4883,7 +4883,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 5.0,
       "unit": "Each",
@@ -6185,64 +6185,6 @@
       "medSalePrice": 24.5,
       "deal": "Waxy Wednesday! 30% OFF Concentrates",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4727524",
-      "posCategory": "Concentrate"
-    },
-    {
-      "id": 8968489,
-      "packageCount": 1,
-      "name": "RO-CrdBudder-1g-SourOGChem-H-MD (260812MED106339)",
-      "brand": null,
-      "producer": "Trulieve MD Processing",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "RO CrdBudder SourOGChem H MD",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 72.18,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 2.49,
-        "CBN": 0.0,
-        "THCA": 80.29,
-        "THCV": 0.47
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.34,
-        "humulene": 0.5,
-        "myrcene": 1.97,
-        "alpha-pinene": 0.16,
-        "caryophyllene": 1.83,
-        "beta-pinene": 0.22,
-        "limonene": 1.66,
-        "linalool": 0.49,
-        "terpinolene": 0.07
-      },
-      "totalTerps": 7.92,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8968489,
-          "label": "1A403030000238D000107264",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-09",
-          "expirationDate": "2027-08-16"
-        }
-      ],
-      "price": 35.0,
-      "medPrice": 35.0,
-      "salePrice": 24.5,
-      "medSalePrice": 24.5,
-      "deal": "Waxy Wednesday! 30% OFF Concentrates",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4625418",
       "posCategory": "Concentrate"
     },
     {
@@ -26101,7 +26043,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 445.23,
+      "quantity": 441.73,
       "unit": "Grams",
       "strainName": "Lava Lamp",
       "strainType": null,
@@ -26136,7 +26078,7 @@
         {
           "id": 8382209,
           "label": "1A4030300000709000048080",
-          "quantity": 445.23,
+          "quantity": 441.73,
           "packagedDate": "2026-04-27",
           "expirationDate": "2027-04-03"
         }
@@ -28168,7 +28110,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 52.5,
+      "quantity": 49.0,
       "unit": "Grams",
       "strainName": "Space Mints",
       "strainType": null,
@@ -28201,7 +28143,7 @@
         {
           "id": 9146943,
           "label": "1A4030300003A3C000092972",
-          "quantity": 52.5,
+          "quantity": 49.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-09-24"
         }
@@ -40588,7 +40530,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 441.54,
+      "quantity": 434.54,
       "unit": "Grams",
       "strainName": "Watermelon Gelato TC",
       "strainType": null,
@@ -40620,7 +40562,7 @@
         {
           "id": 8998461,
           "label": "1A40303000001F5000431291",
-          "quantity": 441.54,
+          "quantity": 434.54,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -42472,7 +42414,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": null,
@@ -42506,7 +42448,7 @@
         {
           "id": 9126266,
           "label": "1A40303000001F5000458219",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-07-24"
         }
@@ -42883,7 +42825,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Pink Palmer",
       "strainType": null,
@@ -42917,7 +42859,7 @@
         {
           "id": 9073303,
           "label": "1A40303000001F5000453104",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-09-16"
         }
