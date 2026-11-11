@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T18:20:02.353507+00:00",
+  "generated_at": "2026-11-11T18:30:03.412091+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3615,7 +3615,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Dirty Banana",
       "strainType": null,
@@ -3648,7 +3648,7 @@
         {
           "id": 9162070,
           "label": "1A4030300002199000069217",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-09-21",
           "expirationDate": "2027-09-23"
         }
@@ -5725,9 +5725,10 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
+        "Sales Floor",
         "Vault"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Orange Chemeleon",
       "strainType": null,
@@ -5768,7 +5769,7 @@
         {
           "id": 9124365,
           "label": "1A4030300003522000219692",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-08"
         }
@@ -10903,7 +10904,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10944,7 +10945,7 @@
         {
           "id": 9236736,
           "label": "1A403030000012D000278761",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-22"
         }
@@ -15252,7 +15253,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15291,7 +15292,7 @@
         {
           "id": 9245305,
           "label": "1A40303000017D5000112737",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-08-27"
         }
@@ -15646,7 +15647,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15687,7 +15688,7 @@
         {
           "id": 9145105,
           "label": "1A40303000017D5000110714",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-09-03",
           "expirationDate": "2027-09-03"
         }
@@ -16273,7 +16274,7 @@
     },
     {
       "id": 9167682,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "HiColor Dream Gummies Blackberry 1:1|Edible Product|10mg|10ct",
       "brand": "HiColor",
       "producer": "Marymed",
@@ -16282,7 +16283,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16326,13 +16327,6 @@
           "quantity": 14.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-04-04"
-        },
-        {
-          "id": 7857647,
-          "label": "1A4030300002009000082967",
-          "quantity": 1.0,
-          "packagedDate": "2025-12-18",
-          "expirationDate": "2026-12-01"
         }
       ],
       "price": 20.0,
@@ -19464,7 +19458,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19505,14 +19499,14 @@
         {
           "id": 9138600,
           "label": "1A403030000283D000058454",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-09-11"
         },
         {
           "id": 8494058,
           "label": "1A403030000283D000049575",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-05-21",
           "expirationDate": "2027-05-20"
         }
@@ -23375,7 +23369,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 85.0,
+      "quantity": 80.0,
       "unit": "Grams",
       "strainName": "Apple Butta",
       "strainType": null,
@@ -23408,7 +23402,7 @@
         {
           "id": 9187159,
           "label": "1A40303000040D9000006716",
-          "quantity": 85.0,
+          "quantity": 80.0,
           "packagedDate": "2026-10-26",
           "expirationDate": "2027-10-25"
         }
@@ -43551,7 +43545,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "AiroX Vaporizer",
       "strainType": null,
@@ -43588,7 +43582,7 @@
         {
           "id": 9188466,
           "label": "1A40303000001F5000463339",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-09-28"
         }
@@ -54888,7 +54882,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": "White Widow",
       "strainType": null,
@@ -54922,7 +54916,7 @@
         {
           "id": 9233964,
           "label": "1A403030000283D000063181",
-          "quantity": 29.0,
+          "quantity": 28.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-08-01"
         }
