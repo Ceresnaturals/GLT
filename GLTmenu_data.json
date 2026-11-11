@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T11:00:30.002554+00:00",
+  "generated_at": "2026-11-11T14:00:04.750306+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3546,6 +3546,63 @@
       "deal": "Waxy Wednesday! 30% OFF Concentrates",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4674465",
       "posCategory": "Kief"
+    },
+    {
+      "id": 9236758,
+      "packageCount": 1,
+      "name": "Kind Tree | Infused Flower | Snowballs | Baby Yoda - Usable - 3.5g",
+      "brand": "Kind Tree",
+      "producer": "HMS Processing",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 16.0,
+      "unit": "Each",
+      "strainName": "Baby Yoda",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 44.94,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.83,
+        "CBN": 0.0,
+        "THCA": 43.62,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.11,
+        "myrcene": 0.28,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.4,
+        "beta-pinene": 0.04,
+        "limonene": 0.31,
+        "linalool": 0.19
+      },
+      "totalTerps": 1.55,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9236758,
+          "label": "1A4030300002199000070680",
+          "quantity": 16.0,
+          "packagedDate": "2026-09-21",
+          "expirationDate": "2027-09-23"
+        }
+      ],
+      "price": 65.0,
+      "medPrice": 65.0,
+      "salePrice": 45.5,
+      "medSalePrice": 45.5,
+      "deal": "Waxy Wednesday! 30% OFF Concentrates",
+      "orderUrl": null,
+      "posCategory": "Infused Flower/Concentrate"
     },
     {
       "id": 9162070,
@@ -26521,6 +26578,122 @@
       "posCategory": "Pre-Packed Flower"
     },
     {
+      "id": 9236743,
+      "packageCount": 1,
+      "name": "Kind Tree | Flower | Reserve Buds | Cherry Slushee - Usable - 14g",
+      "brand": "Kind Tree",
+      "producer": "HMS Health",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 448.0,
+      "unit": "Grams",
+      "strainName": "Cherry Slushee",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.93,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.85,
+        "CBN": 0.0,
+        "THCA": 32.06,
+        "THCV": 0.21
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.11,
+        "myrcene": 3.01,
+        "alpha-pinene": 0.29,
+        "caryophyllene": 0.36,
+        "beta-pinene": 0.1,
+        "ocimene": 0.15,
+        "limonene": 0.26,
+        "linalool": 0.07
+      },
+      "totalTerps": 4.38,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9236743,
+          "label": "1A403030000025B000094584",
+          "quantity": 448.0,
+          "packagedDate": "2026-10-28",
+          "expirationDate": "2027-10-23"
+        }
+      ],
+      "price": 120.0,
+      "medPrice": 120.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 9236829,
+      "packageCount": 1,
+      "name": "Kind Tree | Flower | Reserve Buds | White Iverson - Usable - 7g",
+      "brand": "Kind Tree",
+      "producer": "HMS Health",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 112.0,
+      "unit": "Grams",
+      "strainName": "White Iverson",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.18,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.11,
+        "CBGA": 0.41,
+        "CBN": 0.0,
+        "THCA": 32.46,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.2,
+        "myrcene": 0.74,
+        "alpha-pinene": 1.32,
+        "caryophyllene": 0.55,
+        "beta-pinene": 0.32,
+        "ocimene": 0.18,
+        "limonene": 0.66,
+        "linalool": 0.23,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 4.56,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9236829,
+          "label": "1A403030000025B000094585",
+          "quantity": 112.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-10-17"
+        }
+      ],
+      "price": 75.0,
+      "medPrice": 75.0,
+      "salePrice": 56.25,
+      "medSalePrice": 56.25,
+      "deal": "Waxy Wednesday! 25% off Kind Tree Brands",
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
       "id": 9201605,
       "packageCount": 1,
       "name": "LA Baker Garcia Hand Picked - Usable - 3.5 g",
@@ -26581,6 +26754,122 @@
       "posCategory": "Pre-Packed Flower"
     },
     {
+      "id": 8382209,
+      "packageCount": 1,
+      "name": "Lava Lamp",
+      "brand": null,
+      "producer": "Culta",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 453.23,
+      "unit": "Grams",
+      "strainName": "Lava Lamp",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 19.14,
+        "totalCBD": 0.05,
+        "CBC": 0.0,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.04,
+        "CBGA": 0.67,
+        "CBN": 0.0,
+        "THCA": 21.36,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.23,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.63,
+        "beta-pinene": 0.07,
+        "ocimene": 0.06,
+        "limonene": 0.3,
+        "linalool": 0.13
+      },
+      "totalTerps": 1.72,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8382209,
+          "label": "1A4030300000709000048080",
+          "quantity": 453.23,
+          "packagedDate": "2026-04-27",
+          "expirationDate": "2027-04-03"
+        }
+      ],
+      "price": 15.0,
+      "medPrice": 15.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Bulk Flower"
+    },
+    {
+      "id": 9236744,
+      "packageCount": 1,
+      "name": "Legend | Flower | Buds | Grape Gummiez - Usable - 3.5g",
+      "brand": "Legend",
+      "producer": "HMS Health",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 112.0,
+      "unit": "Grams",
+      "strainName": "Grape Gummiez",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.59,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.56,
+        "CBN": 0.0,
+        "THCA": 30.68,
+        "THCV": 0.21
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.07,
+        "myrcene": 1.75,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.22,
+        "beta-pinene": 0.08,
+        "ocimene": 0.22,
+        "limonene": 0.53,
+        "linalool": 0.18
+      },
+      "totalTerps": 3.26,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9236744,
+          "label": "1A403030000025B000094586",
+          "quantity": 112.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-10-23"
+        }
+      ],
+      "price": 30.0,
+      "medPrice": 30.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
       "id": 9162062,
       "packageCount": 1,
       "name": "Legend | Flower | Buds | Lemon Splash - Usable - 3.5g",
@@ -26636,6 +26925,66 @@
       "medSalePrice": 22.5,
       "deal": "Waxy Wednesday! 25% off Kind Tree Brands",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4722184",
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 9236830,
+      "packageCount": 1,
+      "name": "Legend | Flower | Buds | Pineapple 99 - Usable - 3.5g",
+      "brand": "Legend",
+      "producer": "HMS Health",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 112.0,
+      "unit": "Grams",
+      "strainName": "Pineapple 99",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 19.03,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.26,
+        "CBN": 0.0,
+        "THCA": 21.46,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.13,
+        "humulene": 0.11,
+        "myrcene": 1.32,
+        "alpha-pinene": 0.56,
+        "caryophyllene": 0.41,
+        "beta-pinene": 0.21,
+        "ocimene": 0.05,
+        "limonene": 0.3,
+        "linalool": 0.08,
+        "terpinolene": 0.02,
+        "nerolidol": 0.07
+      },
+      "totalTerps": 3.39,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9236830,
+          "label": "1A403030000025B000094587",
+          "quantity": 112.0,
+          "packagedDate": "2026-10-22",
+          "expirationDate": "2027-10-16"
+        }
+      ],
+      "price": 30.0,
+      "medPrice": 30.0,
+      "salePrice": 22.5,
+      "medSalePrice": 22.5,
+      "deal": "Waxy Wednesday! 25% off Kind Tree Brands",
+      "orderUrl": null,
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -41116,6 +41465,62 @@
       ],
       "price": null,
       "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Bulk Flower"
+    },
+    {
+      "id": 8998461,
+      "packageCount": 1,
+      "name": "Shake/Trim - Watermelon Gelato",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 452.04,
+      "unit": "Grams",
+      "strainName": "Watermelon Gelato TC",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 21.23,
+        "totalCBD": 0.12,
+        "CBDA": 0.03,
+        "CBG": 0.45,
+        "CBN": 0.01,
+        "THCA": 23.73
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.13,
+        "myrcene": 0.3,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.3,
+        "eudesmol": 0.01,
+        "beta-pinene": 0.04,
+        "limonene": 0.21,
+        "linalool": 0.11,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 1.22,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8998461,
+          "label": "1A40303000001F5000431291",
+          "quantity": 452.04,
+          "packagedDate": "2026-09-15",
+          "expirationDate": null
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
