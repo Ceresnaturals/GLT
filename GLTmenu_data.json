@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T16:20:02.862902+00:00",
+  "generated_at": "2026-11-11T16:30:02.533958+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3903,7 +3903,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Blue Sherb",
       "strainType": null,
@@ -3938,7 +3938,7 @@
         {
           "id": 8443325,
           "label": "1A4030300003D55000005792",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-05-11",
           "expirationDate": "2026-12-19"
         }
@@ -6774,7 +6774,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "SDG OG",
       "strainType": null,
@@ -6809,7 +6809,7 @@
         {
           "id": 9073213,
           "label": "1A40303000001F5000453110",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-06-15"
         }
@@ -7008,7 +7008,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Spritzer",
       "strainType": null,
@@ -7043,7 +7043,7 @@
         {
           "id": 8342707,
           "label": "1A40303000001F5000367297",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-04-16",
           "expirationDate": "2027-01-05"
         }
@@ -22345,7 +22345,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -34968,64 +34968,6 @@
       "posCategory": "Pre-Rolls"
     },
     {
-      "id": 9226966,
-      "packageCount": 1,
-      "name": "Lemon Blanc Pre-Roll 2 Pack 1.0g",
-      "brand": null,
-      "producer": "Evermore Cannabis",
-      "category": "Pre-Roll",
-      "metrcCategory": "Raw Prerolls",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Lemon Blanc",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 30.04,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.38,
-        "CBGA": 1.12,
-        "CBN": 0.0,
-        "THCA": 33.48,
-        "THCV": 0.12
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.09,
-        "humulene": 0.14,
-        "myrcene": 1.92,
-        "alpha-pinene": 0.24,
-        "caryophyllene": 0.42,
-        "beta-pinene": 0.08,
-        "ocimene": 0.08,
-        "limonene": 0.14,
-        "linalool": 0.11
-      },
-      "totalTerps": 3.22,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 9226966,
-          "label": "1A40303000000CB000057882",
-          "quantity": 1.0,
-          "packagedDate": "2026-11-04",
-          "expirationDate": "2027-10-09"
-        }
-      ],
-      "price": 10.0,
-      "medPrice": 10.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4716695",
-      "posCategory": "Pre-Rolls"
-    },
-    {
       "id": 9226968,
       "packageCount": 1,
       "name": "Lemon Blanc Pre-Roll 7 Pack 3.5g Multi Pack",
@@ -37554,7 +37496,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Peach Runtz Isolate",
       "strainType": null,
@@ -37585,7 +37527,7 @@
         {
           "id": 9101932,
           "label": "1A4030300000C83000090255",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-09-13"
         }
@@ -40056,63 +39998,6 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4546995",
-      "posCategory": "Pre-Rolls"
-    },
-    {
-      "id": 9197718,
-      "packageCount": 1,
-      "name": "Swampwater Fumez Pre-Roll 2 Pack 1.0g",
-      "brand": null,
-      "producer": "Evermore Cannabis",
-      "category": "Pre-Roll",
-      "metrcCategory": "Raw Prerolls",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Swampwater Fumez",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 31.59,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.1,
-        "CBGA": 2.93,
-        "CBN": 0.0,
-        "THCA": 35.3,
-        "THCV": 0.11
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.08,
-        "humulene": 0.24,
-        "myrcene": 0.04,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.64,
-        "beta-pinene": 0.06,
-        "limonene": 0.51,
-        "linalool": 0.42
-      },
-      "totalTerps": 2.18,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 9197718,
-          "label": "1A40303000000CB000057471",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-28",
-          "expirationDate": "2027-09-29"
-        }
-      ],
-      "price": 10.0,
-      "medPrice": 10.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4716704",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -53786,7 +53671,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": "G.O.A.T.E.D x Grapefruit",
       "strainType": null,
@@ -53821,7 +53706,7 @@
         {
           "id": 8309871,
           "label": "1A4030300003D55000005452",
-          "quantity": 31.0,
+          "quantity": 30.0,
           "packagedDate": "2026-04-09",
           "expirationDate": "2026-12-20"
         }
@@ -54134,7 +54019,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Cherry Wreck",
       "strainType": null,
@@ -54168,7 +54053,7 @@
         {
           "id": 8301787,
           "label": "1A4030300003D55000005319",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-04-08",
           "expirationDate": "2026-12-20"
         }
