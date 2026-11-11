@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T17:50:02.900470+00:00",
+  "generated_at": "2026-11-11T18:00:03.337330+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3601,7 +3601,7 @@
       "salePrice": 45.5,
       "medSalePrice": 45.5,
       "deal": "Waxy Wednesday! 30% OFF Concentrates",
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4741907",
       "posCategory": "Infused Flower/Concentrate"
     },
     {
@@ -10431,13 +10431,13 @@
           "expirationDate": "2027-08-12"
         }
       ],
-      "price": 5.0,
-      "medPrice": 5.0,
+      "price": null,
+      "medPrice": null,
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4580926",
-      "posCategory": "Edibles"
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 9191021,
@@ -16273,7 +16273,7 @@
     },
     {
       "id": 9167682,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "HiColor Dream Gummies Blackberry 1:1|Edible Product|10mg|10ct",
       "brand": "HiColor",
       "producer": "Marymed",
@@ -16282,7 +16282,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16326,6 +16326,13 @@
           "quantity": 14.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-04-04"
+        },
+        {
+          "id": 7857647,
+          "label": "1A4030300002009000082967",
+          "quantity": 1.0,
+          "packagedDate": "2025-12-18",
+          "expirationDate": "2026-12-01"
         }
       ],
       "price": 20.0,
@@ -19444,6 +19451,78 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4726961",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9138600,
+      "packageCount": 2,
+      "name": "Mellow Fellow - Gummies - Dream Berry 1:2:2 Sleep Blend- 100mg THC - 10mg - 10",
+      "brand": "Mellow Fellow",
+      "producer": "Pro Green Medical",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 18.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.233,
+        "totalCBD": 0.442,
+        "CBC": 0.004,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.46,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "4.5g",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 19.89,
+          "CBC": 0.18,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 20.7,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9138600,
+          "label": "1A403030000283D000058454",
+          "quantity": 13.0,
+          "packagedDate": "2026-10-15",
+          "expirationDate": "2027-09-11"
+        },
+        {
+          "id": 8494058,
+          "label": "1A403030000283D000049575",
+          "quantity": 5.0,
+          "packagedDate": "2026-05-21",
+          "expirationDate": "2027-05-20"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -26052,7 +26131,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 3.5,
       "unit": "Grams",
       "strainName": "Georgia Mintz",
       "strainType": null,
@@ -26086,7 +26165,7 @@
         {
           "id": 9097521,
           "label": "1A403030000025B000092024",
-          "quantity": 7.0,
+          "quantity": 3.5,
           "packagedDate": "2026-09-10",
           "expirationDate": "2027-09-10"
         }
@@ -26267,7 +26346,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4741903",
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -26326,7 +26405,7 @@
       "salePrice": 56.25,
       "medSalePrice": 56.25,
       "deal": "Waxy Wednesday! 25% off Kind Tree Brands",
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4674457",
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -26400,7 +26479,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 452.23,
+      "quantity": 445.23,
       "unit": "Grams",
       "strainName": "Lava Lamp",
       "strainType": null,
@@ -26435,7 +26514,7 @@
         {
           "id": 8382209,
           "label": "1A4030300000709000048080",
-          "quantity": 452.23,
+          "quantity": 445.23,
           "packagedDate": "2026-04-27",
           "expirationDate": "2027-04-03"
         }
@@ -26445,7 +26524,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4721389",
       "posCategory": "Bulk Flower"
     },
     {
@@ -26499,10 +26578,10 @@
       ],
       "price": 30.0,
       "medPrice": 30.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": null,
+      "salePrice": 22.5,
+      "medSalePrice": 22.5,
+      "deal": "Waxy Wednesday! 25% off Kind Tree Brands",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4741905",
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -26620,7 +26699,7 @@
       "salePrice": 22.5,
       "medSalePrice": 22.5,
       "deal": "Waxy Wednesday! 25% off Kind Tree Brands",
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4734236",
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -27896,7 +27975,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 308.0,
+      "quantity": 280.0,
       "unit": "Grams",
       "strainName": "Banana Puddintain",
       "strainType": null,
@@ -27927,7 +28006,7 @@
         {
           "id": 9229955,
           "label": "1A40303000001F5000467379",
-          "quantity": 308.0,
+          "quantity": 280.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-09-18"
         }
@@ -28180,7 +28259,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 10.0,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -28213,7 +28292,7 @@
         {
           "id": 9168806,
           "label": "1A40303000001F5000462127",
-          "quantity": 20.0,
+          "quantity": 10.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-10-08"
         }
@@ -33034,7 +33113,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Fruit Loot Isolate",
       "strainType": null,
@@ -33068,7 +33147,7 @@
         {
           "id": 9197347,
           "label": "1A4030300000C83000042966",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-10-12"
         }
@@ -34804,7 +34883,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Lemon Blanc",
       "strainType": null,
@@ -34838,7 +34917,7 @@
         {
           "id": 9226968,
           "label": "1A40303000000CB000057883",
-          "quantity": 18.0,
+          "quantity": 16.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-16"
         }
@@ -37038,7 +37117,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Orange Drizzle Isolate",
       "strainType": null,
@@ -37071,7 +37150,7 @@
         {
           "id": 9226776,
           "label": "1A4030300000C83000044095",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-12"
         }
@@ -37152,7 +37231,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -37185,7 +37264,7 @@
         {
           "id": 9197715,
           "label": "1A40303000000CB000057469",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-10-05"
         }
@@ -37322,7 +37401,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Peach Runtz Isolate",
       "strainType": null,
@@ -37353,7 +37432,7 @@
         {
           "id": 9101932,
           "label": "1A4030300000C83000090255",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-09-13"
         }
@@ -37991,13 +38070,13 @@
           "expirationDate": "2027-09-16"
         }
       ],
-      "price": 45.0,
-      "medPrice": 45.0,
-      "salePrice": 31.5,
-      "medSalePrice": 31.5,
-      "deal": "Waxy Wednesday! 30% OFF Concentrates",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4571322",
-      "posCategory": "Infused Pre-Roll/Concentrate"
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 9233702,
@@ -39556,7 +39635,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -39588,7 +39667,7 @@
         {
           "id": 9226978,
           "label": "1A40303000000CB000057886",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-09"
         }
@@ -40758,7 +40837,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4735987",
       "posCategory": "Bulk Flower"
     },
     {
@@ -40987,7 +41066,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4519057",
       "posCategory": "Bulk Flower"
     },
     {
@@ -61620,5 +61699,5 @@
     }
   ],
   "priceNote": "Prices shown are estimates. The register has the final price.",
-  "pricesUpdatedAt": "2026-11-11T11:00:30.003244+00:00"
+  "pricesUpdatedAt": "2026-11-11T18:00:03.338102+00:00"
 }
