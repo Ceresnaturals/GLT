@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T00:30:02.415220+00:00",
+  "generated_at": "2026-11-11T00:40:03.099303+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10060,7 +10060,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10099,7 +10099,7 @@
         {
           "id": 9124094,
           "label": "1A4030300003522000219671",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-18"
         }
@@ -17235,7 +17235,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -17276,7 +17276,7 @@
         {
           "id": 9167686,
           "label": "1A4030300002009000119443",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-05-20"
         }
@@ -27409,7 +27409,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Chocolatina",
       "strainType": null,
@@ -27443,7 +27443,7 @@
         {
           "id": 9123999,
           "label": "1A4030300003521000062079",
-          "quantity": 14.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-27"
         }
@@ -46618,7 +46618,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Cherry Maui Wowie",
       "strainType": "Sativa",
@@ -46652,7 +46652,7 @@
         {
           "id": 7890139,
           "label": "1A40303000003EA000137329",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2025-12-29",
           "expirationDate": "2026-11-24"
         }
@@ -46851,7 +46851,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Couch Kush DV",
       "strainType": null,
@@ -46885,7 +46885,7 @@
         {
           "id": 9039606,
           "label": "1A40303000001F5000450407",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-01-22"
         }
@@ -55062,7 +55062,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": null,
@@ -55095,7 +55095,7 @@
         {
           "id": 9233963,
           "label": "1A403030000283D000063180",
-          "quantity": 29.0,
+          "quantity": 28.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-07-29"
         }
@@ -55168,45 +55168,43 @@
     },
     {
       "id": 9233962,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Mellow Fellow - Infused Distillate 510 Vape - Blue Dream - 1g",
       "brand": "Mellow Fellow",
       "producer": "Pro Green Medical",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 31.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 87.93,
-        "CBC": 1.01,
+        "totalTHC": 84.21,
+        "CBC": 1.11,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 2.27,
+        "CBG": 2.55,
         "CBGA": 0.0,
-        "CBN": 0.7,
+        "CBN": 0.78,
         "THCA": 0.0,
         "THCV": 0.0
       },
       "dose": null,
       "terpenes": {
-        "bisabolol": 0.19,
-        "humulene": 0.21,
-        "myrcene": 0.45,
-        "alpha-pinene": 0.24,
-        "caryophyllene": 1.46,
-        "beta-pinene": 0.12,
-        "limonene": 0.64,
-        "linalool": 0.47,
-        "terpinolene": 0.06
+        "humulene": 0.2,
+        "myrcene": 0.35,
+        "alpha-pinene": 0.19,
+        "caryophyllene": 1.13,
+        "beta-pinene": 0.08,
+        "limonene": 0.48,
+        "linalool": 0.28,
+        "terpinolene": 0.05
       },
-      "totalTerps": 4.15,
+      "totalTerps": 2.9,
       "dominantTerpene": "caryophyllene",
       "packages": [
         {
@@ -55215,13 +55213,6 @@
           "quantity": 30.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-10-30"
-        },
-        {
-          "id": 9138904,
-          "label": "1A403030000283D000058456",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-15",
-          "expirationDate": "2027-08-24"
         }
       ],
       "price": 35.0,
