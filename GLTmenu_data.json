@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T20:50:02.526592+00:00",
+  "generated_at": "2026-11-12T21:00:04.145233+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7268,7 +7268,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7298,7 +7298,7 @@
         {
           "id": 9079416,
           "label": "1A403030000012D000272418",
-          "quantity": 11.0,
+          "quantity": 9.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-04-20"
         }
@@ -9660,7 +9660,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9699,7 +9699,7 @@
         {
           "id": 9191016,
           "label": "1A4030300003522000227509",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-14"
         }
@@ -9786,7 +9786,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9825,7 +9825,7 @@
         {
           "id": 9124094,
           "label": "1A4030300003522000219671",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-18"
         }
@@ -10800,6 +10800,71 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9262296,
+      "packageCount": 1,
+      "name": "Bubby's Baked Pumpkin Bites V4-10mg-10",
+      "brand": null,
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.11,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9262296,
+          "label": "1A4030300003522000224771",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-04-07"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 18.75,
+      "medSalePrice": 18.75,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9190786,
       "packageCount": 1,
       "name": "Bubby's Baked Pumpkin Bites V4-40mg-10",
@@ -10862,6 +10927,201 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4739699",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9262297,
+      "packageCount": 1,
+      "name": "Bubby's Baked Red Velvet Bites-10mg-10",
+      "brand": null,
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.11,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.12,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 10.2,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9262297,
+          "label": "1A4030300003522000224772",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-04-28"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9262300,
+      "packageCount": 1,
+      "name": "Bubby's Baked Red Velvet Bites-40mg-10",
+      "brand": null,
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.41,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.13,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 11.05,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9262300,
+          "label": "1A4030300003522000224773",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-04-28"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9262610,
+      "packageCount": 1,
+      "name": "Bubby's Baked Snickerdoodle Bites V4-40mg-10",
+      "brand": null,
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.48,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9262610,
+          "label": "1A4030300003522000224788",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-03-18"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": 30.0,
+      "medSalePrice": 30.0,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -16425,7 +16685,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16466,7 +16726,7 @@
         {
           "id": 9167684,
           "label": "1A4030300002009000119440",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-05-22"
         }
@@ -17056,71 +17316,6 @@
       "medSalePrice": 15.0,
       "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4591609",
-      "posCategory": "Edibles"
-    },
-    {
-      "id": 8914799,
-      "packageCount": 1,
-      "name": "HiColor RSO Sativa Gummies Cherry|Edible Product|10mg|10ct",
-      "brand": "HiColor",
-      "producer": "Marymed",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": "Sativa",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.21,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1pc",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8914799,
-          "label": "1A4030300002009000112800",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-26",
-          "expirationDate": "2027-05-20"
-        }
-      ],
-      "price": 20.0,
-      "medPrice": 20.0,
-      "salePrice": 15.0,
-      "medSalePrice": 15.0,
-      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4208079",
       "posCategory": "Edibles"
     },
     {
@@ -21736,7 +21931,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21777,7 +21972,7 @@
         {
           "id": 9262569,
           "label": "1A4030300003522000224794",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-09-25"
         }
@@ -22640,7 +22835,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -22681,7 +22876,7 @@
         {
           "id": 8890280,
           "label": "1A4030300002199000061271",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-06-03",
           "expirationDate": "2027-06-03"
         }
@@ -24041,7 +24236,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 38.5,
       "unit": "Grams",
       "strainName": "Cheddar Cheeze",
       "strainType": null,
@@ -24074,7 +24269,7 @@
         {
           "id": 8596191,
           "label": "1A4030300000192000033995",
-          "quantity": 42.0,
+          "quantity": 38.5,
           "packagedDate": "2026-06-15",
           "expirationDate": "2027-03-31"
         }
@@ -26120,7 +26315,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Dino Bites",
       "strainType": null,
@@ -26153,7 +26348,7 @@
         {
           "id": 9097464,
           "label": "1A403030000025B000092026",
-          "quantity": 14.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-09-02"
         }
@@ -26177,7 +26372,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 420.0,
+      "quantity": 406.0,
       "unit": "Grams",
       "strainName": "Cherry Slushee",
       "strainType": null,
@@ -26210,7 +26405,7 @@
         {
           "id": 9236743,
           "label": "1A403030000025B000094584",
-          "quantity": 420.0,
+          "quantity": 406.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-10-23"
         }
@@ -31304,7 +31499,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Peach Ringz",
       "strainType": null,
@@ -31339,7 +31534,7 @@
         {
           "id": 9173948,
           "label": "1A403030000012D000277070",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-22",
           "expirationDate": "2027-08-24"
         }
@@ -31540,7 +31735,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Grams",
       "strainName": "Durban Poison",
       "strainType": null,
@@ -31574,7 +31769,7 @@
         {
           "id": 9236823,
           "label": "1A403030000012D000278756",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-16"
         }
@@ -31598,7 +31793,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 10.0,
       "unit": "Grams",
       "strainName": "Gush Mints",
       "strainType": null,
@@ -31630,7 +31825,7 @@
         {
           "id": 9142946,
           "label": "1A403030000012D000276053",
-          "quantity": 12.0,
+          "quantity": 10.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-04-23"
         }
@@ -31715,7 +31910,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Grams",
       "strainName": "White Truffle",
       "strainType": null,
@@ -31748,7 +31943,7 @@
         {
           "id": 9142855,
           "label": "1A403030000012D000276056",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-05-21"
         }
@@ -35329,7 +35524,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": "Midnight Circus",
       "strainType": null,
@@ -35362,7 +35557,7 @@
         {
           "id": 9197196,
           "label": "1A40303000000CB000057467",
-          "quantity": 29.0,
+          "quantity": 28.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-10-02"
         }
@@ -36589,7 +36784,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Orange Drizzle",
       "strainType": null,
@@ -36622,7 +36817,7 @@
         {
           "id": 9226777,
           "label": "1A40303000000CB000057885",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-05"
         }
@@ -40437,7 +40632,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -40478,7 +40673,7 @@
         {
           "id": 9018111,
           "label": "1A40303000017D5000107148",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-08-07",
           "expirationDate": "2027-08-07"
         }
@@ -48837,7 +49032,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Goat Piss",
       "strainType": null,
@@ -48871,7 +49066,7 @@
         {
           "id": 8356316,
           "label": "1A40303000039D1000074996",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-04-21",
           "expirationDate": "2027-02-09"
         }
@@ -55451,7 +55646,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Passion Fruit",
       "strainType": null,
@@ -55479,7 +55674,7 @@
         {
           "id": 8671237,
           "label": "1A403030000012E000172678",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-07-01",
           "expirationDate": "2027-04-18"
         }
