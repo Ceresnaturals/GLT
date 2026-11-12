@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T23:20:03.066158+00:00",
+  "generated_at": "2026-11-12T23:30:02.950065+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9818,7 +9818,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9859,7 +9859,7 @@
         {
           "id": 9190778,
           "label": "1A4030300003522000227508",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-06"
         }
@@ -10391,7 +10391,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10430,7 +10430,7 @@
         {
           "id": 8996076,
           "label": "1A4030300003522000211315",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-07-03"
         }
@@ -10958,46 +10958,45 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9124095,
-      "packageCount": 2,
+      "id": 9262557,
+      "packageCount": 1,
       "name": "Betty's Eddies Watermelon Fruit Chews-10mg-2",
       "brand": "Betty's Eddies",
       "producer": "Kind Therapeutics USA",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.128,
-        "CBC": 0.0,
+        "totalTHC": 0.13,
+        "CBC": 0.002,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.007,
+        "CBG": 0.008,
         "CBGA": 0.0,
-        "CBN": 0.001,
+        "CBN": 0.0,
         "THCA": 0.0,
-        "THCV": 0.031
+        "THCV": 0.03
       },
       "dose": {
         "servingSize": "1",
         "totalThcMg": 20.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "CBC": 0.0,
+          "CBC": 0.071,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.249,
+          "CBG": 0.284,
           "CBGA": 0.0,
-          "CBN": 0.036,
+          "CBN": 0.0,
           "THCA": 0.0,
-          "THCV": 1.101
+          "THCV": 1.065
         },
         "minorsEstimated": true
       },
@@ -11005,13 +11004,6 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
-        {
-          "id": 9124095,
-          "label": "1A4030300003522000219672",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-13",
-          "expirationDate": "2027-08-12"
-        },
         {
           "id": 9262557,
           "label": "1A4030300003522000224780",
@@ -12648,7 +12640,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12687,7 +12679,7 @@
         {
           "id": 9047759,
           "label": "1A403030000012D000267868",
-          "quantity": 10.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-07-15"
         }
@@ -13280,17 +13272,16 @@
     },
     {
       "id": 9236740,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Curio Wellness White Peach 40mg Chews-40mg-10",
       "brand": "Curio Wellness",
       "producer": "Curio Manufacturing",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13332,13 +13323,6 @@
           "quantity": 24.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-08-27"
-        },
-        {
-          "id": 9142856,
-          "label": "1A403030000012D000276061",
-          "quantity": 3.0,
-          "packagedDate": "2026-10-15",
-          "expirationDate": "2027-08-26"
         }
       ],
       "price": 45.0,
@@ -19827,7 +19811,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19868,7 +19852,7 @@
         {
           "id": 9233189,
           "label": "1A40303000003EA000176066",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-16"
         }
@@ -22158,7 +22142,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22199,7 +22183,7 @@
         {
           "id": 9168816,
           "label": "1A40303000001F5000462142",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-28"
         }
@@ -25258,7 +25242,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.5,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Boston Tea Party",
       "strainType": null,
@@ -25294,7 +25278,7 @@
         {
           "id": 9062524,
           "label": "1A4030300004845000045952",
-          "quantity": 45.5,
+          "quantity": 42.0,
           "packagedDate": "2026-09-21",
           "expirationDate": "2027-09-21"
         }
@@ -28600,7 +28584,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "Fresh Powder",
       "strainType": null,
@@ -28633,7 +28617,7 @@
         {
           "id": 9188462,
           "label": "1A40303000001F5000463334",
-          "quantity": 35.0,
+          "quantity": 31.5,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-16"
         }
@@ -40963,7 +40947,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 363.5,
+      "quantity": 360.0,
       "unit": "Grams",
       "strainName": "Han Solo HashBurger",
       "strainType": null,
@@ -40995,7 +40979,7 @@
         {
           "id": 9098467,
           "label": "1A40303000040D9000006407",
-          "quantity": 363.5,
+          "quantity": 360.0,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
@@ -41192,7 +41176,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 395.94,
+      "quantity": 381.94,
       "unit": "Grams",
       "strainName": "Sunshine #4",
       "strainType": null,
@@ -41226,7 +41210,7 @@
         {
           "id": 9104972,
           "label": "1A40303000001F5000456192",
-          "quantity": 395.94,
+          "quantity": 381.94,
           "packagedDate": "2026-10-07",
           "expirationDate": null
         }
@@ -41250,7 +41234,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 392.54,
+      "quantity": 389.04,
       "unit": "Grams",
       "strainName": "Watermelon Gelato TC",
       "strainType": null,
@@ -41282,7 +41266,7 @@
         {
           "id": 8998461,
           "label": "1A40303000001F5000431291",
-          "quantity": 392.54,
+          "quantity": 389.04,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -51030,7 +51014,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Blue Raspberry",
       "strainType": null,
@@ -51065,7 +51049,7 @@
         {
           "id": 8939224,
           "label": "1A4030300003522000210564",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-28"
         }
@@ -52181,7 +52165,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Jack Herer",
       "strainType": null,
@@ -52217,7 +52201,7 @@
         {
           "id": 9073306,
           "label": "1A40303000001F5000453108",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-06-03"
         }
