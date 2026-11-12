@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T19:10:03.403133+00:00",
+  "generated_at": "2026-11-12T19:20:03.470813+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -6205,7 +6205,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "RO CrdShatter PungentSmile S MD",
       "strainType": null,
@@ -6240,7 +6240,7 @@
         {
           "id": 9160709,
           "label": "1A403030000238D000109684",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-20",
           "expirationDate": "2027-08-09"
         }
@@ -10166,7 +10166,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10207,7 +10207,7 @@
         {
           "id": 9191021,
           "label": "1A4030300003522000227513",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-04-13"
         }
@@ -17592,16 +17592,17 @@
     },
     {
       "id": 9124525,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "In House Strawberry Fast Acting V3 Gummies-10mg-10",
       "brand": "In House",
       "producer": "Kind Therapeutics USA",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17644,6 +17645,13 @@
           "label": "1A4030300003522000219682",
           "quantity": 5.0,
           "packagedDate": "2026-10-13",
+          "expirationDate": "2027-09-09"
+        },
+        {
+          "id": 9262611,
+          "label": "1A4030300003522000224791",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-11",
           "expirationDate": "2027-09-09"
         }
       ],
@@ -19664,69 +19672,6 @@
       "deal": "Therapeutic Thursday! 30% off Curio Brands",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174958",
       "posCategory": "Edibles"
-    },
-    {
-      "id": 9079341,
-      "packageCount": 1,
-      "name": "Smokiez Sour Peach Sativa 10mg Medicated Chews-10mg-10",
-      "brand": "Smokiez",
-      "producer": "Curio Manufacturing",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": "Sativa",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.159,
-        "CBC": 0.002,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.005,
-        "CBGA": 0.0,
-        "CBN": 0.005,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.12,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.3,
-          "CBGA": 0.0,
-          "CBN": 0.3,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9079341,
-          "label": "1A403030000012D000272421",
-          "quantity": 2.0,
-          "packagedDate": "2026-10-01",
-          "expirationDate": "2027-08-04"
-        }
-      ],
-      "price": null,
-      "medPrice": null,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": null,
-      "posCategory": null
     },
     {
       "id": 8583753,
@@ -27441,7 +27386,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.5,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Lemon Cherry Glow Up",
       "strainType": null,
@@ -27475,7 +27420,7 @@
         {
           "id": 9229884,
           "label": "1A40303000001F5000467378",
-          "quantity": 45.5,
+          "quantity": 42.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-15"
         }
@@ -27900,7 +27845,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 38.5,
       "unit": "Grams",
       "strainName": "Blockberry",
       "strainType": null,
@@ -27932,7 +27877,7 @@
         {
           "id": 8751944,
           "label": "1A4030300002009000109421",
-          "quantity": 42.0,
+          "quantity": 38.5,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-06-26"
         }
@@ -28252,7 +28197,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 168.0,
+      "quantity": 140.0,
       "unit": "Grams",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -28285,7 +28230,7 @@
         {
           "id": 9197185,
           "label": "1A40303000000CB000057466",
-          "quantity": 168.0,
+          "quantity": 140.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-10-09"
         }
@@ -30962,7 +30907,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Chill",
       "strainType": null,
@@ -30998,7 +30943,7 @@
         {
           "id": 9079420,
           "label": "1A403030000012D000272428",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-12"
         }
@@ -31370,7 +31315,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Grams",
       "strainName": "Boston Runtz",
       "strainType": null,
@@ -31405,7 +31350,7 @@
         {
           "id": 8297058,
           "label": "1A4030300004845000014998",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-03-10",
           "expirationDate": "2027-03-05"
         }
@@ -39862,7 +39807,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 437.94,
+      "quantity": 434.44,
       "unit": "Grams",
       "strainName": "Sunshine #4",
       "strainType": null,
@@ -39896,7 +39841,7 @@
         {
           "id": 9104972,
           "label": "1A40303000001F5000456192",
-          "quantity": 437.94,
+          "quantity": 434.44,
           "packagedDate": "2026-10-07",
           "expirationDate": null
         }
@@ -55219,7 +55164,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Pineapple Delight",
       "strainType": "Sativa",
@@ -55254,7 +55199,7 @@
         {
           "id": 8809509,
           "label": "1A40303000003EA000194168",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-03",
           "expirationDate": "2027-07-10"
         }
