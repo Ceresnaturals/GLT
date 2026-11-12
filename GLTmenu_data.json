@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T20:10:02.761979+00:00",
+  "generated_at": "2026-11-12T20:20:04.642966+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7780,7 +7780,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7828,7 +7828,7 @@
         {
           "id": 9073088,
           "label": "1A40303000001F5000453091",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-08-24"
         }
@@ -7907,71 +7907,6 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9233074,
-      "packageCount": 1,
-      "name": "Keef - Pineapple X-Press - 10mg - 1",
-      "brand": null,
-      "producer": "SunMed Growers",
-      "category": "Drink",
-      "metrcCategory": "Infused Liquid Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 11.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.003,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Can",
-        "totalThcMg": 10.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9233074,
-          "label": "1A40303000001F5000467765",
-          "quantity": 11.0,
-          "packagedDate": "2026-11-05",
-          "expirationDate": "2027-09-24"
-        }
-      ],
-      "price": 8.0,
-      "medPrice": 8.0,
-      "salePrice": 5.6,
-      "medSalePrice": 5.6,
-      "deal": "SunMed 30% OFF all day (pop-up 2-4pm)",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4500794",
-      "posCategory": "Edibles"
-    },
-    {
       "id": 9233075,
       "packageCount": 1,
       "name": "Keef - Purple Passion - 10mg - 1",
@@ -7982,7 +7917,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8023,7 +7958,7 @@
         {
           "id": 9233075,
           "label": "1A40303000001F5000467766",
-          "quantity": 22.0,
+          "quantity": 16.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-24"
         }
@@ -9266,6 +9201,71 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9262604,
+      "packageCount": 1,
+      "name": "Betty's Eddies Cherry V5 Breast Cancer Awareness Fruit Chews-10mg-10",
+      "brand": "Betty's Eddies",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.153,
+        "totalCBD": 0.599,
+        "CBC": 0.07,
+        "CBDA": 0.0,
+        "CBDV": 0.002,
+        "CBG": 0.006,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 42.529,
+          "CBC": 4.97,
+          "CBDA": 0.0,
+          "CBDV": 0.142,
+          "CBG": 0.426,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9262604,
+          "label": "1A4030300003522000224778",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-10"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 18.75,
+      "medSalePrice": 18.75,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9190778,
       "packageCount": 1,
       "name": "Betty's Eddies Cherry V5 Breast Cancer Awareness Fruit Chews-40mg-10",
@@ -9331,6 +9331,71 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9262553,
+      "packageCount": 1,
+      "name": "Betty's Eddies Cranberry Orange V5 Fruit Chews Edible Product-10mg-10",
+      "brand": "Betty's Eddies",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.141,
+        "totalCBD": 0.422,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.006,
+        "CBGA": 0.0,
+        "CBN": 0.001,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 29.962,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.426,
+          "CBGA": 0.0,
+          "CBN": 0.071,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9262553,
+          "label": "1A4030300003522000224779",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-24"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 18.75,
+      "medSalePrice": 18.75,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9191002,
       "packageCount": 1,
       "name": "Betty's Eddies Lemon Agave V3 Fruit Chews-10mg-10",
@@ -9393,6 +9458,69 @@
       "medSalePrice": 15.0,
       "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174188",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9262562,
+      "packageCount": 1,
+      "name": "Betty's Eddies Lemon Agave V3 Fruit Chews-40mg-10",
+      "brand": "Betty's Eddies",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.565,
+        "CBC": 0.005,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.018,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.005
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "CBC": 0.036,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.128,
+          "CBGA": 0.0,
+          "CBN": 0.014,
+          "THCA": 0.0,
+          "THCV": 0.036
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9262562,
+          "label": "1A4030300003522000224785",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-13"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 33.75,
+      "medSalePrice": 33.75,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -9900,6 +10028,71 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9262295,
+      "packageCount": 1,
+      "name": "Betty's Eddies Raspberry Creme V3 Fruit Chews-10mg-10",
+      "brand": "Betty's Eddies",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.139,
+        "totalCBD": 0.283,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.007,
+        "CBGA": 0.0,
+        "CBN": 0.063,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 2.009,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.05,
+          "CBGA": 0.0,
+          "CBN": 0.447,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9262295,
+          "label": "1A4030300003522000224770",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-29"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": 15.0,
+      "medSalePrice": 15.0,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9124089,
       "packageCount": 1,
       "name": "Betty's Eddies Raspberry Creme V3 Fruit Chews-40mg-10",
@@ -10153,6 +10346,132 @@
       "medSalePrice": 3.75,
       "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4580926",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9262605,
+      "packageCount": 1,
+      "name": "Betty's Eddies Watermelon V3 Fruit Chews-40mg-10",
+      "brand": "Betty's Eddies",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.557,
+        "CBC": 0.004,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.022,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.039
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "CBC": 0.028,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.156,
+          "CBGA": 0.0,
+          "CBN": 0.014,
+          "THCA": 0.0,
+          "THCV": 0.277
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9262605,
+          "label": "1A4030300003522000224781",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-09-03"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 33.75,
+      "medSalePrice": 33.75,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9262609,
+      "packageCount": 1,
+      "name": "Betty's Eddies Watermelon V5 Fruit Chews-10mg-10",
+      "brand": "Betty's Eddies",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.132,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.005,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.03
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.355,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 2.13
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9262609,
+          "label": "1A4030300003522000224786",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-17"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 18.75,
+      "medSalePrice": 18.75,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -27582,7 +27901,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.5,
+      "quantity": 38.5,
       "unit": "Grams",
       "strainName": "Fresh Powder",
       "strainType": null,
@@ -27615,7 +27934,7 @@
         {
           "id": 9188462,
           "label": "1A40303000001F5000463334",
-          "quantity": 45.5,
+          "quantity": 38.5,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-16"
         }
@@ -27743,63 +28062,6 @@
       "deal": "SunMed 30% OFF all day (pop-up 2-4pm)",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4741502",
       "posCategory": "Pre-Packed Flower"
-    },
-    {
-      "id": 9168806,
-      "packageCount": 1,
-      "name": "SMG - SDG OG - Pre Ground Bud - 10g",
-      "brand": null,
-      "producer": "Sunmed Growers",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 10.0,
-      "unit": "Grams",
-      "strainName": "SDG OG",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 27.17,
-        "totalCBD": 0.22,
-        "CBDA": 0.04,
-        "CBG": 0.6,
-        "CBN": 0.03,
-        "THCA": 30.43
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.31,
-        "myrcene": 0.5,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.91,
-        "eudesmol": 0.01,
-        "beta-pinene": 0.09,
-        "limonene": 0.48,
-        "linalool": 0.18,
-        "terpinolene": 0.01,
-        "nerolidol": 0.03
-      },
-      "totalTerps": 2.73,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 9168806,
-          "label": "1A40303000001F5000462127",
-          "quantity": 10.0,
-          "packagedDate": "2026-10-21",
-          "expirationDate": "2027-10-08"
-        }
-      ],
-      "price": null,
-      "medPrice": null,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": null,
-      "posCategory": null
     },
     {
       "id": 9201614,
@@ -38672,7 +38934,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -38704,7 +38966,7 @@
         {
           "id": 9226978,
           "label": "1A40303000000CB000057886",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-09"
         }
@@ -51752,7 +52014,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Legacy Series King Louis XIII BRIQ",
       "strainType": null,
@@ -51785,7 +52047,7 @@
         {
           "id": 8908970,
           "label": "1A4030300000193000106244",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-03-16"
         }
