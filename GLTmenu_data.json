@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T23:10:02.958740+00:00",
+  "generated_at": "2026-11-12T23:20:03.066158+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2052,7 +2052,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Cinnamon Rolls LR",
       "strainType": null,
@@ -2089,7 +2089,7 @@
         {
           "id": 8998455,
           "label": "1A40303000001F5000431283",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-03-19"
         }
@@ -6972,7 +6972,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "SDG OG",
       "strainType": null,
@@ -7007,7 +7007,7 @@
         {
           "id": 9073213,
           "label": "1A40303000001F5000453110",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-06-15"
         }
@@ -7206,7 +7206,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Spritzer",
       "strainType": null,
@@ -7241,7 +7241,7 @@
         {
           "id": 8342707,
           "label": "1A40303000001F5000367297",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-04-16",
           "expirationDate": "2027-01-05"
         }
@@ -9883,7 +9883,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9924,7 +9924,7 @@
         {
           "id": 9262553,
           "label": "1A4030300003522000224779",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-24"
         }
@@ -24796,7 +24796,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 63.0,
+      "quantity": 59.5,
       "unit": "Grams",
       "strainName": "PNOG",
       "strainType": null,
@@ -24829,7 +24829,7 @@
         {
           "id": 9239109,
           "label": "1A40303000000CD000084433",
-          "quantity": 63.0,
+          "quantity": 59.5,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-10-12"
         }
@@ -25083,7 +25083,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 56.0,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Dulce de Fresca",
       "strainType": null,
@@ -25117,7 +25117,7 @@
         {
           "id": 9099009,
           "label": "1A40303000040D9000006410",
-          "quantity": 56.0,
+          "quantity": 42.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-09-06"
         }
@@ -25602,62 +25602,6 @@
       "posCategory": "Pre-Packed Flower"
     },
     {
-      "id": 9142893,
-      "packageCount": 1,
-      "name": "GLBR-EX-35",
-      "brand": null,
-      "producer": "Curio Cultivation",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "GLBR",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 31.87,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.84,
-        "CBN": 0.0,
-        "THCA": 36.34,
-        "THCV": 0.13
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.09,
-        "humulene": 0.23,
-        "myrcene": 0.41,
-        "alpha-pinene": 0.07,
-        "caryophyllene": 0.51,
-        "beta-pinene": 0.1,
-        "limonene": 0.78
-      },
-      "totalTerps": 2.37,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 9142893,
-          "label": "1A40303000000CD000083158",
-          "quantity": 3.5,
-          "packagedDate": "2026-10-15",
-          "expirationDate": "2027-09-21"
-        }
-      ],
-      "price": 45.0,
-      "medPrice": 45.0,
-      "salePrice": 31.5,
-      "medSalePrice": 31.5,
-      "deal": "Therapeutic Thursday! 30% off Curio Brands",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4586265",
-      "posCategory": "Pre-Packed Flower"
-    },
-    {
       "id": 9164279,
       "packageCount": 1,
       "name": "GMO Pre-Pack (Buds) - Rythm (Indica Dominant) - Usable - 3.5g",
@@ -26126,7 +26070,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 277.49,
+      "quantity": 273.99,
       "unit": "Grams",
       "strainName": "Headshot",
       "strainType": null,
@@ -26160,7 +26104,7 @@
         {
           "id": 8380389,
           "label": "1A4030300000709000013348",
-          "quantity": 277.49,
+          "quantity": 273.99,
           "packagedDate": "2026-04-27",
           "expirationDate": "2027-04-13"
         }
@@ -28713,7 +28657,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 49.0,
+      "quantity": 45.5,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -28747,7 +28691,7 @@
         {
           "id": 9229954,
           "label": "1A40303000001F5000467377",
-          "quantity": 49.0,
+          "quantity": 45.5,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-08-22"
         }
@@ -28771,7 +28715,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Lemon Cherry Glow Up",
       "strainType": null,
@@ -28805,7 +28749,7 @@
         {
           "id": 9229884,
           "label": "1A40303000001F5000467378",
-          "quantity": 38.5,
+          "quantity": 35.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-15"
         }
@@ -39285,7 +39229,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -39318,7 +39262,7 @@
         {
           "id": 9168514,
           "label": "1A40303000001F5000462129",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-14"
         }
@@ -41306,7 +41250,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 396.04,
+      "quantity": 392.54,
       "unit": "Grams",
       "strainName": "Watermelon Gelato TC",
       "strainType": null,
@@ -41338,7 +41282,7 @@
         {
           "id": 8998461,
           "label": "1A40303000001F5000431291",
-          "quantity": 396.04,
+          "quantity": 392.54,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -45346,7 +45290,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Berry Scary DV",
       "strainType": null,
@@ -45380,7 +45324,7 @@
         {
           "id": 9229961,
           "label": "1A40303000001F5000467391",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-08-24"
         }
@@ -54212,7 +54156,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "London Pound Cake DV",
       "strainType": null,
@@ -54246,7 +54190,7 @@
         {
           "id": 8998453,
           "label": "1A40303000001F5000431281",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-06-10"
         }
