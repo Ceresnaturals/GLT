@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T19:00:02.765615+00:00",
+  "generated_at": "2026-11-12T19:10:03.403133+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -224,7 +224,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -265,7 +265,7 @@
         {
           "id": 9124581,
           "label": "1A4030300003522000219695",
-          "quantity": 8.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-06-10"
         }
@@ -12824,7 +12824,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12865,7 +12865,7 @@
         {
           "id": 8814887,
           "label": "1A4030300000C83000080556",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-04",
           "expirationDate": "2027-06-09"
         }
@@ -13287,7 +13287,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13328,7 +13328,7 @@
         {
           "id": 8691535,
           "label": "1A4030300000C83000064688",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-07-07",
           "expirationDate": "2027-05-18"
         }
@@ -19720,13 +19720,13 @@
           "expirationDate": "2027-08-04"
         }
       ],
-      "price": 20.0,
-      "medPrice": 20.0,
-      "salePrice": 12.0,
-      "medSalePrice": 12.0,
-      "deal": "40% Off",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664601",
-      "posCategory": "Edibles"
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 8583753,
@@ -23351,7 +23351,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 73.5,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "OPBO",
       "strainType": null,
@@ -23385,7 +23385,7 @@
         {
           "id": 9239108,
           "label": "1A40303000000CD000084432",
-          "quantity": 73.5,
+          "quantity": 70.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-10-22"
         }
@@ -23409,7 +23409,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 70.0,
+      "quantity": 66.5,
       "unit": "Grams",
       "strainName": "PNOG",
       "strainType": null,
@@ -23442,7 +23442,7 @@
         {
           "id": 9239109,
           "label": "1A40303000000CD000084433",
-          "quantity": 70.0,
+          "quantity": 66.5,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-10-12"
         }
@@ -27326,7 +27326,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 49.0,
+      "quantity": 45.5,
       "unit": "Grams",
       "strainName": "Fresh Powder",
       "strainType": null,
@@ -27359,7 +27359,7 @@
         {
           "id": 9188462,
           "label": "1A40303000001F5000463334",
-          "quantity": 49.0,
+          "quantity": 45.5,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-16"
         }
@@ -29986,7 +29986,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Brownie Scout",
       "strainType": null,
@@ -30021,7 +30021,7 @@
         {
           "id": 9164141,
           "label": "1A40303000003EA000255095",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-08-18"
         }
@@ -30845,7 +30845,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Pink Mountain Kush",
       "strainType": null,
@@ -30879,7 +30879,7 @@
         {
           "id": 8769569,
           "label": "1A403030000012D000257042",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-07-23",
           "expirationDate": "2027-04-14"
         }
@@ -38630,6 +38630,63 @@
       "posCategory": "Pre-Rolls"
     },
     {
+      "id": 9197718,
+      "packageCount": 1,
+      "name": "Swampwater Fumez Pre-Roll 2 Pack 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 1.0,
+      "unit": "Each",
+      "strainName": "Swampwater Fumez",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.59,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.1,
+        "CBGA": 2.93,
+        "CBN": 0.0,
+        "THCA": 35.3,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.24,
+        "myrcene": 0.04,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.64,
+        "beta-pinene": 0.06,
+        "limonene": 0.51,
+        "linalool": 0.42
+      },
+      "totalTerps": 2.18,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9197718,
+          "label": "1A40303000000CB000057471",
+          "quantity": 1.0,
+          "packagedDate": "2026-10-28",
+          "expirationDate": "2027-09-29"
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 9146579,
       "packageCount": 1,
       "name": "Swift Lifts - Orange Pound Cake - 2.5g 5pk",
@@ -42856,7 +42913,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Baja Blue DV",
       "strainType": null,
@@ -42890,7 +42947,7 @@
         {
           "id": 9229960,
           "label": "1A40303000001F5000467390",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-03-19"
         }
@@ -43903,7 +43960,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Berry Scary DV",
       "strainType": null,
@@ -43937,7 +43994,7 @@
         {
           "id": 9229961,
           "label": "1A40303000001F5000467391",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-08-24"
         }
@@ -45460,7 +45517,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Couch Kush DV",
       "strainType": null,
@@ -45494,7 +45551,7 @@
         {
           "id": 9039606,
           "label": "1A40303000001F5000450407",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-01-22"
         }
@@ -50735,7 +50792,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Jack Herer",
       "strainType": null,
@@ -50770,7 +50827,7 @@
         {
           "id": 9188469,
           "label": "1A40303000001F5000463342",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-08-24"
         }
@@ -55505,7 +55562,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Pink Lemonade",
       "strainType": null,
@@ -55537,7 +55594,7 @@
         {
           "id": 9126343,
           "label": "1A40303000001F5000458223",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-24"
         }
@@ -55737,7 +55794,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Purple Martian DV",
       "strainType": null,
@@ -55772,18 +55829,18 @@
         {
           "id": 9105005,
           "label": "1A40303000001F5000456185",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-24"
         }
       ],
-      "price": 20.0,
-      "medPrice": 20.0,
-      "salePrice": 14.0,
-      "medSalePrice": 14.0,
-      "deal": "SunMed 30% OFF all day (pop-up 2-4pm)",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4676066",
-      "posCategory": "Cartridges"
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 8548525,
@@ -59204,7 +59261,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Super Sour Diesel DV",
       "strainType": null,
@@ -59237,7 +59294,7 @@
         {
           "id": 9104970,
           "label": "1A40303000001F5000456187",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-07-24"
         }
@@ -60202,5 +60259,5 @@
     }
   ],
   "priceNote": "Prices shown are estimates. The register has the final price.",
-  "pricesUpdatedAt": "2026-11-12T18:00:03.359946+00:00"
+  "pricesUpdatedAt": "2026-11-12T19:10:03.403910+00:00"
 }
