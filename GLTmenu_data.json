@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T21:30:02.395757+00:00",
+  "generated_at": "2026-11-12T21:40:06.702629+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -276,6 +276,71 @@
       "medSalePrice": 15.0,
       "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4494964",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9262612,
+      "packageCount": 1,
+      "name": "NH RSO V1-50mg-20",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Capsule",
+      "metrcCategory": "Infused Edible (Capsule Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 9.21,
+        "totalCBD": 0.03,
+        "CBC": 0.11,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.4,
+        "CBGA": 0.0,
+        "CBN": 0.09,
+        "THCA": 0.0,
+        "THCV": 0.05
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 1000.0,
+        "thcMgPerServing": 50.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.15,
+          "CBC": 0.55,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 2.0,
+          "CBGA": 0.0,
+          "CBN": 0.45,
+          "THCA": 0.0,
+          "THCV": 0.25
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9262612,
+          "label": "1A4030300003522000224793",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-08-26"
+        }
+      ],
+      "price": 80.0,
+      "medPrice": 80.0,
+      "salePrice": 60.0,
+      "medSalePrice": 60.0,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -4934,6 +4999,122 @@
       "posCategory": "Concentrate"
     },
     {
+      "id": 9262572,
+      "packageCount": 1,
+      "name": "NH Chimax Kief-1g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Chimax",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.11,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.92,
+        "CBN": 0.0,
+        "THCA": 32.5,
+        "THCV": 0.2
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.16,
+        "humulene": 0.11,
+        "myrcene": 0.14,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.29,
+        "eudesmol": 0.19,
+        "beta-pinene": 0.05,
+        "limonene": 0.28,
+        "linalool": 0.23
+      },
+      "totalTerps": 1.83,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9262572,
+          "label": "1A4030300003522000224797",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-08-23"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Kief"
+    },
+    {
+      "id": 9262570,
+      "packageCount": 1,
+      "name": "NH Chocolatina Bubble Hash-1g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Chocolatina",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 58.36,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.99,
+        "CBN": 0.0,
+        "THCA": 62.41,
+        "THCV": 0.36
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.32,
+        "humulene": 0.41,
+        "myrcene": 0.7,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 1.03,
+        "beta-pinene": 0.12,
+        "limonene": 1.17,
+        "linalool": 0.91,
+        "terpinolene": 0.07
+      },
+      "totalTerps": 5.39,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9262570,
+          "label": "1A4030300003522000224795",
+          "quantity": 20.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-26"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Hash"
+    },
+    {
       "id": 8211388,
       "packageCount": 1,
       "name": "NH Chocolatina Live Budder-1g",
@@ -5164,6 +5345,63 @@
       "posCategory": "Concentrate"
     },
     {
+      "id": 9262571,
+      "packageCount": 1,
+      "name": "NH Guava IX Kief-1g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Guava IX",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 35.06,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.14,
+        "CBN": 0.0,
+        "THCA": 36.17,
+        "THCV": 0.27
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.22,
+        "humulene": 0.34,
+        "myrcene": 0.5,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.89,
+        "beta-pinene": 0.05,
+        "limonene": 0.42,
+        "linalool": 0.18
+      },
+      "totalTerps": 2.85,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9262571,
+          "label": "1A4030300003522000224796",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-31"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Kief"
+    },
+    {
       "id": 8882394,
       "packageCount": 1,
       "name": "NH Lamb's Bread Kief-1g",
@@ -5215,6 +5453,63 @@
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4721668",
       "posCategory": "Kief"
+    },
+    {
+      "id": 9262613,
+      "packageCount": 1,
+      "name": "NH Lamb's Bread Live Sugar-1g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Lamb's Bread",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 74.69,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.73,
+        "CBN": 0.0,
+        "THCA": 76.44,
+        "THCV": 0.51
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.39,
+        "myrcene": 1.45,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 1.05,
+        "beta-pinene": 0.06,
+        "limonene": 0.34,
+        "linalool": 0.17,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 3.79,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9262613,
+          "label": "1A4030300003522000224799",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-05-03"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Concentrate"
     },
     {
       "id": 8996314,
@@ -5555,6 +5850,177 @@
       "posCategory": "Hash"
     },
     {
+      "id": 9262614,
+      "packageCount": 1,
+      "name": "NH Lilac Diesel Live Sugar-1g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Lilac Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 69.61,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.22,
+        "CBN": 0.0,
+        "THCA": 77.13,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.24,
+        "humulene": 0.38,
+        "myrcene": 0.58,
+        "alpha-pinene": 0.21,
+        "caryophyllene": 1.42,
+        "beta-pinene": 0.24,
+        "ocimene": 1.18,
+        "limonene": 0.33,
+        "terpinolene": 2.72
+      },
+      "totalTerps": 7.86,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9262614,
+          "label": "1A4030300003522000224800",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-07-05"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Concentrate"
+    },
+    {
+      "id": 9262575,
+      "packageCount": 1,
+      "name": "NH Lilac Diesel RSO-1ml",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Lilac Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 78.57,
+        "CBC": 0.66,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 7.97,
+        "CBGA": 0.0,
+        "CBN": 0.3,
+        "THCA": 0.0,
+        "THCV": 0.53
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.29,
+        "humulene": 0.29,
+        "caryophyllene": 1.03,
+        "ocimene": 0.14,
+        "limonene": 0.05,
+        "linalool": 0.14,
+        "terpinolene": 0.28
+      },
+      "totalTerps": 2.61,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9262575,
+          "label": "1A4030300003522000224802",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-08-30"
+        }
+      ],
+      "price": 50.0,
+      "medPrice": 50.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Concentrate"
+    },
+    {
+      "id": 9262573,
+      "packageCount": 1,
+      "name": "NH ONYCD 3.0 Live Rosin-1g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "ONYCD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 68.63,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.55,
+        "CBN": 0.0,
+        "THCA": 78.25,
+        "THCV": 0.42
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.23,
+        "humulene": 1.1,
+        "myrcene": 1.39,
+        "alpha-pinene": 0.16,
+        "caryophyllene": 3.64,
+        "beta-pinene": 0.25,
+        "limonene": 1.86,
+        "terpinolene": 0.03
+      },
+      "totalTerps": 8.99,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9262573,
+          "label": "1A4030300003522000224798",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-17"
+        }
+      ],
+      "price": 55.0,
+      "medPrice": 55.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Concentrate"
+    },
+    {
       "id": 9190794,
       "packageCount": 2,
       "name": "NH Orange Chemeleon Kief-1g",
@@ -5676,6 +6142,66 @@
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4684101",
       "posCategory": "Kief"
+    },
+    {
+      "id": 9262574,
+      "packageCount": 1,
+      "name": "NH Strawberry Jelly Live Badder-1g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Strawberry Jelly",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 65.91,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 4.77,
+        "CBN": 0.0,
+        "THCA": 73.64,
+        "THCV": 0.6
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.35,
+        "humulene": 0.63,
+        "myrcene": 2.6,
+        "alpha-pinene": 0.14,
+        "caryophyllene": 2.08,
+        "eudesmol": 0.73,
+        "beta-pinene": 0.22,
+        "ocimene": 0.06,
+        "limonene": 1.89,
+        "linalool": 0.35,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 9.1,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9262574,
+          "label": "1A4030300003522000224801",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-06-20"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Concentrate"
     },
     {
       "id": 8996318,
@@ -10044,6 +10570,71 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9262564,
+      "packageCount": 1,
+      "name": "Betty's Eddies Raspberry Creme Fruit Chews-10mg-2",
+      "brand": "Betty's Eddies",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.142,
+        "totalCBD": 0.284,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.007,
+        "CBGA": 0.0,
+        "CBN": 0.062,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 20.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 10.082,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.249,
+          "CBGA": 0.0,
+          "CBN": 2.201,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9262564,
+          "label": "1A4030300003522000224787",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-29"
+        }
+      ],
+      "price": 5.0,
+      "medPrice": 5.0,
+      "salePrice": 3.75,
+      "medSalePrice": 3.75,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9262295,
       "packageCount": 1,
       "name": "Betty's Eddies Raspberry Creme V3 Fruit Chews-10mg-10",
@@ -10302,17 +10893,83 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9124095,
+      "id": 9262561,
       "packageCount": 1,
+      "name": "Betty's Eddies Tropical Smoothie Fruit Chews-10mg-2",
+      "brand": "Betty's Eddies",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.137,
+        "totalCBD": 0.437,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.004,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 20.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 31.027,
+          "CBC": 0.142,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.284,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9262561,
+          "label": "1A4030300003522000224784",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-29"
+        }
+      ],
+      "price": 5.0,
+      "medPrice": 5.0,
+      "salePrice": 3.75,
+      "medSalePrice": 3.75,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9124095,
+      "packageCount": 2,
       "name": "Betty's Eddies Watermelon Fruit Chews-10mg-2",
       "brand": "Betty's Eddies",
       "producer": "Kind Therapeutics USA",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10354,6 +11011,13 @@
           "quantity": 1.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-12"
+        },
+        {
+          "id": 9262557,
+          "label": "1A4030300003522000224780",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-30"
         }
       ],
       "price": 5.0,
@@ -25525,7 +26189,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 287.99,
+      "quantity": 284.49,
       "unit": "Grams",
       "strainName": "Headshot",
       "strainType": null,
@@ -25559,7 +26223,7 @@
         {
           "id": 8380389,
           "label": "1A4030300000709000013348",
-          "quantity": 287.99,
+          "quantity": 284.49,
           "packagedDate": "2026-04-27",
           "expirationDate": "2027-04-13"
         }
@@ -30597,7 +31261,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Blueberry Crumb Cake 5",
       "strainType": null,
@@ -30629,7 +31293,7 @@
         {
           "id": 9128368,
           "label": "1A40303000000CB000056052",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-04"
         }
@@ -31456,7 +32120,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "Gas Face",
       "strainType": null,
@@ -31491,7 +32155,7 @@
         {
           "id": 9236824,
           "label": "1A403030000012D000278758",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-21"
         }
@@ -33186,6 +33850,65 @@
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4741795",
       "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 9262577,
+      "packageCount": 1,
+      "name": "In House Kiwi Berry Drip-.75g",
+      "brand": "In House",
+      "producer": "Kind Therapeutics USA",
+      "category": "Pre-Roll",
+      "metrcCategory": "Infused Joints",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Kiwi Berry Drip",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 37.44,
+        "CBC": 0.22,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.48,
+        "CBGA": 0.46,
+        "CBN": 0.11,
+        "THCA": 9.89,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.04,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.17,
+        "beta-pinene": 0.04,
+        "ocimene": 0.06,
+        "limonene": 0.18,
+        "linalool": 0.1,
+        "terpinolene": 0.09
+      },
+      "totalTerps": 0.96,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9262577,
+          "label": "1A4030300003522000224805",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-29"
+        }
+      ],
+      "price": 15.0,
+      "medPrice": 15.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
       "id": 8289224,
@@ -35762,6 +36485,119 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
+      "id": 9262529,
+      "packageCount": 1,
+      "name": "NH Animal Mint Cookies Preroll-Usable-.5g 2pk",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Grams",
+      "strainName": "Animal Mint Cookies",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.34,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.03,
+        "CBN": 0.0,
+        "THCA": 27.77,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.41,
+        "beta-pinene": 0.03,
+        "limonene": 0.19,
+        "linalool": 0.23
+      },
+      "totalTerps": 1.2,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9262529,
+          "label": "1A4030300003521000061248",
+          "quantity": 24.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-09-03"
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 9262532,
+      "packageCount": 1,
+      "name": "NH Cheese .5g-1g 2pk-Multi",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Grams",
+      "strainName": "Cheese",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 23.84,
+        "totalCBD": 0.088,
+        "CBC": 0.0,
+        "CBDA": 0.1,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.74,
+        "CBN": 0.0,
+        "THCA": 26.85,
+        "THCV": 0.08
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.12,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.3,
+        "beta-pinene": 0.04,
+        "limonene": 0.28,
+        "linalool": 0.11,
+        "nerolidol": 0.04
+      },
+      "totalTerps": 1.16,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9262532,
+          "label": "1A4030300003521000061250",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-09"
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 8040613,
       "packageCount": 1,
       "name": "NH Cheese Infused Preroll-1g",
@@ -36049,6 +36885,63 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174772",
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 9262531,
+      "packageCount": 1,
+      "name": "NH Larry Bird Mints .5g-1g 2pk-Multi",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Grams",
+      "strainName": "Larry Bird Mints",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.25,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.94,
+        "CBN": 0.0,
+        "THCA": 24.02,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.2,
+        "myrcene": 0.04,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.85,
+        "beta-pinene": 0.03,
+        "limonene": 0.25,
+        "linalool": 0.12,
+        "nerolidol": 0.06
+      },
+      "totalTerps": 1.74,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9262531,
+          "label": "1A4030300003521000061249",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-09"
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Pre-Rolls"
     },
     {
@@ -43702,7 +44595,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Banana Munson",
       "strainType": null,
@@ -43737,7 +44630,7 @@
         {
           "id": 9188468,
           "label": "1A40303000001F5000463341",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-08-24"
         }
@@ -44632,7 +45525,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": "Berry Scary DV",
       "strainType": null,
@@ -44666,7 +45559,7 @@
         {
           "id": 9229961,
           "label": "1A40303000001F5000467391",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-08-24"
         }
@@ -57201,65 +58094,6 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4727890",
-      "posCategory": "Cartridges"
-    },
-    {
-      "id": 9126268,
-      "packageCount": 1,
-      "name": "Rocket Pop DV 1.0g/1000mg",
-      "brand": null,
-      "producer": "SunMed Growers",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Rocket Pop DV",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 82.7,
-        "totalCBD": 0.2,
-        "CBC": 1.26,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.65,
-        "CBGA": 0.0,
-        "CBN": 0.21,
-        "THCA": 0.0,
-        "THCV": 0.94
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.04,
-        "myrcene": 1.59,
-        "alpha-pinene": 0.52,
-        "caryophyllene": 1.1,
-        "beta-pinene": 0.9,
-        "ocimene": 0.01,
-        "limonene": 1.66,
-        "linalool": 0.77,
-        "terpinolene": 0.4
-      },
-      "totalTerps": 8.98,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 9126268,
-          "label": "1A40303000001F5000458222",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-13",
-          "expirationDate": "2027-07-14"
-        }
-      ],
-      "price": 40.0,
-      "medPrice": 40.0,
-      "salePrice": 28.0,
-      "medSalePrice": 28.0,
-      "deal": "SunMed 30% OFF all day (pop-up 2-4pm)",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4674642",
       "posCategory": "Cartridges"
     },
     {
