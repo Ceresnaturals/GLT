@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T15:50:02.312193+00:00",
+  "generated_at": "2026-11-13T16:00:02.783563+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -355,7 +355,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 30.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -408,7 +408,7 @@
         {
           "id": 9051791,
           "label": "1A4030300000193000108908",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-25",
           "expirationDate": "2027-08-25"
         }
@@ -5465,7 +5465,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Lamb's Bread",
       "strainType": null,
@@ -5498,7 +5498,7 @@
         {
           "id": 9262613,
           "label": "1A4030300003522000224799",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-05-03"
         }
@@ -8184,7 +8184,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 30.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8232,7 +8232,7 @@
         {
           "id": 9073087,
           "label": "1A40303000001F5000453090",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-08-21"
         }
@@ -12380,7 +12380,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12419,7 +12419,7 @@
         {
           "id": 9047760,
           "label": "1A403030000012D000267869",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-07-29"
         }
@@ -12507,7 +12507,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 33.0,
+      "quantity": 31.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12553,7 +12553,7 @@
         {
           "id": 9013416,
           "label": "1A403030000012D000267199",
-          "quantity": 9.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-17",
           "expirationDate": "2027-07-30"
         }
@@ -12640,7 +12640,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12679,7 +12679,7 @@
         {
           "id": 9047759,
           "label": "1A403030000012D000267868",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-07-15"
         }
@@ -13989,71 +13989,6 @@
       "medSalePrice": 24.0,
       "deal": "40% Off",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4705105",
-      "posCategory": "Edibles"
-    },
-    {
-      "id": 8723652,
-      "packageCount": 1,
-      "name": "Discos - Pineapple Passion Fruit 1:1 (CBD:THC) - 10mg - 10",
-      "brand": null,
-      "producer": "Evermore Cannabis",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.15,
-        "totalCBD": 0.15,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 each, 10 servings per package",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.9,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8723652,
-          "label": "1A4030300000C83000064895",
-          "quantity": 3.0,
-          "packagedDate": "2026-07-14",
-          "expirationDate": "2027-04-28"
-        }
-      ],
-      "price": 20.0,
-      "medPrice": 20.0,
-      "salePrice": 12.0,
-      "medSalePrice": 12.0,
-      "deal": "40% Off",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4622772",
       "posCategory": "Edibles"
     },
     {
@@ -20846,7 +20781,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20887,7 +20822,7 @@
         {
           "id": 8787116,
           "label": "1A4030300000193000102919",
-          "quantity": 13.0,
+          "quantity": 10.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-06-03"
         }
@@ -24714,7 +24649,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 49.0,
+      "quantity": 45.5,
       "unit": "Grams",
       "strainName": "OPBO",
       "strainType": null,
@@ -24748,7 +24683,7 @@
         {
           "id": 9239108,
           "label": "1A40303000000CD000084432",
-          "quantity": 49.0,
+          "quantity": 45.5,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-10-22"
         }
@@ -25471,7 +25406,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Funky Guava",
       "strainType": null,
@@ -25504,7 +25439,7 @@
         {
           "id": 9197180,
           "label": "1A40303000000CB000057461",
-          "quantity": 38.5,
+          "quantity": 35.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-10-19"
         }
@@ -28747,7 +28682,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.5,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -28781,7 +28716,7 @@
         {
           "id": 9229954,
           "label": "1A40303000001F5000467377",
-          "quantity": 45.5,
+          "quantity": 42.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-08-22"
         }
@@ -29562,7 +29497,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 189.0,
+      "quantity": 185.5,
       "unit": "Grams",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -29594,7 +29529,7 @@
         {
           "id": 9226953,
           "label": "1A40303000000CB000057878",
-          "quantity": 189.0,
+          "quantity": 185.5,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-09"
         }
@@ -55150,7 +55085,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": "Northern Lights",
       "strainType": null,
@@ -55185,7 +55120,7 @@
         {
           "id": 9233561,
           "label": "1A403030000283D000063178",
-          "quantity": 29.0,
+          "quantity": 28.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-10-30"
         }
@@ -58798,7 +58733,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": "Maui Wowie",
       "strainType": "Sativa",
@@ -58832,7 +58767,7 @@
         {
           "id": 9233703,
           "label": "1A40303000003EA000176071",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-08-21"
         }
