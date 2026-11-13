@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T17:20:07.067226+00:00",
+  "generated_at": "2026-11-13T17:30:04.600940+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2644,65 +2644,6 @@
       "medSalePrice": 27.0,
       "deal": "40% Off",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4671184",
-      "posCategory": "Concentrate"
-    },
-    {
-      "id": 8541273,
-      "packageCount": 1,
-      "name": "Fade Co | Concentrate | Live Badder | Grape Do-Si - 1g",
-      "brand": "Fade Co",
-      "producer": "Seven Points Agro-Therapeutics",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Grape Do Si",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 75.35,
-        "totalCBD": 0.14,
-        "CBC": 0.0,
-        "CBDA": 0.16,
-        "CBDV": 0.0,
-        "CBG": 0.09,
-        "CBGA": 3.06,
-        "CBN": 0.0,
-        "THCA": 84.97,
-        "THCV": 0.48
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.03,
-        "humulene": 0.22,
-        "myrcene": 0.97,
-        "alpha-pinene": 0.26,
-        "caryophyllene": 0.56,
-        "beta-pinene": 0.22,
-        "limonene": 1.37,
-        "linalool": 1.43,
-        "terpinolene": 0.03
-      },
-      "totalTerps": 5.54,
-      "dominantTerpene": "linalool",
-      "packages": [
-        {
-          "id": 8541273,
-          "label": "1A4030300004845000025718",
-          "quantity": 1.0,
-          "packagedDate": "2026-05-21",
-          "expirationDate": "2027-05-19"
-        }
-      ],
-      "price": 45.0,
-      "medPrice": 45.0,
-      "salePrice": 27.0,
-      "medSalePrice": 27.0,
-      "deal": "40% Off",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4700679",
       "posCategory": "Concentrate"
     },
     {
@@ -8715,17 +8656,18 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9126325,
-      "packageCount": 1,
+      "id": 9266458,
+      "packageCount": 2,
       "name": "Sunnies Socials - Peach Sparkling Water -10mg -1",
       "brand": "Sunnies",
       "producer": "SunMed Growers",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 33.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8763,6 +8705,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9266458,
+          "label": "1A40303000001F5000476183",
+          "quantity": 24.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-14"
+        },
         {
           "id": 9126325,
           "label": "1A40303000001F5000458207",
@@ -11230,7 +11179,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11271,7 +11220,7 @@
         {
           "id": 9190783,
           "label": "1A4030300003522000227514",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-04-06"
         }
@@ -11360,7 +11309,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11401,7 +11350,7 @@
         {
           "id": 9124508,
           "label": "1A4030300003522000219676",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-03-15"
         }
@@ -11555,7 +11504,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11596,7 +11545,7 @@
         {
           "id": 9190786,
           "label": "1A4030300003522000227516",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-04-02"
         }
@@ -13538,17 +13487,16 @@
     },
     {
       "id": 9004507,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Disco Milk Chocolate (Fel) - 40mg - 10",
       "brand": "Disco",
       "producer": "Evermore Cannabis",
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13592,13 +13540,6 @@
           "quantity": 25.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-08-06"
-        },
-        {
-          "id": 8793246,
-          "label": "1A4030300000C83000080429",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-29",
-          "expirationDate": "2027-01-29"
         }
       ],
       "price": 40.0,
@@ -24095,7 +24036,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 108.5,
+      "quantity": 105.0,
       "unit": "Grams",
       "strainName": "Baby Turtle",
       "strainType": null,
@@ -24128,7 +24069,7 @@
         {
           "id": 8647960,
           "label": "1A40303000000C9000160843",
-          "quantity": 108.5,
+          "quantity": 105.0,
           "packagedDate": "2026-06-25",
           "expirationDate": "2027-06-21"
         }
@@ -24152,7 +24093,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 63.0,
+      "quantity": 49.0,
       "unit": "Grams",
       "strainName": "Banana Puddintain",
       "strainType": null,
@@ -24185,7 +24126,7 @@
         {
           "id": 9229882,
           "label": "1A40303000001F5000467376",
-          "quantity": 63.0,
+          "quantity": 49.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-05-20"
         }
@@ -25237,7 +25178,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 56.0,
+      "quantity": 52.5,
       "unit": "Grams",
       "strainName": "Cadillac Rainbows",
       "strainType": null,
@@ -25271,7 +25212,7 @@
         {
           "id": 9117290,
           "label": "1A4030300004845000048445",
-          "quantity": 56.0,
+          "quantity": 52.5,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-08-06"
         }
@@ -27028,7 +26969,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 427.23,
+      "quantity": 423.73,
       "unit": "Grams",
       "strainName": "Lava Lamp",
       "strainType": null,
@@ -27063,7 +27004,7 @@
         {
           "id": 8382209,
           "label": "1A4030300000709000048080",
-          "quantity": 427.23,
+          "quantity": 423.73,
           "packagedDate": "2026-04-27",
           "expirationDate": "2027-04-03"
         }
@@ -29265,7 +29206,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 434.0,
+      "quantity": 420.0,
       "unit": "Grams",
       "strainName": "Private Reserve OG",
       "strainType": null,
@@ -29302,7 +29243,7 @@
         {
           "id": 9167885,
           "label": "1A4030300002009000119448",
-          "quantity": 434.0,
+          "quantity": 420.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-08-20"
         }
@@ -29505,7 +29446,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 182.0,
+      "quantity": 178.5,
       "unit": "Grams",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -29537,7 +29478,7 @@
         {
           "id": 9226953,
           "label": "1A40303000000CB000057878",
-          "quantity": 182.0,
+          "quantity": 178.5,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-09"
         }
@@ -30305,7 +30246,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Raw Prerolls",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 20.0,
       "unit": "Each",
@@ -33660,7 +33601,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Raw Prerolls",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 16.0,
       "unit": "Each",
@@ -37888,7 +37829,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Ray Charles",
       "strainType": null,
@@ -37921,7 +37862,7 @@
         {
           "id": 9170909,
           "label": "1A4030300000192000045355",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-10-22",
           "expirationDate": "2027-09-20"
         }
@@ -50203,7 +50144,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "NYC Diesel",
       "strainType": null,
@@ -50237,7 +50178,7 @@
         {
           "id": 8490802,
           "label": "1A4030300002009000102673",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-05-21",
           "expirationDate": "2027-01-20"
         }
@@ -61053,7 +60994,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Watermelon",
       "strainType": "Hybrid",
@@ -61087,7 +61028,7 @@
         {
           "id": 8248155,
           "label": "1A40303000003EA000160578",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-03-26",
           "expirationDate": "2027-01-14"
         }
