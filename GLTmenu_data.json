@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T21:20:03.173639+00:00",
+  "generated_at": "2026-11-13T21:30:04.443469+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -6553,6 +6553,64 @@
       "posCategory": "Concentrate"
     },
     {
+      "id": 9246405,
+      "packageCount": 1,
+      "name": "RO-CrdBudder-1g-BlueBeachHaze-S-MD (261007MED108861)",
+      "brand": null,
+      "producer": "Trulieve MD Processing",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "RO CrdBudder BlueBeachHaze S MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 72.33,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.86,
+        "CBN": 0.0,
+        "THCA": 82.48,
+        "THCV": 0.47
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.43,
+        "humulene": 0.63,
+        "myrcene": 2.17,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 1.82,
+        "beta-pinene": 0.06,
+        "ocimene": 0.2,
+        "limonene": 0.4,
+        "linalool": 0.59
+      },
+      "totalTerps": 6.72,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9246405,
+          "label": "1A403030000238D000110915",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-09",
+          "expirationDate": "2027-10-10"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Concentrate"
+    },
+    {
       "id": 8968830,
       "packageCount": 1,
       "name": "RO-CrdBudder-1g-PungentSmile-S-MD (260805MED106000)",
@@ -6609,6 +6667,63 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4727524",
+      "posCategory": "Concentrate"
+    },
+    {
+      "id": 9246316,
+      "packageCount": 1,
+      "name": "RO-CrdShatter-1g-GMOLato-H-MD (261007MED108853)",
+      "brand": null,
+      "producer": "Trulieve MD Processing",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "RO CrdShatter GMOLato H MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 71.66,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.11,
+        "CBN": 0.0,
+        "THCA": 81.71,
+        "THCV": 0.42
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.15,
+        "humulene": 1.33,
+        "myrcene": 0.81,
+        "alpha-pinene": 0.3,
+        "caryophyllene": 3.61,
+        "beta-pinene": 0.3,
+        "limonene": 1.78,
+        "terpinolene": 0.07
+      },
+      "totalTerps": 8.53,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9246316,
+          "label": "1A403030000238D000110916",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-09",
+          "expirationDate": "2027-10-10"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Concentrate"
     },
     {
@@ -17875,7 +17990,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -17916,7 +18031,7 @@
         {
           "id": 9167884,
           "label": "1A4030300002009000119444",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-05-23"
         }
@@ -24294,7 +24409,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 66.5,
+      "quantity": 63.0,
       "unit": "Grams",
       "strainName": "Blappin Berries",
       "strainType": null,
@@ -24316,7 +24431,7 @@
         {
           "id": 8321366,
           "label": "1A40303000046B5000000333",
-          "quantity": 66.5,
+          "quantity": 63.0,
           "packagedDate": "2026-04-13",
           "expirationDate": "2027-03-24"
         }
@@ -28664,7 +28779,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 252.0,
+      "quantity": 224.0,
       "unit": "Grams",
       "strainName": "Banana Puddintain",
       "strainType": null,
@@ -28695,7 +28810,7 @@
         {
           "id": 9229955,
           "label": "1A40303000001F5000467379",
-          "quantity": 252.0,
+          "quantity": 224.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-09-18"
         }
@@ -29461,7 +29576,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.5,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Blockberry",
       "strainType": null,
@@ -29493,7 +29608,7 @@
         {
           "id": 8751944,
           "label": "1A4030300002009000109421",
-          "quantity": 31.5,
+          "quantity": 28.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-06-26"
         }
@@ -32987,7 +33102,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Grams",
       "strainName": "Boston Runtz",
       "strainType": null,
@@ -33022,7 +33137,7 @@
         {
           "id": 8297058,
           "label": "1A4030300004845000014998",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-03-10",
           "expirationDate": "2027-03-05"
         }
@@ -34029,7 +34144,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -34062,7 +34177,7 @@
         {
           "id": 9226962,
           "label": "1A40303000000CB000057880",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-08-11"
         }
@@ -35861,7 +35976,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Grams",
       "strainName": "Cherry Chem",
       "strainType": null,
@@ -35894,7 +36009,7 @@
         {
           "id": 8368831,
           "label": "1A40303000007D1000075529",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-04-23",
           "expirationDate": "2027-04-05"
         }
@@ -49537,7 +49652,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Flavor Series Fruit Bedrock BRIQ",
       "strainType": null,
@@ -49570,7 +49685,7 @@
         {
           "id": 8908840,
           "label": "1A4030300000193000106243",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-03-23"
         }
@@ -55810,7 +55925,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 12.0,
       "unit": "Each",
@@ -57691,6 +57806,118 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 9246315,
+      "packageCount": 1,
+      "name": "RO-BDTCart-.5g-9lbHammer-I-MD (260827MED106761)-Vape",
+      "brand": null,
+      "producer": "Trulieve MD Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "RO BDTCart . 9lbHammer I MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.64,
+        "CBC": 1.05,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.3,
+        "CBGA": 0.0,
+        "CBN": 0.15,
+        "THCA": 0.0,
+        "THCV": 1.42
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.33,
+        "humulene": 0.22,
+        "myrcene": 1.06,
+        "alpha-pinene": 1.53,
+        "caryophyllene": 0.88,
+        "beta-pinene": 0.49,
+        "limonene": 0.34,
+        "linalool": 0.16,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 5.29,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9246315,
+          "label": "1A403030000238D000110911",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-09",
+          "expirationDate": "2027-09-01"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9246402,
+      "packageCount": 1,
+      "name": "RO-BDTCart-.5g-AcapulcoGold-S-MD (260916MED107556)-Vape",
+      "brand": null,
+      "producer": "Trulieve MD Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "RO BDTCart . AcapulcoGold S MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.61,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.32,
+        "CBGA": 0.0,
+        "CBN": 0.21,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.28,
+        "humulene": 0.81,
+        "caryophyllene": 2.38,
+        "limonene": 0.33,
+        "linalool": 0.66
+      },
+      "totalTerps": 4.46,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9246402,
+          "label": "1A403030000238D000110912",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-09",
+          "expirationDate": "2027-09-22"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 8548525,
       "packageCount": 1,
       "name": "RO-BDTCart-.5g-BubbaKush-I-MD (260526MED100880)-Vape",
@@ -57747,6 +57974,64 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4554851",
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9246403,
+      "packageCount": 1,
+      "name": "RO-BDTCart-.5g-GG#4-H-MD (260908MED107238)-Vape",
+      "brand": null,
+      "producer": "Trulieve MD Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "RO BDTCart . GG H MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 89.65,
+        "CBC": 0.79,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.08,
+        "CBGA": 0.0,
+        "CBN": 0.14,
+        "THCA": 0.0,
+        "THCV": 0.92
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.36,
+        "humulene": 0.3,
+        "myrcene": 0.71,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 2.16,
+        "beta-pinene": 0.11,
+        "limonene": 0.8,
+        "linalool": 0.16,
+        "nerolidol": 0.19
+      },
+      "totalTerps": 5.07,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9246403,
+          "label": "1A403030000238D000110913",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-09",
+          "expirationDate": "2027-09-13"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Cartridges"
     },
     {
@@ -58035,6 +58320,63 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4208126",
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9246404,
+      "packageCount": 1,
+      "name": "RO-BDTCart-1g-GranddaddyPurpl-I-MD (260901MED107060)-Vape",
+      "brand": null,
+      "producer": "Trulieve MD Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "RO BDTCart GranddaddyPurpl I MD",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 88.26,
+        "CBC": 0.96,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.55,
+        "CBGA": 0.0,
+        "CBN": 0.16,
+        "THCA": 0.0,
+        "THCV": 0.96
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.25,
+        "humulene": 0.28,
+        "myrcene": 0.9,
+        "alpha-pinene": 0.43,
+        "caryophyllene": 0.88,
+        "beta-pinene": 0.27,
+        "limonene": 0.31,
+        "linalool": 0.26
+      },
+      "totalTerps": 3.71,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9246404,
+          "label": "1A403030000238D000110914",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-09",
+          "expirationDate": "2027-09-06"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Cartridges"
     },
     {
