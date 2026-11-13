@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T15:10:02.177323+00:00",
+  "generated_at": "2026-11-13T15:20:03.197411+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -24486,7 +24486,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 168.0,
+      "quantity": 140.0,
       "unit": "Grams",
       "strainName": "Brr Berry",
       "strainType": null,
@@ -24520,7 +24520,7 @@
         {
           "id": 9023691,
           "label": "1A40303000000C9000171636",
-          "quantity": 168.0,
+          "quantity": 140.0,
           "packagedDate": "2026-09-21",
           "expirationDate": "2027-09-15"
         }
@@ -48385,64 +48385,6 @@
       "posCategory": "Cartridges"
     },
     {
-      "id": 9002400,
-      "packageCount": 1,
-      "name": "Fade Co | Vape | Live Resin | Boston Runtz - 1g",
-      "brand": "Fade Co",
-      "producer": "Seven Points Agro-Therapeutics",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": "Boston Runtz",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 75.25,
-        "totalCBD": 0.22,
-        "CBC": 0.63,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.86,
-        "CBGA": 0.0,
-        "CBN": 0.23,
-        "THCA": 0.0,
-        "THCV": 0.5
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.43,
-        "myrcene": 3.26,
-        "alpha-pinene": 2.5,
-        "caryophyllene": 1.68,
-        "beta-pinene": 0.63,
-        "limonene": 1.83,
-        "linalool": 0.55,
-        "terpinolene": 0.07
-      },
-      "totalTerps": 11.42,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 9002400,
-          "label": "1A4030300004845000044237",
-          "quantity": 2.0,
-          "packagedDate": "2026-05-04",
-          "expirationDate": "2027-05-04"
-        }
-      ],
-      "price": 65.0,
-      "medPrice": 65.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4729079",
-      "posCategory": "Cartridges"
-    },
-    {
       "id": 8758265,
       "packageCount": 1,
       "name": "Fade Co | Vape | Live Resin | Dankarooz - 1g",
@@ -48562,66 +48504,6 @@
       "posCategory": "Cartridges"
     },
     {
-      "id": 8946716,
-      "packageCount": 1,
-      "name": "Fade Co | Vape | Live Resin | Maui Wowie - 1g",
-      "brand": "Fade Co",
-      "producer": "Seven Points Agro-Therapeutics",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Maui Wowie",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 80.15,
-        "totalCBD": 0.2,
-        "CBC": 1.37,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.13,
-        "CBGA": 0.0,
-        "CBN": 0.19,
-        "THCA": 0.0,
-        "THCV": 0.28
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.13,
-        "myrcene": 2.59,
-        "alpha-pinene": 1.83,
-        "caryophyllene": 0.55,
-        "beta-pinene": 0.61,
-        "caryophyllene-oxide": 0.03,
-        "ocimene": 0.02,
-        "limonene": 1.16,
-        "linalool": 0.6,
-        "terpinolene": 0.03
-      },
-      "totalTerps": 7.93,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8946716,
-          "label": "1A4030300004845000041486",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-26",
-          "expirationDate": "2027-08-26"
-        }
-      ],
-      "price": 65.0,
-      "medPrice": 65.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4726373",
-      "posCategory": "Cartridges"
-    },
-    {
       "id": 8881944,
       "packageCount": 1,
       "name": "Fade Co | Vape | Live Resin | Shaved Monkey - 1g",
@@ -48632,7 +48514,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Shaved Monkey",
       "strainType": null,
@@ -48668,7 +48550,7 @@
         {
           "id": 8881944,
           "label": "1A4030300004845000039297",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-08-10",
           "expirationDate": "2027-08-06"
         }
