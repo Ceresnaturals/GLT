@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T18:40:02.861493+00:00",
+  "generated_at": "2026-11-13T18:50:03.967422+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7137,65 +7137,6 @@
       "posCategory": "Concentrate"
     },
     {
-      "id": 8342707,
-      "packageCount": 1,
-      "name": "Spritzer Live Resin Batter 1.0g/1000mg",
-      "brand": null,
-      "producer": "SunMed Growers",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Spritzer",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 65.81,
-        "totalCBD": 0.26,
-        "CBC": 0.0,
-        "CBDA": 0.3,
-        "CBDV": 0.0,
-        "CBG": 0.58,
-        "CBGA": 1.82,
-        "CBN": 0.0,
-        "THCA": 73.43,
-        "THCV": 0.32
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.54,
-        "myrcene": 1.53,
-        "alpha-pinene": 0.5,
-        "caryophyllene": 0.93,
-        "beta-pinene": 0.1,
-        "ocimene": 0.11,
-        "limonene": 2.76,
-        "linalool": 1.06,
-        "terpinolene": 0.14
-      },
-      "totalTerps": 8.59,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8342707,
-          "label": "1A40303000001F5000367297",
-          "quantity": 1.0,
-          "packagedDate": "2026-04-16",
-          "expirationDate": "2027-01-05"
-        }
-      ],
-      "price": 40.0,
-      "medPrice": 40.0,
-      "salePrice": 24.0,
-      "medSalePrice": 24.0,
-      "deal": "40% Off",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4585538",
-      "posCategory": "Concentrate"
-    },
-    {
       "id": 8351756,
       "packageCount": 1,
       "name": "Tarts Live Budder - 1g",
@@ -12464,7 +12405,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 31.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12510,7 +12451,7 @@
         {
           "id": 9013416,
           "label": "1A403030000012D000267199",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-17",
           "expirationDate": "2027-07-30"
         }
@@ -12597,7 +12538,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12636,7 +12577,7 @@
         {
           "id": 9047759,
           "label": "1A403030000012D000267868",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-07-15"
         }
@@ -22073,30 +22014,31 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9126345,
-      "packageCount": 1,
+      "id": 9265940,
+      "packageCount": 2,
       "name": "Sunnies - Sunset Grape Gummies - 5mg THC/25mg CBN/25mg CBD - 5mg - 20Pcs",
       "brand": "Sunnies",
       "producer": "SunMed Growers",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
         "totalTHC": 0.13,
-        "totalCBD": 0.67,
+        "totalCBD": 0.61,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
         "CBG": 0.0,
         "CBGA": 0.0,
-        "CBN": 0.68,
+        "CBN": 0.62,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -22105,13 +22047,13 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 5.0,
         "minorsMgPerServing": {
-          "totalCBD": 26.8,
+          "totalCBD": 24.4,
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
           "CBG": 0.0,
           "CBGA": 0.0,
-          "CBN": 27.2,
+          "CBN": 24.8,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -22121,6 +22063,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9265940,
+          "label": "1A40303000001F5000476099",
+          "quantity": 20.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-09-29"
+        },
         {
           "id": 9126345,
           "label": "1A40303000001F5000458227",
@@ -22674,7 +22623,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22713,7 +22662,7 @@
         {
           "id": 9111308,
           "label": "1A403030000390D000073573",
-          "quantity": 15.0,
+          "quantity": 12.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-09-15"
         }
@@ -25930,7 +25879,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 244.99,
+      "quantity": 241.49,
       "unit": "Grams",
       "strainName": "Headshot",
       "strainType": null,
@@ -25964,7 +25913,7 @@
         {
           "id": 8380389,
           "label": "1A4030300000709000013348",
-          "quantity": 244.99,
+          "quantity": 241.49,
           "packagedDate": "2026-04-27",
           "expirationDate": "2027-04-13"
         }
@@ -29206,7 +29155,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 420.0,
+      "quantity": 406.0,
       "unit": "Grams",
       "strainName": "Private Reserve OG",
       "strainType": null,
@@ -29243,7 +29192,7 @@
         {
           "id": 9167885,
           "label": "1A4030300002009000119448",
-          "quantity": 420.0,
+          "quantity": 406.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-08-20"
         }
@@ -39146,7 +39095,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -39179,7 +39128,7 @@
         {
           "id": 9168514,
           "label": "1A40303000001F5000462129",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-14"
         }
@@ -40766,7 +40715,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 120.0,
+      "quantity": 115.0,
       "unit": "Grams",
       "strainName": "Charm Biscuitz",
       "strainType": null,
@@ -40799,7 +40748,7 @@
         {
           "id": 9127364,
           "label": "1A40303000040D9000006562",
-          "quantity": 120.0,
+          "quantity": 115.0,
           "packagedDate": "2026-10-13",
           "expirationDate": null
         }
@@ -40823,7 +40772,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "Grape Gas Cake",
       "strainType": null,
@@ -40856,7 +40805,7 @@
         {
           "id": 9099011,
           "label": "1A40303000040D9000006412",
-          "quantity": 25.0,
+          "quantity": 20.0,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
@@ -41109,7 +41058,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 332.94,
+      "quantity": 325.94,
       "unit": "Grams",
       "strainName": "Sunshine #4",
       "strainType": null,
@@ -41143,7 +41092,7 @@
         {
           "id": 9104972,
           "label": "1A40303000001F5000456192",
-          "quantity": 332.94,
+          "quantity": 325.94,
           "packagedDate": "2026-10-07",
           "expirationDate": null
         }
@@ -44227,7 +44176,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Banana Munson",
       "strainType": null,
@@ -44262,7 +44211,7 @@
         {
           "id": 9126342,
           "label": "1A40303000001F5000458221",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-07-15"
         }
@@ -52338,7 +52287,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "AIO Berry Gelato",
       "strainType": null,
@@ -52372,7 +52321,7 @@
         {
           "id": 9152271,
           "label": "1A4030300003201000001803",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-10-19",
           "expirationDate": "2027-10-15"
         }
@@ -54927,7 +54876,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": "Northern Lights",
       "strainType": null,
@@ -54962,7 +54911,7 @@
         {
           "id": 9233561,
           "label": "1A403030000283D000063178",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-10-30"
         }
