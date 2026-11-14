@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T19:50:03.099684+00:00",
+  "generated_at": "2026-11-14T20:00:02.916844+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -8730,7 +8730,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.0,
+      "quantity": 42.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8771,7 +8771,7 @@
         {
           "id": 9195883,
           "label": "1A40303000001F5000464094",
-          "quantity": 45.0,
+          "quantity": 42.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-10-01"
         }
@@ -8795,7 +8795,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8836,7 +8836,7 @@
         {
           "id": 9195884,
           "label": "1A40303000001F5000464095",
-          "quantity": 5.0,
+          "quantity": 2.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-08-31"
         }
@@ -16348,7 +16348,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16387,7 +16387,7 @@
         {
           "id": 9245225,
           "label": "1A40303000017D5000112738",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-09-02"
         }
@@ -19944,28 +19944,29 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9075702,
-      "packageCount": 1,
+      "id": 9271372,
+      "packageCount": 2,
       "name": "Incredibles Gummy 100mg - Fast Acting Greener Apple-10mg-10 Pieces",
       "brand": "Incredibles",
       "producer": "Chesapeake Alternatives",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.35,
+        "totalTHC": 0.36,
         "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.03,
+        "CBG": 0.04,
         "CBGA": 0.0,
         "CBN": 0.0,
         "THCA": 0.0,
@@ -19980,7 +19981,7 @@
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.9,
+          "CBG": 1.2,
           "CBGA": 0.0,
           "CBN": 0.0,
           "THCA": 0.0,
@@ -19992,6 +19993,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9271372,
+          "label": "1A40303000003EA000294813",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-09-04"
+        },
         {
           "id": 9075702,
           "label": "1A40303000003EA000260948",
@@ -20139,28 +20147,29 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9164273,
-      "packageCount": 1,
+      "id": 9271584,
+      "packageCount": 2,
       "name": "Incredibles Gummy 100mg - Snoozzzeberry (5:1 THC:CBN) - 10mg - 10 Pieces",
       "brand": "Incredibles",
       "producer": "Chesapeake Alternatives",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.36,
+        "totalTHC": 0.37,
         "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.04,
+        "CBG": 0.0,
         "CBGA": 0.0,
         "CBN": 0.07,
         "THCA": 0.0,
@@ -20175,7 +20184,7 @@
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 1.2,
+          "CBG": 0.0,
           "CBGA": 0.0,
           "CBN": 2.1,
           "THCA": 0.0,
@@ -20187,6 +20196,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9271584,
+          "label": "1A40303000003EA000294815",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-09-30"
+        },
         {
           "id": 9164273,
           "label": "1A40303000003EA000255092",
@@ -22821,7 +22837,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22862,7 +22878,7 @@
         {
           "id": 9124750,
           "label": "1A4030300003522000219703",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-28"
         }
@@ -23402,7 +23418,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23441,7 +23457,7 @@
         {
           "id": 9143041,
           "label": "1A403030000390D000073843",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-09-22"
         }
@@ -29961,7 +29977,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 147.0,
+      "quantity": 143.5,
       "unit": "Grams",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -29993,7 +30009,7 @@
         {
           "id": 9226953,
           "label": "1A40303000000CB000057878",
-          "quantity": 147.0,
+          "quantity": 143.5,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-09"
         }
@@ -37774,7 +37790,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Orange Drizzle Isolate",
       "strainType": null,
@@ -37807,7 +37823,7 @@
         {
           "id": 9226776,
           "label": "1A4030300000C83000044095",
-          "quantity": 13.0,
+          "quantity": 11.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-12"
         }
@@ -39485,7 +39501,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Raw Prerolls",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 6.0,
       "unit": "Each",
@@ -46413,7 +46429,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Bloom Jet Fuel OG Surf AIO",
       "strainType": null,
@@ -46447,7 +46463,7 @@
         {
           "id": 9197580,
           "label": "1A40303000007D1000100939",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-09-24"
         }
@@ -47160,7 +47176,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Cherry Chem . Liquid and",
       "strainType": null,
@@ -47193,7 +47209,7 @@
         {
           "id": 8872243,
           "label": "1A40303000007D1000093658",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-05-05"
         }
@@ -57246,17 +57262,16 @@
     },
     {
       "id": 9268337,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Pink CertZ Live Resin Vape Cart 1.0mL",
       "brand": null,
       "producer": "Evermore Cannabis",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Pink CertZ",
       "strainType": null,
@@ -57292,13 +57307,6 @@
           "label": "1A4030300000C83000044371",
           "quantity": 20.0,
           "packagedDate": "2026-11-12",
-          "expirationDate": "2027-08-14"
-        },
-        {
-          "id": 9097183,
-          "label": "1A4030300000C83000090227",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-14"
         }
       ],
