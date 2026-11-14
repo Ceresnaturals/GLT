@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T22:40:02.771578+00:00",
+  "generated_at": "2026-11-14T22:50:08.675380+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -15898,6 +15898,71 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9269779,
+      "packageCount": 1,
+      "name": "Do Drop 1:1 CBN:THC Slumberberry Gummies-10mg-10",
+      "brand": null,
+      "producer": "Holistic Industries",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.36,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.35,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 10.5,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9269779,
+          "label": "1A403030000012E000214912",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-06-23"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": 14.0,
+      "medSalePrice": 14.0,
+      "deal": "Saturdaze Delights! 30% OFF Strane/Garcia/Hellavated/Do Drops",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9090331,
       "packageCount": 1,
       "name": "Do Drop 1:1:1 CBG:THC:THCV Watermelon Gummies-10mg-10",
@@ -17434,7 +17499,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17475,7 +17540,7 @@
         {
           "id": 9167683,
           "label": "1A4030300002009000119438",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-05-22"
         }
@@ -20034,7 +20099,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20075,7 +20140,7 @@
         {
           "id": 9233189,
           "label": "1A40303000003EA000176066",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-16"
         }
@@ -20700,7 +20765,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20741,7 +20806,7 @@
         {
           "id": 9039054,
           "label": "1A40303000003EA000258979",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-24"
         }
@@ -23236,7 +23301,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23275,7 +23340,7 @@
         {
           "id": 9142756,
           "label": "1A403030000390D000073820",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-10-04"
         }
@@ -23427,7 +23492,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23466,7 +23531,7 @@
         {
           "id": 9143041,
           "label": "1A403030000390D000073843",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-09-22"
         }
@@ -28830,7 +28895,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -28864,7 +28929,7 @@
         {
           "id": 9229954,
           "label": "1A40303000001F5000467377",
-          "quantity": 38.5,
+          "quantity": 35.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-08-22"
         }
@@ -31416,6 +31481,65 @@
       "posCategory": "Pre-Rolls"
     },
     {
+      "id": 9270432,
+      "packageCount": 1,
+      "name": "Blueberry Dream Hellavated Juicy Stickz - Infused Pre-roll - 0.75 g",
+      "brand": "Hellavated",
+      "producer": "Holistic Industries",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Each",
+      "strainName": "Blueberry Dream Juicy Stickz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 36.43,
+        "totalCBD": 0.18,
+        "CBC": 0.1,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.56,
+        "CBGA": 0.73,
+        "CBN": 0.26,
+        "THCA": 19.91,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.09,
+        "alpha-pinene": 0.38,
+        "caryophyllene": 0.32,
+        "eudesmol": 0.02,
+        "beta-pinene": 0.07,
+        "limonene": 0.23,
+        "linalool": 0.47,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 1.85,
+      "dominantTerpene": "linalool",
+      "packages": [
+        {
+          "id": 9270432,
+          "label": "1A403030000012E000214916",
+          "quantity": 16.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-05-08"
+        }
+      ],
+      "price": 15.0,
+      "medPrice": 15.0,
+      "salePrice": 10.5,
+      "medSalePrice": 10.5,
+      "deal": "Saturdaze Delights! 30% OFF Strane/Garcia/Hellavated/Do Drops",
+      "orderUrl": null,
+      "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
       "id": 8966513,
       "packageCount": 1,
       "name": "Bomb Popz Hellavated Juicy Stickz - Infused Pre-roll - 0.75 g",
@@ -31933,63 +32057,6 @@
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4341628",
       "posCategory": "Pre-Rolls"
-    },
-    {
-      "id": 9097155,
-      "packageCount": 1,
-      "name": "Concentrate- Patapeake Shortbread x THCa Isolate Infused (.35g Joints) 5 Pack 1.75g",
-      "brand": null,
-      "producer": "Evermore Cannabis",
-      "category": "Pre-Roll",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Patapeake Shortbread x Isolate",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 41.11,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.03,
-        "CBN": 0.0,
-        "THCA": 45.86,
-        "THCV": 0.15
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.14,
-        "myrcene": 0.04,
-        "alpha-pinene": 0.01,
-        "caryophyllene": 0.46,
-        "beta-pinene": 0.02,
-        "limonene": 0.12,
-        "linalool": 0.28
-      },
-      "totalTerps": 1.33,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 9097155,
-          "label": "1A4030300000C83000090222",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-06",
-          "expirationDate": "2027-08-11"
-        }
-      ],
-      "price": 35.0,
-      "medPrice": 35.0,
-      "salePrice": 26.25,
-      "medSalePrice": 26.25,
-      "deal": "Saturdaze Delights! 25% off Concentrates",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4722247",
-      "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
       "id": 9128278,
@@ -33741,7 +33808,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 49.0,
+      "quantity": 48.0,
       "unit": "Each",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -33773,7 +33840,7 @@
         {
           "id": 9263919,
           "label": "1A40303000000CB000058598",
-          "quantity": 49.0,
+          "quantity": 48.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-23"
         }
@@ -33959,6 +34026,63 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 9270470,
+      "packageCount": 1,
+      "name": "Juicee J Strane - Pre-rolls - 1 g",
+      "brand": "Strane",
+      "producer": "Holistic Industries",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Grams",
+      "strainName": "Juicee J",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.13,
+        "totalCBD": 0.04,
+        "CBC": 0.07,
+        "CBDA": 0.04,
+        "CBDV": 0.0,
+        "CBG": 0.13,
+        "CBGA": 0.98,
+        "CBN": 0.0,
+        "THCA": 26.76,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.15,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.53,
+        "eudesmol": 0.04,
+        "beta-pinene": 0.02,
+        "limonene": 0.15,
+        "linalool": 0.18
+      },
+      "totalTerps": 1.24,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9270470,
+          "label": "1A403030000012E000214919",
+          "quantity": 16.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-06-11"
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": 7.0,
+      "medSalePrice": 7.0,
+      "deal": "Saturdaze Delights! 30% OFF Strane/Garcia/Hellavated/Do Drops",
       "orderUrl": null,
       "posCategory": "Pre-Rolls"
     },
@@ -35158,6 +35282,66 @@
       "deal": "Saturdaze Delights! 25% off Concentrates",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4729964",
       "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
+      "id": 9270378,
+      "packageCount": 1,
+      "name": "Landfill Haze #19 Strane \"Growers Series\" - Pre-rolls - 1 g",
+      "brand": "Strane",
+      "producer": "Holistic Industries",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Grams",
+      "strainName": "Landfill Haze #19",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.62,
+        "totalCBD": 0.06,
+        "CBC": 0.0,
+        "CBDA": 0.07,
+        "CBDV": 0.0,
+        "CBG": 0.23,
+        "CBGA": 1.87,
+        "CBN": 0.0,
+        "THCA": 29.01,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.07,
+        "myrcene": 0.05,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.27,
+        "eudesmol": 0.02,
+        "beta-pinene": 0.05,
+        "ocimene": 0.03,
+        "limonene": 0.07,
+        "linalool": 0.19,
+        "terpinolene": 0.36
+      },
+      "totalTerps": 1.3,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9270378,
+          "label": "1A403030000012E000214918",
+          "quantity": 16.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-10-26"
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
     },
     {
       "id": 9226964,
@@ -36361,6 +36545,64 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4493057",
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 9270442,
+      "packageCount": 1,
+      "name": "Mule Fuel Garcia Hand Picked - Pre-rolls - 1 g",
+      "brand": "Garcia Hand Picked",
+      "producer": "Holistic Industries",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 16.0,
+      "unit": "Grams",
+      "strainName": "Mule Fuel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 21.73,
+        "totalCBD": 0.04,
+        "CBC": 0.0,
+        "CBDA": 0.04,
+        "CBDV": 0.0,
+        "CBG": 0.07,
+        "CBGA": 0.4,
+        "CBN": 0.0,
+        "THCA": 23.52,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.04,
+        "myrcene": 0.33,
+        "alpha-pinene": 0.11,
+        "caryophyllene": 0.13,
+        "beta-pinene": 0.04,
+        "fenchol": 0.02,
+        "limonene": 0.07,
+        "terpineol": 0.02
+      },
+      "totalTerps": 0.75,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9270442,
+          "label": "1A403030000012E000214917",
+          "quantity": 16.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-10-20"
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": 7.0,
+      "medSalePrice": 7.0,
+      "deal": "Saturdaze Delights! 30% OFF Strane/Garcia/Hellavated/Do Drops",
+      "orderUrl": null,
       "posCategory": "Pre-Rolls"
     },
     {
@@ -46726,6 +46968,166 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 9270384,
+      "packageCount": 1,
+      "name": "Blueberry Dream Cloud Bar Hellavated - 1 g",
+      "brand": "Hellavated",
+      "producer": "Holistic Industries",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Blueberry Dream",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.14,
+        "CBC": 0.62,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.65,
+        "CBGA": 0.0,
+        "CBN": 0.6,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "alpha-pinene": 2.34,
+        "caryophyllene": 0.14,
+        "beta-pinene": 0.26,
+        "linalool": 0.23
+      },
+      "totalTerps": 3.06,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9270384,
+          "label": "1A403030000012E000214920",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-09-18"
+        }
+      ],
+      "price": 50.0,
+      "medPrice": 50.0,
+      "salePrice": 35.0,
+      "medSalePrice": 35.0,
+      "deal": "Saturdaze Delights! 30% OFF Disposables",
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 9270607,
+      "packageCount": 1,
+      "name": "Blueberry Dream Distillate Cartridge Hellavated - 1.0 g",
+      "brand": "Hellavated",
+      "producer": "Holistic Industries",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Blueberry Dream",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 88.35,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 5.24,
+        "CBGA": 0.0,
+        "CBN": 0.4,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "alpha-pinene": 2.96,
+        "caryophyllene": 0.17,
+        "beta-pinene": 0.31,
+        "linalool": 0.23
+      },
+      "totalTerps": 3.8,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9270607,
+          "label": "1A403030000012E000214926",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-08-28"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 31.5,
+      "medSalePrice": 31.5,
+      "deal": "Saturdaze Delights! 30% OFF Carts",
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9270494,
+      "packageCount": 1,
+      "name": "Bomb Popz Cloud Bar Hellavated - 2 g",
+      "brand": "Hellavated",
+      "producer": "Holistic Industries",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Bomb Popz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.94,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.19,
+        "CBGA": 0.0,
+        "CBN": 0.71,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.35,
+        "alpha-pinene": 0.44,
+        "caryophyllene": 0.39,
+        "beta-pinene": 0.1,
+        "limonene": 1.42
+      },
+      "totalTerps": 2.78,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9270494,
+          "label": "1A403030000012E000214923",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-10-16"
+        }
+      ],
+      "price": 65.0,
+      "medPrice": 65.0,
+      "salePrice": 45.5,
+      "medSalePrice": 45.5,
+      "deal": "Saturdaze Delights! 30% OFF Disposables",
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
       "id": 9270712,
       "packageCount": 2,
       "name": "Bomb Popz Distillate Cartridge Hellavated - 1.0 g",
@@ -47311,6 +47713,64 @@
       "deal": "Saturdaze Delights! 30% OFF Disposables",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174602",
       "posCategory": "Disposables"
+    },
+    {
+      "id": 8966538,
+      "packageCount": 1,
+      "name": "Clementine Distillate Cartridge Hellavated - 1.0 g",
+      "brand": "Hellavated",
+      "producer": "Holistic Industries",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 8.0,
+      "unit": "Each",
+      "strainName": "Clementine",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.69,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.69,
+        "CBGA": 0.0,
+        "CBN": 0.47,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.08,
+        "myrcene": 0.54,
+        "alpha-pinene": 0.18,
+        "caryophyllene": 0.91,
+        "beta-pinene": 0.12,
+        "ocimene": 0.1,
+        "limonene": 1.6,
+        "linalool": 0.27,
+        "nerolidol": 0.18
+      },
+      "totalTerps": 4.28,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8966538,
+          "label": "1A403030000012E000192146",
+          "quantity": 8.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-07-17"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 31.5,
+      "medSalePrice": 31.5,
+      "deal": "Saturdaze Delights! 30% OFF Carts",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174601",
+      "posCategory": "Cartridges"
     },
     {
       "id": 9039606,
@@ -48541,6 +49001,64 @@
       "deal": "Saturdaze Delights! 30% OFF Disposables",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4738167",
       "posCategory": "Disposables"
+    },
+    {
+      "id": 9270634,
+      "packageCount": 1,
+      "name": "Durban Poison Distillate Cartridge Strane - 1 g",
+      "brand": "Strane",
+      "producer": "Holistic Industries",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Durban Poison",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.8,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.23,
+        "CBGA": 0.0,
+        "CBN": 0.2,
+        "THCA": 0.0,
+        "THCV": 0.48
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.29,
+        "myrcene": 0.43,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 0.48,
+        "beta-pinene": 0.35,
+        "ocimene": 1.31,
+        "limonene": 0.47,
+        "linalool": 0.3,
+        "terpinolene": 1.53
+      },
+      "totalTerps": 5.83,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9270634,
+          "label": "1A403030000012E000214929",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-08-14"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 31.5,
+      "medSalePrice": 31.5,
+      "deal": "Saturdaze Delights! 30% OFF Carts",
+      "orderUrl": null,
+      "posCategory": "Cartridges"
     },
     {
       "id": 9142948,
@@ -50166,6 +50684,64 @@
       "posCategory": "Disposables"
     },
     {
+      "id": 9270745,
+      "packageCount": 1,
+      "name": "Grape GG Distillate Cartridge Strane - 1 g",
+      "brand": "Strane",
+      "producer": "Holistic Industries",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Grape GG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.16,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.05,
+        "CBGA": 0.0,
+        "CBN": 0.69,
+        "THCA": 0.0,
+        "THCV": 0.47
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.22,
+        "myrcene": 1.68,
+        "alpha-pinene": 2.39,
+        "caryophyllene": 0.71,
+        "beta-pinene": 0.52,
+        "ocimene": 0.41,
+        "limonene": 1.0,
+        "linalool": 0.24,
+        "terpinolene": 0.2
+      },
+      "totalTerps": 7.5,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9270745,
+          "label": "1A403030000012E000214934",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-09-11"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 31.5,
+      "medSalePrice": 31.5,
+      "deal": "Saturdaze Delights! 30% OFF Carts",
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 9095854,
       "packageCount": 1,
       "name": "Grape Moscato Distillate Vape Cart 0.5mL",
@@ -50222,6 +50798,63 @@
       "deal": "Saturdaze Delights! 30% OFF Carts",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4631768",
       "posCategory": "Cartridges"
+    },
+    {
+      "id": 9270500,
+      "packageCount": 1,
+      "name": "Grape Stomper Cloud Bar Hellavated - 2 g",
+      "brand": "Hellavated",
+      "producer": "Holistic Industries",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Grape Stomper",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.2,
+        "CBC": 0.53,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.25,
+        "CBGA": 0.0,
+        "CBN": 0.72,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.26,
+        "myrcene": 0.25,
+        "alpha-pinene": 0.2,
+        "caryophyllene": 0.25,
+        "beta-pinene": 0.13,
+        "limonene": 0.79,
+        "linalool": 0.27,
+        "nerolidol": 0.23
+      },
+      "totalTerps": 2.38,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9270500,
+          "label": "1A403030000012E000214925",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-09-18"
+        }
+      ],
+      "price": 65.0,
+      "medPrice": 65.0,
+      "salePrice": 45.5,
+      "medSalePrice": 45.5,
+      "deal": "Saturdaze Delights! 30% OFF Disposables",
+      "orderUrl": null,
+      "posCategory": "Disposables"
     },
     {
       "id": 9268437,
@@ -53414,7 +54047,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Legacy Series King Louis XIII BRIQ",
       "strainType": null,
@@ -53447,7 +54080,7 @@
         {
           "id": 8908970,
           "label": "1A4030300000193000106244",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-03-16"
         }
@@ -55179,6 +55812,60 @@
       "posCategory": "Disposables"
     },
     {
+      "id": 9270614,
+      "packageCount": 1,
+      "name": "Maui Sunrise Distillate Cartridge Hellavated - 1.0 g",
+      "brand": "Hellavated",
+      "producer": "Holistic Industries",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Maui Sunrise",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.2,
+        "CBC": 0.42,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.36,
+        "CBGA": 0.0,
+        "CBN": 0.25,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.16,
+        "caryophyllene": 0.03,
+        "limonene": 1.44,
+        "linalool": 0.18,
+        "terpinolene": 0.14
+      },
+      "totalTerps": 1.95,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9270614,
+          "label": "1A403030000012E000214928",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-10-09"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 31.5,
+      "medSalePrice": 31.5,
+      "deal": "Saturdaze Delights! 30% OFF Carts",
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 9074626,
       "packageCount": 1,
       "name": "Mellow Fellow - Disposable Vape - Banana Berry Smoothie - 1g",
@@ -56835,6 +57522,60 @@
       "posCategory": "Disposables"
     },
     {
+      "id": 9270652,
+      "packageCount": 1,
+      "name": "Peach Cobbler Distillate Cartridge Hellavated - 1.0 g",
+      "brand": "Hellavated",
+      "producer": "Holistic Industries",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Peach Cobbler",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 89.29,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.45,
+        "CBGA": 0.0,
+        "CBN": 0.32,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "alpha-pinene": 0.55,
+        "caryophyllene": 0.17,
+        "beta-pinene": 0.27,
+        "limonene": 0.33,
+        "linalool": 1.03
+      },
+      "totalTerps": 2.42,
+      "dominantTerpene": "linalool",
+      "packages": [
+        {
+          "id": 9270652,
+          "label": "1A403030000012E000214933",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-09-25"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 31.5,
+      "medSalePrice": 31.5,
+      "deal": "Saturdaze Delights! 30% OFF Carts",
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 7944849,
       "packageCount": 1,
       "name": "Peach Lemonade x Strawnana BFS - BOMA Vape Cart (Color: MD Flag) - 1.0 gram",
@@ -58269,6 +59010,61 @@
       "deal": "Saturdaze Delights! 30% OFF Disposables",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174615",
       "posCategory": "Disposables"
+    },
+    {
+      "id": 9270643,
+      "packageCount": 1,
+      "name": "Razberry Blitz Distillate Cartridge Hellavated - 1.0 g",
+      "brand": "Hellavated",
+      "producer": "Holistic Industries",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Razberry Blitz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.59,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 5.44,
+        "CBGA": 0.0,
+        "CBN": 0.21,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.16,
+        "alpha-pinene": 1.54,
+        "caryophyllene": 0.03,
+        "beta-pinene": 0.22,
+        "limonene": 0.49,
+        "linalool": 0.21
+      },
+      "totalTerps": 2.65,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9270643,
+          "label": "1A403030000012E000214930",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-09-25"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 31.5,
+      "medSalePrice": 31.5,
+      "deal": "Saturdaze Delights! 30% OFF Carts",
+      "orderUrl": null,
+      "posCategory": "Cartridges"
     },
     {
       "id": 8959011,
@@ -60244,6 +61040,59 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 9270644,
+      "packageCount": 1,
+      "name": "Snowbody Knowz Distillate Cartridge Hellavated - 1.0 g",
+      "brand": "Hellavated",
+      "producer": "Holistic Industries",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Snowbody Knowz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 87.97,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.76,
+        "CBGA": 0.0,
+        "CBN": 0.23,
+        "THCA": 0.0,
+        "THCV": 0.43
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.07,
+        "caryophyllene": 0.03,
+        "limonene": 2.47,
+        "linalool": 0.65
+      },
+      "totalTerps": 3.22,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9270644,
+          "label": "1A403030000012E000214931",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-10-02"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 31.5,
+      "medSalePrice": 31.5,
+      "deal": "Saturdaze Delights! 30% OFF Carts",
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 8229542,
       "packageCount": 1,
       "name": "Sour Tangie BD - M3 Vape Cart - 1g",
@@ -60408,6 +61257,168 @@
       "medSalePrice": 27.0,
       "deal": "40% Off",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4551768",
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9270483,
+      "packageCount": 1,
+      "name": "Strawberry Haze Cloud Bar Hellavated - 1 g",
+      "brand": "Hellavated",
+      "producer": "Holistic Industries",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Strawberry Haze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.9,
+        "CBC": 0.57,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.49,
+        "CBGA": 0.0,
+        "CBN": 0.66,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.15,
+        "alpha-pinene": 1.35,
+        "caryophyllene": 0.2,
+        "beta-pinene": 0.19,
+        "limonene": 0.4
+      },
+      "totalTerps": 2.29,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9270483,
+          "label": "1A403030000012E000214921",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-09-18"
+        }
+      ],
+      "price": 50.0,
+      "medPrice": 50.0,
+      "salePrice": 35.0,
+      "medSalePrice": 35.0,
+      "deal": "Saturdaze Delights! 30% OFF Disposables",
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 9270499,
+      "packageCount": 1,
+      "name": "Strawberry Haze Cloud Bar Hellavated - 2 g",
+      "brand": "Hellavated",
+      "producer": "Holistic Industries",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Strawberry Haze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.78,
+        "CBC": 0.44,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.71,
+        "CBGA": 0.0,
+        "CBN": 0.82,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.13,
+        "alpha-pinene": 1.29,
+        "caryophyllene": 0.2,
+        "beta-pinene": 0.18,
+        "limonene": 0.39
+      },
+      "totalTerps": 2.19,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9270499,
+          "label": "1A403030000012E000214924",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-10-09"
+        }
+      ],
+      "price": 65.0,
+      "medPrice": 65.0,
+      "salePrice": 45.5,
+      "medSalePrice": 45.5,
+      "deal": "Saturdaze Delights! 30% OFF Disposables",
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 9270732,
+      "packageCount": 1,
+      "name": "Strawberry Haze Distillate Cartridge Hellavated - 1.0 g",
+      "brand": "Hellavated",
+      "producer": "Holistic Industries",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Strawberry Haze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 88.98,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.72,
+        "CBGA": 0.0,
+        "CBN": 0.39,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.17,
+        "alpha-pinene": 1.59,
+        "caryophyllene": 0.25,
+        "beta-pinene": 0.21,
+        "limonene": 0.49
+      },
+      "totalTerps": 2.77,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9270732,
+          "label": "1A403030000012E000214932",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-08-28"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 31.5,
+      "medSalePrice": 31.5,
+      "deal": "Saturdaze Delights! 30% OFF Carts",
+      "orderUrl": null,
       "posCategory": "Cartridges"
     },
     {
@@ -61288,8 +62299,8 @@
       "posCategory": "Cartridges"
     },
     {
-      "id": 8583734,
-      "packageCount": 1,
+      "id": 9270395,
+      "packageCount": 2,
       "name": "Tropicalez Punch Cloud Bar Hellavated - 1 g",
       "brand": "Hellavated",
       "producer": "Holistic Industries",
@@ -61298,31 +62309,39 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 1.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Tropicalez Punch",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 88.07,
-        "CBC": 0.58,
+        "totalTHC": 90.2,
+        "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 2.05,
+        "CBG": 3.19,
         "CBGA": 0.0,
-        "CBN": 0.37,
+        "CBN": 0.68,
         "THCA": 0.0,
-        "THCV": 0.91
+        "THCV": 0.0
       },
       "dose": null,
       "terpenes": {
-        "alpha-pinene": 0.03,
+        "alpha-pinene": 0.04,
         "beta-pinene": 0.12,
-        "limonene": 2.13
+        "limonene": 2.0,
+        "terpinolene": 0.04
       },
-      "totalTerps": 2.38,
+      "totalTerps": 2.29,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 9270395,
+          "label": "1A403030000012E000214922",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-09-11"
+        },
         {
           "id": 8583734,
           "label": "1A403030000012E000166354",
