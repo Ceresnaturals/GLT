@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T18:40:03.254124+00:00",
+  "generated_at": "2026-11-14T18:50:05.732209+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1392,7 +1392,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Wood Shiva",
       "strainType": null,
@@ -1427,7 +1427,7 @@
         {
           "id": 8199147,
           "label": "1A403030000283D000051320",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-03-16",
           "expirationDate": "2027-02-12"
         }
@@ -1613,7 +1613,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Singapore Strawberry",
       "strainType": null,
@@ -1639,7 +1639,7 @@
         {
           "id": 8992264,
           "label": "1A403030000283D000061329",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-14",
           "expirationDate": "2027-08-31"
         }
@@ -9118,6 +9118,71 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9271071,
+      "packageCount": 1,
+      "name": "Tall - Hibiscus Cherry Lime - 10mg - 1",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Drink",
+      "metrcCategory": "Infused Liquid Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.003,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 can, 12 fl. oz.",
+        "totalThcMg": 10.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9271071,
+          "label": "1A4030300000C83000084274",
+          "quantity": 24.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-09-16"
+        }
+      ],
+      "price": 6.0,
+      "medPrice": 6.0,
+      "salePrice": 4.8,
+      "medSalePrice": 4.8,
+      "deal": "Saturdaze Delights! 20% OFF Edibles",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9226739,
       "packageCount": 1,
       "name": "Tall- (XO) Dragon Fruit - 10mg - 1",
@@ -14590,6 +14655,71 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9271076,
+      "packageCount": 1,
+      "name": "Discos - Sour White Peach - 10mg - 10",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.18,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 each, 10 servings per package",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9271076,
+          "label": "1A4030300000C83000084276",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-09-21"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": 16.0,
+      "medSalePrice": 16.0,
+      "deal": "Saturdaze Delights! 20% OFF Edibles",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 8691535,
       "packageCount": 1,
       "name": "Discos - Strawberry (v2) - 10mg - 10",
@@ -16596,7 +16726,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16635,7 +16765,7 @@
         {
           "id": 9187274,
           "label": "1A40303000017D5000111599",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-07-24",
           "expirationDate": "2027-07-24"
         }
@@ -33795,6 +33925,62 @@
       "posCategory": "Pre-Rolls"
     },
     {
+      "id": 9263919,
+      "packageCount": 1,
+      "name": "Ice Cream Cake Pre-Roll 2 Pack 1.0g Multi Pack",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": "Ice Cream Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.97,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.66,
+        "CBN": 0.0,
+        "THCA": 25.92,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.19,
+        "myrcene": 0.08,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 0.54,
+        "beta-pinene": 0.13,
+        "limonene": 0.91,
+        "linalool": 0.26
+      },
+      "totalTerps": 2.53,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9263919,
+          "label": "1A40303000000CB000058598",
+          "quantity": 50.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-23"
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 9226962,
       "packageCount": 1,
       "name": "Ice Cream Cake Pre-Roll 5 Pack 1.75g Multi Pack",
@@ -34153,7 +34339,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -34187,7 +34373,7 @@
         {
           "id": 9111207,
           "label": "1A403030000012D000275065",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-07-30"
         }
@@ -35224,6 +35410,120 @@
       "posCategory": "Pre-Rolls"
     },
     {
+      "id": 9263925,
+      "packageCount": 1,
+      "name": "Lemon Cherry Gelato Pre-Roll 2 Pack 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": "Lemon Cherry Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.32,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.18,
+        "CBN": 0.0,
+        "THCA": 29.56,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.08,
+        "myrcene": 0.44,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 0.28,
+        "beta-pinene": 0.14,
+        "limonene": 0.99,
+        "linalool": 0.55,
+        "nerolidol": 0.09
+      },
+      "totalTerps": 3.02,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9263925,
+          "label": "1A40303000000CB000058599",
+          "quantity": 50.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-23"
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 9263926,
+      "packageCount": 1,
+      "name": "Lemon Cherry Gelato Pre-Roll 7 Pack 3.5g Multi Pack",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 40.0,
+      "unit": "Each",
+      "strainName": "Lemon Cherry Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.32,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.18,
+        "CBN": 0.0,
+        "THCA": 29.56,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.08,
+        "myrcene": 0.44,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 0.28,
+        "beta-pinene": 0.14,
+        "limonene": 0.99,
+        "linalool": 0.55,
+        "nerolidol": 0.09
+      },
+      "totalTerps": 3.02,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9263926,
+          "label": "1A40303000000CB000058600",
+          "quantity": 40.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-23"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 9112248,
       "packageCount": 1,
       "name": "Long Lifts - Blueberry Muffins - 1g",
@@ -36208,7 +36508,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 59.5,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Fruit Loot 3",
       "strainType": null,
@@ -36242,7 +36542,7 @@
         {
           "id": 9197371,
           "label": "1A40303000000CB000057468",
-          "quantity": 59.5,
+          "quantity": 56.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-08-18"
         }
@@ -39979,6 +40279,63 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
+      "id": 9263544,
+      "packageCount": 1,
+      "name": "Sunset Octane J walker (.35g joints) 5 Pack 1.75g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 35.0,
+      "unit": "Grams",
+      "strainName": "Sunset Octane",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.2,
+        "totalCBD": 0.044,
+        "CBC": 0.0,
+        "CBDA": 0.05,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.79,
+        "CBN": 0.0,
+        "THCA": 33.95,
+        "THCV": 0.196
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.0826,
+        "myrcene": 0.199,
+        "alpha-pinene": 0.0757,
+        "caryophyllene": 0.326,
+        "beta-pinene": 0.0868,
+        "limonene": 0.636,
+        "linalool": 0.168
+      },
+      "totalTerps": 1.81,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9263544,
+          "label": "1A40303000000CB000058601",
+          "quantity": 35.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-07-28"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 9226978,
       "packageCount": 1,
       "name": "Sunset Octane Pre-Roll 7 Pack 3.5g Multi Pack",
@@ -40200,6 +40557,120 @@
       "medSalePrice": 7.0,
       "deal": "Saturdaze Delights! 30% OFF Strane/Garcia/Hellavated/Do Drops",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4546995",
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 9268427,
+      "packageCount": 1,
+      "name": "Swampwater Fumez Pre-Roll 2 Pack 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": "Swampwater Fumez",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.91,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.89,
+        "CBN": 0.0,
+        "THCA": 33.83,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.22,
+        "myrcene": 0.05,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.55,
+        "beta-pinene": 0.11,
+        "limonene": 0.93,
+        "linalool": 0.49
+      },
+      "totalTerps": 2.75,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9268427,
+          "label": "1A40303000000CB000058647",
+          "quantity": 50.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-10-26"
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 9263931,
+      "packageCount": 1,
+      "name": "Swampwater Fumez Pre-Roll 7 Pack 3.5g Multi Pack",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 40.0,
+      "unit": "Each",
+      "strainName": "Swampwater Fumez",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.91,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.89,
+        "CBN": 0.0,
+        "THCA": 33.83,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.22,
+        "myrcene": 0.05,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.55,
+        "beta-pinene": 0.11,
+        "limonene": 0.93,
+        "linalool": 0.49
+      },
+      "totalTerps": 2.75,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9263931,
+          "label": "1A40303000000CB000058602",
+          "quantity": 40.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-26"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Pre-Rolls"
     },
     {
@@ -40788,7 +41259,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Wingsuit",
       "strainType": null,
@@ -40821,7 +41292,7 @@
         {
           "id": 9147598,
           "label": "1A403030000012E000205839",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-16",
           "expirationDate": "2027-09-27"
         }
@@ -48427,7 +48898,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Dankarooz",
       "strainType": null,
@@ -48462,7 +48933,7 @@
         {
           "id": 8758265,
           "label": "1A4030300004845000034913",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-04-20",
           "expirationDate": "2027-04-16"
         }
@@ -49633,6 +50104,67 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 9268329,
+      "packageCount": 1,
+      "name": "GPOG Distillate Vape Cart 1.0mL",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "GPOG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.28,
+        "totalCBD": 0.234,
+        "CBC": 0.877,
+        "CBDA": 0.0,
+        "CBDV": 0.067,
+        "CBG": 4.418,
+        "CBGA": 0.0,
+        "CBN": 0.268,
+        "THCA": 0.108,
+        "THCV": 0.507
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.115,
+        "humulene": 0.053,
+        "myrcene": 0.078,
+        "alpha-pinene": 0.034,
+        "caryophyllene": 0.072,
+        "beta-pinene": 0.031,
+        "caryophyllene-oxide": 0.083,
+        "limonene": 1.127,
+        "linalool": 0.036,
+        "terpinolene": 0.023,
+        "nerolidol": 0.069
+      },
+      "totalTerps": 2.041,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9268329,
+          "label": "1A4030300000C83000044368",
+          "quantity": 20.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-11-30"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": 28.0,
+      "medSalePrice": 28.0,
+      "deal": "Saturdaze Delights! 30% OFF Carts",
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 9090376,
       "packageCount": 1,
       "name": "Gas Cake Distillate Cartridge Strane - 1 g",
@@ -49863,6 +50395,65 @@
       "medSalePrice": 14.0,
       "deal": "Saturdaze Delights! 30% OFF Carts",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4631768",
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9268437,
+      "packageCount": 1,
+      "name": "Grape-ade Distillate Vape Cart 1.0mL",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Grape ade",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.274,
+        "totalCBD": 0.25,
+        "CBC": 0.872,
+        "CBDA": 0.0,
+        "CBDV": 0.066,
+        "CBG": 4.423,
+        "CBGA": 0.0,
+        "CBN": 0.279,
+        "THCA": 0.066,
+        "THCV": 0.503
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.119,
+        "humulene": 0.142,
+        "myrcene": 0.228,
+        "caryophyllene": 0.5,
+        "beta-pinene": 0.026,
+        "caryophyllene-oxide": 0.085,
+        "limonene": 0.248,
+        "linalool": 0.066,
+        "nerolidol": 0.063
+      },
+      "totalTerps": 1.838,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9268437,
+          "label": "1A4030300000C83000044369",
+          "quantity": 20.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-11-02"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": 28.0,
+      "medSalePrice": 28.0,
+      "deal": "Saturdaze Delights! 30% OFF Carts",
+      "orderUrl": null,
       "posCategory": "Cartridges"
     },
     {
@@ -50786,6 +51377,66 @@
       "deal": "40% Off",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4712586",
       "posCategory": "Disposables"
+    },
+    {
+      "id": 9268443,
+      "packageCount": 1,
+      "name": "Hibiscus Cooler Distillate Vape Cart 1.0mL",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Hibiscus Cooler",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.32,
+        "totalCBD": 0.495,
+        "CBC": 0.738,
+        "CBDA": 0.131,
+        "CBDV": 0.049,
+        "CBG": 4.431,
+        "CBGA": 0.036,
+        "CBN": 0.323,
+        "THCA": 0.037,
+        "THCV": 0.402
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.112,
+        "humulene": 0.096,
+        "myrcene": 0.077,
+        "alpha-pinene": 0.045,
+        "caryophyllene": 0.064,
+        "beta-pinene": 0.083,
+        "caryophyllene-oxide": 0.081,
+        "limonene": 0.899,
+        "terpinolene": 0.104,
+        "nerolidol": 0.059
+      },
+      "totalTerps": 2.439,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9268443,
+          "label": "1A4030300000C83000044370",
+          "quantity": 20.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-11-02"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": 28.0,
+      "medSalePrice": 28.0,
+      "deal": "Saturdaze Delights! 30% OFF Carts",
+      "orderUrl": null,
+      "posCategory": "Cartridges"
     },
     {
       "id": 8826359,
@@ -56702,17 +57353,18 @@
       "posCategory": "Disposables"
     },
     {
-      "id": 9097183,
-      "packageCount": 1,
+      "id": 9268337,
+      "packageCount": 2,
       "name": "Pink CertZ Live Resin Vape Cart 1.0mL",
       "brand": null,
       "producer": "Evermore Cannabis",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Pink CertZ",
       "strainType": null,
@@ -56744,6 +57396,13 @@
       "dominantTerpene": "limonene",
       "packages": [
         {
+          "id": 9268337,
+          "label": "1A4030300000C83000044371",
+          "quantity": 20.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-08-14"
+        },
+        {
           "id": 9097183,
           "label": "1A4030300000C83000090227",
           "quantity": 1.0,
@@ -56751,13 +57410,13 @@
           "expirationDate": "2027-08-14"
         }
       ],
-      "price": null,
-      "medPrice": null,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "price": 50.0,
+      "medPrice": 50.0,
+      "salePrice": 35.0,
+      "medSalePrice": 35.0,
+      "deal": "Saturdaze Delights! 30% OFF Carts",
       "orderUrl": null,
-      "posCategory": null
+      "posCategory": "Cartridges"
     },
     {
       "id": 9168517,
