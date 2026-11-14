@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T22:10:02.854098+00:00",
+  "generated_at": "2026-11-14T22:20:03.541428+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3407,9 +3407,9 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Baby Yoda",
       "strainType": null,
@@ -3442,7 +3442,7 @@
         {
           "id": 9236758,
           "label": "1A4030300002199000070680",
-          "quantity": 9.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-21",
           "expirationDate": "2027-09-23"
         }
@@ -8672,7 +8672,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 41.0,
+      "quantity": 40.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8713,7 +8713,7 @@
         {
           "id": 9195883,
           "label": "1A40303000001F5000464094",
-          "quantity": 41.0,
+          "quantity": 40.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-10-01"
         }
@@ -12666,7 +12666,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12705,7 +12705,7 @@
         {
           "id": 9236739,
           "label": "1A403030000012D000278765",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-16"
         }
@@ -15135,7 +15135,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -15174,7 +15174,7 @@
         {
           "id": 9047761,
           "label": "1A403030000012D000267870",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-08-18"
         }
@@ -15780,7 +15780,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -15819,7 +15819,7 @@
         {
           "id": 9173947,
           "label": "1A403030000012D000277068",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-10-22",
           "expirationDate": "2027-09-24"
         }
@@ -15973,7 +15973,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16014,7 +16014,7 @@
         {
           "id": 8966197,
           "label": "1A403030000012E000192656",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-04-23"
         }
@@ -19962,7 +19962,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20010,7 +20010,7 @@
         {
           "id": 9075702,
           "label": "1A40303000003EA000260948",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-26"
         }
@@ -23223,69 +23223,6 @@
       "medSalePrice": 20.8,
       "deal": "Saturdaze Delights! 20% OFF Edibles",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4439556",
-      "posCategory": "Edibles"
-    },
-    {
-      "id": 9146168,
-      "packageCount": 1,
-      "name": "WYLD PR Gummies-10mg-10",
-      "brand": "WYLD",
-      "producer": "Bouquet Labs",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Vault"
-      ],
-      "quantity": 11.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.249,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.241,
-        "CBGA": 0.0,
-        "CBN": 0.003,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 gummy",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 9.64,
-          "CBGA": 0.0,
-          "CBN": 0.12,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9146168,
-          "label": "1A403030000390D000073868",
-          "quantity": 11.0,
-          "packagedDate": "2026-10-16",
-          "expirationDate": "2027-09-13"
-        }
-      ],
-      "price": 26.0,
-      "medPrice": 26.0,
-      "salePrice": 20.8,
-      "medSalePrice": 20.8,
-      "deal": "Saturdaze Delights! 20% OFF Edibles",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4175184",
       "posCategory": "Edibles"
     },
     {
@@ -47612,7 +47549,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Strawberry Cough",
       "strainType": null,
@@ -47646,7 +47583,7 @@
         {
           "id": 8725342,
           "label": "1A4030300000709000035848",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-07-14",
           "expirationDate": "2027-05-11"
         }
@@ -48141,7 +48078,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Jack Herer",
       "strainType": null,
@@ -48175,7 +48112,7 @@
         {
           "id": 9079415,
           "label": "1A403030000012D000272417",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-07-16"
         }
@@ -58570,7 +58507,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Apricot Haze",
       "strainType": null,
@@ -58605,7 +58542,7 @@
         {
           "id": 9248952,
           "label": "1A403030000012E000212509",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-11-09",
           "expirationDate": "2027-09-21"
         }
