@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T17:30:02.234779+00:00",
+  "generated_at": "2026-11-14T17:40:02.829564+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -84,28 +84,29 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8793069,
-      "packageCount": 1,
+      "id": 9271074,
+      "packageCount": 2,
       "name": "ALLCAPS 10mg - 10mg - 10",
       "brand": null,
       "producer": "Evermore Cannabis",
       "category": "Capsule",
       "metrcCategory": "Infused Edible (Capsule Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 1.28,
+        "totalTHC": 1.23,
         "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.05,
+        "CBG": 0.04,
         "CBGA": 0.0,
         "CBN": 0.0,
         "THCA": 0.0,
@@ -120,7 +121,7 @@
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.045,
+          "CBG": 0.036,
           "CBGA": 0.0,
           "CBN": 0.0,
           "THCA": 0.0,
@@ -132,6 +133,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9271074,
+          "label": "1A4030300000C83000084275",
+          "quantity": 20.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-09-09"
+        },
         {
           "id": 8793069,
           "label": "1A4030300000C83000080428",
@@ -9120,7 +9128,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9161,7 +9169,7 @@
         {
           "id": 9226739,
           "label": "1A4030300000C83000083833",
-          "quantity": 16.0,
+          "quantity": 13.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-07"
         }
@@ -9185,7 +9193,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 20.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9226,7 +9234,7 @@
         {
           "id": 9194045,
           "label": "1A4030300000C83000083641",
-          "quantity": 20.0,
+          "quantity": 16.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-07"
         }
@@ -40153,7 +40161,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -40185,7 +40193,7 @@
         {
           "id": 9226978,
           "label": "1A40303000000CB000057886",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-09"
         }
@@ -41370,7 +41378,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 339.0,
+      "quantity": 335.5,
       "unit": "Grams",
       "strainName": "Han Solo HashBurger",
       "strainType": null,
@@ -41402,7 +41410,7 @@
         {
           "id": 9098467,
           "label": "1A40303000040D9000006407",
-          "quantity": 339.0,
+          "quantity": 335.5,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
@@ -44995,7 +45003,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Banana Runtz Rip Sticks",
       "strainType": null,
@@ -45027,7 +45035,7 @@
         {
           "id": 8265658,
           "label": "1A403030000012E000148551",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-03-31",
           "expirationDate": "2027-02-03"
         }
@@ -59209,7 +59217,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Banana Sherbz",
       "strainType": null,
@@ -59242,7 +59250,7 @@
         {
           "id": 9053092,
           "label": "1A40303000017D5000107893",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-08-06"
         }
