@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T20:20:02.540940+00:00",
+  "generated_at": "2026-11-15T20:30:03.235041+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -25674,6 +25674,66 @@
       "posCategory": "Pre-Rolls"
     },
     {
+      "id": 9271373,
+      "packageCount": 1,
+      "name": "Graham Cracker Pre-Pack (Buds) - Rythm (Indica Dominant) - Usable 3.5g",
+      "brand": "Rythm",
+      "producer": "GTI Maryland",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 87.5,
+      "unit": "Grams",
+      "strainName": "Graham Cracker",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.49,
+        "totalCBD": 0.06,
+        "CBC": 0.0,
+        "CBDA": 0.07,
+        "CBDV": 0.0,
+        "CBG": 0.13,
+        "CBGA": 1.76,
+        "CBN": 0.0,
+        "THCA": 31.94,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.01,
+        "humulene": 0.1,
+        "myrcene": 0.46,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 0.33,
+        "beta-pinene": 0.12,
+        "camphene": 0.03,
+        "limonene": 0.83,
+        "terpineol": 0.04,
+        "terpinolene": 0.03
+      },
+      "totalTerps": 2.05,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9271373,
+          "label": "1A40303000003EA000294816",
+          "quantity": 87.5,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-10-19"
+        }
+      ],
+      "price": 55.0,
+      "medPrice": 55.0,
+      "salePrice": 46.75,
+      "medSalePrice": 46.75,
+      "deal": "Soothing Sunday! 15% OFF Flower",
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
       "id": 8920780,
       "packageCount": 1,
       "name": "Grape Gas Cake 8ths",
@@ -27000,6 +27060,64 @@
       "medSalePrice": 34.0,
       "deal": "Soothing Sunday! 15% OFF Flower",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4739176",
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 9263918,
+      "packageCount": 1,
+      "name": "Lemon Blanc Buds Pre-Pack 3.5g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 224.0,
+      "unit": "Grams",
+      "strainName": "Lemon Blanc",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 31.39,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.21,
+        "CBGA": 1.65,
+        "CBN": 0.0,
+        "THCA": 34.82,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.17,
+        "myrcene": 1.87,
+        "alpha-pinene": 0.5,
+        "caryophyllene": 0.45,
+        "beta-pinene": 0.13,
+        "ocimene": 0.14,
+        "limonene": 0.16,
+        "linalool": 0.16
+      },
+      "totalTerps": 3.7,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9263918,
+          "label": "1A40303000000CB000058596",
+          "quantity": 224.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-11-06"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": 29.75,
+      "medSalePrice": 29.75,
+      "deal": "Soothing Sunday! 15% OFF Flower",
+      "orderUrl": null,
       "posCategory": "Pre-Packed Flower"
     },
     {
