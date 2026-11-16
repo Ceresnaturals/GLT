@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T22:10:04.439809+00:00",
+  "generated_at": "2026-11-16T22:20:02.979850+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11892,9 +11892,9 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11933,7 +11933,7 @@
         {
           "id": 9236734,
           "label": "1A403030000012D000278759",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-22"
         }
@@ -19596,7 +19596,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19637,7 +19637,7 @@
         {
           "id": 9233189,
           "label": "1A40303000003EA000176066",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-16"
         }
@@ -23664,7 +23664,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 247.5,
+      "quantity": 244.0,
       "unit": "Grams",
       "strainName": "BLVCK Gelatti",
       "strainType": null,
@@ -23697,7 +23697,7 @@
         {
           "id": 8407107,
           "label": "1A40303000040D9000004497",
-          "quantity": 247.5,
+          "quantity": 244.0,
           "packagedDate": "2026-05-04",
           "expirationDate": "2027-05-04"
         }
@@ -33124,7 +33124,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 46.0,
+      "quantity": 45.0,
       "unit": "Each",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -33156,7 +33156,7 @@
         {
           "id": 9263919,
           "label": "1A40303000000CB000058598",
-          "quantity": 46.0,
+          "quantity": 45.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-23"
         }
@@ -34788,7 +34788,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 43.0,
+      "quantity": 42.0,
       "unit": "Each",
       "strainName": "Lemon Cherry Gelato",
       "strainType": null,
@@ -34821,7 +34821,7 @@
         {
           "id": 9263925,
           "label": "1A40303000000CB000058599",
-          "quantity": 43.0,
+          "quantity": 42.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-23"
         }
@@ -34845,7 +34845,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 36.0,
+      "quantity": 35.0,
       "unit": "Each",
       "strainName": "Lemon Cherry Gelato",
       "strainType": null,
@@ -34878,7 +34878,7 @@
         {
           "id": 9263926,
           "label": "1A40303000000CB000058600",
-          "quantity": 36.0,
+          "quantity": 35.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-23"
         }
@@ -40945,62 +40945,6 @@
       "posCategory": "Pre-Packed Flower"
     },
     {
-      "id": 9073215,
-      "packageCount": 1,
-      "name": "SMG - Black Cherry Gelato - 454g",
-      "brand": null,
-      "producer": "Sunmed Growers",
-      "category": "Shake/Trim",
-      "metrcCategory": "Shake/Trim (by strain)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.65,
-      "unit": "Grams",
-      "strainName": "Black Cherry Gelato",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 25.24,
-        "totalCBD": 0.14,
-        "CBDA": 0.03,
-        "CBG": 0.49,
-        "CBN": 0.03,
-        "THCA": 28.41
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.09,
-        "humulene": 0.16,
-        "myrcene": 0.64,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.46,
-        "eudesmol": 0.01,
-        "beta-pinene": 0.07,
-        "limonene": 0.34,
-        "linalool": 0.05,
-        "terpinolene": 0.01
-      },
-      "totalTerps": 2.0,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 9073215,
-          "label": "1A40303000001F5000453113",
-          "quantity": 1.65,
-          "packagedDate": "2026-09-30",
-          "expirationDate": null
-        }
-      ],
-      "price": null,
-      "medPrice": null,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": null,
-      "posCategory": "Bulk Flower"
-    },
-    {
       "id": 9105009,
       "packageCount": 1,
       "name": "SMG - Ice Cream Cake - 454g",
@@ -41104,64 +41048,6 @@
           "label": "1A40303000001F5000453115",
           "quantity": 4.28,
           "packagedDate": "2026-09-30",
-          "expirationDate": null
-        }
-      ],
-      "price": null,
-      "medPrice": null,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": null,
-      "posCategory": "Bulk Flower"
-    },
-    {
-      "id": 9104972,
-      "packageCount": 1,
-      "name": "SMG - Sunshine #4 - 454g",
-      "brand": null,
-      "producer": "Sunmed Growers",
-      "category": "Shake/Trim",
-      "metrcCategory": "Shake/Trim (by strain)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.94,
-      "unit": "Grams",
-      "strainName": "Sunshine #4",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 27.87,
-        "totalCBD": 0.28,
-        "CBDA": 0.04,
-        "CBG": 0.76,
-        "CBN": 0.05,
-        "THCA": 30.8
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.11,
-        "humulene": 0.17,
-        "myrcene": 0.62,
-        "alpha-pinene": 0.08,
-        "caryophyllene": 0.49,
-        "eudesmol": 0.01,
-        "beta-pinene": 0.12,
-        "ocimene": 0.07,
-        "limonene": 0.62,
-        "linalool": 0.15,
-        "terpinolene": 0.02,
-        "nerolidol": 0.01
-      },
-      "totalTerps": 2.6,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 9104972,
-          "label": "1A40303000001F5000456192",
-          "quantity": 3.94,
-          "packagedDate": "2026-10-07",
           "expirationDate": null
         }
       ],
