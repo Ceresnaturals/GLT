@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T15:00:03.262995+00:00",
+  "generated_at": "2026-11-16T15:10:02.917701+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -29,7 +29,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -70,7 +70,7 @@
         {
           "id": 9030802,
           "label": "1A4030300000C83000082168",
-          "quantity": 10.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-22",
           "expirationDate": "2027-08-12"
         }
@@ -24229,7 +24229,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 182.0,
+      "quantity": 168.0,
       "unit": "Grams",
       "strainName": "Bodega Gas",
       "strainType": null,
@@ -24263,7 +24263,7 @@
         {
           "id": 8873580,
           "label": "1A403030000012E000183002",
-          "quantity": 182.0,
+          "quantity": 168.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-08-07"
         }
@@ -25215,7 +25215,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 448.0,
+      "quantity": 420.0,
       "unit": "Grams",
       "strainName": "Fruit Loot 5",
       "strainType": null,
@@ -25248,7 +25248,7 @@
         {
           "id": 9226752,
           "label": "1A40303000000CB000057872",
-          "quantity": 448.0,
+          "quantity": 420.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-26"
         }
@@ -26481,7 +26481,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 92.0,
+      "quantity": 88.0,
       "unit": "Grams",
       "strainName": "Gelatti Pancakes",
       "strainType": null,
@@ -26515,7 +26515,7 @@
         {
           "id": 9117353,
           "label": "1A4030300004845000048446",
-          "quantity": 92.0,
+          "quantity": 88.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-09-15"
         }
@@ -28381,7 +28381,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 63.0,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Animal Face",
       "strainType": null,
@@ -28414,7 +28414,7 @@
         {
           "id": 9265930,
           "label": "1A40303000001F5000476082",
-          "quantity": 63.0,
+          "quantity": 56.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-09-30"
         }
@@ -60509,65 +60509,6 @@
       "deal": "40% Off",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4673048",
       "posCategory": "Disposables"
-    },
-    {
-      "id": 8778313,
-      "packageCount": 1,
-      "name": "Strawberry Cough Cartridge (NCD) - &Shine (Sativa) - 1000mg",
-      "brand": "&Shine",
-      "producer": "Chesapeake Alternatives",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Strawberry Cough",
-      "strainType": "Sativa",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 84.99,
-        "CBC": 0.74,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.78,
-        "CBGA": 0.0,
-        "CBN": 0.36,
-        "THCA": 0.0,
-        "THCV": 0.84
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.3,
-        "humulene": 0.44,
-        "myrcene": 0.72,
-        "alpha-pinene": 0.41,
-        "caryophyllene": 1.21,
-        "beta-pinene": 0.24,
-        "ocimene": 0.36,
-        "limonene": 0.71,
-        "linalool": 0.24,
-        "terpinolene": 0.06
-      },
-      "totalTerps": 4.96,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8778313,
-          "label": "1A40303000003EA000192820",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-27",
-          "expirationDate": "2027-06-26"
-        }
-      ],
-      "price": 45.0,
-      "medPrice": 45.0,
-      "salePrice": 27.0,
-      "medSalePrice": 27.0,
-      "deal": "40% Off",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4551768",
-      "posCategory": "Cartridges"
     },
     {
       "id": 9270483,
