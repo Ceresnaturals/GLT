@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T17:30:03.201920+00:00",
+  "generated_at": "2026-11-16T17:40:02.778146+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -22028,71 +22028,6 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8696901,
-      "packageCount": 1,
-      "name": "Sunnies - Sugar Free Watermelon Gummies - 5mg - 20Pc",
-      "brand": "Sunnies",
-      "producer": "SunMed Growers",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.13,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 Piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 5.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8696901,
-          "label": "1A40303000001F5000401553",
-          "quantity": 2.0,
-          "packagedDate": "2026-07-08",
-          "expirationDate": "2027-03-04"
-        }
-      ],
-      "price": 15.0,
-      "medPrice": 15.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4710879",
-      "posCategory": "Edibles"
-    },
-    {
       "id": 9168816,
       "packageCount": 1,
       "name": "Sunnies - Sugar Free White Peach Gummies - 5mg - 20Pc",
@@ -22103,7 +22038,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22144,7 +22079,7 @@
         {
           "id": 9168816,
           "label": "1A40303000001F5000462142",
-          "quantity": 14.0,
+          "quantity": 10.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-28"
         }
@@ -61278,63 +61213,6 @@
       "posCategory": "Cartridges"
     },
     {
-      "id": 9104970,
-      "packageCount": 1,
-      "name": "Super Sour Diesel DV 0.5g/500mg",
-      "brand": null,
-      "producer": "SunMed Growers",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Super Sour Diesel DV",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 81.13,
-        "totalCBD": 0.19,
-        "CBC": 0.92,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.95,
-        "CBGA": 0.0,
-        "CBN": 0.21,
-        "THCA": 0.0,
-        "THCV": 0.84
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.03,
-        "myrcene": 3.57,
-        "alpha-pinene": 1.15,
-        "caryophyllene": 0.23,
-        "beta-pinene": 0.99,
-        "limonene": 2.47,
-        "terpinolene": 0.21
-      },
-      "totalTerps": 9.87,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 9104970,
-          "label": "1A40303000001F5000456187",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-07",
-          "expirationDate": "2027-07-24"
-        }
-      ],
-      "price": 20.0,
-      "medPrice": 20.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4293256",
-      "posCategory": "Cartridges"
-    },
-    {
       "id": 9147819,
       "packageCount": 1,
       "name": "Tangie Distillate Cartridge Strane - 1 g",
@@ -61914,7 +61792,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Cherry Limeade",
       "strainType": null,
@@ -61948,7 +61826,7 @@
         {
           "id": 8106933,
           "label": "1A40303000030D5000002728",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-02-20",
           "expirationDate": "2027-06-19"
         }
