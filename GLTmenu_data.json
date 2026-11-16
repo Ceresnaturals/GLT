@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:50:02.829758+00:00",
+  "generated_at": "2026-11-16T22:00:04.472399+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4460,6 +4460,64 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4728714",
+      "posCategory": "Concentrate"
+    },
+    {
+      "id": 8991887,
+      "packageCount": 1,
+      "name": "MPX Permanent Cherries Cold-Cure Live Rosin 1g",
+      "brand": null,
+      "producer": "Rosebud Organics",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "MPX Permanent Cherries",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 70.33,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.81,
+        "CBN": 0.0,
+        "THCA": 75.99,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.49,
+        "humulene": 0.6,
+        "myrcene": 1.59,
+        "alpha-pinene": 0.11,
+        "caryophyllene": 2.07,
+        "beta-pinene": 0.16,
+        "limonene": 1.17,
+        "linalool": 0.49,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 7.1,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8991887,
+          "label": "1A4030300001771000042563",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-14",
+          "expirationDate": "2027-09-02"
+        }
+      ],
+      "price": 60.0,
+      "medPrice": 60.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Concentrate"
     },
     {
@@ -17742,24 +17800,25 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9124334,
-      "packageCount": 1,
+      "id": 9262547,
+      "packageCount": 2,
       "name": "In House Blood Orange Fast Acting V3 Gummies-10mg-10",
       "brand": "In House",
       "producer": "Kind Therapeutics USA",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 31.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.2,
-        "totalCBD": 1.33,
+        "totalTHC": 0.21,
+        "totalCBD": 1.23,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
@@ -17774,7 +17833,7 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 66.5,
+          "totalCBD": 61.5,
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
@@ -17790,6 +17849,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9262547,
+          "label": "1A4030300003522000224774",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-09-29"
+        },
         {
           "id": 9124334,
           "label": "1A4030300003522000219678",
@@ -26630,7 +26696,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 206.5,
+      "quantity": 203.0,
       "unit": "Grams",
       "strainName": "Lemon Blanc",
       "strainType": null,
@@ -26664,7 +26730,7 @@
         {
           "id": 9263918,
           "label": "1A40303000000CB000058596",
-          "quantity": 206.5,
+          "quantity": 203.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-11-06"
         }
@@ -29157,7 +29223,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 84.0,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -29191,7 +29257,7 @@
         {
           "id": 9226956,
           "label": "1A40303000000CB000057879",
-          "quantity": 84.0,
+          "quantity": 56.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-23"
         }
@@ -40311,17 +40377,18 @@
       "posCategory": "Pre-Rolls"
     },
     {
-      "id": 8746344,
-      "packageCount": 1,
+      "id": 8826357,
+      "packageCount": 2,
       "name": "White OG 5 pack (Infused) Dogwalkers (Sit) - 2.25g",
       "brand": "Dogwalkers",
       "producer": "Chesapeake Alternatives",
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": "White OG",
       "strainType": null,
@@ -40351,6 +40418,13 @@
       "totalTerps": 1.92,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 8826357,
+          "label": "1A40303000003EA000195254",
+          "quantity": 25.0,
+          "packagedDate": "2026-08-06",
+          "expirationDate": "2027-07-02"
+        },
         {
           "id": 8746344,
           "label": "1A40303000003EA000201211",
@@ -41333,17 +41407,18 @@
       "posCategory": "Lotions & Balms"
     },
     {
-      "id": 8939334,
-      "packageCount": 1,
+      "id": 9190788,
+      "packageCount": 2,
       "name": "Cosmec Healing-Recovery Salve-250mg",
       "brand": null,
       "producer": "Kind Therapeutics USA",
       "category": "Topical",
       "metrcCategory": "Infused Non-Edibles",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -41388,6 +41463,13 @@
       "totalTerps": 5.04,
       "dominantTerpene": "myrcene",
       "packages": [
+        {
+          "id": 9190788,
+          "label": "1A4030300003522000227517",
+          "quantity": 25.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-09-18"
+        },
         {
           "id": 8939334,
           "label": "1A4030300003522000210563",
@@ -45743,6 +45825,60 @@
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174598",
       "posCategory": "Cartridges"
+    },
+    {
+      "id": 8966474,
+      "packageCount": 1,
+      "name": "Bomb Popz Cloud Bar Hellavated - 1 g",
+      "brand": "Hellavated",
+      "producer": "Holistic Industries",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Bomb Popz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.66,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.7,
+        "CBGA": 0.0,
+        "CBN": 0.45,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.35,
+        "alpha-pinene": 0.53,
+        "caryophyllene": 0.43,
+        "beta-pinene": 0.11,
+        "limonene": 1.68
+      },
+      "totalTerps": 3.18,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8966474,
+          "label": "1A403030000012E000192638",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-08",
+          "expirationDate": "2027-05-31"
+        }
+      ],
+      "price": 50.0,
+      "medPrice": 50.0,
+      "salePrice": 30.0,
+      "medSalePrice": 30.0,
+      "deal": "40% Off",
+      "orderUrl": null,
+      "posCategory": "Disposables"
     },
     {
       "id": 9270494,
@@ -50118,17 +50254,18 @@
       "posCategory": "Disposables"
     },
     {
-      "id": 8034501,
-      "packageCount": 1,
+      "id": 8490583,
+      "packageCount": 2,
       "name": "HiAF|Live Terpene|Pineapple Skunk|Vape Cart|500mg",
       "brand": "HiAF",
       "producer": "Marymed",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 4.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Pineapple Skunk",
       "strainType": null,
@@ -50159,6 +50296,13 @@
       "totalTerps": 6.24,
       "dominantTerpene": "terpinolene",
       "packages": [
+        {
+          "id": 8490583,
+          "label": "1A4030300002009000102677",
+          "quantity": 10.0,
+          "packagedDate": "2026-05-21",
+          "expirationDate": "2027-01-19"
+        },
         {
           "id": 8034501,
           "label": "1A4030300002009000089130",
@@ -59913,7 +60057,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "London Pound Cake",
       "strainType": null,
@@ -59951,7 +60095,7 @@
         {
           "id": 9266025,
           "label": "1A40303000001F5000476094",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-05"
         }
