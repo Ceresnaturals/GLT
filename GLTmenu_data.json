@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T15:30:02.824947+00:00",
+  "generated_at": "2026-11-16T15:40:02.271368+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -363,7 +363,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -416,7 +416,7 @@
         {
           "id": 9051791,
           "label": "1A4030300000193000108908",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-25",
           "expirationDate": "2027-08-25"
         }
@@ -12150,7 +12150,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12191,7 +12191,7 @@
         {
           "id": 8583748,
           "label": "1A403030000012D000244630",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-05-06"
         }
@@ -19768,7 +19768,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19809,7 +19809,7 @@
         {
           "id": 9233189,
           "label": "1A40303000003EA000176066",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-16"
         }
@@ -27640,7 +27640,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 133.0,
+      "quantity": 129.5,
       "unit": "Grams",
       "strainName": "Murphy'z Law",
       "strainType": null,
@@ -27674,7 +27674,7 @@
         {
           "id": 9098468,
           "label": "1A40303000040D9000006411",
-          "quantity": 133.0,
+          "quantity": 129.5,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-09-06"
         }
@@ -55472,7 +55472,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -56609,59 +56609,6 @@
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4693030",
       "posCategory": "Cartridges"
-    },
-    {
-      "id": 8756254,
-      "packageCount": 1,
-      "name": "OG Mint Cloud Bar Hellavated - 1 g",
-      "brand": "Hellavated",
-      "producer": "Holistic Industries",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "OG Mint",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 85.97,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.15,
-        "CBGA": 0.0,
-        "CBN": 0.39,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "caryophyllene": 0.07,
-        "beta-pinene": 0.08,
-        "limonene": 0.63,
-        "terpinolene": 0.05
-      },
-      "totalTerps": 1.88,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8756254,
-          "label": "1A403030000012E000176848",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-21",
-          "expirationDate": "2027-02-15"
-        }
-      ],
-      "price": 50.0,
-      "medPrice": 50.0,
-      "salePrice": 30.0,
-      "medSalePrice": 30.0,
-      "deal": "40% Off",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174610",
-      "posCategory": "Disposables"
     },
     {
       "id": 8333329,
