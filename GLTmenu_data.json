@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T17:20:02.431987+00:00",
+  "generated_at": "2026-11-16T17:30:03.201920+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -15309,7 +15309,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15348,7 +15348,7 @@
         {
           "id": 9174040,
           "label": "1A403030000012D000277072",
-          "quantity": 6.0,
+          "quantity": 4.0,
           "packagedDate": "2026-10-22",
           "expirationDate": "2027-09-17"
         }
@@ -15435,7 +15435,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15476,7 +15476,7 @@
         {
           "id": 8981911,
           "label": "1A403030000012D000266241",
-          "quantity": 8.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-10",
           "expirationDate": "2027-08-24"
         }
@@ -26022,7 +26022,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 66.5,
+      "quantity": 63.0,
       "unit": "Grams",
       "strainName": "Blueberry",
       "strainType": null,
@@ -26054,7 +26054,7 @@
         {
           "id": 9190729,
           "label": "1A4030300003521000062717",
-          "quantity": 66.5,
+          "quantity": 63.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-09-30"
         }
@@ -28267,7 +28267,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 189.0,
+      "quantity": 185.5,
       "unit": "Grams",
       "strainName": "RS11 x Skywalker OG",
       "strainType": null,
@@ -28300,7 +28300,7 @@
         {
           "id": 9225173,
           "label": "1A40303000040D9000006808",
-          "quantity": 189.0,
+          "quantity": 185.5,
           "packagedDate": "2026-11-03",
           "expirationDate": "2027-11-02"
         }
@@ -31152,7 +31152,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Blueberry Crumb Cake 5",
       "strainType": null,
@@ -31184,7 +31184,7 @@
         {
           "id": 9128368,
           "label": "1A40303000000CB000056052",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-04"
         }
@@ -32364,7 +32364,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 26.0,
       "unit": "Each",
@@ -40352,7 +40352,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Raw Prerolls",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 37.0,
       "unit": "Each",
@@ -41465,7 +41465,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 407.26,
+      "quantity": 403.76,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -41498,7 +41498,7 @@
         {
           "id": 9105009,
           "label": "1A40303000001F5000456190",
-          "quantity": 407.26,
+          "quantity": 403.76,
           "packagedDate": "2026-10-07",
           "expirationDate": null
         }
@@ -44155,64 +44155,6 @@
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4700741",
       "posCategory": "Disposables"
-    },
-    {
-      "id": 9201688,
-      "packageCount": 1,
-      "name": "Alien Mints Distillate Cartridge Strane - 1 g",
-      "brand": "Strane",
-      "producer": "Holistic Industries",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Alien Mints",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 83.25,
-        "CBC": 0.47,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.88,
-        "CBGA": 0.0,
-        "CBN": 0.64,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.51,
-        "myrcene": 1.06,
-        "alpha-pinene": 0.35,
-        "caryophyllene": 1.33,
-        "beta-pinene": 0.2,
-        "ocimene": 0.39,
-        "limonene": 2.18,
-        "linalool": 0.28,
-        "terpinolene": 0.1
-      },
-      "totalTerps": 6.72,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 9201688,
-          "label": "1A403030000012E000206844",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-28",
-          "expirationDate": "2027-09-18"
-        }
-      ],
-      "price": 45.0,
-      "medPrice": 45.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4289831",
-      "posCategory": "Cartridges"
     },
     {
       "id": 8891525,
@@ -47829,7 +47771,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Grape Escape",
       "strainType": "Indica",
@@ -47864,7 +47806,7 @@
         {
           "id": 9079419,
           "label": "1A403030000012D000272426",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-07-23"
         }
@@ -54574,7 +54516,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": "Liquid",
       "strainType": null,
@@ -54608,7 +54550,7 @@
         {
           "id": 8582090,
           "label": "1A4030300003D55000006198",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-02-21"
         }
