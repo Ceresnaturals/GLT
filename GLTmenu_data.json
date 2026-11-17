@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T18:40:03.010217+00:00",
+  "generated_at": "2026-11-17T18:50:05.881416+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -5034,7 +5034,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 7.0,
       "unit": "Each",
@@ -7810,7 +7810,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7841,7 +7841,7 @@
         {
           "id": 8970470,
           "label": "1A40303000003EA000263663",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-04-28"
         }
@@ -12268,6 +12268,69 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9274609,
+      "packageCount": 1,
+      "name": "Curio Wellness Elderberry Hibiscus 10mg Chews-10mg-10",
+      "brand": "Curio Wellness",
+      "producer": "Curio Manufacturing",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.267,
+        "CBC": 0.004,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.009,
+        "CBGA": 0.0,
+        "CBN": 0.011,
+        "THCA": 0.0,
+        "THCV": 0.003
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.16,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.36,
+          "CBGA": 0.0,
+          "CBN": 0.44,
+          "THCA": 0.0,
+          "THCV": 0.12
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9274609,
+          "label": "1A403030000012D000279610",
+          "quantity": 24.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-09-22"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": 12.0,
+      "medSalePrice": 12.0,
+      "deal": "40% Off",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9047760,
       "packageCount": 1,
       "name": "Curio Wellness Elderberry Hibiscus 40mg Chews-40mg-10",
@@ -14749,6 +14812,69 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9274612,
+      "packageCount": 1,
+      "name": "Dixie Chocolate 10mg Straight Up Dark-10mg-10",
+      "brand": "Dixie",
+      "producer": "Curio Manufacturing",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.097,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.003,
+        "CBGA": 0.0,
+        "CBN": 0.004,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.3,
+          "CBGA": 0.0,
+          "CBN": 0.4,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9274612,
+          "label": "1A403030000012D000279614",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-09-30"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9013194,
       "packageCount": 1,
       "name": "Dixie Chocolate 10mg Straight Up Milk Indica-10mg-10",
@@ -15263,6 +15389,71 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3685304",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9274617,
+      "packageCount": 1,
+      "name": "Dixie Synergy 1:1 Sweet Melon Medicated Chew-10mg-10",
+      "brand": "Dixie",
+      "producer": "Curio Manufacturing",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.194,
+        "totalCBD": 0.196,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.007,
+        "CBGA": 0.0,
+        "CBN": 0.007,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 10.133,
+          "CBC": 0.103,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.362,
+          "CBGA": 0.0,
+          "CBN": 0.362,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9274617,
+          "label": "1A403030000012D000279620",
+          "quantity": 24.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-08-11"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -20520,6 +20711,69 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9274520,
+      "packageCount": 1,
+      "name": "Smokiez Blackberry Indica 10mg Medicated Chews-10mg-10",
+      "brand": "Smokiez",
+      "producer": "Curio Manufacturing",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.164,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.009,
+        "CBGA": 0.0,
+        "CBN": 0.006,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.12,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.54,
+          "CBGA": 0.0,
+          "CBN": 0.36,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9274520,
+          "label": "1A403030000012D000279615",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-09-01"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 8864063,
       "packageCount": 1,
       "name": "Smokiez Blue Raspberry Indica 30mg Medicated Chews-30mg-10",
@@ -20583,27 +20837,28 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9047764,
-      "packageCount": 1,
+      "id": 9274613,
+      "packageCount": 2,
       "name": "Smokiez Sour Blackberry Indica 10mg Medicated Chews-10mg-10",
       "brand": "Smokiez",
       "producer": "Curio Manufacturing",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.151,
-        "CBC": 0.002,
+        "totalTHC": 0.162,
+        "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.006,
+        "CBG": 0.007,
         "CBGA": 0.0,
         "CBN": 0.006,
         "THCA": 0.0,
@@ -20614,10 +20869,10 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "CBC": 0.12,
+          "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.36,
+          "CBG": 0.42,
           "CBGA": 0.0,
           "CBN": 0.36,
           "THCA": 0.0,
@@ -20629,6 +20884,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9274613,
+          "label": "1A403030000012D000279616",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-08-18"
+        },
         {
           "id": 9047764,
           "label": "1A403030000012D000267873",
@@ -20643,6 +20905,69 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174958",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9274614,
+      "packageCount": 1,
+      "name": "Smokiez Sour Peach Sativa 10mg Medicated Chews-10mg-10",
+      "brand": "Smokiez",
+      "producer": "Curio Manufacturing",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.155,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.007,
+        "CBGA": 0.0,
+        "CBN": 0.005,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.42,
+          "CBGA": 0.0,
+          "CBN": 0.3,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9274614,
+          "label": "1A403030000012D000279617",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-09-29"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": 12.0,
+      "medSalePrice": 12.0,
+      "deal": "40% Off",
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -20707,6 +21032,69 @@
       "medSalePrice": 24.0,
       "deal": "40% Off",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664604",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9274618,
+      "packageCount": 1,
+      "name": "Smokiez Sour Watermelon Hybrid 10mg Medicated Chews-10mg-10",
+      "brand": "Smokiez",
+      "producer": "Curio Manufacturing",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.155,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.007,
+        "CBGA": 0.0,
+        "CBN": 0.006,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.12,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.42,
+          "CBGA": 0.0,
+          "CBN": 0.36,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9274618,
+          "label": "1A403030000012D000279621",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-08-26"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -25728,7 +26116,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.5,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Chestah The Cheetah",
       "strainType": null,
@@ -25761,7 +26149,7 @@
         {
           "id": 9066216,
           "label": "1A4030300003521000058691",
-          "quantity": 10.5,
+          "quantity": 7.0,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-09-16"
         }
@@ -32067,6 +32455,122 @@
       "posCategory": "Pre-Rolls"
     },
     {
+      "id": 9274521,
+      "packageCount": 1,
+      "name": "Curio Wellness Hell's OG Pre-rolls-Usable-2x0.5g",
+      "brand": "Curio Wellness",
+      "producer": "Curio Manufacturing",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Grams",
+      "strainName": "Hell's OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.29,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.22,
+        "CBN": 0.0,
+        "THCA": 31.82,
+        "THCV": 0.18
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.12,
+        "humulene": 0.14,
+        "myrcene": 1.36,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.41,
+        "beta-pinene": 0.05,
+        "ocimene": 0.06,
+        "limonene": 0.34,
+        "linalool": 0.09
+      },
+      "totalTerps": 2.63,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9274521,
+          "label": "1A403030000012D000279622",
+          "quantity": 30.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-08-03"
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": 7.5,
+      "medSalePrice": 7.5,
+      "deal": "Tokin Tuesday! 25% OFF all Pre-Rolls",
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 9274616,
+      "packageCount": 1,
+      "name": "Curio Wellness Oreoz Pre-rolls-Usable-2x0.5g",
+      "brand": "Curio Wellness",
+      "producer": "Curio Manufacturing",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Grams",
+      "strainName": "Oreoz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.77,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.65,
+        "CBN": 0.0,
+        "THCA": 25.76,
+        "THCV": 0.94
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.15,
+        "myrcene": 0.23,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.48,
+        "beta-pinene": 0.06,
+        "ocimene": 0.05,
+        "limonene": 0.43,
+        "linalool": 0.1
+      },
+      "totalTerps": 1.79,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9274616,
+          "label": "1A403030000012D000279619",
+          "quantity": 30.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-04-28"
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": 7.5,
+      "medSalePrice": 7.5,
+      "deal": "Tokin Tuesday! 25% OFF all Pre-Rolls",
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 9236737,
       "packageCount": 1,
       "name": "Curio Wellness Thrive Infused Pre-rolls-2x0.5g",
@@ -33748,17 +34252,18 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
-      "id": 9236733,
-      "packageCount": 1,
+      "id": 9274519,
+      "packageCount": 2,
       "name": "Kaviar Sativa Infused Pre-Roll - 1.5g",
       "brand": "Kaviar",
       "producer": "Curio Manufacturing",
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 38.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -33792,6 +34297,13 @@
       "dominantTerpene": "caryophyllene",
       "packages": [
         {
+          "id": 9274519,
+          "label": "1A403030000012D000279613",
+          "quantity": 30.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-08-08"
+        },
+        {
           "id": 9236733,
           "label": "1A403030000012D000278757",
           "quantity": 8.0,
@@ -33799,13 +34311,13 @@
           "expirationDate": "2027-08-10"
         }
       ],
-      "price": null,
-      "medPrice": null,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 18.75,
+      "medSalePrice": 18.75,
+      "deal": "Tokin Tuesday! 25% OFF all Pre-Rolls",
       "orderUrl": null,
-      "posCategory": null
+      "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
       "id": 9013267,
@@ -34728,7 +35240,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Lemon Blanc",
       "strainType": null,
@@ -34762,7 +35274,7 @@
         {
           "id": 9226968,
           "label": "1A40303000000CB000057883",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-16"
         }
@@ -35636,6 +36148,66 @@
       "medSalePrice": 18.75,
       "deal": "Tokin Tuesday! 25% OFF all Pre-Rolls",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4699752",
+      "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
+      "id": 9274611,
+      "packageCount": 1,
+      "name": "Mfused FIRE Fattys (Granddaddy Purple)-2x0.5g",
+      "brand": null,
+      "producer": "Curio Manufacturing",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Each",
+      "strainName": "Mfused FIRE Fattys",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.69,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.71,
+        "CBN": 0.0,
+        "THCA": 33.22,
+        "THCV": 0.14
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.28,
+        "humulene": 0.21,
+        "myrcene": 0.38,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 1.41,
+        "beta-pinene": 0.05,
+        "caryophyllene-oxide": 0.21,
+        "ocimene": 0.34,
+        "limonene": 0.32,
+        "linalool": 0.33,
+        "terpinolene": 0.25
+      },
+      "totalTerps": 4.16,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9274611,
+          "label": "1A403030000012D000279612",
+          "quantity": 30.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-06-22"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 18.75,
+      "medSalePrice": 18.75,
+      "deal": "Tokin Tuesday! 25% OFF all Pre-Rolls",
+      "orderUrl": null,
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
@@ -37882,7 +38454,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Blueberry Kush",
       "strainType": "Indica",
@@ -37916,7 +38488,7 @@
         {
           "id": 9271587,
           "label": "1A40303000003EA000294819",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-08-19"
         }
@@ -39140,7 +39712,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Strawberry Haze Juicy Stickz",
       "strainType": null,
@@ -39174,7 +39746,7 @@
         {
           "id": 8966514,
           "label": "1A403030000012E000192647",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-03-18"
         }
@@ -43839,7 +44411,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Baja Blue DV",
       "strainType": null,
@@ -43873,7 +44445,7 @@
         {
           "id": 9229960,
           "label": "1A40303000001F5000467390",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-03-19"
         }
@@ -48195,7 +48767,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Flavor Series Fruit Bedrock BRIQ",
       "strainType": null,
@@ -48228,7 +48800,7 @@
         {
           "id": 8908840,
           "label": "1A4030300000193000106243",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-03-23"
         }
@@ -51208,7 +51780,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Tahoe OG",
       "strainType": null,
@@ -51242,7 +51814,7 @@
         {
           "id": 9190790,
           "label": "1A4030300003522000227518",
-          "quantity": 22.0,
+          "quantity": 20.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-09-08"
         }
@@ -51439,7 +52011,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "White Widow",
       "strainType": null,
@@ -51474,7 +52046,7 @@
         {
           "id": 8882184,
           "label": "1A4030300003522000202238",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-07-28"
         }
@@ -51556,7 +52128,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Intergalactic LLR",
       "strainType": null,
@@ -51592,7 +52164,7 @@
         {
           "id": 8755240,
           "label": "ABC0303000037DD000024737",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-05-11"
         }
@@ -53812,7 +54384,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "MD VP MDGFGE 05CR",
       "strainType": null,
@@ -53846,7 +54418,7 @@
         {
           "id": 9100508,
           "label": "1A40303000007D1000106301",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-08-30"
         }
@@ -53857,64 +54429,6 @@
       "medSalePrice": 18.75,
       "deal": "Tokin Tuesday! 25% OFF Vapes",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4606035",
-      "posCategory": "Cartridges"
-    },
-    {
-      "id": 8872244,
-      "packageCount": 1,
-      "name": "MD-VP-MDOGKU-05CR",
-      "brand": null,
-      "producer": "MCP Processing",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "MD VP MDOGKU 05CR",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 75.83,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.71,
-        "CBN": 0.89,
-        "THCA": 18.19,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.59,
-        "myrcene": 0.59,
-        "alpha-pinene": 0.12,
-        "caryophyllene": 1.86,
-        "eudesmol": 0.36,
-        "beta-pinene": 0.16,
-        "limonene": 1.27,
-        "linalool": 1.04,
-        "terpinolene": 0.04
-      },
-      "totalTerps": 6.98,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8872244,
-          "label": "1A40303000007D1000093659",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-17",
-          "expirationDate": "2027-07-02"
-        }
-      ],
-      "price": 25.0,
-      "medPrice": 25.0,
-      "salePrice": 18.75,
-      "medSalePrice": 18.75,
-      "deal": "Tokin Tuesday! 25% OFF Vapes",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4622315",
       "posCategory": "Cartridges"
     },
     {
@@ -54771,6 +55285,63 @@
       "deal": "Tokin Tuesday! 25% OFF Vapes",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174607",
       "posCategory": "Cartridges"
+    },
+    {
+      "id": 9274610,
+      "packageCount": 1,
+      "name": "Mfused TWISTED Super Fog Jefe Plus- Swirly Temple 1g Disposable-1g",
+      "brand": null,
+      "producer": "Curio Manufacturing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Mfused TWISTED Super Fog Jefe Swirly Temple",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 81.79,
+        "CBC": 0.55,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.51,
+        "CBGA": 0.0,
+        "CBN": 0.41,
+        "THCA": 0.78,
+        "THCV": 0.84
+      },
+      "dose": null,
+      "terpenes": {
+        "myrcene": 0.38,
+        "alpha-pinene": 0.24,
+        "caryophyllene": 0.3,
+        "beta-pinene": 0.55,
+        "limonene": 5.88,
+        "linalool": 0.17,
+        "terpinolene": 0.45,
+        "nerolidol": 0.12
+      },
+      "totalTerps": 9.52,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9274610,
+          "label": "1A403030000012D000279611",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-09-29"
+        }
+      ],
+      "price": 55.0,
+      "medPrice": 55.0,
+      "salePrice": 41.25,
+      "medSalePrice": 41.25,
+      "deal": "Tokin Tuesday! 25% OFF Disposables",
+      "orderUrl": null,
+      "posCategory": "Disposables"
     },
     {
       "id": 9142947,
