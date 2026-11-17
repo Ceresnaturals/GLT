@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:50:02.728965+00:00",
+  "generated_at": "2026-11-17T22:00:04.518772+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -11666,7 +11666,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11707,7 +11707,7 @@
         {
           "id": 9190784,
           "label": "1A4030300003522000227515",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-04-14"
         }
@@ -11991,7 +11991,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 7.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12032,7 +12032,7 @@
         {
           "id": 9262297,
           "label": "1A4030300003522000224772",
-          "quantity": 7.0,
+          "quantity": 5.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-04-28"
         }
@@ -16397,6 +16397,134 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9288583,
+      "packageCount": 1,
+      "name": "Encore Dark Chocolate - 1:1 CBN:THC - 10mg - 10pc",
+      "brand": null,
+      "producer": "FGM Processing",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.176,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.006,
+        "CBGA": 0.0,
+        "CBN": 0.179,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.112,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.336,
+          "CBGA": 0.0,
+          "CBN": 10.024,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9288583,
+          "label": "1A40303000017D5000113954",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-09-16"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9288666,
+      "packageCount": 1,
+      "name": "Encore Dark Chocolate - Indica RSO - 10mg - 10pc*",
+      "brand": null,
+      "producer": "FGM Processing",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.163,
+        "totalCBD": 0.001,
+        "CBC": 0.003,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.004,
+        "CBGA": 0.0,
+        "CBN": 0.001,
+        "THCA": 0.001,
+        "THCV": 0.001
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.056,
+          "CBC": 0.168,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.224,
+          "CBGA": 0.0,
+          "CBN": 0.056,
+          "THCA": 0.056,
+          "THCV": 0.056
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9288666,
+          "label": "1A40303000017D5000113957",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-12",
+          "expirationDate": "2027-10-12"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9245229,
       "packageCount": 1,
       "name": "Encore Dark Chocolate - Sativa RSO - 10mg - 10pc*",
@@ -17036,6 +17164,69 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9288584,
+      "packageCount": 1,
+      "name": "Encore Milk Chocolate (Macro Dose) - Hybrid - 40mg - 10pc",
+      "brand": null,
+      "producer": "FGM Processing",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.663,
+        "CBC": 0.006,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.025,
+        "CBGA": 0.0,
+        "CBN": 0.006,
+        "THCA": 0.0,
+        "THCV": 0.004
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "CBC": 0.336,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.4,
+          "CBGA": 0.0,
+          "CBN": 0.336,
+          "THCA": 0.0,
+          "THCV": 0.224
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9288584,
+          "label": "1A40303000017D5000113955",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-03",
+          "expirationDate": "2027-09-03"
+        }
+      ],
+      "price": 50.0,
+      "medPrice": 50.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9245221,
       "packageCount": 1,
       "name": "Encore Milk Chocolate - 1:1 CBD:THC - 10mg - 10pc",
@@ -17098,6 +17289,69 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4175129",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9288667,
+      "packageCount": 1,
+      "name": "Encore Milk Chocolate - Indica RSO - 10mg - 10pc*",
+      "brand": null,
+      "producer": "FGM Processing",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.17,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.005,
+        "CBGA": 0.0,
+        "CBN": 0.001,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.112,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.28,
+          "CBGA": 0.0,
+          "CBN": 0.056,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9288667,
+          "label": "1A40303000017D5000113958",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-09-16"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -21163,7 +21417,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 32.0,
+      "quantity": 31.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21211,7 +21465,7 @@
         {
           "id": 8574286,
           "label": "1A40303000003EA000190134",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-06-10",
           "expirationDate": "2027-01-12"
         }
@@ -21694,7 +21948,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21735,7 +21989,7 @@
         {
           "id": 8787116,
           "label": "1A4030300000193000102919",
-          "quantity": 9.0,
+          "quantity": 7.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-06-03"
         }
@@ -24242,7 +24496,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -24281,7 +24535,7 @@
         {
           "id": 9143041,
           "label": "1A403030000390D000073843",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-09-22"
         }
@@ -26906,7 +27160,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 112.0,
+      "quantity": 108.5,
       "unit": "Grams",
       "strainName": "Fruit Loot 3",
       "strainType": null,
@@ -26939,7 +27193,7 @@
         {
           "id": 9164814,
           "label": "1A40303000000CB000056633",
-          "quantity": 112.0,
+          "quantity": 108.5,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-08-07"
         }
@@ -28402,7 +28656,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 91.0,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "ONYCD 3.0",
       "strainType": null,
@@ -28434,7 +28688,7 @@
         {
           "id": 9262519,
           "label": "1A4030300003521000061241",
-          "quantity": 91.0,
+          "quantity": 84.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-09-30"
         }
@@ -34989,7 +35243,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 32.0,
+      "quantity": 31.0,
       "unit": "Each",
       "strainName": "Happy er J Sunset Octane x House Blends",
       "strainType": null,
@@ -35021,7 +35275,7 @@
         {
           "id": 8813826,
           "label": "1A4030300000C83000079114",
-          "quantity": 32.0,
+          "quantity": 31.0,
           "packagedDate": "2026-08-04",
           "expirationDate": "2027-01-20"
         }
@@ -39285,6 +39539,65 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
+      "id": 9288588,
+      "packageCount": 1,
+      "name": "Long Lifts Infused & Kief Coated - Gelato - 1g",
+      "brand": null,
+      "producer": "FGM Processing",
+      "category": "Pre-Roll",
+      "metrcCategory": "Infused Joints",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Long Lifts & Coated",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 43.92,
+        "CBC": 0.2,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.02,
+        "CBGA": 0.56,
+        "CBN": 0.19,
+        "THCA": 18.18,
+        "THCV": 0.18
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.21,
+        "humulene": 0.15,
+        "myrcene": 0.08,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 1.11,
+        "beta-pinene": 0.06,
+        "caryophyllene-oxide": 0.1,
+        "limonene": 0.19,
+        "linalool": 0.31,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.65,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9288588,
+          "label": "1A40303000017D5000113959",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-10-27"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 18.75,
+      "medSalePrice": 18.75,
+      "deal": "Tokin Tuesday! 25% OFF all Pre-Rolls",
+      "orderUrl": null,
+      "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
       "id": 9226770,
       "packageCount": 1,
       "name": "Lucky Orchard Pre-Roll 2 Pack 1.0g",
@@ -39295,7 +39608,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -39328,7 +39641,7 @@
         {
           "id": 9226770,
           "label": "1A40303000000CB000057884",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-09-29"
         }
@@ -39987,7 +40300,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Midnight Circus",
       "strainType": null,
@@ -40020,7 +40333,7 @@
         {
           "id": 9197196,
           "label": "1A40303000000CB000057467",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-10-02"
         }
@@ -46566,6 +46879,123 @@
       "medSalePrice": 18.75,
       "deal": "Tokin Tuesday! 25% OFF Disposables",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664685",
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 9288662,
+      "packageCount": 1,
+      "name": "(the) Essence Disposable - Pineapple Diesel - 0.3g",
+      "brand": null,
+      "producer": "FGM Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Pineapple Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.72,
+        "CBC": 0.72,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.96,
+        "CBGA": 0.0,
+        "CBN": 0.26,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.17,
+        "humulene": 0.24,
+        "myrcene": 1.12,
+        "alpha-pinene": 1.2,
+        "caryophyllene": 0.67,
+        "beta-pinene": 0.57,
+        "limonene": 0.78,
+        "terpinolene": 0.17,
+        "nerolidol": 0.16
+      },
+      "totalTerps": 5.16,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9288662,
+          "label": "1A40303000017D5000113950",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-22",
+          "expirationDate": "2027-10-22"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 18.75,
+      "medSalePrice": 18.75,
+      "deal": "Tokin Tuesday! 25% OFF Disposables",
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 9288570,
+      "packageCount": 1,
+      "name": "(the) Essence Disposable - Super Lemon Haze - 0.3g",
+      "brand": null,
+      "producer": "FGM Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Super Lemon Haze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.88,
+        "CBC": 0.74,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.46,
+        "CBGA": 0.0,
+        "CBN": 0.43,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.27,
+        "myrcene": 0.33,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 0.8,
+        "beta-pinene": 0.11,
+        "ocimene": 0.97,
+        "limonene": 0.71,
+        "linalool": 0.26,
+        "terpinolene": 1.17,
+        "nerolidol": 0.16
+      },
+      "totalTerps": 5.69,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9288570,
+          "label": "1A40303000017D5000113951",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-02",
+          "expirationDate": "2027-11-02"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 18.75,
+      "medSalePrice": 18.75,
+      "deal": "Tokin Tuesday! 25% OFF Disposables",
+      "orderUrl": null,
       "posCategory": "Disposables"
     },
     {
@@ -61895,7 +62325,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Pink CertZ",
       "strainType": null,
@@ -61929,7 +62359,7 @@
         {
           "id": 9268337,
           "label": "1A4030300000C83000044371",
-          "quantity": 14.0,
+          "quantity": 12.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-08-14"
         }
@@ -64459,7 +64889,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Blue Raz Haze",
       "strainType": null,
@@ -64493,7 +64923,7 @@
         {
           "id": 9018209,
           "label": "1A40303000017D5000107155",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-10",
           "expirationDate": "2027-09-10"
         }
