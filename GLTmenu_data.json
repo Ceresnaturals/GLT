@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T20:20:02.551641+00:00",
+  "generated_at": "2026-11-17T20:30:02.663084+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -35355,7 +35355,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 34.0,
+      "quantity": 33.0,
       "unit": "Each",
       "strainName": "Lemon Cherry Gelato",
       "strainType": null,
@@ -35388,7 +35388,7 @@
         {
           "id": 9263926,
           "label": "1A40303000000CB000058600",
-          "quantity": 34.0,
+          "quantity": 33.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-23"
         }
@@ -41688,16 +41688,17 @@
     },
     {
       "id": 9018111,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Avexia Balm - Pain Relief 1:1 CBD:THC - Infused Product - 57g",
       "brand": null,
       "producer": "FGM Processing",
       "category": "Topical",
       "metrcCategory": "Infused Non-Edibles",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -41741,6 +41742,13 @@
           "quantity": 2.0,
           "packagedDate": "2026-08-07",
           "expirationDate": "2027-08-07"
+        },
+        {
+          "id": 9288581,
+          "label": "1A40303000017D5000113952",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-09",
+          "expirationDate": "2027-10-09"
         }
       ],
       "price": 35.0,
@@ -43541,7 +43549,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "SDG OG LLR",
       "strainType": null,
@@ -43577,7 +43585,7 @@
         {
           "id": 8974642,
           "label": "1A40303000001F5000428938",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-04-08"
         }
