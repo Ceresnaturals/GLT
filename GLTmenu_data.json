@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T22:00:04.518772+00:00",
+  "generated_at": "2026-11-17T22:10:04.242720+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -28539,7 +28539,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 112.0,
+      "quantity": 98.0,
       "unit": "Grams",
       "strainName": "Lemon Margy",
       "strainType": null,
@@ -28574,7 +28574,7 @@
         {
           "id": 8996053,
           "label": "1A4030300003521000058082",
-          "quantity": 112.0,
+          "quantity": 98.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-06-03"
         }
@@ -31932,17 +31932,73 @@
       "posCategory": "Pre-Packed Flower"
     },
     {
-      "id": 8977157,
+      "id": 9280670,
       "packageCount": 1,
+      "name": "Savvy Flower - Guava Jam - 14g",
+      "brand": "Savvy",
+      "producer": "Freestate Wellness",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 168.0,
+      "unit": "Grams",
+      "strainName": "Guava Jam",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.08,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.79,
+        "CBN": 0.0,
+        "THCA": 29.79,
+        "THCV": 0.06
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.14,
+        "myrcene": 0.7,
+        "caryophyllene": 0.51,
+        "beta-pinene": 0.02,
+        "limonene": 0.15,
+        "linalool": 0.21
+      },
+      "totalTerps": 1.75,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9280670,
+          "label": "1A4030300003A3C000095579",
+          "quantity": 168.0,
+          "packagedDate": "2026-10-15",
+          "expirationDate": "2027-10-15"
+        }
+      ],
+      "price": 100.0,
+      "medPrice": 100.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 8977157,
+      "packageCount": 2,
       "name": "Savvy Flower - Guerilla Grape - Usable - 3.5g",
       "brand": "Savvy",
       "producer": "Freestate Wellness",
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 87.5,
+      "quantity": 171.5,
       "unit": "Grams",
       "strainName": "Guerilla Grape",
       "strainType": null,
@@ -31978,10 +32034,17 @@
           "quantity": 87.5,
           "packagedDate": "2026-07-16",
           "expirationDate": "2027-07-16"
+        },
+        {
+          "id": 9280669,
+          "label": "1A4030300003A3C000095578",
+          "quantity": 84.0,
+          "packagedDate": "2026-08-28",
+          "expirationDate": "2027-08-28"
         }
       ],
-      "price": null,
-      "medPrice": null,
+      "price": 35.0,
+      "medPrice": 35.0,
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
@@ -32100,6 +32163,65 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4721044",
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 9280665,
+      "packageCount": 1,
+      "name": "Savvy Flower - Runtz Muffin - 7g",
+      "brand": "Savvy",
+      "producer": "Freestate Wellness",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 84.0,
+      "unit": "Grams",
+      "strainName": "Runtz Muffins",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.17,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.74,
+        "CBN": 0.0,
+        "THCA": 26.99,
+        "THCV": 0.16
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.17,
+        "myrcene": 0.08,
+        "alpha-pinene": 0.16,
+        "caryophyllene": 0.61,
+        "eudesmol": 0.14,
+        "beta-pinene": 0.13,
+        "ocimene": 0.07,
+        "limonene": 0.62,
+        "linalool": 0.13
+      },
+      "totalTerps": 2.55,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9280665,
+          "label": "1A4030300003A3C000095577",
+          "quantity": 84.0,
+          "packagedDate": "2026-11-03",
+          "expirationDate": "2027-11-03"
+        }
+      ],
+      "price": 65.0,
+      "medPrice": 65.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -32684,64 +32806,6 @@
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664360",
       "posCategory": "Pre-Packed Flower"
-    },
-    {
-      "id": 9226956,
-      "packageCount": 1,
-      "name": "Sunset Octane Untrimmed Small Buds Pre-Pack 28g",
-      "brand": null,
-      "producer": "Evermore Cannabis",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 28.0,
-      "unit": "Grams",
-      "strainName": "Sunset Octane",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 27.37,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.13,
-        "CBN": 0.0,
-        "THCA": 30.89,
-        "THCV": 0.11
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.21,
-        "myrcene": 0.47,
-        "alpha-pinene": 0.13,
-        "caryophyllene": 0.76,
-        "beta-pinene": 0.14,
-        "ocimene": 0.03,
-        "limonene": 1.09,
-        "linalool": 0.28,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 3.46,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 9226956,
-          "label": "1A40303000000CB000057879",
-          "quantity": 28.0,
-          "packagedDate": "2026-11-04",
-          "expirationDate": "2027-10-23"
-        }
-      ],
-      "price": null,
-      "medPrice": null,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": null,
-      "posCategory": null
     },
     {
       "id": 9121392,
@@ -33732,7 +33796,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Afternoon Delight #4",
       "strainType": null,
@@ -33766,7 +33830,7 @@
         {
           "id": 9271375,
           "label": "1A40303000003EA000294820",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-08-24"
         }
@@ -56317,7 +56381,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Gelato",
       "strainType": null,
@@ -56351,7 +56415,7 @@
         {
           "id": 8996186,
           "label": "1A4030300003522000211305",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-07-21"
         }
@@ -56490,7 +56554,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Green Crack",
       "strainType": null,
@@ -56521,7 +56585,7 @@
         {
           "id": 8939357,
           "label": "1A4030300003522000210575",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-21"
         }
