@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T18:30:03.113374+00:00",
+  "generated_at": "2026-11-18T18:40:05.759287+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4035,6 +4035,56 @@
       "posCategory": "Concentrate"
     },
     {
+      "id": 9283607,
+      "packageCount": 1,
+      "name": "MD-EXT-DIAMONDDUST-1G",
+      "brand": null,
+      "producer": "MCP Processing",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "MD EXT DIAMONDDUST",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.52,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 98.65,
+        "THCV": 0.47
+      },
+      "dose": null,
+      "terpenes": {
+        "caryophyllene": 0.04
+      },
+      "totalTerps": 0.04,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9283607,
+          "label": "1A40303000007D1000111704",
+          "quantity": 24.0,
+          "packagedDate": "2026-11-16",
+          "expirationDate": "2027-09-27"
+        }
+      ],
+      "price": 30.0,
+      "medPrice": 30.0,
+      "salePrice": 21.0,
+      "medSalePrice": 21.0,
+      "deal": "Waxy Wednesday! 30% OFF Concentrates",
+      "orderUrl": null,
+      "posCategory": "Concentrate"
+    },
+    {
       "id": 8414622,
       "packageCount": 1,
       "name": "MD-EXT-MDBECK-1LB",
@@ -4090,6 +4140,65 @@
       "medSalePrice": 31.5,
       "deal": "Waxy Wednesday! 30% OFF Concentrates",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4551464",
+      "posCategory": "Concentrate"
+    },
+    {
+      "id": 9283608,
+      "packageCount": 1,
+      "name": "MD-EXT-MDBNAM-35CS",
+      "brand": null,
+      "producer": "MCP Processing",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "MD EXT MDBNAM 35CS",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 65.16,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.56,
+        "CBN": 0.0,
+        "THCA": 70.45,
+        "THCV": 0.45
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 1.29,
+        "myrcene": 0.24,
+        "alpha-pinene": 1.19,
+        "caryophyllene": 5.36,
+        "eudesmol": 0.24,
+        "beta-pinene": 0.59,
+        "ocimene": 0.13,
+        "limonene": 1.94,
+        "linalool": 0.29,
+        "terpinolene": 0.12
+      },
+      "totalTerps": 12.24,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9283608,
+          "label": "1A40303000007D1000111705",
+          "quantity": 20.0,
+          "packagedDate": "2026-11-16",
+          "expirationDate": "2027-10-12"
+        }
+      ],
+      "price": 85.0,
+      "medPrice": 85.0,
+      "salePrice": 59.5,
+      "medSalePrice": 59.5,
+      "deal": "Waxy Wednesday! 30% OFF Concentrates",
+      "orderUrl": null,
       "posCategory": "Concentrate"
     },
     {
@@ -9041,7 +9150,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9082,7 +9191,7 @@
         {
           "id": 8739606,
           "label": "1A40303000017D5000100459",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-06-01",
           "expirationDate": "2027-06-01"
         }
@@ -25057,7 +25166,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 101.5,
+      "quantity": 98.0,
       "unit": "Grams",
       "strainName": "Baby Turtle",
       "strainType": null,
@@ -25090,7 +25199,7 @@
         {
           "id": 8647960,
           "label": "1A40303000000C9000160843",
-          "quantity": 101.5,
+          "quantity": 98.0,
           "packagedDate": "2026-06-25",
           "expirationDate": "2027-06-21"
         }
@@ -32906,7 +33015,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 17.0,
       "unit": "Grams",
       "strainName": "Old Money",
       "strainType": null,
@@ -32939,7 +33048,7 @@
         {
           "id": 8490481,
           "label": "1A4030300002009000102666",
-          "quantity": 20.0,
+          "quantity": 17.0,
           "packagedDate": "2026-05-21",
           "expirationDate": "2027-04-17"
         }
@@ -38873,6 +38982,66 @@
       "posCategory": "Pre-Rolls"
     },
     {
+      "id": 9283609,
+      "packageCount": 1,
+      "name": "MDBNAM-PR-05-6PK",
+      "brand": null,
+      "producer": "MCP Processing",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 72.0,
+      "unit": "Grams",
+      "strainName": "Banana Acai Mints",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.13,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.96,
+        "CBN": 0.0,
+        "THCA": 31.33,
+        "THCV": 0.18
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.34,
+        "myrcene": 0.08,
+        "alpha-pinene": 0.42,
+        "caryophyllene": 1.37,
+        "eudesmol": 0.18,
+        "beta-pinene": 0.19,
+        "ocimene": 0.1,
+        "limonene": 0.71,
+        "linalool": 0.12,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.97,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9283609,
+          "label": "1A40303000007D1000111706",
+          "quantity": 72.0,
+          "packagedDate": "2026-11-16",
+          "expirationDate": "2027-09-22"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 8368831,
       "packageCount": 1,
       "name": "MDCHCM-PR-05-2PK",
@@ -39044,6 +39213,63 @@
       "deal": "40% Off",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4685763",
       "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
+      "id": 9283610,
+      "packageCount": 1,
+      "name": "MDSPTZ-PR-05-6PK",
+      "brand": null,
+      "producer": "MCP Processing",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 72.0,
+      "unit": "Grams",
+      "strainName": "Spritzer",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.71,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.33,
+        "CBN": 0.0,
+        "THCA": 28.41,
+        "THCV": 0.07
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.14,
+        "myrcene": 0.32,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.56,
+        "beta-pinene": 0.05,
+        "limonene": 0.39,
+        "linalool": 0.32
+      },
+      "totalTerps": 2.0,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9283610,
+          "label": "1A40303000007D1000111707",
+          "quantity": 72.0,
+          "packagedDate": "2026-11-16",
+          "expirationDate": "2027-09-27"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
     },
     {
       "id": 8300427,
@@ -41929,7 +42155,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Blueberry Kush",
       "strainType": "Indica",
@@ -41963,7 +42189,7 @@
         {
           "id": 9271587,
           "label": "1A40303000003EA000294819",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-08-19"
         }
@@ -42160,7 +42386,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Strawberry Shortcake",
       "strainType": "Indica",
@@ -42193,7 +42419,7 @@
         {
           "id": 9191632,
           "label": "1A40303000003EA000183208",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-09"
         }
@@ -42217,7 +42443,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Watermelon Z",
       "strainType": "Indica",
@@ -42251,7 +42477,7 @@
         {
           "id": 9164276,
           "label": "1A40303000003EA000255096",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-07-21"
         }
@@ -47208,7 +47434,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Sunshine LLR",
       "strainType": null,
@@ -47245,7 +47471,7 @@
         {
           "id": 9188467,
           "label": "1A40303000001F5000463340",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-09-01"
         }
@@ -51973,6 +52199,65 @@
       "posCategory": "Disposables"
     },
     {
+      "id": 9283529,
+      "packageCount": 1,
+      "name": "District Cannabis East Cake Sour Diesel Cured Resin- .5g",
+      "brand": null,
+      "producer": "MCP Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "East Cake Sour Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 72.72,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.64,
+        "CBGA": 3.74,
+        "CBN": 0.0,
+        "THCA": 16.12,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.2,
+        "humulene": 0.53,
+        "myrcene": 0.37,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 1.49,
+        "beta-pinene": 0.15,
+        "ocimene": 0.56,
+        "limonene": 0.5,
+        "linalool": 0.22,
+        "terpinolene": 1.68
+      },
+      "totalTerps": 6.03,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9283529,
+          "label": "1A40303000007D1000111697",
+          "quantity": 24.0,
+          "packagedDate": "2026-11-16",
+          "expirationDate": "2027-09-29"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 9270634,
       "packageCount": 1,
       "name": "Durban Poison Distillate Cartridge Strane - 1 g",
@@ -53908,7 +54193,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Graphic Novel BFS",
       "strainType": null,
@@ -53943,7 +54228,7 @@
         {
           "id": 7944848,
           "label": "1A40303000037DD000019962",
-          "quantity": 14.0,
+          "quantity": 12.0,
           "packagedDate": "2026-01-13",
           "expirationDate": "2026-12-23"
         }
@@ -57117,6 +57402,64 @@
       "posCategory": "Disposables"
     },
     {
+      "id": 9283500,
+      "packageCount": 1,
+      "name": "Layer Cake 1g Liquid Diamonds and Sauce Vape Cart",
+      "brand": null,
+      "producer": "MCP Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Layer Cake Liquid and",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 76.54,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.02,
+        "CBN": 0.0,
+        "THCA": 17.03,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.38,
+        "humulene": 1.6,
+        "myrcene": 1.71,
+        "alpha-pinene": 0.22,
+        "caryophyllene": 4.97,
+        "beta-pinene": 0.22,
+        "limonene": 1.78,
+        "linalool": 0.33,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 11.49,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9283500,
+          "label": "1A40303000007D1000111698",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-16",
+          "expirationDate": "2027-08-07"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 8351050,
       "packageCount": 1,
       "name": "Legacy Series Amnesia Haze- 1g",
@@ -58629,6 +58972,121 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 9283604,
+      "packageCount": 1,
+      "name": "MD-DP-BLUEDREAM-1PEN",
+      "brand": null,
+      "producer": "MCP Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "MD DP BLUEDREAM 1PEN",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.53,
+        "CBC": 1.25,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.6,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.91
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.2,
+        "humulene": 0.87,
+        "myrcene": 1.17,
+        "alpha-pinene": 0.77,
+        "caryophyllene": 0.94,
+        "limonene": 0.15,
+        "linalool": 0.37,
+        "terpinolene": 0.38
+      },
+      "totalTerps": 4.85,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9283604,
+          "label": "1A40303000007D1000111701",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-16",
+          "expirationDate": "2027-10-06"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 9283605,
+      "packageCount": 1,
+      "name": "MD-DP-KINGLOUISXIII-1PEN",
+      "brand": null,
+      "producer": "MCP Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "MD DP KINGLOUISXIII 1PEN",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 89.98,
+        "CBC": 1.03,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.32,
+        "CBGA": 0.0,
+        "CBN": 0.39,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.18,
+        "humulene": 0.1,
+        "myrcene": 1.08,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 1.38,
+        "beta-pinene": 0.23,
+        "limonene": 1.55,
+        "linalool": 0.44,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 5.65,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9283605,
+          "label": "1A40303000007D1000111702",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-16",
+          "expirationDate": "2027-08-30"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
       "id": 8872246,
       "packageCount": 1,
       "name": "MD-DP-MANGOHAZE-1PEN",
@@ -58728,6 +59186,123 @@
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4734719",
       "posCategory": "Disposables"
+    },
+    {
+      "id": 9283530,
+      "packageCount": 1,
+      "name": "MD-VP-MDCLCK-CBDTHC-1G",
+      "brand": null,
+      "producer": "MCP Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "MD VP MDCLCK CBDTHC",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 50.06,
+        "totalCBD": 25.44,
+        "CBC": 2.13,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.81,
+        "CBGA": 0.47,
+        "CBN": 0.22,
+        "THCA": 6.83,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.15,
+        "humulene": 0.33,
+        "myrcene": 0.1,
+        "alpha-pinene": 0.22,
+        "caryophyllene": 1.25,
+        "beta-pinene": 0.15,
+        "ocimene": 0.07,
+        "limonene": 1.08,
+        "linalool": 0.46
+      },
+      "totalTerps": 4.15,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9283530,
+          "label": "1A40303000007D1000111699",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-16",
+          "expirationDate": "2027-09-01"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9283603,
+      "packageCount": 1,
+      "name": "MD-VP-MDGECK-CBDTHC-1G",
+      "brand": null,
+      "producer": "MCP Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "MD VP MDGECK CBDTHC",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 48.79,
+        "totalCBD": 25.49,
+        "CBC": 2.15,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.96,
+        "CBGA": 0.51,
+        "CBN": 0.22,
+        "THCA": 6.75,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.15,
+        "humulene": 0.35,
+        "myrcene": 0.13,
+        "alpha-pinene": 0.24,
+        "caryophyllene": 1.34,
+        "beta-pinene": 0.21,
+        "limonene": 1.25,
+        "linalool": 0.67
+      },
+      "totalTerps": 4.79,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9283603,
+          "label": "1A40303000007D1000111700",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-16",
+          "expirationDate": "2027-09-01"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Cartridges"
     },
     {
       "id": 9100508,
@@ -60675,6 +61250,65 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4693030",
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9283606,
+      "packageCount": 1,
+      "name": "OG Kush 1g Liquid Diamonds and Sauce Vape Cart",
+      "brand": null,
+      "producer": "MCP Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "OG Kush Liquid and",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 75.91,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.87,
+        "CBN": 0.75,
+        "THCA": 16.48,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.19,
+        "humulene": 0.68,
+        "myrcene": 0.53,
+        "alpha-pinene": 0.12,
+        "caryophyllene": 2.1,
+        "eudesmol": 0.21,
+        "beta-pinene": 0.15,
+        "limonene": 1.1,
+        "linalool": 0.81,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 6.65,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9283606,
+          "label": "1A40303000007D1000111703",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-16",
+          "expirationDate": "2027-07-02"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Cartridges"
     },
     {
@@ -63107,7 +63741,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Ready To Use Vaporizer",
       "strainType": null,
@@ -63143,7 +63777,7 @@
         {
           "id": 9093490,
           "label": "1A4030300000C83000090123",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-10-06",
           "expirationDate": "2027-08-31"
         }
