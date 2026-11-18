@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:40:02.345281+00:00",
+  "generated_at": "2026-11-18T21:50:05.661391+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -1145,6 +1145,65 @@
       "posCategory": "Concentrate"
     },
     {
+      "id": 9292846,
+      "packageCount": 1,
+      "name": "Beezle - Cured Resin Shatter - SkunkZ - 1g",
+      "brand": "Beezle",
+      "producer": "Pro Green Medical",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "SkunkZ",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 73.56,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.83,
+        "CBN": 0.0,
+        "THCA": 79.8,
+        "THCV": 0.29
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.13,
+        "humulene": 0.62,
+        "myrcene": 0.29,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 2.61,
+        "beta-pinene": 0.22,
+        "ocimene": 0.08,
+        "limonene": 1.47,
+        "linalool": 1.04,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 7.54,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9292846,
+          "label": "1A403030000283D000062523",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-17",
+          "expirationDate": "2027-08-19"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": 28.0,
+      "medSalePrice": 28.0,
+      "deal": "Waxy Wednesday! 30% OFF Concentrates",
+      "orderUrl": null,
+      "posCategory": "Concentrate"
+    },
+    {
       "id": 8992259,
       "packageCount": 1,
       "name": "Beezle - Cured Resin Shatter - Z-Pie - 1g",
@@ -1650,6 +1709,186 @@
       "medSalePrice": 28.0,
       "deal": "Waxy Wednesday! 30% OFF Concentrates",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4728351",
+      "posCategory": "Concentrate"
+    },
+    {
+      "id": 9292783,
+      "packageCount": 1,
+      "name": "Beezle - Live Resin THCa Diamonds - Strawberry Gushers - 1g",
+      "brand": "Beezle",
+      "producer": "Pro Green Medical",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Strawberry Gushers",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.715,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 97.45,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.021,
+        "myrcene": 0.032,
+        "caryophyllene": 0.026,
+        "beta-pinene": 0.03,
+        "caryophyllene-oxide": 0.052,
+        "limonene": 0.036,
+        "linalool": 0.028,
+        "terpinolene": 0.036
+      },
+      "totalTerps": 0.445,
+      "dominantTerpene": "caryophyllene-oxide",
+      "packages": [
+        {
+          "id": 9292783,
+          "label": "1A403030000283D000062531",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-17",
+          "expirationDate": "2027-11-09"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": 28.0,
+      "medSalePrice": 28.0,
+      "deal": "Waxy Wednesday! 30% OFF Concentrates",
+      "orderUrl": null,
+      "posCategory": "Concentrate"
+    },
+    {
+      "id": 9292782,
+      "packageCount": 1,
+      "name": "Beezle - Live Rosin - Garlic Blossom - 1g",
+      "brand": "Beezle",
+      "producer": "Pro Green Medical",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Garlic Blossom",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 77.617,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.583,
+        "CBGA": 3.686,
+        "CBN": 0.0,
+        "THCA": 87.309,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.147,
+        "humulene": 0.751,
+        "myrcene": 0.768,
+        "alpha-pinene": 0.123,
+        "caryophyllene": 2.032,
+        "beta-pinene": 0.201,
+        "camphene": 0.054,
+        "caryophyllene-oxide": 0.074,
+        "fenchol": 0.172,
+        "limonene": 1.326,
+        "linalool": 0.927,
+        "terpineol": 0.146,
+        "terpinolene": 0.041,
+        "nerolidol": 0.183
+      },
+      "totalTerps": 7.102,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9292782,
+          "label": "1A403030000283D000062529",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-17",
+          "expirationDate": "2027-11-10"
+        }
+      ],
+      "price": 60.0,
+      "medPrice": 60.0,
+      "salePrice": 42.0,
+      "medSalePrice": 42.0,
+      "deal": "Waxy Wednesday! 30% OFF Concentrates",
+      "orderUrl": null,
+      "posCategory": "Concentrate"
+    },
+    {
+      "id": 9292861,
+      "packageCount": 1,
+      "name": "Beezle - Live Rosin - Gas Money - 1g",
+      "brand": "Beezle",
+      "producer": "Pro Green Medical",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Gas Money",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 68.72,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.99,
+        "CBN": 0.0,
+        "THCA": 75.81,
+        "THCV": 0.38
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.52,
+        "humulene": 1.16,
+        "myrcene": 0.96,
+        "alpha-pinene": 0.32,
+        "caryophyllene": 4.09,
+        "beta-pinene": 0.33,
+        "limonene": 2.33,
+        "linalool": 0.44,
+        "terpinolene": 0.06
+      },
+      "totalTerps": 10.91,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9292861,
+          "label": "1A403030000283D000062530",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-17",
+          "expirationDate": "2027-11-13"
+        }
+      ],
+      "price": 60.0,
+      "medPrice": 60.0,
+      "salePrice": 42.0,
+      "medSalePrice": 42.0,
+      "deal": "Waxy Wednesday! 30% OFF Concentrates",
+      "orderUrl": null,
       "posCategory": "Concentrate"
     },
     {
@@ -3080,7 +3319,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Juice",
       "strainType": null,
@@ -3115,7 +3354,7 @@
         {
           "id": 9226665,
           "label": "1A4030300000C83000044092",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-21"
         }
@@ -3354,7 +3593,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Dirty Banana",
       "strainType": null,
@@ -3387,7 +3626,7 @@
         {
           "id": 9162070,
           "label": "1A4030300002199000069217",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-21",
           "expirationDate": "2027-09-23"
         }
@@ -3813,7 +4052,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Purple Cherries",
       "strainType": null,
@@ -3846,7 +4085,7 @@
         {
           "id": 8445931,
           "label": "1A4030300003D55000005796",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-05-12",
           "expirationDate": "2026-12-18"
         }
@@ -3988,7 +4227,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "MD EXT DIAMONDDUST",
       "strainType": null,
@@ -4014,7 +4253,7 @@
         {
           "id": 9283607,
           "label": "1A40303000007D1000111704",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-11-16",
           "expirationDate": "2027-09-27"
         }
@@ -6421,7 +6660,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Panama Chem",
       "strainType": null,
@@ -6457,7 +6696,7 @@
         {
           "id": 8515650,
           "label": "1A40303000001F5000383624",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-05-27",
           "expirationDate": "2027-04-01"
         }
@@ -16599,7 +16838,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16638,7 +16877,7 @@
         {
           "id": 9187274,
           "label": "1A40303000017D5000111599",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-24",
           "expirationDate": "2027-07-24"
         }
@@ -16727,7 +16966,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16766,7 +17005,7 @@
         {
           "id": 9144877,
           "label": "1A40303000017D5000110715",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-08-05"
         }
@@ -16790,7 +17029,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -16829,7 +17068,7 @@
         {
           "id": 9288584,
           "label": "1A40303000017D5000113955",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-09-03",
           "expirationDate": "2027-09-03"
         }
@@ -26397,7 +26636,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 112.0,
+      "quantity": 108.5,
       "unit": "Grams",
       "strainName": "Peanut Butter Cupzz",
       "strainType": null,
@@ -26432,7 +26671,7 @@
         {
           "id": 9290092,
           "label": "1A4030300004845000053787",
-          "quantity": 112.0,
+          "quantity": 108.5,
           "packagedDate": "2026-10-14",
           "expirationDate": "2027-10-14"
         }
@@ -27501,7 +27740,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 134.49,
+      "quantity": 130.99,
       "unit": "Grams",
       "strainName": "Headshot",
       "strainType": null,
@@ -27535,7 +27774,7 @@
         {
           "id": 8380389,
           "label": "1A4030300000709000013348",
-          "quantity": 134.49,
+          "quantity": 130.99,
           "packagedDate": "2026-04-27",
           "expirationDate": "2027-04-13"
         }
@@ -28654,7 +28893,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 70.0,
+      "quantity": 66.5,
       "unit": "Grams",
       "strainName": "Grape Gummiez",
       "strainType": null,
@@ -28687,7 +28926,7 @@
         {
           "id": 9236744,
           "label": "1A403030000025B000094586",
-          "quantity": 70.0,
+          "quantity": 66.5,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-23"
         }
@@ -31594,7 +31833,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 38.5,
       "unit": "Grams",
       "strainName": "Space Mints",
       "strainType": null,
@@ -31627,7 +31866,7 @@
         {
           "id": 9146943,
           "label": "1A4030300003A3C000092972",
-          "quantity": 42.0,
+          "quantity": 38.5,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-09-24"
         }
@@ -33442,7 +33681,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": "Animal Scout",
       "strainType": null,
@@ -33482,7 +33721,7 @@
         {
           "id": 8970729,
           "label": "1A40303000003EA000263659",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-29"
         }
@@ -33918,7 +34157,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Blueberry Crumb Cake 5",
       "strainType": null,
@@ -33950,7 +34189,7 @@
         {
           "id": 9128368,
           "label": "1A40303000000CB000056052",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-04"
         }
@@ -35184,7 +35423,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Grams",
       "strainName": "Hell's OG",
       "strainType": null,
@@ -35218,7 +35457,7 @@
         {
           "id": 9274521,
           "label": "1A403030000012D000279622",
-          "quantity": 26.0,
+          "quantity": 25.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-08-03"
         }
@@ -37106,7 +37345,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -37140,7 +37379,7 @@
         {
           "id": 8981913,
           "label": "1A403030000012D000266243",
-          "quantity": 4.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-10",
           "expirationDate": "2027-06-25"
         }
@@ -37627,7 +37866,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Grams",
       "strainName": "Filthy Animals",
       "strainType": null,
@@ -37660,7 +37899,7 @@
         {
           "id": 8270876,
           "label": "1A403030000025B000072032",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-02-11",
           "expirationDate": "2027-01-15"
         }
@@ -37901,64 +38140,6 @@
       "medSalePrice": 22.5,
       "deal": "Waxy Wednesday! 25% off Kind Tree Brands",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4734237",
-      "posCategory": "Pre-Rolls"
-    },
-    {
-      "id": 8745273,
-      "packageCount": 1,
-      "name": "Kind Tree | Pre-Rolls | Multipack | White Iverson - Usable - 2pk/1g",
-      "brand": "Kind Tree",
-      "producer": "HMS Health",
-      "category": "Pre-Roll",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Grams",
-      "strainName": "White Iverson",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 21.5,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.41,
-        "CBN": 0.0,
-        "THCA": 22.1,
-        "THCV": 0.12
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.06,
-        "humulene": 0.12,
-        "myrcene": 0.43,
-        "alpha-pinene": 0.53,
-        "caryophyllene": 0.35,
-        "beta-pinene": 0.16,
-        "ocimene": 0.16,
-        "limonene": 0.5,
-        "linalool": 0.21
-      },
-      "totalTerps": 2.74,
-      "dominantTerpene": "alpha-pinene",
-      "packages": [
-        {
-          "id": 8745273,
-          "label": "1A403030000025B000080882",
-          "quantity": 1.0,
-          "packagedDate": "2026-06-24",
-          "expirationDate": "2027-05-27"
-        }
-      ],
-      "price": 15.0,
-      "medPrice": 15.0,
-      "salePrice": 11.25,
-      "medSalePrice": 11.25,
-      "deal": "Waxy Wednesday! 25% off Kind Tree Brands",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4713589",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -42009,7 +42190,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Blueberry Kush",
       "strainType": "Indica",
@@ -42043,7 +42224,7 @@
         {
           "id": 9271587,
           "label": "1A40303000003EA000294819",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-08-19"
         }
@@ -42240,7 +42421,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Strawberry Shortcake",
       "strainType": "Indica",
@@ -42273,7 +42454,7 @@
         {
           "id": 9191632,
           "label": "1A40303000003EA000183208",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-09"
         }
@@ -44909,7 +45090,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 206.0,
+      "quantity": 202.5,
       "unit": "Grams",
       "strainName": "Han Solo HashBurger",
       "strainType": null,
@@ -44941,7 +45122,7 @@
         {
           "id": 9098467,
           "label": "1A40303000040D9000006407",
-          "quantity": 206.0,
+          "quantity": 202.5,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
@@ -45082,7 +45263,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 120.26,
+      "quantity": 106.26,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -45115,7 +45296,7 @@
         {
           "id": 9105009,
           "label": "1A40303000001F5000456190",
-          "quantity": 120.26,
+          "quantity": 106.26,
           "packagedDate": "2026-10-07",
           "expirationDate": null
         }
@@ -45197,7 +45378,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 186.04,
+      "quantity": 179.04,
       "unit": "Grams",
       "strainName": "Watermelon Gelato TC",
       "strainType": null,
@@ -45229,7 +45410,7 @@
         {
           "id": 8998461,
           "label": "1A40303000001F5000431291",
-          "quantity": 186.04,
+          "quantity": 179.04,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -47744,67 +47925,6 @@
       "posCategory": "Disposables"
     },
     {
-      "id": 9188466,
-      "packageCount": 1,
-      "name": "AiroX Disposable Vaporizer | Liquid Diamonds | SDG OG - 2g",
-      "brand": null,
-      "producer": "SunMed Growers",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "AiroX Vaporizer",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 83.8,
-        "totalCBD": 0.284,
-        "CBC": 0.79,
-        "CBDA": 0.05,
-        "CBDV": 0.0,
-        "CBG": 2.39,
-        "CBGA": 0.4,
-        "CBN": 0.25,
-        "THCA": 5.32,
-        "THCV": 0.88
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.18,
-        "myrcene": 1.19,
-        "alpha-pinene": 0.1,
-        "caryophyllene": 0.62,
-        "beta-pinene": 0.03,
-        "camphene": 0.04,
-        "fenchol": 0.06,
-        "limonene": 0.93,
-        "linalool": 0.17,
-        "terpineol": 0.03,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 3.37,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 9188466,
-          "label": "1A40303000001F5000463339",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-27",
-          "expirationDate": "2027-09-28"
-        }
-      ],
-      "price": 85.0,
-      "medPrice": 85.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4700741",
-      "posCategory": "Disposables"
-    },
-    {
       "id": 8891525,
       "packageCount": 1,
       "name": "Animal Face Pen (Live Resin) - Rythm (Indica Dominant) - Vape Pen - 1000mg",
@@ -48682,6 +48802,124 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 9292775,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Citrus Sap - 1g",
+      "brand": "Beezle",
+      "producer": "Pro Green Medical",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Citrus Sap",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 82.9,
+        "CBC": 0.74,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.63,
+        "CBGA": 0.0,
+        "CBN": 0.89,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.25,
+        "humulene": 0.17,
+        "myrcene": 0.56,
+        "alpha-pinene": 0.27,
+        "caryophyllene": 1.19,
+        "beta-pinene": 0.12,
+        "ocimene": 0.63,
+        "limonene": 0.89,
+        "linalool": 0.43,
+        "nerolidol": 0.11
+      },
+      "totalTerps": 4.62,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9292775,
+          "label": "1A403030000283D000062524",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-17",
+          "expirationDate": "2027-09-30"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9292780,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Fab Fuel - 1g",
+      "brand": "Beezle",
+      "producer": "Pro Green Medical",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Fab Fuel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.61,
+        "CBC": 1.14,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.5,
+        "CBGA": 0.0,
+        "CBN": 0.78,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.17,
+        "humulene": 0.06,
+        "myrcene": 0.91,
+        "alpha-pinene": 0.24,
+        "caryophyllene": 1.18,
+        "beta-pinene": 0.22,
+        "ocimene": 0.71,
+        "limonene": 1.45,
+        "linalool": 0.37,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 5.73,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9292780,
+          "label": "1A403030000283D000062525",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-17",
+          "expirationDate": "2027-08-20"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 9166185,
       "packageCount": 1,
       "name": "Beezle - Buzz Vape - Gastro Pop - 0.5g",
@@ -48799,6 +49037,64 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 9292859,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Grapefruit Diesel - 1g",
+      "brand": "Beezle",
+      "producer": "Pro Green Medical",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Grapefruit Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.38,
+        "CBC": 0.76,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.35,
+        "CBGA": 0.0,
+        "CBN": 0.86,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.23,
+        "humulene": 0.13,
+        "myrcene": 0.81,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 1.04,
+        "beta-pinene": 0.13,
+        "limonene": 1.02,
+        "linalool": 0.39,
+        "nerolidol": 0.11
+      },
+      "totalTerps": 4.07,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9292859,
+          "label": "1A403030000283D000062528",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-17",
+          "expirationDate": "2027-10-16"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 9107051,
       "packageCount": 1,
       "name": "Beezle - Buzz Vape - Jelly Donut - 0.5g",
@@ -48854,6 +49150,63 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4689852",
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9292856,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Kush Mints - 1g",
+      "brand": "Beezle",
+      "producer": "Pro Green Medical",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Kush Mints",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.99,
+        "CBC": 1.12,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.92,
+        "CBGA": 0.0,
+        "CBN": 0.39,
+        "THCA": 0.0,
+        "THCV": 0.88
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.29,
+        "myrcene": 0.5,
+        "alpha-pinene": 0.26,
+        "caryophyllene": 0.64,
+        "beta-pinene": 0.26,
+        "limonene": 1.96,
+        "linalool": 0.29,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 4.45,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9292856,
+          "label": "1A403030000283D000062526",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-17",
+          "expirationDate": "2027-07-31"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Cartridges"
     },
     {
@@ -48970,6 +49323,65 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4696489",
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9292858,
+      "packageCount": 1,
+      "name": "Beezle - Buzz Vape - Super Boof - 1g",
+      "brand": "Beezle",
+      "producer": "Pro Green Medical",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Super Boof",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 80.71,
+        "CBC": 1.63,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.95,
+        "CBGA": 0.0,
+        "CBN": 0.59,
+        "THCA": 0.0,
+        "THCV": 0.71
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.62,
+        "humulene": 0.21,
+        "myrcene": 0.53,
+        "alpha-pinene": 0.23,
+        "caryophyllene": 1.24,
+        "eudesmol": 0.34,
+        "beta-pinene": 0.13,
+        "limonene": 1.04,
+        "linalool": 0.45,
+        "nerolidol": 0.16
+      },
+      "totalTerps": 5.08,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9292858,
+          "label": "1A403030000283D000062527",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-17",
+          "expirationDate": "2027-06-19"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Cartridges"
     },
     {
@@ -50540,7 +50952,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Chicken n' Wafflez x Durban Z",
       "strainType": "Sativa",
@@ -50575,7 +50987,7 @@
         {
           "id": 9233192,
           "label": "1A40303000003EA000176073",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-10-19"
         }
