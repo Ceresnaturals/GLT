@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T18:00:02.511300+00:00",
+  "generated_at": "2026-11-18T18:10:02.994030+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -85,17 +85,16 @@
     },
     {
       "id": 9271074,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "ALLCAPS 10mg - 10mg - 10",
       "brand": null,
       "producer": "Evermore Cannabis",
       "category": "Capsule",
       "metrcCategory": "Infused Edible (Capsule Only)",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -136,16 +135,9 @@
         {
           "id": 9271074,
           "label": "1A4030300000C83000084275",
-          "quantity": 20.0,
+          "quantity": 16.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-09-09"
-        },
-        {
-          "id": 8793069,
-          "label": "1A4030300000C83000080428",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-29",
-          "expirationDate": "2027-05-11"
         }
       ],
       "pick": 119,
@@ -31402,7 +31394,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 164.5,
+      "quantity": 161.0,
       "unit": "Grams",
       "strainName": "Guerilla Grape",
       "strainType": null,
@@ -31435,7 +31427,7 @@
         {
           "id": 9280669,
           "label": "1A4030300003A3C000095578",
-          "quantity": 77.0,
+          "quantity": 73.5,
           "packagedDate": "2026-08-28",
           "expirationDate": "2027-08-28"
         },
@@ -31866,7 +31858,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 59.5,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Modified Grapes",
       "strainType": null,
@@ -31901,7 +31893,7 @@
         {
           "id": 8752054,
           "label": "1A4030300002009000109422",
-          "quantity": 59.5,
+          "quantity": 56.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-07-01"
         }
@@ -44952,7 +44944,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 151.76,
+      "quantity": 148.26,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -44985,7 +44977,7 @@
         {
           "id": 9105009,
           "label": "1A40303000001F5000456190",
-          "quantity": 151.76,
+          "quantity": 148.26,
           "packagedDate": "2026-10-07",
           "expirationDate": null
         }
