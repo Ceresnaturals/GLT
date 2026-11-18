@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T19:20:03.311423+00:00",
+  "generated_at": "2026-11-18T19:30:03.633070+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4081,7 +4081,7 @@
       "salePrice": 21.0,
       "medSalePrice": 21.0,
       "deal": "Waxy Wednesday! 30% OFF Concentrates",
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4720988",
       "posCategory": "Concentrate"
     },
     {
@@ -4198,7 +4198,7 @@
       "salePrice": 59.5,
       "medSalePrice": 59.5,
       "deal": "Waxy Wednesday! 30% OFF Concentrates",
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4744124",
       "posCategory": "Concentrate"
     },
     {
@@ -5892,7 +5892,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Lilac Diesel",
       "strainType": null,
@@ -5924,7 +5924,7 @@
         {
           "id": 9262575,
           "label": "1A4030300003522000224802",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-08-30"
         }
@@ -26642,6 +26642,65 @@
       "posCategory": "Pre-Packed Flower"
     },
     {
+      "id": 9290092,
+      "packageCount": 1,
+      "name": "Fade Co Packaged Flower (Peanut Butter Cupzz) - 3.5g",
+      "brand": "Fade Co",
+      "producer": "Seven Points Agro-Therapeutics",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 112.0,
+      "unit": "Grams",
+      "strainName": "Peanut Butter Cupzz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.72,
+        "totalCBD": 0.1,
+        "CBC": 0.0,
+        "CBDA": 0.11,
+        "CBDV": 0.0,
+        "CBG": 0.1,
+        "CBGA": 1.12,
+        "CBN": 0.0,
+        "THCA": 29.62,
+        "THCV": 0.06
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.16,
+        "myrcene": 0.51,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 0.41,
+        "eudesmol": 0.03,
+        "beta-pinene": 0.19,
+        "limonene": 1.07,
+        "linalool": 0.55,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.5,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9290092,
+          "label": "1A4030300004845000053787",
+          "quantity": 112.0,
+          "packagedDate": "2026-10-14",
+          "expirationDate": "2027-10-14"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4744432",
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
       "id": 9166183,
       "packageCount": 1,
       "name": "Fade Co Packaged Flower (Super Boof)^ - Usable - 3.5g",
@@ -26758,6 +26817,65 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4737995",
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 9290214,
+      "packageCount": 1,
+      "name": "Fade Co Packaged Smalls (Shaved Monkey) - Usable - 14g",
+      "brand": "Fade Co",
+      "producer": "Seven Points Agro-Therapeutics",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 224.0,
+      "unit": "Grams",
+      "strainName": "Shaved Monkey",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.55,
+        "totalCBD": 0.1,
+        "CBC": 0.0,
+        "CBDA": 0.11,
+        "CBDV": 0.0,
+        "CBG": 0.06,
+        "CBGA": 1.36,
+        "CBN": 0.0,
+        "THCA": 29.79,
+        "THCV": 0.18
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.15,
+        "myrcene": 0.43,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.5,
+        "beta-pinene": 0.09,
+        "limonene": 0.73,
+        "linalool": 0.28,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.42,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9290214,
+          "label": "1A4030300004845000053794",
+          "quantity": 224.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-09-16"
+        }
+      ],
+      "price": 120.0,
+      "medPrice": 120.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4744446",
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -35205,7 +35323,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Chill",
       "strainType": null,
@@ -35241,7 +35359,7 @@
         {
           "id": 9079420,
           "label": "1A403030000012D000272428",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-12"
         }
@@ -39029,7 +39147,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4744132",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -39259,7 +39377,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3684201",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -45092,6 +45210,64 @@
       "posCategory": "Bulk Flower"
     },
     {
+      "id": 9290213,
+      "packageCount": 1,
+      "name": "Just Flower Packaged Ready to Roll (Candy Lemon Cherry Gelato) - 15g",
+      "brand": null,
+      "producer": "Seven Points Agro-Therapeutics",
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 240.0,
+      "unit": "Grams",
+      "strainName": "Candy Lemon Cherry Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 23.39,
+        "totalCBD": 0.05,
+        "CBC": 0.0,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.09,
+        "CBGA": 0.21,
+        "CBN": 0.0,
+        "THCA": 25.58,
+        "THCV": 0.09
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.08,
+        "myrcene": 0.29,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.23,
+        "beta-pinene": 0.09,
+        "limonene": 0.41,
+        "linalool": 0.48,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 1.91,
+      "dominantTerpene": "linalool",
+      "packages": [
+        {
+          "id": 9290213,
+          "label": "1A4030300004845000053793",
+          "quantity": 240.0,
+          "packagedDate": "2026-11-10",
+          "expirationDate": null
+        }
+      ],
+      "price": 75.0,
+      "medPrice": 75.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4744444",
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
       "id": 9002503,
       "packageCount": 1,
       "name": "Just Flower Packaged Ready to Roll (Zoak) - Usable - 15g",
@@ -45161,7 +45337,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 144.76,
+      "quantity": 134.26,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -45194,7 +45370,7 @@
         {
           "id": 9105009,
           "label": "1A40303000001F5000456190",
-          "quantity": 144.76,
+          "quantity": 134.26,
           "packagedDate": "2026-10-07",
           "expirationDate": null
         }
@@ -52245,7 +52421,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4744118",
       "posCategory": "Cartridges"
     },
     {
@@ -52845,7 +53021,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Flavor Series Berry Gelato",
       "strainType": null,
@@ -52878,7 +53054,7 @@
         {
           "id": 8596802,
           "label": "1A4030300000193000098460",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-06-15",
           "expirationDate": "2027-05-18"
         }
@@ -53227,13 +53403,13 @@
           "expirationDate": "2027-03-23"
         }
       ],
-      "price": 45.0,
-      "medPrice": 45.0,
-      "salePrice": 27.0,
-      "medSalePrice": 27.0,
-      "deal": "40% Off",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4704367",
-      "posCategory": "Cartridges"
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 9044924,
@@ -53246,7 +53422,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Fruit Gusherz",
       "strainType": null,
@@ -53280,7 +53456,7 @@
         {
           "id": 9044924,
           "label": "1A403030000012E000196233",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-07-17"
         }
@@ -57447,7 +57623,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4744120",
       "posCategory": "Cartridges"
     },
     {
@@ -57574,7 +57750,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Legacy Series GG4",
       "strainType": null,
@@ -57608,7 +57784,7 @@
         {
           "id": 8787119,
           "label": "1A4030300000193000102924",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-06-07"
         }
@@ -59016,7 +59192,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4744122",
       "posCategory": "Disposables"
     },
     {
@@ -59074,7 +59250,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4699162",
       "posCategory": "Disposables"
     },
     {
@@ -59234,7 +59410,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4744126",
       "posCategory": "Cartridges"
     },
     {
@@ -59292,7 +59468,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4744129",
       "posCategory": "Cartridges"
     },
     {
@@ -61299,7 +61475,7 @@
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4744134",
       "posCategory": "Cartridges"
     },
     {
@@ -67340,5 +67516,5 @@
     }
   ],
   "priceNote": "Prices shown are estimates. The register has the final price.",
-  "pricesUpdatedAt": "2026-11-18T18:00:02.511997+00:00"
+  "pricesUpdatedAt": "2026-11-18T19:30:03.633866+00:00"
 }
