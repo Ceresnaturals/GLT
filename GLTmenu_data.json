@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:00:02.851926+00:00",
+  "generated_at": "2026-11-18T21:10:02.924300+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2668,7 +2668,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Funky Lemon Cream Cake",
       "strainType": null,
@@ -2703,7 +2703,7 @@
         {
           "id": 9164808,
           "label": "1A4030300000C83000042728",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-10-09"
         }
@@ -8151,17 +8151,16 @@
     },
     {
       "id": 9233073,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Keef - Bubba Kush Root Beer - 10mg - 1",
       "brand": null,
       "producer": "SunMed Growers",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor",
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8202,16 +8201,9 @@
         {
           "id": 9233073,
           "label": "1A40303000001F5000467764",
-          "quantity": 24.0,
+          "quantity": 21.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-10-16"
-        },
-        {
-          "id": 9073087,
-          "label": "1A40303000001F5000453090",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-30",
-          "expirationDate": "2027-08-21"
         }
       ],
       "price": 8.0,
@@ -11594,71 +11586,6 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4702889",
-      "posCategory": "Edibles"
-    },
-    {
-      "id": 9066546,
-      "packageCount": 1,
-      "name": "Bubby's Baked Chocolate Chip Bites V4-10mg-10",
-      "brand": null,
-      "producer": "Kind Therapeutics USA",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.12,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9066546,
-          "label": "1A4030300003522000215112",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-29",
-          "expirationDate": "2027-03-04"
-        }
-      ],
-      "price": 25.0,
-      "medPrice": 25.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4691013",
       "posCategory": "Edibles"
     },
     {
@@ -15257,7 +15184,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15296,7 +15223,7 @@
         {
           "id": 9173943,
           "label": "1A403030000012D000277063",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-22",
           "expirationDate": "2027-08-27"
         }
@@ -16216,7 +16143,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -16257,7 +16184,7 @@
         {
           "id": 9288666,
           "label": "1A40303000017D5000113957",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-10-12",
           "expirationDate": "2027-10-12"
         }
@@ -16603,7 +16530,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16642,7 +16569,7 @@
         {
           "id": 9187210,
           "label": "1A40303000017D5000111597",
-          "quantity": 18.0,
+          "quantity": 15.0,
           "packagedDate": "2026-08-07",
           "expirationDate": "2027-08-07"
         }
@@ -42262,7 +42189,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 20.0,
       "unit": "Each",
@@ -43350,7 +43277,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Short Lifts & Coated",
       "strainType": null,
@@ -43384,7 +43311,7 @@
         {
           "id": 9114133,
           "label": "1A40303000017D5000110060",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-09-15"
         }
@@ -45508,7 +45435,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 420.0,
+      "quantity": 392.0,
       "unit": "Grams",
       "strainName": "Wedding Cake",
       "strainType": null,
@@ -45541,7 +45468,7 @@
         {
           "id": 9144132,
           "label": "1A40303000000C9000176522",
-          "quantity": 420.0,
+          "quantity": 392.0,
           "packagedDate": "2026-10-16",
           "expirationDate": null
         }
@@ -50854,7 +50781,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Clementine",
       "strainType": null,
@@ -50886,7 +50813,7 @@
         {
           "id": 8756345,
           "label": "1A403030000012E000176846",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-03-28"
         }
@@ -61506,7 +61433,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Forum Cookies x ADC",
       "strainType": null,
@@ -61538,7 +61465,7 @@
         {
           "id": 9029663,
           "label": "1A40303000039D1000085136",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-09-22",
           "expirationDate": "2027-04-06"
         }
