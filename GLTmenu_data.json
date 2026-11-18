@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T00:20:02.589731+00:00",
+  "generated_at": "2026-11-18T00:30:03.086726+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2971,7 +2971,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Hazy Cake",
       "strainType": null,
@@ -3007,7 +3007,7 @@
         {
           "id": 8919304,
           "label": "1A40303000001F5000423345",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-06-22"
         }
@@ -5965,7 +5965,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Lilac Diesel",
       "strainType": null,
@@ -5997,7 +5997,7 @@
         {
           "id": 9262575,
           "label": "1A4030300003522000224802",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-08-30"
         }
@@ -7119,63 +7119,6 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4725733",
-      "posCategory": "Concentrate"
-    },
-    {
-      "id": 9226675,
-      "packageCount": 1,
-      "name": "Rainbow Push Pop #4 Live Rosin Cold Cure 1.0g",
-      "brand": null,
-      "producer": "Evermore Cannabis",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Rainbow Push Pop",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 67.94,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 5.19,
-        "CBN": 0.0,
-        "THCA": 77.47,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.44,
-        "humulene": 1.07,
-        "myrcene": 0.36,
-        "alpha-pinene": 0.13,
-        "caryophyllene": 2.93,
-        "beta-pinene": 0.19,
-        "limonene": 1.66,
-        "linalool": 0.93
-      },
-      "totalTerps": 8.18,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 9226675,
-          "label": "1A4030300000C83000044094",
-          "quantity": 1.0,
-          "packagedDate": "2026-11-04",
-          "expirationDate": "2027-10-29"
-        }
-      ],
-      "price": 55.0,
-      "medPrice": 55.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4600523",
       "posCategory": "Concentrate"
     },
     {
@@ -18906,69 +18849,6 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8163771,
-      "packageCount": 1,
-      "name": "HiColor RSO Indica Gummies Blueberry|Edible Product|10mg|2ct",
-      "brand": "HiColor",
-      "producer": "Marymed",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": "Indica",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.217,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.001,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1pc",
-        "totalThcMg": 20.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.043,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8163771,
-          "label": "1A4030300002009000093002",
-          "quantity": 1.0,
-          "packagedDate": "2026-03-06",
-          "expirationDate": "2027-02-04"
-        }
-      ],
-      "price": null,
-      "medPrice": null,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": null,
-      "posCategory": null
-    },
-    {
       "id": 9167687,
       "packageCount": 1,
       "name": "HiColor RSO Sativa Gummies Sour Lemon Drop|Edible Product|10mg|10ct",
@@ -21354,7 +21234,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21402,7 +21282,7 @@
         {
           "id": 8574286,
           "label": "1A40303000003EA000190134",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-06-10",
           "expirationDate": "2027-01-12"
         }
@@ -26450,7 +26330,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Couch Crasher",
       "strainType": "Indica",
@@ -26486,7 +26366,7 @@
         {
           "id": 8034637,
           "label": "1A40303000003EA000149004",
-          "quantity": 28.0,
+          "quantity": 14.0,
           "packagedDate": "2026-02-04",
           "expirationDate": "2027-01-13"
         }
@@ -35129,7 +35009,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Happy er J Sunset Octane x House Blends",
       "strainType": null,
@@ -35161,7 +35041,7 @@
         {
           "id": 8813826,
           "label": "1A4030300000C83000079114",
-          "quantity": 20.0,
+          "quantity": 17.0,
           "packagedDate": "2026-08-04",
           "expirationDate": "2027-01-20"
         }
@@ -37447,7 +37327,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 47.0,
+      "quantity": 46.0,
       "unit": "Each",
       "strainName": "Kiwi Berry Drip",
       "strainType": null,
@@ -37489,7 +37369,7 @@
         {
           "id": 9262577,
           "label": "1A4030300003522000224805",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-29"
         }
