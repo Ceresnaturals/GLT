@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T19:50:02.472628+00:00",
+  "generated_at": "2026-11-18T20:00:04.805493+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -28909,7 +28909,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 80.5,
+      "quantity": 77.0,
       "unit": "Grams",
       "strainName": "Grape Gummiez",
       "strainType": null,
@@ -28942,7 +28942,7 @@
         {
           "id": 9236744,
           "label": "1A403030000025B000094586",
-          "quantity": 80.5,
+          "quantity": 77.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-23"
         }
@@ -32076,7 +32076,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 56.0,
+      "quantity": 52.5,
       "unit": "Grams",
       "strainName": "Modified Grapes",
       "strainType": null,
@@ -32111,7 +32111,7 @@
         {
           "id": 8752054,
           "label": "1A4030300002009000109422",
-          "quantity": 56.0,
+          "quantity": 52.5,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-07-01"
         }
@@ -36726,7 +36726,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Grape Stomper Big Dogs",
       "strainType": null,
@@ -36759,7 +36759,7 @@
         {
           "id": 9099994,
           "label": "1A40303000003EA000261649",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-09-10"
         }
@@ -42784,7 +42784,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Duster",
       "strainType": null,
@@ -42817,7 +42817,7 @@
         {
           "id": 9168521,
           "label": "1A40303000001F5000462140",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-08-11"
         }
@@ -52652,6 +52652,193 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 9290098,
+      "packageCount": 1,
+      "name": "Fade Co | Vape | Live Resin | Crescendo - 1g",
+      "brand": "Fade Co",
+      "producer": "Seven Points Agro-Therapeutics",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "Crescendo",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 77.24,
+        "totalCBD": 0.22,
+        "CBC": 0.77,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.07,
+        "CBGA": 0.0,
+        "CBN": 0.17,
+        "THCA": 0.0,
+        "THCV": 1.5
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.33,
+        "myrcene": 2.41,
+        "alpha-pinene": 0.09,
+        "caryophyllene": 1.22,
+        "beta-pinene": 0.06,
+        "caryophyllene-oxide": 0.03,
+        "ocimene": 0.09,
+        "limonene": 0.82,
+        "linalool": 0.56,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 5.86,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9290098,
+          "label": "1A4030300004845000053788",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-04",
+          "expirationDate": "2027-09-04"
+        }
+      ],
+      "price": 60.0,
+      "medPrice": 60.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9289975,
+      "packageCount": 1,
+      "name": "Fade Co | Vape | Live Resin | Golden Lemons - 1g",
+      "brand": "Fade Co",
+      "producer": "Seven Points Agro-Therapeutics",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "Golden Lemons",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 80.51,
+        "totalCBD": 0.15,
+        "CBC": 0.64,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.2,
+        "CBGA": 0.0,
+        "CBN": 0.35,
+        "THCA": 0.0,
+        "THCV": 0.53
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.39,
+        "myrcene": 2.11,
+        "alpha-pinene": 0.95,
+        "caryophyllene": 1.23,
+        "beta-pinene": 0.28,
+        "borneol": 0.01,
+        "camphene": 0.03,
+        "caryophyllene-oxide": 0.03,
+        "fenchol": 0.07,
+        "limonene": 0.91,
+        "linalool": 0.28,
+        "terpineol": 0.05,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 6.36,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9289975,
+          "label": "1A4030300004845000053789",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-28",
+          "expirationDate": "2027-10-28"
+        }
+      ],
+      "price": 60.0,
+      "medPrice": 60.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9290206,
+      "packageCount": 1,
+      "name": "Fade Co | Vape | Live Resin | Gorillaz - 1g",
+      "brand": "Fade Co",
+      "producer": "Seven Points Agro-Therapeutics",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "Gorillaz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 75.01,
+        "totalCBD": 0.19,
+        "CBC": 0.71,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.87,
+        "CBGA": 0.0,
+        "CBN": 0.25,
+        "THCA": 0.0,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.41,
+        "myrcene": 0.54,
+        "alpha-pinene": 0.14,
+        "caryophyllene": 1.27,
+        "beta-pinene": 0.12,
+        "borneol": 0.03,
+        "camphene": 0.03,
+        "caryophyllene-oxide": 0.03,
+        "fenchol": 0.23,
+        "limonene": 1.11,
+        "linalool": 0.93,
+        "terpineol": 0.16,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 5.01,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9290206,
+          "label": "1A4030300004845000053790",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-28",
+          "expirationDate": "2027-10-28"
+        }
+      ],
+      "price": 60.0,
+      "medPrice": 60.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 9002502,
       "packageCount": 1,
       "name": "Fade Co | Vape | Live Resin | Hash Burger - 1g",
@@ -52709,6 +52896,67 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4507170",
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 9289986,
+      "packageCount": 1,
+      "name": "Fade Co | Vape | Live Resin | Permanent Marker - 1g",
+      "brand": "Fade Co",
+      "producer": "Seven Points Agro-Therapeutics",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "Permanent Marker",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 73.95,
+        "totalCBD": 0.12,
+        "CBC": 0.49,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.14,
+        "CBGA": 0.0,
+        "CBN": 0.63,
+        "THCA": 0.0,
+        "THCV": 0.32
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.04,
+        "humulene": 0.6,
+        "myrcene": 0.85,
+        "alpha-pinene": 0.34,
+        "caryophyllene": 1.53,
+        "beta-pinene": 0.26,
+        "caryophyllene-oxide": 0.04,
+        "ocimene": 0.06,
+        "limonene": 1.9,
+        "linalool": 1.03,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 7.44,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9289986,
+          "label": "1A4030300004845000053791",
+          "quantity": 24.0,
+          "packagedDate": "2026-08-13",
+          "expirationDate": "2027-08-13"
+        }
+      ],
+      "price": 60.0,
+      "medPrice": 60.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Cartridges"
     },
     {
@@ -62340,7 +62588,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Purple Koala",
       "strainType": null,
@@ -62373,7 +62621,7 @@
         {
           "id": 8134431,
           "label": "1A40303000039D1000070615",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-02-27",
           "expirationDate": "2027-01-22"
         }
