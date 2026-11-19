@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T15:10:03.197544+00:00",
+  "generated_at": "2026-11-19T15:20:02.770808+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9149,7 +9149,7 @@
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 15.0,
       "unit": "Each",
@@ -17837,7 +17837,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17878,7 +17878,7 @@
         {
           "id": 9167883,
           "label": "1A4030300002009000119442",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-04-20"
         }
@@ -18247,8 +18247,8 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9167686,
-      "packageCount": 2,
+      "id": 8067143,
+      "packageCount": 1,
       "name": "HiColor RSO Hybrid Gummies Passionfruit|Edible Product|10mg|10ct",
       "brand": "HiColor",
       "producer": "Marymed",
@@ -18257,20 +18257,19 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.2,
-        "totalCBD": 0.0,
+        "totalTHC": 0.211,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
         "CBG": 0.0,
         "CBGA": 0.0,
-        "CBN": 0.0,
+        "CBN": 0.001,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -18279,13 +18278,12 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 0.0,
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
           "CBG": 0.0,
           "CBGA": 0.0,
-          "CBN": 0.0,
+          "CBN": 0.043,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -18296,13 +18294,6 @@
       "dominantTerpene": null,
       "packages": [
         {
-          "id": 9167686,
-          "label": "1A4030300002009000119443",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-21",
-          "expirationDate": "2027-05-20"
-        },
-        {
           "id": 8067143,
           "label": "1A4030300002009000090578",
           "quantity": 3.0,
@@ -18310,12 +18301,12 @@
           "expirationDate": "2027-01-28"
         }
       ],
-      "price": 20.0,
-      "medPrice": 20.0,
-      "salePrice": 15.0,
-      "medSalePrice": 15.0,
-      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4713808",
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -44913,7 +44904,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 195.5,
+      "quantity": 192.0,
       "unit": "Grams",
       "strainName": "Han Solo HashBurger",
       "strainType": null,
@@ -44945,7 +44936,7 @@
         {
           "id": 9098467,
           "label": "1A40303000040D9000006407",
-          "quantity": 195.5,
+          "quantity": 192.0,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
@@ -45086,7 +45077,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 60.76,
+      "quantity": 53.76,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -45119,7 +45110,7 @@
         {
           "id": 9105009,
           "label": "1A40303000001F5000456190",
-          "quantity": 60.76,
+          "quantity": 53.76,
           "packagedDate": "2026-10-07",
           "expirationDate": null
         }
@@ -45201,7 +45192,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 175.54,
+      "quantity": 172.04,
       "unit": "Grams",
       "strainName": "Watermelon Gelato TC",
       "strainType": null,
@@ -45233,7 +45224,7 @@
         {
           "id": 8998461,
           "label": "1A40303000001F5000431291",
-          "quantity": 175.54,
+          "quantity": 172.04,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
