@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T22:00:05.414668+00:00",
+  "generated_at": "2026-11-19T22:10:04.889246+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3818,7 +3818,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 33.0,
+      "quantity": 32.0,
       "unit": "Each",
       "strainName": "Lemon Funk",
       "strainType": null,
@@ -3861,7 +3861,7 @@
         {
           "id": 8862125,
           "label": "1A40303000037DD000025223",
-          "quantity": 32.0,
+          "quantity": 31.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-06-29"
         }
@@ -9008,6 +9008,71 @@
       "medSalePrice": 4.5,
       "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4704527",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9304488,
+      "packageCount": 1,
+      "name": "Sunnies Mocktail No. 2 Bright Grapefruit -10mg -1",
+      "brand": "Sunnies",
+      "producer": "SunMed Growers",
+      "category": "Drink",
+      "metrcCategory": "Infused Liquid Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.003,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Can",
+        "totalThcMg": 10.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9304488,
+          "label": "1A40303000001F5000318351",
+          "quantity": 24.0,
+          "packagedDate": "2026-11-18",
+          "expirationDate": "2027-10-12"
+        }
+      ],
+      "price": 6.0,
+      "medPrice": 6.0,
+      "salePrice": 4.5,
+      "medSalePrice": 4.5,
+      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -15061,7 +15126,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -15100,7 +15165,7 @@
         {
           "id": 9047761,
           "label": "1A403030000012D000267870",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-09-24",
           "expirationDate": "2027-08-18"
         }
@@ -32312,68 +32377,6 @@
       "posCategory": "Pre-Rolls"
     },
     {
-      "id": 9121388,
-      "packageCount": 1,
-      "name": "Strawguava | Georgies | 1g",
-      "brand": null,
-      "producer": "Grow West MD",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Grams",
-      "strainName": "201 STRAWGUAVA",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 30.24,
-        "totalCBD": 0.08,
-        "CBC": 0.0,
-        "CBDA": 0.09,
-        "CBDV": 0.0,
-        "CBG": 0.1,
-        "CBGA": 2.2,
-        "CBN": 0.0,
-        "THCA": 33.88,
-        "THCV": 0.21
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.02,
-        "humulene": 0.09,
-        "myrcene": 0.31,
-        "alpha-pinene": 0.3,
-        "caryophyllene": 0.27,
-        "eudesmol": 0.02,
-        "beta-pinene": 0.25,
-        "caryophyllene-oxide": 0.01,
-        "ocimene": 0.02,
-        "limonene": 1.27,
-        "linalool": 0.51,
-        "terpinolene": 0.02
-      },
-      "totalTerps": 3.48,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 9121388,
-          "label": "1A40303000039D1000086417",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-12",
-          "expirationDate": "2027-08-18"
-        }
-      ],
-      "price": null,
-      "medPrice": null,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": null,
-      "posCategory": null
-    },
-    {
       "id": 9226953,
       "packageCount": 1,
       "name": "Sunset Octane Buds Pre-Pack 3.5g",
@@ -35099,7 +35102,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Grams",
       "strainName": "Cherry Cheesecake",
       "strainType": null,
@@ -35133,7 +35136,7 @@
         {
           "id": 9236732,
           "label": "1A403030000012D000278755",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-17"
         }
@@ -35274,7 +35277,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Chill",
       "strainType": null,
@@ -35310,7 +35313,7 @@
         {
           "id": 9079420,
           "label": "1A403030000012D000272428",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-08-12"
         }
@@ -40093,7 +40096,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Cheese",
       "strainType": null,
@@ -40127,7 +40130,7 @@
         {
           "id": 8040613,
           "label": "1A4030300003522000169462",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-02-05",
           "expirationDate": "2027-01-24"
         }
@@ -40325,7 +40328,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 3.0,
       "unit": "Grams",
       "strainName": "Guava IX",
       "strainType": null,
@@ -40360,7 +40363,7 @@
         {
           "id": 9190748,
           "label": "1A4030300003521000062724",
-          "quantity": 5.0,
+          "quantity": 3.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-09"
         }
@@ -44280,7 +44283,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -44313,7 +44316,7 @@
         {
           "id": 9263931,
           "label": "1A40303000000CB000058602",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-26"
         }
@@ -44337,7 +44340,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Orange Pound Cake",
       "strainType": null,
@@ -44372,7 +44375,7 @@
         {
           "id": 9146579,
           "label": "1A4030300003A3C000092973",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-09-29"
         }
@@ -44743,7 +44746,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 41.0,
+      "quantity": 40.0,
       "unit": "Grams",
       "strainName": "Voyager",
       "strainType": null,
@@ -44776,7 +44779,7 @@
         {
           "id": 9188465,
           "label": "1A40303000001F5000463337",
-          "quantity": 41.0,
+          "quantity": 40.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-08-18"
         }
@@ -64587,7 +64590,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Maui Wowie",
       "strainType": "Sativa",
@@ -64621,7 +64624,7 @@
         {
           "id": 9233703,
           "label": "1A40303000003EA000176071",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-08-21"
         }
