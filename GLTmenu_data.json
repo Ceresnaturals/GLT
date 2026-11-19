@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T18:30:03.008824+00:00",
+  "generated_at": "2026-11-19T18:40:03.014069+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7650,6 +7650,70 @@
       "posCategory": "Concentrate"
     },
     {
+      "id": 7987789,
+      "packageCount": 1,
+      "name": "Dixie Elixir Single 10mg Berry Lemonade-10mg-1",
+      "brand": "Dixie",
+      "producer": "Curio Manufacturing",
+      "category": "Drink",
+      "metrcCategory": "Infused Liquid Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 6.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.017,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Bottle",
+        "totalThcMg": 10.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 7987789,
+          "label": "1A403030000012D000203969",
+          "quantity": 6.0,
+          "packagedDate": "2026-01-22",
+          "expirationDate": "2026-12-02"
+        }
+      ],
+      "pick": 9,
+      "price": 6.0,
+      "medPrice": 6.0,
+      "salePrice": 3.6,
+      "medSalePrice": 3.6,
+      "deal": "40% Off",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4448774",
+      "posCategory": "Edibles"
+    },
+    {
       "id": 8217232,
       "packageCount": 1,
       "name": "Dixie Elixir Single 10mg Cherry Limeade-10mg-1",
@@ -7947,7 +8011,7 @@
       "category": "Drink",
       "metrcCategory": "Exempt Liquid Edible Product (Medical Only)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 12.0,
       "unit": "Each",
@@ -10123,7 +10187,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10164,7 +10228,7 @@
         {
           "id": 9191002,
           "label": "1A4030300003522000227505",
-          "quantity": 17.0,
+          "quantity": 10.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-15"
         }
@@ -11339,7 +11403,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 20.0,
       "unit": "Each",
@@ -11792,7 +11856,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 5.0,
       "unit": "Each",
@@ -13156,7 +13220,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13195,7 +13259,7 @@
         {
           "id": 9079418,
           "label": "1A403030000012D000272425",
-          "quantity": 18.0,
+          "quantity": 16.0,
           "packagedDate": "2026-10-01",
           "expirationDate": "2027-07-27"
         }
@@ -24080,7 +24144,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -24121,7 +24185,7 @@
         {
           "id": 9097607,
           "label": "1A4030300002199000066029",
-          "quantity": 13.0,
+          "quantity": 11.0,
           "packagedDate": "2026-06-08",
           "expirationDate": "2027-06-08"
         }
@@ -24276,7 +24340,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -24317,7 +24381,7 @@
         {
           "id": 8890280,
           "label": "1A4030300002199000061271",
-          "quantity": 11.0,
+          "quantity": 9.0,
           "packagedDate": "2026-06-03",
           "expirationDate": "2027-06-03"
         }
@@ -24534,7 +24598,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -24573,7 +24637,7 @@
         {
           "id": 9162073,
           "label": "1A4030300002199000069216",
-          "quantity": 7.0,
+          "quantity": 5.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-09-02"
         }
@@ -27614,7 +27678,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 116.99,
+      "quantity": 113.49,
       "unit": "Grams",
       "strainName": "Headshot",
       "strainType": null,
@@ -27648,7 +27712,7 @@
         {
           "id": 8380389,
           "label": "1A4030300000709000013348",
-          "quantity": 116.99,
+          "quantity": 113.49,
           "packagedDate": "2026-04-27",
           "expirationDate": "2027-04-13"
         }
@@ -34947,7 +35011,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "Cherry Cheesecake",
       "strainType": null,
@@ -34981,7 +35045,7 @@
         {
           "id": 9236732,
           "label": "1A403030000012D000278755",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-17"
         }
@@ -35354,7 +35418,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 28.0,
+      "quantity": 27.0,
       "unit": "Grams",
       "strainName": "Oreoz",
       "strainType": null,
@@ -35388,7 +35452,7 @@
         {
           "id": 9274616,
           "label": "1A403030000012D000279619",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-04-28"
         }
@@ -35412,7 +35476,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Thrive",
       "strainType": null,
@@ -35449,7 +35513,7 @@
         {
           "id": 9236737,
           "label": "1A403030000012D000278762",
-          "quantity": 23.0,
+          "quantity": 21.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-08-12"
         }
@@ -51586,7 +51650,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 16.0,
       "unit": "Each",
@@ -56080,7 +56144,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Purple Haze",
       "strainType": null,
@@ -56114,7 +56178,7 @@
         {
           "id": 8882187,
           "label": "1A4030300003522000202240",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-08-18",
           "expirationDate": "2027-05-01"
         }
@@ -57505,7 +57569,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Legacy Series Blue Dream BRIQ",
       "strainType": null,
@@ -57538,7 +57602,7 @@
         {
           "id": 9051873,
           "label": "1A4030300000193000108910",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-25",
           "expirationDate": "2027-06-07"
         }
