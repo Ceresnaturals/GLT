@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T21:30:03.075946+00:00",
+  "generated_at": "2026-11-19T21:40:06.956960+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2646,9 +2646,9 @@
       ],
       "price": 45.0,
       "medPrice": 45.0,
-      "salePrice": 33.75,
-      "medSalePrice": 33.75,
-      "deal": "25% OFF Fade Co.",
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4706310",
       "posCategory": "Concentrate"
     },
@@ -2774,9 +2774,9 @@
       ],
       "price": 45.0,
       "medPrice": 45.0,
-      "salePrice": 33.75,
-      "medSalePrice": 33.75,
-      "deal": "25% OFF Fade Co.",
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4690065",
       "posCategory": "Concentrate"
     },
@@ -8297,7 +8297,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 18.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8338,7 +8338,7 @@
         {
           "id": 9233073,
           "label": "1A40303000001F5000467764",
-          "quantity": 18.0,
+          "quantity": 16.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-10-16"
         }
@@ -8556,16 +8556,17 @@
     },
     {
       "id": 9266457,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Keef - Pineapple X-Press - 10mg - 1",
       "brand": null,
       "producer": "SunMed Growers",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8609,6 +8610,13 @@
           "quantity": 5.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-09-29"
+        },
+        {
+          "id": 9304702,
+          "label": "1A40303000001F5000318349",
+          "quantity": 24.0,
+          "packagedDate": "2026-11-18",
+          "expirationDate": "2027-09-29"
         }
       ],
       "price": 8.0,
@@ -8621,16 +8629,17 @@
     },
     {
       "id": 9233075,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Keef - Purple Passion - 10mg - 1",
       "brand": null,
       "producer": "SunMed Growers",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8671,9 +8680,16 @@
         {
           "id": 9233075,
           "label": "1A40303000001F5000467766",
-          "quantity": 6.0,
+          "quantity": 4.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-24"
+        },
+        {
+          "id": 9304705,
+          "label": "1A40303000001F5000318350",
+          "quantity": 24.0,
+          "packagedDate": "2026-11-18",
+          "expirationDate": "2027-09-29"
         }
       ],
       "price": 8.0,
@@ -10883,7 +10899,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10924,7 +10940,7 @@
         {
           "id": 9262295,
           "label": "1A4030300003522000224770",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-29"
         }
@@ -11520,71 +11536,6 @@
       "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4714443",
       "posCategory": "Edibles"
-    },
-    {
-      "id": 9190784,
-      "packageCount": 1,
-      "name": "Bubby's Baked Brownie Bites V4-10mg-10",
-      "brand": null,
-      "producer": "Kind Therapeutics USA",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.12,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9190784,
-          "label": "1A4030300003522000227515",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-27",
-          "expirationDate": "2027-04-14"
-        }
-      ],
-      "price": null,
-      "medPrice": null,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": null,
-      "posCategory": null
     },
     {
       "id": 9124508,
@@ -16206,7 +16157,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -16247,7 +16198,7 @@
         {
           "id": 9288666,
           "label": "1A40303000017D5000113957",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-10-12",
           "expirationDate": "2027-10-12"
         }
@@ -21674,7 +21625,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 11.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -21713,7 +21664,7 @@
         {
           "id": 9274614,
           "label": "1A403030000012D000279617",
-          "quantity": 11.0,
+          "quantity": 9.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-09-29"
         }
@@ -26308,9 +26259,9 @@
       ],
       "price": 55.0,
       "medPrice": 55.0,
-      "salePrice": 41.25,
-      "medSalePrice": 41.25,
-      "deal": "25% OFF Fade Co.",
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4737996",
       "posCategory": "Pre-Packed Flower"
     },
@@ -26368,9 +26319,9 @@
       ],
       "price": 45.0,
       "medPrice": 45.0,
-      "salePrice": 33.75,
-      "medSalePrice": 33.75,
-      "deal": "25% OFF Fade Co.",
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4661503",
       "posCategory": "Pre-Packed Flower"
     },
@@ -26426,9 +26377,9 @@
       ],
       "price": 45.0,
       "medPrice": 45.0,
-      "salePrice": 33.75,
-      "medSalePrice": 33.75,
-      "deal": "25% OFF Fade Co.",
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4735547",
       "posCategory": "Pre-Packed Flower"
     },
@@ -26544,9 +26495,9 @@
       ],
       "price": 45.0,
       "medPrice": 45.0,
-      "salePrice": 33.75,
-      "medSalePrice": 33.75,
-      "deal": "25% OFF Fade Co.",
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174491",
       "posCategory": "Pre-Packed Flower"
     },
@@ -26604,9 +26555,9 @@
       ],
       "price": 65.0,
       "medPrice": 65.0,
-      "salePrice": 48.75,
-      "medSalePrice": 48.75,
-      "deal": "25% OFF Fade Co.",
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4737995",
       "posCategory": "Pre-Packed Flower"
     },
@@ -26663,9 +26614,9 @@
       ],
       "price": 120.0,
       "medPrice": 120.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "salePrice": 90.0,
+      "medSalePrice": 90.0,
+      "deal": "25% OFF Fade Co.",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4744446",
       "posCategory": "Pre-Packed Flower"
     },
@@ -28333,9 +28284,9 @@
       ],
       "price": 35.0,
       "medPrice": 35.0,
-      "salePrice": 26.25,
-      "medSalePrice": 26.25,
-      "deal": "25% OFF Fade Co.",
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4547700",
       "posCategory": "Pre-Packed Flower"
     },
@@ -28392,9 +28343,9 @@
       ],
       "price": 35.0,
       "medPrice": 35.0,
-      "salePrice": 26.25,
-      "medSalePrice": 26.25,
-      "deal": "25% OFF Fade Co.",
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4737994",
       "posCategory": "Pre-Packed Flower"
     },
@@ -32086,13 +32037,13 @@
           "expirationDate": "2027-08-18"
         }
       ],
-      "price": 12.0,
-      "medPrice": 12.0,
+      "price": null,
+      "medPrice": null,
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4735881",
-      "posCategory": "Pre-Rolls"
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 9226953,
@@ -35055,7 +35006,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Gush Mints",
       "strainType": null,
@@ -35087,7 +35038,7 @@
         {
           "id": 9142946,
           "label": "1A403030000012D000276053",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-04-23"
         }
@@ -35441,13 +35392,13 @@
           "expirationDate": "2027-05-21"
         }
       ],
-      "price": 10.0,
-      "medPrice": 10.0,
-      "salePrice": 7.0,
-      "medSalePrice": 7.0,
-      "deal": "Therapeutic Thursday! 30% off Curio Brands",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4584112",
-      "posCategory": "Pre-Rolls"
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 9164587,
@@ -35618,9 +35569,9 @@
       ],
       "price": 35.0,
       "medPrice": 35.0,
-      "salePrice": 26.25,
-      "medSalePrice": 26.25,
-      "deal": "25% OFF Fade Co.",
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4732396",
       "posCategory": "Pre-Rolls"
     },
@@ -35793,9 +35744,9 @@
       ],
       "price": 35.0,
       "medPrice": 35.0,
-      "salePrice": 26.25,
-      "medSalePrice": 26.25,
-      "deal": "25% OFF Fade Co.",
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4735557",
       "posCategory": "Pre-Rolls"
     },
@@ -35910,9 +35861,9 @@
       ],
       "price": 25.0,
       "medPrice": 25.0,
-      "salePrice": 18.75,
-      "medSalePrice": 18.75,
-      "deal": "25% OFF Fade Co.",
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4735549",
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
@@ -35967,9 +35918,9 @@
       ],
       "price": 40.0,
       "medPrice": 40.0,
-      "salePrice": 30.0,
-      "medSalePrice": 30.0,
-      "deal": "25% OFF Fade Co.",
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4729077",
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
@@ -36083,9 +36034,9 @@
       ],
       "price": 25.0,
       "medPrice": 25.0,
-      "salePrice": 18.75,
-      "medSalePrice": 18.75,
-      "deal": "25% OFF Fade Co.",
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4729078",
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
@@ -44821,9 +44772,9 @@
       ],
       "price": 75.0,
       "medPrice": 75.0,
-      "salePrice": 56.25,
-      "medSalePrice": 56.25,
-      "deal": "25% OFF Fade Co.",
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4729083",
       "posCategory": "Pre-Packed Flower"
     },
@@ -44838,7 +44789,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.26,
+      "quantity": 11.76,
       "unit": "Grams",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -44871,7 +44822,7 @@
         {
           "id": 9105009,
           "label": "1A40303000001F5000456190",
-          "quantity": 15.26,
+          "quantity": 11.76,
           "packagedDate": "2026-10-07",
           "expirationDate": null
         }
@@ -52441,9 +52392,9 @@
       ],
       "price": 60.0,
       "medPrice": 60.0,
-      "salePrice": 45.0,
-      "medSalePrice": 45.0,
-      "deal": "25% OFF Fade Co.",
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4557616",
       "posCategory": "Cartridges"
     },
@@ -52564,9 +52515,9 @@
       ],
       "price": 65.0,
       "medPrice": 65.0,
-      "salePrice": 48.75,
-      "medSalePrice": 48.75,
-      "deal": "25% OFF Fade Co.",
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4507170",
       "posCategory": "Cartridges"
     },
@@ -52625,9 +52576,9 @@
       ],
       "price": 60.0,
       "medPrice": 60.0,
-      "salePrice": 45.0,
-      "medSalePrice": 45.0,
-      "deal": "25% OFF Fade Co.",
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4557617",
       "posCategory": "Cartridges"
     },
@@ -52685,9 +52636,9 @@
       ],
       "price": 65.0,
       "medPrice": 65.0,
-      "salePrice": 48.75,
-      "medSalePrice": 48.75,
-      "deal": "25% OFF Fade Co.",
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4721580",
       "posCategory": "Cartridges"
     },
@@ -54968,13 +54919,13 @@
           "expirationDate": "2027-01-18"
         }
       ],
-      "price": 30.0,
-      "medPrice": 30.0,
-      "salePrice": 18.0,
-      "medSalePrice": 18.0,
-      "deal": "40% Off",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4670314",
-      "posCategory": "Cartridges"
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 8731266,
@@ -66981,5 +66932,5 @@
     }
   ],
   "priceNote": "Prices shown are estimates. The register has the final price.",
-  "pricesUpdatedAt": "2026-11-19T18:00:02.799599+00:00"
+  "pricesUpdatedAt": "2026-11-19T21:40:06.957646+00:00"
 }
