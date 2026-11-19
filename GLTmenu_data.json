@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T21:50:17.377773+00:00",
+  "generated_at": "2026-11-19T22:00:05.414668+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2539,7 +2539,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 20.0,
       "unit": "Each",
@@ -3490,7 +3490,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Baby Yoda",
       "strainType": null,
@@ -3523,7 +3523,7 @@
         {
           "id": 9236758,
           "label": "1A4030300002199000070680",
-          "quantity": 3.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-21",
           "expirationDate": "2027-09-23"
         }
@@ -7250,7 +7250,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 20.0,
       "unit": "Each",
@@ -7603,7 +7603,7 @@
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 20.0,
       "unit": "Each",
@@ -9142,16 +9142,17 @@
     },
     {
       "id": 9233077,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Sunnies Socials -Watermelon Sparkling Water -10mg -1",
       "brand": "Sunnies",
       "producer": "SunMed Growers",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 7.0,
+      "quantity": 31.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9195,6 +9196,13 @@
           "quantity": 7.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-11"
+        },
+        {
+          "id": 9304491,
+          "label": "1A40303000001F5000475043",
+          "quantity": 24.0,
+          "packagedDate": "2026-11-18",
+          "expirationDate": "2027-09-20"
         }
       ],
       "price": 6.0,
@@ -10446,9 +10454,9 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10487,7 +10495,7 @@
         {
           "id": 9262562,
           "label": "1A4030300003522000224785",
-          "quantity": 21.0,
+          "quantity": 19.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-13"
         }
@@ -10763,7 +10771,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10802,7 +10810,7 @@
         {
           "id": 9124094,
           "label": "1A4030300003522000219671",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-09-18"
         }
@@ -10889,7 +10897,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10928,7 +10936,7 @@
         {
           "id": 9191018,
           "label": "1A4030300003522000227510",
-          "quantity": 18.0,
+          "quantity": 16.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-09-25"
         }
@@ -18110,7 +18118,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18149,7 +18157,7 @@
         {
           "id": 8914789,
           "label": "1A4030300002009000112794",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-05-14"
         },
@@ -19761,7 +19769,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19802,7 +19810,7 @@
         {
           "id": 9124529,
           "label": "1A4030300003522000219683",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-08-07"
         }
@@ -20008,71 +20016,6 @@
       "medSalePrice": 30.0,
       "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174650",
-      "posCategory": "Edibles"
-    },
-    {
-      "id": 9124542,
-      "packageCount": 1,
-      "name": "In House Wild Berry Fast Acting V2 Gummies-40mg-10",
-      "brand": "In House",
-      "producer": "Kind Therapeutics USA",
-      "category": "Edible",
-      "metrcCategory": "Exempt Edible Product (Medical Only)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.77,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.03,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.05
-      },
-      "dose": {
-        "servingSize": "1",
-        "totalThcMg": 400.0,
-        "thcMgPerServing": 40.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 1.5,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 2.5
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9124542,
-          "label": "1A4030300003522000219685",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-13",
-          "expirationDate": "2027-07-27"
-        }
-      ],
-      "price": 40.0,
-      "medPrice": 40.0,
-      "salePrice": 30.0,
-      "medSalePrice": 30.0,
-      "deal": "Therapeutic Thursday! 25% off Edibles + Topicals",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4499558",
       "posCategory": "Edibles"
     },
     {
@@ -21347,7 +21290,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -21412,7 +21355,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -21477,7 +21420,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -21673,7 +21616,7 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -25954,7 +25897,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "MMMM",
       "strainType": null,
@@ -25988,7 +25931,7 @@
         {
           "id": 9175769,
           "label": "1A40303000000CD000083586",
-          "quantity": 24.5,
+          "quantity": 21.0,
           "packagedDate": "2026-10-22",
           "expirationDate": "2027-09-09"
         }
@@ -31211,62 +31154,6 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4447317",
-      "posCategory": "Pre-Packed Flower"
-    },
-    {
-      "id": 9188461,
-      "packageCount": 1,
-      "name": "SMG - Chem de la Chem - 3.5g",
-      "brand": null,
-      "producer": "Sunmed Growers",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 7.0,
-      "unit": "Grams",
-      "strainName": "Chem de la Chem TC",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 32.58,
-        "totalCBD": 0.31,
-        "CBDA": 0.06,
-        "CBG": 0.74,
-        "CBN": 0.01,
-        "THCA": 36.25
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.09,
-        "humulene": 0.38,
-        "myrcene": 0.8,
-        "alpha-pinene": 0.1,
-        "caryophyllene": 0.75,
-        "beta-pinene": 0.12,
-        "limonene": 0.75,
-        "linalool": 0.12,
-        "terpinolene": 0.02,
-        "nerolidol": 0.01
-      },
-      "totalTerps": 3.25,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 9188461,
-          "label": "1A40303000001F5000463333",
-          "quantity": 7.0,
-          "packagedDate": "2026-10-27",
-          "expirationDate": "2027-08-03"
-        }
-      ],
-      "price": 45.0,
-      "medPrice": 45.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4224618",
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -42788,7 +42675,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Raw Prerolls",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 50.0,
       "unit": "Each",
@@ -42845,7 +42732,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Raw Prerolls",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 50.0,
       "unit": "Each",
@@ -43012,7 +42899,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Raw Prerolls",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -43409,7 +43296,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Raw Prerolls",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -44050,7 +43937,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Infused Joints",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -44165,7 +44052,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 28.0,
+      "quantity": 26.25,
       "unit": "Grams",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -44198,7 +44085,7 @@
         {
           "id": 9263544,
           "label": "1A40303000000CB000058601",
-          "quantity": 28.0,
+          "quantity": 26.25,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-07-28"
         }
@@ -45341,7 +45228,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 174.5,
+      "quantity": 171.0,
       "unit": "Grams",
       "strainName": "Han Solo HashBurger",
       "strainType": null,
@@ -45373,7 +45260,7 @@
         {
           "id": 9098467,
           "label": "1A40303000040D9000006407",
-          "quantity": 174.5,
+          "quantity": 171.0,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
@@ -45629,7 +45516,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 158.04,
+      "quantity": 154.54,
       "unit": "Grams",
       "strainName": "Watermelon Gelato TC",
       "strainType": null,
@@ -45661,7 +45548,7 @@
         {
           "id": 8998461,
           "label": "1A40303000001F5000431291",
-          "quantity": 158.04,
+          "quantity": 154.54,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -47708,66 +47595,6 @@
       "posCategory": "Cartridges"
     },
     {
-      "id": 8974642,
-      "packageCount": 1,
-      "name": "Airo Pod SDG OG LLR 0.5g/500mg",
-      "brand": "Airo",
-      "producer": "SunMed Growers",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "SDG OG LLR",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 71.0,
-        "totalCBD": 0.18,
-        "CBC": 0.68,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.69,
-        "CBGA": 0.0,
-        "CBN": 0.09,
-        "THCA": 0.0,
-        "THCV": 0.58
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.82,
-        "myrcene": 2.39,
-        "alpha-pinene": 0.4,
-        "caryophyllene": 1.57,
-        "beta-pinene": 0.21,
-        "ocimene": 0.02,
-        "limonene": 1.91,
-        "linalool": 0.74,
-        "terpinolene": 0.07
-      },
-      "totalTerps": 8.92,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8974642,
-          "label": "1A40303000001F5000428938",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-09",
-          "expirationDate": "2027-04-08"
-        }
-      ],
-      "price": 40.0,
-      "medPrice": 40.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4688400",
-      "posCategory": "Cartridges"
-    },
-    {
       "id": 9188467,
       "packageCount": 1,
       "name": "Airo Pod Sunshine #4 LLR 1.0g/1000mg",
@@ -48125,7 +47952,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 12.0,
       "unit": "Each",
@@ -48237,7 +48064,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 12.0,
       "unit": "Each",
@@ -48299,7 +48126,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 12.0,
       "unit": "Each",
@@ -52024,7 +51851,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Blue Dream",
       "strainType": null,
@@ -52058,7 +51885,7 @@
         {
           "id": 9173944,
           "label": "1A403030000012D000277064",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-10-22",
           "expirationDate": "2027-10-08"
         }
@@ -52542,65 +52369,6 @@
       "posCategory": "Cartridges"
     },
     {
-      "id": 9079340,
-      "packageCount": 1,
-      "name": "Curio Wellness Opals and Banonoze Vape-1.0g",
-      "brand": "Curio Wellness",
-      "producer": "Curio Manufacturing",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Opals and Banonoze",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 75.22,
-        "CBC": 1.31,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 2.96,
-        "CBGA": 0.0,
-        "CBN": 4.01,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.26,
-        "humulene": 0.26,
-        "myrcene": 4.67,
-        "alpha-pinene": 1.01,
-        "caryophyllene": 1.03,
-        "beta-pinene": 0.26,
-        "ocimene": 1.74,
-        "limonene": 0.54,
-        "linalool": 0.47,
-        "terpinolene": 0.22
-      },
-      "totalTerps": 10.89,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 9079340,
-          "label": "1A403030000012D000272420",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-01",
-          "expirationDate": "2027-07-17"
-        }
-      ],
-      "price": 50.0,
-      "medPrice": 50.0,
-      "salePrice": 35.0,
-      "medSalePrice": 35.0,
-      "deal": "Therapeutic Thursday! 30% off Curio Brands",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4500879",
-      "posCategory": "Cartridges"
-    },
-    {
       "id": 9174034,
       "packageCount": 1,
       "name": "Curio Wellness Purple Kush Vape - 1.0g",
@@ -52669,7 +52437,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Wedding Cake",
       "strainType": null,
@@ -52704,7 +52472,7 @@
         {
           "id": 8894079,
           "label": "1A403030000012D000261764",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-03-11"
         }
@@ -54135,7 +53903,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -64164,7 +63932,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Maui Waui",
       "strainType": null,
@@ -64201,7 +63969,7 @@
         {
           "id": 9249088,
           "label": "1A403030000012E000212507",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-11-09",
           "expirationDate": "2027-09-11"
         }
@@ -66537,7 +66305,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -66721,7 +66489,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 25.0,
       "unit": "Each",
@@ -66782,7 +66550,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Sales Floor"
+        "Vault"
       ],
       "quantity": 25.0,
       "unit": "Each",
