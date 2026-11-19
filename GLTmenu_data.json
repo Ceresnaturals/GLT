@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T19:10:03.147902+00:00",
+  "generated_at": "2026-11-19T19:20:03.899505+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -13412,7 +13412,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 34.0,
+      "quantity": 32.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13458,7 +13458,7 @@
         {
           "id": 9142950,
           "label": "1A403030000012D000276059",
-          "quantity": 10.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-08-05"
         }
@@ -18186,7 +18186,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18232,7 +18232,7 @@
         {
           "id": 8386210,
           "label": "1A4030300002009000099175",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-04-28",
           "expirationDate": "2027-03-13"
         }
@@ -19047,7 +19047,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19088,7 +19088,7 @@
         {
           "id": 9124524,
           "label": "1A4030300003522000219681",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-07-29"
         }
@@ -22321,7 +22321,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 5.0,
       "unit": "Each",
@@ -22716,7 +22716,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22757,7 +22757,7 @@
         {
           "id": 8696830,
           "label": "1A40303000001F5000401550",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-07-08",
           "expirationDate": "2027-03-25"
         }
@@ -28251,7 +28251,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 77.0,
+      "quantity": 73.5,
       "unit": "Grams",
       "strainName": "ONYCD 3.0",
       "strainType": null,
@@ -28283,7 +28283,7 @@
         {
           "id": 9262519,
           "label": "1A4030300003521000061241",
-          "quantity": 77.0,
+          "quantity": 73.5,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-09-30"
         }
@@ -35695,6 +35695,66 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4738545",
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 7828141,
+      "packageCount": 1,
+      "name": "Fade Co Pre-Roll Pack (Blue Blockers) - Usable - 1g",
+      "brand": "Fade Co",
+      "producer": "Seven Points Agro-Therapeutics",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 26.0,
+      "unit": "Grams",
+      "strainName": "Blue Blockers",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 19.93,
+        "totalCBD": 0.05,
+        "CBC": 0.0,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.06,
+        "CBGA": 0.6,
+        "CBN": 0.0,
+        "THCA": 22.61,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.16,
+        "myrcene": 0.14,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.54,
+        "beta-pinene": 0.09,
+        "limonene": 0.59,
+        "linalool": 0.1,
+        "terpinolene": 0.02,
+        "nerolidol": 0.02
+      },
+      "totalTerps": 1.83,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 7828141,
+          "label": "1A4030300002EE1000114725",
+          "quantity": 26.0,
+          "packagedDate": "2025-12-03",
+          "expirationDate": "2026-11-28"
+        }
+      ],
+      "pick": 8,
+      "price": 15.0,
+      "medPrice": 15.0,
+      "salePrice": 9.0,
+      "medSalePrice": 9.0,
+      "deal": "40% Off",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4656466",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -43445,7 +43505,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Purple Punch Duster",
       "strainType": null,
@@ -43483,7 +43543,7 @@
         {
           "id": 9266026,
           "label": "1A40303000001F5000476096",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-05"
         }
@@ -43664,62 +43724,6 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4673068",
-      "posCategory": "Pre-Rolls"
-    },
-    {
-      "id": 9226978,
-      "packageCount": 1,
-      "name": "Sunset Octane Pre-Roll 7 Pack 3.5g Multi Pack",
-      "brand": null,
-      "producer": "Evermore Cannabis",
-      "category": "Pre-Roll",
-      "metrcCategory": "Raw Prerolls",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Sunset Octane",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 27.32,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.15,
-        "CBGA": 0.98,
-        "CBN": 0.0,
-        "THCA": 30.76,
-        "THCV": 0.11
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.13,
-        "myrcene": 0.45,
-        "alpha-pinene": 0.11,
-        "caryophyllene": 0.54,
-        "beta-pinene": 0.13,
-        "limonene": 1.09,
-        "linalool": 0.24
-      },
-      "totalTerps": 2.93,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 9226978,
-          "label": "1A40303000000CB000057886",
-          "quantity": 1.0,
-          "packagedDate": "2026-11-04",
-          "expirationDate": "2027-10-09"
-        }
-      ],
-      "price": 35.0,
-      "medPrice": 35.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4491529",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -51063,7 +51067,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Cherry Zlushie",
       "strainType": null,
@@ -51097,7 +51101,7 @@
         {
           "id": 8375142,
           "label": "1A403030000070A000036817",
-          "quantity": 7.0,
+          "quantity": 5.0,
           "packagedDate": "2026-04-24",
           "expirationDate": "2027-04-12"
         }
@@ -62277,7 +62281,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "RO BDTCart . AcapulcoGold S MD",
       "strainType": null,
@@ -62307,7 +62311,7 @@
         {
           "id": 9246402,
           "label": "1A403030000238D000110912",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-11-09",
           "expirationDate": "2027-09-22"
         }
@@ -62390,7 +62394,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "RO BDTCart . GG H MD",
       "strainType": null,
@@ -62424,7 +62428,7 @@
         {
           "id": 9246403,
           "label": "1A403030000238D000110913",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-11-09",
           "expirationDate": "2027-09-13"
         }
@@ -63434,7 +63438,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Maui Waui",
       "strainType": null,
@@ -63471,7 +63475,7 @@
         {
           "id": 9249088,
           "label": "1A403030000012E000212507",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-11-09",
           "expirationDate": "2027-09-11"
         }
