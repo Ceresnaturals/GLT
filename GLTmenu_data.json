@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T11:00:27.464892+00:00",
+  "generated_at": "2026-11-19T14:00:03.343195+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -25687,8 +25687,8 @@
       "posCategory": "Pre-Packed Flower"
     },
     {
-      "id": 9111455,
-      "packageCount": 1,
+      "id": 9274637,
+      "packageCount": 2,
       "name": "CUR-EXC-JAR-ALOG-3.5-MD",
       "brand": null,
       "producer": "Curio Cultivation",
@@ -25697,7 +25697,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 84.0,
+      "quantity": 168.0,
       "unit": "Grams",
       "strainName": "ALOG",
       "strainType": null,
@@ -25730,6 +25730,13 @@
       "dominantTerpene": "myrcene",
       "packages": [
         {
+          "id": 9274637,
+          "label": "1A40303000000CD000084948",
+          "quantity": 84.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-08-31"
+        },
+        {
           "id": 9111455,
           "label": "1A40303000000CD000082636",
           "quantity": 84.0,
@@ -25737,11 +25744,11 @@
           "expirationDate": "2027-09-14"
         }
       ],
-      "price": null,
-      "medPrice": null,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 31.5,
+      "medSalePrice": 31.5,
+      "deal": "Therapeutic Thursday! 30% off Curio Brands",
       "orderUrl": null,
       "posCategory": "Pre-Packed Flower"
     },
@@ -25801,6 +25808,65 @@
       "medSalePrice": 31.5,
       "deal": "Therapeutic Thursday! 30% off Curio Brands",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664223",
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 9274526,
+      "packageCount": 1,
+      "name": "CUR-EXC-JAR-MICA-3.5-MD",
+      "brand": null,
+      "producer": "Curio Cultivation",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 84.0,
+      "unit": "Grams",
+      "strainName": "MICA",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 33.5,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.24,
+        "CBN": 0.0,
+        "THCA": 37.87,
+        "THCV": 0.21
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.11,
+        "myrcene": 1.12,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.46,
+        "eudesmol": 0.13,
+        "beta-pinene": 0.05,
+        "limonene": 0.34,
+        "linalool": 0.09,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.62,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9274526,
+          "label": "1A40303000000CD000084949",
+          "quantity": 84.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-09-10"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 31.5,
+      "medSalePrice": 31.5,
+      "deal": "Therapeutic Thursday! 30% off Curio Brands",
+      "orderUrl": null,
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -30318,6 +30384,63 @@
       "posCategory": "Pre-Packed Flower"
     },
     {
+      "id": 9274636,
+      "packageCount": 1,
+      "name": "PEAZ-ED-BB-14",
+      "brand": null,
+      "producer": "Curio Cultivation",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 168.0,
+      "unit": "Grams",
+      "strainName": "PEAZ",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.99,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.45,
+        "CBN": 0.0,
+        "THCA": 29.5,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.05,
+        "myrcene": 0.48,
+        "alpha-pinene": 0.72,
+        "caryophyllene": 0.14,
+        "beta-pinene": 0.24,
+        "ocimene": 0.03,
+        "limonene": 0.24,
+        "linalool": 0.13
+      },
+      "totalTerps": 2.06,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9274636,
+          "label": "1A40303000000CD000084947",
+          "quantity": 168.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-07-13"
+        }
+      ],
+      "price": 100.0,
+      "medPrice": 100.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
       "id": 9197345,
       "packageCount": 1,
       "name": "Patapeake Shortbread Buds Pre-Pack 3.5g",
@@ -31411,8 +31534,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 136.5,
       "unit": "Grams",
