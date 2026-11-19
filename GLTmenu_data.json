@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T22:10:04.889246+00:00",
+  "generated_at": "2026-11-19T22:20:03.120019+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -10584,7 +10584,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10623,7 +10623,7 @@
         {
           "id": 9191001,
           "label": "1A4030300003522000227504",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-07"
         }
@@ -11153,7 +11153,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11194,7 +11194,7 @@
         {
           "id": 9262295,
           "label": "1A4030300003522000224770",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-29"
         }
@@ -24543,7 +24543,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -24584,7 +24584,7 @@
         {
           "id": 8601448,
           "label": "1A4030300002199000053118",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-02-20",
           "expirationDate": "2027-02-20"
         }
@@ -26902,7 +26902,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 52.5,
+      "quantity": 49.0,
       "unit": "Grams",
       "strainName": "Super Boof",
       "strainType": null,
@@ -26937,7 +26937,7 @@
         {
           "id": 9166183,
           "label": "1A4030300004845000050122",
-          "quantity": 52.5,
+          "quantity": 49.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-08-13"
         }
@@ -27137,7 +27137,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 140.0,
+      "quantity": 112.0,
       "unit": "Grams",
       "strainName": "Fruit Loot 5",
       "strainType": null,
@@ -27170,7 +27170,7 @@
         {
           "id": 9226752,
           "label": "1A40303000000CB000057872",
-          "quantity": 140.0,
+          "quantity": 112.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-26"
         }
@@ -31391,6 +31391,120 @@
       "posCategory": "Pre-Packed Flower"
     },
     {
+      "id": 9305018,
+      "packageCount": 1,
+      "name": "SMG - Permanent Marker - 3.5g",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 87.5,
+      "unit": "Grams",
+      "strainName": "Permanent Marker",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.49,
+        "totalCBD": 0.19,
+        "CBDA": 0.06,
+        "CBG": 0.12,
+        "CBN": 0.01,
+        "THCA": 27.2
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.04,
+        "humulene": 0.14,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.13,
+        "caryophyllene": 0.42,
+        "beta-pinene": 0.05,
+        "ocimene": 0.05,
+        "limonene": 0.47,
+        "linalool": 0.25,
+        "terpinolene": 0.02,
+        "nerolidol": 0.02
+      },
+      "totalTerps": 1.84,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9305018,
+          "label": "1A40303000001F5000480355",
+          "quantity": 87.5,
+          "packagedDate": "2026-11-18",
+          "expirationDate": "2027-04-20"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 9304965,
+      "packageCount": 1,
+      "name": "SMG - SDG OG - 28g",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 448.0,
+      "unit": "Grams",
+      "strainName": "SDG OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.41,
+        "totalCBD": 0.22,
+        "CBDA": 0.05,
+        "CBG": 0.66,
+        "CBN": 0.03,
+        "THCA": 31.71
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.33,
+        "myrcene": 0.48,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.79,
+        "beta-pinene": 0.05,
+        "ocimene": 0.01,
+        "limonene": 0.4,
+        "linalool": 0.14,
+        "terpinolene": 0.01,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.4,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9304965,
+          "label": "1A40303000001F5000480359",
+          "quantity": 448.0,
+          "packagedDate": "2026-11-18",
+          "expirationDate": "2027-09-26"
+        }
+      ],
+      "price": 200.0,
+      "medPrice": 200.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
       "id": 9266019,
       "packageCount": 1,
       "name": "SMG - SDG OG - 3.5g",
@@ -31446,6 +31560,63 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664636",
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 9305021,
+      "packageCount": 1,
+      "name": "SMG - Sour Diesel - 3.5g",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 87.5,
+      "unit": "Grams",
+      "strainName": "Sour Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 28.4,
+        "totalCBD": 0.15,
+        "CBDA": 0.02,
+        "CBG": 0.8,
+        "CBN": 0.05,
+        "THCA": 31.9
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.35,
+        "myrcene": 0.51,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.94,
+        "eudesmol": 0.01,
+        "beta-pinene": 0.04,
+        "limonene": 0.28,
+        "linalool": 0.02,
+        "terpinolene": 0.01,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 2.33,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9305021,
+          "label": "1A40303000001F5000480356",
+          "quantity": 87.5,
+          "packagedDate": "2026-11-18",
+          "expirationDate": "2027-09-29"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -35102,7 +35273,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Grams",
       "strainName": "Cherry Cheesecake",
       "strainType": null,
@@ -35136,7 +35307,7 @@
         {
           "id": 9236732,
           "label": "1A403030000012D000278755",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-17"
         }
@@ -35393,7 +35564,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Grams",
       "strainName": "Hell's OG",
       "strainType": null,
@@ -35427,7 +35598,7 @@
         {
           "id": 9274521,
           "label": "1A403030000012D000279622",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-08-03"
         }
@@ -51150,7 +51321,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Cherry Pineapple Zlushie DV",
       "strainType": null,
@@ -51186,7 +51357,7 @@
         {
           "id": 9168812,
           "label": "1A40303000001F5000462137",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-08-24"
         }
