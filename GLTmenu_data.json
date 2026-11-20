@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:10:03.551400+00:00",
+  "generated_at": "2026-11-20T19:20:04.613797+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9015,7 +9015,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9056,7 +9056,7 @@
         {
           "id": 9195883,
           "label": "1A40303000001F5000464094",
-          "quantity": 16.0,
+          "quantity": 14.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-10-01"
         }
@@ -9080,7 +9080,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 24.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9121,7 +9121,7 @@
         {
           "id": 9304488,
           "label": "1A40303000001F5000318351",
-          "quantity": 24.0,
+          "quantity": 23.0,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-10-12"
         }
@@ -9145,7 +9145,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9186,7 +9186,7 @@
         {
           "id": 9266458,
           "label": "1A40303000001F5000476183",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-14"
         }
@@ -9210,7 +9210,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9251,7 +9251,7 @@
         {
           "id": 9233076,
           "label": "1A40303000001F5000467767",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-08-03"
         }
@@ -9276,7 +9276,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 31.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9324,7 +9324,7 @@
         {
           "id": 9233077,
           "label": "1A40303000001F5000467768",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-11"
         }
@@ -20131,6 +20131,71 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9308583,
+      "packageCount": 1,
+      "name": "Incredibles Bites 100mg - Mile High Mint - 10mg - 10 Pieces",
+      "brand": "Incredibles",
+      "producer": "Chesapeake Alternatives",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.11,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9308583,
+          "label": "1A40303000003EA000296759",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-19",
+          "expirationDate": "2027-10-28"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 8809458,
       "packageCount": 1,
       "name": "Incredibles Bites 100mg - Monkey Bar - 10mg - 10",
@@ -20461,6 +20526,71 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664446",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9308584,
+      "packageCount": 1,
+      "name": "Incredibles Gummy 100mg - Fast Acting Pineapple Express - 10mg - 10 Pieces",
+      "brand": "Incredibles",
+      "producer": "Chesapeake Alternatives",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.35,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.03,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.9,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9308584,
+          "label": "1A40303000003EA000296760",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-19",
+          "expirationDate": "2027-09-16"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -20999,6 +21129,71 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9308675,
+      "packageCount": 1,
+      "name": "Incredibles Gummy Fast Acting Greener Apple 400mg-40mg-10 Pieces",
+      "brand": "Incredibles",
+      "producer": "Chesapeake Alternatives",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.81,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.06,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 3.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9308675,
+          "label": "1A40303000003EA000296762",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-19",
+          "expirationDate": "2027-10-19"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9271583,
       "packageCount": 1,
       "name": "Incredibles Gummy Strahhhberry 400mg (1:1 THC:CBD) - 40mg - 10 Pieces",
@@ -21061,6 +21256,71 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174679",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9308585,
+      "packageCount": 1,
+      "name": "Incredibles Gummy Watermelon Smash 400mg - 40mg - 10 Pieces",
+      "brand": "Incredibles",
+      "producer": "Chesapeake Alternatives",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.79,
+        "totalCBD": 0.0,
+        "CBC": 0.03,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.05,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 piece",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 1.5,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 2.5,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9308585,
+          "label": "1A40303000003EA000296761",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-19",
+          "expirationDate": "2027-10-13"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -24784,7 +25044,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -24823,7 +25083,7 @@
         {
           "id": 9162073,
           "label": "1A4030300002199000069216",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-09-02"
         }
@@ -36878,6 +37138,63 @@
       "posCategory": "Pre-Rolls"
     },
     {
+      "id": 9308588,
+      "packageCount": 1,
+      "name": "Josh D OG Kush 5 Pack - Dogwalkers (Sit) - 1.75g - Multi",
+      "brand": "Dogwalkers",
+      "producer": "Chesapeake Alternatives",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Josh D OG Kush",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.79,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.15,
+        "CBGA": 1.33,
+        "CBN": 0.0,
+        "THCA": 33.03,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.7,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 0.33,
+        "beta-pinene": 0.15,
+        "limonene": 1.14,
+        "linalool": 0.36,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 3.25,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9308588,
+          "label": "1A40303000003EA000296766",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-19",
+          "expirationDate": "2027-09-21"
+        }
+      ],
+      "price": 30.0,
+      "medPrice": 30.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 9270470,
       "packageCount": 1,
       "name": "Juicee J Strane - Pre-rolls - 1 g",
@@ -41961,6 +42278,63 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
+      "id": 9308589,
+      "packageCount": 1,
+      "name": "Rythm 5 Pack (Infused) - Maui Wowie (Sativa Dominant) - 2.5g - Multi",
+      "brand": "Rythm",
+      "producer": "Chesapeake Alternatives",
+      "category": "Pre-Roll",
+      "metrcCategory": "Infused Joints",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Maui Wowie",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 49.76,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.48,
+        "CBN": 0.0,
+        "THCA": 55.26,
+        "THCV": 0.29
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.12,
+        "myrcene": 0.11,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.46,
+        "beta-pinene": 0.02,
+        "limonene": 0.07,
+        "linalool": 0.15
+      },
+      "totalTerps": 1.11,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9308589,
+          "label": "1A40303000003EA000296768",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-19",
+          "expirationDate": "2027-10-08"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
       "id": 9233702,
       "packageCount": 1,
       "name": "Rythm 5 Pack (Infused) - Pineapple Express (Hybrid) - 2.5g",
@@ -44867,7 +45241,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 94.0,
+      "quantity": 90.5,
       "unit": "Grams",
       "strainName": "Han Solo HashBurger",
       "strainType": null,
@@ -44899,7 +45273,7 @@
         {
           "id": 9098467,
           "label": "1A40303000040D9000006407",
-          "quantity": 94.0,
+          "quantity": 90.5,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
@@ -50217,7 +50591,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Blueberry Dream",
       "strainType": null,
@@ -50246,7 +50620,7 @@
         {
           "id": 9270384,
           "label": "1A403030000012E000214920",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-09-18"
         }
@@ -52075,7 +52449,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "Purple Kush",
       "strainType": null,
@@ -52109,7 +52483,7 @@
         {
           "id": 9174034,
           "label": "1A403030000012D000277061",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-10-22",
           "expirationDate": "2027-09-23"
         }
@@ -62699,7 +63073,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "RO BDTCart GG H MD",
       "strainType": null,
@@ -62733,7 +63107,7 @@
         {
           "id": 9160016,
           "label": "1A403030000238D000109680",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-10-20",
           "expirationDate": "2027-08-16"
         }
@@ -62916,6 +63290,64 @@
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4741848",
       "posCategory": "Disposables"
+    },
+    {
+      "id": 9308590,
+      "packageCount": 1,
+      "name": "Rainbow Sherbet (NCD) - &Shine (Hybrid) - 1000mg",
+      "brand": "&Shine",
+      "producer": "Chesapeake Alternatives",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Rainbow Sherbet",
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.53,
+        "CBC": 0.83,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.88,
+        "CBGA": 0.0,
+        "CBN": 0.33,
+        "THCA": 0.0,
+        "THCV": 0.55
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.29,
+        "humulene": 0.09,
+        "myrcene": 0.73,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 1.27,
+        "beta-pinene": 0.25,
+        "limonene": 1.71,
+        "linalool": 0.35,
+        "terpinolene": 0.1
+      },
+      "totalTerps": 5.39,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9308590,
+          "label": "1A40303000003EA000296769",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-19",
+          "expirationDate": "2027-08-25"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Cartridges"
     },
     {
       "id": 9229958,
