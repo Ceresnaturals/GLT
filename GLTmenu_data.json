@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T00:00:03.173564+00:00",
+  "generated_at": "2026-11-20T00:10:03.281111+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -15834,7 +15834,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -15873,7 +15873,7 @@
         {
           "id": 9173947,
           "label": "1A403030000012D000277068",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-22",
           "expirationDate": "2027-09-24"
         }
@@ -18315,8 +18315,8 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8386209,
-      "packageCount": 2,
+      "id": 8386210,
+      "packageCount": 1,
       "name": "HiColor Max Nano Gummies Blood Orange|Exempt|40mg|10ct",
       "brand": "HiColor",
       "producer": "Marymed",
@@ -18325,19 +18325,19 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.899,
-        "CBC": 0.015,
+        "totalTHC": 0.839,
+        "CBC": 0.024,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.068,
+        "CBG": 0.097,
         "CBGA": 0.0,
-        "CBN": 0.01,
+        "CBN": 0.009,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -18346,12 +18346,12 @@
         "totalThcMg": 400.0,
         "thcMgPerServing": 40.0,
         "minorsMgPerServing": {
-          "CBC": 0.638,
+          "CBC": 1.021,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 2.892,
+          "CBG": 4.125,
           "CBGA": 0.0,
-          "CBN": 0.425,
+          "CBN": 0.383,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -18361,13 +18361,6 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
-        {
-          "id": 8386209,
-          "label": "1A4030300002009000099174",
-          "quantity": 1.0,
-          "packagedDate": "2026-04-28",
-          "expirationDate": "2027-01-21"
-        },
         {
           "id": 8386210,
           "label": "1A4030300002009000099175",
@@ -18710,69 +18703,6 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8163772,
-      "packageCount": 1,
-      "name": "HiColor RSO Indica Gummies Blue Raspberry|Edible Product|10mg|2ct",
-      "brand": "HiColor",
-      "producer": "Marymed",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": "Indica",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.218,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.001,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1pc",
-        "totalThcMg": 20.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.043,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8163772,
-          "label": "1A4030300002009000093004",
-          "quantity": 1.0,
-          "packagedDate": "2026-03-06",
-          "expirationDate": "2027-02-04"
-        }
-      ],
-      "price": null,
-      "medPrice": null,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": null,
-      "posCategory": null
-    },
-    {
       "id": 9167687,
       "packageCount": 1,
       "name": "HiColor RSO Sativa Gummies Sour Lemon Drop|Edible Product|10mg|10ct",
@@ -18848,7 +18778,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -18894,7 +18824,7 @@
         {
           "id": 8606616,
           "label": "1A4030300002009000105195",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-06-17",
           "expirationDate": "2027-02-05"
         }
@@ -21020,7 +20950,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -21068,7 +20998,7 @@
         {
           "id": 8574286,
           "label": "1A40303000003EA000190134",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-06-10",
           "expirationDate": "2027-01-12"
         }
@@ -34988,7 +34918,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Happy er J Sunset Octane x House Blends",
       "strainType": null,
@@ -35020,7 +34950,7 @@
         {
           "id": 8813826,
           "label": "1A4030300000C83000079114",
-          "quantity": 15.0,
+          "quantity": 11.0,
           "packagedDate": "2026-08-04",
           "expirationDate": "2027-01-20"
         }
@@ -44628,7 +44558,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Grams",
       "strainName": "Triple Mints",
       "strainType": null,
@@ -44660,7 +44590,7 @@
         {
           "id": 8483600,
           "label": "1A4030300000192000032417",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-05-20",
           "expirationDate": "2027-03-30"
         }
@@ -45287,7 +45217,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 132.5,
+      "quantity": 129.0,
       "unit": "Grams",
       "strainName": "Han Solo HashBurger",
       "strainType": null,
@@ -45319,7 +45249,7 @@
         {
           "id": 9098467,
           "label": "1A40303000040D9000006407",
-          "quantity": 132.5,
+          "quantity": 129.0,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
@@ -55731,7 +55661,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Hibiscus Cooler Slyde Rechargeable",
       "strainType": null,
@@ -55762,7 +55692,7 @@
         {
           "id": 8731266,
           "label": "1A4030300000C83000077078",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-07-15",
           "expirationDate": "2027-05-05"
         }
@@ -58868,64 +58798,6 @@
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4731006",
       "posCategory": "Cartridges"
-    },
-    {
-      "id": 8304604,
-      "packageCount": 1,
-      "name": "Live Liquid Diamonds AIO: Cereal Milk -.5g",
-      "brand": null,
-      "producer": "AHI Group",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Cereal Milk",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 80.49,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 10.53,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.24,
-        "myrcene": 7.86,
-        "alpha-pinene": 1.27,
-        "caryophyllene": 1.09,
-        "beta-pinene": 0.53,
-        "ocimene": 0.53,
-        "limonene": 2.26,
-        "linalool": 0.42,
-        "terpinolene": 0.39
-      },
-      "totalTerps": 14.82,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8304604,
-          "label": "1A4030300003D55000005336",
-          "quantity": 1.0,
-          "packagedDate": "2026-04-08",
-          "expirationDate": "2026-12-20"
-        }
-      ],
-      "price": null,
-      "medPrice": null,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": null,
-      "posCategory": null
     },
     {
       "id": 8309871,
