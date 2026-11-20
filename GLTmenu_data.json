@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T18:00:02.625603+00:00",
+  "generated_at": "2026-11-20T18:10:03.950654+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -7592,6 +7592,65 @@
       "medSalePrice": 51.0,
       "deal": "40% Off",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4691094",
+      "posCategory": "Concentrate"
+    },
+    {
+      "id": 8026080,
+      "packageCount": 1,
+      "name": "Triple Stack Live Budder - 1.0g",
+      "brand": null,
+      "producer": "Maryland Compassionate Care & Wellness",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 11.0,
+      "unit": "Each",
+      "strainName": "Triple Stack",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 69.19,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.67,
+        "CBN": 0.0,
+        "THCA": 78.89,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.25,
+        "humulene": 0.67,
+        "myrcene": 0.9,
+        "alpha-pinene": 0.21,
+        "caryophyllene": 2.98,
+        "beta-pinene": 0.33,
+        "limonene": 2.78,
+        "linalool": 1.14,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 10.03,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8026080,
+          "label": "1A4030300000193000083142",
+          "quantity": 11.0,
+          "packagedDate": "2026-02-03",
+          "expirationDate": "2026-12-08"
+        }
+      ],
+      "pick": 10,
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 27.0,
+      "medSalePrice": 27.0,
+      "deal": "40% Off",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4668898",
       "posCategory": "Concentrate"
     },
     {
@@ -45204,7 +45263,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 109.04,
+      "quantity": 102.04,
       "unit": "Grams",
       "strainName": "Watermelon Gelato TC",
       "strainType": null,
@@ -45236,7 +45295,7 @@
         {
           "id": 8998461,
           "label": "1A40303000001F5000431291",
-          "quantity": 109.04,
+          "quantity": 102.04,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -50823,6 +50882,65 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 7890139,
+      "packageCount": 1,
+      "name": "Cherry Maui Wowie Cartridge (Live Resin) - Rythm (Sativa Dominant) - 500mg",
+      "brand": "Rythm",
+      "producer": "Chesapeake Alternatives",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 6.0,
+      "unit": "Each",
+      "strainName": "Cherry Maui Wowie",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 72.69,
+        "CBC": 0.64,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.26,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 2.61
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.29,
+        "humulene": 0.54,
+        "myrcene": 2.49,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 2.04,
+        "eudesmol": 0.37,
+        "beta-pinene": 0.04,
+        "limonene": 0.72,
+        "linalool": 0.19
+      },
+      "totalTerps": 7.16,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 7890139,
+          "label": "1A40303000003EA000137329",
+          "quantity": 6.0,
+          "packagedDate": "2025-12-29",
+          "expirationDate": "2026-11-24"
+        }
+      ],
+      "pick": 4,
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 27.0,
+      "medSalePrice": 27.0,
+      "deal": "40% Off",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4538374",
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 9168812,
       "packageCount": 1,
       "name": "Cherry Pineapple Zlushie DV 0.5g/500mg",
@@ -53007,7 +53125,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 20.0,
       "unit": "Each",
@@ -56384,7 +56502,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 20.0,
       "unit": "Each",
