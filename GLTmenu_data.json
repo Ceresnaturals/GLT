@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T23:20:02.860738+00:00",
+  "generated_at": "2026-11-20T23:30:02.737097+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -803,7 +803,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Space Age Cake",
       "strainType": "Indica",
@@ -837,7 +837,7 @@
         {
           "id": 7975650,
           "label": "1A403030000238D000087021",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-01-20",
           "expirationDate": "2027-01-11"
         }
@@ -2124,7 +2124,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Chimera Cake",
       "strainType": null,
@@ -2157,7 +2157,7 @@
         {
           "id": 8814006,
           "label": "1A4030300000C83000079112",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-04",
           "expirationDate": "2027-07-07"
         }
@@ -3831,7 +3831,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Blue Sherb",
       "strainType": null,
@@ -3866,7 +3866,7 @@
         {
           "id": 8443325,
           "label": "1A4030300003D55000005792",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-05-11",
           "expirationDate": "2026-12-19"
         }
@@ -5090,8 +5090,8 @@
       "posCategory": "Concentrate"
     },
     {
-      "id": 9124801,
-      "packageCount": 2,
+      "id": 9124803,
+      "packageCount": 1,
       "name": "NH Blueberry Live Rosin-1g",
       "brand": "NH",
       "producer": "Kind Therapeutics USA",
@@ -5100,7 +5100,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Blueberry",
       "strainType": null,
@@ -5130,13 +5130,6 @@
       "dominantTerpene": "caryophyllene",
       "packages": [
         {
-          "id": 9124801,
-          "label": "1A4030300003522000219700",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-13",
-          "expirationDate": "2027-09-20"
-        },
-        {
           "id": 9124803,
           "label": "1A4030300003522000219701",
           "quantity": 7.0,
@@ -5144,12 +5137,12 @@
           "expirationDate": "2027-09-20"
         }
       ],
-      "price": 55.0,
-      "medPrice": 55.0,
+      "price": null,
+      "medPrice": null,
       "salePrice": null,
       "medSalePrice": null,
       "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4736202",
+      "orderUrl": null,
       "posCategory": "Concentrate"
     },
     {
@@ -7490,7 +7483,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Triple Stack",
       "strainType": null,
@@ -7524,7 +7517,7 @@
         {
           "id": 8026080,
           "label": "1A4030300000193000083142",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-02-03",
           "expirationDate": "2026-12-08"
         }
@@ -30842,7 +30835,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 168.0,
+      "quantity": 164.5,
       "unit": "Grams",
       "strainName": "RS11 x Skywalker OG",
       "strainType": null,
@@ -30875,7 +30868,7 @@
         {
           "id": 9225173,
           "label": "1A40303000040D9000006808",
-          "quantity": 168.0,
+          "quantity": 164.5,
           "packagedDate": "2026-11-03",
           "expirationDate": "2027-11-02"
         }
@@ -37952,60 +37945,6 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
-      "id": 8688991,
-      "packageCount": 1,
-      "name": "LORE Infused PR 1g - Goji Overdrive",
-      "brand": "LORE",
-      "producer": "CERES NATURALS",
-      "category": "Pre-Roll",
-      "metrcCategory": "Concentrate (Weight)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Grams",
-      "strainName": "Goji Overdrive",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 32.54,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.2,
-        "CBN": 0.09,
-        "THCA": 33.21,
-        "THCV": 0.12
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.06,
-        "caryophyllene": 0.16,
-        "limonene": 0.03,
-        "linalool": 0.08
-      },
-      "totalTerps": 0.41,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8688991,
-          "label": "1A4030300003201000001362",
-          "quantity": 1.0,
-          "packagedDate": "2026-07-07",
-          "expirationDate": "2027-02-24"
-        }
-      ],
-      "price": null,
-      "medPrice": null,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": null,
-      "posCategory": null
-    },
-    {
       "id": 9030313,
       "packageCount": 2,
       "name": "LORE Ritual - Berry Fritterz - 2g Blunt",
@@ -38016,7 +37955,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 36.0,
+      "quantity": 35.0,
       "unit": "Each",
       "strainName": "Berry Fritterz",
       "strainType": null,
@@ -38045,7 +37984,7 @@
         {
           "id": 9030313,
           "label": "1A4030300003201000001689",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-09-22",
           "expirationDate": "2027-09-15"
         },
@@ -38076,7 +38015,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": "Drag Queen",
       "strainType": null,
@@ -38106,7 +38045,7 @@
         {
           "id": 9030314,
           "label": "1A4030300003201000001690",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-09-22",
           "expirationDate": "2027-09-15"
         },
@@ -41999,7 +41938,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Mai Tai",
       "strainType": "Sativa",
@@ -42033,7 +41972,7 @@
         {
           "id": 9308677,
           "label": "1A40303000003EA000296767",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-11-19",
           "expirationDate": "2027-09-16"
         }
@@ -61930,7 +61869,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Pink Lemonade",
       "strainType": null,
@@ -61962,7 +61901,7 @@
         {
           "id": 9168517,
           "label": "1A40303000001F5000462134",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-08-26"
         }
