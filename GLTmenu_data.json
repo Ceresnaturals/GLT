@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T14:50:03.111505+00:00",
+  "generated_at": "2026-11-20T15:00:03.170313+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -45492,6 +45492,63 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4519057",
+      "posCategory": "Bulk Flower"
+    },
+    {
+      "id": 9099007,
+      "packageCount": 1,
+      "name": "Super Lemon Haze - Bulk Shake/Trim",
+      "brand": null,
+      "producer": "MAS Alliance",
+      "category": "Shake/Trim",
+      "metrcCategory": "Shake/Trim (by strain)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 446.48,
+      "unit": "Grams",
+      "strainName": "Super Lemon Haze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 18.46,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.32,
+        "CBN": 0.0,
+        "THCA": 20.53,
+        "THCV": 0.16
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.43,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.3,
+        "beta-pinene": 0.08,
+        "ocimene": 0.64,
+        "limonene": 0.08,
+        "terpinolene": 0.6
+      },
+      "totalTerps": 2.37,
+      "dominantTerpene": "ocimene",
+      "packages": [
+        {
+          "id": 9099007,
+          "label": "1A40303000040D9000006408",
+          "quantity": 446.48,
+          "packagedDate": "2026-10-06",
+          "expirationDate": null
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Bulk Flower"
     },
     {
