@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T21:20:03.173420+00:00",
+  "generated_at": "2026-11-20T21:30:03.168347+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -5046,7 +5046,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Bapple Fritz",
       "strainType": null,
@@ -5076,7 +5076,7 @@
         {
           "id": 9124366,
           "label": "1A4030300003522000219694",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-05-12"
         }
@@ -20815,7 +20815,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20863,7 +20863,7 @@
         {
           "id": 8891521,
           "label": "1A40303000003EA000205081",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-08-20",
           "expirationDate": "2027-07-09"
         }
@@ -24595,6 +24595,69 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9311457,
+      "packageCount": 1,
+      "name": "Wana | Edibles | Soft Lozenges | Classic Mango Sativa - 10mg - 10pk",
+      "brand": "Wana",
+      "producer": "HMS Processing",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.222,
+        "CBC": 0.003,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.007,
+        "CBGA": 0.0,
+        "CBN": 0.001,
+        "THCA": 0.0,
+        "THCV": 0.002
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.135,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.315,
+          "CBGA": 0.0,
+          "CBN": 0.045,
+          "THCA": 0.0,
+          "THCV": 0.09
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9311457,
+          "label": "1A4030300002199000072306",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-10-08"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 8601448,
       "packageCount": 1,
       "name": "Wana | Edibles | Soft Lozenges | Classic Ratio Passionfruit Pineapple 1:1:1 - 10mg - 10pk",
@@ -25462,7 +25525,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.5,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Banana Puddintain",
       "strainType": null,
@@ -25495,7 +25558,7 @@
         {
           "id": 9229882,
           "label": "1A40303000001F5000467376",
-          "quantity": 10.5,
+          "quantity": 7.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-05-20"
         }
@@ -27893,7 +27956,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 67.99,
+      "quantity": 57.49,
       "unit": "Grams",
       "strainName": "Headshot",
       "strainType": null,
@@ -27927,7 +27990,7 @@
         {
           "id": 8380389,
           "label": "1A4030300000709000013348",
-          "quantity": 67.99,
+          "quantity": 57.49,
           "packagedDate": "2026-04-27",
           "expirationDate": "2027-04-13"
         }
@@ -28872,7 +28935,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 321.23,
+      "quantity": 317.73,
       "unit": "Grams",
       "strainName": "Lava Lamp",
       "strainType": null,
@@ -28907,7 +28970,7 @@
         {
           "id": 8382209,
           "label": "1A4030300000709000048080",
-          "quantity": 321.23,
+          "quantity": 317.73,
           "packagedDate": "2026-04-27",
           "expirationDate": "2027-04-03"
         }
@@ -30950,7 +31013,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 10.5,
       "unit": "Grams",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -30984,7 +31047,7 @@
         {
           "id": 9229954,
           "label": "1A40303000001F5000467377",
-          "quantity": 14.0,
+          "quantity": 10.5,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-08-22"
         }
@@ -31176,7 +31239,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "SDG OG",
       "strainType": null,
@@ -31210,7 +31273,7 @@
         {
           "id": 9266019,
           "label": "1A40303000001F5000476083",
-          "quantity": 35.0,
+          "quantity": 31.5,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-08-21"
         }
@@ -36976,7 +37039,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 16.0,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Juicee J",
       "strainType": null,
@@ -37009,7 +37072,7 @@
         {
           "id": 9270470,
           "label": "1A403030000012E000214919",
-          "quantity": 16.0,
+          "quantity": 14.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-06-11"
         }
@@ -38715,7 +38778,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -38748,7 +38811,7 @@
         {
           "id": 9226770,
           "label": "1A40303000000CB000057884",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-09-29"
         }
@@ -43942,7 +44005,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Swampwater Fumez",
       "strainType": null,
@@ -43975,7 +44038,7 @@
         {
           "id": 9268427,
           "label": "1A40303000000CB000058647",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-10-26"
         }
@@ -45179,7 +45242,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 74.04,
+      "quantity": 70.54,
       "unit": "Grams",
       "strainName": "Watermelon Gelato TC",
       "strainType": null,
@@ -45211,7 +45274,7 @@
         {
           "id": 8998461,
           "label": "1A40303000001F5000431291",
-          "quantity": 74.04,
+          "quantity": 70.54,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
