@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:00:02.661152+00:00",
+  "generated_at": "2026-11-20T19:10:03.551400+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -6843,7 +6843,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "RO CrdBudder BlueBeachHaze S MD",
       "strainType": null,
@@ -6877,7 +6877,7 @@
         {
           "id": 9246405,
           "label": "1A403030000238D000110915",
-          "quantity": 9.0,
+          "quantity": 7.0,
           "packagedDate": "2026-11-09",
           "expirationDate": "2027-10-10"
         }
@@ -12057,7 +12057,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12098,7 +12098,7 @@
         {
           "id": 9262300,
           "label": "1A4030300003522000224773",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-04-28"
         }
@@ -18916,7 +18916,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18957,7 +18957,7 @@
         {
           "id": 9262565,
           "label": "1A4030300003522000224789",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-27"
         }
@@ -27748,7 +27748,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 88.99,
+      "quantity": 74.99,
       "unit": "Grams",
       "strainName": "Headshot",
       "strainType": null,
@@ -27782,7 +27782,7 @@
         {
           "id": 8380389,
           "label": "1A4030300000709000013348",
-          "quantity": 88.99,
+          "quantity": 74.99,
           "packagedDate": "2026-04-27",
           "expirationDate": "2027-04-13"
         }
@@ -29077,7 +29077,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 108.5,
+      "quantity": 101.5,
       "unit": "Grams",
       "strainName": "Lemon Blanc",
       "strainType": null,
@@ -29111,7 +29111,7 @@
         {
           "id": 9263918,
           "label": "1A40303000000CB000058596",
-          "quantity": 108.5,
+          "quantity": 101.5,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-11-06"
         }
@@ -36000,64 +36000,6 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
-      "id": 8840301,
-      "packageCount": 1,
-      "name": "Fade Co | Pre-Roll | Infused Pack | Bomb Popz - 2.5g - 5pk",
-      "brand": "Fade Co",
-      "producer": "Seven Points Agro-Therapeutics",
-      "category": "Pre-Roll",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.0,
-      "unit": "Each",
-      "strainName": "Bomb Popz",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 36.72,
-        "totalCBD": 0.04,
-        "CBC": 0.04,
-        "CBDA": 0.05,
-        "CBDV": 0.0,
-        "CBG": 0.16,
-        "CBGA": 0.84,
-        "CBN": 0.0,
-        "THCA": 37.26,
-        "THCV": 0.14
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.08,
-        "alpha-pinene": 0.53,
-        "caryophyllene": 0.3,
-        "beta-pinene": 0.18,
-        "caryophyllene-oxide": 0.03,
-        "limonene": 0.16,
-        "linalool": 0.34
-      },
-      "totalTerps": 1.7,
-      "dominantTerpene": "alpha-pinene",
-      "packages": [
-        {
-          "id": 8840301,
-          "label": "1A4030300004845000037836",
-          "quantity": 3.0,
-          "packagedDate": "2026-07-31",
-          "expirationDate": "2027-07-30"
-        }
-      ],
-      "pick": 133,
-      "price": null,
-      "medPrice": null,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": null,
-      "posCategory": null
-    },
-    {
       "id": 9002415,
       "packageCount": 1,
       "name": "Fade Co | Pre-Roll | Infused Pack | Super Boof - 1g - 2pk",
@@ -41954,16 +41896,17 @@
     },
     {
       "id": 9130900,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Rythm 5 Pack (Infused) - Mai Tai (Sativa Dominant) - 2.5g",
       "brand": "Rythm",
       "producer": "Chesapeake Alternatives",
       "category": "Pre-Roll",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": "Mai Tai",
       "strainType": "Sativa",
@@ -41999,6 +41942,13 @@
           "label": "1A40303000003EA000253107",
           "quantity": 1.0,
           "packagedDate": "2026-10-14",
+          "expirationDate": "2027-09-16"
+        },
+        {
+          "id": 9308677,
+          "label": "1A40303000003EA000296767",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-19",
           "expirationDate": "2027-09-16"
         }
       ],
@@ -44786,9 +44736,9 @@
       ],
       "price": 50.0,
       "medPrice": 50.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
+      "salePrice": 37.5,
+      "medSalePrice": 37.5,
+      "deal": "Flower Friday! 25% OFF All Flower",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4743085",
       "posCategory": "Pre-Packed Flower"
     },
@@ -54305,7 +54255,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Goat Piss",
       "strainType": null,
@@ -54339,7 +54289,7 @@
         {
           "id": 8356316,
           "label": "1A40303000039D1000074996",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-04-21",
           "expirationDate": "2027-02-09"
         }
@@ -58627,7 +58577,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 34.0,
+      "quantity": 31.0,
       "unit": "Each",
       "strainName": "Liquid",
       "strainType": null,
@@ -58661,7 +58611,7 @@
         {
           "id": 8584497,
           "label": "1A4030300003D55000006256",
-          "quantity": 34.0,
+          "quantity": 31.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-02-21"
         }
@@ -58686,7 +58636,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Black Cherry Soda",
       "strainType": null,
@@ -58720,7 +58670,7 @@
         {
           "id": 8583239,
           "label": "1A4030300003D55000006209",
-          "quantity": 17.0,
+          "quantity": 14.0,
           "packagedDate": "2026-06-11",
           "expirationDate": "2027-02-21"
         }
@@ -58921,7 +58871,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": "Cookies n Chem",
       "strainType": null,
@@ -58955,7 +58905,7 @@
         {
           "id": 8305496,
           "label": "1A4030300003D55000005369",
-          "quantity": 31.0,
+          "quantity": 30.0,
           "packagedDate": "2026-04-09",
           "expirationDate": "2026-12-20"
         }
@@ -60838,13 +60788,13 @@
           "expirationDate": "2027-04-06"
         }
       ],
-      "price": 60.0,
-      "medPrice": 60.0,
-      "salePrice": 36.0,
-      "medSalePrice": 36.0,
-      "deal": "40% Off",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4706284",
-      "posCategory": "Cartridges"
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 8828808,
@@ -67366,5 +67316,5 @@
     }
   ],
   "priceNote": "Prices shown are estimates. The register has the final price.",
-  "pricesUpdatedAt": "2026-11-20T18:00:02.626290+00:00"
+  "pricesUpdatedAt": "2026-11-20T19:10:03.552125+00:00"
 }
