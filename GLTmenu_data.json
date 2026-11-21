@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T20:00:02.851201+00:00",
+  "generated_at": "2026-11-21T20:10:03.469239+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -3379,6 +3379,65 @@
       "medSalePrice": 41.25,
       "deal": "Saturdaze Delights! 25% off Concentrates",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4720275",
+      "posCategory": "Concentrate"
+    },
+    {
+      "id": 9300985,
+      "packageCount": 1,
+      "name": "Juice Pack Live Rosin Cold Cure 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Juice",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 63.25,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 3.84,
+        "CBN": 0.0,
+        "THCA": 72.12,
+        "THCV": 0.37
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.23,
+        "humulene": 0.31,
+        "myrcene": 0.41,
+        "alpha-pinene": 0.43,
+        "caryophyllene": 0.96,
+        "beta-pinene": 0.41,
+        "ocimene": 0.11,
+        "limonene": 3.71,
+        "linalool": 0.77,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 8.19,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9300985,
+          "label": "1A4030300000C83000044758",
+          "quantity": 20.0,
+          "packagedDate": "2026-11-18",
+          "expirationDate": "2027-11-05"
+        }
+      ],
+      "price": 55.0,
+      "medPrice": 55.0,
+      "salePrice": 41.25,
+      "medSalePrice": 41.25,
+      "deal": "Saturdaze Delights! 25% off Concentrates",
+      "orderUrl": null,
       "posCategory": "Concentrate"
     },
     {
@@ -26031,7 +26090,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 119.0,
+      "quantity": 115.5,
       "unit": "Grams",
       "strainName": "ALOG",
       "strainType": null,
@@ -26066,7 +26125,7 @@
         {
           "id": 9274637,
           "label": "1A40303000000CD000084948",
-          "quantity": 35.0,
+          "quantity": 31.5,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-08-31"
         },
@@ -26155,7 +26214,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 77.0,
+      "quantity": 73.5,
       "unit": "Grams",
       "strainName": "MICA",
       "strainType": null,
@@ -26190,7 +26249,7 @@
         {
           "id": 9274526,
           "label": "1A40303000000CD000084949",
-          "quantity": 77.0,
+          "quantity": 73.5,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-09-10"
         }
@@ -26738,7 +26797,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Cadillac Rainbows",
       "strainType": null,
@@ -26772,7 +26831,7 @@
         {
           "id": 9117290,
           "label": "1A4030300004845000048445",
-          "quantity": 38.5,
+          "quantity": 35.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-08-06"
         }
@@ -29055,7 +29114,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 38.5,
+      "quantity": 35.0,
       "unit": "Grams",
       "strainName": "Lemon Blanc",
       "strainType": null,
@@ -29089,7 +29148,7 @@
         {
           "id": 9263918,
           "label": "1A40303000000CB000058596",
-          "quantity": 38.5,
+          "quantity": 35.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-11-06"
         }
@@ -31875,7 +31934,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 21.0,
       "unit": "Grams",
       "strainName": "Blockberry",
       "strainType": null,
@@ -31907,7 +31966,7 @@
         {
           "id": 8751944,
           "label": "1A4030300002009000109421",
-          "quantity": 24.5,
+          "quantity": 21.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-06-26"
         }
@@ -33317,7 +33376,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Animal Scout",
       "strainType": null,
@@ -33357,7 +33416,7 @@
         {
           "id": 8970729,
           "label": "1A40303000003EA000263659",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-09",
           "expirationDate": "2027-07-29"
         }
@@ -37098,7 +37157,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -37132,7 +37191,7 @@
         {
           "id": 9111207,
           "label": "1A403030000012D000275065",
-          "quantity": 16.0,
+          "quantity": 14.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-07-30"
         }
@@ -37156,7 +37215,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -37192,7 +37251,7 @@
         {
           "id": 9274519,
           "label": "1A403030000012D000279613",
-          "quantity": 19.0,
+          "quantity": 15.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-08-08"
         }
@@ -40685,7 +40744,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Orange Drizzle Isolate",
       "strainType": null,
@@ -40725,7 +40784,7 @@
         {
           "id": 9226776,
           "label": "1A4030300000C83000044095",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-12"
         }
@@ -53065,7 +53124,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Flavor Series Baja Smash",
       "strainType": null,
@@ -53101,7 +53160,7 @@
         {
           "id": 8908839,
           "label": "1A4030300000193000106241",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-05-18"
         }
@@ -53186,7 +53245,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Flavor Series Berry Gelato",
       "strainType": null,
@@ -53219,7 +53278,7 @@
         {
           "id": 8596802,
           "label": "1A4030300000193000098460",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-06-15",
           "expirationDate": "2027-05-18"
         }
@@ -57576,7 +57635,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Legacy Series GG4",
       "strainType": null,
@@ -57610,7 +57669,7 @@
         {
           "id": 8787119,
           "label": "1A4030300000193000102924",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-06-07"
         }
