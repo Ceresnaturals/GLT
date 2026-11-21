@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T17:20:02.725679+00:00",
+  "generated_at": "2026-11-21T17:30:03.129584+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -19,30 +19,31 @@
   ],
   "products": [
     {
-      "id": 9030802,
-      "packageCount": 1,
+      "id": 9303552,
+      "packageCount": 2,
       "name": "ALLCAPS 100mg - 100mg - 10",
       "brand": null,
       "producer": "Evermore Cannabis",
       "category": "Capsule",
       "metrcCategory": "Infused Edible (Capsule Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 12.25,
+        "totalTHC": 12.32,
         "totalCBD": 0.08,
-        "CBC": 0.1,
+        "CBC": 0.11,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.37,
+        "CBG": 0.39,
         "CBGA": 0.0,
-        "CBN": 0.06,
+        "CBN": 0.05,
         "THCA": 0.0,
         "THCV": 0.06
       },
@@ -52,12 +53,12 @@
         "thcMgPerServing": 100.0,
         "minorsMgPerServing": {
           "totalCBD": 0.062,
-          "CBC": 0.078,
+          "CBC": 0.086,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.289,
+          "CBG": 0.304,
           "CBGA": 0.0,
-          "CBN": 0.047,
+          "CBN": 0.039,
           "THCA": 0.0,
           "THCV": 0.047
         },
@@ -67,6 +68,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9303552,
+          "label": "1A4030300000C83000084602",
+          "quantity": 20.0,
+          "packagedDate": "2026-11-18",
+          "expirationDate": "2027-09-28"
+        },
         {
           "id": 9030802,
           "label": "1A4030300000C83000082168",
@@ -16673,7 +16681,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16714,7 +16722,7 @@
         {
           "id": 9145105,
           "label": "1A40303000017D5000110714",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-03",
           "expirationDate": "2027-09-03"
         }
@@ -24861,7 +24869,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 3.5,
       "unit": "Grams",
       "strainName": "Alien Breath",
       "strainType": null,
@@ -24894,7 +24902,7 @@
         {
           "id": 9112170,
           "label": "1A4030300003A3C000092569",
-          "quantity": 7.0,
+          "quantity": 3.5,
           "packagedDate": "2026-09-17",
           "expirationDate": "2027-09-17"
         }
@@ -31453,7 +31461,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "Honeydew",
       "strainType": null,
@@ -31486,7 +31494,7 @@
         {
           "id": 9112178,
           "label": "1A4030300003A3C000092574",
-          "quantity": 35.0,
+          "quantity": 31.5,
           "packagedDate": "2026-09-25",
           "expirationDate": "2027-09-25"
         }
@@ -43473,7 +43481,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Grams",
       "strainName": "Super Gremlin",
       "strainType": null,
@@ -43507,7 +43515,7 @@
         {
           "id": 9147652,
           "label": "1A403030000012E000205845",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-16",
           "expirationDate": "2027-07-29"
         }
@@ -44423,7 +44431,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 65.0,
+      "quantity": 60.0,
       "unit": "Grams",
       "strainName": "Charm Biscuitz",
       "strainType": null,
@@ -44456,7 +44464,7 @@
         {
           "id": 9127364,
           "label": "1A40303000040D9000006562",
-          "quantity": 65.0,
+          "quantity": 60.0,
           "packagedDate": "2026-10-13",
           "expirationDate": null
         }
@@ -44768,7 +44776,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.04,
+      "quantity": 18.04,
       "unit": "Grams",
       "strainName": "Watermelon Gelato TC",
       "strainType": null,
@@ -44800,7 +44808,7 @@
         {
           "id": 8998461,
           "label": "1A40303000001F5000431291",
-          "quantity": 25.04,
+          "quantity": 18.04,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -50109,7 +50117,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Cheetah Lilac Breath LR DG",
       "strainType": null,
@@ -50144,7 +50152,7 @@
         {
           "id": 8760179,
           "label": "1A4030300001771000040025",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-07-22",
           "expirationDate": "2027-07-14"
         }
@@ -59333,7 +59341,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": null,
@@ -59366,7 +59374,7 @@
         {
           "id": 9233963,
           "label": "1A403030000283D000063180",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-07-29"
         }
@@ -62781,7 +62789,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Cherry Gelato",
       "strainType": null,
@@ -62817,7 +62825,7 @@
         {
           "id": 9249070,
           "label": "1A403030000012E000212511",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-11-09",
           "expirationDate": "2027-09-09"
         }
