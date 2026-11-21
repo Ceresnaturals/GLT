@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T22:40:02.479143+00:00",
+  "generated_at": "2026-11-21T22:50:02.893318+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12594,7 +12594,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12633,7 +12633,7 @@
         {
           "id": 9236739,
           "label": "1A403030000012D000278765",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-16"
         }
@@ -17343,7 +17343,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17382,7 +17382,7 @@
         {
           "id": 9022664,
           "label": "1A40303000017D5000107309",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-06-29",
           "expirationDate": "2027-06-29"
         }
@@ -20499,10 +20499,9 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20543,7 +20542,7 @@
         {
           "id": 9271372,
           "label": "1A40303000003EA000294813",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-09-04"
         },
@@ -28049,7 +28048,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 36.49,
+      "quantity": 32.99,
       "unit": "Grams",
       "strainName": "Headshot",
       "strainType": null,
@@ -28083,7 +28082,7 @@
         {
           "id": 8380389,
           "label": "1A4030300000709000013348",
-          "quantity": 36.49,
+          "quantity": 32.99,
           "packagedDate": "2026-04-27",
           "expirationDate": "2027-04-13"
         }
@@ -28107,7 +28106,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 31.5,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "INFINITY LINX",
       "strainType": null,
@@ -28142,7 +28141,7 @@
         {
           "id": 9201723,
           "label": "1A403030000012E000210273",
-          "quantity": 31.5,
+          "quantity": 28.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-09-23"
         }
@@ -28565,7 +28564,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 49.0,
+      "quantity": 45.5,
       "unit": "Grams",
       "strainName": "ONYCD 3.0",
       "strainType": null,
@@ -28597,7 +28596,7 @@
         {
           "id": 9262519,
           "label": "1A4030300003521000061241",
-          "quantity": 49.0,
+          "quantity": 45.5,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-09-30"
         }
@@ -29261,7 +29260,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Lemon Blanc",
       "strainType": null,
@@ -29295,7 +29294,7 @@
         {
           "id": 9263918,
           "label": "1A40303000000CB000058596",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-11-06"
         }
@@ -32536,64 +32535,6 @@
       "posCategory": "Pre-Packed Flower"
     },
     {
-      "id": 9147595,
-      "packageCount": 1,
-      "name": "Wingsuit Garcia Hand Picked - Usable - 3.5 g",
-      "brand": "Garcia Hand Picked",
-      "producer": "Holistic Industries",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "Wingsuit",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 25.66,
-        "totalCBD": 0.07,
-        "CBC": 0.0,
-        "CBDA": 0.08,
-        "CBDV": 0.0,
-        "CBG": 0.09,
-        "CBGA": 0.77,
-        "CBN": 0.0,
-        "THCA": 27.95,
-        "THCV": 0.08
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.04,
-        "myrcene": 0.91,
-        "alpha-pinene": 0.05,
-        "caryophyllene": 0.14,
-        "beta-pinene": 0.07,
-        "ocimene": 0.45,
-        "limonene": 0.44,
-        "linalool": 0.35
-      },
-      "totalTerps": 2.54,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 9147595,
-          "label": "1A403030000012E000205836",
-          "quantity": 3.5,
-          "packagedDate": "2026-10-16",
-          "expirationDate": "2027-09-28"
-        }
-      ],
-      "price": 45.0,
-      "medPrice": 45.0,
-      "salePrice": 31.5,
-      "medSalePrice": 31.5,
-      "deal": "Saturdaze Delights! 30% OFF Strane/Garcia/Hellavated/Do Drops",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4511284",
-      "posCategory": "Pre-Packed Flower"
-    },
-    {
       "id": 9005738,
       "packageCount": 1,
       "name": "Z Cream Pre-Pack 3.5g",
@@ -33121,7 +33062,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.5,
+      "quantity": 20.0,
       "unit": "Grams",
       "strainName": "Admiral Apple",
       "strainType": null,
@@ -33154,7 +33095,7 @@
         {
           "id": 9019207,
           "label": "1A40303000000C9000171509",
-          "quantity": 22.5,
+          "quantity": 20.0,
           "packagedDate": "2026-09-18",
           "expirationDate": "2027-08-31"
         }
@@ -45573,7 +45514,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 358.98,
+      "quantity": 355.48,
       "unit": "Grams",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -45606,7 +45547,7 @@
         {
           "id": 9099007,
           "label": "1A40303000040D9000006408",
-          "quantity": 358.98,
+          "quantity": 355.48,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
@@ -59117,7 +59058,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "London Pound Cake DV",
       "strainType": null,
@@ -59151,7 +59092,7 @@
         {
           "id": 8998453,
           "label": "1A40303000001F5000431281",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-06-10"
         }
