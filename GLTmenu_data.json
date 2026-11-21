@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T15:30:02.943051+00:00",
+  "generated_at": "2026-11-21T15:40:02.614805+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -4174,7 +4174,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "MD EXT MDBNAM 35CS",
       "strainType": null,
@@ -4209,7 +4209,7 @@
         {
           "id": 9283608,
           "label": "1A40303000007D1000111705",
-          "quantity": 20.0,
+          "quantity": 18.0,
           "packagedDate": "2026-11-16",
           "expirationDate": "2027-10-12"
         }
@@ -4455,64 +4455,6 @@
       "medSalePrice": 63.75,
       "deal": "Saturdaze Delights! 25% off Concentrates",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4734713",
-      "posCategory": "Concentrate"
-    },
-    {
-      "id": 9100378,
-      "packageCount": 1,
-      "name": "MD-EXT-MDPAVE-35CS",
-      "brand": null,
-      "producer": "MCP Processing",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": "MD EXT MDPAVE 35CS",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 71.77,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.03,
-        "CBN": 0.0,
-        "THCA": 75.38,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.3,
-        "humulene": 0.77,
-        "myrcene": 0.23,
-        "alpha-pinene": 0.19,
-        "caryophyllene": 2.69,
-        "beta-pinene": 0.19,
-        "limonene": 1.11,
-        "linalool": 0.93,
-        "terpinolene": 0.04
-      },
-      "totalTerps": 6.95,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 9100378,
-          "label": "1A40303000007D1000106306",
-          "quantity": 2.0,
-          "packagedDate": "2026-10-07",
-          "expirationDate": "2027-02-27"
-        }
-      ],
-      "price": 85.0,
-      "medPrice": 85.0,
-      "salePrice": 63.75,
-      "medSalePrice": 63.75,
-      "deal": "Saturdaze Delights! 25% off Concentrates",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4704329",
       "posCategory": "Concentrate"
     },
     {
@@ -9343,71 +9285,6 @@
       "medSalePrice": 4.8,
       "deal": "Saturdaze Delights! 20% OFF Edibles",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4622775",
-      "posCategory": "Edibles"
-    },
-    {
-      "id": 9226739,
-      "packageCount": 1,
-      "name": "Tall- (XO) Dragon Fruit - 10mg - 1",
-      "brand": null,
-      "producer": "Evermore Cannabis",
-      "category": "Drink",
-      "metrcCategory": "Infused Liquid Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 8.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.003,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 can, 12 fl. oz.",
-        "totalThcMg": 10.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9226739,
-          "label": "1A4030300000C83000083833",
-          "quantity": 8.0,
-          "packagedDate": "2026-11-04",
-          "expirationDate": "2027-10-07"
-        }
-      ],
-      "price": 6.0,
-      "medPrice": 6.0,
-      "salePrice": 4.8,
-      "medSalePrice": 4.8,
-      "deal": "Saturdaze Delights! 20% OFF Edibles",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4529194",
       "posCategory": "Edibles"
     },
     {
@@ -14729,7 +14606,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14770,7 +14647,7 @@
         {
           "id": 8793070,
           "label": "1A4030300000C83000080432",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-05-26"
         }
@@ -28930,7 +28807,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 56.0,
+      "quantity": 52.5,
       "unit": "Grams",
       "strainName": "Grape Gummiez",
       "strainType": null,
@@ -28963,7 +28840,7 @@
         {
           "id": 9236744,
           "label": "1A403030000025B000094586",
-          "quantity": 56.0,
+          "quantity": 52.5,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-23"
         }
@@ -44779,7 +44656,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 55.5,
+      "quantity": 52.0,
       "unit": "Grams",
       "strainName": "Han Solo HashBurger",
       "strainType": null,
@@ -44811,7 +44688,7 @@
         {
           "id": 9098467,
           "label": "1A40303000040D9000006407",
-          "quantity": 55.5,
+          "quantity": 52.0,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
@@ -50405,7 +50282,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "COL BDTAIO SweetMelon H MD",
       "strainType": null,
@@ -50439,7 +50316,7 @@
         {
           "id": 8464607,
           "label": "1A403030000238D000099576",
-          "quantity": 5.0,
+          "quantity": 3.0,
           "packagedDate": "2026-05-15",
           "expirationDate": "2027-05-10"
         }
@@ -53513,7 +53390,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "Frosted Passionfruit DV",
       "strainType": null,
@@ -53553,7 +53430,7 @@
         {
           "id": 9304981,
           "label": "1A40303000001F5000480378",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-10-22"
         }
@@ -56079,7 +55956,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Mango Sunrise",
       "strainType": null,
@@ -56109,7 +55986,7 @@
         {
           "id": 8518537,
           "label": "1A4030300003522000192403",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-05-12"
         }
@@ -59918,7 +59795,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": null,
@@ -59951,7 +59828,7 @@
         {
           "id": 9233963,
           "label": "1A403030000283D000063180",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-07-29"
         }
@@ -62440,7 +62317,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "RO BDTCart . PineappleExprss S MD",
       "strainType": null,
@@ -62472,7 +62349,7 @@
         {
           "id": 9160108,
           "label": "1A403030000238D000109678",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-20",
           "expirationDate": "2027-06-21"
         }
@@ -63304,7 +63181,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 5.0,
       "unit": "Each",
