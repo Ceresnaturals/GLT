@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T21:50:02.521698+00:00",
+  "generated_at": "2026-11-21T22:00:04.939337+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -2431,7 +2431,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Animal Scout",
       "strainType": "Indica",
@@ -2465,7 +2465,7 @@
         {
           "id": 9099995,
           "label": "1A40303000003EA000261650",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-07",
           "expirationDate": "2027-09-18"
         }
@@ -14608,7 +14608,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14649,7 +14649,7 @@
         {
           "id": 9271076,
           "label": "1A4030300000C83000084276",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-09-21"
         }
@@ -16158,6 +16158,69 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9306680,
+      "packageCount": 1,
+      "name": "Encore Caramel - Espresso - 10mg - 10pc",
+      "brand": null,
+      "producer": "FGM Processing",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.27,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.012,
+        "CBGA": 0.0,
+        "CBN": 0.003,
+        "THCA": 0.0,
+        "THCV": 0.002
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.072,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.432,
+          "CBGA": 0.0,
+          "CBN": 0.108,
+          "THCA": 0.0,
+          "THCV": 0.072
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9306680,
+          "label": "1A40303000017D5000114671",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-05",
+          "expirationDate": "2027-10-05"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 20.0,
+      "medSalePrice": 20.0,
+      "deal": "Saturdaze Delights! 20% OFF Edibles",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9245218,
       "packageCount": 1,
       "name": "Encore Caramel - Sea Salt - 10mg - 10pc",
@@ -16218,6 +16281,69 @@
       "medSalePrice": 20.0,
       "deal": "Saturdaze Delights! 20% OFF Edibles",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4175119",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9306682,
+      "packageCount": 1,
+      "name": "Encore Dark Chocolate (Macro Dose) - Hybrid - 40mg - 10pc",
+      "brand": null,
+      "producer": "FGM Processing",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.633,
+        "CBC": 0.005,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.018,
+        "CBGA": 0.0,
+        "CBN": 0.006,
+        "THCA": 0.0,
+        "THCV": 0.004
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "CBC": 0.28,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 1.008,
+          "CBGA": 0.0,
+          "CBN": 0.336,
+          "THCA": 0.0,
+          "THCV": 0.224
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9306682,
+          "label": "1A40303000017D5000114672",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-19",
+          "expirationDate": "2027-10-19"
+        }
+      ],
+      "price": 50.0,
+      "medPrice": 50.0,
+      "salePrice": 40.0,
+      "medSalePrice": 40.0,
+      "deal": "Saturdaze Delights! 20% OFF Edibles",
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -16868,30 +16994,31 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9145105,
-      "packageCount": 1,
+      "id": 9306937,
+      "packageCount": 2,
       "name": "Encore Gummies - Strawberry Peach 2:1 CBD:THC - 10mg - 10pc*",
       "brand": null,
       "producer": "FGM Processing",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.289,
-        "totalCBD": 0.576,
-        "CBC": 0.003,
+        "totalTHC": 0.274,
+        "totalCBD": 0.606,
+        "CBC": 0.004,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.011,
+        "CBG": 0.017,
         "CBGA": 0.0,
-        "CBN": 0.003,
+        "CBN": 0.017,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -16900,13 +17027,13 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 20.16,
-          "CBC": 0.105,
+          "totalCBD": 21.21,
+          "CBC": 0.14,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.385,
+          "CBG": 0.595,
           "CBGA": 0.0,
-          "CBN": 0.105,
+          "CBN": 0.595,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -16916,6 +17043,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9306937,
+          "label": "1A40303000017D5000114673",
+          "quantity": 24.0,
+          "packagedDate": "2026-10-01",
+          "expirationDate": "2027-10-01"
+        },
         {
           "id": 9145105,
           "label": "1A40303000017D5000110714",
@@ -17380,6 +17514,69 @@
       "medSalePrice": 40.0,
       "deal": "Saturdaze Delights! 20% OFF Edibles",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664666",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9306940,
+      "packageCount": 1,
+      "name": "Encore RSO Gummies (Macro Dose) - Tropical Mango - 40mg - 10pc*",
+      "brand": null,
+      "producer": "FGM Processing",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.944,
+        "CBC": 0.005,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.066,
+        "CBGA": 0.0,
+        "CBN": 0.014,
+        "THCA": 0.0,
+        "THCV": 0.005
+      },
+      "dose": {
+        "servingSize": "1 Piece",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "CBC": 0.2,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 2.64,
+          "CBGA": 0.0,
+          "CBN": 0.56,
+          "THCA": 0.0,
+          "THCV": 0.2
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9306940,
+          "label": "1A40303000017D5000114675",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-28",
+          "expirationDate": "2027-09-28"
+        }
+      ],
+      "price": 50.0,
+      "medPrice": 50.0,
+      "salePrice": 40.0,
+      "medSalePrice": 40.0,
+      "deal": "Saturdaze Delights! 20% OFF Edibles",
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -25421,7 +25618,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 177.5,
+      "quantity": 174.0,
       "unit": "Grams",
       "strainName": "BLVCK Gelatti",
       "strainType": null,
@@ -25454,7 +25651,7 @@
         {
           "id": 8407107,
           "label": "1A40303000040D9000004497",
-          "quantity": 177.5,
+          "quantity": 174.0,
           "packagedDate": "2026-05-04",
           "expirationDate": "2027-05-04"
         }
@@ -32741,6 +32938,63 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4739163",
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 9306037,
+      "packageCount": 1,
+      "name": "(the) Essence Js - Nutcrackerz - 1g 2pk",
+      "brand": null,
+      "producer": "Freestate Wellness",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Nutcrackerz #8",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 32.58,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.21,
+        "CBGA": 0.72,
+        "CBN": 0.0,
+        "THCA": 36.71,
+        "THCV": 0.16
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.03,
+        "myrcene": 0.3,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.13,
+        "beta-pinene": 0.07,
+        "limonene": 0.53,
+        "linalool": 0.27,
+        "nerolidol": 0.06
+      },
+      "totalTerps": 1.58,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9306037,
+          "label": "1A4030300003A3C000096160",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-09",
+          "expirationDate": "2027-11-09"
+        }
+      ],
+      "price": 15.0,
+      "medPrice": 15.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Pre-Rolls"
     },
     {
@@ -44190,6 +44444,63 @@
       "posCategory": "Pre-Rolls"
     },
     {
+      "id": 9305972,
+      "packageCount": 1,
+      "name": "Swift Lifts - Silver Project - 2.5g 5pk",
+      "brand": null,
+      "producer": "Freestate Wellness",
+      "category": "Pre-Roll",
+      "metrcCategory": "Raw Prerolls",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Silver Project",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.7,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.44,
+        "CBN": 0.0,
+        "THCA": 33.53,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.21,
+        "myrcene": 0.36,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.58,
+        "beta-pinene": 0.09,
+        "limonene": 0.79,
+        "linalool": 0.09
+      },
+      "totalTerps": 2.47,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9305972,
+          "label": "1A4030300003A3C000096163",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-12",
+          "expirationDate": "2027-11-12"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 9146944,
       "packageCount": 1,
       "name": "Swift Lifts - Yuzu Sour - 2.5g 5pk",
@@ -46129,6 +46440,61 @@
       "medSalePrice": 17.5,
       "deal": "Saturdaze Delights! 30% OFF Disposables",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664650",
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 9306936,
+      "packageCount": 1,
+      "name": "(the) Essence Disposable - Honeydew 1:1 - 0.3g",
+      "brand": null,
+      "producer": "FGM Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Honeydew",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 44.58,
+        "totalCBD": 45.97,
+        "CBC": 0.55,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.0,
+        "CBGA": 0.0,
+        "CBN": 1.09,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.2,
+        "beta-pinene": 0.04,
+        "limonene": 0.25,
+        "nerolidol": 0.11
+      },
+      "totalTerps": 0.63,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9306936,
+          "label": "1A40303000017D5000114670",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-10",
+          "expirationDate": "2027-11-10"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 17.5,
+      "medSalePrice": 17.5,
+      "deal": "Saturdaze Delights! 30% OFF Disposables",
+      "orderUrl": null,
       "posCategory": "Disposables"
     },
     {
@@ -49513,7 +49879,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Bloom Apricot Punch Classic Surf AIO",
       "strainType": null,
@@ -49547,7 +49913,7 @@
         {
           "id": 9197808,
           "label": "1A40303000007D1000100934",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-09-20"
         }
@@ -50372,7 +50738,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Bomb Popz",
       "strainType": null,
@@ -50402,7 +50768,7 @@
         {
           "id": 9270494,
           "label": "1A403030000012E000214923",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-10-16"
         }
@@ -50957,7 +51323,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Clementine",
       "strainType": null,
@@ -50989,7 +51355,7 @@
         {
           "id": 8756345,
           "label": "1A403030000012E000176846",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-03-28"
         }
@@ -53367,7 +53733,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Flavor Series Fruit Bedrock BRIQ",
       "strainType": null,
@@ -53400,7 +53766,7 @@
         {
           "id": 8908840,
           "label": "1A4030300000193000106243",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-03-23"
         }
@@ -54366,7 +54732,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Grape Stomper",
       "strainType": null,
@@ -54399,7 +54765,7 @@
         {
           "id": 9270500,
           "label": "1A403030000012E000214925",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-09-18"
         }
@@ -60230,7 +60596,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Mfused TWISTED Super Fog Jefe Swirly Temple",
       "strainType": null,
@@ -60263,7 +60629,7 @@
         {
           "id": 9274610,
           "label": "1A403030000012D000279611",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-09-29"
         }
@@ -63161,7 +63527,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Apple Jack",
       "strainType": null,
@@ -63197,7 +63563,7 @@
         {
           "id": 9249057,
           "label": "1A403030000012E000212512",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-11-09",
           "expirationDate": "2027-09-28"
         }
@@ -63279,9 +63645,9 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Maui Waui",
       "strainType": null,
@@ -63318,7 +63684,7 @@
         {
           "id": 9249088,
           "label": "1A403030000012E000212507",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-11-09",
           "expirationDate": "2027-09-11"
         }
@@ -63459,7 +63825,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Watermelon Burst",
       "strainType": null,
@@ -63494,7 +63860,7 @@
         {
           "id": 9248934,
           "label": "1A403030000012E000212514",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-11-09",
           "expirationDate": "2027-09-28"
         }
@@ -64277,6 +64643,60 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 9306690,
+      "packageCount": 1,
+      "name": "Savvy Cartridge - Fresh Berry - 1g",
+      "brand": "Savvy",
+      "producer": "FGM Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Fresh Berry",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 86.94,
+        "CBC": 0.59,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.96,
+        "CBGA": 0.0,
+        "CBN": 0.45,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.27,
+        "beta-pinene": 0.06,
+        "limonene": 0.44,
+        "nerolidol": 0.08
+      },
+      "totalTerps": 0.89,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9306690,
+          "label": "1A40303000017D5000114676",
+          "quantity": 12.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-11-11"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 31.5,
+      "medSalePrice": 31.5,
+      "deal": "Saturdaze Delights! 30% OFF Carts",
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 9018210,
       "packageCount": 1,
       "name": "Savvy Cartridge - Grape Kush - 1g",
@@ -64961,7 +65381,7 @@
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 9.0,
       "unit": "Each",
