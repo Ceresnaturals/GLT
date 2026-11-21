@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T21:10:02.813443+00:00",
+  "generated_at": "2026-11-21T21:20:02.503268+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -12526,7 +12526,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12565,7 +12565,7 @@
         {
           "id": 9274609,
           "label": "1A403030000012D000279610",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-09-22"
         }
@@ -12652,7 +12652,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -12691,7 +12691,7 @@
         {
           "id": 9236739,
           "label": "1A403030000012D000278765",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-16"
         }
@@ -16797,29 +16797,30 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9187274,
-      "packageCount": 1,
+      "id": 9306938,
+      "packageCount": 2,
       "name": "Encore Gummies - Strawberry - 10mg - 10pc*",
       "brand": null,
       "producer": "FGM Processing",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 27.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.294,
+        "totalTHC": 0.286,
         "CBC": 0.002,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.012,
+        "CBG": 0.016,
         "CBGA": 0.0,
-        "CBN": 0.004,
+        "CBN": 0.002,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -16831,9 +16832,9 @@
           "CBC": 0.07,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.42,
+          "CBG": 0.56,
           "CBGA": 0.0,
-          "CBN": 0.14,
+          "CBN": 0.07,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -16843,6 +16844,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9306938,
+          "label": "1A40303000017D5000114674",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-18",
+          "expirationDate": "2027-09-18"
+        },
         {
           "id": 9187274,
           "label": "1A40303000017D5000111599",
@@ -27902,7 +27910,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 39.99,
+      "quantity": 36.49,
       "unit": "Grams",
       "strainName": "Headshot",
       "strainType": null,
@@ -27936,7 +27944,7 @@
         {
           "id": 8380389,
           "label": "1A4030300000709000013348",
-          "quantity": 39.99,
+          "quantity": 36.49,
           "packagedDate": "2026-04-27",
           "expirationDate": "2027-04-13"
         }
@@ -28821,7 +28829,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 310.73,
+      "quantity": 307.23,
       "unit": "Grams",
       "strainName": "Lava Lamp",
       "strainType": null,
@@ -28856,7 +28864,7 @@
         {
           "id": 8382209,
           "label": "1A4030300000709000048080",
-          "quantity": 310.73,
+          "quantity": 307.23,
           "packagedDate": "2026-04-27",
           "expirationDate": "2027-04-03"
         }
@@ -29114,7 +29122,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Lemon Blanc",
       "strainType": null,
@@ -29148,7 +29156,7 @@
         {
           "id": 9263918,
           "label": "1A40303000000CB000058596",
-          "quantity": 35.0,
+          "quantity": 28.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-11-06"
         }
@@ -30612,7 +30620,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 73.5,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "Primary Colors",
       "strainType": null,
@@ -30646,7 +30654,7 @@
         {
           "id": 8908835,
           "label": "1A4030300000192000041096",
-          "quantity": 73.5,
+          "quantity": 70.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-05-31"
         }
@@ -38206,7 +38214,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Lemon Cherry Gelato",
       "strainType": null,
@@ -38239,7 +38247,7 @@
         {
           "id": 9263925,
           "label": "1A40303000000CB000058599",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-23"
         }
