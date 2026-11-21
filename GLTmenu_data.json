@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T17:50:02.963844+00:00",
+  "generated_at": "2026-11-21T18:00:02.360156+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -9306,7 +9306,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9347,7 +9347,7 @@
         {
           "id": 9194045,
           "label": "1A4030300000C83000083641",
-          "quantity": 10.0,
+          "quantity": 4.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-07"
         }
@@ -22332,7 +22332,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -22373,7 +22373,7 @@
         {
           "id": 8787118,
           "label": "1A4030300000193000102921",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-07-28",
           "expirationDate": "2027-05-26"
         }
@@ -30147,7 +30147,7 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 80.5,
       "unit": "Grams",
@@ -40724,7 +40724,7 @@
       "category": "Pre-Roll",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 45.0,
       "unit": "Grams",
@@ -61272,13 +61272,13 @@
           "expirationDate": "2027-08-26"
         }
       ],
-      "price": 65.0,
-      "medPrice": 65.0,
-      "salePrice": 45.5,
-      "medSalePrice": 45.5,
-      "deal": "Saturdaze Delights! 30% OFF Disposables",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4738087",
-      "posCategory": "Disposables"
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 9126343,
@@ -63127,13 +63127,13 @@
           "expirationDate": "2027-08-31"
         }
       ],
-      "price": 70.0,
-      "medPrice": 70.0,
-      "salePrice": 49.0,
-      "medSalePrice": 49.0,
-      "deal": "Saturdaze Delights! 30% OFF Disposables",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4625987",
-      "posCategory": "Disposables"
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": null
     },
     {
       "id": 9041102,
@@ -66653,5 +66653,5 @@
     }
   ],
   "priceNote": "Prices shown are estimates. The register has the final price.",
-  "pricesUpdatedAt": "2026-11-21T11:00:28.528120+00:00"
+  "pricesUpdatedAt": "2026-11-21T18:00:02.360846+00:00"
 }
