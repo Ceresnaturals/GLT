@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T18:20:02.427318+00:00",
+  "generated_at": "2026-11-21T18:30:02.568398+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -15841,7 +15841,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15882,7 +15882,7 @@
         {
           "id": 8966197,
           "label": "1A403030000012E000192656",
-          "quantity": 3.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-04-23"
         }
@@ -16358,7 +16358,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16397,7 +16397,7 @@
         {
           "id": 9245310,
           "label": "1A40303000017D5000112739",
-          "quantity": 15.0,
+          "quantity": 13.0,
           "packagedDate": "2026-08-10",
           "expirationDate": "2027-08-10"
         }
@@ -16484,7 +16484,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16523,7 +16523,7 @@
         {
           "id": 9187210,
           "label": "1A40303000017D5000111597",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-08-07",
           "expirationDate": "2027-08-07"
         }
@@ -16547,7 +16547,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16586,7 +16586,7 @@
         {
           "id": 9187273,
           "label": "1A40303000017D5000111598",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-08-17"
         }
@@ -20230,7 +20230,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20271,7 +20271,7 @@
         {
           "id": 9308584,
           "label": "1A40303000003EA000296760",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-11-19",
           "expirationDate": "2027-09-16"
         }
@@ -20360,7 +20360,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20401,7 +20401,7 @@
         {
           "id": 9271584,
           "label": "1A40303000003EA000294815",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-09-30"
         }
@@ -20425,7 +20425,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20466,7 +20466,7 @@
         {
           "id": 9233190,
           "label": "1A40303000003EA000176067",
-          "quantity": 15.0,
+          "quantity": 13.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-07-31"
         }
@@ -24735,7 +24735,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Hybrid",
@@ -24774,7 +24774,7 @@
         {
           "id": 9097610,
           "label": "1A4030300002199000066031",
-          "quantity": 16.0,
+          "quantity": 14.0,
           "packagedDate": "2026-09-18",
           "expirationDate": "2027-09-18"
         }
@@ -40483,17 +40483,18 @@
       "posCategory": "Pre-Rolls"
     },
     {
-      "id": 9226776,
-      "packageCount": 1,
+      "id": 9297383,
+      "packageCount": 2,
       "name": "Orange Drizzle Isolate Infused Joint- Concentrate (.5g Joints) 7 Pack 3.5g Multi Pack",
       "brand": null,
       "producer": "Evermore Cannabis",
       "category": "Pre-Roll",
       "metrcCategory": "Infused Joints",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 3.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": "Orange Drizzle Isolate",
       "strainType": null,
@@ -40523,6 +40524,13 @@
       "totalTerps": 1.91,
       "dominantTerpene": "caryophyllene",
       "packages": [
+        {
+          "id": 9297383,
+          "label": "1A4030300000C83000044670",
+          "quantity": 20.0,
+          "packagedDate": "2026-11-18",
+          "expirationDate": "2027-10-12"
+        },
         {
           "id": 9226776,
           "label": "1A4030300000C83000044095",
@@ -44768,7 +44776,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.54,
+      "quantity": 11.04,
       "unit": "Grams",
       "strainName": "Watermelon Gelato TC",
       "strainType": null,
@@ -44800,7 +44808,7 @@
         {
           "id": 8998461,
           "label": "1A40303000001F5000431291",
-          "quantity": 14.54,
+          "quantity": 11.04,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -44824,7 +44832,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 386.98,
+      "quantity": 383.48,
       "unit": "Grams",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -44857,7 +44865,7 @@
         {
           "id": 9099007,
           "label": "1A40303000040D9000006408",
-          "quantity": 386.98,
+          "quantity": 383.48,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
