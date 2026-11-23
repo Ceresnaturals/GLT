@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T17:10:29.230787+00:00",
+  "generated_at": "2026-11-23T17:20:23.437025+00:00",
   "license": "DA-23-00064",
   "locations": [
     "Sales Floor",
@@ -148,7 +148,6 @@
           "expirationDate": "2027-09-09"
         }
       ],
-      "pick": 119,
       "price": 20.0,
       "medPrice": 20.0,
       "salePrice": 12.0,
@@ -613,7 +612,7 @@
           "expirationDate": "2027-01-23"
         }
       ],
-      "pick": 62,
+      "pick": 49,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": 24.0,
@@ -672,7 +671,7 @@
           "expirationDate": "2027-01-15"
         }
       ],
-      "pick": 61,
+      "pick": 30,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": 24.0,
@@ -732,7 +731,7 @@
           "expirationDate": "2027-02-22"
         }
       ],
-      "pick": 53,
+      "pick": 44,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": null,
@@ -791,7 +790,7 @@
           "expirationDate": "2027-03-22"
         }
       ],
-      "pick": 67,
+      "pick": 52,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -850,7 +849,7 @@
           "expirationDate": "2027-01-11"
         }
       ],
-      "pick": 32,
+      "pick": 21,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -914,6 +913,65 @@
       "medSalePrice": 37.5,
       "deal": "Maryland Monday! 25% OFF ALL GTI Products",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4386987",
+      "posCategory": "Concentrate"
+    },
+    {
+      "id": 9128367,
+      "packageCount": 1,
+      "name": "All The Lobster Live Resin Cake Badder 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "All The Lobster Cake",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 69.41,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.43,
+        "CBN": 0.0,
+        "THCA": 79.14,
+        "THCV": 0.37
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.2,
+        "humulene": 0.23,
+        "myrcene": 0.66,
+        "alpha-pinene": 0.42,
+        "caryophyllene": 0.8,
+        "beta-pinene": 0.39,
+        "ocimene": 0.27,
+        "limonene": 3.15,
+        "linalool": 1.24,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 8.24,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9128367,
+          "label": "1A4030300000C83000042038",
+          "quantity": 20.0,
+          "packagedDate": "2026-10-13",
+          "expirationDate": "2027-06-08"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Concentrate"
     },
     {
@@ -1379,7 +1437,6 @@
           "expirationDate": "2027-05-01"
         }
       ],
-      "pick": 89,
       "price": 55.0,
       "medPrice": 55.0,
       "salePrice": 33.0,
@@ -1763,7 +1820,7 @@
           "expirationDate": "2027-01-08"
         }
       ],
-      "pick": 28,
+      "pick": 17,
       "price": 60.0,
       "medPrice": 60.0,
       "salePrice": 36.0,
@@ -1992,7 +2049,6 @@
           "expirationDate": "2027-07-07"
         }
       ],
-      "pick": 130,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 27.0,
@@ -2175,7 +2231,7 @@
           "expirationDate": "2027-05-06"
         }
       ],
-      "pick": 105,
+      "pick": 79,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -2473,7 +2529,6 @@
           "expirationDate": "2027-03-19"
         }
       ],
-      "pick": 59,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 27.0,
@@ -2542,7 +2597,7 @@
           "expirationDate": "2027-04-14"
         }
       ],
-      "pick": 74,
+      "pick": 58,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 27.0,
@@ -2836,7 +2891,7 @@
           "expirationDate": "2027-04-09"
         }
       ],
-      "pick": 92,
+      "pick": 69,
       "price": 80.0,
       "medPrice": 80.0,
       "salePrice": 48.0,
@@ -3073,7 +3128,7 @@
           "expirationDate": "2027-04-30"
         }
       ],
-      "pick": 94,
+      "pick": 70,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 27.0,
@@ -3359,7 +3414,7 @@
     },
     {
       "id": 9218511,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "LORE Double Diamonds 1g - Dough Diamond",
       "brand": "LORE",
       "producer": "CERES NATURALS",
@@ -3368,7 +3423,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 1.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Double",
       "strainType": null,
@@ -3397,6 +3452,13 @@
           "quantity": 1.0,
           "packagedDate": "2026-11-02",
           "expirationDate": "2027-06-30"
+        },
+        {
+          "id": 8904267,
+          "label": "1A4030300003201000001624",
+          "quantity": 10.0,
+          "packagedDate": "2026-08-24",
+          "expirationDate": "2027-06-09"
         }
       ],
       "price": null,
@@ -3512,6 +3574,7 @@
           "expirationDate": "2027-08-04"
         }
       ],
+      "pick": 118,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 33.75,
@@ -3579,7 +3642,7 @@
           "expirationDate": "2027-06-29"
         }
       ],
-      "pick": 136,
+      "pick": 105,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": 24.0,
@@ -3638,7 +3701,7 @@
           "expirationDate": "2027-03-12"
         }
       ],
-      "pick": 83,
+      "pick": 64,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 27.0,
@@ -3698,7 +3761,7 @@
           "expirationDate": "2026-12-19"
         }
       ],
-      "pick": 12,
+      "pick": 6,
       "price": 60.0,
       "medPrice": 60.0,
       "salePrice": 36.0,
@@ -3756,7 +3819,7 @@
           "expirationDate": "2026-12-18"
         }
       ],
-      "pick": 11,
+      "pick": 5,
       "price": 60.0,
       "medPrice": 60.0,
       "salePrice": 36.0,
@@ -3814,7 +3877,6 @@
           "expirationDate": "2027-03-22"
         }
       ],
-      "pick": 114,
       "price": 70.0,
       "medPrice": 70.0,
       "salePrice": 42.0,
@@ -4099,7 +4161,7 @@
           "expirationDate": "2027-01-16"
         }
       ],
-      "pick": 50,
+      "pick": 32,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 27.0,
@@ -4159,7 +4221,7 @@
           "expirationDate": "2027-01-09"
         }
       ],
-      "pick": 30,
+      "pick": 20,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": 24.0,
@@ -4624,7 +4686,7 @@
           "expirationDate": "2027-04-17"
         }
       ],
-      "pick": 108,
+      "pick": 84,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 27.0,
@@ -4738,6 +4800,7 @@
           "expirationDate": "2027-02-22"
         }
       ],
+      "pick": 114,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": null,
@@ -5248,6 +5311,7 @@
           "expirationDate": "2027-05-28"
         }
       ],
+      "pick": 115,
       "price": 25.0,
       "medPrice": 25.0,
       "salePrice": null,
@@ -5258,16 +5322,17 @@
     },
     {
       "id": 9262613,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "NH Lamb's Bread Live Sugar-1g",
       "brand": "NH",
       "producer": "Kind Therapeutics USA",
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
+        "Sales Floor",
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Lamb's Bread",
       "strainType": null,
@@ -5302,6 +5367,13 @@
           "label": "1A4030300003522000224799",
           "quantity": 8.0,
           "packagedDate": "2026-11-11",
+          "expirationDate": "2027-05-03"
+        },
+        {
+          "id": 8518172,
+          "label": "1A4030300003522000192431",
+          "quantity": 10.0,
+          "packagedDate": "2026-05-28",
           "expirationDate": "2027-05-03"
         }
       ],
@@ -5938,7 +6010,7 @@
           "expirationDate": "2027-03-24"
         }
       ],
-      "pick": 86,
+      "pick": 65,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -5999,6 +6071,59 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4453714",
+      "posCategory": "Concentrate"
+    },
+    {
+      "id": 8766860,
+      "packageCount": 1,
+      "name": "NH-RSO-Syringe-THC 1ml",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Syringe",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 78.25,
+        "CBC": 0.69,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.51,
+        "CBGA": 0.0,
+        "CBN": 0.39,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.25,
+        "caryophyllene": 0.7,
+        "linalool": 0.32,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 1.74,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8766860,
+          "label": "1A4030300003522000207402",
+          "quantity": 10.0,
+          "packagedDate": "2026-07-23",
+          "expirationDate": "2027-04-27"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Concentrate"
     },
     {
@@ -6162,7 +6287,7 @@
           "expirationDate": "2027-01-12"
         }
       ],
-      "pick": 34,
+      "pick": 24,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 27.0,
@@ -6688,7 +6813,7 @@
           "expirationDate": "2027-03-02"
         }
       ],
-      "pick": 65,
+      "pick": 51,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 27.0,
@@ -6808,7 +6933,7 @@
           "expirationDate": "2027-01-22"
         }
       ],
-      "pick": 68,
+      "pick": 53,
       "price": 80.0,
       "medPrice": 80.0,
       "salePrice": 48.0,
@@ -6983,7 +7108,7 @@
           "expirationDate": "2027-02-09"
         }
       ],
-      "pick": 64,
+      "pick": 50,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 27.0,
@@ -7041,7 +7166,7 @@
           "expirationDate": "2027-03-04"
         }
       ],
-      "pick": 70,
+      "pick": 54,
       "price": 85.0,
       "medPrice": 85.0,
       "salePrice": 51.0,
@@ -7159,7 +7284,7 @@
           "expirationDate": "2027-01-12"
         }
       ],
-      "pick": 35,
+      "pick": 25,
       "price": 85.0,
       "medPrice": 85.0,
       "salePrice": 51.0,
@@ -7403,7 +7528,7 @@
           "expirationDate": "2027-02-24"
         }
       ],
-      "pick": 71,
+      "pick": 55,
       "price": 6.0,
       "medPrice": 6.0,
       "salePrice": 3.6,
@@ -8256,7 +8381,7 @@
           "expirationDate": "2027-01-07"
         }
       ],
-      "pick": 25,
+      "pick": 16,
       "price": 5.0,
       "medPrice": 5.0,
       "salePrice": 3.0,
@@ -9376,7 +9501,7 @@
           "expirationDate": "2027-06-25"
         }
       ],
-      "pick": 104,
+      "pick": 78,
       "price": 30.0,
       "medPrice": 30.0,
       "salePrice": 18.0,
@@ -11244,7 +11369,7 @@
     },
     {
       "id": 9236734,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Curio Wellness Black Cherry Vanilla 10mg Chews-10mg-10",
       "brand": "Curio Wellness",
       "producer": "Curio Manufacturing",
@@ -11253,7 +11378,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 36.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11295,6 +11420,13 @@
           "quantity": 12.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-22"
+        },
+        {
+          "id": 8981910,
+          "label": "1A403030000012D000266239",
+          "quantity": 24.0,
+          "packagedDate": "2026-09-10",
+          "expirationDate": "2027-07-22"
         }
       ],
       "price": 20.0,
@@ -11555,7 +11687,7 @@
           "expirationDate": "2027-07-14"
         }
       ],
-      "pick": 131,
+      "pick": 99,
       "price": 35.0,
       "medPrice": 35.0,
       "salePrice": 21.0,
@@ -12131,7 +12263,7 @@
           "expirationDate": "2027-03-24"
         }
       ],
-      "pick": 95,
+      "pick": 71,
       "price": 35.0,
       "medPrice": 35.0,
       "salePrice": 21.0,
@@ -12267,13 +12399,76 @@
           "expirationDate": "2027-05-19"
         }
       ],
-      "pick": 102,
+      "pick": 76,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 27.0,
       "medSalePrice": 27.0,
       "deal": "40% Off",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4508223",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9310854,
+      "packageCount": 1,
+      "name": "Curio Wellness Snickerdoodle 10mg Chews-10mg-10",
+      "brand": "Curio Wellness",
+      "producer": "Curio Manufacturing",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.248,
+        "CBC": 0.003,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.01,
+        "CBGA": 0.0,
+        "CBN": 0.007,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1Piece",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.12,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.4,
+          "CBGA": 0.0,
+          "CBN": 0.28,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9310854,
+          "label": "1A403030000012D000285717",
+          "quantity": 24.0,
+          "packagedDate": "2026-11-19",
+          "expirationDate": "2027-10-19"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -13378,7 +13573,7 @@
           "expirationDate": "2027-02-12"
         }
       ],
-      "pick": 99,
+      "pick": 75,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": 24.0,
@@ -13444,6 +13639,7 @@
           "expirationDate": "2027-06-09"
         }
       ],
+      "pick": 100,
       "price": 20.0,
       "medPrice": 20.0,
       "salePrice": 15.0,
@@ -13574,7 +13770,7 @@
           "expirationDate": "2027-03-24"
         }
       ],
-      "pick": 78,
+      "pick": 61,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": 24.0,
@@ -13640,7 +13836,7 @@
           "expirationDate": "2027-05-28"
         }
       ],
-      "pick": 120,
+      "pick": 91,
       "price": 20.0,
       "medPrice": 20.0,
       "salePrice": 12.0,
@@ -13966,7 +14162,7 @@
           "expirationDate": "2027-07-07"
         }
       ],
-      "pick": 137,
+      "pick": 106,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": 24.0,
@@ -17292,8 +17488,8 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8914788,
-      "packageCount": 2,
+      "id": 8914787,
+      "packageCount": 3,
       "name": "HiColor Max Gummies Bear Lake Raspberry|Exempt|40mg|10ct",
       "brand": "HiColor",
       "producer": "Marymed",
@@ -17302,7 +17498,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 23.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17340,6 +17536,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 8914787,
+          "label": "1A4030300002009000112792",
+          "quantity": 8.0,
+          "packagedDate": "2026-08-26",
+          "expirationDate": "2027-02-23"
+        },
         {
           "id": 8914788,
           "label": "1A4030300002009000112793",
@@ -17560,7 +17763,6 @@
           "expirationDate": "2027-03-13"
         }
       ],
-      "pick": 69,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": 24.0,
@@ -17886,7 +18088,7 @@
     },
     {
       "id": 9167884,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "HiColor RSO Indica Gummies Blue Raspberry|Edible Product|10mg|10ct",
       "brand": "HiColor",
       "producer": "Marymed",
@@ -17895,7 +18097,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -17939,6 +18141,13 @@
           "quantity": 4.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-05-23"
+        },
+        {
+          "id": 8606613,
+          "label": "1A4030300002009000105191",
+          "quantity": 8.0,
+          "packagedDate": "2026-06-17",
+          "expirationDate": "2027-05-05"
         }
       ],
       "price": 20.0,
@@ -18488,8 +18697,8 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9124335,
-      "packageCount": 1,
+      "id": 9191072,
+      "packageCount": 2,
       "name": "In House Cherry Lemonade Fast Acting V3 Gummies-10mg-10",
       "brand": "In House",
       "producer": "Kind Therapeutics USA",
@@ -18498,7 +18707,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18536,6 +18745,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9191072,
+          "label": "1A4030300003522000227521",
+          "quantity": 10.0,
+          "packagedDate": "2026-10-27",
+          "expirationDate": "2027-10-16"
+        },
         {
           "id": 9124335,
           "label": "1A4030300003522000219680",
@@ -18934,7 +19150,7 @@
           "expirationDate": "2027-06-22"
         }
       ],
-      "pick": 132,
+      "pick": 101,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": 24.0,
@@ -19567,6 +19783,7 @@
           "expirationDate": "2027-03-10"
         }
       ],
+      "pick": 93,
       "price": 25.0,
       "medPrice": 25.0,
       "salePrice": 18.75,
@@ -20304,6 +20521,7 @@
           "expirationDate": "2027-07-09"
         }
       ],
+      "pick": 116,
       "price": 25.0,
       "medPrice": 25.0,
       "salePrice": 18.75,
@@ -20708,8 +20926,8 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8494058,
-      "packageCount": 1,
+      "id": 9138600,
+      "packageCount": 2,
       "name": "Mellow Fellow - Gummies - Dream Berry 1:2:2 Sleep Blend- 100mg THC - 10mg - 10",
       "brand": "Mellow Fellow",
       "producer": "Pro Green Medical",
@@ -20718,20 +20936,20 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
         "totalTHC": 0.233,
-        "totalCBD": 0.441,
-        "CBC": 0.0,
+        "totalCBD": 0.442,
+        "CBC": 0.004,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.008,
+        "CBG": 0.0,
         "CBGA": 0.0,
-        "CBN": 0.473,
+        "CBN": 0.46,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -20740,13 +20958,13 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 19.845,
-          "CBC": 0.0,
+          "totalCBD": 19.89,
+          "CBC": 0.18,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.36,
+          "CBG": 0.0,
           "CBGA": 0.0,
-          "CBN": 21.285,
+          "CBN": 20.7,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -20757,11 +20975,83 @@
       "dominantTerpene": null,
       "packages": [
         {
+          "id": 9138600,
+          "label": "1A403030000283D000058454",
+          "quantity": 12.0,
+          "packagedDate": "2026-10-15",
+          "expirationDate": "2027-09-11"
+        },
+        {
           "id": 8494058,
           "label": "1A403030000283D000049575",
           "quantity": 4.0,
           "packagedDate": "2026-05-21",
           "expirationDate": "2027-05-20"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9138599,
+      "packageCount": 1,
+      "name": "Mellow Fellow - Gummies - Tangerine Lemonade 2:2:1:1 Jumpstart Blend - 100mg THC - 10mg - 10",
+      "brand": "Mellow Fellow",
+      "producer": "Pro Green Medical",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 11.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.225,
+        "totalCBD": 0.118,
+        "CBC": 0.005,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.21,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.109
+      },
+      "dose": {
+        "servingSize": "4.5g",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 5.31,
+          "CBC": 0.225,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 9.45,
+          "CBGA": 0.0,
+          "CBN": 0.09,
+          "THCA": 0.0,
+          "THCV": 4.905
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9138599,
+          "label": "1A403030000283D000058453",
+          "quantity": 11.0,
+          "packagedDate": "2026-10-15",
+          "expirationDate": "2027-08-24"
         }
       ],
       "price": null,
@@ -21089,7 +21379,7 @@
           "expirationDate": "2027-01-12"
         }
       ],
-      "pick": 36,
+      "pick": 26,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 27.0,
@@ -21283,7 +21573,6 @@
           "expirationDate": "2027-06-03"
         }
       ],
-      "pick": 124,
       "price": 25.0,
       "medPrice": 25.0,
       "salePrice": 15.0,
@@ -21607,7 +21896,7 @@
           "expirationDate": "2027-04-17"
         }
       ],
-      "pick": 96,
+      "pick": 72,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": 24.0,
@@ -21736,7 +22025,7 @@
           "expirationDate": "2027-01-14"
         }
       ],
-      "pick": 39,
+      "pick": 29,
       "price": 25.0,
       "medPrice": 25.0,
       "salePrice": 15.0,
@@ -21928,7 +22217,6 @@
           "expirationDate": "2027-05-26"
         }
       ],
-      "pick": 123,
       "price": 25.0,
       "medPrice": 25.0,
       "salePrice": 15.0,
@@ -22064,7 +22352,6 @@
           "expirationDate": "2027-04-02"
         }
       ],
-      "pick": 100,
       "price": 25.0,
       "medPrice": 25.0,
       "salePrice": 15.0,
@@ -22130,7 +22417,7 @@
           "expirationDate": "2027-02-26"
         }
       ],
-      "pick": 87,
+      "pick": 66,
       "price": 25.0,
       "medPrice": 25.0,
       "salePrice": 15.0,
@@ -22391,7 +22678,6 @@
           "expirationDate": "2027-02-17"
         }
       ],
-      "pick": 84,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": 24.0,
@@ -22921,6 +23207,71 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 8605096,
+      "packageCount": 1,
+      "name": "Valhalla | Edibles | Soft Lozenges | Fast Acting Strawberry Kiwi - 10mg -10pk",
+      "brand": null,
+      "producer": "HMS Processing",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 13.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.24,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 8605096,
+          "label": "1A4030300002199000053316",
+          "quantity": 13.0,
+          "packagedDate": "2026-06-01",
+          "expirationDate": "2027-06-01"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9124804,
       "packageCount": 1,
       "name": "Vibations Half & Half Iced Tea Drink Mix V2-10mg-10",
@@ -23172,6 +23523,7 @@
           "expirationDate": "2027-07-17"
         }
       ],
+      "pick": 113,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": null,
@@ -23711,7 +24063,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -23750,7 +24102,7 @@
         {
           "id": 9143041,
           "label": "1A403030000390D000073843",
-          "quantity": 4.0,
+          "quantity": 2.0,
           "packagedDate": "2026-10-15",
           "expirationDate": "2027-09-22"
         }
@@ -24013,7 +24365,6 @@
           "expirationDate": "2027-02-20"
         }
       ],
-      "pick": 98,
       "price": 25.0,
       "medPrice": 25.0,
       "salePrice": 15.0,
@@ -24516,8 +24867,126 @@
       "posCategory": "Pre-Packed Flower"
     },
     {
-      "id": 9191628,
+      "id": 8944046,
       "packageCount": 1,
+      "name": "Animal Face Pre-Pack (Buds) - Rythm (Indica Dominant) - Usable - 3.5g",
+      "brand": "Rythm",
+      "producer": "GTI Maryland",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 35.0,
+      "unit": "Grams",
+      "strainName": "Animal Face",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 34.04,
+        "totalCBD": 0.09,
+        "CBC": 0.0,
+        "CBDA": 0.1,
+        "CBDV": 0.0,
+        "CBG": 0.17,
+        "CBGA": 1.82,
+        "CBN": 0.0,
+        "THCA": 37.68,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.02,
+        "humulene": 0.22,
+        "myrcene": 0.94,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.62,
+        "beta-pinene": 0.1,
+        "caryophyllene-oxide": 0.02,
+        "limonene": 0.75,
+        "linalool": 0.5,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.44,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8944046,
+          "label": "1A40303000003EA000264750",
+          "quantity": 35.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": "2027-08-12"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 9164137,
+      "packageCount": 1,
+      "name": "Animal Face Pre-Pack (Popcorn) - Rythm (Indica Dominant) - Usable - 7g",
+      "brand": "Rythm",
+      "producer": "GTI Maryland",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 56.0,
+      "unit": "Grams",
+      "strainName": "Animal Face",
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 33.18,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.1,
+        "CBGA": 1.61,
+        "CBN": 0.0,
+        "THCA": 36.91,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.2,
+        "myrcene": 0.53,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.87,
+        "beta-pinene": 0.07,
+        "limonene": 0.6,
+        "linalool": 0.49,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 3.02,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9164137,
+          "label": "1A40303000003EA000255072",
+          "quantity": 56.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-09-08"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 9191628,
+      "packageCount": 2,
       "name": "Animal Scout Pre-Pack (Buds) - Rythm (Indica Dominant) - Usable - 3.5g",
       "brand": "Rythm",
       "producer": "GTI Maryland",
@@ -24526,7 +24995,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 49.0,
+      "quantity": 98.0,
       "unit": "Grams",
       "strainName": "Animal Scout",
       "strainType": "Indica",
@@ -24563,6 +25032,13 @@
           "quantity": 49.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-09-21"
+        },
+        {
+          "id": 9039336,
+          "label": "1A40303000003EA000258992",
+          "quantity": 49.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-08-31"
         }
       ],
       "price": 55.0,
@@ -24737,7 +25213,7 @@
           "expirationDate": "2027-06-21"
         }
       ],
-      "pick": 135,
+      "pick": 104,
       "price": 55.0,
       "medPrice": 55.0,
       "salePrice": 33.0,
@@ -24841,7 +25317,6 @@
           "expirationDate": "2027-03-24"
         }
       ],
-      "pick": 60,
       "price": 22.0,
       "medPrice": 22.0,
       "salePrice": null,
@@ -24908,8 +25383,8 @@
       "posCategory": "Pre-Packed Flower"
     },
     {
-      "id": 9197340,
-      "packageCount": 2,
+      "id": 9263917,
+      "packageCount": 3,
       "name": "Blue Zangria 2 Pre-Pack 3.5g",
       "brand": null,
       "producer": "Evermore Cannabis",
@@ -24918,38 +25393,45 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 87.5,
+      "quantity": 199.5,
       "unit": "Grams",
       "strainName": "Blue zangria 2",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 25.13,
+        "totalTHC": 26.3,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
         "CBG": 0.0,
-        "CBGA": 0.65,
+        "CBGA": 0.51,
         "CBN": 0.0,
-        "THCA": 28.13,
-        "THCV": 0.14
+        "THCA": 29.27,
+        "THCV": 0.13
       },
       "dose": null,
       "terpenes": {
-        "bisabolol": 0.07,
-        "humulene": 0.05,
+        "bisabolol": 0.08,
+        "humulene": 0.06,
         "myrcene": 0.14,
-        "alpha-pinene": 0.16,
-        "caryophyllene": 0.2,
-        "beta-pinene": 0.18,
-        "ocimene": 0.13,
+        "alpha-pinene": 0.15,
+        "caryophyllene": 0.21,
+        "beta-pinene": 0.19,
+        "ocimene": 0.14,
         "limonene": 1.35,
-        "linalool": 0.44,
+        "linalool": 0.49,
         "terpinolene": 0.02
       },
-      "totalTerps": 3.15,
+      "totalTerps": 3.27,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 9263917,
+          "label": "1A40303000000CB000058595",
+          "quantity": 112.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-08-07"
+        },
         {
           "id": 9197340,
           "label": "1A40303000000CB000057460",
@@ -24963,6 +25445,63 @@
           "quantity": 3.5,
           "packagedDate": "2026-08-19",
           "expirationDate": "2027-06-27"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 9041064,
+      "packageCount": 1,
+      "name": "Blue Zangria 9 Buds Pre-Pack 3.5g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 94.5,
+      "unit": "Grams",
+      "strainName": "Blue Zangria 9",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 19.56,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.17,
+        "CBGA": 0.89,
+        "CBN": 0.0,
+        "THCA": 22.1,
+        "THCV": 0.05
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.09,
+        "myrcene": 0.08,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 0.4,
+        "beta-pinene": 0.09,
+        "ocimene": 0.06,
+        "limonene": 0.49,
+        "linalool": 0.19
+      },
+      "totalTerps": 1.67,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9041064,
+          "label": "1A40303000000CB000053174",
+          "quantity": 94.5,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-09-16"
         }
       ],
       "price": null,
@@ -25020,6 +25559,63 @@
           "quantity": 3.5,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-06-13"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 8974469,
+      "packageCount": 1,
+      "name": "Bmore Z Pre-Pack 3.5g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 112.0,
+      "unit": "Grams",
+      "strainName": "Bmore Z",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 23.27,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.37,
+        "CBN": 0.0,
+        "THCA": 26.22,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.07,
+        "humulene": 0.1,
+        "myrcene": 0.03,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.32,
+        "beta-pinene": 0.07,
+        "limonene": 0.58,
+        "linalool": 0.38
+      },
+      "totalTerps": 1.78,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8974469,
+          "label": "1A40303000000CB000051670",
+          "quantity": 112.0,
+          "packagedDate": "2026-09-09",
+          "expirationDate": "2027-06-23"
         }
       ],
       "price": null,
@@ -25261,7 +25857,7 @@
     },
     {
       "id": 9274637,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "CUR-EXC-JAR-ALOG-3.5-MD",
       "brand": null,
       "producer": "Curio Cultivation",
@@ -25270,35 +25866,36 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.5,
+      "quantity": 108.5,
       "unit": "Grams",
       "strainName": "ALOG",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 33.45,
+        "totalTHC": 26.27,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.08,
-        "CBGA": 0.48,
+        "CBG": 0.0,
+        "CBGA": 0.33,
         "CBN": 0.0,
-        "THCA": 37.86,
-        "THCV": 0.21
+        "THCA": 29.68,
+        "THCV": 0.22
       },
       "dose": null,
       "terpenes": {
-        "bisabolol": 0.07,
-        "humulene": 0.18,
-        "myrcene": 0.95,
-        "alpha-pinene": 0.06,
-        "caryophyllene": 0.55,
-        "eudesmol": 0.14,
-        "beta-pinene": 0.09,
-        "limonene": 0.68,
-        "linalool": 0.26
+        "bisabolol": 0.06,
+        "humulene": 0.14,
+        "myrcene": 0.85,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.39,
+        "eudesmol": 0.12,
+        "beta-pinene": 0.07,
+        "ocimene": 0.03,
+        "limonene": 0.61,
+        "linalool": 0.21
       },
-      "totalTerps": 3.26,
+      "totalTerps": 2.71,
       "dominantTerpene": "myrcene",
       "packages": [
         {
@@ -25307,6 +25904,13 @@
           "quantity": 24.5,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-08-31"
+        },
+        {
+          "id": 9111455,
+          "label": "1A40303000000CD000082636",
+          "quantity": 84.0,
+          "packagedDate": "2026-10-08",
+          "expirationDate": "2027-09-14"
         }
       ],
       "price": 45.0,
@@ -25599,6 +26203,7 @@
           "expirationDate": "2027-05-29"
         }
       ],
+      "pick": 107,
       "price": 10.0,
       "medPrice": 10.0,
       "salePrice": null,
@@ -26254,8 +26859,8 @@
       "posCategory": "Pre-Packed Flower"
     },
     {
-      "id": 9095841,
-      "packageCount": 1,
+      "id": 9164814,
+      "packageCount": 2,
       "name": "Fruit Loot 3 Pre-Pack 3.5g",
       "brand": null,
       "producer": "Evermore Cannabis",
@@ -26264,7 +26869,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 45.5,
+      "quantity": 150.5,
       "unit": "Grams",
       "strainName": "Fruit Loot 3",
       "strainType": null,
@@ -26294,6 +26899,13 @@
       "totalTerps": 2.32,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 9164814,
+          "label": "1A40303000000CB000056633",
+          "quantity": 105.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-08-07"
+        },
         {
           "id": 9095841,
           "label": "1A40303000000CB000055180",
@@ -27704,7 +28316,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 217.0,
+      "quantity": 213.5,
       "unit": "Grams",
       "strainName": "Juice Pack 1",
       "strainType": null,
@@ -27739,7 +28351,7 @@
         {
           "id": 9297369,
           "label": "1A40303000000CB000059286",
-          "quantity": 217.0,
+          "quantity": 213.5,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-11-09"
         }
@@ -28034,7 +28646,7 @@
           "expirationDate": "2027-04-03"
         }
       ],
-      "pick": 75,
+      "pick": 59,
       "price": 15.0,
       "medPrice": 15.0,
       "salePrice": null,
@@ -28507,9 +29119,305 @@
       "posCategory": "Pre-Packed Flower"
     },
     {
-      "id": 8438414,
+      "id": 8959244,
       "packageCount": 1,
+      "name": "MDGFGE-FLR-0-1",
+      "brand": null,
+      "producer": "MCP Processing",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 15.0,
+      "unit": "Grams",
+      "strainName": "Grapefruit Gelato",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.55,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.22,
+        "CBN": 0.0,
+        "THCA": 24.91,
+        "THCV": 0.97
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.1,
+        "myrcene": 0.79,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.38,
+        "beta-pinene": 0.03,
+        "ocimene": 0.05,
+        "limonene": 0.14,
+        "linalool": 0.23
+      },
+      "totalTerps": 1.87,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8959244,
+          "label": "1A40303000007D1000102095",
+          "quantity": 15.0,
+          "packagedDate": "2026-09-04",
+          "expirationDate": "2027-08-02"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 8599507,
+      "packageCount": 1,
+      "name": "MDSPTZ-FLR-0-1",
+      "brand": null,
+      "producer": "MCP Processing",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Grams",
+      "strainName": "Spritzer",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.68,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.12,
+        "CBGA": 0.62,
+        "CBN": 0.0,
+        "THCA": 33.32,
+        "THCV": 0.06
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.12,
+        "myrcene": 0.15,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.49,
+        "beta-pinene": 0.04,
+        "limonene": 0.39,
+        "linalool": 0.36
+      },
+      "totalTerps": 1.76,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8599507,
+          "label": "1A40303000007D1000080948",
+          "quantity": 12.0,
+          "packagedDate": "2026-06-16",
+          "expirationDate": "2027-04-24"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 8959176,
+      "packageCount": 1,
+      "name": "MDZERZ-FLR-0-1",
+      "brand": null,
+      "producer": "MCP Processing",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 21.0,
+      "unit": "Grams",
+      "strainName": "Zeroz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.49,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.18,
+        "CBGA": 0.7,
+        "CBN": 0.0,
+        "THCA": 28.19,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.13,
+        "humulene": 0.13,
+        "myrcene": 0.41,
+        "alpha-pinene": 1.58,
+        "caryophyllene": 0.52,
+        "beta-pinene": 0.29,
+        "ocimene": 0.18,
+        "limonene": 0.17,
+        "linalool": 0.26
+      },
+      "totalTerps": 3.83,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 8959176,
+          "label": "1A40303000007D1000102096",
+          "quantity": 21.0,
+          "packagedDate": "2026-09-04",
+          "expirationDate": "2027-07-26"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 8698685,
+      "packageCount": 1,
+      "name": "Maryland Herb Co Packaged Flower - 3.5g - Blueberry Cruffins",
+      "brand": null,
+      "producer": "Culta",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 31.5,
+      "unit": "Grams",
+      "strainName": "Blueberry Cruffins",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 29.31,
+        "totalCBD": 0.05,
+        "CBC": 0.0,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.13,
+        "CBGA": 0.33,
+        "CBN": 0.0,
+        "THCA": 32.23,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.08,
+        "myrcene": 0.24,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.2,
+        "beta-pinene": 0.07,
+        "limonene": 0.33,
+        "linalool": 0.48
+      },
+      "totalTerps": 1.7,
+      "dominantTerpene": "linalool",
+      "packages": [
+        {
+          "id": 8698685,
+          "label": "1A403030000477D000000084",
+          "quantity": 31.5,
+          "packagedDate": "2026-07-06",
+          "expirationDate": "2027-05-08"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 8699036,
+      "packageCount": 2,
       "name": "Maryland Herb Co Packaged Flower - 3.5g - Headshot",
+      "brand": null,
+      "producer": "Culta",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 112.0,
+      "unit": "Grams",
+      "strainName": "Headshot",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.57,
+        "totalCBD": 0.07,
+        "CBC": 0.0,
+        "CBDA": 0.08,
+        "CBDV": 0.0,
+        "CBG": 0.18,
+        "CBGA": 1.6,
+        "CBN": 0.0,
+        "THCA": 34.36,
+        "THCV": 0.19
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.1,
+        "myrcene": 0.72,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.24,
+        "beta-pinene": 0.04,
+        "ocimene": 0.12,
+        "limonene": 0.15,
+        "linalool": 0.23
+      },
+      "totalTerps": 1.64,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8699036,
+          "label": "1A403030000477D000000086",
+          "quantity": 59.5,
+          "packagedDate": "2026-07-06",
+          "expirationDate": "2027-05-08"
+        },
+        {
+          "id": 8438414,
+          "label": "1A4030300000709000049895",
+          "quantity": 52.5,
+          "packagedDate": "2026-05-11",
+          "expirationDate": "2027-04-13"
+        }
+      ],
+      "pick": 60,
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 27.0,
+      "medSalePrice": 27.0,
+      "deal": "40% Off",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4696532",
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 8888587,
+      "packageCount": 1,
+      "name": "Maryland Herb Co Packaged Flower - 3.5g - Ice Wookie",
       "brand": null,
       "producer": "Culta",
       "category": "Flower",
@@ -28519,50 +29427,49 @@
       ],
       "quantity": 52.5,
       "unit": "Grams",
-      "strainName": "Headshot",
+      "strainName": "Ice Wookie",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 23.68,
-        "totalCBD": 0.06,
+        "totalTHC": 33.0,
+        "totalCBD": 0.08,
         "CBC": 0.0,
-        "CBDA": 0.07,
+        "CBDA": 0.09,
         "CBDV": 0.0,
-        "CBG": 0.08,
-        "CBGA": 1.6,
+        "CBG": 0.05,
+        "CBGA": 0.84,
         "CBN": 0.0,
-        "THCA": 26.11,
-        "THCV": 0.09
+        "THCA": 37.26,
+        "THCV": 0.18
       },
       "dose": null,
       "terpenes": {
-        "humulene": 0.14,
-        "myrcene": 0.04,
-        "alpha-pinene": 0.08,
-        "caryophyllene": 0.43,
-        "beta-pinene": 0.09,
-        "ocimene": 0.08,
-        "limonene": 0.48,
-        "linalool": 0.26
+        "bisabolol": 0.04,
+        "humulene": 0.33,
+        "myrcene": 0.03,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.7,
+        "beta-pinene": 0.07,
+        "limonene": 0.5,
+        "linalool": 0.47
       },
-      "totalTerps": 1.76,
-      "dominantTerpene": "limonene",
+      "totalTerps": 2.36,
+      "dominantTerpene": "caryophyllene",
       "packages": [
         {
-          "id": 8438414,
-          "label": "1A4030300000709000049895",
+          "id": 8888587,
+          "label": "1A403030000477D000002583",
           "quantity": 52.5,
-          "packagedDate": "2026-05-11",
-          "expirationDate": "2027-04-13"
+          "packagedDate": "2026-08-10",
+          "expirationDate": "2027-07-16"
         }
       ],
-      "pick": 76,
-      "price": 45.0,
-      "medPrice": 45.0,
-      "salePrice": 27.0,
-      "medSalePrice": 27.0,
-      "deal": "40% Off",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4696532",
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -28910,6 +29817,64 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4736143",
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 9066062,
+      "packageCount": 1,
+      "name": "NH Animal Mint Cookies Flower-Usable-3.5g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 112.0,
+      "unit": "Grams",
+      "strainName": "Animal Mint Cookies",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.14,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.75,
+        "CBN": 0.0,
+        "THCA": 28.45,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.15,
+        "myrcene": 0.07,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 0.65,
+        "beta-pinene": 0.1,
+        "limonene": 0.67,
+        "linalool": 0.4,
+        "terpinolene": 0.02
+      },
+      "totalTerps": 2.55,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9066062,
+          "label": "1A4030300003521000058696",
+          "quantity": 112.0,
+          "packagedDate": "2026-09-29",
+          "expirationDate": "2027-09-03"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -29363,6 +30328,63 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4743433",
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 9297565,
+      "packageCount": 1,
+      "name": "Papaya Pre-Pack 3.5g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 112.0,
+      "unit": "Grams",
+      "strainName": "Papaya",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 23.74,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.32,
+        "CBGA": 0.52,
+        "CBN": 0.0,
+        "THCA": 27.07,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.04,
+        "myrcene": 0.15,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.13,
+        "eudesmol": 0.14,
+        "beta-pinene": 0.06,
+        "limonene": 0.43,
+        "linalool": 0.21
+      },
+      "totalTerps": 1.43,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9297565,
+          "label": "1A40303000000CB000059285",
+          "quantity": 112.0,
+          "packagedDate": "2026-11-18",
+          "expirationDate": "2027-09-08"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -29825,6 +30847,7 @@
           "expirationDate": "2027-07-29"
         }
       ],
+      "pick": 108,
       "price": 25.0,
       "medPrice": 25.0,
       "salePrice": null,
@@ -30287,6 +31310,64 @@
       "posCategory": "Pre-Packed Flower"
     },
     {
+      "id": 8977158,
+      "packageCount": 1,
+      "name": "Savvy Flower - Cherry Punch - Usable - 14g",
+      "brand": "Savvy",
+      "producer": "Freestate Wellness",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 154.0,
+      "unit": "Grams",
+      "strainName": "Cherry Punch",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.56,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.04,
+        "CBN": 0.0,
+        "THCA": 28.69,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.09,
+        "humulene": 0.17,
+        "myrcene": 0.26,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 0.65,
+        "beta-pinene": 0.07,
+        "ocimene": 0.04,
+        "limonene": 0.4,
+        "linalool": 0.08
+      },
+      "totalTerps": 1.98,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8977158,
+          "label": "1A4030300003A3C000090730",
+          "quantity": 154.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": "2027-08-27"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
       "id": 9044191,
       "packageCount": 1,
       "name": "Savvy Flower - Grapes N Cream - Usable - 3.5g",
@@ -30399,7 +31480,7 @@
     },
     {
       "id": 9280669,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Savvy Flower - Guerilla Grape - Usable - 3.5g",
       "brand": "Savvy",
       "producer": "Freestate Wellness",
@@ -30408,7 +31489,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 115.5,
       "unit": "Grams",
       "strainName": "Guerilla Grape",
       "strainType": null,
@@ -30444,6 +31525,13 @@
           "quantity": 28.0,
           "packagedDate": "2026-08-28",
           "expirationDate": "2027-08-28"
+        },
+        {
+          "id": 8977157,
+          "label": "1A4030300003A3C000090729",
+          "quantity": 87.5,
+          "packagedDate": "2026-07-16",
+          "expirationDate": "2027-07-16"
         }
       ],
       "price": 35.0,
@@ -31258,13 +32346,186 @@
           "expirationDate": "2027-02-18"
         }
       ],
-      "pick": 49,
+      "pick": 41,
       "price": 75.0,
       "medPrice": 75.0,
       "salePrice": 45.0,
       "medSalePrice": 45.0,
       "deal": "40% Off",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4677538",
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 8849578,
+      "packageCount": 1,
+      "name": "Tear Gas 8ths",
+      "brand": null,
+      "producer": "MAS Alliance",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 77.0,
+      "unit": "Grams",
+      "strainName": "Tear Gas -BLVK MRKT",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.22,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.95,
+        "CBN": 0.0,
+        "THCA": 27.31,
+        "THCV": 0.11
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.06,
+        "myrcene": 1.1,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.24,
+        "eudesmol": 0.13,
+        "beta-pinene": 0.08,
+        "limonene": 0.53,
+        "linalool": 0.25
+      },
+      "totalTerps": 2.67,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8849578,
+          "label": "1A40303000040D9000005599",
+          "quantity": 77.0,
+          "packagedDate": "2026-08-11",
+          "expirationDate": "2027-08-10"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 8489905,
+      "packageCount": 1,
+      "name": "Triple Seven | Buds | 3.5g | The Cut",
+      "brand": null,
+      "producer": "Green Leaf Medical",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 98.0,
+      "unit": "Grams",
+      "strainName": "The Cut",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.46,
+        "totalCBD": 0.06,
+        "CBC": 0.0,
+        "CBDA": 0.07,
+        "CBDV": 0.0,
+        "CBG": 0.22,
+        "CBGA": 0.37,
+        "CBN": 0.0,
+        "THCA": 29.9,
+        "THCV": 0.16
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.07,
+        "myrcene": 0.06,
+        "alpha-pinene": 0.17,
+        "caryophyllene": 0.26,
+        "beta-pinene": 0.15,
+        "ocimene": 0.09,
+        "limonene": 0.74,
+        "linalool": 0.33,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 2.1,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8489905,
+          "label": "1A40303000000CA000054732",
+          "quantity": 98.0,
+          "packagedDate": "2026-05-20",
+          "expirationDate": "2027-05-20"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
+      "id": 9005738,
+      "packageCount": 1,
+      "name": "Z Cream Pre-Pack 3.5g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 42.0,
+      "unit": "Grams",
+      "strainName": "Z Cream",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.79,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.2,
+        "CBGA": 1.31,
+        "CBN": 0.0,
+        "THCA": 31.43,
+        "THCV": 0.09
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.2,
+        "myrcene": 0.03,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.65,
+        "beta-pinene": 0.07,
+        "limonene": 0.53,
+        "linalool": 0.39
+      },
+      "totalTerps": 2.12,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9005738,
+          "label": "1A40303000000CB000052507",
+          "quantity": 42.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-09-08"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -31958,6 +33219,64 @@
       "posCategory": "Pre-Rolls"
     },
     {
+      "id": 9039338,
+      "packageCount": 1,
+      "name": "Animal Face 5 Pack - Dogwalkers (Sit) - Usable - 1.75g",
+      "brand": "Dogwalkers",
+      "producer": "Chesapeake Alternatives",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 33.25,
+      "unit": "Grams",
+      "strainName": "Animal Face",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 30.54,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.43,
+        "CBN": 0.0,
+        "THCA": 34.23,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.1,
+        "humulene": 0.27,
+        "myrcene": 0.99,
+        "alpha-pinene": 0.06,
+        "caryophyllene": 1.11,
+        "beta-pinene": 0.08,
+        "limonene": 0.64,
+        "linalool": 0.49,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 3.93,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9039338,
+          "label": "1A40303000003EA000258995",
+          "quantity": 33.25,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-07-27"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 8639438,
       "packageCount": 1,
       "name": "Animal Face Big Dogs (Infused) - Dogwalkers (Sit) - 1g",
@@ -32129,8 +33448,8 @@
       "posCategory": "Pre-Rolls"
     },
     {
-      "id": 8970729,
-      "packageCount": 1,
+      "id": 9164262,
+      "packageCount": 2,
       "name": "Animal Scout 5 pack (Infused) Dogwalkers (Sit) - 2.25g",
       "brand": "Dogwalkers",
       "producer": "Chesapeake Alternatives",
@@ -32139,36 +33458,43 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Animal Scout",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 43.3,
+        "totalTHC": 43.87,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
         "CBG": 0.0,
-        "CBGA": 1.02,
+        "CBGA": 0.86,
         "CBN": 0.0,
-        "THCA": 48.09,
-        "THCV": 0.19
+        "THCA": 48.82,
+        "THCV": 0.2
       },
       "dose": null,
       "terpenes": {
-        "bisabolol": 0.05,
-        "humulene": 0.05,
-        "myrcene": 0.13,
-        "alpha-pinene": 0.04,
-        "caryophyllene": 0.19,
-        "beta-pinene": 0.05,
-        "limonene": 0.37,
+        "bisabolol": 0.06,
+        "humulene": 0.06,
+        "myrcene": 0.1,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.18,
+        "beta-pinene": 0.04,
+        "limonene": 0.33,
         "linalool": 0.11
       },
-      "totalTerps": 1.09,
+      "totalTerps": 1.01,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 9164262,
+          "label": "1A40303000003EA000255074",
+          "quantity": 17.0,
+          "packagedDate": "2026-10-21",
+          "expirationDate": "2027-09-16"
+        },
         {
           "id": 8970729,
           "label": "1A40303000003EA000263659",
@@ -32470,7 +33796,7 @@
           "expirationDate": "2027-08-05"
         }
       ],
-      "pick": 134,
+      "pick": 103,
       "price": 20.0,
       "medPrice": 20.0,
       "salePrice": 12.0,
@@ -32588,7 +33914,7 @@
           "expirationDate": "2027-04-30"
         }
       ],
-      "pick": 91,
+      "pick": 68,
       "price": 20.0,
       "medPrice": 20.0,
       "salePrice": 12.0,
@@ -33233,6 +34559,119 @@
       "posCategory": "Pre-Rolls"
     },
     {
+      "id": 8814011,
+      "packageCount": 1,
+      "name": "Concentrate- Infused Happy-er J Deadband 12 x House Blends 2 Pack 1.0g",
+      "brand": "Happy-er",
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 35.0,
+      "unit": "Each",
+      "strainName": "Happy er J Deadband x House Blends",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 34.89,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.09,
+        "CBGA": 1.23,
+        "CBN": 0.0,
+        "THCA": 36.31,
+        "THCV": 0.13
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.16,
+        "myrcene": 0.36,
+        "caryophyllene": 0.49,
+        "eudesmol": 0.07,
+        "beta-pinene": 0.03,
+        "limonene": 0.17,
+        "linalool": 0.21
+      },
+      "totalTerps": 1.71,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8814011,
+          "label": "1A4030300000C83000079113",
+          "quantity": 35.0,
+          "packagedDate": "2026-08-04",
+          "expirationDate": "2027-07-19"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
+      "id": 8813826,
+      "packageCount": 1,
+      "name": "Concentrate- Infused Happy-er J Sunset Octane x House Blends (2 Pack) 1.0g",
+      "brand": "Happy-er",
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 11.0,
+      "unit": "Each",
+      "strainName": "Happy er J Sunset Octane x House Blends",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.09,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.82,
+        "CBN": 0.0,
+        "THCA": 30.03,
+        "THCV": 0.12
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.11,
+        "myrcene": 0.24,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.46,
+        "beta-pinene": 0.08,
+        "limonene": 0.53,
+        "linalool": 0.26
+      },
+      "totalTerps": 2.02,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8813826,
+          "label": "1A4030300000C83000079114",
+          "quantity": 11.0,
+          "packagedDate": "2026-08-04",
+          "expirationDate": "2027-01-20"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
       "id": 9128278,
       "packageCount": 1,
       "name": "Concentrate- Sunset Octane x THCa Isolate Infused (.35g Joints) 5 Pack 1.75g",
@@ -33347,8 +34786,8 @@
       "posCategory": "Pre-Rolls"
     },
     {
-      "id": 8738020,
-      "packageCount": 1,
+      "id": 9310856,
+      "packageCount": 2,
       "name": "Curio Wellness Alien OG Pre-rolls- Usable-2x0.5g",
       "brand": "Curio Wellness",
       "producer": "Curio Manufacturing",
@@ -33357,36 +34796,44 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 32.0,
       "unit": "Grams",
       "strainName": "Alien OG",
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 23.21,
+        "totalTHC": 26.87,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
         "CBG": 0.0,
-        "CBGA": 0.27,
+        "CBGA": 0.23,
         "CBN": 0.0,
-        "THCA": 26.27,
-        "THCV": 0.15
+        "THCA": 30.38,
+        "THCV": 0.16
       },
       "dose": null,
       "terpenes": {
-        "humulene": 0.09,
-        "myrcene": 0.41,
+        "bisabolol": 0.06,
+        "humulene": 0.16,
+        "myrcene": 0.92,
         "alpha-pinene": 0.05,
-        "caryophyllene": 0.26,
-        "eudesmol": 0.1,
+        "caryophyllene": 0.45,
+        "eudesmol": 0.13,
         "beta-pinene": 0.07,
-        "limonene": 0.61,
-        "linalool": 0.16
+        "limonene": 0.58,
+        "linalool": 0.22
       },
-      "totalTerps": 1.95,
-      "dominantTerpene": "limonene",
+      "totalTerps": 2.84,
+      "dominantTerpene": "myrcene",
       "packages": [
+        {
+          "id": 9310856,
+          "label": "1A403030000012D000285718",
+          "quantity": 30.0,
+          "packagedDate": "2026-11-19",
+          "expirationDate": "2027-09-14"
+        },
         {
           "id": 8738020,
           "label": "1A403030000012D000255832",
@@ -33395,6 +34842,7 @@
           "expirationDate": "2027-04-16"
         }
       ],
+      "pick": 81,
       "price": 15.0,
       "medPrice": 15.0,
       "salePrice": null,
@@ -33810,6 +35258,64 @@
       "posCategory": "Pre-Rolls"
     },
     {
+      "id": 8863976,
+      "packageCount": 1,
+      "name": "Curio Wellness Opals and Banonoze Pre-rolls-Usable-2x0.5g",
+      "brand": "Curio Wellness",
+      "producer": "Curio Manufacturing",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 30.0,
+      "unit": "Grams",
+      "strainName": "Opals and Banonoze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.25,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.19,
+        "CBGA": 1.74,
+        "CBN": 0.0,
+        "THCA": 30.12,
+        "THCV": 0.15
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.05,
+        "humulene": 0.07,
+        "myrcene": 1.75,
+        "alpha-pinene": 0.37,
+        "caryophyllene": 0.26,
+        "beta-pinene": 0.08,
+        "ocimene": 0.23,
+        "limonene": 0.13,
+        "linalool": 0.14
+      },
+      "totalTerps": 3.08,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 8863976,
+          "label": "1A403030000012D000260508",
+          "quantity": 30.0,
+          "packagedDate": "2026-08-13",
+          "expirationDate": "2027-04-14"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 9274616,
       "packageCount": 1,
       "name": "Curio Wellness Oreoz Pre-rolls-Usable-2x0.5g",
@@ -33927,6 +35433,63 @@
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4712551",
       "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
+      "id": 8926320,
+      "packageCount": 1,
+      "name": "Curio Wellness Tropicana Cherry Pre-rolls-Usable-2x0.5g",
+      "brand": "Curio Wellness",
+      "producer": "Curio Manufacturing",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 14.0,
+      "unit": "Grams",
+      "strainName": "Tropicana Cherry",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 21.18,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.19,
+        "CBN": 0.0,
+        "THCA": 24.15,
+        "THCV": 0.23
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.12,
+        "myrcene": 0.04,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.46,
+        "beta-pinene": 0.07,
+        "limonene": 0.57,
+        "linalool": 0.37
+      },
+      "totalTerps": 1.88,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8926320,
+          "label": "1A403030000012D000262972",
+          "quantity": 14.0,
+          "packagedDate": "2026-08-27",
+          "expirationDate": "2027-05-14"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
     },
     {
       "id": 9164587,
@@ -34267,7 +35830,6 @@
           "expirationDate": "2027-03-20"
         }
       ],
-      "pick": 58,
       "price": 35.0,
       "medPrice": 35.0,
       "salePrice": 21.0,
@@ -34451,6 +36013,125 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
+      "id": 8489872,
+      "packageCount": 1,
+      "name": "Fruit Loot 3 J Walker (.35g Joints) 5 Pack 1.75g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 26.25,
+      "unit": "Grams",
+      "strainName": "Fruit Loot 3",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.32,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.23,
+        "CBGA": 0.5,
+        "CBN": 0.0,
+        "THCA": 25.21,
+        "THCV": 0.05
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.06,
+        "myrcene": 0.04,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.14,
+        "beta-pinene": 0.09,
+        "limonene": 0.64,
+        "linalool": 0.19
+      },
+      "totalTerps": 1.39,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8489872,
+          "label": "1A40303000000CB000042105",
+          "quantity": 26.25,
+          "packagedDate": "2026-05-21",
+          "expirationDate": "2027-04-17"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 8606064,
+      "packageCount": 2,
+      "name": "Fruit Loot 5 J Walker (.35g Joints) 5 Pack 1.75g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 210.0,
+      "unit": "Grams",
+      "strainName": "Fruit Loot 5",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 18.38,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.85,
+        "CBN": 0.0,
+        "THCA": 20.72,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.11,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.42,
+        "beta-pinene": 0.06,
+        "limonene": 0.44,
+        "linalool": 0.24
+      },
+      "totalTerps": 1.53,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8606064,
+          "label": "1A40303000000CB000044377",
+          "quantity": 105.0,
+          "packagedDate": "2026-06-17",
+          "expirationDate": "2027-05-12"
+        },
+        {
+          "id": 8576425,
+          "label": "1A40303000000CB000043942",
+          "quantity": 105.0,
+          "packagedDate": "2026-06-10",
+          "expirationDate": "2027-05-12"
+        }
+      ],
+      "price": 1.0,
+      "medPrice": 1.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4701085",
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 8891365,
       "packageCount": 1,
       "name": "GMO 5 Pack - Dogwalkers (Sit) - Usable - 1.75g",
@@ -34500,6 +36181,7 @@
           "expirationDate": "2027-07-06"
         }
       ],
+      "pick": 117,
       "price": 30.0,
       "medPrice": 30.0,
       "salePrice": 22.5,
@@ -34623,6 +36305,62 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
+      "id": 8642228,
+      "packageCount": 1,
+      "name": "Gumi #6 J walker (.35g joints) 5 Pack 1.75g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 22.75,
+      "unit": "Grams",
+      "strainName": "Gumi 6",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.3,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.16,
+        "CBGA": 0.32,
+        "CBN": 0.0,
+        "THCA": 25.12,
+        "THCV": 0.07
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.08,
+        "myrcene": 0.05,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 0.34,
+        "beta-pinene": 0.09,
+        "limonene": 0.51,
+        "linalool": 0.18
+      },
+      "totalTerps": 1.58,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8642228,
+          "label": "1A40303000000CB000045339",
+          "quantity": 22.75,
+          "packagedDate": "2026-06-24",
+          "expirationDate": "2027-04-14"
+        }
+      ],
+      "price": 1.0,
+      "medPrice": 1.0,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4682362",
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 8919840,
       "packageCount": 1,
       "name": "Hash Burger #7 5 Pack - Dogwalkers (Sit) - Usable - 1.75g",
@@ -34723,6 +36461,63 @@
           "quantity": 6.0,
           "packagedDate": "2026-04-28",
           "expirationDate": "2027-01-20"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Infused Flower/Concentrate"
+    },
+    {
+      "id": 8678455,
+      "packageCount": 1,
+      "name": "HiRoller|Infused Pre-Roll Kit|Triangle Larry OG|7g",
+      "brand": "HiRoller",
+      "producer": "Marymed",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 8.0,
+      "unit": "Each",
+      "strainName": "Triangle Larry OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 40.85,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.3,
+        "CBN": 0.0,
+        "THCA": 44.64,
+        "THCV": 0.2
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.07,
+        "myrcene": 0.03,
+        "alpha-pinene": 0.01,
+        "caryophyllene": 0.19,
+        "beta-pinene": 0.02,
+        "limonene": 0.12,
+        "linalool": 0.12
+      },
+      "totalTerps": 0.76,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8678455,
+          "label": "1A4030300002009000107934",
+          "quantity": 8.0,
+          "packagedDate": "2026-07-02",
+          "expirationDate": "2027-06-17"
         }
       ],
       "price": null,
@@ -34903,8 +36698,8 @@
       "posCategory": "Pre-Rolls"
     },
     {
-      "id": 9262577,
-      "packageCount": 1,
+      "id": 9262615,
+      "packageCount": 2,
       "name": "In House Kiwi Berry Drip-.75g",
       "brand": "In House",
       "producer": "Kind Therapeutics USA",
@@ -34913,7 +36708,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 45.0,
       "unit": "Each",
       "strainName": "Kiwi Berry Drip",
       "strainType": null,
@@ -34945,6 +36740,13 @@
       "totalTerps": 0.96,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 9262615,
+          "label": "1A4030300003522000224804",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-29"
+        },
         {
           "id": 9262577,
           "label": "1A4030300003522000224805",
@@ -35133,6 +36935,63 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4364289",
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 9289988,
+      "packageCount": 1,
+      "name": "Just Flower Pre-Roll Pack (End Game) - Usable - 1g",
+      "brand": null,
+      "producer": "Seven Points Agro-Therapeutics",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 15.0,
+      "unit": "Grams",
+      "strainName": "End Game",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 14.87,
+        "totalCBD": 0.04,
+        "CBC": 0.0,
+        "CBDA": 0.04,
+        "CBDV": 0.0,
+        "CBG": 0.07,
+        "CBGA": 0.24,
+        "CBN": 0.0,
+        "THCA": 16.53,
+        "THCV": 0.09
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.08,
+        "myrcene": 0.45,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.2,
+        "beta-pinene": 0.03,
+        "limonene": 0.21,
+        "linalool": 0.08
+      },
+      "totalTerps": 1.12,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9289988,
+          "label": "1A4030300004845000053792",
+          "quantity": 15.0,
+          "packagedDate": "2026-09-14",
+          "expirationDate": "2027-09-14"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Pre-Rolls"
     },
     {
@@ -35704,6 +37563,7 @@
           "expirationDate": "2027-01-15"
         }
       ],
+      "pick": 31,
       "price": 15.0,
       "medPrice": 15.0,
       "salePrice": null,
@@ -35761,7 +37621,7 @@
           "expirationDate": "2027-06-25"
         }
       ],
-      "pick": 125,
+      "pick": 94,
       "price": 15.0,
       "medPrice": 15.0,
       "salePrice": 9.0,
@@ -35991,7 +37851,6 @@
           "expirationDate": "2027-05-26"
         }
       ],
-      "pick": 118,
       "price": 30.0,
       "medPrice": 30.0,
       "salePrice": 18.0,
@@ -36002,7 +37861,7 @@
     },
     {
       "id": 9218512,
-      "packageCount": 2,
+      "packageCount": 3,
       "name": "LORE Ritual - Berry Fritterz - 2g Blunt",
       "brand": "LORE",
       "producer": "CERES NATURALS",
@@ -36011,7 +37870,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 36.0,
       "unit": "Each",
       "strainName": "Berry Fritterz",
       "strainType": null,
@@ -36050,6 +37909,13 @@
           "quantity": 27.0,
           "packagedDate": "2026-09-22",
           "expirationDate": "2027-09-15"
+        },
+        {
+          "id": 9030315,
+          "label": "1A4030300003201000001691",
+          "quantity": 8.0,
+          "packagedDate": "2026-09-22",
+          "expirationDate": "2027-09-15"
         }
       ],
       "price": 35.0,
@@ -36062,7 +37928,7 @@
     },
     {
       "id": 9030314,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "LORE Ritual - Drag Queen - 2g Blunt",
       "brand": "LORE",
       "producer": "CERES NATURALS",
@@ -36071,7 +37937,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": "Drag Queen",
       "strainType": null,
@@ -36102,6 +37968,13 @@
           "id": 9030314,
           "label": "1A4030300003201000001690",
           "quantity": 16.0,
+          "packagedDate": "2026-09-22",
+          "expirationDate": "2027-09-15"
+        },
+        {
+          "id": 9030316,
+          "label": "1A4030300003201000001692",
+          "quantity": 10.0,
           "packagedDate": "2026-09-22",
           "expirationDate": "2027-09-15"
         }
@@ -36922,7 +38795,7 @@
           "expirationDate": "2027-03-23"
         }
       ],
-      "pick": 57,
+      "pick": 48,
       "price": 25.0,
       "medPrice": 25.0,
       "salePrice": 15.0,
@@ -37336,6 +39209,66 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
+      "id": 9047755,
+      "packageCount": 1,
+      "name": "Mfused FIRE Fattys (Maui Pineapple)-Usable-2x0.5g",
+      "brand": null,
+      "producer": "Curio Manufacturing",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 15.0,
+      "unit": "Each",
+      "strainName": "Mfused FIRE Fattys",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 32.72,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.57,
+        "CBN": 0.0,
+        "THCA": 33.98,
+        "THCV": 0.15
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.11,
+        "humulene": 0.31,
+        "myrcene": 0.62,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 1.48,
+        "beta-pinene": 0.07,
+        "ocimene": 0.64,
+        "limonene": 0.5,
+        "linalool": 0.29,
+        "terpinolene": 0.51,
+        "nerolidol": 0.13
+      },
+      "totalTerps": 4.94,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9047755,
+          "label": "1A403030000012D000267864",
+          "quantity": 15.0,
+          "packagedDate": "2026-09-24",
+          "expirationDate": "2027-07-21"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
       "id": 9236731,
       "packageCount": 1,
       "name": "Mfused TWISTED Fattys (Lemon Loopz)-2x0.5g",
@@ -37564,6 +39497,65 @@
       "posCategory": "Pre-Rolls"
     },
     {
+      "id": 8947060,
+      "packageCount": 1,
+      "name": "Multi Pack- Red Zushi Pre-Rolls (x7 0.5g Joints) 3.5g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 42.0,
+      "unit": "Grams",
+      "strainName": "Red Zushi 1",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 26.61,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.29,
+        "CBN": 0.0,
+        "THCA": 30.0,
+        "THCV": 0.06
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.06,
+        "humulene": 0.12,
+        "myrcene": 0.36,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.48,
+        "eudesmol": 0.11,
+        "beta-pinene": 0.09,
+        "limonene": 0.81,
+        "linalool": 0.17,
+        "nerolidol": 0.05
+      },
+      "totalTerps": 2.59,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8947060,
+          "label": "1A40303000000CB000051193",
+          "quantity": 42.0,
+          "packagedDate": "2026-09-02",
+          "expirationDate": "2027-07-28"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
+    },
+    {
       "id": 9124705,
       "packageCount": 1,
       "name": "NH 4 Strains Infused Preroll-.5g 8pk",
@@ -37785,7 +39777,6 @@
           "expirationDate": "2027-01-24"
         }
       ],
-      "pick": 40,
       "price": 20.0,
       "medPrice": 20.0,
       "salePrice": 12.0,
@@ -37900,6 +39891,7 @@
           "expirationDate": "2027-07-10"
         }
       ],
+      "pick": 109,
       "price": 35.0,
       "medPrice": 35.0,
       "salePrice": null,
@@ -38129,7 +40121,6 @@
           "expirationDate": "2027-03-05"
         }
       ],
-      "pick": 88,
       "price": 20.0,
       "medPrice": 20.0,
       "salePrice": 12.0,
@@ -38187,7 +40178,7 @@
           "expirationDate": "2027-03-12"
         }
       ],
-      "pick": 128,
+      "pick": 97,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": 24.0,
@@ -38245,7 +40236,7 @@
           "expirationDate": "2027-01-08"
         }
       ],
-      "pick": 27,
+      "pick": 18,
       "price": 35.0,
       "medPrice": 35.0,
       "salePrice": 21.0,
@@ -38359,7 +40350,7 @@
           "expirationDate": "2027-06-01"
         }
       ],
-      "pick": 129,
+      "pick": 98,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": 24.0,
@@ -38528,7 +40519,7 @@
           "expirationDate": "2027-04-16"
         }
       ],
-      "pick": 126,
+      "pick": 95,
       "price": 35.0,
       "medPrice": 35.0,
       "salePrice": 21.0,
@@ -38703,7 +40694,7 @@
           "expirationDate": "2027-03-19"
         }
       ],
-      "pick": 112,
+      "pick": 86,
       "price": 35.0,
       "medPrice": 35.0,
       "salePrice": 21.0,
@@ -39397,6 +41388,64 @@
       "deal": null,
       "orderUrl": null,
       "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
+      "id": 8695965,
+      "packageCount": 1,
+      "name": "Red Zushi PRJx2 (Two 0.5g Joints) 1.0g",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 9.0,
+      "unit": "Grams",
+      "strainName": "Red Zushi 1",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 22.21,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.37,
+        "CBN": 0.0,
+        "THCA": 25.14,
+        "THCV": 0.05
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.11,
+        "myrcene": 0.17,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.37,
+        "eudesmol": 0.09,
+        "beta-pinene": 0.08,
+        "limonene": 0.66,
+        "linalool": 0.12,
+        "nerolidol": 0.07
+      },
+      "totalTerps": 1.91,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8695965,
+          "label": "1A40303000000CB000046444",
+          "quantity": 9.0,
+          "packagedDate": "2026-07-08",
+          "expirationDate": "2027-03-28"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Pre-Rolls"
     },
     {
       "id": 8698886,
@@ -42434,7 +44483,7 @@
           "expirationDate": "2027-07-02"
         }
       ],
-      "pick": 106,
+      "pick": 82,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -42473,7 +44522,7 @@
           "expirationDate": null
         }
       ],
-      "pick": 73,
+      "pick": 57,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": 24.0,
@@ -42512,7 +44561,7 @@
           "expirationDate": null
         }
       ],
-      "pick": 72,
+      "pick": 56,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": 24.0,
@@ -43329,7 +45378,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 150.0,
+      "quantity": 145.0,
       "unit": "Grams",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -43362,7 +45411,7 @@
         {
           "id": 9312255,
           "label": "1A40303000040D9000007109",
-          "quantity": 150.0,
+          "quantity": 145.0,
           "packagedDate": "2026-11-19",
           "expirationDate": null
         }
@@ -43850,8 +45899,8 @@
       "posCategory": "Lotions & Balms"
     },
     {
-      "id": 8769659,
-      "packageCount": 1,
+      "id": 9013418,
+      "packageCount": 2,
       "name": "Curio Wellness Pain 1:1 Transdermal Stick-Infused Product-70g",
       "brand": "Curio Wellness",
       "producer": "Curio Manufacturing",
@@ -43860,20 +45909,20 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.194,
-        "totalCBD": 0.205,
+        "totalTHC": 0.201,
+        "totalCBD": 0.217,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
         "CBG": 0.0,
         "CBGA": 0.0,
-        "CBN": 0.011,
+        "CBN": 0.005,
         "THCA": 0.0
       },
       "dose": {
@@ -43881,21 +45930,28 @@
         "totalThcMg": 150.0,
         "thcMgPerServing": 2.0,
         "minorsMgPerServing": {
-          "totalCBD": 1.913,
+          "totalCBD": 2.025,
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
           "CBG": 0.0,
           "CBGA": 0.0,
-          "CBN": 0.103,
+          "CBN": 0.047,
           "THCA": 0.0
         },
         "minorsEstimated": true
       },
       "terpenes": {},
-      "totalTerps": 0.51,
+      "totalTerps": 0.62,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9013418,
+          "label": "1A403030000012D000267202",
+          "quantity": 12.0,
+          "packagedDate": "2026-09-17",
+          "expirationDate": "2027-07-30"
+        },
         {
           "id": 8769659,
           "label": "1A403030000012D000257034",
@@ -43961,7 +46017,7 @@
           "expirationDate": "2027-04-16"
         }
       ],
-      "pick": 90,
+      "pick": 67,
       "price": 35.0,
       "medPrice": 35.0,
       "salePrice": 21.0,
@@ -44637,6 +46693,7 @@
           "expirationDate": "2027-01-18"
         }
       ],
+      "pick": 33,
       "price": 80.0,
       "medPrice": 80.0,
       "salePrice": null,
@@ -44808,7 +46865,7 @@
           "expirationDate": "2027-04-02"
         }
       ],
-      "pick": 77,
+      "pick": 80,
       "price": 35.0,
       "medPrice": 35.0,
       "salePrice": 21.0,
@@ -46090,7 +48147,7 @@
           "expirationDate": "2027-04-24"
         }
       ],
-      "pick": 116,
+      "pick": 88,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -46499,7 +48556,7 @@
           "expirationDate": "2027-02-03"
         }
       ],
-      "pick": 55,
+      "pick": 46,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -48251,8 +50308,8 @@
       "posCategory": "Cartridges"
     },
     {
-      "id": 9005751,
-      "packageCount": 1,
+      "id": 9005668,
+      "packageCount": 2,
       "name": "Blue Hawaiian Distillate Vape Cart 1.0mL",
       "brand": null,
       "producer": "Evermore Cannabis",
@@ -48261,7 +50318,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Blue Hawaiian",
       "strainType": null,
@@ -48292,6 +50349,13 @@
       "totalTerps": 5.4,
       "dominantTerpene": "limonene",
       "packages": [
+        {
+          "id": 9005668,
+          "label": "1A4030300000C83000088090",
+          "quantity": 9.0,
+          "packagedDate": "2026-09-16",
+          "expirationDate": "2027-09-09"
+        },
         {
           "id": 9005751,
           "label": "1A4030300000C83000088091",
@@ -49216,7 +51280,6 @@
           "expirationDate": "2027-04-12"
         }
       ],
-      "pick": 24,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 27.0,
@@ -49333,7 +51396,7 @@
           "expirationDate": "2027-06-01"
         }
       ],
-      "pick": 122,
+      "pick": 92,
       "price": 35.0,
       "medPrice": 35.0,
       "salePrice": 21.0,
@@ -49697,6 +51760,65 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 9236730,
+      "packageCount": 1,
+      "name": "Curio Wellness Chill Tropical Zen All-in-One 1.0g Vape-1.0g",
+      "brand": "Curio Wellness",
+      "producer": "Curio Manufacturing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 24.0,
+      "unit": "Each",
+      "strainName": "Chill Tropical Zen All in One",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 51.95,
+        "totalCBD": 28.96,
+        "CBC": 0.86,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 1.53,
+        "CBGA": 0.0,
+        "CBN": 0.77,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.33,
+        "humulene": 0.34,
+        "myrcene": 2.29,
+        "alpha-pinene": 0.21,
+        "caryophyllene": 1.95,
+        "beta-pinene": 0.21,
+        "limonene": 1.16,
+        "linalool": 0.63,
+        "terpinolene": 0.15
+      },
+      "totalTerps": 7.79,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9236730,
+          "label": "1A403030000012D000278753",
+          "quantity": 24.0,
+          "packagedDate": "2026-11-05",
+          "expirationDate": "2027-10-14"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
       "id": 9079419,
       "packageCount": 1,
       "name": "Curio Wellness Grape Escape Vape (Indica)-1.0g",
@@ -50039,6 +52161,7 @@
           "expirationDate": "2027-03-11"
         }
       ],
+      "pick": 119,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": null,
@@ -51106,7 +53229,7 @@
           "expirationDate": "2027-05-18"
         }
       ],
-      "pick": 97,
+      "pick": 74,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -51164,7 +53287,7 @@
           "expirationDate": "2027-05-18"
         }
       ],
-      "pick": 79,
+      "pick": 73,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -51744,7 +53867,7 @@
           "expirationDate": "2027-01-11"
         }
       ],
-      "pick": 31,
+      "pick": 22,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 27.0,
@@ -51931,16 +54054,17 @@
     },
     {
       "id": 9271588,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Gas Guzzler (Live Resin) - Rythm (Hybrid Dominant) - 1000mg",
       "brand": "Rythm",
       "producer": "Chesapeake Alternatives",
       "category": "Vape",
       "metrcCategory": "Vape Cart",
       "locations": [
+        "Sales Floor",
         "Vault"
       ],
-      "quantity": 23.0,
+      "quantity": 34.0,
       "unit": "Each",
       "strainName": "Gas Guzzler",
       "strainType": "Hybrid",
@@ -51975,6 +54099,13 @@
           "label": "1A40303000003EA000294821",
           "quantity": 23.0,
           "packagedDate": "2026-11-12",
+          "expirationDate": "2027-10-06"
+        },
+        {
+          "id": 9164263,
+          "label": "1A40303000003EA000255075",
+          "quantity": 11.0,
+          "packagedDate": "2026-10-21",
           "expirationDate": "2027-10-06"
         }
       ],
@@ -52037,7 +54168,7 @@
           "expirationDate": "2027-03-04"
         }
       ],
-      "pick": 54,
+      "pick": 45,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -52387,7 +54518,7 @@
           "expirationDate": "2026-12-23"
         }
       ],
-      "pick": 19,
+      "pick": 13,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -52684,7 +54815,7 @@
           "expirationDate": "2027-01-13"
         }
       ],
-      "pick": 37,
+      "pick": 27,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 33.75,
@@ -52744,7 +54875,6 @@
           "expirationDate": "2027-02-09"
         }
       ],
-      "pick": 42,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 27.0,
@@ -52803,7 +54933,7 @@
           "expirationDate": "2027-02-18"
         }
       ],
-      "pick": 82,
+      "pick": 63,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -52863,7 +54993,7 @@
           "expirationDate": "2027-01-09"
         }
       ],
-      "pick": 29,
+      "pick": 19,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -53098,7 +55228,7 @@
           "expirationDate": "2027-04-20"
         }
       ],
-      "pick": 111,
+      "pick": 85,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -53214,7 +55344,7 @@
           "expirationDate": "2027-01-19"
         }
       ],
-      "pick": 41,
+      "pick": 35,
       "price": 30.0,
       "medPrice": 30.0,
       "salePrice": 18.0,
@@ -53445,7 +55575,7 @@
           "expirationDate": "2027-04-27"
         }
       ],
-      "pick": 127,
+      "pick": 96,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -53507,6 +55637,63 @@
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4596106",
       "posCategory": "Disposables"
+    },
+    {
+      "id": 9066512,
+      "packageCount": 1,
+      "name": "In House Acapulco Gold-1g",
+      "brand": "In House",
+      "producer": "Kind Therapeutics USA",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Acapulco Gold",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.7,
+        "CBC": 0.68,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.37,
+        "CBGA": 0.0,
+        "CBN": 0.44,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.25,
+        "myrcene": 1.02,
+        "alpha-pinene": 0.27,
+        "caryophyllene": 0.8,
+        "beta-pinene": 0.14,
+        "limonene": 1.13,
+        "linalool": 0.24,
+        "terpinolene": 0.1
+      },
+      "totalTerps": 4.03,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9066512,
+          "label": "1A4030300003522000215100",
+          "quantity": 25.0,
+          "packagedDate": "2026-09-29",
+          "expirationDate": "2027-08-25"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Cartridges"
     },
     {
       "id": 9124559,
@@ -53788,7 +55975,7 @@
           "expirationDate": "2027-01-11"
         }
       ],
-      "pick": 33,
+      "pick": 23,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": 24.0,
@@ -54070,7 +56257,6 @@
           "expirationDate": "2027-05-12"
         }
       ],
-      "pick": 85,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": 24.0,
@@ -54538,7 +56724,7 @@
           "expirationDate": "2027-05-11"
         }
       ],
-      "pick": 107,
+      "pick": 83,
       "price": 35.0,
       "medPrice": 35.0,
       "salePrice": 21.0,
@@ -54834,7 +57020,6 @@
           "expirationDate": "2027-05-27"
         }
       ],
-      "pick": 117,
       "price": 60.0,
       "medPrice": 60.0,
       "salePrice": 36.0,
@@ -55132,8 +57317,8 @@
       "posCategory": "Disposables"
     },
     {
-      "id": 9152269,
-      "packageCount": 2,
+      "id": 9218505,
+      "packageCount": 3,
       "name": "LORE 510 Cart Pineapple Express-1 gram",
       "brand": "LORE",
       "producer": "CERES NATURALS",
@@ -55142,7 +57327,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": null,
@@ -55173,6 +57358,13 @@
       "dominantTerpene": "alpha-pinene",
       "packages": [
         {
+          "id": 9218505,
+          "label": "1A4030300003201000001883",
+          "quantity": 9.0,
+          "packagedDate": "2026-11-02",
+          "expirationDate": "2027-10-15"
+        },
+        {
           "id": 9152269,
           "label": "1A4030300003201000001801",
           "quantity": 6.0,
@@ -55196,8 +57388,8 @@
       "posCategory": "Cartridges"
     },
     {
-      "id": 9152270,
-      "packageCount": 2,
+      "id": 9218506,
+      "packageCount": 3,
       "name": "LORE 510 Cart Super Lemon Cake-1 gram",
       "brand": "LORE",
       "producer": "CERES NATURALS",
@@ -55206,7 +57398,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": "Super Lemon Cake",
       "strainType": null,
@@ -55237,6 +57429,13 @@
       "dominantTerpene": "terpinolene",
       "packages": [
         {
+          "id": 9218506,
+          "label": "1A4030300003201000001884",
+          "quantity": 9.0,
+          "packagedDate": "2026-11-02",
+          "expirationDate": "2027-10-15"
+        },
+        {
           "id": 9152270,
           "label": "1A4030300003201000001802",
           "quantity": 15.0,
@@ -55260,8 +57459,8 @@
       "posCategory": "Cartridges"
     },
     {
-      "id": 9152271,
-      "packageCount": 2,
+      "id": 9218507,
+      "packageCount": 3,
       "name": "LORE AIO Berry Gelato-1 gram",
       "brand": "LORE",
       "producer": "CERES NATURALS",
@@ -55270,7 +57469,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": "AIO Berry Gelato",
       "strainType": null,
@@ -55302,6 +57501,13 @@
       "dominantTerpene": "limonene",
       "packages": [
         {
+          "id": 9218507,
+          "label": "1A4030300003201000001885",
+          "quantity": 9.0,
+          "packagedDate": "2026-11-02",
+          "expirationDate": "2027-10-15"
+        },
+        {
           "id": 9152271,
           "label": "1A4030300003201000001803",
           "quantity": 10.0,
@@ -55325,8 +57531,8 @@
       "posCategory": "Disposables"
     },
     {
-      "id": 9152272,
-      "packageCount": 2,
+      "id": 9218508,
+      "packageCount": 3,
       "name": "LORE AIO Maui Wowie-1 gram",
       "brand": "LORE",
       "producer": "CERES NATURALS",
@@ -55336,7 +57542,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 27.0,
+      "quantity": 36.0,
       "unit": "Each",
       "strainName": "AIO Maui Wowie",
       "strainType": null,
@@ -55367,6 +57573,13 @@
       "totalTerps": 5.8,
       "dominantTerpene": "caryophyllene",
       "packages": [
+        {
+          "id": 9218508,
+          "label": "1A4030300003201000001886",
+          "quantity": 9.0,
+          "packagedDate": "2026-11-02",
+          "expirationDate": "2027-10-15"
+        },
         {
           "id": 9152272,
           "label": "1A4030300003201000001804",
@@ -55555,7 +57768,7 @@
           "expirationDate": "2027-06-07"
         }
       ],
-      "pick": 63,
+      "pick": 90,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -55614,7 +57827,7 @@
           "expirationDate": "2027-04-10"
         }
       ],
-      "pick": 121,
+      "pick": 89,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -56260,7 +58473,7 @@
           "expirationDate": "2026-12-20"
         }
       ],
-      "pick": 13,
+      "pick": 7,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -56318,7 +58531,7 @@
           "expirationDate": "2026-12-20"
         }
       ],
-      "pick": 17,
+      "pick": 11,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -56377,7 +58590,7 @@
           "expirationDate": "2027-02-21"
         }
       ],
-      "pick": 113,
+      "pick": 87,
       "price": 70.0,
       "medPrice": 70.0,
       "salePrice": 42.0,
@@ -56436,7 +58649,6 @@
           "expirationDate": "2027-02-21"
         }
       ],
-      "pick": 101,
       "price": 70.0,
       "medPrice": 70.0,
       "salePrice": 42.0,
@@ -56495,7 +58707,7 @@
           "expirationDate": "2026-12-20"
         }
       ],
-      "pick": 16,
+      "pick": 9,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 27.0,
@@ -56554,6 +58766,7 @@
           "expirationDate": "2027-03-28"
         }
       ],
+      "pick": 110,
       "price": 70.0,
       "medPrice": 70.0,
       "salePrice": null,
@@ -56612,7 +58825,7 @@
           "expirationDate": "2026-12-20"
         }
       ],
-      "pick": 15,
+      "pick": 10,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 27.0,
@@ -56671,7 +58884,7 @@
           "expirationDate": "2026-12-20"
         }
       ],
-      "pick": 14,
+      "pick": 8,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 27.0,
@@ -56730,6 +58943,7 @@
           "expirationDate": "2027-02-21"
         }
       ],
+      "pick": 112,
       "price": 70.0,
       "medPrice": 70.0,
       "salePrice": null,
@@ -56787,6 +59001,7 @@
           "expirationDate": "2027-02-15"
         }
       ],
+      "pick": 111,
       "price": 70.0,
       "medPrice": 70.0,
       "salePrice": null,
@@ -57126,6 +59341,63 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4744126",
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 8182837,
+      "packageCount": 1,
+      "name": "MD-VP-MDFLWD-05CR",
+      "brand": null,
+      "producer": "MCP Processing",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 13.0,
+      "unit": "Each",
+      "strainName": "MD VP MDFLWD 05CR",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 69.8,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.61,
+        "CBN": 0.0,
+        "THCA": 11.84,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.34,
+        "humulene": 1.01,
+        "myrcene": 0.11,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 3.88,
+        "beta-pinene": 0.09,
+        "limonene": 0.61,
+        "linalool": 0.48
+      },
+      "totalTerps": 6.75,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8182837,
+          "label": "1A40303000007D1000060508",
+          "quantity": 13.0,
+          "packagedDate": "2026-03-11",
+          "expirationDate": "2027-02-19"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
       "posCategory": "Cartridges"
     },
     {
@@ -58309,7 +60581,7 @@
           "expirationDate": "2027-02-25"
         }
       ],
-      "pick": 52,
+      "pick": 43,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 27.0,
@@ -58541,6 +60813,7 @@
           "expirationDate": "2027-07-19"
         }
       ],
+      "pick": 102,
       "price": 60.0,
       "medPrice": 60.0,
       "salePrice": null,
@@ -58604,7 +60877,7 @@
           "expirationDate": "2027-04-21"
         }
       ],
-      "pick": 103,
+      "pick": 77,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": 24.0,
@@ -58723,6 +60996,7 @@
           "expirationDate": "2027-01-18"
         }
       ],
+      "pick": 34,
       "price": 60.0,
       "medPrice": 60.0,
       "salePrice": 36.0,
@@ -59070,7 +61344,7 @@
           "expirationDate": "2027-03-06"
         }
       ],
-      "pick": 56,
+      "pick": 47,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -59924,7 +62198,7 @@
           "expirationDate": "2027-01-22"
         }
       ],
-      "pick": 46,
+      "pick": 39,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -60729,7 +63003,6 @@
           "expirationDate": "2027-05-16"
         }
       ],
-      "pick": 110,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -60849,6 +63122,125 @@
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4727890",
       "posCategory": "Cartridges"
+    },
+    {
+      "id": 9226979,
+      "packageCount": 1,
+      "name": "Rocket Pop Distillate Slyde Rechargeable Vape Cart 2.0mL",
+      "brand": null,
+      "producer": "Evermore Cannabis",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 19.0,
+      "unit": "Each",
+      "strainName": "Rocket Pop Slyde Rechargeable",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.523,
+        "CBC": 0.644,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.47,
+        "CBGA": 0.0,
+        "CBN": 0.445,
+        "THCA": 0.0,
+        "THCV": 0.406
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.069,
+        "humulene": 0.038,
+        "myrcene": 0.083,
+        "alpha-pinene": 0.048,
+        "caryophyllene": 0.052,
+        "beta-pinene": 0.066,
+        "caryophyllene-oxide": 0.071,
+        "limonene": 0.605,
+        "linalool": 0.041,
+        "terpinolene": 0.078,
+        "nerolidol": 0.045
+      },
+      "totalTerps": 1.66,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9226979,
+          "label": "1A4030300000C83000044098",
+          "quantity": 19.0,
+          "packagedDate": "2026-11-04",
+          "expirationDate": "2027-10-23"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 9248936,
+      "packageCount": 1,
+      "name": "Rove Ready-To-Use Apricot Haze Live Resin Diamonds - S - 1.0 g",
+      "brand": null,
+      "producer": "Holistic Industries",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 20.0,
+      "unit": "Each",
+      "strainName": "Rove Ready To Use Apricot Haze",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.378,
+        "totalCBD": 0.5,
+        "CBC": 0.371,
+        "CBDA": 0.14,
+        "CBDV": 0.0,
+        "CBG": 3.769,
+        "CBGA": 0.0,
+        "CBN": 0.61,
+        "THCA": 0.0,
+        "THCV": 0.708
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.033,
+        "humulene": 0.032,
+        "myrcene": 0.064,
+        "alpha-pinene": 0.033,
+        "caryophyllene": 0.054,
+        "beta-pinene": 0.038,
+        "caryophyllene-oxide": 0.058,
+        "limonene": 0.198,
+        "linalool": 0.174
+      },
+      "totalTerps": 0.889,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9248936,
+          "label": "1A403030000012E000212513",
+          "quantity": 20.0,
+          "packagedDate": "2026-11-09",
+          "expirationDate": "2027-10-27"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Disposables"
     },
     {
       "id": 9040173,
@@ -61742,7 +64134,7 @@
     },
     {
       "id": 9233191,
-      "packageCount": 1,
+      "packageCount": 2,
       "name": "Rythm Pen (Liquid Diamonds) - Watermelon Z (Indica Dominant) - Vape Pen - 1000mg",
       "brand": "Rythm",
       "producer": "Chesapeake Alternatives",
@@ -61751,7 +64143,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 36.0,
       "unit": "Each",
       "strainName": "Watermelon Z",
       "strainType": "Indica",
@@ -61788,6 +64180,13 @@
           "quantity": 18.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-25"
+        },
+        {
+          "id": 9039337,
+          "label": "1A40303000003EA000258994",
+          "quantity": 18.0,
+          "packagedDate": "2026-09-23",
+          "expirationDate": "2027-09-01"
         }
       ],
       "price": 65.0,
@@ -62520,7 +64919,7 @@
           "expirationDate": "2027-01-02"
         }
       ],
-      "pick": 22,
+      "pick": 15,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -62645,6 +65044,62 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 8821028,
+      "packageCount": 1,
+      "name": "Sherbangin' Melted Diamonds AIO Helly Meltz - 1 g",
+      "brand": null,
+      "producer": "Holistic Industries",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 12.0,
+      "unit": "Each",
+      "strainName": "Sherbangin' Melted AIO Helly Meltz",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 90.88,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.16,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.06,
+        "myrcene": 0.06,
+        "alpha-pinene": 0.03,
+        "caryophyllene": 0.16,
+        "beta-pinene": 0.1,
+        "limonene": 1.61,
+        "terpinolene": 0.04
+      },
+      "totalTerps": 2.14,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 8821028,
+          "label": "1A403030000012E000181568",
+          "quantity": 12.0,
+          "packagedDate": "2026-08-05",
+          "expirationDate": "2027-07-17"
+        }
+      ],
+      "price": null,
+      "medPrice": null,
+      "salePrice": null,
+      "medSalePrice": null,
+      "deal": null,
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
       "id": 9270644,
       "packageCount": 1,
       "name": "Snowbody Knowz Distillate Cartridge Hellavated - 1.0 g",
@@ -62747,7 +65202,7 @@
           "expirationDate": "2026-12-26"
         }
       ],
-      "pick": 20,
+      "pick": 14,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -62798,7 +65253,7 @@
           "expirationDate": "2026-12-22"
         }
       ],
-      "pick": 18,
+      "pick": 12,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -63800,7 +66255,7 @@
           "expirationDate": "2027-01-29"
         }
       ],
-      "pick": 51,
+      "pick": 42,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -63914,7 +66369,6 @@
           "expirationDate": "2027-09-11"
         }
       ],
-      "pick": 93,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -64027,7 +66481,7 @@
           "expirationDate": "2027-02-13"
         }
       ],
-      "pick": 48,
+      "pick": 40,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -64141,7 +66595,6 @@
           "expirationDate": "2027-02-13"
         }
       ],
-      "pick": 47,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
@@ -64252,7 +66705,7 @@
           "expirationDate": "2027-06-19"
         }
       ],
-      "pick": 44,
+      "pick": 36,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": 24.0,
@@ -64311,7 +66764,7 @@
           "expirationDate": "2027-06-19"
         }
       ],
-      "pick": 45,
+      "pick": 38,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": 24.0,
@@ -64367,7 +66820,7 @@
           "expirationDate": "2027-06-19"
         }
       ],
-      "pick": 43,
+      "pick": 37,
       "price": 40.0,
       "medPrice": 40.0,
       "salePrice": 24.0,
@@ -64597,7 +67050,7 @@
           "expirationDate": "2027-01-14"
         }
       ],
-      "pick": 38,
+      "pick": 28,
       "price": 45.0,
       "medPrice": 45.0,
       "salePrice": 27.0,
@@ -64656,7 +67109,7 @@
           "expirationDate": "2027-03-16"
         }
       ],
-      "pick": 80,
+      "pick": 62,
       "price": 50.0,
       "medPrice": 50.0,
       "salePrice": 30.0,
