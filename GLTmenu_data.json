@@ -1,7 +1,8 @@
 {
-  "generated_at": "2026-11-23T17:30:03.105255+00:00",
+  "generated_at": "2026-11-23T17:37:38.561045+00:00",
   "license": "DA-23-00064",
   "locations": [
+    "40% Off",
     "Sales Floor",
     "Vault"
   ],
@@ -3594,7 +3595,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 29.0,
+      "quantity": 28.0,
       "unit": "Each",
       "strainName": "Lemon Funk",
       "strainType": null,
@@ -3637,7 +3638,7 @@
         {
           "id": 8862125,
           "label": "1A40303000037DD000025223",
-          "quantity": 28.0,
+          "quantity": 27.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-06-29"
         }
@@ -7176,6 +7177,65 @@
       "posCategory": "Concentrate"
     },
     {
+      "id": 8026080,
+      "packageCount": 1,
+      "name": "Triple Stack Live Budder - 1.0g",
+      "brand": null,
+      "producer": "Maryland Compassionate Care & Wellness",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "40% Off"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Triple Stack",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 69.19,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 1.67,
+        "CBN": 0.0,
+        "THCA": 78.89,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.25,
+        "humulene": 0.67,
+        "myrcene": 0.9,
+        "alpha-pinene": 0.21,
+        "caryophyllene": 2.98,
+        "beta-pinene": 0.33,
+        "limonene": 2.78,
+        "linalool": 1.14,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 10.03,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8026080,
+          "label": "1A4030300000193000083142",
+          "quantity": 10.0,
+          "packagedDate": "2026-02-03",
+          "expirationDate": "2026-12-08"
+        }
+      ],
+      "pick": 4,
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 27.0,
+      "medSalePrice": 27.0,
+      "deal": "40% Off",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4668898",
+      "posCategory": "Concentrate"
+    },
+    {
       "id": 9304983,
       "packageCount": 1,
       "name": "Voyager Live Resin Batter 1.0g/1000mg",
@@ -7409,6 +7469,70 @@
       "deal": "25% OFF Evermore",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4706866",
       "posCategory": "Concentrate"
+    },
+    {
+      "id": 7987789,
+      "packageCount": 1,
+      "name": "Dixie Elixir Single 10mg Berry Lemonade-10mg-1",
+      "brand": "Dixie",
+      "producer": "Curio Manufacturing",
+      "category": "Drink",
+      "metrcCategory": "Infused Liquid Edible",
+      "locations": [
+        "40% Off"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.017,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1 Bottle",
+        "totalThcMg": 10.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 7987789,
+          "label": "1A403030000012D000203969",
+          "quantity": 5.0,
+          "packagedDate": "2026-01-22",
+          "expirationDate": "2026-12-02"
+        }
+      ],
+      "pick": 3,
+      "price": 6.0,
+      "medPrice": 6.0,
+      "salePrice": 3.6,
+      "medSalePrice": 3.6,
+      "deal": "40% Off",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4448774",
+      "posCategory": "Edibles"
     },
     {
       "id": 8217232,
@@ -18577,7 +18701,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18618,7 +18742,7 @@
         {
           "id": 9262602,
           "label": "1A4030300003522000224775",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-21"
         }
@@ -29657,7 +29781,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 210.0,
+      "quantity": 196.0,
       "unit": "Grams",
       "strainName": "Murphy'z Law",
       "strainType": null,
@@ -29691,7 +29815,7 @@
         {
           "id": 9225546,
           "label": "1A40303000040D9000006809",
-          "quantity": 210.0,
+          "quantity": 196.0,
           "packagedDate": "2026-11-03",
           "expirationDate": "2027-11-02"
         }
@@ -34458,7 +34582,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.75,
+      "quantity": 6.0,
       "unit": "Grams",
       "strainName": "Chicken n' Wafflez",
       "strainType": null,
@@ -34490,7 +34614,7 @@
         {
           "id": 8854453,
           "label": "1A40303000003EA000202543",
-          "quantity": 6.75,
+          "quantity": 6.0,
           "packagedDate": "2026-08-12",
           "expirationDate": "2027-07-06"
         }
@@ -35546,6 +35670,66 @@
       "medSalePrice": 7.5,
       "deal": "25% OFF Evermore",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4738545",
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 7828141,
+      "packageCount": 1,
+      "name": "Fade Co Pre-Roll Pack (Blue Blockers) - Usable - 1g",
+      "brand": "Fade Co",
+      "producer": "Seven Points Agro-Therapeutics",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "40% Off"
+      ],
+      "quantity": 25.0,
+      "unit": "Grams",
+      "strainName": "Blue Blockers",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 19.93,
+        "totalCBD": 0.05,
+        "CBC": 0.0,
+        "CBDA": 0.06,
+        "CBDV": 0.0,
+        "CBG": 0.06,
+        "CBGA": 0.6,
+        "CBN": 0.0,
+        "THCA": 22.61,
+        "THCV": 0.1
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.16,
+        "myrcene": 0.14,
+        "alpha-pinene": 0.07,
+        "caryophyllene": 0.54,
+        "beta-pinene": 0.09,
+        "limonene": 0.59,
+        "linalool": 0.1,
+        "terpinolene": 0.02,
+        "nerolidol": 0.02
+      },
+      "totalTerps": 1.83,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 7828141,
+          "label": "1A4030300002EE1000114725",
+          "quantity": 25.0,
+          "packagedDate": "2025-12-03",
+          "expirationDate": "2026-11-28"
+        }
+      ],
+      "pick": 2,
+      "price": 15.0,
+      "medPrice": 15.0,
+      "salePrice": 9.0,
+      "medSalePrice": 9.0,
+      "deal": "40% Off",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4656466",
       "posCategory": "Pre-Rolls"
     },
     {
@@ -41111,7 +41295,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 50.0,
+      "quantity": 49.0,
       "unit": "Each",
       "strainName": "Purple Obeah",
       "strainType": null,
@@ -41145,7 +41329,7 @@
         {
           "id": 9304164,
           "label": "1A40303000000CB000059432",
-          "quantity": 50.0,
+          "quantity": 49.0,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-10-19"
         }
@@ -50707,6 +50891,65 @@
       "posCategory": "Disposables"
     },
     {
+      "id": 8063408,
+      "packageCount": 1,
+      "name": "Cereal Milk Cartridge (Live Resin) - Rythm (Hybrid) - 500mg",
+      "brand": "Rythm",
+      "producer": "Chesapeake Alternatives",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "40% Off"
+      ],
+      "quantity": 3.0,
+      "unit": "Each",
+      "strainName": "Cereal Milk",
+      "strainType": "Hybrid",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 77.3,
+        "CBC": 0.66,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 2.47,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.38,
+        "humulene": 1.02,
+        "myrcene": 0.29,
+        "alpha-pinene": 0.32,
+        "caryophyllene": 3.2,
+        "beta-pinene": 0.11,
+        "ocimene": 0.34,
+        "limonene": 1.88,
+        "linalool": 0.27,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 8.42,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 8063408,
+          "label": "1A40303000003EA000150862",
+          "quantity": 3.0,
+          "packagedDate": "2026-02-11",
+          "expirationDate": "2026-11-24"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 27.0,
+      "medSalePrice": 27.0,
+      "deal": "40% Off",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4502487",
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 8760585,
       "packageCount": 1,
       "name": "Cheetah Jet Fuel LR Vape Cart 1g Black",
@@ -50879,6 +51122,65 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174330",
+      "posCategory": "Cartridges"
+    },
+    {
+      "id": 7890139,
+      "packageCount": 1,
+      "name": "Cherry Maui Wowie Cartridge (Live Resin) - Rythm (Sativa Dominant) - 500mg",
+      "brand": "Rythm",
+      "producer": "Chesapeake Alternatives",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "40% Off"
+      ],
+      "quantity": 5.0,
+      "unit": "Each",
+      "strainName": "Cherry Maui Wowie",
+      "strainType": "Sativa",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 72.69,
+        "CBC": 0.64,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.26,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 2.61
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.29,
+        "humulene": 0.54,
+        "myrcene": 2.49,
+        "alpha-pinene": 0.1,
+        "caryophyllene": 2.04,
+        "eudesmol": 0.37,
+        "beta-pinene": 0.04,
+        "limonene": 0.72,
+        "linalool": 0.19
+      },
+      "totalTerps": 7.16,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 7890139,
+          "label": "1A40303000003EA000137329",
+          "quantity": 5.0,
+          "packagedDate": "2025-12-29",
+          "expirationDate": "2026-11-24"
+        }
+      ],
+      "pick": 1,
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 27.0,
+      "medSalePrice": 27.0,
+      "deal": "40% Off",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4538374",
       "posCategory": "Cartridges"
     },
     {
