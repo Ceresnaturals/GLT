@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T21:40:02.556584+00:00",
+  "generated_at": "2026-11-23T21:50:03.086471+00:00",
   "license": "DA-23-00064",
   "locations": [
     "40% Off",
@@ -7511,7 +7511,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 20.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7552,7 +7552,7 @@
         {
           "id": 9266455,
           "label": "1A40303000001F5000476180",
-          "quantity": 20.0,
+          "quantity": 18.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-09-22"
         }
@@ -7706,7 +7706,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7747,7 +7747,7 @@
         {
           "id": 9195881,
           "label": "1A40303000001F5000464092",
-          "quantity": 15.0,
+          "quantity": 13.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-09-25"
         }
@@ -7909,7 +7909,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7950,7 +7950,7 @@
         {
           "id": 9304705,
           "label": "1A40303000001F5000318350",
-          "quantity": 20.0,
+          "quantity": 18.0,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-09-29"
         }
@@ -11335,7 +11335,7 @@
       "category": "Edible",
       "metrcCategory": "Exempt Edible Product (Medical Only)",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 10.0,
       "unit": "Each",
@@ -11589,7 +11589,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11628,7 +11628,7 @@
         {
           "id": 9236739,
           "label": "1A403030000012D000278765",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-16"
         }
@@ -11723,7 +11723,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11762,7 +11762,7 @@
         {
           "id": 8926324,
           "label": "1A403030000012D000262979",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-27",
           "expirationDate": "2027-07-23"
         }
@@ -19355,71 +19355,6 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8607699,
-      "packageCount": 1,
-      "name": "Incredibles Gummy 100mg - Super Sour Apple Pucker - 10mg - 10 Pieces",
-      "brand": "Incredibles",
-      "producer": "Chesapeake Alternatives",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.28,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.03,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.9,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8607699,
-          "label": "1A40303000003EA000191722",
-          "quantity": 2.0,
-          "packagedDate": "2026-06-17",
-          "expirationDate": "2027-04-22"
-        }
-      ],
-      "price": 25.0,
-      "medPrice": 25.0,
-      "salePrice": 18.75,
-      "medSalePrice": 18.75,
-      "deal": "Maryland Monday! 25% OFF ALL GTI Products",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4541602",
-      "posCategory": "Edibles"
-    },
-    {
       "id": 9164272,
       "packageCount": 1,
       "name": "Incredibles Gummy 100mg - Watermelon Smash-10mg-10 Pieces",
@@ -19430,7 +19365,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19471,7 +19406,7 @@
         {
           "id": 9164272,
           "label": "1A40303000003EA000255091",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-15"
         }
@@ -19569,7 +19504,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -19610,7 +19545,7 @@
         {
           "id": 9130898,
           "label": "1A40303000003EA000253103",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-14",
           "expirationDate": "2027-09-03"
         }
@@ -26807,7 +26742,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 280.0,
+      "quantity": 252.0,
       "unit": "Grams",
       "strainName": "Lemon Blanc",
       "strainType": null,
@@ -26841,7 +26776,7 @@
         {
           "id": 9226755,
           "label": "1A40303000000CB000057875",
-          "quantity": 280.0,
+          "quantity": 252.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-10-26"
         }
@@ -27896,7 +27831,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 3.5,
       "unit": "Grams",
       "strainName": "Patapeake Shortbread",
       "strainType": null,
@@ -27928,7 +27863,7 @@
         {
           "id": 9197345,
           "label": "1A40303000000CB000057464",
-          "quantity": 7.0,
+          "quantity": 3.5,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-10-16"
         }
@@ -32173,7 +32108,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Grams",
       "strainName": "Gushcanna",
       "strainType": null,
@@ -32207,7 +32142,7 @@
         {
           "id": 8481832,
           "label": "1A4030300004845000023341",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-05-05",
           "expirationDate": "2027-04-30"
         }
@@ -47302,7 +47237,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Captain's Cake",
       "strainType": null,
@@ -47336,7 +47271,7 @@
         {
           "id": 9173945,
           "label": "1A403030000012D000277066",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-10-22",
           "expirationDate": "2027-06-16"
         }
@@ -56104,7 +56039,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Pink CertZ",
       "strainType": null,
@@ -56138,7 +56073,7 @@
         {
           "id": 9268337,
           "label": "1A4030300000C83000044371",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-08-14"
         }
