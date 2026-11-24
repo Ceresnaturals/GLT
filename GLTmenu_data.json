@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T21:00:03.290628+00:00",
+  "generated_at": "2026-11-24T21:10:04.268352+00:00",
   "license": "DA-23-00064",
   "locations": [
     "40% Off",
@@ -4384,60 +4384,6 @@
       "posCategory": "Concentrate"
     },
     {
-      "id": 9124366,
-      "packageCount": 1,
-      "name": "NH Bapple Fritz RSO-1ml",
-      "brand": "NH",
-      "producer": "Kind Therapeutics USA",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": "Bapple Fritz",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 75.33,
-        "CBC": 0.83,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.89,
-        "CBGA": 0.0,
-        "CBN": 0.38,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.5,
-        "humulene": 0.28,
-        "caryophyllene": 0.96,
-        "limonene": 0.13,
-        "linalool": 0.31
-      },
-      "totalTerps": 2.73,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 9124366,
-          "label": "1A4030300003522000219694",
-          "quantity": 2.0,
-          "packagedDate": "2026-10-13",
-          "expirationDate": "2027-05-12"
-        }
-      ],
-      "price": 50.0,
-      "medPrice": 50.0,
-      "salePrice": 30.0,
-      "medSalePrice": 30.0,
-      "deal": "Tokin Tuesday! 40% OFF Nature's Heritage Brands",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4657537",
-      "posCategory": "Concentrate"
-    },
-    {
       "id": 9262572,
       "packageCount": 1,
       "name": "NH Chimax Kief-1g",
@@ -5480,7 +5426,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -5518,7 +5464,7 @@
         {
           "id": 8996318,
           "label": "1A4030300003522000211335",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-15",
           "expirationDate": "2027-05-10"
         }
@@ -5532,42 +5478,51 @@
       "posCategory": "Concentrate"
     },
     {
-      "id": 8518846,
-      "packageCount": 1,
+      "id": 8939249,
+      "packageCount": 2,
       "name": "NH THC:CBD 1:1 RSO-1ml",
       "brand": "NH",
       "producer": "Kind Therapeutics USA",
       "category": "Concentrate",
       "metrcCategory": "Concentrate (Each)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 43.91,
-        "totalCBD": 45.97,
-        "CBC": 0.0,
+        "totalTHC": 41.25,
+        "totalCBD": 42.44,
+        "CBC": 0.41,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 1.56,
+        "CBG": 1.37,
         "CBGA": 0.0,
-        "CBN": 0.22,
+        "CBN": 0.23,
         "THCA": 0.0,
         "THCV": 0.0
       },
       "dose": null,
       "terpenes": {
         "humulene": 0.16,
-        "caryophyllene": 0.43,
-        "linalool": 0.23
+        "caryophyllene": 0.49,
+        "eudesmol": 0.2,
+        "linalool": 0.22
       },
-      "totalTerps": 1.07,
+      "totalTerps": 1.38,
       "dominantTerpene": "caryophyllene",
       "packages": [
+        {
+          "id": 8939249,
+          "label": "1A4030300003522000210583",
+          "quantity": 10.0,
+          "packagedDate": "2026-09-01",
+          "expirationDate": "2027-04-28"
+        },
         {
           "id": 8518846,
           "label": "1A4030300003522000192434",
@@ -8839,7 +8794,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8880,7 +8835,7 @@
         {
           "id": 9131063,
           "label": "1A40303000003EA000253102",
-          "quantity": 3.0,
+          "quantity": 1.0,
           "packagedDate": "2026-10-14",
           "expirationDate": "2027-08-05"
         }
@@ -9411,29 +9366,30 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9191001,
-      "packageCount": 1,
+      "id": 9262544,
+      "packageCount": 2,
       "name": "Betty's Eddies Orange Creme V3 Fruit Chews-10mg-10",
       "brand": "Betty's Eddies",
       "producer": "Kind Therapeutics USA",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.133,
-        "CBC": 0.065,
+        "totalTHC": 0.131,
+        "CBC": 0.062,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.006,
+        "CBG": 0.005,
         "CBGA": 0.0,
-        "CBN": 0.064,
+        "CBN": 0.061,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -9442,12 +9398,12 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "CBC": 0.461,
+          "CBC": 0.44,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.043,
+          "CBG": 0.036,
           "CBGA": 0.0,
-          "CBN": 0.454,
+          "CBN": 0.433,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -9457,6 +9413,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9262544,
+          "label": "1A4030300003522000224769",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-24"
+        },
         {
           "id": 9191001,
           "label": "1A4030300003522000227504",
@@ -10107,6 +10070,69 @@
       "medSalePrice": 27.0,
       "deal": "Tokin Tuesday! 40% OFF Nature's Heritage Brands",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174203",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9262608,
+      "packageCount": 1,
+      "name": "Betty's Eddies Strawberry V3 Fruit Chews-10mg-10",
+      "brand": "Betty's Eddies",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 22.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.14,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.006,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.043,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9262608,
+          "label": "1A4030300003522000224783",
+          "quantity": 22.0,
+          "packagedDate": "2026-11-11",
+          "expirationDate": "2027-10-13"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": 12.0,
+      "medSalePrice": 12.0,
+      "deal": "Tokin Tuesday! 40% OFF Nature's Heritage Brands",
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -25586,7 +25612,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.5,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Blueberry",
       "strainType": null,
@@ -25618,7 +25644,7 @@
         {
           "id": 9190729,
           "label": "1A4030300003521000062717",
-          "quantity": 10.5,
+          "quantity": 7.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-09-30"
         }
@@ -27554,7 +27580,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 59.5,
+      "quantity": 56.0,
       "unit": "Grams",
       "strainName": "Star 91",
       "strainType": null,
@@ -27588,7 +27614,7 @@
         {
           "id": 9190682,
           "label": "1A4030300003521000062723",
-          "quantity": 59.5,
+          "quantity": 56.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-03"
         }
@@ -29081,64 +29107,6 @@
       "medSalePrice": null,
       "deal": null,
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4682376",
-      "posCategory": "Pre-Packed Flower"
-    },
-    {
-      "id": 8919839,
-      "packageCount": 1,
-      "name": "Sneak Attack OG Pre-Pack (Popcorn) - Rythm (Hybrid) - Usable - 7g",
-      "brand": "Rythm",
-      "producer": "GTI Maryland",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 7.0,
-      "unit": "Grams",
-      "strainName": "Sneak Attack OG",
-      "strainType": "Hybrid",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 27.64,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.99,
-        "CBN": 0.0,
-        "THCA": 31.1,
-        "THCV": 0.14
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.03,
-        "myrcene": 0.12,
-        "alpha-pinene": 0.16,
-        "caryophyllene": 0.12,
-        "eudesmol": 0.09,
-        "beta-pinene": 0.16,
-        "ocimene": 0.12,
-        "limonene": 1.15,
-        "linalool": 0.35
-      },
-      "totalTerps": 2.69,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 8919839,
-          "label": "1A40303000003EA000206307",
-          "quantity": 7.0,
-          "packagedDate": "2026-08-26",
-          "expirationDate": "2027-07-29"
-        }
-      ],
-      "price": 80.0,
-      "medPrice": 80.0,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4724144",
       "posCategory": "Pre-Packed Flower"
     },
     {
@@ -37568,7 +37536,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Pineapple Express",
       "strainType": "Hybrid",
@@ -37601,7 +37569,7 @@
         {
           "id": 9233702,
           "label": "1A40303000003EA000176070",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-03"
         }
@@ -37800,7 +37768,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Strawberry Shortcake",
       "strainType": "Indica",
@@ -37833,7 +37801,7 @@
         {
           "id": 9164278,
           "label": "1A40303000003EA000255098",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-06-09"
         }
@@ -60155,62 +60123,6 @@
       "posCategory": "Cartridges"
     },
     {
-      "id": 8211761,
-      "packageCount": 1,
-      "name": "Tropic Thunder (NCD) - &Shine (Sativa) - Vape Pen - 1000mg",
-      "brand": "&Shine",
-      "producer": "Chesapeake Alternatives",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 15.0,
-      "unit": "Each",
-      "strainName": "Tropic Thunder",
-      "strainType": "Sativa",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 87.53,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 1.82,
-        "CBGA": 0.0,
-        "CBN": 1.2,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.15,
-        "myrcene": 0.71,
-        "alpha-pinene": 0.47,
-        "caryophyllene": 0.96,
-        "beta-pinene": 0.23,
-        "limonene": 0.24
-      },
-      "totalTerps": 2.76,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8211761,
-          "label": "1A40303000003EA000158872",
-          "quantity": 15.0,
-          "packagedDate": "2026-03-18",
-          "expirationDate": "2027-01-29"
-        }
-      ],
-      "pick": 42,
-      "price": 50.0,
-      "medPrice": 50.0,
-      "salePrice": 30.0,
-      "medSalePrice": 30.0,
-      "deal": "40% Off",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4679855",
-      "posCategory": "Disposables"
-    },
-    {
       "id": 9168519,
       "packageCount": 1,
       "name": "Tropical Z DV 0.5g/500mg",
@@ -60221,7 +60133,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Tropical Z DV",
       "strainType": null,
@@ -60257,7 +60169,7 @@
         {
           "id": 9168519,
           "label": "1A40303000001F5000462138",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-08-24"
         }
