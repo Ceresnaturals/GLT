@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:10:02.284054+00:00",
+  "generated_at": "2026-11-24T18:20:03.218957+00:00",
   "license": "DA-23-00064",
   "locations": [
     "40% Off",
@@ -24108,7 +24108,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 63.0,
+      "quantity": 59.5,
       "unit": "Grams",
       "strainName": "MICA",
       "strainType": null,
@@ -24143,7 +24143,7 @@
         {
           "id": 9274526,
           "label": "1A40303000000CD000084949",
-          "quantity": 63.0,
+          "quantity": 59.5,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-09-10"
         }
@@ -29072,7 +29072,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Sneak Attack OG",
       "strainType": "Hybrid",
@@ -29106,7 +29106,7 @@
         {
           "id": 8919839,
           "label": "1A40303000003EA000206307",
-          "quantity": 14.0,
+          "quantity": 7.0,
           "packagedDate": "2026-08-26",
           "expirationDate": "2027-07-29"
         }
@@ -31037,7 +31037,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Grams",
       "strainName": "Commerce City Kush",
       "strainType": null,
@@ -31068,7 +31068,7 @@
         {
           "id": 9073208,
           "label": "1A40303000001F5000453100",
-          "quantity": 27.0,
+          "quantity": 26.0,
           "packagedDate": "2026-09-30",
           "expirationDate": "2027-05-20"
         }
@@ -31251,6 +31251,63 @@
       "medSalePrice": 11.25,
       "deal": "Tokin Tuesday! 25% OFF all Pre-Rolls",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4535866",
+      "posCategory": "Pre-Rolls"
+    },
+    {
+      "id": 9310669,
+      "packageCount": 1,
+      "name": "Curio Wellness CW Blue Odder Popz 1 Pre-rolls-usable-2x0.5",
+      "brand": "Curio Wellness",
+      "producer": "Curio Manufacturing",
+      "category": "Pre-Roll",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 9.0,
+      "unit": "Grams",
+      "strainName": "Blue Odder Popz 1",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 24.55,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.21,
+        "CBN": 0.0,
+        "THCA": 27.46,
+        "THCV": 0.09
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.05,
+        "myrcene": 0.54,
+        "alpha-pinene": 0.76,
+        "caryophyllene": 0.18,
+        "beta-pinene": 0.27,
+        "limonene": 0.18,
+        "linalool": 0.11,
+        "terpinolene": 0.03
+      },
+      "totalTerps": 2.21,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9310669,
+          "label": "1A403030000012D000285715",
+          "quantity": 9.0,
+          "packagedDate": "2026-11-19",
+          "expirationDate": "2027-09-28"
+        }
+      ],
+      "price": 10.0,
+      "medPrice": 10.0,
+      "salePrice": 7.5,
+      "medSalePrice": 7.5,
+      "deal": "Tokin Tuesday! 25% OFF all Pre-Rolls",
+      "orderUrl": null,
       "posCategory": "Pre-Rolls"
     },
     {
@@ -33051,6 +33108,64 @@
       "posCategory": "Infused Pre-Roll/Concentrate"
     },
     {
+      "id": 9310861,
+      "packageCount": 1,
+      "name": "Kaviar Indica Infused Pre-Roll - 1.5g",
+      "brand": "Kaviar",
+      "producer": "Curio Manufacturing",
+      "category": "Pre-Roll",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 30.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": "Indica",
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 38.88,
+        "CBC": 0.36,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.89,
+        "CBGA": 0.48,
+        "CBN": 0.29,
+        "THCA": 15.27,
+        "THCV": 0.17
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.11,
+        "myrcene": 0.1,
+        "alpha-pinene": 0.02,
+        "caryophyllene": 0.4,
+        "beta-pinene": 0.02,
+        "limonene": 0.16,
+        "linalool": 0.14,
+        "terpinolene": 0.01
+      },
+      "totalTerps": 1.2,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9310861,
+          "label": "1A403030000012D000285724",
+          "quantity": 30.0,
+          "packagedDate": "2026-11-19",
+          "expirationDate": "2027-08-21"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 18.75,
+      "medSalePrice": 18.75,
+      "deal": "Tokin Tuesday! 25% OFF all Pre-Rolls",
+      "orderUrl": null,
+      "posCategory": "Infused Pre-Roll/Concentrate"
+    },
+    {
       "id": 8952597,
       "packageCount": 1,
       "name": "Kaviar Mini Pre-rolls (Hybrid)-5x0.6g",
@@ -33976,7 +34091,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Grams",
       "strainName": "Landfill Haze #19",
       "strainType": null,
@@ -34012,7 +34127,7 @@
         {
           "id": 9270378,
           "label": "1A403030000012E000214918",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-10-26"
         }
@@ -40209,7 +40324,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 353.5,
+      "quantity": 346.5,
       "unit": "Grams",
       "strainName": "Gush Mints TC",
       "strainType": null,
@@ -40239,7 +40354,7 @@
         {
           "id": 9073216,
           "label": "1A40303000001F5000453114",
-          "quantity": 353.5,
+          "quantity": 346.5,
           "packagedDate": "2026-09-30",
           "expirationDate": null
         }
@@ -40378,7 +40493,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 311.58,
+      "quantity": 297.58,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -40411,7 +40526,7 @@
         {
           "id": 8998460,
           "label": "1A40303000001F5000431290",
-          "quantity": 311.58,
+          "quantity": 297.58,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -40605,7 +40720,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 246.98,
+      "quantity": 239.98,
       "unit": "Grams",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -40638,7 +40753,7 @@
         {
           "id": 9099007,
           "label": "1A40303000040D9000006408",
-          "quantity": 246.98,
+          "quantity": 239.98,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
@@ -56590,7 +56705,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Raspberry Daydream DV",
       "strainType": null,
@@ -56626,7 +56741,7 @@
         {
           "id": 9229958,
           "label": "1A40303000001F5000467389",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-09-29"
         }
@@ -60045,7 +60160,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Cherry Limeade",
       "strainType": null,
@@ -60079,7 +60194,7 @@
         {
           "id": 8106933,
           "label": "1A40303000030D5000002728",
-          "quantity": 14.0,
+          "quantity": 13.0,
           "packagedDate": "2026-02-20",
           "expirationDate": "2027-06-19"
         }
