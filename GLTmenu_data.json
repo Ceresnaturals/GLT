@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T23:50:03.287497+00:00",
+  "generated_at": "2026-11-26T00:00:03.034739+00:00",
   "license": "DA-23-00064",
   "locations": [
     "40% Off",
@@ -559,7 +559,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Gelato Animal Mints",
       "strainType": null,
@@ -593,7 +593,7 @@
         {
           "id": 8188372,
           "label": "1A4030300002E7E000020898",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-03-12",
           "expirationDate": "2027-01-23"
         }
@@ -618,7 +618,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Rated R",
       "strainType": null,
@@ -652,7 +652,7 @@
         {
           "id": 8004877,
           "label": "1A4030300002E7E000017429",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-01-28",
           "expirationDate": "2027-01-15"
         }
@@ -7654,7 +7654,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7695,7 +7695,7 @@
         {
           "id": 9266458,
           "label": "1A40303000001F5000476183",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-14"
         }
@@ -7922,7 +7922,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7963,7 +7963,7 @@
         {
           "id": 9271071,
           "label": "1A4030300000C83000084274",
-          "quantity": 13.0,
+          "quantity": 11.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-09-16"
         }
@@ -8893,7 +8893,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 30.0,
+      "quantity": 29.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8939,7 +8939,7 @@
         {
           "id": 9191001,
           "label": "1A4030300003522000227504",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-07"
         }
@@ -9855,7 +9855,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9894,7 +9894,7 @@
         {
           "id": 9262609,
           "label": "1A4030300003522000224786",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-17"
         }
@@ -18077,71 +18077,6 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9308584,
-      "packageCount": 1,
-      "name": "Incredibles Gummy 100mg - Fast Acting Pineapple Express - 10mg - 10 Pieces",
-      "brand": "Incredibles",
-      "producer": "Chesapeake Alternatives",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 2.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.35,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.03,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "1 piece",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.9,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9308584,
-          "label": "1A40303000003EA000296760",
-          "quantity": 2.0,
-          "packagedDate": "2026-11-19",
-          "expirationDate": "2027-09-16"
-        }
-      ],
-      "price": 20.0,
-      "medPrice": 20.0,
-      "salePrice": 14.0,
-      "medSalePrice": 14.0,
-      "deal": "Green Wednesday 30% OFF storewide",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4574845",
-      "posCategory": "Edibles"
-    },
-    {
       "id": 9191545,
       "packageCount": 1,
       "name": "Incredibles Gummy 100mg - Lemon Lime Boost (1:2 THCv:THC) - 10mg - 10 Pieces",
@@ -24980,7 +24915,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 238.5,
+      "quantity": 235.0,
       "unit": "Grams",
       "strainName": "Banana Acai Mints",
       "strainType": null,
@@ -25014,7 +24949,7 @@
         {
           "id": 8518879,
           "label": "1A40303000007D1000064417",
-          "quantity": 238.5,
+          "quantity": 235.0,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-05-28"
         }
@@ -31893,7 +31828,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Lemon Blanc",
       "strainType": null,
@@ -31927,7 +31862,7 @@
         {
           "id": 9298307,
           "label": "1A40303000000CB000059289",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-11-06"
         }
@@ -36377,7 +36312,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 13.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": "Sunset Octane",
       "strainType": null,
@@ -36411,7 +36346,7 @@
         {
           "id": 9297390,
           "label": "1A40303000000CB000059292",
-          "quantity": 13.0,
+          "quantity": 12.0,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-10-23"
         }
@@ -37493,7 +37428,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 210.0,
+      "quantity": 206.5,
       "unit": "Grams",
       "strainName": "Gush Mints TC",
       "strainType": null,
@@ -37523,7 +37458,7 @@
         {
           "id": 9073216,
           "label": "1A40303000001F5000453114",
-          "quantity": 210.0,
+          "quantity": 206.5,
           "packagedDate": "2026-09-30",
           "expirationDate": null
         }
@@ -37662,7 +37597,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 203.08,
+      "quantity": 199.58,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -37695,7 +37630,7 @@
         {
           "id": 8998460,
           "label": "1A40303000001F5000431290",
-          "quantity": 203.08,
+          "quantity": 199.58,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -37775,7 +37710,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 135.0,
+      "quantity": 130.0,
       "unit": "Grams",
       "strainName": "RS11 x Skywalker OG",
       "strainType": null,
@@ -37808,7 +37743,7 @@
         {
           "id": 9313201,
           "label": "1A40303000040D9000007108",
-          "quantity": 135.0,
+          "quantity": 130.0,
           "packagedDate": "2026-11-19",
           "expirationDate": null
         }
@@ -37832,7 +37767,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 110.0,
+      "quantity": 105.0,
       "unit": "Grams",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -37865,7 +37800,7 @@
         {
           "id": 9312255,
           "label": "1A40303000040D9000007109",
-          "quantity": 110.0,
+          "quantity": 105.0,
           "packagedDate": "2026-11-19",
           "expirationDate": null
         }
@@ -37889,7 +37824,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 204.98,
+      "quantity": 201.48,
       "unit": "Grams",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -37922,7 +37857,7 @@
         {
           "id": 9099007,
           "label": "1A40303000040D9000006408",
-          "quantity": 204.98,
+          "quantity": 201.48,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
@@ -45788,64 +45723,6 @@
       "deal": "40% Off",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4682630",
       "posCategory": "Disposables"
-    },
-    {
-      "id": 9270745,
-      "packageCount": 1,
-      "name": "Grape GG Distillate Cartridge Strane - 1 g",
-      "brand": "Strane",
-      "producer": "Holistic Industries",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Grape GG",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 85.16,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 4.05,
-        "CBGA": 0.0,
-        "CBN": 0.69,
-        "THCA": 0.0,
-        "THCV": 0.47
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.22,
-        "myrcene": 1.68,
-        "alpha-pinene": 2.39,
-        "caryophyllene": 0.71,
-        "beta-pinene": 0.52,
-        "ocimene": 0.41,
-        "limonene": 1.0,
-        "linalool": 0.24,
-        "terpinolene": 0.2
-      },
-      "totalTerps": 7.5,
-      "dominantTerpene": "alpha-pinene",
-      "packages": [
-        {
-          "id": 9270745,
-          "label": "1A403030000012E000214934",
-          "quantity": 1.0,
-          "packagedDate": "2026-11-12",
-          "expirationDate": "2027-09-11"
-        }
-      ],
-      "price": 45.0,
-      "medPrice": 45.0,
-      "salePrice": 31.5,
-      "medSalePrice": 31.5,
-      "deal": "Green Wednesday 30% OFF storewide",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4421967",
-      "posCategory": "Cartridges"
     },
     {
       "id": 9095854,
@@ -55631,7 +55508,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "London Pound Cake",
       "strainType": null,
@@ -55669,7 +55546,7 @@
         {
           "id": 9266025,
           "label": "1A40303000001F5000476094",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-05"
         }
