@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T21:40:02.752105+00:00",
+  "generated_at": "2026-11-27T21:50:03.575021+00:00",
   "license": "DA-23-00064",
   "locations": [
     "40% Off",
@@ -9275,7 +9275,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9314,7 +9314,7 @@
         {
           "id": 9262559,
           "label": "1A4030300003522000224782",
-          "quantity": 16.0,
+          "quantity": 13.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-14"
         }
@@ -10110,7 +10110,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -10149,7 +10149,7 @@
         {
           "id": 9262609,
           "label": "1A4030300003522000224786",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-17"
         }
@@ -26712,6 +26712,64 @@
       "posCategory": "Pre-Packed Flower"
     },
     {
+      "id": 9304963,
+      "packageCount": 1,
+      "name": "SMG - Golden Pineapple - Pre Ground Bud - 10g",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 240.0,
+      "unit": "Grams",
+      "strainName": "Golden Pineapple",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 25.56,
+        "totalCBD": 0.32,
+        "CBDA": 0.05,
+        "CBG": 0.28,
+        "CBN": 0.01,
+        "THCA": 28.38
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.01,
+        "humulene": 0.04,
+        "myrcene": 0.28,
+        "alpha-pinene": 0.08,
+        "caryophyllene": 0.13,
+        "eudesmol": 0.02,
+        "beta-pinene": 0.06,
+        "ocimene": 0.22,
+        "limonene": 0.16,
+        "linalool": 0.01,
+        "terpinolene": 0.69,
+        "nerolidol": 0.01
+      },
+      "totalTerps": 1.94,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9304963,
+          "label": "1A40303000001F5000480357",
+          "quantity": 240.0,
+          "packagedDate": "2026-11-18",
+          "expirationDate": "2027-10-27"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 31.5,
+      "medSalePrice": 31.5,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4423788",
+      "posCategory": "Pre-Packed Flower"
+    },
+    {
       "id": 9265931,
       "packageCount": 1,
       "name": "SMG - Gush Mints - Pre Ground Bud - 10g",
@@ -26878,6 +26936,63 @@
       "deal": null,
       "orderUrl": null,
       "posCategory": null
+    },
+    {
+      "id": 9304964,
+      "packageCount": 1,
+      "name": "SMG - SDG OG - Pre Ground Bud - 10g",
+      "brand": null,
+      "producer": "Sunmed Growers",
+      "category": "Flower",
+      "metrcCategory": "Buds",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 220.0,
+      "unit": "Grams",
+      "strainName": "SDG OG",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 27.61,
+        "totalCBD": 0.28,
+        "CBDA": 0.04,
+        "CBG": 0.55,
+        "CBN": 0.04,
+        "THCA": 30.99
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.08,
+        "humulene": 0.36,
+        "myrcene": 0.57,
+        "alpha-pinene": 0.05,
+        "caryophyllene": 0.97,
+        "eudesmol": 0.01,
+        "beta-pinene": 0.06,
+        "limonene": 0.41,
+        "linalool": 0.17,
+        "terpinolene": 0.01,
+        "nerolidol": 0.02
+      },
+      "totalTerps": 2.82,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9304964,
+          "label": "1A40303000001F5000480358",
+          "quantity": 220.0,
+          "packagedDate": "2026-11-18",
+          "expirationDate": "2027-10-20"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 31.5,
+      "medSalePrice": 31.5,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4618283",
+      "posCategory": "Pre-Packed Flower"
     },
     {
       "id": 9265932,
@@ -32202,7 +32317,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Drag Queen",
       "strainType": null,
@@ -32232,7 +32347,7 @@
         {
           "id": 9030314,
           "label": "1A4030300003201000001690",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-22",
           "expirationDate": "2027-09-15"
         }
@@ -37971,7 +38086,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 108.58,
+      "quantity": 105.08,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -38004,7 +38119,7 @@
         {
           "id": 8998460,
           "label": "1A40303000001F5000431290",
-          "quantity": 108.58,
+          "quantity": 105.08,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
