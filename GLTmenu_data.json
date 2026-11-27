@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T21:10:02.576758+00:00",
+  "generated_at": "2026-11-27T21:20:03.417119+00:00",
   "license": "DA-23-00064",
   "locations": [
     "40% Off",
@@ -1282,7 +1282,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Jet Fuel",
       "strainType": null,
@@ -1310,7 +1310,7 @@
         {
           "id": 9107053,
           "label": "1A403030000283D000059765",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-10-08",
           "expirationDate": "2027-09-18"
         }
@@ -3027,7 +3027,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 24.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Lemon Funk",
       "strainType": null,
@@ -3063,7 +3063,7 @@
         {
           "id": 8862125,
           "label": "1A40303000037DD000025223",
-          "quantity": 24.0,
+          "quantity": 21.0,
           "packagedDate": "2026-08-13",
           "expirationDate": "2027-06-29"
         }
@@ -5910,7 +5910,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "RO CrdShatter GMOLato H MD",
       "strainType": null,
@@ -5943,7 +5943,7 @@
         {
           "id": 9246316,
           "label": "1A403030000238D000110916",
-          "quantity": 7.0,
+          "quantity": 2.0,
           "packagedDate": "2026-11-09",
           "expirationDate": "2027-10-10"
         }
@@ -5954,64 +5954,6 @@
       "medSalePrice": 24.5,
       "deal": "Black Friday 30% OFF storewide!",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4743111",
-      "posCategory": "Concentrate"
-    },
-    {
-      "id": 9160707,
-      "packageCount": 1,
-      "name": "RO-CrdShatter-1g-KushLato-I-MD (260917MED107830)",
-      "brand": null,
-      "producer": "Trulieve MD Processing",
-      "category": "Concentrate",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "RO CrdShatter KushLato I MD",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 74.88,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 1.54,
-        "CBN": 0.0,
-        "THCA": 85.38,
-        "THCV": 0.55
-      },
-      "dose": null,
-      "terpenes": {
-        "bisabolol": 0.27,
-        "humulene": 0.65,
-        "myrcene": 1.21,
-        "alpha-pinene": 0.14,
-        "caryophyllene": 2.58,
-        "beta-pinene": 0.21,
-        "limonene": 1.68,
-        "linalool": 0.41,
-        "terpinolene": 0.11
-      },
-      "totalTerps": 7.57,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 9160707,
-          "label": "1A403030000238D000109683",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-20",
-          "expirationDate": "2027-09-22"
-        }
-      ],
-      "price": 35.0,
-      "medPrice": 35.0,
-      "salePrice": 24.5,
-      "medSalePrice": 24.5,
-      "deal": "Black Friday 30% OFF storewide!",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4661132",
       "posCategory": "Concentrate"
     },
     {
@@ -7639,7 +7581,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7680,7 +7622,7 @@
         {
           "id": 9304702,
           "label": "1A40303000001F5000318349",
-          "quantity": 3.0,
+          "quantity": 1.0,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-09-29"
         }
@@ -8933,30 +8875,31 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9262604,
-      "packageCount": 1,
+      "id": 9329497,
+      "packageCount": 2,
       "name": "Betty's Eddies Cherry V5 Breast Cancer Awareness Fruit Chews-10mg-10",
       "brand": "Betty's Eddies",
       "producer": "Kind Therapeutics USA",
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 5.0,
+      "quantity": 30.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 0.153,
-        "totalCBD": 0.599,
-        "CBC": 0.07,
+        "totalTHC": 0.148,
+        "totalCBD": 0.594,
+        "CBC": 0.071,
         "CBDA": 0.0,
-        "CBDV": 0.002,
+        "CBDV": 0.0,
         "CBG": 0.006,
         "CBGA": 0.0,
-        "CBN": 0.0,
+        "CBN": 0.001,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -8965,13 +8908,13 @@
         "totalThcMg": 100.0,
         "thcMgPerServing": 10.0,
         "minorsMgPerServing": {
-          "totalCBD": 42.529,
-          "CBC": 4.97,
+          "totalCBD": 42.174,
+          "CBC": 5.041,
           "CBDA": 0.0,
-          "CBDV": 0.142,
+          "CBDV": 0.0,
           "CBG": 0.426,
           "CBGA": 0.0,
-          "CBN": 0.0,
+          "CBN": 0.071,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -8981,6 +8924,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9329497,
+          "label": "1A4030300003522000222627",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-10-20"
+        },
         {
           "id": 9262604,
           "label": "1A4030300003522000224778",
@@ -16185,7 +16135,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -16226,7 +16176,7 @@
         {
           "id": 9167685,
           "label": "1A4030300002009000119441",
-          "quantity": 8.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-08-24"
         }
@@ -23713,7 +23663,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 28.0,
+      "quantity": 24.5,
       "unit": "Grams",
       "strainName": "Garlic Kush",
       "strainType": null,
@@ -23746,7 +23696,7 @@
         {
           "id": 9225547,
           "label": "1A40303000040D9000006810",
-          "quantity": 28.0,
+          "quantity": 24.5,
           "packagedDate": "2026-11-03",
           "expirationDate": "2027-11-02"
         }
@@ -25397,7 +25347,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 189.0,
+      "quantity": 185.5,
       "unit": "Grams",
       "strainName": "Banana Acai Mints",
       "strainType": null,
@@ -25431,7 +25381,7 @@
         {
           "id": 8518879,
           "label": "1A40303000007D1000064417",
-          "quantity": 189.0,
+          "quantity": 185.5,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-05-28"
         }
@@ -25859,7 +25809,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 154.0,
+      "quantity": 140.0,
       "unit": "Grams",
       "strainName": "Murphy'z Law",
       "strainType": null,
@@ -25893,7 +25843,7 @@
         {
           "id": 9225546,
           "label": "1A40303000040D9000006809",
-          "quantity": 154.0,
+          "quantity": 140.0,
           "packagedDate": "2026-11-03",
           "expirationDate": "2027-11-02"
         }
@@ -26427,7 +26377,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 94.5,
+      "quantity": 91.0,
       "unit": "Grams",
       "strainName": "Pineapple Bang 5",
       "strainType": null,
@@ -26460,7 +26410,7 @@
         {
           "id": 9297370,
           "label": "1A40303000000CB000059287",
-          "quantity": 94.5,
+          "quantity": 91.0,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-10-05"
         }
@@ -27166,7 +27116,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Runtz Muffins",
       "strainType": null,
@@ -27201,7 +27151,7 @@
         {
           "id": 9280665,
           "label": "1A4030300003A3C000095577",
-          "quantity": 35.0,
+          "quantity": 28.0,
           "packagedDate": "2026-11-03",
           "expirationDate": "2027-11-03"
         }
@@ -27339,7 +27289,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.5,
+      "quantity": 7.0,
       "unit": "Grams",
       "strainName": "Blockberry",
       "strainType": null,
@@ -27371,7 +27321,7 @@
         {
           "id": 8751944,
           "label": "1A4030300002009000109421",
-          "quantity": 10.5,
+          "quantity": 7.0,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-06-26"
         }
@@ -29197,7 +29147,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.75,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Cherry Maui Wowie",
       "strainType": null,
@@ -29231,7 +29181,7 @@
         {
           "id": 9191543,
           "label": "1A40303000003EA000183206",
-          "quantity": 15.75,
+          "quantity": 14.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-08-05"
         }
@@ -37909,7 +37859,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 122.5,
+      "quantity": 115.5,
       "unit": "Grams",
       "strainName": "Gush Mints TC",
       "strainType": null,
@@ -37939,7 +37889,7 @@
         {
           "id": 9073216,
           "label": "1A40303000001F5000453114",
-          "quantity": 122.5,
+          "quantity": 115.5,
           "packagedDate": "2026-09-30",
           "expirationDate": null
         }
@@ -38078,7 +38028,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 119.08,
+      "quantity": 115.58,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -38111,7 +38061,7 @@
         {
           "id": 8998460,
           "label": "1A40303000001F5000431290",
-          "quantity": 119.08,
+          "quantity": 115.58,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -38191,7 +38141,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 110.0,
+      "quantity": 105.0,
       "unit": "Grams",
       "strainName": "RS11 x Skywalker OG",
       "strainType": null,
@@ -38224,7 +38174,7 @@
         {
           "id": 9313201,
           "label": "1A40303000040D9000007108",
-          "quantity": 110.0,
+          "quantity": 105.0,
           "packagedDate": "2026-11-19",
           "expirationDate": null
         }
@@ -40144,64 +40094,6 @@
       "deal": "Black Friday 30% OFF storewide!",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174123",
       "posCategory": "Cartridges"
-    },
-    {
-      "id": 9126267,
-      "packageCount": 1,
-      "name": "Airo Pod Midnight Moon Disposable Vape 1.0g/1000mg",
-      "brand": "Airo",
-      "producer": "SunMed Growers",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Midnight Moon",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 83.45,
-        "totalCBD": 0.15,
-        "CBC": 0.24,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 3.11,
-        "CBGA": 0.0,
-        "CBN": 0.43,
-        "THCA": 0.0,
-        "THCV": 0.26
-      },
-      "dose": null,
-      "terpenes": {
-        "myrcene": 1.31,
-        "alpha-pinene": 0.13,
-        "caryophyllene": 0.49,
-        "beta-pinene": 0.1,
-        "caryophyllene-oxide": 0.03,
-        "limonene": 3.71,
-        "linalool": 0.09,
-        "terpinolene": 0.92
-      },
-      "totalTerps": 6.96,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 9126267,
-          "label": "1A40303000001F5000458220",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-13",
-          "expirationDate": "2027-07-22"
-        }
-      ],
-      "price": 60.0,
-      "medPrice": 60.0,
-      "salePrice": 42.0,
-      "medSalePrice": 42.0,
-      "deal": "Black Friday 30% OFF storewide!",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4706339",
-      "posCategory": "Disposables"
     },
     {
       "id": 9168516,
