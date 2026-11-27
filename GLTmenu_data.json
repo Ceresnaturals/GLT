@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T19:10:03.422847+00:00",
+  "generated_at": "2026-11-27T19:20:03.541171+00:00",
   "license": "DA-23-00064",
   "locations": [
     "40% Off",
@@ -223,30 +223,31 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9124581,
-      "packageCount": 1,
+      "id": 9329865,
+      "packageCount": 2,
       "name": "NH RSO V1-10mg-10",
       "brand": "NH",
       "producer": "Kind Therapeutics USA",
       "category": "Capsule",
       "metrcCategory": "Infused Edible (Capsule Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
       "strainClass": null,
       "cannabinoids": {
-        "totalTHC": 1.82,
+        "totalTHC": 2.03,
         "totalCBD": 0.0,
         "CBC": 0.0,
         "CBDA": 0.0,
         "CBDV": 0.0,
-        "CBG": 0.06,
+        "CBG": 0.08,
         "CBGA": 0.0,
-        "CBN": 0.09,
+        "CBN": 0.11,
         "THCA": 0.0,
         "THCV": 0.0
       },
@@ -259,9 +260,9 @@
           "CBC": 0.0,
           "CBDA": 0.0,
           "CBDV": 0.0,
-          "CBG": 0.3,
+          "CBG": 0.4,
           "CBGA": 0.0,
-          "CBN": 0.45,
+          "CBN": 0.55,
           "THCA": 0.0,
           "THCV": 0.0
         },
@@ -271,6 +272,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9329865,
+          "label": "1A4030300003522000222639",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-07-29"
+        },
         {
           "id": 9124581,
           "label": "1A4030300003522000219695",
@@ -288,17 +296,18 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9262612,
-      "packageCount": 1,
+      "id": 9329868,
+      "packageCount": 2,
       "name": "NH RSO V1-50mg-20",
       "brand": "NH",
       "producer": "Kind Therapeutics USA",
       "category": "Capsule",
       "metrcCategory": "Infused Edible (Capsule Only)",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 2.0,
+      "quantity": 12.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -336,6 +345,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9329868,
+          "label": "1A4030300003522000222640",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-08-26"
+        },
         {
           "id": 9262612,
           "label": "1A4030300003522000224793",
@@ -7253,7 +7269,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7294,7 +7310,7 @@
         {
           "id": 9195881,
           "label": "1A40303000001F5000464092",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-10-28",
           "expirationDate": "2027-09-25"
         }
@@ -7456,7 +7472,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7497,7 +7513,7 @@
         {
           "id": 9304705,
           "label": "1A40303000001F5000318350",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-09-29"
         }
@@ -7650,7 +7666,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7691,7 +7707,7 @@
         {
           "id": 9304488,
           "label": "1A40303000001F5000318351",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-10-12"
         }
@@ -7846,7 +7862,7 @@
         "Sales Floor",
         "Vault"
       ],
-      "quantity": 26.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7894,7 +7910,7 @@
         {
           "id": 9233077,
           "label": "1A40303000001F5000467768",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-11"
         }
@@ -11271,7 +11287,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11310,7 +11326,7 @@
         {
           "id": 9310860,
           "label": "1A403030000012D000285723",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-11-19",
           "expirationDate": "2027-10-05"
         }
@@ -13228,7 +13244,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -13278,7 +13294,7 @@
         {
           "id": 9013194,
           "label": "1A403030000012D000267198",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-09-17",
           "expirationDate": "2027-08-18"
         }
@@ -14389,7 +14405,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -14428,7 +14444,7 @@
         {
           "id": 9245225,
           "label": "1A40303000017D5000112738",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-02",
           "expirationDate": "2027-09-02"
         }
@@ -19178,7 +19194,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -19217,7 +19233,7 @@
         {
           "id": 9274613,
           "label": "1A403030000012D000279616",
-          "quantity": 11.0,
+          "quantity": 9.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-08-18"
         }
@@ -22975,7 +22991,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 84.0,
+      "quantity": 77.0,
       "unit": "Grams",
       "strainName": "Velvet Pie",
       "strainType": null,
@@ -23011,7 +23027,7 @@
         {
           "id": 9166210,
           "label": "1A4030300004845000050123",
-          "quantity": 84.0,
+          "quantity": 77.0,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-09-29"
         }
@@ -24256,7 +24272,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 52.0,
+      "quantity": 48.0,
       "unit": "Grams",
       "strainName": "PurpleValley Grapes",
       "strainType": null,
@@ -24291,7 +24307,7 @@
         {
           "id": 9166213,
           "label": "1A4030300004845000050124",
-          "quantity": 52.0,
+          "quantity": 48.0,
           "packagedDate": "2026-10-13",
           "expirationDate": "2027-10-13"
         }
@@ -44960,7 +44976,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Flavor Series Fruit Bedrock BRIQ",
       "strainType": null,
@@ -44993,7 +45009,7 @@
         {
           "id": 8908840,
           "label": "1A4030300000193000106243",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-08-25",
           "expirationDate": "2027-03-23"
         }
@@ -45664,7 +45680,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Grape ade",
       "strainType": null,
@@ -45699,7 +45715,7 @@
         {
           "id": 9268437,
           "label": "1A4030300000C83000044369",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-11-02"
         }
@@ -46358,7 +46374,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Hibiscus Cooler",
       "strainType": null,
@@ -46394,7 +46410,7 @@
         {
           "id": 9268443,
           "label": "1A4030300000C83000044370",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-11-02"
         }
@@ -49940,7 +49956,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "White Widow",
       "strainType": null,
@@ -49974,7 +49990,7 @@
         {
           "id": 9233964,
           "label": "1A403030000283D000063181",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-08-01"
         }
