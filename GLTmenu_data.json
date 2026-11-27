@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T21:50:03.575021+00:00",
+  "generated_at": "2026-11-27T22:00:04.281106+00:00",
   "license": "DA-23-00064",
   "locations": [
     "40% Off",
@@ -2913,7 +2913,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": "White Inferno",
       "strainType": null,
@@ -2945,7 +2945,7 @@
         {
           "id": 9236760,
           "label": "1A4030300002199000070679",
-          "quantity": 17.0,
+          "quantity": 16.0,
           "packagedDate": "2026-10-14",
           "expirationDate": "2027-10-14"
         }
@@ -5155,7 +5155,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Orange Chemeleon",
       "strainType": null,
@@ -5189,7 +5189,7 @@
         {
           "id": 9190794,
           "label": "1A4030300003522000227524",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-09"
         }
@@ -6144,7 +6144,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 19.0,
+      "quantity": 18.0,
       "unit": "Each",
       "strainName": "Soul Safari",
       "strainType": null,
@@ -6179,7 +6179,7 @@
         {
           "id": 8385329,
           "label": "ABC0303000037DD000022424",
-          "quantity": 19.0,
+          "quantity": 18.0,
           "packagedDate": "2026-04-28",
           "expirationDate": "2027-01-22"
         }
@@ -8948,6 +8948,71 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9329816,
+      "packageCount": 1,
+      "name": "Betty's Eddies Cherry V5 Breast Cancer Awareness Fruit Chews-40mg-10",
+      "brand": "Betty's Eddies",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.581,
+        "totalCBD": 0.59,
+        "CBC": 0.072,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.029,
+        "CBGA": 0.0,
+        "CBN": 0.002,
+        "THCA": 0.0,
+        "THCV": 0.004
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 41.89,
+          "CBC": 5.112,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 2.059,
+          "CBGA": 0.0,
+          "CBN": 0.142,
+          "THCA": 0.0,
+          "THCV": 0.284
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9329816,
+          "label": "1A4030300003522000222628",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-10-20"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 31.5,
+      "medSalePrice": 31.5,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9262553,
       "packageCount": 1,
       "name": "Betty's Eddies Cranberry Orange V5 Fruit Chews Edible Product-10mg-10",
@@ -9013,6 +9078,55 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9329802,
+      "packageCount": 1,
+      "name": "Betty's Eddies Cranberry Orange V5 Fruit Chews-40mg-10",
+      "brand": "Betty's Eddies",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 411.59,
+        "totalCBD": 378.845
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 26897.995
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9329802,
+          "label": "1A4030300003522000222621",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-11-05"
+        }
+      ],
+      "price": 45.0,
+      "medPrice": 45.0,
+      "salePrice": 31.5,
+      "medSalePrice": 31.5,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9329482,
       "packageCount": 1,
       "name": "Betty's Eddies Lemon Agave Fruit Chews-10mg-2",
@@ -9071,6 +9185,71 @@
       "medPrice": 5.0,
       "salePrice": 3.5,
       "medSalePrice": 3.5,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9329599,
+      "packageCount": 1,
+      "name": "Betty's Eddies Lemon Agave V3 Fruit Chews-10mg-10",
+      "brand": "Betty's Eddies",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 50.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.129,
+        "totalCBD": 0.001,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.006,
+        "CBGA": 0.002,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.001
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.007,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.043,
+          "CBGA": 0.014,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.007
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9329599,
+          "label": "1A4030300003522000222620",
+          "quantity": 50.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-11-17"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": 14.0,
+      "medSalePrice": 14.0,
       "deal": "Black Friday 30% OFF storewide!",
       "orderUrl": null,
       "posCategory": "Edibles"
@@ -9841,6 +10020,71 @@
       "medSalePrice": 14.0,
       "deal": "Black Friday 30% OFF storewide!",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174198",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9329814,
+      "packageCount": 1,
+      "name": "Betty's Eddies Tropical Smoothie Fruit Chews-10mg-10",
+      "brand": "Betty's Eddies",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.141,
+        "totalCBD": 0.433,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.009,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 30.743,
+          "CBC": 0.142,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.639,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9329814,
+          "label": "1A4030300003522000222626",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-11-06"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": 14.0,
+      "medSalePrice": 14.0,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -15613,7 +15857,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15652,7 +15896,7 @@
         {
           "id": 9144878,
           "label": "1A40303000017D5000110716",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-08-05",
           "expirationDate": "2027-08-05"
         }
@@ -15676,7 +15920,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -15715,7 +15959,7 @@
         {
           "id": 9306940,
           "label": "1A40303000017D5000114675",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-09-28",
           "expirationDate": "2027-09-28"
         }
@@ -17868,7 +18112,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 25.0,
+      "quantity": 24.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -17909,7 +18153,7 @@
         {
           "id": 9329936,
           "label": "1A4030300003522000222637",
-          "quantity": 25.0,
+          "quantity": 24.0,
           "packagedDate": "2026-11-24",
           "expirationDate": "2027-10-30"
         }
@@ -21031,6 +21275,71 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9329872,
+      "packageCount": 1,
+      "name": "Vibations Half & Half Iced Tea Drink Mix V2-10mg-10",
+      "brand": null,
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.09,
+        "totalCBD": 0.1,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 10.291,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9329872,
+          "label": "1A4030300003522000222641",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-10-16"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": 14.0,
+      "medSalePrice": 14.0,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 8996313,
       "packageCount": 1,
       "name": "Vibations Half & Half Iced Tea Drink Mix V2-40mg-10",
@@ -21419,6 +21728,71 @@
       "medSalePrice": 14.0,
       "deal": "Black Friday 30% OFF storewide!",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4487422",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9329877,
+      "packageCount": 1,
+      "name": "Vibations Tropical Punch Drink Mix V1-40mg-10",
+      "brand": null,
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.29,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.03,
+        "THCA": 0.0,
+        "THCV": 0.04
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 3.93,
+          "THCA": 0.0,
+          "THCV": 5.24
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9329877,
+          "label": "1A4030300003522000222642",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-08-05"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": 28.0,
+      "medSalePrice": 28.0,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -22381,7 +22755,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 125.0,
+      "quantity": 121.5,
       "unit": "Grams",
       "strainName": "BLVCK Gelatti",
       "strainType": null,
@@ -22414,7 +22788,7 @@
         {
           "id": 8407107,
           "label": "1A40303000040D9000004497",
-          "quantity": 125.0,
+          "quantity": 121.5,
           "packagedDate": "2026-05-04",
           "expirationDate": "2027-05-04"
         }
@@ -25405,7 +25779,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 10.0,
       "unit": "Grams",
       "strainName": "Florida Wedding",
       "strainType": null,
@@ -25438,7 +25812,7 @@
         {
           "id": 8959242,
           "label": "1A40303000007D1000102092",
-          "quantity": 20.0,
+          "quantity": 10.0,
           "packagedDate": "2026-09-04",
           "expirationDate": "2027-08-11"
         }
@@ -26608,7 +26982,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 168.0,
+      "quantity": 164.5,
       "unit": "Grams",
       "strainName": "Berried Alive",
       "strainType": null,
@@ -26642,7 +27016,7 @@
         {
           "id": 8796890,
           "label": "1A40303000000CA000069412",
-          "quantity": 168.0,
+          "quantity": 164.5,
           "packagedDate": "2026-07-29",
           "expirationDate": "2027-07-29"
         }
@@ -27404,7 +27778,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 3.5,
       "unit": "Grams",
       "strainName": "Blockberry",
       "strainType": null,
@@ -27436,7 +27810,7 @@
         {
           "id": 8751944,
           "label": "1A4030300002009000109421",
-          "quantity": 7.0,
+          "quantity": 3.5,
           "packagedDate": "2026-07-21",
           "expirationDate": "2027-06-26"
         }
@@ -29776,7 +30150,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Grams",
       "strainName": "Cherry Cheesecake",
       "strainType": null,
@@ -29810,7 +30184,7 @@
         {
           "id": 9236732,
           "label": "1A403030000012D000278755",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-17"
         }
@@ -31112,7 +31486,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -31144,7 +31518,7 @@
         {
           "id": 9298304,
           "label": "1A40303000000CB000059288",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-10-23"
         }
@@ -34791,7 +35165,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": "Pineapple Bang 5",
       "strainType": null,
@@ -34825,7 +35199,7 @@
         {
           "id": 9297387,
           "label": "1A40303000000CB000059290",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-10-05"
         }
@@ -43880,7 +44254,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": "Captain's Cake",
       "strainType": null,
@@ -43914,7 +44288,7 @@
         {
           "id": 9173945,
           "label": "1A403030000012D000277066",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-10-22",
           "expirationDate": "2027-06-16"
         }
