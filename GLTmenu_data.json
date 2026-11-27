@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T17:10:02.253680+00:00",
+  "generated_at": "2026-11-27T17:20:02.973993+00:00",
   "license": "DA-23-00064",
   "locations": [
     "40% Off",
@@ -8495,7 +8495,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 22.0,
       "unit": "Each",
@@ -9012,10 +9012,9 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Sales Floor",
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 29.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -9054,7 +9053,7 @@
         {
           "id": 9262544,
           "label": "1A4030300003522000224769",
-          "quantity": 25.0,
+          "quantity": 22.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-24"
         },
@@ -25155,7 +25154,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 207.5,
+      "quantity": 204.0,
       "unit": "Grams",
       "strainName": "Banana Acai Mints",
       "strainType": null,
@@ -25189,7 +25188,7 @@
         {
           "id": 8518879,
           "label": "1A40303000007D1000064417",
-          "quantity": 207.5,
+          "quantity": 204.0,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-05-28"
         }
@@ -26810,7 +26809,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "Honeydew",
       "strainType": null,
@@ -26843,7 +26842,7 @@
         {
           "id": 9112178,
           "label": "1A4030300003A3C000092574",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-09-25",
           "expirationDate": "2027-09-25"
         }
@@ -35288,7 +35287,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Watermelon Z",
       "strainType": "Indica",
@@ -35322,7 +35321,7 @@
         {
           "id": 9164276,
           "label": "1A40303000003EA000255096",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-07-21"
         }
@@ -37951,7 +37950,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 171.58,
+      "quantity": 168.08,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -37984,7 +37983,7 @@
         {
           "id": 8998460,
           "label": "1A40303000001F5000431290",
-          "quantity": 171.58,
+          "quantity": 168.08,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -38178,7 +38177,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 194.48,
+      "quantity": 190.98,
       "unit": "Grams",
       "strainName": "Super Lemon Haze",
       "strainType": null,
@@ -38211,7 +38210,7 @@
         {
           "id": 9099007,
           "label": "1A40303000040D9000006408",
-          "quantity": 194.48,
+          "quantity": 190.98,
           "packagedDate": "2026-10-06",
           "expirationDate": null
         }
@@ -42344,63 +42343,6 @@
       "medSalePrice": 35.0,
       "deal": "Black Friday 30% OFF storewide!",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4734286",
-      "posCategory": "Disposables"
-    },
-    {
-      "id": 8996962,
-      "packageCount": 1,
-      "name": "Bloom | Live Surf | 1g | Sativa | Durban Gelato",
-      "brand": null,
-      "producer": "Green Leaf Extracts",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Durban Gelato",
-      "strainType": "Sativa",
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 88.3,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.07,
-        "CBGA": 0.06,
-        "CBN": 0.25,
-        "THCA": 5.81,
-        "THCV": 1.16
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.1,
-        "myrcene": 2.61,
-        "alpha-pinene": 0.79,
-        "caryophyllene": 0.25,
-        "beta-pinene": 0.02,
-        "ocimene": 0.75,
-        "limonene": 1.34,
-        "terpinolene": 0.17
-      },
-      "totalTerps": 6.49,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8996962,
-          "label": "1A4030300000579000049848",
-          "quantity": 1.0,
-          "packagedDate": "2026-08-17",
-          "expirationDate": "2027-08-24"
-        }
-      ],
-      "price": 50.0,
-      "medPrice": 50.0,
-      "salePrice": 35.0,
-      "medSalePrice": 35.0,
-      "deal": "Black Friday 30% OFF storewide!",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4630917",
       "posCategory": "Disposables"
     },
     {
@@ -47312,7 +47254,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Green Crack",
       "strainType": null,
@@ -47343,7 +47285,7 @@
         {
           "id": 8939357,
           "label": "1A4030300003522000210575",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-09-01",
           "expirationDate": "2027-07-21"
         }
@@ -55391,7 +55333,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 21.0,
+      "quantity": 20.0,
       "unit": "Each",
       "strainName": "Banana Pancakes",
       "strainType": null,
@@ -55428,7 +55370,7 @@
         {
           "id": 9265935,
           "label": "1A40303000001F5000476091",
-          "quantity": 21.0,
+          "quantity": 20.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-01"
         }
