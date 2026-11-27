@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T20:10:02.962127+00:00",
+  "generated_at": "2026-11-27T20:20:02.809684+00:00",
   "license": "DA-23-00064",
   "locations": [
     "40% Off",
@@ -1784,7 +1784,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 16.0,
+      "quantity": 15.0,
       "unit": "Each",
       "strainName": "Compound Z Preground",
       "strainType": null,
@@ -1822,7 +1822,7 @@
         {
           "id": 9270155,
           "label": "1A403030000012E000214911",
-          "quantity": 16.0,
+          "quantity": 15.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-05-18"
         }
@@ -2807,7 +2807,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": "Conncentrate",
       "strainType": null,
@@ -2837,7 +2837,7 @@
         {
           "id": 9167681,
           "label": "1A4030300002009000119435",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-05-05"
         }
@@ -8619,7 +8619,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 22.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -8660,7 +8660,7 @@
         {
           "id": 9271582,
           "label": "1A40303000003EA000294811",
-          "quantity": 22.0,
+          "quantity": 19.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-10-09"
         }
@@ -9006,7 +9006,7 @@
       "category": "Edible",
       "metrcCategory": "Infused Edible",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
       "quantity": 20.0,
       "unit": "Each",
@@ -11120,7 +11120,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 18.0,
+      "quantity": 16.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -11159,7 +11159,7 @@
         {
           "id": 9274609,
           "label": "1A403030000012D000279610",
-          "quantity": 18.0,
+          "quantity": 16.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-09-22"
         }
@@ -14704,7 +14704,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -14745,7 +14745,7 @@
         {
           "id": 9288666,
           "label": "1A40303000017D5000113957",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-10-12",
           "expirationDate": "2027-10-12"
         }
@@ -19283,7 +19283,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -19324,7 +19324,7 @@
         {
           "id": 9304978,
           "label": "1A40303000001F5000480373",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-08-10"
         }
@@ -21535,69 +21535,6 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9111308,
-      "packageCount": 1,
-      "name": "WYLD EB Gummies-10mg-10",
-      "brand": "WYLD",
-      "producer": "Bouquet Labs",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.274,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.01,
-        "CBGA": 0.0,
-        "CBN": 0.137,
-        "THCA": 0.0,
-        "THCV": 0.002
-      },
-      "dose": {
-        "servingSize": "1 gummy",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.4,
-          "CBGA": 0.0,
-          "CBN": 5.48,
-          "THCA": 0.0,
-          "THCV": 0.08
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 9111308,
-          "label": "1A403030000390D000073573",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-08",
-          "expirationDate": "2027-09-15"
-        }
-      ],
-      "price": null,
-      "medPrice": null,
-      "salePrice": null,
-      "medSalePrice": null,
-      "deal": null,
-      "orderUrl": null,
-      "posCategory": null
-    },
-    {
       "id": 9116399,
       "packageCount": 1,
       "name": "WYLD GF Gummies-10mg-10",
@@ -22608,7 +22545,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 98.0,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "Bodega Gas",
       "strainType": null,
@@ -22642,7 +22579,7 @@
         {
           "id": 8873580,
           "label": "1A403030000012E000183002",
-          "quantity": 98.0,
+          "quantity": 70.0,
           "packagedDate": "2026-08-17",
           "expirationDate": "2027-08-07"
         }
@@ -24701,9 +24638,9 @@
       "category": "Flower",
       "metrcCategory": "Buds",
       "locations": [
-        "Vault"
+        "Sales Floor"
       ],
-      "quantity": 154.0,
+      "quantity": 140.0,
       "unit": "Grams",
       "strainName": "66 INTERGALACTIC",
       "strainType": null,
@@ -24737,7 +24674,7 @@
         {
           "id": 9121387,
           "label": "1A40303000039D1000086416",
-          "quantity": 154.0,
+          "quantity": 140.0,
           "packagedDate": "2026-10-12",
           "expirationDate": "2027-09-04"
         }
@@ -25460,7 +25397,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 193.5,
+      "quantity": 192.5,
       "unit": "Grams",
       "strainName": "Banana Acai Mints",
       "strainType": null,
@@ -25494,7 +25431,7 @@
         {
           "id": 8518879,
           "label": "1A40303000007D1000064417",
-          "quantity": 193.5,
+          "quantity": 192.5,
           "packagedDate": "2026-05-28",
           "expirationDate": "2027-05-28"
         }
@@ -31573,7 +31510,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 18.0,
+      "quantity": 17.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Indica",
@@ -31607,7 +31544,7 @@
         {
           "id": 9236741,
           "label": "1A403030000012D000278767",
-          "quantity": 18.0,
+          "quantity": 17.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-08-05"
         }
@@ -34789,7 +34726,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 27.0,
+      "quantity": 26.0,
       "unit": "Each",
       "strainName": "Pineapple Bang 5",
       "strainType": null,
@@ -34823,7 +34760,7 @@
         {
           "id": 9297387,
           "label": "1A40303000000CB000059290",
-          "quantity": 27.0,
+          "quantity": 26.0,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-10-05"
         }
@@ -35019,7 +34956,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Red Zushi Isolate",
       "strainType": null,
@@ -35053,7 +34990,7 @@
         {
           "id": 9303594,
           "label": "1A4030300000C83000044764",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-11-09"
         }
@@ -36496,64 +36433,6 @@
       "posCategory": "Pre-Rolls"
     },
     {
-      "id": 8966427,
-      "packageCount": 1,
-      "name": "Strawberry Haze Hellavated Juicy Stickz - Infused Pre-rolls - 2.5 g",
-      "brand": "Hellavated",
-      "producer": "Holistic Industries",
-      "category": "Pre-Roll",
-      "metrcCategory": "Concentrate (Each)",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Strawberry Haze Juicy Stickz",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 35.8,
-        "totalCBD": 0.15,
-        "CBC": 0.09,
-        "CBDA": 0.05,
-        "CBDV": 0.0,
-        "CBG": 0.53,
-        "CBGA": 0.68,
-        "CBN": 0.22,
-        "THCA": 22.61,
-        "THCV": 0.12
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.11,
-        "myrcene": 0.05,
-        "alpha-pinene": 0.12,
-        "caryophyllene": 0.47,
-        "beta-pinene": 0.03,
-        "limonene": 0.13,
-        "linalool": 0.4,
-        "terpinolene": 0.03
-      },
-      "totalTerps": 1.37,
-      "dominantTerpene": "caryophyllene",
-      "packages": [
-        {
-          "id": 8966427,
-          "label": "1A403030000012E000192651",
-          "quantity": 1.0,
-          "packagedDate": "2026-09-08",
-          "expirationDate": "2027-05-13"
-        }
-      ],
-      "price": 40.0,
-      "medPrice": 40.0,
-      "salePrice": 28.0,
-      "medSalePrice": 28.0,
-      "deal": "Black Friday 30% OFF storewide!",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4727028",
-      "posCategory": "Infused Pre-Roll/Concentrate"
-    },
-    {
       "id": 9265937,
       "packageCount": 1,
       "name": "Sunnies - Jack Herer Diamond Dusters - Infused Joint - 0.5g - 5 - multi",
@@ -36687,7 +36566,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 13.0,
       "unit": "Each",
       "strainName": "Strawberry Candy",
       "strainType": null,
@@ -36720,7 +36599,7 @@
         {
           "id": 9229893,
           "label": "1A40303000001F5000467393",
-          "quantity": 15.0,
+          "quantity": 13.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-09-28"
         }
@@ -37436,7 +37315,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 23.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": "White OG",
       "strainType": null,
@@ -37469,7 +37348,7 @@
         {
           "id": 8826357,
           "label": "1A40303000003EA000195254",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-08-06",
           "expirationDate": "2027-07-02"
         }
@@ -37913,7 +37792,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 195.0,
+      "quantity": 180.0,
       "unit": "Grams",
       "strainName": "Candy Lemon Cherry Gelato",
       "strainType": null,
@@ -37947,7 +37826,7 @@
         {
           "id": 9290213,
           "label": "1A4030300004845000053793",
-          "quantity": 195.0,
+          "quantity": 180.0,
           "packagedDate": "2026-11-10",
           "expirationDate": null
         }
@@ -40395,7 +40274,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Berry Bliss",
       "strainType": null,
@@ -40431,7 +40310,7 @@
         {
           "id": 9168515,
           "label": "1A40303000001F5000462132",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-09-16"
         }
@@ -41736,7 +41615,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "Grapefruit Diesel",
       "strainType": null,
@@ -41770,7 +41649,7 @@
         {
           "id": 9292859,
           "label": "1A403030000283D000062528",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-11-17",
           "expirationDate": "2027-10-16"
         }
@@ -43288,7 +43167,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": "Clementine",
       "strainType": null,
@@ -43322,7 +43201,7 @@
         {
           "id": 8966538,
           "label": "1A403030000012E000192146",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-08",
           "expirationDate": "2027-07-17"
         }
@@ -55253,7 +55132,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Snowbody Knowz",
       "strainType": null,
@@ -55282,7 +55161,7 @@
         {
           "id": 9270644,
           "label": "1A403030000012E000214931",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-10-02"
         }
