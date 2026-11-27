@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T19:50:03.542966+00:00",
+  "generated_at": "2026-11-27T20:00:07.178096+00:00",
   "license": "DA-23-00064",
   "locations": [
     "40% Off",
@@ -103,7 +103,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -144,7 +144,7 @@
         {
           "id": 9271074,
           "label": "1A4030300000C83000084275",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-09-09"
         }
@@ -4346,6 +4346,64 @@
       "posCategory": "Concentrate"
     },
     {
+      "id": 9330004,
+      "packageCount": 1,
+      "name": "NH Gelato 33 Live Diamonds and Sauce-1g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Gelato and",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 67.29,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 2.31,
+        "CBN": 0.0,
+        "THCA": 64.2,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 1.02,
+        "myrcene": 0.19,
+        "alpha-pinene": 0.26,
+        "caryophyllene": 2.9,
+        "beta-pinene": 0.27,
+        "ocimene": 0.23,
+        "limonene": 2.41,
+        "linalool": 1.13,
+        "terpinolene": 0.05
+      },
+      "totalTerps": 9.68,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9330004,
+          "label": "1A4030300003522000222647",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-10-12"
+        }
+      ],
+      "price": 50.0,
+      "medPrice": 50.0,
+      "salePrice": 35.0,
+      "medSalePrice": 35.0,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
+      "posCategory": "Concentrate"
+    },
+    {
       "id": 9124567,
       "packageCount": 1,
       "name": "NH Governmint Oasis Live Sugar-1g",
@@ -4740,6 +4798,180 @@
       "deal": "Black Friday 30% OFF storewide!",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4208104",
       "posCategory": "Kief"
+    },
+    {
+      "id": 9330003,
+      "packageCount": 1,
+      "name": "NH Lemon Margy Bubble Hash-1g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Lemon Margy",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 66.99,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 3.04,
+        "CBN": 0.0,
+        "THCA": 73.18,
+        "THCV": 0.76
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.16,
+        "humulene": 0.14,
+        "myrcene": 0.26,
+        "alpha-pinene": 0.11,
+        "caryophyllene": 0.34,
+        "beta-pinene": 0.17,
+        "ocimene": 0.58,
+        "limonene": 0.32,
+        "terpinolene": 1.31
+      },
+      "totalTerps": 3.86,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9330003,
+          "label": "1A4030300003522000222645",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-09-08"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": 24.5,
+      "medSalePrice": 24.5,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
+      "posCategory": "Hash"
+    },
+    {
+      "id": 9329964,
+      "packageCount": 1,
+      "name": "NH Lilac Diesel Bubble Hash-1g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Lilac Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 60.93,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 5.56,
+        "CBN": 0.0,
+        "THCA": 63.57,
+        "THCV": 0.47
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.16,
+        "humulene": 0.19,
+        "myrcene": 0.12,
+        "alpha-pinene": 0.04,
+        "caryophyllene": 0.58,
+        "beta-pinene": 0.06,
+        "ocimene": 0.23,
+        "limonene": 0.1,
+        "terpinolene": 0.56
+      },
+      "totalTerps": 2.17,
+      "dominantTerpene": "caryophyllene",
+      "packages": [
+        {
+          "id": 9329964,
+          "label": "1A4030300003522000222644",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-06-27"
+        }
+      ],
+      "price": 35.0,
+      "medPrice": 35.0,
+      "salePrice": 24.5,
+      "medSalePrice": 24.5,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
+      "posCategory": "Hash"
+    },
+    {
+      "id": 9329970,
+      "packageCount": 1,
+      "name": "NH Lilac Diesel Live Rosin-1g",
+      "brand": "NH",
+      "producer": "Kind Therapeutics USA",
+      "category": "Concentrate",
+      "metrcCategory": "Concentrate (Each)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": "Lilac Diesel",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 70.91,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 6.4,
+        "CBN": 0.0,
+        "THCA": 80.85,
+        "THCV": 0.59
+      },
+      "dose": null,
+      "terpenes": {
+        "bisabolol": 0.3,
+        "humulene": 0.47,
+        "myrcene": 0.73,
+        "alpha-pinene": 0.21,
+        "caryophyllene": 1.71,
+        "beta-pinene": 0.27,
+        "ocimene": 0.97,
+        "limonene": 0.31,
+        "terpinolene": 2.44
+      },
+      "totalTerps": 7.75,
+      "dominantTerpene": "terpinolene",
+      "packages": [
+        {
+          "id": 9329970,
+          "label": "1A4030300003522000222646",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-10-11"
+        }
+      ],
+      "price": 55.0,
+      "medPrice": 55.0,
+      "salePrice": 38.5,
+      "medSalePrice": 38.5,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
+      "posCategory": "Concentrate"
     },
     {
       "id": 9262614,
@@ -7139,7 +7371,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7180,7 +7412,7 @@
         {
           "id": 9233073,
           "label": "1A40303000001F5000467764",
-          "quantity": 14.0,
+          "quantity": 11.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-10-16"
         }
@@ -8442,71 +8674,6 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 8481136,
-      "packageCount": 1,
-      "name": "Beezle Bites - Chews - Peach Solventless- 100mg THC-10mg-10",
-      "brand": "Beezle",
-      "producer": "Pro Green Medical",
-      "category": "Edible",
-      "metrcCategory": "Infused Edible",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": null,
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 0.24,
-        "totalCBD": 0.0,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.0,
-        "THCA": 0.0,
-        "THCV": 0.0
-      },
-      "dose": {
-        "servingSize": "4.5g",
-        "totalThcMg": 100.0,
-        "thcMgPerServing": 10.0,
-        "minorsMgPerServing": {
-          "totalCBD": 0.0,
-          "CBC": 0.0,
-          "CBDA": 0.0,
-          "CBDV": 0.0,
-          "CBG": 0.0,
-          "CBGA": 0.0,
-          "CBN": 0.0,
-          "THCA": 0.0,
-          "THCV": 0.0
-        },
-        "minorsEstimated": true
-      },
-      "terpenes": {},
-      "totalTerps": null,
-      "dominantTerpene": null,
-      "packages": [
-        {
-          "id": 8481136,
-          "label": "1A403030000283D000049426",
-          "quantity": 1.0,
-          "packagedDate": "2026-05-19",
-          "expirationDate": "2027-02-06"
-        }
-      ],
-      "price": 30.0,
-      "medPrice": 30.0,
-      "salePrice": 18.0,
-      "medSalePrice": 18.0,
-      "deal": "40% Off",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4517595",
-      "posCategory": "Edibles"
-    },
-    {
       "id": 8690677,
       "packageCount": 1,
       "name": "Beezle Bites - Chews - Raspberry Solventless - 100mg THC-10mg-10",
@@ -8701,6 +8868,71 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9329808,
+      "packageCount": 1,
+      "name": "Betty's Eddies Cherry Fruit Chews-10mg-2",
+      "brand": "Betty's Eddies",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.13,
+        "totalCBD": 0.536,
+        "CBC": 0.061,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.008,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 20.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 19.028,
+          "CBC": 2.165,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.284,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9329808,
+          "label": "1A4030300003522000222623",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-11-05"
+        }
+      ],
+      "price": 5.0,
+      "medPrice": 5.0,
+      "salePrice": 3.5,
+      "medSalePrice": 3.5,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9262604,
       "packageCount": 1,
       "name": "Betty's Eddies Cherry V5 Breast Cancer Awareness Fruit Chews-10mg-10",
@@ -8828,6 +9060,69 @@
       "medSalePrice": 17.5,
       "deal": "Black Friday 30% OFF storewide!",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4627545",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9329482,
+      "packageCount": 1,
+      "name": "Betty's Eddies Lemon Agave Fruit Chews-10mg-2",
+      "brand": "Betty's Eddies",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.145,
+        "CBC": 0.002,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.004,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.002
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 20.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.071,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.142,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.071
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9329482,
+          "label": "1A4030300003522000222624",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-11-03"
+        }
+      ],
+      "price": 5.0,
+      "medPrice": 5.0,
+      "salePrice": 3.5,
+      "medSalePrice": 3.5,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -9143,6 +9438,69 @@
       "medSalePrice": 31.5,
       "deal": "Black Friday 30% OFF storewide!",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174194",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9329500,
+      "packageCount": 1,
+      "name": "Betty's Eddies Pineapple Orange V3 Fruit Chews-10mg-10",
+      "brand": "Betty's Eddies",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.137,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.029,
+        "CBG": 0.067,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.206,
+          "CBG": 0.476,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9329500,
+          "label": "1A4030300003522000222629",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-10-16"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 17.5,
+      "medSalePrice": 17.5,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -9920,6 +10278,69 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9329905,
+      "packageCount": 1,
+      "name": "Bubby's Baked Chocolate Chip Bites V4-10mg-10",
+      "brand": null,
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.101,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.006,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.54,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9329905,
+          "label": "1A4030300003522000222632",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-05-13"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 17.5,
+      "medSalePrice": 17.5,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9262296,
       "packageCount": 1,
       "name": "Bubby's Baked Pumpkin Bites V4-10mg-10",
@@ -10047,6 +10468,69 @@
       "medSalePrice": 28.0,
       "deal": "Black Friday 30% OFF storewide!",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4739699",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9329806,
+      "packageCount": 1,
+      "name": "Bubby's Baked Red Velvet Bites-10mg-10",
+      "brand": null,
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 10.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.105,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.104,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 8.84,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9329806,
+          "label": "1A4030300003522000222622",
+          "quantity": 10.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-05-07"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 17.5,
+      "medSalePrice": 17.5,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -13773,7 +14257,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 7.0,
+      "quantity": 6.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -13814,7 +14298,7 @@
         {
           "id": 9090331,
           "label": "1A403030000012E000200803",
-          "quantity": 7.0,
+          "quantity": 6.0,
           "packagedDate": "2026-10-05",
           "expirationDate": "2027-05-26"
         }
@@ -16152,7 +16636,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -16193,7 +16677,7 @@
         {
           "id": 9167687,
           "label": "1A4030300002009000119445",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-03-27"
         }
@@ -16539,6 +17023,55 @@
       "posCategory": "Edibles"
     },
     {
+      "id": 9329842,
+      "packageCount": 1,
+      "name": "In House Cherry Lemonade Fast Acting V3 Gummies-10mg-10",
+      "brand": "In House",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Infused Edible",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 105.0,
+        "totalCBD": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 100.0,
+        "thcMgPerServing": 10.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9329842,
+          "label": "1A4030300003522000222633",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-11-10"
+        }
+      ],
+      "price": 20.0,
+      "medPrice": 20.0,
+      "salePrice": 14.0,
+      "medSalePrice": 14.0,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
+      "posCategory": "Edibles"
+    },
+    {
       "id": 9262603,
       "packageCount": 1,
       "name": "In House Peach Mango Fast Acting V2 Gummies-10mg-10",
@@ -16601,6 +17134,71 @@
       "medSalePrice": 14.0,
       "deal": "Black Friday 30% OFF storewide!",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=3664443",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9329921,
+      "packageCount": 1,
+      "name": "In House Peach Mango Fast Acting V2 Gummies-40mg-10",
+      "brand": "In House",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.765,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.0,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 0.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9329921,
+          "label": "1A4030300003522000222635",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-06-22"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": 24.0,
+      "medSalePrice": 24.0,
+      "deal": "40% Off",
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -17307,6 +17905,71 @@
       "medSalePrice": 28.0,
       "deal": "Black Friday 30% OFF storewide!",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174650",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9329936,
+      "packageCount": 1,
+      "name": "In House Wild Berry Fast Acting V2 Gummies-40mg-10",
+      "brand": "In House",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.73,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.04,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.05
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 2.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 2.5
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9329936,
+          "label": "1A4030300003522000222637",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-10-30"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": 28.0,
+      "medSalePrice": 28.0,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
       "posCategory": "Edibles"
     },
     {
@@ -22348,7 +23011,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 17.5,
+      "quantity": 14.0,
       "unit": "Grams",
       "strainName": "MICA",
       "strainType": null,
@@ -22383,7 +23046,7 @@
         {
           "id": 9274526,
           "label": "1A40303000000CD000084949",
-          "quantity": 17.5,
+          "quantity": 14.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-09-10"
         }
@@ -22934,7 +23597,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 77.0,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "Velvet Pie",
       "strainType": null,
@@ -22970,7 +23633,7 @@
         {
           "id": 9166210,
           "label": "1A4030300004845000050123",
-          "quantity": 77.0,
+          "quantity": 70.0,
           "packagedDate": "2026-09-29",
           "expirationDate": "2027-09-29"
         }
@@ -23113,7 +23776,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 35.0,
+      "quantity": 31.5,
       "unit": "Grams",
       "strainName": "Garlic Kush",
       "strainType": null,
@@ -23146,7 +23809,7 @@
         {
           "id": 9225547,
           "label": "1A40303000040D9000006810",
-          "quantity": 35.0,
+          "quantity": 31.5,
           "packagedDate": "2026-11-03",
           "expirationDate": "2027-11-02"
         }
@@ -25490,7 +26153,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 84.0,
+      "quantity": 80.5,
       "unit": "Grams",
       "strainName": "Orange Chemeleon",
       "strainType": null,
@@ -25524,7 +26187,7 @@
         {
           "id": 9262522,
           "label": "1A4030300003521000061244",
-          "quantity": 84.0,
+          "quantity": 80.5,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-09-30"
         }
@@ -25607,7 +26270,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 14.0,
+      "quantity": 10.5,
       "unit": "Grams",
       "strainName": "Star 91",
       "strainType": null,
@@ -25641,7 +26304,7 @@
         {
           "id": 9190682,
           "label": "1A4030300003521000062723",
-          "quantity": 14.0,
+          "quantity": 10.5,
           "packagedDate": "2026-10-27",
           "expirationDate": "2027-10-03"
         }
@@ -25665,7 +26328,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 56.0,
+      "quantity": 42.0,
       "unit": "Grams",
       "strainName": "Strawberry Jelly",
       "strainType": null,
@@ -25700,7 +26363,7 @@
         {
           "id": 9262524,
           "label": "1A4030300003521000061245",
-          "quantity": 56.0,
+          "quantity": 42.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-10-28"
         }
@@ -25827,7 +26490,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 98.0,
+      "quantity": 94.5,
       "unit": "Grams",
       "strainName": "Pineapple Bang 5",
       "strainType": null,
@@ -25860,7 +26523,7 @@
         {
           "id": 9297370,
           "label": "1A40303000000CB000059287",
-          "quantity": 98.0,
+          "quantity": 94.5,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-10-05"
         }
@@ -26226,7 +26889,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 52.5,
+      "quantity": 49.0,
       "unit": "Grams",
       "strainName": "Permanent Marker",
       "strainType": null,
@@ -26259,7 +26922,7 @@
         {
           "id": 9305018,
           "label": "1A40303000001F5000480355",
-          "quantity": 52.5,
+          "quantity": 49.0,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-04-20"
         }
@@ -30278,7 +30941,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 32.0,
+      "quantity": 31.0,
       "unit": "Each",
       "strainName": "Watermelon Zum Zum",
       "strainType": null,
@@ -30310,7 +30973,7 @@
         {
           "id": 8678456,
           "label": "1A4030300002009000107935",
-          "quantity": 32.0,
+          "quantity": 31.0,
           "packagedDate": "2026-07-02",
           "expirationDate": "2027-06-17"
         }
@@ -33842,7 +34505,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 9.0,
+      "quantity": 8.0,
       "unit": "Each",
       "strainName": "Orange Drizzle Isolate",
       "strainType": null,
@@ -33875,7 +34538,7 @@
         {
           "id": 9297383,
           "label": "1A4030300000C83000044670",
-          "quantity": 9.0,
+          "quantity": 8.0,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-10-12"
         }
@@ -34356,7 +35019,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 10.0,
+      "quantity": 9.0,
       "unit": "Each",
       "strainName": "Red Zushi Isolate",
       "strainType": null,
@@ -34390,7 +35053,7 @@
         {
           "id": 9303594,
           "label": "1A4030300000C83000044764",
-          "quantity": 10.0,
+          "quantity": 9.0,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-11-09"
         }
@@ -34759,7 +35422,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 12.0,
+      "quantity": 11.0,
       "unit": "Each",
       "strainName": "Maui Wowie",
       "strainType": "Sativa",
@@ -34792,7 +35455,7 @@
         {
           "id": 9308589,
           "label": "1A40303000003EA000296768",
-          "quantity": 12.0,
+          "quantity": 11.0,
           "packagedDate": "2026-11-19",
           "expirationDate": "2027-10-08"
         }
@@ -46543,6 +47206,63 @@
       "posCategory": "Cartridges"
     },
     {
+      "id": 9329591,
+      "packageCount": 1,
+      "name": "In House Blue Dream Disposable-.5g",
+      "brand": "In House",
+      "producer": "Kind Therapeutics USA",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Blue Dream",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 85.52,
+        "CBC": 0.61,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.18,
+        "CBGA": 0.0,
+        "CBN": 0.34,
+        "THCA": 0.0,
+        "THCV": 0.57
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.15,
+        "myrcene": 0.77,
+        "alpha-pinene": 1.2,
+        "caryophyllene": 0.4,
+        "beta-pinene": 0.25,
+        "ocimene": 0.27,
+        "limonene": 0.45,
+        "terpinolene": 0.13
+      },
+      "totalTerps": 3.62,
+      "dominantTerpene": "alpha-pinene",
+      "packages": [
+        {
+          "id": 9329591,
+          "label": "1A4030300003522000222616",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-10-05"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 17.5,
+      "medSalePrice": 17.5,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
       "id": 9190792,
       "packageCount": 1,
       "name": "In House Blue Dream Disposable-2g",
@@ -46995,6 +47715,180 @@
       "posCategory": null
     },
     {
+      "id": 9329476,
+      "packageCount": 1,
+      "name": "In House Maui Wowie Disposable-2g",
+      "brand": "In House",
+      "producer": "Kind Therapeutics USA",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Maui Wowie",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 84.78,
+        "CBC": 0.68,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.54,
+        "CBGA": 0.0,
+        "CBN": 0.31,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.27,
+        "myrcene": 0.95,
+        "alpha-pinene": 0.95,
+        "caryophyllene": 0.7,
+        "beta-pinene": 0.24,
+        "ocimene": 0.21,
+        "limonene": 0.88,
+        "linalool": 0.2,
+        "terpinolene": 0.14
+      },
+      "totalTerps": 4.61,
+      "dominantTerpene": "myrcene",
+      "packages": [
+        {
+          "id": 9329476,
+          "label": "1A4030300003522000222619",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-10-19"
+        }
+      ],
+      "price": 75.0,
+      "medPrice": 75.0,
+      "salePrice": 52.5,
+      "medSalePrice": 52.5,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 9329594,
+      "packageCount": 1,
+      "name": "In House Northern Lights Disposable-.5g",
+      "brand": "In House",
+      "producer": "Kind Therapeutics USA",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Northern Lights",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.4,
+        "CBC": 0.63,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.78,
+        "CBGA": 0.0,
+        "CBN": 0.26,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.29,
+        "myrcene": 0.47,
+        "alpha-pinene": 0.2,
+        "caryophyllene": 0.8,
+        "beta-pinene": 0.13,
+        "ocimene": 0.21,
+        "limonene": 1.26,
+        "linalool": 0.26,
+        "terpinolene": 0.16
+      },
+      "totalTerps": 3.86,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9329594,
+          "label": "1A4030300003522000222617",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-10-09"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 17.5,
+      "medSalePrice": 17.5,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 9329473,
+      "packageCount": 1,
+      "name": "In House Northern Lights-.5g",
+      "brand": "In House",
+      "producer": "Kind Therapeutics USA",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Northern Lights",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 83.04,
+        "CBC": 0.61,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 3.69,
+        "CBGA": 0.0,
+        "CBN": 0.23,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.29,
+        "myrcene": 0.47,
+        "alpha-pinene": 0.2,
+        "caryophyllene": 0.78,
+        "beta-pinene": 0.14,
+        "ocimene": 0.21,
+        "limonene": 1.24,
+        "linalool": 0.28,
+        "terpinolene": 0.16
+      },
+      "totalTerps": 3.86,
+      "dominantTerpene": "limonene",
+      "packages": [
+        {
+          "id": 9329473,
+          "label": "1A4030300003522000222615",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-10-09"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 17.5,
+      "medSalePrice": 17.5,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
+      "posCategory": "Cartridges"
+    },
+    {
       "id": 8996187,
       "packageCount": 1,
       "name": "In House Northern Lights-1g",
@@ -47224,6 +48118,64 @@
       "medSalePrice": 17.5,
       "deal": "Black Friday 30% OFF storewide!",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174671",
+      "posCategory": "Disposables"
+    },
+    {
+      "id": 9329595,
+      "packageCount": 1,
+      "name": "In House Tangie Disposable-.5g",
+      "brand": "In House",
+      "producer": "Kind Therapeutics USA",
+      "category": "Vape",
+      "metrcCategory": "Vape Cart",
+      "locations": [
+        "Sales Floor"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": "Tangie",
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 88.72,
+        "CBC": 0.67,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 4.0,
+        "CBGA": 0.0,
+        "CBN": 0.43,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": null,
+      "terpenes": {
+        "humulene": 0.2,
+        "myrcene": 0.43,
+        "alpha-pinene": 0.54,
+        "caryophyllene": 0.56,
+        "beta-pinene": 0.19,
+        "ocimene": 1.75,
+        "limonene": 1.22,
+        "linalool": 0.2,
+        "terpinolene": 0.22
+      },
+      "totalTerps": 5.45,
+      "dominantTerpene": "ocimene",
+      "packages": [
+        {
+          "id": 9329595,
+          "label": "1A4030300003522000222618",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-09-05"
+        }
+      ],
+      "price": 25.0,
+      "medPrice": 25.0,
+      "salePrice": 17.5,
+      "medSalePrice": 17.5,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": null,
       "posCategory": "Disposables"
     },
     {
