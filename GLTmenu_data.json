@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T18:30:03.112274+00:00",
+  "generated_at": "2026-11-27T18:40:03.016687+00:00",
   "license": "DA-23-00064",
   "locations": [
     "40% Off",
@@ -13154,7 +13154,7 @@
     },
     {
       "id": 9310675,
-      "packageCount": 2,
+      "packageCount": 1,
       "name": "Dixie Berry Blaze Sativa 10mg Medicated Chew-10mg-10",
       "brand": "Dixie",
       "producer": "Curio Manufacturing",
@@ -13163,7 +13163,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 25.0,
+      "quantity": 22.0,
       "unit": "Each",
       "strainName": null,
       "strainType": "Sativa",
@@ -13202,16 +13202,9 @@
         {
           "id": 9310675,
           "label": "1A403030000012D000285730",
-          "quantity": 23.0,
+          "quantity": 22.0,
           "packagedDate": "2026-11-19",
           "expirationDate": "2027-10-07"
-        },
-        {
-          "id": 9047761,
-          "label": "1A403030000012D000267870",
-          "quantity": 2.0,
-          "packagedDate": "2026-09-24",
-          "expirationDate": "2027-08-18"
         }
       ],
       "price": 20.0,
@@ -17221,6 +17214,71 @@
       "medSalePrice": 14.0,
       "deal": "Black Friday 30% OFF storewide!",
       "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174646",
+      "posCategory": "Edibles"
+    },
+    {
+      "id": 9329864,
+      "packageCount": 1,
+      "name": "In House Watermelon Fast Acting V2 Gummies-40mg-10",
+      "brand": "In House",
+      "producer": "Kind Therapeutics USA",
+      "category": "Edible",
+      "metrcCategory": "Exempt Edible Product (Medical Only)",
+      "locations": [
+        "Vault"
+      ],
+      "quantity": 25.0,
+      "unit": "Each",
+      "strainName": null,
+      "strainType": null,
+      "strainClass": null,
+      "cannabinoids": {
+        "totalTHC": 0.845,
+        "totalCBD": 0.0,
+        "CBC": 0.0,
+        "CBDA": 0.0,
+        "CBDV": 0.0,
+        "CBG": 0.1,
+        "CBGA": 0.0,
+        "CBN": 0.0,
+        "THCA": 0.0,
+        "THCV": 0.0
+      },
+      "dose": {
+        "servingSize": "1",
+        "totalThcMg": 400.0,
+        "thcMgPerServing": 40.0,
+        "minorsMgPerServing": {
+          "totalCBD": 0.0,
+          "CBC": 0.0,
+          "CBDA": 0.0,
+          "CBDV": 0.0,
+          "CBG": 5.0,
+          "CBGA": 0.0,
+          "CBN": 0.0,
+          "THCA": 0.0,
+          "THCV": 0.0
+        },
+        "minorsEstimated": true
+      },
+      "terpenes": {},
+      "totalTerps": null,
+      "dominantTerpene": null,
+      "packages": [
+        {
+          "id": 9329864,
+          "label": "1A4030300003522000222638",
+          "quantity": 25.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-09-11"
+        }
+      ],
+      "price": 40.0,
+      "medPrice": 40.0,
+      "salePrice": 28.0,
+      "medSalePrice": 28.0,
+      "deal": "Black Friday 30% OFF storewide!",
+      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4174650",
       "posCategory": "Edibles"
     },
     {
@@ -21922,64 +21980,6 @@
       "posCategory": "Bulk Flower"
     },
     {
-      "id": 8647960,
-      "packageCount": 1,
-      "name": "Baby Turtle Flower 3.5g",
-      "brand": null,
-      "producer": "Trulieve MD Cultivation",
-      "category": "Flower",
-      "metrcCategory": "Buds",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 3.5,
-      "unit": "Grams",
-      "strainName": "Baby Turtle",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 27.58,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.38,
-        "CBN": 0.0,
-        "THCA": 29.98,
-        "THCV": 0.11
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.07,
-        "myrcene": 1.36,
-        "alpha-pinene": 0.02,
-        "caryophyllene": 0.18,
-        "beta-pinene": 0.03,
-        "ocimene": 0.08,
-        "limonene": 0.18,
-        "linalool": 0.33
-      },
-      "totalTerps": 2.34,
-      "dominantTerpene": "myrcene",
-      "packages": [
-        {
-          "id": 8647960,
-          "label": "1A40303000000C9000160843",
-          "quantity": 3.5,
-          "packagedDate": "2026-06-25",
-          "expirationDate": "2027-06-21"
-        }
-      ],
-      "pick": 104,
-      "price": 55.0,
-      "medPrice": 55.0,
-      "salePrice": 33.0,
-      "medSalePrice": 33.0,
-      "deal": "40% Off",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4605543",
-      "posCategory": "Pre-Packed Flower"
-    },
-    {
       "id": 8968081,
       "packageCount": 1,
       "name": "Blue Garlic 8ths",
@@ -22105,7 +22105,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 56.0,
+      "quantity": 52.5,
       "unit": "Grams",
       "strainName": "Brownie Scout",
       "strainType": "Indica",
@@ -22140,7 +22140,7 @@
         {
           "id": 9233300,
           "label": "1A40303000003EA000176068",
-          "quantity": 56.0,
+          "quantity": 52.5,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-18"
         }
@@ -24490,7 +24490,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 420.0,
+      "quantity": 392.0,
       "unit": "Grams",
       "strainName": "Kush Breath",
       "strainType": null,
@@ -24524,7 +24524,7 @@
         {
           "id": 9147597,
           "label": "1A403030000012E000205838",
-          "quantity": 420.0,
+          "quantity": 392.0,
           "packagedDate": "2026-10-16",
           "expirationDate": "2027-09-09"
         }
@@ -24842,7 +24842,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 73.5,
+      "quantity": 70.0,
       "unit": "Grams",
       "strainName": "Lucky Orchard",
       "strainType": null,
@@ -24875,7 +24875,7 @@
         {
           "id": 9226756,
           "label": "1A40303000000CB000057876",
-          "quantity": 73.5,
+          "quantity": 70.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-09-29"
         }
@@ -26103,7 +26103,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 115.5,
+      "quantity": 112.0,
       "unit": "Grams",
       "strainName": "RS11 x Skywalker OG",
       "strainType": null,
@@ -26136,7 +26136,7 @@
         {
           "id": 9225173,
           "label": "1A40303000040D9000006808",
-          "quantity": 115.5,
+          "quantity": 112.0,
           "packagedDate": "2026-11-03",
           "expirationDate": "2027-11-02"
         }
@@ -27137,7 +27137,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 45.0,
+      "quantity": 42.5,
       "unit": "Grams",
       "strainName": "133 SWEET CINNAMON OCTANE",
       "strainType": null,
@@ -27170,7 +27170,7 @@
         {
           "id": 9121392,
           "label": "1A40303000039D1000086420",
-          "quantity": 45.0,
+          "quantity": 42.5,
           "packagedDate": "2026-10-12",
           "expirationDate": "2027-08-21"
         }
@@ -30549,7 +30549,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 20.0,
+      "quantity": 19.0,
       "unit": "Each",
       "strainName": "Ice Cream Cake",
       "strainType": null,
@@ -30581,7 +30581,7 @@
         {
           "id": 9298304,
           "label": "1A40303000000CB000059288",
-          "quantity": 20.0,
+          "quantity": 19.0,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-10-23"
         }
@@ -37068,7 +37068,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 42.0,
+      "quantity": 28.0,
       "unit": "Grams",
       "strainName": "Brr Berry",
       "strainType": null,
@@ -37101,7 +37101,7 @@
         {
           "id": 9135338,
           "label": "1A40303000000C9000175475",
-          "quantity": 42.0,
+          "quantity": 28.0,
           "packagedDate": "2026-10-14",
           "expirationDate": null
         }
@@ -37638,7 +37638,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 161.08,
+      "quantity": 157.58,
       "unit": "Grams",
       "strainName": "Sour Diesel",
       "strainType": null,
@@ -37671,7 +37671,7 @@
         {
           "id": 8998460,
           "label": "1A40303000001F5000431290",
-          "quantity": 161.08,
+          "quantity": 157.58,
           "packagedDate": "2026-09-15",
           "expirationDate": null
         }
@@ -37751,7 +37751,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 120.0,
+      "quantity": 115.0,
       "unit": "Grams",
       "strainName": "RS11 x Skywalker OG",
       "strainType": null,
@@ -37784,7 +37784,7 @@
         {
           "id": 9313201,
           "label": "1A40303000040D9000007108",
-          "quantity": 120.0,
+          "quantity": 115.0,
           "packagedDate": "2026-11-19",
           "expirationDate": null
         }
@@ -37922,7 +37922,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 112.0,
+      "quantity": 84.0,
       "unit": "Grams",
       "strainName": "Wedding Cake",
       "strainType": null,
@@ -37955,7 +37955,7 @@
         {
           "id": 9144132,
           "label": "1A40303000000C9000176522",
-          "quantity": 112.0,
+          "quantity": 84.0,
           "packagedDate": "2026-10-16",
           "expirationDate": null
         }
@@ -40647,7 +40647,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Baja Blue DV",
       "strainType": null,
@@ -40681,7 +40681,7 @@
         {
           "id": 9229960,
           "label": "1A40303000001F5000467390",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-11-04",
           "expirationDate": "2027-03-19"
         }
@@ -45668,7 +45668,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 4.0,
+      "quantity": 3.0,
       "unit": "Each",
       "strainName": "Grape Stomper",
       "strainType": null,
@@ -45701,7 +45701,7 @@
         {
           "id": 9270500,
           "label": "1A403030000012E000214925",
-          "quantity": 4.0,
+          "quantity": 3.0,
           "packagedDate": "2026-11-12",
           "expirationDate": "2027-09-18"
         }
@@ -52655,7 +52655,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 6.0,
+      "quantity": 5.0,
       "unit": "Each",
       "strainName": "Rove Reload Slush Pop",
       "strainType": null,
@@ -52692,7 +52692,7 @@
         {
           "id": 9324069,
           "label": "1A403030000012E000220103",
-          "quantity": 6.0,
+          "quantity": 5.0,
           "packagedDate": "2026-11-23",
           "expirationDate": "2027-10-26"
         }
