@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T17:40:02.902984+00:00",
+  "generated_at": "2026-11-28T17:50:03.979520+00:00",
   "license": "DA-23-00064",
   "locations": [
     "40% Off",
@@ -2392,7 +2392,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 11.0,
+      "quantity": 10.0,
       "unit": "Each",
       "strainName": "Funky Lemon Cream Cake",
       "strainType": null,
@@ -2427,7 +2427,7 @@
         {
           "id": 9164808,
           "label": "1A4030300000C83000042728",
-          "quantity": 11.0,
+          "quantity": 10.0,
           "packagedDate": "2026-10-21",
           "expirationDate": "2027-10-09"
         }
@@ -2689,7 +2689,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 15.0,
+      "quantity": 14.0,
       "unit": "Each",
       "strainName": "Juice",
       "strainType": null,
@@ -2724,7 +2724,7 @@
         {
           "id": 9300985,
           "label": "1A4030300000C83000044758",
-          "quantity": 15.0,
+          "quantity": 14.0,
           "packagedDate": "2026-11-18",
           "expirationDate": "2027-11-05"
         }
@@ -7705,17 +7705,18 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9304488,
-      "packageCount": 1,
+      "id": 9331060,
+      "packageCount": 2,
       "name": "Sunnies Mocktail No. 2 Bright Grapefruit -10mg -1",
       "brand": "Sunnies",
       "producer": "SunMed Growers",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 7.0,
+      "quantity": 31.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7753,6 +7754,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9331060,
+          "label": "1A40303000001F5000482489",
+          "quantity": 24.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-10-12"
+        },
         {
           "id": 9304488,
           "label": "1A40303000001F5000318351",
@@ -18117,7 +18125,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 3.0,
+      "quantity": 2.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -18158,7 +18166,7 @@
         {
           "id": 9003338,
           "label": "1A40303000003EA000266187",
-          "quantity": 3.0,
+          "quantity": 2.0,
           "packagedDate": "2026-09-16",
           "expirationDate": "2027-07-02"
         }
@@ -42146,64 +42154,6 @@
       "posCategory": "Disposables"
     },
     {
-      "id": 9197810,
-      "packageCount": 1,
-      "name": "Bloom GMO Cookies Live Surf AIO- 1g",
-      "brand": null,
-      "producer": "MCP Processing",
-      "category": "Vape",
-      "metrcCategory": "Vape Cart",
-      "locations": [
-        "Sales Floor"
-      ],
-      "quantity": 1.0,
-      "unit": "Each",
-      "strainName": "Bloom GMO Cookies Surf AIO",
-      "strainType": null,
-      "strainClass": null,
-      "cannabinoids": {
-        "totalTHC": 92.08,
-        "CBC": 0.0,
-        "CBDA": 0.0,
-        "CBDV": 0.0,
-        "CBG": 0.0,
-        "CBGA": 0.0,
-        "CBN": 0.13,
-        "THCA": 0.0,
-        "THCV": 0.42
-      },
-      "dose": null,
-      "terpenes": {
-        "humulene": 0.4,
-        "myrcene": 0.26,
-        "alpha-pinene": 0.39,
-        "caryophyllene": 1.36,
-        "beta-pinene": 0.16,
-        "ocimene": 0.44,
-        "limonene": 1.5,
-        "linalool": 0.24,
-        "terpinolene": 0.09
-      },
-      "totalTerps": 4.97,
-      "dominantTerpene": "limonene",
-      "packages": [
-        {
-          "id": 9197810,
-          "label": "1A40303000007D1000100938",
-          "quantity": 1.0,
-          "packagedDate": "2026-10-28",
-          "expirationDate": "2027-09-20"
-        }
-      ],
-      "price": 50.0,
-      "medPrice": 50.0,
-      "salePrice": 35.0,
-      "medSalePrice": 35.0,
-      "deal": "Saturdaze Delights! 30% OFF Disposables",
-      "orderUrl": "https://www.greenlighttherapeutics.com/our-menu?dtche[poscid]=4630916",
-      "posCategory": "Disposables"
-    },
-    {
       "id": 9093395,
       "packageCount": 1,
       "name": "Bloom Guava Belts Classic Surf AIO- 1g",
@@ -44359,7 +44309,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": "DBS LvResHTEAIO GMOxRainbowBlts I MD",
       "strainType": null,
@@ -44393,7 +44343,7 @@
         {
           "id": 9160018,
           "label": "1A403030000238D000109681",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-10-20",
           "expirationDate": "2027-09-29"
         }
