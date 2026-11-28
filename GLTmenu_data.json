@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T17:20:02.908134+00:00",
+  "generated_at": "2026-11-28T17:30:05.048659+00:00",
   "license": "DA-23-00064",
   "locations": [
     "40% Off",
@@ -7454,17 +7454,18 @@
       "posCategory": "Edibles"
     },
     {
-      "id": 9304702,
-      "packageCount": 1,
+      "id": 9331057,
+      "packageCount": 2,
       "name": "Keef - Pineapple X-Press - 10mg - 1",
       "brand": null,
       "producer": "SunMed Growers",
       "category": "Drink",
       "metrcCategory": "Infused Liquid Edible",
       "locations": [
-        "Sales Floor"
+        "Sales Floor",
+        "Vault"
       ],
-      "quantity": 1.0,
+      "quantity": 25.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -7502,6 +7503,13 @@
       "totalTerps": null,
       "dominantTerpene": null,
       "packages": [
+        {
+          "id": 9331057,
+          "label": "1A40303000001F5000482487",
+          "quantity": 24.0,
+          "packagedDate": "2026-11-24",
+          "expirationDate": "2027-09-29"
+        },
         {
           "id": 9304702,
           "label": "1A40303000001F5000318349",
@@ -20583,7 +20591,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 8.0,
+      "quantity": 7.0,
       "unit": "Each",
       "strainName": null,
       "strainType": null,
@@ -20624,7 +20632,7 @@
         {
           "id": 9039608,
           "label": "1A40303000001F5000450414",
-          "quantity": 8.0,
+          "quantity": 7.0,
           "packagedDate": "2026-09-23",
           "expirationDate": "2027-08-17"
         }
@@ -40460,7 +40468,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 2.0,
+      "quantity": 1.0,
       "unit": "Each",
       "strainName": "Golden Pineapple",
       "strainType": null,
@@ -40495,7 +40503,7 @@
         {
           "id": 9265934,
           "label": "1A40303000001F5000476089",
-          "quantity": 2.0,
+          "quantity": 1.0,
           "packagedDate": "2026-11-11",
           "expirationDate": "2027-09-28"
         }
@@ -52422,7 +52430,7 @@
       "locations": [
         "Vault"
       ],
-      "quantity": 22.0,
+      "quantity": 21.0,
       "unit": "Each",
       "strainName": "Rainbow Sherbert",
       "strainType": "Hybrid",
@@ -52456,7 +52464,7 @@
         {
           "id": 9233705,
           "label": "1A40303000003EA000176075",
-          "quantity": 22.0,
+          "quantity": 21.0,
           "packagedDate": "2026-11-05",
           "expirationDate": "2027-09-28"
         }
@@ -53838,7 +53846,7 @@
       "locations": [
         "Sales Floor"
       ],
-      "quantity": 5.0,
+      "quantity": 4.0,
       "unit": "Each",
       "strainName": "Blue Raz Haze",
       "strainType": null,
@@ -53872,7 +53880,7 @@
         {
           "id": 9018209,
           "label": "1A40303000017D5000107155",
-          "quantity": 5.0,
+          "quantity": 4.0,
           "packagedDate": "2026-09-10",
           "expirationDate": "2027-09-10"
         }
